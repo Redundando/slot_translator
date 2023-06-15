@@ -1,6 +1,6 @@
 # slot_translator
 
-IDE to un the program: [Pycharm](https://www.jetbrains.com/pycharm/download/)
+Best IDE to run the program: [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 There are several python scripts in this project:
 
