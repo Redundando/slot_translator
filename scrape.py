@@ -1,0 +1,115 @@
+from urllib.request import Request, urlopen
+import requests
+from bs4 import BeautifulSoup
+import os
+from urllib.parse import urlsplit
+import json
+import unicodedata
+import re
+
+def slugify(value, allow_unicode=False):
+    """
+    Taken from https://github.com/django/django/blob/master/django/utils/text.py
+    Convert to ASCII if 'allow_unicode' is False. Convert spaces or repeated
+    dashes to single dashes. Remove characters that aren't alphanumerics,
+    underscores, or hyphens. Convert to lowercase. Also strip leading and
+    trailing whitespace, dashes, and underscores.
+    """
+    value = str(value)
+    if allow_unicode:
+        value = unicodedata.normalize('NFKC', value)
+    else:
+        value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode('ascii')
+    value = re.sub(r'[^\w\s-]', '', value.lower())
+    return re.sub(r'[-\s]+', '-', value).strip('-_')
+
+
+def get_filename_from_url(url=None):
+    if url is None:
+        return None
+    urlpath = urlsplit(url).path
+    return os.path.basename(urlpath)
+
+
+def load_url(url="") -> BeautifulSoup:
+    request_site = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    webpage = urlopen(request_site).read()
+    return BeautifulSoup(webpage, 'html.parser')
+
+
+def load_games_for_studio(url="https://www.slotjava.it/software/netent/"):
+    soup = load_url(url)
+    cards = soup.find_all("a", class_="card_plain")
+    games = []
+    for card in cards:
+        name = card.find("h3").text
+        href = card["href"]
+        games.append({"name": name, "href": href})
+    print(games)
+
+
+def download_images(soup: BeautifulSoup) -> []:
+    result = []
+    images = soup.find_all("img")
+    for image in images:
+        image_info = {}
+        image_info["alt"] = image.get("alt")
+        image_info["src"] = image.get("src")
+        if image_info["src"]:
+            r = requests.get(image_info["src"])
+            filename = get_filename_from_url(image_info["src"])
+            if filename:
+                with open("images/" + filename, "wb") as f:
+                    print(f"Downloading image f{filename}")
+                    f.write(r.content)
+            image_info["filename"] = filename
+        result.append(image_info)
+    return result
+
+
+def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
+    print(f"Retrieving game review {url}")
+    review = {}
+    soup = load_url(url)
+    article = soup.find("article")
+    author_info = article.find(class_="author-footer")
+    author_info.decompose()
+    studio = soup.find("div", {"id": "softwareTracker"})
+    if studio:
+        review["studio"] = studio.get("data-software")
+    else:
+        review["studio"] = None
+    review["text"] = article.text
+    review["images"] = download_images(article)
+    ft_image = soup.find("img", class_="review__slot-image")
+    review["featured_image"] = download_images(ft_image.parent)
+    review["name"] = soup.find("h1").text
+    return review
+
+def save_game_review(language="it", url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
+    review = get_game_review(url)
+    filename = "game_reviews/"+language+"/"+slugify(review["name"])+".json"
+    with open(filename, "w", encoding='utf8') as f:
+        print(f"Saving {filename}")
+        json.dump(review, f, indent=4, ensure_ascii=False)
+
+def load_all_game_urls(url="https://www.slotjava.it/sitemap/"):
+    soup = load_url(url)
+    links = soup.find_all("a", class_="sitemap__link")
+    game_urls = []
+    for link in links:
+        href = link.get("href")
+        if "/slot/" in href:
+            game_urls.append(href)
+    return game_urls
+
+def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitemap/"):
+    game_urls = load_all_game_urls(sitemap)
+    for game_url in game_urls:
+        if game_url >= "https://www.slotjava.it/slot/double-diamond/":
+            save_game_review(language,game_url)
+
+if __name__ == '__main__':
+    save_all_game_reviews()
+    #save_game_review(url="https://www.slotjava.it/slot/double-diamond/")
+    #print("https://www.slotjava.it/slot/double-diamond/" > "hh")
