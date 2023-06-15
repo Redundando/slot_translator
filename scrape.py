@@ -99,8 +99,7 @@ def load_all_game_urls(url="https://www.slotjava.it/sitemap/"):
 def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitemap/"):
     game_urls = load_all_game_urls(sitemap)
     for game_url in game_urls:
-        if game_url >= "https://www.slotjava.it/slot/double-diamond/":
-            save_game_review(language,game_url)
+        save_game_review(language,game_url)
 
 if __name__ == '__main__':
     save_all_game_reviews()
