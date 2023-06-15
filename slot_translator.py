@@ -311,40 +311,41 @@ Review: {self.raw_translation}
         self.generate_docx(attempts=2)
 
 
-text = """
-La slot machine Cold Spell è fredda in più di un modo. Un trio di potenti personaggi fanno sentire la loro presenza su cinque rulli e tre file, creando vittorie fino a 9.000x la tua linea di scommessa. Sarete anche ricompensati per l’abbinamento di carte da gioco, tiare, mappe e scrigni del tesoro attraverso i rulli ricoperti di ghiaccio.
+if __name__ == '__main__':
+    text = """
+    La slot machine Cold Spell è fredda in più di un modo. Un trio di potenti personaggi fanno sentire la loro presenza su cinque rulli e tre file, creando vittorie fino a 9.000x la tua linea di scommessa. Sarete anche ricompensati per l’abbinamento di carte da gioco, tiare, mappe e scrigni del tesoro attraverso i rulli ricoperti di ghiaccio.
+    
+    Una percentuale di vincita del 95,05% e un’azione ad alta varianza suggerisce che avrete bisogno di ghiaccio nelle vostre vene per far girare queste bobine. Tuttavia, le scommesse partono da soli 0,10 crediti per rotazione, e Novomatic ha gentilmente incluso un paio di caratteristiche bonus che possono fornire vittorie di proporzioni davvero epiche.
+    
+    Una grafica fantasy e gelida
+    Disponibile per giocare nei casinò online che offrono il software di Novomatic, il gioco di slot machine Cold Spell vi trasporta in un regno medievale. Il nobile re vi ha chiesto di rompere l’incantesimo che un angelo di ghiaccio ha posto sulla terra. Per farlo, dovrete localizzare il Mago del Fuoco e convincerlo a sventolare la sua bacchetta magica. Le montagne innevate sullo sfondo evidenziano il pericoloso viaggio che affrontate.
+    
+    Un rapido sguardo alla tabella dei pagamenti di questa slot a tema fantasy mostra che i simboli delle carte da gioco da Asso a 9 pagano meno. Questi simboli sono seguiti da una mappa, un diadema e un forziere del tesoro. Tuttavia, sono i personaggi che danno vita alla slot online Cold Spell. Il re e l’angelo di ghiaccio pagano lo stesso, con il Mago del Fuoco che riscalda le cose con vittorie fino a 9.000x la tua scommessa.
+    
+    La nostra recensione della slot Cold Spell ha rivelato che le vincite sono calcolate su 10 linee di pagamento. Anche se avrai le dita intirizzite dal freddo, non avrai impedimento nel far girare questi rulli ricoperti di ghiaccio. I valori delle monete vanno da 0,01 a 1, con un massimo di 10 monete che possono essere puntate su ogni linea di pagamento. Questo significa che potete sfidare le temperature sotto zero a partire da 0,10 crediti, mentre chi ha le tasche più profonde può scommettere un massimo di 100 crediti per giro.
+    
+    Avvolgetevi al caldo e preparatevi per una sessione volatile. Novomatic ha confermato che il ritorno al giocatore (RTP) della slot machine Cold Spell è piuttosto basso al 95,05%. Il gigante austriaco del gioco d’azzardo ha anche rivelato che questa è una slot online ad alta volatilità. Tuttavia, con vincite fino a 9.000x la vostra linea di scommesse in offerta, come potreste rifiutare un viaggio in questo regno medievale?
+    
+    Funzioni e simboli della Slot Machine
+    Il Mago del Fuoco è la chiave per sperimentare le migliori caratteristiche delle slot machine quando si gioca alla slot Cold Spell online. Non solo il Mago del Fuoco consegna vittorie fino a 9.000x la vostra scommessa di linea come simbolo del gioco che paga di più, ma rappresenta anche il simbolo Wild. Il Mago del Fuoco audace e bello può sostituire tutti i simboli eccetto gli Scatter. Ancora più importante, raddoppia le vittorie quando sostituisce.
+    
+    La sua bacchetta magica rappresenta il simbolo Scatter. Riceverai 5x, 20x, o 500x la tua puntata ogni volta che atterrerai tre, quattro, o cinque simboli scatter, rispettivamente. Il Mago del Fuoco assegnerà anche 15 giochi gratuiti con tutte le vittorie moltiplicate per 3x. I Respins sono possibili quando sbloccate i giochi gratuiti nella slot online Cold Spell, quindi tenete le dita di ghiaccio incrociate nella speranza di trovare un sacco di bacchette magiche sui rulli.
+    
+    Si può dire con certezza che il nostro team di recensori di Cold Spell è stato lasciato spiazzato da questo epico rilascio di Novomatic.
+    
+    Le immagini mozzafiato danno vita a un trio di personaggi quando si gioca alla slot machine Cold Spell. Spererete che il Mago del Fuoco vi onori con la sua presenza su una base frequente di vittorie fino a 9.000x la vostra linea di scommessa. È fantastica la possibilità di sostituire tutti i simboli con quello Wild, ma è la caratteristica dei giochi gratuiti che alza davvero il tiro. Il fatto che tutte le vincite siano triplicate rende questa caratteristica incredibilmente eccitante.
+    
+    Altre Slot Machine simili
+    Dopo aver giocato a Cold Spell gratuitamente, perché non far girare i rulli di Magic Portal di NetEnt? Streghe, stregoni, stregoni e maghi mostrano il loro potere su cinque rulli e 25 linee di pagamento creando vittorie fino a 64.000 monete. Fidatevi di noi, non vi stancherete mai delle vittorie elettriche rese possibili da rotazioni selvagge e giri gratis.
+    
+    Per un po’ di divertimento con fate e draghi, date un’occhiata alla Slot Fantasy Realm di Amaya. Questa slot a cinque rulli e 25 linee di pagamento vanta animazioni che sono impressionanti quanto le sue caratteristiche bonus. Una regina degli elfi può sbattere il suo bastone a terra per innescare 25 giri gratis con tutte le vittorie raddoppiate. Si può anche vincere il Movie Mayhem Jackpot.
+    
+    
+    
+    
+    """
 
-Una percentuale di vincita del 95,05% e un’azione ad alta varianza suggerisce che avrete bisogno di ghiaccio nelle vostre vene per far girare queste bobine. Tuttavia, le scommesse partono da soli 0,10 crediti per rotazione, e Novomatic ha gentilmente incluso un paio di caratteristiche bonus che possono fornire vittorie di proporzioni davvero epiche.
-
-Una grafica fantasy e gelida
-Disponibile per giocare nei casinò online che offrono il software di Novomatic, il gioco di slot machine Cold Spell vi trasporta in un regno medievale. Il nobile re vi ha chiesto di rompere l’incantesimo che un angelo di ghiaccio ha posto sulla terra. Per farlo, dovrete localizzare il Mago del Fuoco e convincerlo a sventolare la sua bacchetta magica. Le montagne innevate sullo sfondo evidenziano il pericoloso viaggio che affrontate.
-
-Un rapido sguardo alla tabella dei pagamenti di questa slot a tema fantasy mostra che i simboli delle carte da gioco da Asso a 9 pagano meno. Questi simboli sono seguiti da una mappa, un diadema e un forziere del tesoro. Tuttavia, sono i personaggi che danno vita alla slot online Cold Spell. Il re e l’angelo di ghiaccio pagano lo stesso, con il Mago del Fuoco che riscalda le cose con vittorie fino a 9.000x la tua scommessa.
-
-La nostra recensione della slot Cold Spell ha rivelato che le vincite sono calcolate su 10 linee di pagamento. Anche se avrai le dita intirizzite dal freddo, non avrai impedimento nel far girare questi rulli ricoperti di ghiaccio. I valori delle monete vanno da 0,01 a 1, con un massimo di 10 monete che possono essere puntate su ogni linea di pagamento. Questo significa che potete sfidare le temperature sotto zero a partire da 0,10 crediti, mentre chi ha le tasche più profonde può scommettere un massimo di 100 crediti per giro.
-
-Avvolgetevi al caldo e preparatevi per una sessione volatile. Novomatic ha confermato che il ritorno al giocatore (RTP) della slot machine Cold Spell è piuttosto basso al 95,05%. Il gigante austriaco del gioco d’azzardo ha anche rivelato che questa è una slot online ad alta volatilità. Tuttavia, con vincite fino a 9.000x la vostra linea di scommesse in offerta, come potreste rifiutare un viaggio in questo regno medievale?
-
-Funzioni e simboli della Slot Machine
-Il Mago del Fuoco è la chiave per sperimentare le migliori caratteristiche delle slot machine quando si gioca alla slot Cold Spell online. Non solo il Mago del Fuoco consegna vittorie fino a 9.000x la vostra scommessa di linea come simbolo del gioco che paga di più, ma rappresenta anche il simbolo Wild. Il Mago del Fuoco audace e bello può sostituire tutti i simboli eccetto gli Scatter. Ancora più importante, raddoppia le vittorie quando sostituisce.
-
-La sua bacchetta magica rappresenta il simbolo Scatter. Riceverai 5x, 20x, o 500x la tua puntata ogni volta che atterrerai tre, quattro, o cinque simboli scatter, rispettivamente. Il Mago del Fuoco assegnerà anche 15 giochi gratuiti con tutte le vittorie moltiplicate per 3x. I Respins sono possibili quando sbloccate i giochi gratuiti nella slot online Cold Spell, quindi tenete le dita di ghiaccio incrociate nella speranza di trovare un sacco di bacchette magiche sui rulli.
-
-Si può dire con certezza che il nostro team di recensori di Cold Spell è stato lasciato spiazzato da questo epico rilascio di Novomatic.
-
-Le immagini mozzafiato danno vita a un trio di personaggi quando si gioca alla slot machine Cold Spell. Spererete che il Mago del Fuoco vi onori con la sua presenza su una base frequente di vittorie fino a 9.000x la vostra linea di scommessa. È fantastica la possibilità di sostituire tutti i simboli con quello Wild, ma è la caratteristica dei giochi gratuiti che alza davvero il tiro. Il fatto che tutte le vincite siano triplicate rende questa caratteristica incredibilmente eccitante.
-
-Altre Slot Machine simili
-Dopo aver giocato a Cold Spell gratuitamente, perché non far girare i rulli di Magic Portal di NetEnt? Streghe, stregoni, stregoni e maghi mostrano il loro potere su cinque rulli e 25 linee di pagamento creando vittorie fino a 64.000 monete. Fidatevi di noi, non vi stancherete mai delle vittorie elettriche rese possibili da rotazioni selvagge e giri gratis.
-
-Per un po’ di divertimento con fate e draghi, date un’occhiata alla Slot Fantasy Realm di Amaya. Questa slot a cinque rulli e 25 linee di pagamento vanta animazioni che sono impressionanti quanto le sue caratteristiche bonus. Una regina degli elfi può sbattere il suo bastone a terra per innescare 25 giri gratis con tutte le vittorie raddoppiate. Si può anche vincere il Movie Mayhem Jackpot.
 
 
-
-
-"""
-
-
-
-a = ReviewTranslator(output_directory="game_reviews/translations", thing_name="Cold Spell", text=text, mode="translate", remove_faq=True)
-a.run_all()
+    a = ReviewTranslator(output_directory="game_reviews/translations", thing_name="Cold Spell", text=text, mode="translate", remove_faq=True)
+    a.run_all(force_new=True)

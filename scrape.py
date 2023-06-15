@@ -8,13 +8,6 @@ import unicodedata
 import re
 
 def slugify(value, allow_unicode=False):
-    """
-    Taken from https://github.com/django/django/blob/master/django/utils/text.py
-    Convert to ASCII if 'allow_unicode' is False. Convert spaces or repeated
-    dashes to single dashes. Remove characters that aren't alphanumerics,
-    underscores, or hyphens. Convert to lowercase. Also strip leading and
-    trailing whitespace, dashes, and underscores.
-    """
     value = str(value)
     if allow_unicode:
         value = unicodedata.normalize('NFKC', value)
@@ -111,5 +104,3 @@ def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitema
 
 if __name__ == '__main__':
     save_all_game_reviews()
-    #save_game_review(url="https://www.slotjava.it/slot/double-diamond/")
-    #print("https://www.slotjava.it/slot/double-diamond/" > "hh")

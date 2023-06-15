@@ -110,14 +110,3 @@ class TextManipulator:
             result = self.run_chat_gpt()
 
         return result
-
-
-"""
-a = TextManipulator(filename="game_reviews/translations/test.json")
-for i in range(1, 20):
-    a.new_task(task_name="haiku",
-               prompt="Provide your answer in JSON form. Reply with only the answer in JSON form and include no other commentary. Respond with a JSON object with two keys: 'tennis' (string, A haiku about tennis), 'football' (string, A haiku about football)",
-               version=i, force_new=True, json_response=True)
-    a.run_task()
-    a.save_file()
-"""

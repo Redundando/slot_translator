@@ -3,7 +3,7 @@ import traceback
 
 class ChatGpt:
 
-    API_KEY = "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"
+    API_KEY = "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"
     MAX_TOKENS = 4097 - 100
     ATTEMPTS = 3
 
