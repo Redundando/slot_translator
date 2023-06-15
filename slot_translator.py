@@ -1,10 +1,11 @@
 import json
 import os
 
+from docx import Document
+from htmldocx import HtmlToDocx
+
 from scrape import slugify
 from text_manipulator import TextManipulator
-from htmldocx import HtmlToDocx
-from docx import Document
 
 
 def open_file(filename):
@@ -170,7 +171,8 @@ Below is a JSON with the text for a sub section of this review.
     def expand_review(self, attempts=1, force_new=False):
         for i in range(min(attempts, len(self.review_with_topics))):
             tone = "funny"
-            if (i == 2): tone = "professional"
+            if (i == 2):
+                tone = "professional"
             for review_item in self.review_with_topics[i]:
                 self.expand_review_item(review_item=review_item, force_new=force_new, version=(i + 1),
                                         tone_of_voice=tone)
@@ -283,7 +285,7 @@ Review: {self.raw_translation}
             for con in self.meta[i].get("cons"):
                 html += f"<li>{con}</li>"
             html += "</ul>"
-            html+=f"<p><i>{self.dalle_prompt}</i></p>"
+            html += f"<p><i>{self.dalle_prompt}</i></p>"
 
             result.append(html)
         return result
@@ -312,6 +314,7 @@ Review: {self.raw_translation}
 
 
 if __name__ == '__main__':
+    slot_name = "Cold Spell"
     text = """
     La slot machine Cold Spell è fredda in più di un modo. Un trio di potenti personaggi fanno sentire la loro presenza su cinque rulli e tre file, creando vittorie fino a 9.000x la tua linea di scommessa. Sarete anche ricompensati per l’abbinamento di carte da gioco, tiare, mappe e scrigni del tesoro attraverso i rulli ricoperti di ghiaccio.
     
@@ -345,7 +348,5 @@ if __name__ == '__main__':
     
     """
 
-
-
-    a = ReviewTranslator(output_directory="game_reviews/translations", thing_name="Cold Spell", text=text, mode="translate", remove_faq=True)
-    a.run_all(force_new=True)
+    a = ReviewTranslator(output_directory="game_reviews/translations", thing_name=slot_name, text=text, mode="translate", remove_faq=True)
+    a.run_all(force_new=False)

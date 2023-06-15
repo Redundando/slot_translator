@@ -1,10 +1,9 @@
 from slot_translator import ReviewTranslator
+from scrape import save_game_review
 import json
 import os
 
 if __name__ == '__main__':
-
-
     task = """
     https://www.slotjava.it/slot/book-of-ra-deluxe/
     https://www.slotjava.it/slot/sphinx/
@@ -110,9 +109,10 @@ if __name__ == '__main__':
     urls = task.split("\n")
     urls = [u for u in urls if u != ""]
 
-    for u in urls:
-        slug = u.split("/")[-2]
+    for url in urls:
+        slug = url.split("/")[-2]
         filename = f"game_reviews/it/{slug}.json"
+        save_game_review("it", url)
         if not os.path.exists(filename):
             continue
         f = open(filename, encoding="utf8")
