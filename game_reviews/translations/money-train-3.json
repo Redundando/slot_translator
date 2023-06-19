@@ -1,0 +1,815 @@
+{
+    "original_text": "\nMoney Train 3\n\n",
+    "raw_translation": [
+        {
+            "version": 1,
+            "response": "Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"",
+            "role": "You are an experienced translator from any language to English.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\nCan you please translate it into english?\nUse style transfer to make the translated text suitable for experienced gamblers.\n        \n\nMoney Train 3\n\n\n        ",
+            "log": {
+                "id": "chatcmpl-7QLmlS1KYNxsCWlodezQzIZbSTt6V",
+                "object": "chat.completion",
+                "created": 1686514627,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 68,
+                    "completion_tokens": 382,
+                    "total_tokens": 450
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\""
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        },
+        {
+            "version": 2,
+            "response": "\"Money Train 3\" is a top-notch slot game that guarantees non-stop entertainment and excitement for gambling aficionados. With its impressive graphics and smooth gameplay, this game is the perfect choice for those who crave the thrill of high-stakes gambling. The reels are packed with a variety of symbols, each of which offers the chance to win big. But the real highlight of the game is the Money Cart Bonus Feature, which rewards lucky players with even more riches. This game is a must-try for any experienced gambler looking for a new challenge. Don't miss out on the chance to ride the \"Money Train 3\" and win big!",
+            "role": "You are an experienced translator from any language to English.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\nCan you please translate it into english?\nUse style transfer to make the translated text suitable for experienced gamblers.\n        \n\nMoney Train 3\n\n\n        ",
+            "log": {
+                "id": "chatcmpl-7QLmxkXKmiyx6cSFKgTvRedBetz6g",
+                "object": "chat.completion",
+                "created": 1686514639,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 68,
+                    "completion_tokens": 131,
+                    "total_tokens": 199
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "\"Money Train 3\" is a top-notch slot game that guarantees non-stop entertainment and excitement for gambling aficionados. With its impressive graphics and smooth gameplay, this game is the perfect choice for those who crave the thrill of high-stakes gambling. The reels are packed with a variety of symbols, each of which offers the chance to win big. But the real highlight of the game is the Money Cart Bonus Feature, which rewards lucky players with even more riches. This game is a must-try for any experienced gambler looking for a new challenge. Don't miss out on the chance to ride the \"Money Train 3\" and win big!"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "raw_translation_without_faq": [
+        {
+            "version": 1,
+            "response": "As an experienced writer in the field of online slot games, I can say that this review effectively highlights the exciting features of Money Train 3. The use of adjectives like \"incredible\" and \"stunning\" capture the attention of potential players and create an impression of a high-quality game. The mention of \"multipliers\" and \"special features\" can appeal to those gamblers who are looking for more than just the traditional slot game mechanics. Additionally, the reference to the \"thrilling soundtrack\" shows that the game has been designed to create an immersive experience for players. Overall, this review offers a persuasive argument for why Money Train 3 is worth a try for those who are experienced in the world of online gambling.",
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a text about the slot game \"Money Train 3\".\nPlease remove any part of the text that is like an FAQ.\n\nOriginal review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n        ",
+            "log": {
+                "id": "chatcmpl-7QLn1iA5CW458k3Vw4uISldA67PjO",
+                "object": "chat.completion",
+                "created": 1686514643,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 437,
+                    "completion_tokens": 147,
+                    "total_tokens": 584
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "As an experienced writer in the field of online slot games, I can say that this review effectively highlights the exciting features of Money Train 3. The use of adjectives like \"incredible\" and \"stunning\" capture the attention of potential players and create an impression of a high-quality game. The mention of \"multipliers\" and \"special features\" can appeal to those gamblers who are looking for more than just the traditional slot game mechanics. Additionally, the reference to the \"thrilling soundtrack\" shows that the game has been designed to create an immersive experience for players. Overall, this review offers a persuasive argument for why Money Train 3 is worth a try for those who are experienced in the world of online gambling."
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "topics": [
+        {
+            "version": 1,
+            "response": {
+                "topics": [
+                    "Special features",
+                    "Multipliers",
+                    "Game mechanics",
+                    "Game design",
+                    "Soundtrack"
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\n\n- Please list the 5 most important topics covered\n- Order topics by importance\n- Answer with a JSON with the single key \"topics\"\n\nAs an experienced writer in the field of online slot games, I can say that this review effectively highlights the exciting features of Money Train 3. The use of adjectives like \"incredible\" and \"stunning\" capture the attention of potential players and create an impression of a high-quality game. The mention of \"multipliers\" and \"special features\" can appeal to those gamblers who are looking for more than just the traditional slot game mechanics. Additionally, the reference to the \"thrilling soundtrack\" shows that the game has been designed to create an immersive experience for players. Overall, this review offers a persuasive argument for why Money Train 3 is worth a try for those who are experienced in the world of online gambling.\n        ",
+            "log": {
+                "id": "chatcmpl-7QLn6gfidby8kIer9jYyjYp4IF4jZ",
+                "object": "chat.completion",
+                "created": 1686514648,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 218,
+                    "completion_tokens": 23,
+                    "total_tokens": 241
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"topics\": [\"Special features\", \"Multipliers\", \"Game mechanics\", \"Game design\", \"Soundtrack\"]}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        },
+        {
+            "version": 2,
+            "response": {
+                "topics": [
+                    "special features",
+                    "multipliers",
+                    "immersive experience",
+                    "high-quality design",
+                    "appealing gameplay"
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\n\n- Please list the 5 most important topics covered\n- Order topics by importance\n- Answer with a JSON with the single key \"topics\"\n\nAs an experienced writer in the field of online slot games, I can say that this review effectively highlights the exciting features of Money Train 3. The use of adjectives like \"incredible\" and \"stunning\" capture the attention of potential players and create an impression of a high-quality game. The mention of \"multipliers\" and \"special features\" can appeal to those gamblers who are looking for more than just the traditional slot game mechanics. Additionally, the reference to the \"thrilling soundtrack\" shows that the game has been designed to create an immersive experience for players. Overall, this review offers a persuasive argument for why Money Train 3 is worth a try for those who are experienced in the world of online gambling.\n        ",
+            "log": {
+                "id": "chatcmpl-7QLn7EYcQFMcySSPhyGgZLx98jCg1",
+                "object": "chat.completion",
+                "created": 1686514649,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 218,
+                    "completion_tokens": 26,
+                    "total_tokens": 244
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"topics\": [\"special features\", \"multipliers\", \"immersive experience\", \"high-quality design\", \"appealing gameplay\"]}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "review_with_topics": [
+        {
+            "version": 1,
+            "response": [
+                {
+                    "headline": "Special Features",
+                    "content": "Money Train 3 offers an abundance of special features that take gameplay to the next level. One unique feature is the Money Cart Bonus Round, which is triggered by landing three bonus symbols on the reels. During this round, players can earn various prizes, including cash values, bonuses, and more. Another special feature is the Buy Feature, which allows players to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay."
+                },
+                {
+                    "headline": "Multipliers",
+                    "content": "One of the most exciting aspects of Money Train 3 is the use of multipliers. Multipliers are symbols that can appear on the reels and multiply the player's bet, leading to significant winnings. These multipliers can also stack up and multiply each other, resulting in massive rewards. The game features various multipliers, including regular, persistent, and bonus multipliers."
+                },
+                {
+                    "headline": "Game Mechanics",
+                    "content": "Money Train 3 is a five-reel slot game that offers up to 40 paylines. Players can adjust their bet size by selecting the coin value and the number of coins they want to wager per spin. The game has an average RTP of 96.2%, which means players can expect to win back $96.20 for every $100 they wager. Additionally, the game offers an autospin feature that allows players to set the number of spins they want to play automatically."
+                },
+                {
+                    "headline": "Game Design",
+                    "content": "Money Train 3 features a captivating design that immerses players in the world of gambling. The graphics are top-notch, with high-quality visual effects that bring the game to life. The symbols on the reels include various characters and items related to the Wild West, such as guns, hats, and bags of gold. The game's interface is user-friendly, with easy-to-navigate menus and controls that make playing a breeze."
+                },
+                {
+                    "headline": "Soundtrack",
+                    "content": "Money Train 3's soundtrack is a masterpiece that sets the tone for an epic gambling adventure. The music is intense and suspenseful, adding to the excitement of the game. The sound effects are also noteworthy, with realistic audio cues that enhance the gameplay experience. Overall, the soundtrack is a significant part of what makes Money Train 3 an excellent game for gamblers."
+                }
+            ],
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\n\nPlease, rewrite the review in a neutral tone of voice. Write subsections covering only the following topics:\n\nSpecial features\nMultipliers\nGame mechanics\nGame design\nSoundtrack\n\n- The review must be very detailed\n- No FAQ\n- No Notes\n- Respond with a JSON array, one item per topic (use the keys \"headline\" and \"content\")\n\nReview: Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n            ",
+            "log": {
+                "id": "chatcmpl-7QLn8epX5Aqvklj6hfZapCrYR1LRy",
+                "object": "chat.completion",
+                "created": 1686514650,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 500,
+                    "completion_tokens": 508,
+                    "total_tokens": 1008
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "[\n  {\n    \"headline\": \"Special Features\",\n    \"content\": \"Money Train 3 offers an abundance of special features that take gameplay to the next level. One unique feature is the Money Cart Bonus Round, which is triggered by landing three bonus symbols on the reels. During this round, players can earn various prizes, including cash values, bonuses, and more. Another special feature is the Buy Feature, which allows players to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay.\"\n  },\n  {\n    \"headline\": \"Multipliers\",\n    \"content\": \"One of the most exciting aspects of Money Train 3 is the use of multipliers. Multipliers are symbols that can appear on the reels and multiply the player's bet, leading to significant winnings. These multipliers can also stack up and multiply each other, resulting in massive rewards. The game features various multipliers, including regular, persistent, and bonus multipliers.\"\n  },\n  {\n    \"headline\": \"Game Mechanics\",\n    \"content\": \"Money Train 3 is a five-reel slot game that offers up to 40 paylines. Players can adjust their bet size by selecting the coin value and the number of coins they want to wager per spin. The game has an average RTP of 96.2%, which means players can expect to win back $96.20 for every $100 they wager. Additionally, the game offers an autospin feature that allows players to set the number of spins they want to play automatically.\"\n  },\n  {\n    \"headline\": \"Game Design\",\n    \"content\": \"Money Train 3 features a captivating design that immerses players in the world of gambling. The graphics are top-notch, with high-quality visual effects that bring the game to life. The symbols on the reels include various characters and items related to the Wild West, such as guns, hats, and bags of gold. The game's interface is user-friendly, with easy-to-navigate menus and controls that make playing a breeze.\"\n  },\n  {\n    \"headline\": \"Soundtrack\",\n    \"content\": \"Money Train 3's soundtrack is a masterpiece that sets the tone for an epic gambling adventure. The music is intense and suspenseful, adding to the excitement of the game. The sound effects are also noteworthy, with realistic audio cues that enhance the gameplay experience. Overall, the soundtrack is a significant part of what makes Money Train 3 an excellent game for gamblers.\"\n  }\n]"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        },
+        {
+            "version": 2,
+            "response": [
+                {
+                    "headline": "Special Features",
+                    "content": "Money Train 3 has a variety of special features that make the game much more exciting. The game has wilds and scatters which trigger certain bonuses, including respins, win multipliers and free spins. When you get these special features, the game becomes much more interesting and rewarding."
+                },
+                {
+                    "headline": "Multipliers",
+                    "content": "One of the special features in Money Train 3 is the multiplier feature. This feature can multiply your winnings significantly, and it's fun to anticipate what your next multiplier will be. The multiplier feature is one of the most exciting parts of the game."
+                },
+                {
+                    "headline": "Immersive Experience",
+                    "content": "Money Train 3 has exceptional graphics and a thrilling soundtrack that contributes to an immersive experience. The sound effects and music take you to a different world, adding to the overall excitement of the game. The game also has a great user interface that's easy to understand."
+                },
+                {
+                    "headline": "High-Quality Design",
+                    "content": "The visuals for Money Train 3 are impressive. The game has detailed and high-quality graphics that make it clear to see exactly what's going on. The game also runs smoothly, so you don't have to worry about lagging or glitching. The game has excellent designs that contribute to an enjoyable gameplay experience."
+                },
+                {
+                    "headline": "Appealing Gameplay",
+                    "content": "Money Train 3 has a unique and appealing gameplay that keeps players engaged. The game has various special features and bonuses that make every spin exciting. The game also has an adjustable bet option, so players can choose their bet level depending on their preferences. Overall, Money Train 3 has a great gameplay experience that makes it appealing to both experienced and new gamblers."
+                }
+            ],
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review for the slot game \"Money Train 3\".\n\nPlease, rewrite the review in a neutral tone of voice. Write subsections covering only the following topics:\n\nspecial features\nmultipliers\nimmersive experience\nhigh-quality design\nappealing gameplay\n\n- The review must be very detailed\n- No FAQ\n- No Notes\n- Respond with a JSON array, one item per topic (use the keys \"headline\" and \"content\")\n\nReview: Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n            ",
+            "log": {
+                "id": "chatcmpl-7QLnN4HiNFszNeCDbgqEIbwCFPC2f",
+                "object": "chat.completion",
+                "created": 1686514665,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 503,
+                    "completion_tokens": 399,
+                    "total_tokens": 902
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "[\n\t{\n\t\t\"headline\": \"Special Features\",\n\t\t\"content\": \"Money Train 3 has a variety of special features that make the game much more exciting. The game has wilds and scatters which trigger certain bonuses, including respins, win multipliers and free spins. When you get these special features, the game becomes much more interesting and rewarding.\"\n\t},\n\t{\n\t\t\"headline\": \"Multipliers\",\n\t\t\"content\": \"One of the special features in Money Train 3 is the multiplier feature. This feature can multiply your winnings significantly, and it's fun to anticipate what your next multiplier will be. The multiplier feature is one of the most exciting parts of the game.\"\n\t},\n\t{\n\t\t\"headline\": \"Immersive Experience\",\n\t\t\"content\": \"Money Train 3 has exceptional graphics and a thrilling soundtrack that contributes to an immersive experience. The sound effects and music take you to a different world, adding to the overall excitement of the game. The game also has a great user interface that's easy to understand.\"\n\t},\n\t{\n\t\t\"headline\": \"High-Quality Design\",\n\t\t\"content\": \"The visuals for Money Train 3 are impressive. The game has detailed and high-quality graphics that make it clear to see exactly what's going on. The game also runs smoothly, so you don't have to worry about lagging or glitching. The game has excellent designs that contribute to an enjoyable gameplay experience.\"\n\t},\n\t{\n\t\t\"headline\": \"Appealing Gameplay\",\n\t\t\"content\": \"Money Train 3 has a unique and appealing gameplay that keeps players engaged. The game has various special features and bonuses that make every spin exciting. The game also has an adjustable bet option, so players can choose their bet level depending on their preferences. Overall, Money Train 3 has a great gameplay experience that makes it appealing to both experienced and new gamblers.\"\n\t}\n]"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_special-features_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Special Features</h2>",
+                "content": "<p>If you're looking for a casino slot game with an abundance of special features, look no further than Money Train 3! This game has a ton of unique offerings that take gameplay to the next level, giving you an unforgettable experience that you'll come back to time and time again. One standout feature is the Money Cart Bonus Round. Triggered by landing three bonus symbols on the reels, this round takes you to a whole new level, where you can earn various prizes, including cash values, bonuses, and more. There's nothing better than seeing those bonus symbols line up and knowing that you're in for a treat.</p> \n\n   <p>But that's not all! Another great special feature of this game is the Buy Feature. As the name suggests, this feature allows you to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay. This is a great option for those times when you're feeling particularly impatient - or when you're just really confident that you're about to win big! It's like a VIP pass to the best part of the game, and it's definitely worth trying out if you're a fan of slot games.</p> \n\n   <p>Overall, Money Train 3 is a superb example of what a slot game can be. With so many unique features and gameplay options, it's impossible to get bored with this one. So what are you waiting for? Hop on board the Money Train and see how much you can win!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Special Features', 'content': 'Money Train 3 offers an abundance of special features that take gameplay to the next level. One unique feature is the Money Cart Bonus Round, which is triggered by landing three bonus symbols on the reels. During this round, players can earn various prizes, including cash values, bonuses, and more. Another special feature is the Buy Feature, which allows players to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay.'}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLnZZWgBSNZWP8WzwQ1Wmg0NhUcG",
+                "object": "chat.completion",
+                "created": 1686514677,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 226,
+                    "completion_tokens": 326,
+                    "total_tokens": 552
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n   \"headline\": \"<h2>Special Features</h2>\",\n   \"content\": \"<p>If you're looking for a casino slot game with an abundance of special features, look no further than Money Train 3! This game has a ton of unique offerings that take gameplay to the next level, giving you an unforgettable experience that you'll come back to time and time again. One standout feature is the Money Cart Bonus Round. Triggered by landing three bonus symbols on the reels, this round takes you to a whole new level, where you can earn various prizes, including cash values, bonuses, and more. There's nothing better than seeing those bonus symbols line up and knowing that you're in for a treat.</p> \n\n   <p>But that's not all! Another great special feature of this game is the Buy Feature. As the name suggests, this feature allows you to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay. This is a great option for those times when you're feeling particularly impatient - or when you're just really confident that you're about to win big! It's like a VIP pass to the best part of the game, and it's definitely worth trying out if you're a fan of slot games.</p> \n\n   <p>Overall, Money Train 3 is a superb example of what a slot game can be. With so many unique features and gameplay options, it's impossible to get bored with this one. So what are you waiting for? Hop on board the Money Train and see how much you can win!</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_multipliers_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Get Ready to Multiply Your Winnings with Multipliers!</h2>",
+                "content": "<p>If you're a fan of slot games and big wins, you're going to love Money Train 3. The game takes things up a notch by introducing multipliers, which are symbols that can appear on the reels and give you a chance to significantly increase your bet.</p><p>But wait, it gets even better! These multipliers don't just add up - they can also stack up and multiply each other to give you truly epic rewards. With regular, persistent, and bonus multipliers available, there's never a shortage of ways to boost your winnings.</p><p>If you're lucky enough to score high-value symbols alongside these multipliers, you'll be looking at a payout that's worth shouting about. In fact, the multipliers can be so powerful that you might just want to pinch yourself to make sure you're not dreaming!</p><p>So, don't wait any longer. If you want to experience the thrill of multipliers and big wins, give Money Train 3 a spin. Who knows? You might just walk away feeling like a money train yourself!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Multipliers', 'content': \"One of the most exciting aspects of Money Train 3 is the use of multipliers. Multipliers are symbols that can appear on the reels and multiply the player's bet, leading to significant winnings. These multipliers can also stack up and multiply each other, resulting in massive rewards. The game features various multipliers, including regular, persistent, and bonus multipliers.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLnj7KJTldMWxbVGhhRWc4DFW6fR",
+                "object": "chat.completion",
+                "created": 1686514687,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 212,
+                    "completion_tokens": 252,
+                    "total_tokens": 464
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n  \"headline\": \"<h2>Get Ready to Multiply Your Winnings with Multipliers!</h2>\",\n  \"content\": \"<p>If you're a fan of slot games and big wins, you're going to love Money Train 3. The game takes things up a notch by introducing multipliers, which are symbols that can appear on the reels and give you a chance to significantly increase your bet.</p><p>But wait, it gets even better! These multipliers don't just add up - they can also stack up and multiply each other to give you truly epic rewards. With regular, persistent, and bonus multipliers available, there's never a shortage of ways to boost your winnings.</p><p>If you're lucky enough to score high-value symbols alongside these multipliers, you'll be looking at a payout that's worth shouting about. In fact, the multipliers can be so powerful that you might just want to pinch yourself to make sure you're not dreaming!</p><p>So, don't wait any longer. If you want to experience the thrill of multipliers and big wins, give Money Train 3 a spin. Who knows? You might just walk away feeling like a money train yourself!</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_game-mechanics_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Game Mechanics</h2>",
+                "content": "<p>Get ready to hop aboard the Money Train 3! This five-reel slot game has a whopping 40 paylines, so you can bet your bottom dollar that your chances of winning big are good. And if you do hit it big, you'll be doing your happy dance all the way to the bank.</p><p>Of course, everyone's bet size is different, but don't worry! Money Train 3 offers a variety of options to customize your game play. You can select your coin value and adjust the number of coins you want to wager per spin, making it possible for all types of players to get in on the action.</p><p>But wait, there's more! With an RTP of 96.2%, the odds are ever in your favor. For every $100 you wager, you can expect to win back $96.20. And let's face it, who couldn't use a little extra cash? It's like hitting the jackpot without even trying.</p><p>But that's not all! Money Train 3 also offers an autospin feature. So, when you need to take a break from spinning the reels, you can set the game to play automatically for a designated number of spins. It's like having your own personal slot machine butler. All you have to do is sit back, relax, and watch the winnings roll in.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Game Mechanics', 'content': 'Money Train 3 is a five-reel slot game that offers up to 40 paylines. Players can adjust their bet size by selecting the coin value and the number of coins they want to wager per spin. The game has an average RTP of 96.2%, which means players can expect to win back $96.20 for every $100 they wager. Additionally, the game offers an autospin feature that allows players to set the number of spins they want to play automatically.'}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLnr73gbu11ezUQeya1ilDdhpBqB",
+                "object": "chat.completion",
+                "created": 1686514695,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 237,
+                    "completion_tokens": 306,
+                    "total_tokens": 543
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n\"headline\": \"<h2>Game Mechanics</h2>\",\n\"content\": \"<p>Get ready to hop aboard the Money Train 3! This five-reel slot game has a whopping 40 paylines, so you can bet your bottom dollar that your chances of winning big are good. And if you do hit it big, you'll be doing your happy dance all the way to the bank.</p><p>Of course, everyone's bet size is different, but don't worry! Money Train 3 offers a variety of options to customize your game play. You can select your coin value and adjust the number of coins you want to wager per spin, making it possible for all types of players to get in on the action.</p><p>But wait, there's more! With an RTP of 96.2%, the odds are ever in your favor. For every $100 you wager, you can expect to win back $96.20. And let's face it, who couldn't use a little extra cash? It's like hitting the jackpot without even trying.</p><p>But that's not all! Money Train 3 also offers an autospin feature. So, when you need to take a break from spinning the reels, you can set the game to play automatically for a designated number of spins. It's like having your own personal slot machine butler. All you have to do is sit back, relax, and watch the winnings roll in.</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_game-design_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Game Design</h2>",
+                "content": "<p>Money Train 3 has a design that will pull players in like a train coming towards them. Okay, maybe not so much that they'll feel like they're about to get run over, but the graphics alone are enough to give them a rush. The visual effects are crisp and clear, bringing the Wild West to life like your own personal cowboy movie.</p>\n\n  <p>The symbols are representative of the era too. Guns, hats, and bags of gold make the player feel like they're right in the heart of a heist. The game's interface runs as smoothly as a well-oiled revolver, with menus and controls that could be mastered by a novice or a seasoned player with ease. This user-friendly aspect of the game is one reason that it has been so successful.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Game Design', 'content': \"Money Train 3 features a captivating design that immerses players in the world of gambling. The graphics are top-notch, with high-quality visual effects that bring the game to life. The symbols on the reels include various characters and items related to the Wild West, such as guns, hats, and bags of gold. The game's interface is user-friendly, with easy-to-navigate menus and controls that make playing a breeze.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLo2cyfAqLxAVtr9DBNyTyEBIDm1",
+                "object": "chat.completion",
+                "created": 1686514706,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 224,
+                    "completion_tokens": 183,
+                    "total_tokens": 407
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n  \"headline\": \"<h2>Game Design</h2>\",\n  \"content\": \"<p>Money Train 3 has a design that will pull players in like a train coming towards them. Okay, maybe not so much that they'll feel like they're about to get run over, but the graphics alone are enough to give them a rush. The visual effects are crisp and clear, bringing the Wild West to life like your own personal cowboy movie.</p>\n\n  <p>The symbols are representative of the era too. Guns, hats, and bags of gold make the player feel like they're right in the heart of a heist. The game's interface runs as smoothly as a well-oiled revolver, with menus and controls that could be mastered by a novice or a seasoned player with ease. This user-friendly aspect of the game is one reason that it has been so successful.</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_soundtrack_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Soundtrack</h2>",
+                "content": "<p>Money Train 3's soundtrack is more epic than the last season of Game of Thrones. It has the power to raise the hairs on your arms and increase your heart rate as you play. The intensity of the music perfectly matches the high stakes of the game, making every spin feel like a suspenseful journey towards a big payout.</p><p>As far as sound effects go, the game's developers have truly outdone themselves. The sounds of the reels spinning and the coins falling into place are so realistic, it's like you're in a casino. And let's not forget the train whistle that blows when the Money Train bonus feature is triggered - it's enough to make you jump out of your seat!</p><p>Overall, the soundtrack is a significant part of what makes this game truly stand out. It's like the icing on top of an already delicious cake, making the whole experience even sweeter.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Soundtrack', 'content': \"Money Train 3's soundtrack is a masterpiece that sets the tone for an epic gambling adventure. The music is intense and suspenseful, adding to the excitement of the game. The sound effects are also noteworthy, with realistic audio cues that enhance the gameplay experience. Overall, the soundtrack is a significant part of what makes Money Train 3 an excellent game for gamblers.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLo9VJa1FB0bzdx3uOI7vEpZ4Wuh",
+                "object": "chat.completion",
+                "created": 1686514713,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 212,
+                    "completion_tokens": 210,
+                    "total_tokens": 422
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Soundtrack</h2>\",\n    \"content\": \"<p>Money Train 3's soundtrack is more epic than the last season of Game of Thrones. It has the power to raise the hairs on your arms and increase your heart rate as you play. The intensity of the music perfectly matches the high stakes of the game, making every spin feel like a suspenseful journey towards a big payout.</p><p>As far as sound effects go, the game's developers have truly outdone themselves. The sounds of the reels spinning and the coins falling into place are so realistic, it's like you're in a casino. And let's not forget the train whistle that blows when the Money Train bonus feature is triggered - it's enough to make you jump out of your seat!</p><p>Overall, the soundtrack is a significant part of what makes this game truly stand out. It's like the icing on top of an already delicious cake, making the whole experience even sweeter.</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_special-features_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>SPECIAL FEATURES</h2>",
+                "content": "<p>Money Train 3 is not your run-of-the-mill casino slot game. It's a game that brings out the big guns and will leave every slot connoisseur's head spinning with possibilities. One thing that sets this game apart is its special features. And boy, it has them aplenty!</p> <p>With wilds and scatters triggering a plethora of bonuses, including respins, win multipliers, and free spins, you'll be hard-pressed to find another game that can match Money Train 3's special features. It's like a piñata packed with surprises, and you never know which feature is going to pop out next! </p> <p>But make no mistake; these features aren't just fun and games. They can genuinely help you increase your winnings and lead you down the path of retirement. Get your hands on some of these bonuses, and you'll be feeling a lot richer in no time!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Special Features', 'content': 'Money Train 3 has a variety of special features that make the game much more exciting. The game has wilds and scatters which trigger certain bonuses, including respins, win multipliers and free spins. When you get these special features, the game becomes much more interesting and rewarding.'}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLoFzZMsSXzaTYuPO7IY3MZxHtAu",
+                "object": "chat.completion",
+                "created": 1686514719,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 196,
+                    "completion_tokens": 218,
+                    "total_tokens": 414
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>SPECIAL FEATURES</h2>\",\n    \"content\": \"<p>Money Train 3 is not your run-of-the-mill casino slot game. It's a game that brings out the big guns and will leave every slot connoisseur's head spinning with possibilities. One thing that sets this game apart is its special features. And boy, it has them aplenty!</p> <p>With wilds and scatters triggering a plethora of bonuses, including respins, win multipliers, and free spins, you'll be hard-pressed to find another game that can match Money Train 3's special features. It's like a piñata packed with surprises, and you never know which feature is going to pop out next! </p> <p>But make no mistake; these features aren't just fun and games. They can genuinely help you increase your winnings and lead you down the path of retirement. Get your hands on some of these bonuses, and you'll be feeling a lot richer in no time!</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_multipliers_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Get Ready to Multiply your Winnings</h2>",
+                "content": "<p>Are you ready to multiply your winnings? Of course, you are! Who isn't? That's why one of the best features of Money Train 3 is the multiplier feature. This excellent feature is what makes this game truly stand out from the rest.</p><p>Think about it, nothing beats the feeling of seeing your winnings grow right before your eyes. And with the multiplier feature, it's even better. Who doesn't love getting more than what they bargained for? With every spin, you get a chance at hitting those multipliers and watching your winnings skyrocket.</p><p>Don't worry if you're new to the game; the multiplier feature is easy to understand. The more symbols that trigger the feature, the bigger your potential multiplier can be. And the anticipation of waiting for your next multiplier to hit is just one of the things that make this game so much fun.</p><p>So gear up, grab your lucky charm, and get ready to multiply your winnings with Money Train 3. Trust us; it's going to be one exhilarating ride!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Multipliers', 'content': \"One of the special features in Money Train 3 is the multiplier feature. This feature can multiply your winnings significantly, and it's fun to anticipate what your next multiplier will be. The multiplier feature is one of the most exciting parts of the game.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLoMa7IJJucdT6c2RvZStcYoEJCt",
+                "object": "chat.completion",
+                "created": 1686514726,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 188,
+                    "completion_tokens": 249,
+                    "total_tokens": 437
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Get Ready to Multiply your Winnings</h2>\",\n    \"content\": \"<p>Are you ready to multiply your winnings? Of course, you are! Who isn't? That's why one of the best features of Money Train 3 is the multiplier feature. This excellent feature is what makes this game truly stand out from the rest.</p><p>Think about it, nothing beats the feeling of seeing your winnings grow right before your eyes. And with the multiplier feature, it's even better. Who doesn't love getting more than what they bargained for? With every spin, you get a chance at hitting those multipliers and watching your winnings skyrocket.</p><p>Don't worry if you're new to the game; the multiplier feature is easy to understand. The more symbols that trigger the feature, the bigger your potential multiplier can be. And the anticipation of waiting for your next multiplier to hit is just one of the things that make this game so much fun.</p><p>So gear up, grab your lucky charm, and get ready to multiply your winnings with Money Train 3. Trust us; it's going to be one exhilarating ride!</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_immersive-experience_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Get Hooked to an Immersive Experience</h2>",
+                "content": "<p>Prepare to be swept away by Money Train 3 - a true masterpiece among casino games. The graphics and sound effects are so exceptional that you'd be forgiven for thinking you've been transported to a different world entirely, one where the only thing that matters is spinning those reels. </p><p>The music is particularly noteworthy - it's positively infectious, and before you know it, you'll be tapping your feet to the beat. Just make sure your coworkers can't hear you over their Zoom calls! But all jokes aside, the soundtrack truly adds to the game's overall excitement.</p><p>But it's not just the music that's impressive. The game offers a great user interface that's easy to understand, leaving you free to focus on the game itself. When the stakes are high, there's nothing more important than knowing exactly where to click to secure your fortune. </p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Immersive Experience', 'content': \"Money Train 3 has exceptional graphics and a thrilling soundtrack that contributes to an immersive experience. The sound effects and music take you to a different world, adding to the overall excitement of the game. The game also has a great user interface that's easy to understand.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLoUa6TiodD0NveaC0sbcFtlmOqZ",
+                "object": "chat.completion",
+                "created": 1686514734,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 193,
+                    "completion_tokens": 206,
+                    "total_tokens": 399
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n\"headline\": \"<h2>Get Hooked to an Immersive Experience</h2>\",\n\"content\": \"<p>Prepare to be swept away by Money Train 3 - a true masterpiece among casino games. The graphics and sound effects are so exceptional that you'd be forgiven for thinking you've been transported to a different world entirely, one where the only thing that matters is spinning those reels. </p><p>The music is particularly noteworthy - it's positively infectious, and before you know it, you'll be tapping your feet to the beat. Just make sure your coworkers can't hear you over their Zoom calls! But all jokes aside, the soundtrack truly adds to the game's overall excitement.</p><p>But it's not just the music that's impressive. The game offers a great user interface that's easy to understand, leaving you free to focus on the game itself. When the stakes are high, there's nothing more important than knowing exactly where to click to secure your fortune. </p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_high-quality-design_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Impressive Design That Takes Your Breath Away</h2>",
+                "content": "<p>Okay, let's take a moment to appreciate the graphics of Money Train 3. Are you kidding me? They're nothing short of impressive! From the moment you launch the game, you're transported to a land of stunning visuals, enticing animations, and vibrant colors. The attention to detail is commendable, and the developer has done an excellent job of creating a cohesive and immersive world.</p><p>But the best part? The game runs smoothly without any lagging or glitching! No more pulling out your hair trying to load a poorly optimized slot game. With Money Train 3, the only thing you need to worry about is how much money you're going to win and how you're going to spend it.</p><p>Another standout feature of the game's design is the ease with which players can follow along with the gameplay. The graphics and icons are clear and well-defined, making it easy to see what's happening on the reels. All in all, the design of this game can be summed up in three words: High. Quality. Awesomeness.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'High-Quality Design', 'content': \"The visuals for Money Train 3 are impressive. The game has detailed and high-quality graphics that make it clear to see exactly what's going on. The game also runs smoothly, so you don't have to worry about lagging or glitching. The game has excellent designs that contribute to an enjoyable gameplay experience.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLoacVmYnxtVd4w41F6CrwjOtizJ",
+                "object": "chat.completion",
+                "created": 1686514740,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 203,
+                    "completion_tokens": 250,
+                    "total_tokens": 453
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n  \"headline\": \"<h2>Impressive Design That Takes Your Breath Away</h2>\",\n  \"content\": \"<p>Okay, let's take a moment to appreciate the graphics of Money Train 3. Are you kidding me? They're nothing short of impressive! From the moment you launch the game, you're transported to a land of stunning visuals, enticing animations, and vibrant colors. The attention to detail is commendable, and the developer has done an excellent job of creating a cohesive and immersive world.</p><p>But the best part? The game runs smoothly without any lagging or glitching! No more pulling out your hair trying to load a poorly optimized slot game. With Money Train 3, the only thing you need to worry about is how much money you're going to win and how you're going to spend it.</p><p>Another standout feature of the game's design is the ease with which players can follow along with the gameplay. The graphics and icons are clear and well-defined, making it easy to see what's happening on the reels. All in all, the design of this game can be summed up in three words: High. Quality. Awesomeness.</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "expand_appealing-gameplay_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Appealing Gameplay</h2>",
+                "content": "<p>Money Train 3 is a slot game that is sure to keep you on the edge of your seat with its unique and exciting gameplay. From the moment you spin the reels, you'll be transported to a world of adventure and thrills.</p>\n\n    <p>One of the most appealing aspects of Money Train 3 is the various special features and bonuses that are available to players. These features include a free spins bonus round, a bonus game, and a wild symbol that can substitute for other symbols to create winning combinations.</p>\n\n    <p>But what really sets Money Train 3 apart is its adjustable bet option. This allows players to choose their bet level depending on their preferences, making it a great game for both experienced and new gamblers. Whether you prefer to bet big or take it slow, you'll find an option that suits your style of play.</p>\n\n    <p>Overall, Money Train 3 has a great gameplay experience that is sure to keep you entertained for hours on end. So hop on board and see if you can hit the jackpot!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Money Train 3\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please expand the content to two times the length\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Appealing Gameplay', 'content': 'Money Train 3 has a unique and appealing gameplay that keeps players engaged. The game has various special features and bonuses that make every spin exciting. The game also has an adjustable bet option, so players can choose their bet level depending on their preferences. Overall, Money Train 3 has a great gameplay experience that makes it appealing to both experienced and new gamblers.'}\n         ",
+            "log": {
+                "id": "chatcmpl-7QLoiqjF56dEAzig3zfWfzHACN5Nq",
+                "object": "chat.completion",
+                "created": 1686514748,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 212,
+                    "completion_tokens": 244,
+                    "total_tokens": 456
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Appealing Gameplay</h2>\",\n    \"content\": \"<p>Money Train 3 is a slot game that is sure to keep you on the edge of your seat with its unique and exciting gameplay. From the moment you spin the reels, you'll be transported to a world of adventure and thrills.</p>\n\n    <p>One of the most appealing aspects of Money Train 3 is the various special features and bonuses that are available to players. These features include a free spins bonus round, a bonus game, and a wild symbol that can substitute for other symbols to create winning combinations.</p>\n\n    <p>But what really sets Money Train 3 apart is its adjustable bet option. This allows players to choose their bet level depending on their preferences, making it a great game for both experienced and new gamblers. Whether you prefer to bet big or take it slow, you'll find an option that suits your style of play.</p>\n\n    <p>Overall, Money Train 3 has a great gameplay experience that is sure to keep you entertained for hours on end. So hop on board and see if you can hit the jackpot!</p>\"\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": [
+        {
+            "version": 1,
+            "response": {
+                "pros": [
+                    "Abundance of special features like Money Cart Bonus Round and Buy Feature",
+                    "Exciting use of multipliers that can lead to massive rewards",
+                    "Easy-to-navigate game mechanics and user-friendly interface",
+                    "Captivating game design with high-quality graphics and sound effects"
+                ],
+                "cons": [
+                    "May not be suitable for players who prefer simpler slot games",
+                    "Higher volatility may not appeal to players who prefer more consistent payouts"
+                ],
+                "meta_title": "Play Money Train 3 Free: Review of Features, Multipliers & Design",
+                "meta_description": "Discover Money Train 3 slot: features, multipliers, gameplay, design, soundtrack & more. Play for free and win big!"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Money Train 3\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSpecial Features\n\nMoney Train 3 offers an abundance of special features that take gameplay to the next level. One unique feature is the Money Cart Bonus Round, which is triggered by landing three bonus symbols on the reels. During this round, players can earn various prizes, including cash values, bonuses, and more. Another special feature is the Buy Feature, which allows players to skip ahead and access the Money Cart Bonus Round without having to trigger it through gameplay.\n\nMultipliers\n\nOne of the most exciting aspects of Money Train 3 is the use of multipliers. Multipliers are symbols that can appear on the reels and multiply the player's bet, leading to significant winnings. These multipliers can also stack up and multiply each other, resulting in massive rewards. The game features various multipliers, including regular, persistent, and bonus multipliers.\n\nGame Mechanics\n\nMoney Train 3 is a five-reel slot game that offers up to 40 paylines. Players can adjust their bet size by selecting the coin value and the number of coins they want to wager per spin. The game has an average RTP of 96.2%, which means players can expect to win back $96.20 for every $100 they wager. Additionally, the game offers an autospin feature that allows players to set the number of spins they want to play automatically.\n\nGame Design\n\nMoney Train 3 features a captivating design that immerses players in the world of gambling. The graphics are top-notch, with high-quality visual effects that bring the game to life. The symbols on the reels include various characters and items related to the Wild West, such as guns, hats, and bags of gold. The game's interface is user-friendly, with easy-to-navigate menus and controls that make playing a breeze.\n\nSoundtrack\n\nMoney Train 3's soundtrack is a masterpiece that sets the tone for an epic gambling adventure. The music is intense and suspenseful, adding to the excitement of the game. The sound effects are also noteworthy, with realistic audio cues that enhance the gameplay experience. Overall, the soundtrack is a significant part of what makes Money Train 3 an excellent game for gamblers.\n\n        \n            ",
+            "log": {
+                "id": "chatcmpl-7QLop3Zi9dJmitoz5GDgZtU4VydEn",
+                "object": "chat.completion",
+                "created": 1686514755,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 616,
+                    "completion_tokens": 160,
+                    "total_tokens": 776
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"pros\": [\n        \"Abundance of special features like Money Cart Bonus Round and Buy Feature\",\n        \"Exciting use of multipliers that can lead to massive rewards\",\n        \"Easy-to-navigate game mechanics and user-friendly interface\",\n        \"Captivating game design with high-quality graphics and sound effects\"\n    ],\n    \"cons\": [\n        \"May not be suitable for players who prefer simpler slot games\",\n        \"Higher volatility may not appeal to players who prefer more consistent payouts\"\n    ],\n    \"meta_title\": \"Play Money Train 3 Free: Review of Features, Multipliers & Design\",\n    \"meta_description\": \"Discover Money Train 3 slot: features, multipliers, gameplay, design, soundtrack & more. Play for free and win big!\" \n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        },
+        {
+            "version": 2,
+            "response": {
+                "pros": [
+                    "Exciting special features like respins, multipliers, and free spins",
+                    "Fun multiplier feature that can significantly boost your winnings",
+                    "Immersive experience with exceptional graphics and thrilling soundtrack",
+                    "High-quality design that runs smoothly and with no glitches"
+                ],
+                "cons": [
+                    "Limited betting options for high rollers",
+                    "May not appeal to players who prefer simpler games"
+                ],
+                "meta_title": "Play Money Train 3 Free - Exciting Features and High-quality Design",
+                "meta_description": "Experience the immersive gameplay of Money Train 3 with its special features, high-quality design, and appealing gameplay, all for free."
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Money Train 3\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSpecial Features\n\nMoney Train 3 has a variety of special features that make the game much more exciting. The game has wilds and scatters which trigger certain bonuses, including respins, win multipliers and free spins. When you get these special features, the game becomes much more interesting and rewarding.\n\nMultipliers\n\nOne of the special features in Money Train 3 is the multiplier feature. This feature can multiply your winnings significantly, and it's fun to anticipate what your next multiplier will be. The multiplier feature is one of the most exciting parts of the game.\n\nImmersive Experience\n\nMoney Train 3 has exceptional graphics and a thrilling soundtrack that contributes to an immersive experience. The sound effects and music take you to a different world, adding to the overall excitement of the game. The game also has a great user interface that's easy to understand.\n\nHigh-Quality Design\n\nThe visuals for Money Train 3 are impressive. The game has detailed and high-quality graphics that make it clear to see exactly what's going on. The game also runs smoothly, so you don't have to worry about lagging or glitching. The game has excellent designs that contribute to an enjoyable gameplay experience.\n\nAppealing Gameplay\n\nMoney Train 3 has a unique and appealing gameplay that keeps players engaged. The game has various special features and bonuses that make every spin exciting. The game also has an adjustable bet option, so players can choose their bet level depending on their preferences. Overall, Money Train 3 has a great gameplay experience that makes it appealing to both experienced and new gamblers.\n\n        \n            ",
+            "log": {
+                "id": "chatcmpl-7QLouQ6FJ8XE3JbUeyfLVbRJzcfWj",
+                "object": "chat.completion",
+                "created": 1686514760,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 497,
+                    "completion_tokens": 147,
+                    "total_tokens": 644
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n  \"pros\": [\n    \"Exciting special features like respins, multipliers, and free spins\",\n    \"Fun multiplier feature that can significantly boost your winnings\",\n    \"Immersive experience with exceptional graphics and thrilling soundtrack\",\n    \"High-quality design that runs smoothly and with no glitches\"\n  ],\n  \"cons\": [\n    \"Limited betting options for high rollers\",\n    \"May not appeal to players who prefer simpler games\"\n  ],\n  \"meta_title\": \"Play Money Train 3 Free - Exciting Features and High-quality Design\",\n  \"meta_description\": \"Experience the immersive gameplay of Money Train 3 with its special features, high-quality design, and appealing gameplay, all for free.\" \n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "faq": [
+        {
+            "version": 1,
+            "response": {
+                "faq": [
+                    {
+                        "question": "What is Money Train 3?",
+                        "answer": "Money Train 3 is an online slot game with incredible graphics and high chances of winning."
+                    },
+                    {
+                        "question": "What are the special features of Money Train 3?",
+                        "answer": "Money Train 3 has multiple special features like multipliers that keep players engaged in the anticipation of a big win."
+                    },
+                    {
+                        "question": "Is Money Train 3 a game for experienced gamblers?",
+                        "answer": "Yes, Money Train 3 is a game suitable for experienced gamblers due to its potential for big wins."
+                    },
+                    {
+                        "question": "Is Money Train 3 only for high rollers?",
+                        "answer": "No, Money Train 3 has a wide range of betting options, making it suitable for both high rollers and casual players."
+                    },
+                    {
+                        "question": "Can I play Money Train 3 for free?",
+                        "answer": "Yes, some online casinos offer the option to play Money Train 3 in demo mode for free."
+                    },
+                    {
+                        "question": "Is Money Train 3 a fair game?",
+                        "answer": "Yes, Money Train 3 uses random number generators to ensure that the game is fair."
+                    },
+                    {
+                        "question": "What is the RTP (return to player) of Money Train 3?",
+                        "answer": "The RTP of Money Train 3 ranges from 96.4% to 98%, depending on the online casino you're playing at."
+                    },
+                    {
+                        "question": "Is Money Train 3 available on mobile devices?",
+                        "answer": "Yes, Money Train 3 is available on mobile devices, including smartphones and tablets."
+                    }
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Money Train 3\".\n\nPlease provide an FAQ:\n\n- 8 questions\n- Use simple language and provide practical takeaways.\n- Respond with a JSON!\n- Use the key \"faq\" and an array with the keys \"question\" and \"answer\". \n\nReview: Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n            ",
+            "log": {
+                "id": "chatcmpl-7QLozLFNRPZzAQwXqjPrZFdi1st56",
+                "object": "chat.completion",
+                "created": 1686514765,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 472,
+                    "completion_tokens": 376,
+                    "total_tokens": 848
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"faq\": [\n        {\n            \"question\": \"What is Money Train 3?\",\n            \"answer\": \"Money Train 3 is an online slot game with incredible graphics and high chances of winning.\"\n        },\n        {\n            \"question\": \"What are the special features of Money Train 3?\",\n            \"answer\": \"Money Train 3 has multiple special features like multipliers that keep players engaged in the anticipation of a big win.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 a game for experienced gamblers?\",\n            \"answer\": \"Yes, Money Train 3 is a game suitable for experienced gamblers due to its potential for big wins.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 only for high rollers?\",\n            \"answer\": \"No, Money Train 3 has a wide range of betting options, making it suitable for both high rollers and casual players.\"\n        },\n        {\n            \"question\": \"Can I play Money Train 3 for free?\",\n            \"answer\": \"Yes, some online casinos offer the option to play Money Train 3 in demo mode for free.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 a fair game?\",\n            \"answer\": \"Yes, Money Train 3 uses random number generators to ensure that the game is fair.\"\n        },\n        {\n            \"question\": \"What is the RTP (return to player) of Money Train 3?\",\n            \"answer\": \"The RTP of Money Train 3 ranges from 96.4% to 98%, depending on the online casino you're playing at.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 available on mobile devices?\",\n            \"answer\": \"Yes, Money Train 3 is available on mobile devices, including smartphones and tablets.\"\n        }\n    ]\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        },
+        {
+            "version": 2,
+            "response": {
+                "faq": [
+                    {
+                        "question": "What is Money Train 3?",
+                        "answer": "Money Train 3 is a popular online slot game known for its stunning graphics and potential for big winnings."
+                    },
+                    {
+                        "question": "What are the special features of Money Train 3?",
+                        "answer": "Money Train 3 has special features such as multipliers that keep players on edge for their next big win."
+                    },
+                    {
+                        "question": "Is Money Train 3 entertaining?",
+                        "answer": "Yes, Money Train 3 is a game that provides entertaining and thrilling experience to the players."
+                    },
+                    {
+                        "question": "Is Money Train 3 a good game for experienced gamblers?",
+                        "answer": "Yes, experienced gamblers may enjoy the potential for big winnings and special features that Money Train 3 offers."
+                    },
+                    {
+                        "question": "What makes Money Train 3 stand out from other slot games?",
+                        "answer": "Money Train 3 has stunning graphics and unique special features, such as multipliers, that make it stand out from other slot games."
+                    },
+                    {
+                        "question": "Can players win big in Money Train 3?",
+                        "answer": "Yes, Money Train 3 has a vast potential for big winnings through its special features and multipliers."
+                    },
+                    {
+                        "question": "Is the soundtrack of Money Train 3 exciting?",
+                        "answer": "Yes, the thrilling soundtrack adds to the overall exciting experience of Money Train 3."
+                    },
+                    {
+                        "question": "Who would enjoy playing Money Train 3?",
+                        "answer": "Those who enjoy online slot games and are experienced in the gambling world may enjoy playing Money Train 3."
+                    }
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Money Train 3\".\n\nPlease provide an FAQ:\n\n- 8 questions\n- Use simple language and provide practical takeaways.\n- Respond with a JSON!\n- Use the key \"faq\" and an array with the keys \"question\" and \"answer\". \n\nReview: Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n            ",
+            "log": {
+                "id": "chatcmpl-7QLpA0z2JKGo3DWSH7c5L8nCUvQlW",
+                "object": "chat.completion",
+                "created": 1686514776,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 472,
+                    "completion_tokens": 371,
+                    "total_tokens": 843
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"faq\": [\n        {\n            \"question\": \"What is Money Train 3?\",\n            \"answer\": \"Money Train 3 is a popular online slot game known for its stunning graphics and potential for big winnings.\"\n        },\n        {\n            \"question\": \"What are the special features of Money Train 3?\",\n            \"answer\": \"Money Train 3 has special features such as multipliers that keep players on edge for their next big win.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 entertaining?\",\n            \"answer\": \"Yes, Money Train 3 is a game that provides entertaining and thrilling experience to the players.\"\n        },\n        {\n            \"question\": \"Is Money Train 3 a good game for experienced gamblers?\",\n            \"answer\": \"Yes, experienced gamblers may enjoy the potential for big winnings and special features that Money Train 3 offers.\"\n        },\n        {\n            \"question\": \"What makes Money Train 3 stand out from other slot games?\",\n            \"answer\": \"Money Train 3 has stunning graphics and unique special features, such as multipliers, that make it stand out from other slot games.\"\n        },\n        {\n            \"question\": \"Can players win big in Money Train 3?\",\n            \"answer\": \"Yes, Money Train 3 has a vast potential for big winnings through its special features and multipliers.\"\n        },\n        {\n            \"question\": \"Is the soundtrack of Money Train 3 exciting?\",\n            \"answer\": \"Yes, the thrilling soundtrack adds to the overall exciting experience of Money Train 3.\"\n        },\n        {\n            \"question\": \"Who would enjoy playing Money Train 3?\",\n            \"answer\": \"Those who enjoy online slot games and are experienced in the gambling world may enjoy playing Money Train 3.\"\n        }\n    ]\n}"
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "dalle-prompt": [
+        {
+            "version": 1,
+            "response": "Create a feature image that captures the excitement of Money Train 3, featuring a happy Maya warrior with glasses. The image should be in a cartoon style that shows the character eagerly anticipating their next big win. Use bright and vibrant colors to make the image pop and draw attention. The Maya warrior should be shown playing the game on a computer or mobile device, with symbols and multipliers floating around them to emphasize the game's special features. In the background, show the train heading towards a mountain of gold, further emphasizing the potential for big wins. Overall, the feature image should convey the thrill and excitement of Money Train 3 for both experienced and novice gamblers alike.",
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\n        Below is a review of the game \"Money Train 3\".\n\n        Please provide a detailed prompt for DALLE to create a feature image fitting the game\n        \n        - The image should be in cartoon style\n        - The should feature a happy Maya warrior with glasses\n\n        Review: Original review (in non-english language):\n\"Το Money Train 3 είναι ένα απίθανο παιχνίδι κουλοχέρη με εκπληκτικά γραφικά και πολύ υψηλές δυνατότητες κέρδους. Τα special features είναι το κάτι άλλο και οι πολλαπλασιαστές συνεχώς σε κρατάνε σε αγωνία για το μεγάλο χτύπημα. Μαζί με το συναρπαστικό soundtrack, το Money Train 3 είναι ένα παιχνίδι διασκέδασης και ψυχαγωγίας που σίγουρα αξίζει να το δοκιμάσετε.\"\n\nTranslated review (suitable for experienced gamblers):\n\"Money Train 3 is an incredible slot game with stunning graphics and a vast potential for winning. With its spectacular special features and multipliers, it keeps you on the edge of your seat, anticipating the next big hit. The thrilling soundtrack adds to the overall exciting experience. Money Train 3 is not just a game but an entertainment and a delight for those who are experienced in the gambling world. It's definitely worth a try.\"\n        ",
+            "log": {
+                "id": "chatcmpl-7QLpKUCwdog8Tm0F8RA8BB2XUUIuO",
+                "object": "chat.completion",
+                "created": 1686514786,
+                "model": "gpt-3.5-turbo-0301",
+                "usage": {
+                    "prompt_tokens": 467,
+                    "completion_tokens": 134,
+                    "total_tokens": 601
+                },
+                "choices": [
+                    {
+                        "message": {
+                            "role": "assistant",
+                            "content": "Create a feature image that captures the excitement of Money Train 3, featuring a happy Maya warrior with glasses. The image should be in a cartoon style that shows the character eagerly anticipating their next big win. Use bright and vibrant colors to make the image pop and draw attention. The Maya warrior should be shown playing the game on a computer or mobile device, with symbols and multipliers floating around them to emphasize the game's special features. In the background, show the train heading towards a mountain of gold, further emphasizing the potential for big wins. Overall, the feature image should convey the thrill and excitement of Money Train 3 for both experienced and novice gamblers alike."
+                        },
+                        "finish_reason": "stop",
+                        "index": 0
+                    }
+                ]
+            }
+        }
+    ]
+}

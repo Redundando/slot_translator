@@ -1,5 +1,6 @@
 from slot_translator import ReviewTranslator
 from scrape import save_game_review
+from scrape import load_all_game_urls, get_game_review
 import json
 import os
 
@@ -106,21 +107,32 @@ if __name__ == '__main__':
     https://www.slotjava.it/slot/four-wealth-creatures/
     """
 
-    urls = task.split("\n")
-    urls = [u for u in urls if u != ""]
+    game_urls = load_all_game_urls()
+
+    done_urls = task.split("\n")
+    done_urls = [u.strip() for u in done_urls if u != ""]
+
+    urls = [u for u in game_urls if u not in done_urls]
 
     for url in urls:
-        slug = url.split("/")[-2]
-        filename = f"game_reviews/it/{slug}.json"
-        save_game_review("it", url)
-        if not os.path.exists(filename):
-            continue
-        f = open(filename, encoding="utf8")
-        data = json.load(f)
-        print(f"\nTranslation {data['name']}\n============================\n")
-        text = data["text"][:6000]
-        translation = ReviewTranslator(output_directory="game_reviews/translations", thing_name=data["name"], text=text, mode="translate", remove_faq=True)
         try:
+            slug = url.split("/")[-2]
+            """
+            filename = f"game_reviews/it/{slug}.json"
+            save_game_review("it", url)
+            if not os.path.exists(filename):
+                continue
+            f = open(filename, encoding="utf8")
+            data = json.load(f)
+            """
+            data = get_game_review(url)
+            if len(data["text"])<500:
+                print(f"\nReview too short for {data['name']}\n============================\n")
+                continue
+            print(f"\nTranslation {data['name']}\n============================\n")
+            text = data["text"][:6000]
+            translation = ReviewTranslator(output_directory="game_reviews/translations", thing_name=data["name"], text=text, mode="translate", remove_faq=True)
             translation.run_all()
-        except:
+        except Exception as e:
+            print (e)
             continue
