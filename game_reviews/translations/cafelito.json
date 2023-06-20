@@ -809,7 +809,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_2.png",
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_4.png",
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_3.png",
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cafelito (Version 4).webp",
+        "game_reviews/processed_images/Cafelito (Version 2).webp",
+        "game_reviews/processed_images/Cafelito (Version 1).webp",
+        "game_reviews/processed_images/Cafelito (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/cafelito.json"
 }

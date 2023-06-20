@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_in_cartoon_style_featuring_a_happ_360674e8-6756-40de-9446-2aa45d711639_1.png",
+        "arved__Create_a_feature_image_in_cartoon_style_featuring_a_happ_360674e8-6756-40de-9446-2aa45d711639_2.png",
+        "arved__Create_a_feature_image_in_cartoon_style_featuring_a_happ_360674e8-6756-40de-9446-2aa45d711639_4.png",
+        "arved__Create_a_feature_image_in_cartoon_style_featuring_a_happ_360674e8-6756-40de-9446-2aa45d711639_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Double Triple Chance (Version 2).webp",
+        "game_reviews/processed_images/Double Triple Chance (Version 1).webp",
+        "game_reviews/processed_images/Double Triple Chance (Version 3).webp",
+        "game_reviews/processed_images/Double Triple Chance (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/double-triple-chance.json"
 }

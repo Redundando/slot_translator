@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_fitting_the_game_Deadly_5__7e3c4483-5425-4b76-be97-aa911aef2b43_1.png",
+        "arved__Please_create_a_feature_image_fitting_the_game_Deadly_5__7e3c4483-5425-4b76-be97-aa911aef2b43_3.png",
+        "arved__Please_create_a_feature_image_fitting_the_game_Deadly_5__7e3c4483-5425-4b76-be97-aa911aef2b43_2.png",
+        "arved__Please_create_a_feature_image_fitting_the_game_Deadly_5__7e3c4483-5425-4b76-be97-aa911aef2b43_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Deadly 5 (Version 1).webp",
+        "game_reviews/processed_images/Deadly 5 (Version 4).webp",
+        "game_reviews/processed_images/Deadly 5 (Version 2).webp",
+        "game_reviews/processed_images/Deadly 5 (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/deadly-5.json"
 }

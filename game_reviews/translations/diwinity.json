@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Diwinity_40cca702-1816-475c-bf11-2f013cf5a063_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Diwinity_40cca702-1816-475c-bf11-2f013cf5a063_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Diwinity_40cca702-1816-475c-bf11-2f013cf5a063_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Diwinity_40cca702-1816-475c-bf11-2f013cf5a063_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Diwinity (Version 4).webp",
+        "game_reviews/processed_images/Diwinity (Version 2).webp",
+        "game_reviews/processed_images/Diwinity (Version 1).webp",
+        "game_reviews/processed_images/Diwinity (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/diwinity.json"
 }

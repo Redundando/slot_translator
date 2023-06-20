@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Dragon_Shard_that_show_e61f31f2-9b0a-4e4e-8fb6-afcffb2e0625_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Dragon_Shard_that_show_e61f31f2-9b0a-4e4e-8fb6-afcffb2e0625_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Dragon_Shard_that_show_e61f31f2-9b0a-4e4e-8fb6-afcffb2e0625_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Dragon_Shard_that_show_e61f31f2-9b0a-4e4e-8fb6-afcffb2e0625_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon Shard (Version 3).webp",
+        "game_reviews/processed_images/Dragon Shard (Version 1).webp",
+        "game_reviews/processed_images/Dragon Shard (Version 2).webp",
+        "game_reviews/processed_images/Dragon Shard (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/dragon-shard.json"
 }

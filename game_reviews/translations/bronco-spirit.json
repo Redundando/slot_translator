@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Bronco_Spiri_62c122a3-9a8b-4b8c-8a7f-dda24f5283a1_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Bronco_Spiri_62c122a3-9a8b-4b8c-8a7f-dda24f5283a1_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Bronco_Spiri_62c122a3-9a8b-4b8c-8a7f-dda24f5283a1_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Bronco_Spiri_62c122a3-9a8b-4b8c-8a7f-dda24f5283a1_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Bronco Spirit (Version 3).webp",
+        "game_reviews/processed_images/Bronco Spirit (Version 2).webp",
+        "game_reviews/processed_images/Bronco Spirit (Version 4).webp",
+        "game_reviews/processed_images/Bronco Spirit (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/bronco-spirit.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Divine Showdown (Version 1).webp",
+        "game_reviews/processed_images/Divine Showdown (Version 2).webp",
+        "game_reviews/processed_images/Divine Showdown (Version 3).webp",
+        "game_reviews/processed_images/Divine Showdown (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/divine-showdown.json"
 }

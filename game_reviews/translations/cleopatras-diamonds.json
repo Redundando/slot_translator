@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_Feature_Image_Prompt_Please_create_a_cartoon-st_7f146cf9-1eff-4d4d-a0c7-0684bf38c808_3.png",
+        "arved__Create_a_Feature_Image_Prompt_Please_create_a_cartoon-st_7f146cf9-1eff-4d4d-a0c7-0684bf38c808_4.png",
+        "arved__Create_a_Feature_Image_Prompt_Please_create_a_cartoon-st_7f146cf9-1eff-4d4d-a0c7-0684bf38c808_2.png",
+        "arved__Create_a_Feature_Image_Prompt_Please_create_a_cartoon-st_7f146cf9-1eff-4d4d-a0c7-0684bf38c808_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cleopatras Diamonds (Version 2).webp",
+        "game_reviews/processed_images/Cleopatras Diamonds (Version 3).webp",
+        "game_reviews/processed_images/Cleopatras Diamonds (Version 4).webp",
+        "game_reviews/processed_images/Cleopatras Diamonds (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/cleopatras-diamonds.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Day And Night (Version 1).webp",
+        "game_reviews/processed_images/Day And Night (Version 2).webp",
+        "game_reviews/processed_images/Day And Night (Version 4).webp",
+        "game_reviews/processed_images/Day And Night (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/day-and-night.json"
 }

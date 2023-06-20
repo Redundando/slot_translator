@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_2.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Captain Jack (Version 1).webp",
+        "game_reviews/processed_images/Captain Jack (Version 4).webp",
+        "game_reviews/processed_images/Captain Jack (Version 3).webp",
+        "game_reviews/processed_images/Captain Jack (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/captain-jack.json"
 }

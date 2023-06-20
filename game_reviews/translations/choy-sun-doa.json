@@ -811,7 +811,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Choy_Sun_Doa_that_features_a__31466e85-d292-4878-a89a-aa4c09a7e585_4.png",
+        "arved__Create_a_feature_image_for_Choy_Sun_Doa_that_features_a__31466e85-d292-4878-a89a-aa4c09a7e585_1.png",
+        "arved__Create_a_feature_image_for_Choy_Sun_Doa_that_features_a__31466e85-d292-4878-a89a-aa4c09a7e585_2.png",
+        "arved__Create_a_feature_image_for_Choy_Sun_Doa_that_features_a__31466e85-d292-4878-a89a-aa4c09a7e585_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Choy Sun Doa (Version 1).webp",
+        "game_reviews/processed_images/Choy Sun Doa (Version 4).webp",
+        "game_reviews/processed_images/Choy Sun Doa (Version 2).webp",
+        "game_reviews/processed_images/Choy Sun Doa (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/choy-sun-doa.json"
 }

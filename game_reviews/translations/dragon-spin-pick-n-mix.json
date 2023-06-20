@@ -886,7 +886,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dragon_Spin_Pick_n_Mix_that_f_37dbb51f-a10a-46e5-84da-6f366e0726ac_4.png",
+        "arved__Create_a_feature_image_for_Dragon_Spin_Pick_n_Mix_that_f_37dbb51f-a10a-46e5-84da-6f366e0726ac_1.png",
+        "arved__Create_a_feature_image_for_Dragon_Spin_Pick_n_Mix_that_f_37dbb51f-a10a-46e5-84da-6f366e0726ac_2.png",
+        "arved__Create_a_feature_image_for_Dragon_Spin_Pick_n_Mix_that_f_37dbb51f-a10a-46e5-84da-6f366e0726ac_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon Spin Pick N Mix (Version 4).webp",
+        "game_reviews/processed_images/Dragon Spin Pick N Mix (Version 2).webp",
+        "game_reviews/processed_images/Dragon Spin Pick N Mix (Version 1).webp",
+        "game_reviews/processed_images/Dragon Spin Pick N Mix (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dragon-spin-pick-n-mix.json"
 }

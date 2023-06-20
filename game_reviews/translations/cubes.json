@@ -886,7 +886,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Cubes_-_Style_Ca_c213b841-3935-48e1-86b9-64c3ca92fe81_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Cubes_-_Style_Ca_c213b841-3935-48e1-86b9-64c3ca92fe81_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Cubes_-_Style_Ca_c213b841-3935-48e1-86b9-64c3ca92fe81_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Cubes_-_Style_Ca_c213b841-3935-48e1-86b9-64c3ca92fe81_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cubes (Version 3).webp",
+        "game_reviews/processed_images/Cubes (Version 4).webp",
+        "game_reviews/processed_images/Cubes (Version 2).webp",
+        "game_reviews/processed_images/Cubes (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/cubes.json"
 }

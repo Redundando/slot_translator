@@ -813,7 +813,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Defenders Of The Realm (Version 2).webp",
+        "game_reviews/processed_images/Defenders Of The Realm (Version 1).webp",
+        "game_reviews/processed_images/Defenders Of The Realm (Version 4).webp",
+        "game_reviews/processed_images/Defenders Of The Realm (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/defenders-of-the-realm.json"
 }

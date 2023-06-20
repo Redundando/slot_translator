@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dolphin_Treasure_that_will_ca_8f1d82d9-2807-4d8c-959b-9056925458df_2.png",
+        "arved__Create_a_feature_image_for_Dolphin_Treasure_that_will_ca_8f1d82d9-2807-4d8c-959b-9056925458df_3.png",
+        "arved__Create_a_feature_image_for_Dolphin_Treasure_that_will_ca_8f1d82d9-2807-4d8c-959b-9056925458df_4.png",
+        "arved__Create_a_feature_image_for_Dolphin_Treasure_that_will_ca_8f1d82d9-2807-4d8c-959b-9056925458df_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dolphin Treasure (Version 3).webp",
+        "game_reviews/processed_images/Dolphin Treasure (Version 4).webp",
+        "game_reviews/processed_images/Dolphin Treasure (Version 1).webp",
+        "game_reviews/processed_images/Dolphin Treasure (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/dolphin-treasure.json"
 }

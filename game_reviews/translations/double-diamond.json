@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_2.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_4.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_1.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Double Diamond (Version 3).webp",
+        "game_reviews/processed_images/Double Diamond (Version 2).webp",
+        "game_reviews/processed_images/Double Diamond (Version 1).webp",
+        "game_reviews/processed_images/Double Diamond (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/double-diamond.json"
 }

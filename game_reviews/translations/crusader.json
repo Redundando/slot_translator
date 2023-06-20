@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Crusader_that_i_5526e3fe-36a3-4d46-bfee-3ef7dd65c824_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Crusader_that_i_5526e3fe-36a3-4d46-bfee-3ef7dd65c824_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Crusader_that_i_5526e3fe-36a3-4d46-bfee-3ef7dd65c824_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Crusader_that_i_5526e3fe-36a3-4d46-bfee-3ef7dd65c824_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Crusader (Version 4).webp",
+        "game_reviews/processed_images/Crusader (Version 3).webp",
+        "game_reviews/processed_images/Crusader (Version 2).webp",
+        "game_reviews/processed_images/Crusader (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/crusader.json"
 }

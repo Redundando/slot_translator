@@ -960,7 +960,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_dynamic_and_eye-catching_feature_image_for_Book_5979e1dc-d40d-42df-a0fd-dccf4282aa8c_2.png",
+        "arved__Create_a_dynamic_and_eye-catching_feature_image_for_Book_5979e1dc-d40d-42df-a0fd-dccf4282aa8c_3.png",
+        "arved__Create_a_dynamic_and_eye-catching_feature_image_for_Book_5979e1dc-d40d-42df-a0fd-dccf4282aa8c_1.png",
+        "arved__Create_a_dynamic_and_eye-catching_feature_image_for_Book_5979e1dc-d40d-42df-a0fd-dccf4282aa8c_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Book Of Souls (Version 1).webp",
+        "game_reviews/processed_images/Book Of Souls (Version 4).webp",
+        "game_reviews/processed_images/Book Of Souls (Version 2).webp",
+        "game_reviews/processed_images/Book Of Souls (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/book-of-souls.json"
 }

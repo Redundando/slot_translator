@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_e3014ea3-8f80-4676-8e20-71f2b90d442f_4.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_e3014ea3-8f80-4676-8e20-71f2b90d442f_2.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_e3014ea3-8f80-4676-8e20-71f2b90d442f_1.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_e3014ea3-8f80-4676-8e20-71f2b90d442f_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Buffalo Power Hold And Win (Version 3).webp",
+        "game_reviews/processed_images/Buffalo Power Hold And Win (Version 1).webp",
+        "game_reviews/processed_images/Buffalo Power Hold And Win (Version 4).webp",
+        "game_reviews/processed_images/Buffalo Power Hold And Win (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/buffalo-power-hold-and-win.json"
 }

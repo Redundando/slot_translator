@@ -812,6 +812,16 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Fire_Spel_d691a059-a797-435d-88dd-5222f2e30939_1.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Fire_Spel_d691a059-a797-435d-88dd-5222f2e30939_4.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Fire_Spel_d691a059-a797-435d-88dd-5222f2e30939_3.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Fire_Spel_d691a059-a797-435d-88dd-5222f2e30939_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fire Spell (Version 4).webp",
+        "game_reviews/processed_images/Fire Spell (Version 3).webp",
+        "game_reviews/processed_images/Fire Spell (Version 1).webp",
+        "game_reviews/processed_images/Fire Spell (Version 2).webp"
+    ]
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_3.png",
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_4.png",
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_2.png",
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 2).webp",
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 4).webp",
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 1).webp",
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/crystal-quest-deep-jungle.json"
 }

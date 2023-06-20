@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_4.png",
+        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_3.png",
+        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_1.png",
+        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon Emperor (Version 1).webp",
+        "game_reviews/processed_images/Dragon Emperor (Version 3).webp",
+        "game_reviews/processed_images/Dragon Emperor (Version 4).webp",
+        "game_reviews/processed_images/Dragon Emperor (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/dragon-emperor.json"
 }

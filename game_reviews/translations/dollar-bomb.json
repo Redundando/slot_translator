@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dollar_Bomb_with_the_followin_966d8bca-c3d9-4c34-95e9-14cd78553d6f_3.png",
+        "arved__Create_a_feature_image_for_Dollar_Bomb_with_the_followin_966d8bca-c3d9-4c34-95e9-14cd78553d6f_1.png",
+        "arved__Create_a_feature_image_for_Dollar_Bomb_with_the_followin_966d8bca-c3d9-4c34-95e9-14cd78553d6f_2.png",
+        "arved__Create_a_feature_image_for_Dollar_Bomb_with_the_followin_966d8bca-c3d9-4c34-95e9-14cd78553d6f_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dollar Bomb (Version 4).webp",
+        "game_reviews/processed_images/Dollar Bomb (Version 2).webp",
+        "game_reviews/processed_images/Dollar Bomb (Version 1).webp",
+        "game_reviews/processed_images/Dollar Bomb (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dollar-bomb.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Buffal_b3ec0dcc-1852-49da-839f-b906d9f9b16f_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Buffal_b3ec0dcc-1852-49da-839f-b906d9f9b16f_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Buffal_b3ec0dcc-1852-49da-839f-b906d9f9b16f_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Buffal_b3ec0dcc-1852-49da-839f-b906d9f9b16f_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Buffalo (Version 3).webp",
+        "game_reviews/processed_images/Buffalo (Version 2).webp",
+        "game_reviews/processed_images/Buffalo (Version 1).webp",
+        "game_reviews/processed_images/Buffalo (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/buffalo.json"
 }

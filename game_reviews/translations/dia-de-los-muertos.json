@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_4.png",
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_3.png",
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_1.png",
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dia De Los Muertos (Version 1).webp",
+        "game_reviews/processed_images/Dia De Los Muertos (Version 4).webp",
+        "game_reviews/processed_images/Dia De Los Muertos (Version 2).webp",
+        "game_reviews/processed_images/Dia De Los Muertos (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dia-de-los-muertos.json"
 }

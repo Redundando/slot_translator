@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cloud Corsairs (Version 4).webp",
+        "game_reviews/processed_images/Cloud Corsairs (Version 2).webp",
+        "game_reviews/processed_images/Cloud Corsairs (Version 1).webp",
+        "game_reviews/processed_images/Cloud Corsairs (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/cloud-corsairs.json"
 }

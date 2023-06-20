@@ -12,7 +12,7 @@ from PIL import Image
 def webp_save_with_targetSize(im, filename, target):
     """Save the image as Webp with the given name at best quality that makes less than "target" bytes"""
     # Min and Max quality
-    Qmin, Qmax = 25, 96
+    Qmin, Qmax = 15, 96
     # Highest acceptable quality found
     Qacc = -1
     while Qmin <= Qmax:

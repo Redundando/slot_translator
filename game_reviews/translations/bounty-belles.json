@@ -809,7 +809,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Bounty_3a740e6a-a51b-4b7a-b31a-c44449f55452_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Bounty_3a740e6a-a51b-4b7a-b31a-c44449f55452_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Bounty_3a740e6a-a51b-4b7a-b31a-c44449f55452_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Bounty_3a740e6a-a51b-4b7a-b31a-c44449f55452_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Bounty Belles (Version 2).webp",
+        "game_reviews/processed_images/Bounty Belles (Version 3).webp",
+        "game_reviews/processed_images/Bounty Belles (Version 4).webp",
+        "game_reviews/processed_images/Bounty Belles (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/bounty-belles.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_2.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Calaveras (Version 3).webp",
+        "game_reviews/processed_images/Calaveras (Version 2).webp",
+        "game_reviews/processed_images/Calaveras (Version 1).webp",
+        "game_reviews/processed_images/Calaveras (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/calaveras.json"
 }

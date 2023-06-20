@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_3.png",
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_4.png",
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_2.png",
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dancing In Rio (Version 1).webp",
+        "game_reviews/processed_images/Dancing In Rio (Version 2).webp",
+        "game_reviews/processed_images/Dancing In Rio (Version 4).webp",
+        "game_reviews/processed_images/Dancing In Rio (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dancing-in-rio.json"
 }

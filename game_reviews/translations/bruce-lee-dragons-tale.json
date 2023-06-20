@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_86d356fe-d6bb-4805-b2e5-4f04c79291e6_1.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_86d356fe-d6bb-4805-b2e5-4f04c79291e6_3.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_86d356fe-d6bb-4805-b2e5-4f04c79291e6_4.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_86d356fe-d6bb-4805-b2e5-4f04c79291e6_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Bruce Lee Dragons Tale (Version 4).webp",
+        "game_reviews/processed_images/Bruce Lee Dragons Tale (Version 1).webp",
+        "game_reviews/processed_images/Bruce Lee Dragons Tale (Version 3).webp",
+        "game_reviews/processed_images/Bruce Lee Dragons Tale (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/bruce-lee-dragons-tale.json"
 }

@@ -886,7 +886,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_an_enticing_feature_image_for_Dark_Vortex_with_th_79265e8d-2116-412f-a97e-9c1c9a5649d8_1.png",
+        "arved__Create_an_enticing_feature_image_for_Dark_Vortex_with_th_79265e8d-2116-412f-a97e-9c1c9a5649d8_2.png",
+        "arved__Create_an_enticing_feature_image_for_Dark_Vortex_with_th_79265e8d-2116-412f-a97e-9c1c9a5649d8_4.png",
+        "arved__Create_an_enticing_feature_image_for_Dark_Vortex_with_th_79265e8d-2116-412f-a97e-9c1c9a5649d8_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dark Vortex (Version 2).webp",
+        "game_reviews/processed_images/Dark Vortex (Version 4).webp",
+        "game_reviews/processed_images/Dark Vortex (Version 1).webp",
+        "game_reviews/processed_images/Dark Vortex (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dark-vortex.json"
 }

@@ -960,7 +960,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Creepy_Carnival_that_f_01407695-75af-4017-97a0-d38ba9e18dcd_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Creepy_Carnival_that_f_01407695-75af-4017-97a0-d38ba9e18dcd_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Creepy_Carnival_that_f_01407695-75af-4017-97a0-d38ba9e18dcd_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Creepy_Carnival_that_f_01407695-75af-4017-97a0-d38ba9e18dcd_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Creepy Carnival (Version 2).webp",
+        "game_reviews/processed_images/Creepy Carnival (Version 4).webp",
+        "game_reviews/processed_images/Creepy Carnival (Version 1).webp",
+        "game_reviews/processed_images/Creepy Carnival (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/creepy-carnival.json"
 }

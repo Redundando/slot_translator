@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_fun_and_vibrant_feature_image_for_CandyBlasted__3dfe02d1-949e-479d-bbc9-1a7d6ba813fb_2.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_CandyBlasted__3dfe02d1-949e-479d-bbc9-1a7d6ba813fb_4.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_CandyBlasted__3dfe02d1-949e-479d-bbc9-1a7d6ba813fb_3.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_CandyBlasted__3dfe02d1-949e-479d-bbc9-1a7d6ba813fb_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Candyblasted (Version 2).webp",
+        "game_reviews/processed_images/Candyblasted (Version 4).webp",
+        "game_reviews/processed_images/Candyblasted (Version 1).webp",
+        "game_reviews/processed_images/Candyblasted (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/candyblasted.json"
 }

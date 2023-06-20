@@ -960,7 +960,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Dragon__bae9fad8-1fe2-4162-b46d-a749c6d239ca_2.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Dragon__bae9fad8-1fe2-4162-b46d-a749c6d239ca_1.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Dragon__bae9fad8-1fe2-4162-b46d-a749c6d239ca_3.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Dragon__bae9fad8-1fe2-4162-b46d-a749c6d239ca_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon And Phoenix (Version 3).webp",
+        "game_reviews/processed_images/Dragon And Phoenix (Version 1).webp",
+        "game_reviews/processed_images/Dragon And Phoenix (Version 4).webp",
+        "game_reviews/processed_images/Dragon And Phoenix (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/dragon-and-phoenix.json"
 }

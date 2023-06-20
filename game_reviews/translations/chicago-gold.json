@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_3.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_1.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_2.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Chicago Gold (Version 1).webp",
+        "game_reviews/processed_images/Chicago Gold (Version 4).webp",
+        "game_reviews/processed_images/Chicago Gold (Version 3).webp",
+        "game_reviews/processed_images/Chicago Gold (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/chicago-gold.json"
 }

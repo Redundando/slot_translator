@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Break_da_67ace7cc-428f-4d0c-9393-1897458f2f07_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Break_da_67ace7cc-428f-4d0c-9393-1897458f2f07_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Break_da_67ace7cc-428f-4d0c-9393-1897458f2f07_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Break_da_67ace7cc-428f-4d0c-9393-1897458f2f07_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Break Da Bank Again Respins (Version 4).webp",
+        "game_reviews/processed_images/Break Da Bank Again Respins (Version 3).webp",
+        "game_reviews/processed_images/Break Da Bank Again Respins (Version 2).webp",
+        "game_reviews/processed_images/Break Da Bank Again Respins (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/break-da-bank-again-respins.json"
 }

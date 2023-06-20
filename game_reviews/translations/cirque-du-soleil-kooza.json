@@ -809,7 +809,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_1.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_3.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_2.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 4).webp",
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 1).webp",
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 3).webp",
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/cirque-du-soleil-kooza.json"
 }

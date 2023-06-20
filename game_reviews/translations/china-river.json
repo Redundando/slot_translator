@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_China_River_online_slo_e73132e0-7311-4202-8243-c32d9d5b96e5_1.png",
+        "arved__Prompt_Create_a_feature_image_for_China_River_online_slo_e73132e0-7311-4202-8243-c32d9d5b96e5_2.png",
+        "arved__Prompt_Create_a_feature_image_for_China_River_online_slo_e73132e0-7311-4202-8243-c32d9d5b96e5_3.png",
+        "arved__Prompt_Create_a_feature_image_for_China_River_online_slo_e73132e0-7311-4202-8243-c32d9d5b96e5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/China River (Version 1).webp",
+        "game_reviews/processed_images/China River (Version 2).webp",
+        "game_reviews/processed_images/China River (Version 3).webp",
+        "game_reviews/processed_images/China River (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/china-river.json"
 }

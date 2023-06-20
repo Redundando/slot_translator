@@ -1108,7 +1108,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__For_the_feature_image_of_Boom_Pirates_we_want_to_highlig_639a7f57-71e8-48b4-83bb-d1a8bcb4613d_2.png",
+        "arved__For_the_feature_image_of_Boom_Pirates_we_want_to_highlig_639a7f57-71e8-48b4-83bb-d1a8bcb4613d_4.png",
+        "arved__For_the_feature_image_of_Boom_Pirates_we_want_to_highlig_639a7f57-71e8-48b4-83bb-d1a8bcb4613d_3.png",
+        "arved__For_the_feature_image_of_Boom_Pirates_we_want_to_highlig_639a7f57-71e8-48b4-83bb-d1a8bcb4613d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Boom Pirates (Version 4).webp",
+        "game_reviews/processed_images/Boom Pirates (Version 3).webp",
+        "game_reviews/processed_images/Boom Pirates (Version 1).webp",
+        "game_reviews/processed_images/Boom Pirates (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/boom-pirates.json"
 }

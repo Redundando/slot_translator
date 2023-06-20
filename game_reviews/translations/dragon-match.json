@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dragon_Match_Please_design_a__d4ed07dd-2707-45e9-9f40-425b1e601632_1.png",
+        "arved__Create_a_feature_image_for_Dragon_Match_Please_design_a__d4ed07dd-2707-45e9-9f40-425b1e601632_3.png",
+        "arved__Create_a_feature_image_for_Dragon_Match_Please_design_a__d4ed07dd-2707-45e9-9f40-425b1e601632_2.png",
+        "arved__Create_a_feature_image_for_Dragon_Match_Please_design_a__d4ed07dd-2707-45e9-9f40-425b1e601632_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon Match (Version 1).webp",
+        "game_reviews/processed_images/Dragon Match (Version 4).webp",
+        "game_reviews/processed_images/Dragon Match (Version 2).webp",
+        "game_reviews/processed_images/Dragon Match (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dragon-match.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Crazy Wizard (Version 2).webp",
+        "game_reviews/processed_images/Crazy Wizard (Version 4).webp",
+        "game_reviews/processed_images/Crazy Wizard (Version 3).webp",
+        "game_reviews/processed_images/Crazy Wizard (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/crazy-wizard.json"
 }

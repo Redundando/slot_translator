@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Candy_Witch_tha_1a79189e-c3ac-437a-aab3-ff6997d79910_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Candy_Witch_tha_1a79189e-c3ac-437a-aab3-ff6997d79910_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Candy_Witch_tha_1a79189e-c3ac-437a-aab3-ff6997d79910_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Candy_Witch_tha_1a79189e-c3ac-437a-aab3-ff6997d79910_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Candy Witch (Version 2).webp",
+        "game_reviews/processed_images/Candy Witch (Version 4).webp",
+        "game_reviews/processed_images/Candy Witch (Version 1).webp",
+        "game_reviews/processed_images/Candy Witch (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/candy-witch.json"
 }

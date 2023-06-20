@@ -960,7 +960,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Buffalo_Hunter_t_0fcbb09f-ff7f-4eb6-b34e-012bb437c8a2_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Buffalo_Hunter_t_0fcbb09f-ff7f-4eb6-b34e-012bb437c8a2_2.png",
+        "arved__Create_a_feature_image_fitting_the_game_Buffalo_Hunter_t_0fcbb09f-ff7f-4eb6-b34e-012bb437c8a2_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Buffalo_Hunter_t_0fcbb09f-ff7f-4eb6-b34e-012bb437c8a2_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Buffalo Hunter (Version 4).webp",
+        "game_reviews/processed_images/Buffalo Hunter (Version 2).webp",
+        "game_reviews/processed_images/Buffalo Hunter (Version 1).webp",
+        "game_reviews/processed_images/Buffalo Hunter (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/buffalo-hunter.json"
 }

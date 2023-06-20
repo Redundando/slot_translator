@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_3.png",
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_2.png",
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_1.png",
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Crystal Forest Hd (Version 2).webp",
+        "game_reviews/processed_images/Crystal Forest Hd (Version 3).webp",
+        "game_reviews/processed_images/Crystal Forest Hd (Version 4).webp",
+        "game_reviews/processed_images/Crystal Forest Hd (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/crystal-forest-hd.json"
 }

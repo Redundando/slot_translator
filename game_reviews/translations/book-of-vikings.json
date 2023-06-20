@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__For_the_feature_image_of_Book_of_Vikings_lets_create_a_c_5ea39d9b-94a4-4ed9-959d-21fc6b75ca94_2.png",
+        "arved__For_the_feature_image_of_Book_of_Vikings_lets_create_a_c_5ea39d9b-94a4-4ed9-959d-21fc6b75ca94_4.png",
+        "arved__For_the_feature_image_of_Book_of_Vikings_lets_create_a_c_5ea39d9b-94a4-4ed9-959d-21fc6b75ca94_1.png",
+        "arved__For_the_feature_image_of_Book_of_Vikings_lets_create_a_c_5ea39d9b-94a4-4ed9-959d-21fc6b75ca94_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Book Of Vikings (Version 4).webp",
+        "game_reviews/processed_images/Book Of Vikings (Version 1).webp",
+        "game_reviews/processed_images/Book Of Vikings (Version 2).webp",
+        "game_reviews/processed_images/Book Of Vikings (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/book-of-vikings.json"
 }

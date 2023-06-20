@@ -809,7 +809,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_2.png",
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_1.png",
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_4.png",
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Crystal Crush (Version 2).webp",
+        "game_reviews/processed_images/Crystal Crush (Version 1).webp",
+        "game_reviews/processed_images/Crystal Crush (Version 4).webp",
+        "game_reviews/processed_images/Crystal Crush (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/crystal-crush.json"
 }

@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_Cleopatra_Diamond_Spin_37bb4bc7-adad-421f-b80d-93c4c305db99_3.png",
+        "arved__Please_create_a_feature_image_for_Cleopatra_Diamond_Spin_37bb4bc7-adad-421f-b80d-93c4c305db99_2.png",
+        "arved__Please_create_a_feature_image_for_Cleopatra_Diamond_Spin_37bb4bc7-adad-421f-b80d-93c4c305db99_4.png",
+        "arved__Please_create_a_feature_image_for_Cleopatra_Diamond_Spin_37bb4bc7-adad-421f-b80d-93c4c305db99_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cleopatra Diamond Spins (Version 1).webp",
+        "game_reviews/processed_images/Cleopatra Diamond Spins (Version 2).webp",
+        "game_reviews/processed_images/Cleopatra Diamond Spins (Version 4).webp",
+        "game_reviews/processed_images/Cleopatra Diamond Spins (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/cleopatra-diamond-spins.json"
 }

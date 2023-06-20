@@ -886,7 +886,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dragon_Tribe_a_cartoon-style__ee68064f-512d-4fbf-a5de-7894ada73197_4.png",
+        "arved__Create_a_feature_image_for_Dragon_Tribe_a_cartoon-style__ee68064f-512d-4fbf-a5de-7894ada73197_3.png",
+        "arved__Create_a_feature_image_for_Dragon_Tribe_a_cartoon-style__ee68064f-512d-4fbf-a5de-7894ada73197_1.png",
+        "arved__Create_a_feature_image_for_Dragon_Tribe_a_cartoon-style__ee68064f-512d-4fbf-a5de-7894ada73197_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragon Tribe (Version 4).webp",
+        "game_reviews/processed_images/Dragon Tribe (Version 2).webp",
+        "game_reviews/processed_images/Dragon Tribe (Version 1).webp",
+        "game_reviews/processed_images/Dragon Tribe (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/dragon-tribe.json"
 }

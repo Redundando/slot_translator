@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_with_a_cartoon-style_happy_Maya_w_49584f6d-a4ee-4bed-9cb5-ea555aeb543e_4.png",
+        "arved__Create_a_feature_image_with_a_cartoon-style_happy_Maya_w_49584f6d-a4ee-4bed-9cb5-ea555aeb543e_3.png",
+        "arved__Create_a_feature_image_with_a_cartoon-style_happy_Maya_w_49584f6d-a4ee-4bed-9cb5-ea555aeb543e_1.png",
+        "arved__Create_a_feature_image_with_a_cartoon-style_happy_Maya_w_49584f6d-a4ee-4bed-9cb5-ea555aeb543e_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cleopatra Ii (Version 1).webp",
+        "game_reviews/processed_images/Cleopatra Ii (Version 3).webp",
+        "game_reviews/processed_images/Cleopatra Ii (Version 2).webp",
+        "game_reviews/processed_images/Cleopatra Ii (Version 4).webp"
+    ],
     "filename": "game_reviews/translations/cleopatra-ii.json"
 }

@@ -809,7 +809,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_3.png",
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_1.png",
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_2.png",
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 4).webp",
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 3).webp",
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 1).webp",
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 2).webp"
+    ],
     "filename": "game_reviews/translations/candyways-bonanza-2-megaways.json"
 }

@@ -1034,7 +1034,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Cas_de36a34d-ecee-4618-aa73-c7af7872fd4b_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Cas_de36a34d-ecee-4618-aa73-c7af7872fd4b_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Cas_de36a34d-ecee-4618-aa73-c7af7872fd4b_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Cas_de36a34d-ecee-4618-aa73-c7af7872fd4b_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cash Camel (Version 1).webp",
+        "game_reviews/processed_images/Cash Camel (Version 4).webp",
+        "game_reviews/processed_images/Cash Camel (Version 2).webp",
+        "game_reviews/processed_images/Cash Camel (Version 3).webp"
+    ],
     "filename": "game_reviews/translations/cash-camel.json"
 }

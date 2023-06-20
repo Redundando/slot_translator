@@ -812,7 +812,17 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": [],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Cupid_that_captures_th_bd196650-24b2-4272-ad79-147a3293d042_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Cupid_that_captures_th_bd196650-24b2-4272-ad79-147a3293d042_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Cupid_that_captures_th_bd196650-24b2-4272-ad79-147a3293d042_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Cupid_that_captures_th_bd196650-24b2-4272-ad79-147a3293d042_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Cupid (Version 3).webp",
+        "game_reviews/processed_images/Cupid (Version 2).webp",
+        "game_reviews/processed_images/Cupid (Version 4).webp",
+        "game_reviews/processed_images/Cupid (Version 1).webp"
+    ],
     "filename": "game_reviews/translations/cupid.json"
 }
