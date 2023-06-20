@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/black-widow.json"
+    "filename": "game_reviews/translations/black-widow.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Black_Widow_slot_game_featuri_da3578e6-61b8-46d9-9d07-1ec78872000f_2.png",
+        "arved__Create_a_feature_image_for_Black_Widow_slot_game_featuri_da3578e6-61b8-46d9-9d07-1ec78872000f_1.png",
+        "arved__Create_a_feature_image_for_Black_Widow_slot_game_featuri_da3578e6-61b8-46d9-9d07-1ec78872000f_4.png",
+        "arved__Create_a_feature_image_for_Black_Widow_slot_game_featuri_da3578e6-61b8-46d9-9d07-1ec78872000f_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Black Widow (Version 2).webp",
+        "game_reviews/processed_images/Black Widow (Version 4).webp",
+        "game_reviews/processed_images/Black Widow (Version 1).webp",
+        "game_reviews/processed_images/Black Widow (Version 3).webp"
+    ]
 }

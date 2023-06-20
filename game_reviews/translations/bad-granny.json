@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/bad-granny.json"
+    "filename": "game_reviews/translations/bad-granny.json",
+    "raw_feature_images": [
+        "arved__Promt_for_DALLE_Create_a_feature_image_that_perfectly_ca_04c93601-d840-40a8-ad96-3711edc27b45_2.png",
+        "arved__Promt_for_DALLE_Create_a_feature_image_that_perfectly_ca_04c93601-d840-40a8-ad96-3711edc27b45_1.png",
+        "arved__Promt_for_DALLE_Create_a_feature_image_that_perfectly_ca_04c93601-d840-40a8-ad96-3711edc27b45_3.png",
+        "arved__Promt_for_DALLE_Create_a_feature_image_that_perfectly_ca_04c93601-d840-40a8-ad96-3711edc27b45_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Bad Granny (Version 3).webp",
+        "game_reviews/processed_images/Bad Granny (Version 1).webp",
+        "game_reviews/processed_images/Bad Granny (Version 4).webp",
+        "game_reviews/processed_images/Bad Granny (Version 2).webp"
+    ]
 }

@@ -271,7 +271,6 @@ Review: {self.raw_translation}
         for i in range(attempts):
             html = ""
             html += "<h1>" + self.meta[i].get("meta_title") + "</h1>"
-            html += "<p><strong>Meta description</strong>: " + self.meta[i].get("meta_description") + "</p>"
             html += self.expanded_review_html[i]
 
             html += "<h2>FAQ</h2>"
@@ -285,8 +284,8 @@ Review: {self.raw_translation}
             for con in self.meta[i].get("cons"):
                 html += f"<li>{con}</li>"
             html += "</ul>"
-            html += f"<p><i>{self.dalle_prompt}</i></p>"
-
+            html += "<p><strong>" + self.meta[i].get("meta_title") + "</strong></p>"
+            html += "<p><i>" + self.meta[i].get("meta_description") + "</i></p>"
             result.append(html)
         return result
 

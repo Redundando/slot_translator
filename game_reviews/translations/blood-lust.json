@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/blood-lust.json"
+    "filename": "game_reviews/translations/blood-lust.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Blo_3d101d55-ea21-44a7-b44d-9467f803b968_1.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Blo_3d101d55-ea21-44a7-b44d-9467f803b968_4.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Blo_3d101d55-ea21-44a7-b44d-9467f803b968_2.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Blo_3d101d55-ea21-44a7-b44d-9467f803b968_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Blood Lust (Version 1).webp",
+        "game_reviews/processed_images/Blood Lust (Version 2).webp",
+        "game_reviews/processed_images/Blood Lust (Version 4).webp",
+        "game_reviews/processed_images/Blood Lust (Version 3).webp"
+    ]
 }

@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/black-knight.json"
+    "filename": "game_reviews/translations/black-knight.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Black_Kn_72b284bf-7f35-4560-a207-ed92b04b035a_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Black_Kn_72b284bf-7f35-4560-a207-ed92b04b035a_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Black_Kn_72b284bf-7f35-4560-a207-ed92b04b035a_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Black_Kn_72b284bf-7f35-4560-a207-ed92b04b035a_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Black Knight (Version 3).webp",
+        "game_reviews/processed_images/Black Knight (Version 4).webp",
+        "game_reviews/processed_images/Black Knight (Version 2).webp",
+        "game_reviews/processed_images/Black Knight (Version 1).webp"
+    ]
 }

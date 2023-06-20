@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/blazing-x.json"
+    "filename": "game_reviews/translations/blazing-x.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Blazing_X_1.png",
+        "arved__Create_a_feature_image_for_Blazing_X_4.png",
+        "arved__Create_a_feature_image_for_Blazing_X_2.png",
+        "arved__Create_a_feature_image_for_Blazing_X_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Blazing X (Version 1).webp",
+        "game_reviews/processed_images/Blazing X (Version 2).webp",
+        "game_reviews/processed_images/Blazing X (Version 4).webp",
+        "game_reviews/processed_images/Blazing X (Version 3).webp"
+    ]
 }

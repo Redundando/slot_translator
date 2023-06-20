@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/300-shields-extreme.json"
+    "filename": "game_reviews/translations/300-shields-extreme.json",
+    "raw_feature_images": [
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_f93998f4-7e62-460d-862a-1273384f23cd_3.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_f93998f4-7e62-460d-862a-1273384f23cd_2.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_f93998f4-7e62-460d-862a-1273384f23cd_1.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_f93998f4-7e62-460d-862a-1273384f23cd_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/300 Shields Extreme (Version 4).webp",
+        "game_reviews/processed_images/300 Shields Extreme (Version 1).webp",
+        "game_reviews/processed_images/300 Shields Extreme (Version 3).webp",
+        "game_reviews/processed_images/300 Shields Extreme (Version 2).webp"
+    ]
 }

@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/banana-rock.json"
+    "filename": "game_reviews/translations/banana-rock.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Banana_Rock_that_showc_57c137fd-ecc5-4bfe-95a5-ee9ab0c5a1d8_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Banana_Rock_that_showc_57c137fd-ecc5-4bfe-95a5-ee9ab0c5a1d8_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Banana_Rock_that_showc_57c137fd-ecc5-4bfe-95a5-ee9ab0c5a1d8_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Banana_Rock_that_showc_57c137fd-ecc5-4bfe-95a5-ee9ab0c5a1d8_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Banana Rock (Version 4).webp",
+        "game_reviews/processed_images/Banana Rock (Version 3).webp",
+        "game_reviews/processed_images/Banana Rock (Version 1).webp",
+        "game_reviews/processed_images/Banana Rock (Version 2).webp"
+    ]
 }

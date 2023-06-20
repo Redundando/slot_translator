@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/biergarten-fest.json"
+    "filename": "game_reviews/translations/biergarten-fest.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Biergarten Fest (Version 2).webp",
+        "game_reviews/processed_images/Biergarten Fest (Version 1).webp",
+        "game_reviews/processed_images/Biergarten Fest (Version 3).webp",
+        "game_reviews/processed_images/Biergarten Fest (Version 4).webp"
+    ]
 }

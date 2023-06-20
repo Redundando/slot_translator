@@ -811,5 +811,18 @@
                 ]
             }
         }
-    ]
+    ],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Dragons_Inferno_that_features_26b3198d-d229-448c-8765-ca4a1d68a7b7_1.png",
+        "arved__Create_a_feature_image_for_Dragons_Inferno_that_features_26b3198d-d229-448c-8765-ca4a1d68a7b7_4.png",
+        "arved__Create_a_feature_image_for_Dragons_Inferno_that_features_26b3198d-d229-448c-8765-ca4a1d68a7b7_2.png",
+        "arved__Create_a_feature_image_for_Dragons_Inferno_that_features_26b3198d-d229-448c-8765-ca4a1d68a7b7_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Dragons Inferno (Version 2).webp",
+        "game_reviews/processed_images/Dragons Inferno (Version 1).webp",
+        "game_reviews/processed_images/Dragons Inferno (Version 3).webp",
+        "game_reviews/processed_images/Dragons Inferno (Version 4).webp"
+    ],
+    "filename": "game_reviews/translations/dragons-inferno.json"
 }

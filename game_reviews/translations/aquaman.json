@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/aquaman.json"
+    "filename": "game_reviews/translations/aquaman.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_4.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_1.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_3.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Aquaman (Version 4).webp",
+        "game_reviews/processed_images/Aquaman (Version 2).webp",
+        "game_reviews/processed_images/Aquaman (Version 1).webp",
+        "game_reviews/processed_images/Aquaman (Version 3).webp"
+    ]
 }

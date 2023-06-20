@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/aztec-magic-deluxe.json"
+    "filename": "game_reviews/translations/aztec-magic-deluxe.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Aztec_Ma_a75f9bbc-04ef-4336-9e14-3e38de305a42_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Aztec_Ma_a75f9bbc-04ef-4336-9e14-3e38de305a42_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Aztec_Ma_a75f9bbc-04ef-4336-9e14-3e38de305a42_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Aztec_Ma_a75f9bbc-04ef-4336-9e14-3e38de305a42_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Aztec Magic Deluxe (Version 3).webp",
+        "game_reviews/processed_images/Aztec Magic Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Aztec Magic Deluxe (Version 2).webp",
+        "game_reviews/processed_images/Aztec Magic Deluxe (Version 4).webp"
+    ]
 }

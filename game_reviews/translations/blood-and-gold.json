@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/blood-and-gold.json"
+    "filename": "game_reviews/translations/blood-and-gold.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_for_the_ga_da6576cb-74a7-4c61-b151-b7f5dcbedf09_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_for_the_ga_da6576cb-74a7-4c61-b151-b7f5dcbedf09_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_for_the_ga_da6576cb-74a7-4c61-b151-b7f5dcbedf09_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_for_the_ga_da6576cb-74a7-4c61-b151-b7f5dcbedf09_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Blood And Gold (Version 2).webp",
+        "game_reviews/processed_images/Blood And Gold (Version 1).webp",
+        "game_reviews/processed_images/Blood And Gold (Version 4).webp",
+        "game_reviews/processed_images/Blood And Gold (Version 3).webp"
+    ]
 }

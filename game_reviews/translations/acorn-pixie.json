@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/acorn-pixie.json"
+    "filename": "game_reviews/translations/acorn-pixie.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Acorn_Pixie__da91c52c-c9b9-49c3-9625-02f8813bc708_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Acorn_Pixie__da91c52c-c9b9-49c3-9625-02f8813bc708_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Acorn_Pixie__da91c52c-c9b9-49c3-9625-02f8813bc708_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Acorn_Pixie__da91c52c-c9b9-49c3-9625-02f8813bc708_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Acorn Pixie (Version 3).webp",
+        "game_reviews/processed_images/Acorn Pixie (Version 2).webp",
+        "game_reviews/processed_images/Acorn Pixie (Version 4).webp",
+        "game_reviews/processed_images/Acorn Pixie (Version 1).webp"
+    ]
 }

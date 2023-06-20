@@ -47,3 +47,5 @@ class ChatGpt:
                 print((str(e)))
                 traceback.print_exc()
 
+a = ChatGpt(prompt='Cartoon of a camel with cash')
+print(a.create_image())

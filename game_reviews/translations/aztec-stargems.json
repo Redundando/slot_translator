@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/aztec-stargems.json"
+    "filename": "game_reviews/translations/aztec-stargems.json",
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_cartoon-style_image_for_the_slot__e342ccea-5e0c-4a0c-8d0e-bdface8a6867_1.png",
+        "arved__Prompt_Please_create_a_cartoon-style_image_for_the_slot__e342ccea-5e0c-4a0c-8d0e-bdface8a6867_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_image_for_the_slot__e342ccea-5e0c-4a0c-8d0e-bdface8a6867_4.png",
+        "arved__Prompt_Please_create_a_cartoon-style_image_for_the_slot__e342ccea-5e0c-4a0c-8d0e-bdface8a6867_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Aztec Stargems (Version 1).webp",
+        "game_reviews/processed_images/Aztec Stargems (Version 3).webp",
+        "game_reviews/processed_images/Aztec Stargems (Version 2).webp",
+        "game_reviews/processed_images/Aztec Stargems (Version 4).webp"
+    ]
 }

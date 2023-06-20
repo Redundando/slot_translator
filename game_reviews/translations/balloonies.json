@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/balloonies.json"
+    "filename": "game_reviews/translations/balloonies.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_for_the_g_7f9e6d71-2fd6-4de4-8b06-f62a36cb500e_4.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_for_the_g_7f9e6d71-2fd6-4de4-8b06-f62a36cb500e_1.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_for_the_g_7f9e6d71-2fd6-4de4-8b06-f62a36cb500e_2.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_for_the_g_7f9e6d71-2fd6-4de4-8b06-f62a36cb500e_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Balloonies (Version 4).webp",
+        "game_reviews/processed_images/Balloonies (Version 3).webp",
+        "game_reviews/processed_images/Balloonies (Version 1).webp",
+        "game_reviews/processed_images/Balloonies (Version 2).webp"
+    ]
 }

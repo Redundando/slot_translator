@@ -812,5 +812,17 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/american-dad.json"
+    "filename": "game_reviews/translations/american-dad.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_American_Dad_that_captures_th_0a51f77a-d285-4c59-8d82-3df05d503c6a_1.png",
+        "arved__Create_a_feature_image_for_American_Dad_that_captures_th_0a51f77a-d285-4c59-8d82-3df05d503c6a_4.png",
+        "arved__Create_a_feature_image_for_American_Dad_that_captures_th_0a51f77a-d285-4c59-8d82-3df05d503c6a_3.png",
+        "arved__Create_a_feature_image_for_American_Dad_that_captures_th_0a51f77a-d285-4c59-8d82-3df05d503c6a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/American Dad (Version 2).webp",
+        "game_reviews/processed_images/American Dad (Version 3).webp",
+        "game_reviews/processed_images/American Dad (Version 4).webp",
+        "game_reviews/processed_images/American Dad (Version 1).webp"
+    ]
 }
