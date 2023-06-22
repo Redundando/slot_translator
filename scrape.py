@@ -102,4 +102,5 @@ def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitema
         save_game_review(language,game_url)
 
 if __name__ == '__main__':
-    save_all_game_reviews()
+    #save_all_game_reviews()
+    pass

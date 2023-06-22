@@ -157,7 +157,7 @@ I'm writing a review for the casino slot game "{self.thing_name}".
 
 Below is a JSON with the text for a sub section of this review.
 
-- Please expand the content to {"two" if paragraphs == 2 else "three"} times the length
+- Please rephrase the content
 - {tone}
 - Encompass the headline with <h2> tags (capitalize according to AP style)
 - Encompass each paragraph with <p> html tags
