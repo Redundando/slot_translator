@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Sticky Wilds feature during Free Spins rounds",
-                    "Up to 50 pay lines available",
-                    "Simple graphics and legible symbols",
-                    "Gamble feature to increase winnings"
+                    "Simple yet legible graphics",
+                    "Multiple bonus features",
+                    "Sticky Wilds increase winning chances",
+                    "Vibrant and colorful design"
                 ],
                 "cons": [
-                    "Lower payouts compared to other popular slot games",
-                    "No progressive jackpot feature"
+                    "Limited variety of symbols",
+                    "Gamble feature may not appeal to all players"
                 ],
-                "meta_title": "Play Miss Kitty Free: Review and Strategies | Top Online Slots",
-                "meta_description": "Play Miss Kitty for free and read our review of the game, including winning strategies, bonus features, and winning opportunities. Top online slot gaming!"
+                "meta_title": "Play Miss Kitty Free | Review and Gameplay",
+                "meta_description": "Discover the charm of Miss Kitty slot game and play for free. Read our review to learn more."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Miss Kitty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMiss Kitty is a five-reel, three-row slot game that allows players to activate up to 50 pay lines. Players simply need to hit the “Play” button to set the reels spinning and aim to align identical symbols from left to right.\n\nSymbols\n\nThe slot machine boasts simple yet legible graphics and features symbols that complement the game's overall theme. Symbols players can find alongside Miss Kitty include a Full Moon, Red Fish, Little Bird, a Mouse on wheels, a Milk Carton, a ball of Wool, and the classic Poker letters J, Q, K, and A, alongside numbers 9 and 10. Miss Kitty serves as the Wild Symbol, while the Full Moon is the Scatter Symbol in the game.\n\nBonus Features\n\nThe game offers several bonus features that increase players' chances of winning. The Miss Kitty symbol can substitute any other symbol except for the Scatter, while the Full Moon symbol triggers the bonus game when it shows up on any of the reels in a set of three, offering ten Free Spins. During these Free Spins, any symbols depicting Miss Kitty become Sticky Wilds, increasing players' chances of forming more winning combinations. Players can even re-trigger more Free Spins if they catch the Full Moon symbol during the round. The Gamble feature, which allows players to increase their winnings by correctly guessing the colour or suit of a hidden card, is also available.\n\nDesign\n\nMiss Kitty features a charming purple cat and other loveable animals in a vibrant and colourful setting. The backdrop to the slot machine is a dark cityscape awash in moonlight, with the magnificent full moon itself being one of the symbols on the reels. The game boasts simple yet legible graphics, well-crafted symbols, and the right tunes and thrilling sound effects that create the perfect atmosphere for a satisfying gaming experience.\n\nWinning Opportunities\n\nWith up to 50 pay lines, Miss Kitty offers several winning opportunities for seasoned gamblers. The Sticky Wilds feature during the Free Spins round increases players' chances of forming more winning combinations, leading to excellent payouts. Additionally, players can increase their winnings further by correctly guessing the colour or suit of a hidden card in the Gamble feature. Similar slots to Miss Kitty include 50 Lions and 50 Dragons, both from Aristocrat Technologies, which have similar mechanisms to trigger bonus rounds and also offer up to 50 pay lines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Miss Kitty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMiss Kitty is a five-reel, three-row slot game that allows players to activate up to 50 pay lines. Players simply need to hit the “Play” button to set the reels spinning and aim to align identical symbols from left to right.\n\nSymbols\n\nThe slot machine boasts simple yet legible graphics and features symbols that complement the game's overall theme. Symbols players can find alongside Miss Kitty include a Full Moon, Red Fish, Little Bird, a Mouse on wheels, a Milk Carton, a ball of Wool, and the classic Poker letters J, Q, K, and A, alongside numbers 9 and 10. Miss Kitty serves as the Wild Symbol, while the Full Moon is the Scatter Symbol in the game.\n\nBonus Features\n\nThe game offers several bonus features that increase players' chances of winning. The Miss Kitty symbol can substitute any other symbol except for the Scatter, while the Full Moon symbol triggers the bonus game when it shows up on any of the reels in a set of three, offering ten Free Spins. During these Free Spins, any symbols depicting Miss Kitty become Sticky Wilds, increasing players' chances of forming more winning combinations. Players can even re-trigger more Free Spins if they catch the Full Moon symbol during the round. The Gamble feature, which allows players to increase their winnings by correctly guessing the colour or suit of a hidden card, is also available.\n\nDesign\n\nMiss Kitty features a charming purple cat and other loveable animals in a vibrant and colourful setting. The backdrop to the slot machine is a dark cityscape awash in moonlight, with the magnificent full moon itself being one of the symbols on the reels. The game boasts simple yet legible graphics, well-crafted symbols, and the right tunes and thrilling sound effects that create the perfect atmosphere for a satisfying gaming experience.\n\nWinning Opportunities\n\nWith up to 50 pay lines, Miss Kitty offers several winning opportunities for seasoned gamblers. The Sticky Wilds feature during the Free Spins round increases players' chances of forming more winning combinations, leading to excellent payouts. Additionally, players can increase their winnings further by correctly guessing the colour or suit of a hidden card in the Gamble feature. Similar slots to Miss Kitty include 50 Lions and 50 Dragons, both from Aristocrat Technologies, which have similar mechanisms to trigger bonus rounds and also offer up to 50 pay lines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9ZcVxEcxR5Q1xMTmOEGUOXMCCJi",
+                "id": "chatcmpl-7WXmWzCi7OfS2iGLmi32uejisqEiS",
                 "object": "chat.completion",
-                "created": 1687420996,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990708,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Sticky Wilds feature during Free Spins rounds\",\n        \"Up to 50 pay lines available\",\n        \"Simple graphics and legible symbols\",\n        \"Gamble feature to increase winnings\"\n    ],\n    \"cons\": [\n        \"Lower payouts compared to other popular slot games\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Miss Kitty Free: Review and Strategies | Top Online Slots\",\n    \"meta_description\": \"Play Miss Kitty for free and read our review of the game, including winning strategies, bonus features, and winning opportunities. Top online slot gaming!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple yet legible graphics\",\n    \"Multiple bonus features\",\n    \"Sticky Wilds increase winning chances\",\n    \"Vibrant and colorful design\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"Gamble feature may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Miss Kitty Free | Review and Gameplay\",\n  \"meta_description\": \"Discover the charm of Miss Kitty slot game and play for free. Read our review to learn more.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 661,
-                    "completion_tokens": 131,
-                    "total_tokens": 792
+                    "prompt_tokens": 658,
+                    "completion_tokens": 110,
+                    "total_tokens": 768
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/miss-kitty.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_game_Miss_Kitty_in_a_cart_8a3c4274-5731-47e1-bd02-c208cf4bfbc9_3.png",
+        "arved__Create_a_feature_image_for_the_game_Miss_Kitty_in_a_cart_8a3c4274-5731-47e1-bd02-c208cf4bfbc9_1.png",
+        "arved__Create_a_feature_image_for_the_game_Miss_Kitty_in_a_cart_8a3c4274-5731-47e1-bd02-c208cf4bfbc9_4.png",
+        "arved__Create_a_feature_image_for_the_game_Miss_Kitty_in_a_cart_8a3c4274-5731-47e1-bd02-c208cf4bfbc9_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Miss Kitty (Version 3).webp",
+        "game_reviews/processed_images/Miss Kitty (Version 1).webp",
+        "game_reviews/processed_images/Miss Kitty (Version 4).webp",
+        "game_reviews/processed_images/Miss Kitty (Version 2).webp"
+    ],
+    "slug": "miss-kitty",
+    "name": "Miss Kitty",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Miss-Kitty-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Miss Kitty Free | Review and Gameplay' ### Meta set: 'Discover the charm of Miss Kitty slot game and play for free. Read our review to learn more.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

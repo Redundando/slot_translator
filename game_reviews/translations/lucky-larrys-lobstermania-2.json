@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting bonus features with great payouts",
-                    "Themed symbols for a cohesive feel",
-                    "Fast and dynamic gameplay mechanics",
-                    "Mobile-compatible and allows for deposits and withdrawals on-the-go"
+                    "Fast gameplay mechanics",
+                    "Multiple bonus features available",
+                    "High payouts and multipliers",
+                    "Mobile compatibility for on-the-go play"
                 ],
                 "cons": [
-                    "The minimum bet may be a bit high for some players",
-                    "Limited number of paylines compared to other slot games"
+                    "Limited variation in symbol values",
+                    "Limited options in the Bonus Game"
                 ],
-                "meta_title": "Play Lucky Larry's Lobstermania 2 for Free - Review",
-                "meta_description": "Read our review of Lucky Larry's Lobstermania 2 and play for free. Discover exciting bonus features and mobile compatibility with IGT's top slot game."
+                "meta_title": "Play Lucky Larry’s Lobstermania 2 for Free!",
+                "meta_description": "Read our review of Lucky Larry’s Lobstermania 2 and play this exciting game for free online."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Larry’s Lobstermania 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLucky Larry’s Lobstermania 2 consists of 5 reels and 40 paylines. The gameplay mechanics are very fast, creating a dynamic effect during the game. The minimum bet is €1.00 up to a maximum of €10.00, and with the Bonus Game, you can get multipliers ranging from 40x to 95x the token value.\n\nBonus features\n\nThis game offers several bonus features such as two Wilds with the Lobster Mania 2 logo in different colors and with different payouts. The Jackpot symbol can appear on any icon except the Wild and can give you from a minimum of 2,500 coins up to 50,000 and more. There's a multiplier that can appear on the standard symbols Buoy, Water House, Lighthouse, and Motorboat and can increase your win by x3 or x5. If you are able to align three or more Wilds, the Bonus Game is triggered and you can choose between two options: the Buoy Bonus or the Free Spins Bonus.\n\nSymbols and payouts\n\nAll the symbols of the slot machine are themed around the sea. The Motorboat and the Buoy are worth the same. The Water House and the Lighthouse are worth the same, but their value is lower than the previous symbols. The standard playing cards 8, 9, 10, J, Q, and K also make an appearance. The Jackpot symbol can give you from a minimum of 2,500 coins up to 50,000 and more. The Bonus Game can give you multipliers ranging from 40x to 95x the token value.\n\nMobile compatibility\n\nYes, Lucky Larry’s Lobstermania 2 supports mobile platforms for Android, iOS, and Windows devices and allows for deposits and withdrawals directly in on-the-go mode, so you can spin the reels whenever and wherever you want!\n\nGame provider and licensing\n\nLucky Larry’s Lobstermania 2 is developed by IGT, one of the best names in the iGaming industry worldwide. IGT is a fully licensed game provider. At Slotjava, we only select safe and regulated games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Larry’s Lobstermania 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLucky Larry’s Lobstermania 2 consists of 5 reels and 40 paylines. The gameplay mechanics are very fast, creating a dynamic effect during the game. The minimum bet is €1.00 up to a maximum of €10.00, and with the Bonus Game, you can get multipliers ranging from 40x to 95x the token value.\n\nBonus features\n\nThis game offers several bonus features such as two Wilds with the Lobster Mania 2 logo in different colors and with different payouts. The Jackpot symbol can appear on any icon except the Wild and can give you from a minimum of 2,500 coins up to 50,000 and more. There's a multiplier that can appear on the standard symbols Buoy, Water House, Lighthouse, and Motorboat and can increase your win by x3 or x5. If you are able to align three or more Wilds, the Bonus Game is triggered and you can choose between two options: the Buoy Bonus or the Free Spins Bonus.\n\nSymbols and payouts\n\nAll the symbols of the slot machine are themed around the sea. The Motorboat and the Buoy are worth the same. The Water House and the Lighthouse are worth the same, but their value is lower than the previous symbols. The standard playing cards 8, 9, 10, J, Q, and K also make an appearance. The Jackpot symbol can give you from a minimum of 2,500 coins up to 50,000 and more. The Bonus Game can give you multipliers ranging from 40x to 95x the token value.\n\nMobile compatibility\n\nYes, Lucky Larry’s Lobstermania 2 supports mobile platforms for Android, iOS, and Windows devices and allows for deposits and withdrawals directly in on-the-go mode, so you can spin the reels whenever and wherever you want!\n\nGame provider and licensing\n\nLucky Larry’s Lobstermania 2 is developed by IGT, one of the best names in the iGaming industry worldwide. IGT is a fully licensed game provider. At Slotjava, we only select safe and regulated games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3042RdSCp147eY6lVshU9a9yrSO",
+                "id": "chatcmpl-7WWiDrX7A0KcLGCvV4vgTVYfKSS0l",
                 "object": "chat.completion",
-                "created": 1687395728,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986597,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting bonus features with great payouts\",\n        \"Themed symbols for a cohesive feel\",\n        \"Fast and dynamic gameplay mechanics\",\n        \"Mobile-compatible and allows for deposits and withdrawals on-the-go\"\n    ],\n    \"cons\": [\n        \"The minimum bet may be a bit high for some players\",\n        \"Limited number of paylines compared to other slot games\"\n    ],\n    \"meta_title\": \"Play Lucky Larry's Lobstermania 2 for Free - Review\",\n    \"meta_description\": \"Read our review of Lucky Larry's Lobstermania 2 and play for free. Discover exciting bonus features and mobile compatibility with IGT's top slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fast gameplay mechanics\",\n    \"Multiple bonus features available\",\n    \"High payouts and multipliers\",\n    \"Mobile compatibility for on-the-go play\"\n  ],\n  \"cons\": [\n    \"Limited variation in symbol values\",\n    \"Limited options in the Bonus Game\"\n  ],\n  \"meta_title\": \"Play Lucky Larry’s Lobstermania 2 for Free!\",\n  \"meta_description\": \"Read our review of Lucky Larry’s Lobstermania 2 and play this exciting game for free online.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 626,
-                    "completion_tokens": 145,
-                    "total_tokens": 771
+                    "prompt_tokens": 623,
+                    "completion_tokens": 110,
+                    "total_tokens": 733
                 }
             }
         },
@@ -811,5 +811,22 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-larrys-lobstermania-2.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon_feature_image_for_LUCKY_LARRYS_LOBSTERM_614f26c4-770b-4807-8a84-78fbc1acc6ad_4.png",
+        "arved__Create_a_cartoon_feature_image_for_LUCKY_LARRYS_LOBSTERM_614f26c4-770b-4807-8a84-78fbc1acc6ad_3.png",
+        "arved__Create_a_cartoon_feature_image_for_LUCKY_LARRYS_LOBSTERM_614f26c4-770b-4807-8a84-78fbc1acc6ad_2.png",
+        "arved__Create_a_cartoon_feature_image_for_LUCKY_LARRYS_LOBSTERM_614f26c4-770b-4807-8a84-78fbc1acc6ad_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Larrys Lobstermania 2 (Version 1).webp",
+        "game_reviews/processed_images/Lucky Larrys Lobstermania 2 (Version 4).webp",
+        "game_reviews/processed_images/Lucky Larrys Lobstermania 2 (Version 2).webp",
+        "game_reviews/processed_images/Lucky Larrys Lobstermania 2 (Version 3).webp"
+    ],
+    "slug": "lucky-larrys-lobstermania-2",
+    "name": "Lucky Larry’s Lobstermania 2",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

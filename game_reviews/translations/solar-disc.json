@@ -1035,6 +1035,24 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_7d54ddd4-38db-45bb-ada9-8addd5b4c0c5_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_7d54ddd4-38db-45bb-ada9-8addd5b4c0c5_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_7d54ddd4-38db-45bb-ada9-8addd5b4c0c5_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_7d54ddd4-38db-45bb-ada9-8addd5b4c0c5_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_923f4ad0-13f9-4e5a-982a-069f296939e4_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_923f4ad0-13f9-4e5a-982a-069f296939e4_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_923f4ad0-13f9-4e5a-982a-069f296939e4_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_923f4ad0-13f9-4e5a-982a-069f296939e4_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Solar Disc (Version 6).webp",
+        "game_reviews/processed_images/Solar Disc (Version 7).webp",
+        "game_reviews/processed_images/Solar Disc (Version 5).webp",
+        "game_reviews/processed_images/Solar Disc (Version 8).webp"
+    ],
+    "slug": "solar-disc",
+    "name": "Solar Disc",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "192 paylines provide a higher chance of winning",
-                    "The black knight symbol acts as a Wild and a 10x multiplier",
-                    "Impressive 3D graphics create a medieval world",
-                    "Free spins bonus feature can award up to 25 free spins"
+                    "Combines classic gameplay features with modern 3D graphics",
+                    "192 paylines for a higher chance of winning",
+                    "Black knight symbol acts as a Wild and a 10x multiplier",
+                    "Free spins bonus feature that can award up to 25 free spins"
                 ],
                 "cons": [
-                    "May not appeal to those who don't enjoy retro or medieval themes",
-                    "Not a unique game in terms of features"
+                    "Limited number of bonus features",
+                    "May not appeal to players who prefer non-medieval themes"
                 ],
-                "meta_title": "Play Knight's Keep for Free - Retro-Themed 3D Slot Game",
-                "meta_description": "Experience Knight's Keep, a retro-themed slot game with 192 paylines, free spins, and exciting multiplier symbols. Play for free and discover a medieval world."
+                "meta_title": "Play Knight’s Keep Free: Retro-Themed Slot Game with Exciting Features",
+                "meta_description": "Experience the thrill of Knight’s Keep, a retro-themed slot game with modern 3D graphics. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Knight’s Keep\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nKnight's Keep is a retro-themed slot game that combines classic gameplay features with modern 3D graphics. With 192 paylines, this game offers a higher chance of winning. The black knight symbol acts as a Wild and a 10x multiplier and can substitute any symbol in the payline. The King symbol has a 300x multiplier, the Queen has a 250x multiplier, the Crown has a 150x multiplier, and the Scepter has a 100x multiplier. The free spins bonus feature can award up to 25 free spins.\n\nGraphics\n\nKnight's Keep has impressive 3D graphics that transport you to a medieval world with knights, queens, and castles. The Real Boost game engine enhances the animations, making the game more exciting. The symbols give a retro vibe to the game, and the overall dark ambiance creates an electrifying gaming experience.\n\nNumber of Paylines\n\nKnight's Keep stands out for its 192 paylines, which is significantly higher than the average. This means a higher chance of winning. The configuration is typical of WMS slot games, and there are opportunities for substantial multipliers.\n\nBonus Features\n\nKnight's Keep has several bonus features. The black knight symbol is both a Wild and a 10x multiplier, which can be substituted for any symbol in the payline. The King, Queen, Crown, and Scepter symbols also offer significant multipliers. The free spins bonus feature can award up to 25 free spins depending on how many times it appears between reels 3 and 6. These bonus features, combined with the high number of paylines, increase the chances of winning substantial amounts of money.\n\nSimilar Games\n\nWMS has produced two other slot games similar to Knight's Keep with a medieval theme. The first one is Black Knight, which has 5 reels and 30 paylines with 3D graphics. The second is Black Knight 2, the sequel to Black Knight, which has increased the probability of getting symbols in paylines. These slot games cater to those who enjoy the Middle Ages theme with knights, queens, and castles.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Knight’s Keep\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nKnight's Keep is a retro-themed slot game that combines classic gameplay features with modern 3D graphics. With 192 paylines, this game offers a higher chance of winning. The black knight symbol acts as a Wild and a 10x multiplier and can substitute any symbol in the payline. The King symbol has a 300x multiplier, the Queen has a 250x multiplier, the Crown has a 150x multiplier, and the Scepter has a 100x multiplier. The free spins bonus feature can award up to 25 free spins.\n\nGraphics\n\nKnight's Keep has impressive 3D graphics that transport you to a medieval world with knights, queens, and castles. The Real Boost game engine enhances the animations, making the game more exciting. The symbols give a retro vibe to the game, and the overall dark ambiance creates an electrifying gaming experience.\n\nNumber of Paylines\n\nKnight's Keep stands out for its 192 paylines, which is significantly higher than the average. This means a higher chance of winning. The configuration is typical of WMS slot games, and there are opportunities for substantial multipliers.\n\nBonus Features\n\nKnight's Keep has several bonus features. The black knight symbol is both a Wild and a 10x multiplier, which can be substituted for any symbol in the payline. The King, Queen, Crown, and Scepter symbols also offer significant multipliers. The free spins bonus feature can award up to 25 free spins depending on how many times it appears between reels 3 and 6. These bonus features, combined with the high number of paylines, increase the chances of winning substantial amounts of money.\n\nSimilar Games\n\nWMS has produced two other slot games similar to Knight's Keep with a medieval theme. The first one is Black Knight, which has 5 reels and 30 paylines with 3D graphics. The second is Black Knight 2, the sequel to Black Knight, which has increased the probability of getting symbols in paylines. These slot games cater to those who enjoy the Middle Ages theme with knights, queens, and castles.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TyuNFifF9rDlHZyCzeJhg8gYgoq5",
+                "id": "chatcmpl-7WW329KJwPGAxG5Xf6o1CJS0yRrPc",
                 "object": "chat.completion",
-                "created": 1687379999,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984044,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"192 paylines provide a higher chance of winning\",\n        \"The black knight symbol acts as a Wild and a 10x multiplier\",\n        \"Impressive 3D graphics create a medieval world\",\n        \"Free spins bonus feature can award up to 25 free spins\"\n    ],\n    \"cons\": [\n        \"May not appeal to those who don't enjoy retro or medieval themes\",\n        \"Not a unique game in terms of features\"\n    ],\n    \"meta_title\": \"Play Knight's Keep for Free - Retro-Themed 3D Slot Game\",\n    \"meta_description\": \"Experience Knight's Keep, a retro-themed slot game with 192 paylines, free spins, and exciting multiplier symbols. Play for free and discover a medieval world.\"  \n}"
+                            "content": "{\n  \"pros\": [\n    \"Combines classic gameplay features with modern 3D graphics\",\n    \"192 paylines for a higher chance of winning\",\n    \"Black knight symbol acts as a Wild and a 10x multiplier\",\n    \"Free spins bonus feature that can award up to 25 free spins\"\n  ],\n  \"cons\": [\n    \"Limited number of bonus features\",\n    \"May not appeal to players who prefer non-medieval themes\"\n  ],\n  \"meta_title\": \"Play Knight’s Keep Free: Retro-Themed Slot Game with Exciting Features\",\n  \"meta_description\": \"Experience the thrill of Knight’s Keep, a retro-themed slot game with modern 3D graphics. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 611,
-                    "completion_tokens": 163,
-                    "total_tokens": 774
+                    "prompt_tokens": 608,
+                    "completion_tokens": 150,
+                    "total_tokens": 758
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/knights-keep.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Knights_Keep_Design_a_cartoon_ead63d8d-82bd-4ce5-80d3-10c4863b980a_4.png",
+        "arved__Create_a_feature_image_for_Knights_Keep_Design_a_cartoon_ead63d8d-82bd-4ce5-80d3-10c4863b980a_1.png",
+        "arved__Create_a_feature_image_for_Knights_Keep_Design_a_cartoon_ead63d8d-82bd-4ce5-80d3-10c4863b980a_3.png",
+        "arved__Create_a_feature_image_for_Knights_Keep_Design_a_cartoon_ead63d8d-82bd-4ce5-80d3-10c4863b980a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Knights Keep (Version 2).webp",
+        "game_reviews/processed_images/Knights Keep (Version 3).webp",
+        "game_reviews/processed_images/Knights Keep (Version 4).webp",
+        "game_reviews/processed_images/Knights Keep (Version 1).webp"
+    ],
+    "slug": "knights-keep",
+    "name": "Knight’s Keep",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Knights-Keep-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Knight’s Keep Free: Retro-Themed Slot Game with Exciting Features' ### Meta set: 'Experience the thrill of Knight’s Keep, a retro-themed slot game with modern 3D graphics. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

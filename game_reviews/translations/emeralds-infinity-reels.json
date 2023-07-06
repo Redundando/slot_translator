@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique infinite reels feature",
-                    "High volatility with an RTP of 96.3%",
-                    "Lush, magical forest background with engaging graphics and sound effects",
-                    "Free spins bonus round allows for bigger payouts"
+                    "Unique and innovative infinite reels feature",
+                    "High volatility and RTP of 96.3%",
+                    "Exciting free spins bonus round with collected symbols",
+                    "Engaging Irish theme with top-notch graphics and music"
                 ],
                 "cons": [
-                    "Limited number of symbols may become repetitive over time",
-                    "Higher minimum betting requirement may not be suitable for all players"
+                    "Limited betting range",
+                    "Automated spin function may not appeal to all players"
                 ],
-                "meta_title": "Play Emerald's Infinity Reels for Free - Slot Game Review",
-                "meta_description": "Read our review of Emerald's Infinity Reels, an Irish-themed slot game featuring unique infinite reels, and play for free. Enjoy high volatility and an RTP of 96.3%."
+                "meta_title": "Play Emerald's Infinity Reels for Free",
+                "meta_description": "Read our review of Emerald's Infinity Reels and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Emerald’s Infinity Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nEmerald's Infinity Reels is an Irish-themed slot game featuring a 3-reel, 4-row grid. Bet as little as €0.10 or as much as €50.00 and set the automatic spin function to 10, 50, or 100. With high volatility and an RTP of 96.3%, the objective is to win big.\n\nInfinity Reels Feature\n\nEmerald's Infinity Reels stands out with its unique infinite reels feature. The first reel transfers its winning symbol to a scoreboard on the upper left, giving the player a second chance to win big as the final reel spins again. This continues until the first reel's symbol is changed, resulting in all of the symbols getting collected. Moreover, a special X2 multiplier doubles the value of any winning symbols.\n\nSymbols and Payouts\n\nEmerald's Infinity Reels features six symbols: three precious stones in red, yellow, and green, a pipe, a mug, and the Leprechaun himself. The green stone pays back €0.04, the yellow €0.05, and the red €0.06. The pipe is worth €0.10, the mug €0.15, and the Leprechaun €0.30. Collect a minimum of three lyre symbols to activate the free spins bonus round and enjoy bigger payouts as collected symbols remain in play.\n\nFree Spins Bonus Round\n\nTo activate the free spins bonus round in Emerald's Infinity Reels, collect a minimum of three lyre symbols. During the free spins, any collected symbols remain in play, leading to bigger payouts. An additional gathering of three lyres will reactivate the free spins.\n\nTheme and Design\n\nEmerald's Infinity Reels pays homage to Ireland with its lush, magical forest background adorned with clovers and Celtic cauldrons. The cascading clear water holds symbols instead of simple reels, with the right wooden tablet displaying information on scoring. The mischievous Leprechaun, symbolizing Irish mythology and the fairy world, is the main character of the game and has a love for pranks and skill in crafting shoes. The graphics and music are top-notch, adding to the engaging Irish theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Emerald’s Infinity Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nEmerald's Infinity Reels is an Irish-themed slot game featuring a 3-reel, 4-row grid. Bet as little as €0.10 or as much as €50.00 and set the automatic spin function to 10, 50, or 100. With high volatility and an RTP of 96.3%, the objective is to win big.\n\nInfinity Reels Feature\n\nEmerald's Infinity Reels stands out with its unique infinite reels feature. The first reel transfers its winning symbol to a scoreboard on the upper left, giving the player a second chance to win big as the final reel spins again. This continues until the first reel's symbol is changed, resulting in all of the symbols getting collected. Moreover, a special X2 multiplier doubles the value of any winning symbols.\n\nSymbols and Payouts\n\nEmerald's Infinity Reels features six symbols: three precious stones in red, yellow, and green, a pipe, a mug, and the Leprechaun himself. The green stone pays back €0.04, the yellow €0.05, and the red €0.06. The pipe is worth €0.10, the mug €0.15, and the Leprechaun €0.30. Collect a minimum of three lyre symbols to activate the free spins bonus round and enjoy bigger payouts as collected symbols remain in play.\n\nFree Spins Bonus Round\n\nTo activate the free spins bonus round in Emerald's Infinity Reels, collect a minimum of three lyre symbols. During the free spins, any collected symbols remain in play, leading to bigger payouts. An additional gathering of three lyres will reactivate the free spins.\n\nTheme and Design\n\nEmerald's Infinity Reels pays homage to Ireland with its lush, magical forest background adorned with clovers and Celtic cauldrons. The cascading clear water holds symbols instead of simple reels, with the right wooden tablet displaying information on scoring. The mischievous Leprechaun, symbolizing Irish mythology and the fairy world, is the main character of the game and has a love for pranks and skill in crafting shoes. The graphics and music are top-notch, adding to the engaging Irish theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TQvoQhsCgJndMbsh1p9feTHoBaHI",
+                "id": "chatcmpl-7WSGv50r8q0pF5qaNEsksM8a723Dz",
                 "object": "chat.completion",
-                "created": 1687249392,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 635,
-                    "completion_tokens": 153,
-                    "total_tokens": 788
-                },
+                "created": 1687969529,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique infinite reels feature\",\n        \"High volatility with an RTP of 96.3%\",\n        \"Lush, magical forest background with engaging graphics and sound effects\",\n        \"Free spins bonus round allows for bigger payouts\"\n    ],\n    \"cons\": [\n        \"Limited number of symbols may become repetitive over time\",\n        \"Higher minimum betting requirement may not be suitable for all players\"\n    ],\n    \"meta_title\": \"Play Emerald's Infinity Reels for Free - Slot Game Review\",\n    \"meta_description\": \"Read our review of Emerald's Infinity Reels, an Irish-themed slot game featuring unique infinite reels, and play for free. Enjoy high volatility and an RTP of 96.3%.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique and innovative infinite reels feature\",\n    \"High volatility and RTP of 96.3%\",\n    \"Exciting free spins bonus round with collected symbols\",\n    \"Engaging Irish theme with top-notch graphics and music\"\n  ],\n  \"cons\": [\n    \"Limited betting range\",\n    \"Automated spin function may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Emerald's Infinity Reels for Free\",\n  \"meta_description\": \"Read our review of Emerald's Infinity Reels and play this exciting slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 632,
+                    "completion_tokens": 122,
+                    "total_tokens": 754
+                }
             }
         },
         {
@@ -812,5 +812,16 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/emeralds-infinity-reels.json"
+    "filename": "game_reviews/translations/emeralds-infinity-reels.json",
+    "raw_feature_images": [],
+    "processed_feature_images": [],
+    "slug": "emeralds-infinity-reels",
+    "name": "Emerald’s Infinity Reels",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/emeralds-infinity-reels_free-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Emerald's Infinity Reels for Free' ### Meta set: 'Read our review of Emerald's Infinity Reels and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

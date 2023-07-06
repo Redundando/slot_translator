@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "User-friendly game interface",
-                    "High number of paylines and reels",
-                    "'Cash collect' game mode with multipliers",
-                    "Random free spin opportunities"
+                    "User-friendly interface",
+                    "Exciting gameplay opportunities",
+                    "Ample chances to win big",
+                    "Immersive gaming atmosphere"
                 ],
                 "cons": [
-                    "No progressive jackpot feature",
-                    "Limited bonus rounds"
+                    "Limited bonus features",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Chicago Gold Free: A High-Payline Slot Game",
-                "meta_description": "Play Chicago Gold for free and enjoy its high number of paylines, immersive atmosphere, and exciting features like multipliers and free spins."
+                "meta_title": "Play Chicago Gold Free: Exciting Slot Game Review",
+                "meta_description": "Read our review of Chicago Gold and play for free. Discover the exciting gameplay and immersive atmosphere."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Chicago Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nChicago Gold is a 5-reel, 40-payline slot game that comes with traditional symbols and functions of the slot machine world. The game interface is user-friendly, making it easy to interact with all the characters and symbols. Players can enjoy the 'Cash collect' game mode, which allows them to activate game multipliers up to 25 times and win free spins randomly.\n\nTheme and Atmosphere\n\nThe game is set in the night of Chicago. It revolves around chases, thefts, escaping riches, scoundrels, and much more, giving the game a noir atmosphere full of electricity and dynamism. The Windy City is famous for having some less-than-reputable areas, and the game takes advantage of this by offering exciting gameplay opportunities.\n\nPaylines and Reels\n\nChicago Gold has 5 reels and 40 paylines, offering almost double the industry average. This means that players have ample opportunities to win big. The game's layout is structured in such a way as to maximize the chances of earning payouts, regardless of the level of experience players have with slot games.\n\nSymbols and Functions\n\nThe game comes with classic symbols and functions of the slot machine world. For instance, players will come across playing cards, the scatter symbol, and the wild one. Other symbols include police, thieves, and diamonds. These elements help create an immersive gaming atmosphere that keeps players engaged and entertained.\n\nRandom Free Spin Opportunities\n\nIn addition to the 'Cash collect' game mode, there is also the chance to win free spins randomly within the game. This means that players will never be bored playing Chicago Gold. The game is fast-paced and full of surprises that keep players on their toes. It is a great choice for those looking for risky adventures and entertainment.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Chicago Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nChicago Gold is a 5-reel, 40-payline slot game that comes with traditional symbols and functions of the slot machine world. The game interface is user-friendly, making it easy to interact with all the characters and symbols. Players can enjoy the 'Cash collect' game mode, which allows them to activate game multipliers up to 25 times and win free spins randomly.\n\nTheme and Atmosphere\n\nThe game is set in the night of Chicago. It revolves around chases, thefts, escaping riches, scoundrels, and much more, giving the game a noir atmosphere full of electricity and dynamism. The Windy City is famous for having some less-than-reputable areas, and the game takes advantage of this by offering exciting gameplay opportunities.\n\nPaylines and Reels\n\nChicago Gold has 5 reels and 40 paylines, offering almost double the industry average. This means that players have ample opportunities to win big. The game's layout is structured in such a way as to maximize the chances of earning payouts, regardless of the level of experience players have with slot games.\n\nSymbols and Functions\n\nThe game comes with classic symbols and functions of the slot machine world. For instance, players will come across playing cards, the scatter symbol, and the wild one. Other symbols include police, thieves, and diamonds. These elements help create an immersive gaming atmosphere that keeps players engaged and entertained.\n\nRandom Free Spin Opportunities\n\nIn addition to the 'Cash collect' game mode, there is also the chance to win free spins randomly within the game. This means that players will never be bored playing Chicago Gold. The game is fast-paced and full of surprises that keep players on their toes. It is a great choice for those looking for risky adventures and entertainment.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7StfQCoSsYHnqBawAbqTfxCK5HoFR",
+                "id": "chatcmpl-7WQ7YAO68RyIELRi4S2Z8oiDgRIgV",
                 "object": "chat.completion",
-                "created": 1687121524,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 118,
-                    "total_tokens": 655
-                },
+                "created": 1687961260,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"User-friendly game interface\",\n        \"High number of paylines and reels\",\n        \"'Cash collect' game mode with multipliers\",\n        \"Random free spin opportunities\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot feature\",\n        \"Limited bonus rounds\"\n    ],\n    \"meta_title\": \"Play Chicago Gold Free: A High-Payline Slot Game\",\n    \"meta_description\": \"Play Chicago Gold for free and enjoy its high number of paylines, immersive atmosphere, and exciting features like multipliers and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"User-friendly interface\",\n    \"Exciting gameplay opportunities\",\n    \"Ample chances to win big\",\n    \"Immersive gaming atmosphere\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Chicago Gold Free: Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Chicago Gold and play for free. Discover the exciting gameplay and immersive atmosphere.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 534,
+                    "completion_tokens": 101,
+                    "total_tokens": 635
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_4.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_3.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_1.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_2.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_4.png"
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Chicago_G_7e6d437c-b882-4ae0-9141-699a4dbe566f_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Chicago Gold (Version 1).webp",
         "game_reviews/processed_images/Chicago Gold (Version 4).webp",
+        "game_reviews/processed_images/Chicago Gold (Version 2).webp",
         "game_reviews/processed_images/Chicago Gold (Version 3).webp",
-        "game_reviews/processed_images/Chicago Gold (Version 2).webp"
+        "game_reviews/processed_images/Chicago Gold (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/chicago-gold.json"
+    "filename": "game_reviews/translations/chicago-gold.json",
+    "slug": "chicago-gold",
+    "name": "Chicago Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Chicago-Gold-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Chicago Gold Free: Exciting Slot Game Review' ### Meta set: 'Read our review of Chicago Gold and play for free. Discover the exciting gameplay and immersive atmosphere.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Lively gameplay with festive music",
-                    "Free spins can be increased up to 200",
-                    "Wild symbols enhance the potential for payouts",
-                    "Maximum payout of 500x your bet"
+                    "Maximum payout of 500 times your bet",
+                    "Free spins feature with potential to increase up to 200 spins",
+                    "Graphics and sound create a lively atmosphere"
                 ],
                 "cons": [
-                    "Low variance may result in smaller payouts",
-                    "Free spins feature can be difficult to trigger"
+                    "Medium-low variance may result in smaller payouts",
+                    "Limited variety of bonus features"
                 ],
-                "meta_title": "Play Heidi at the Oktoberfest for Free | Review",
-                "meta_description": "Enjoy lively gameplay and festive music with a potential payout of 500x your bet in Heidi at the Oktoberfest. Play for free and read our review."
+                "meta_title": "Play Heidi at the Oktoberfest Free: Festive and Lively Slot Game",
+                "meta_description": "Play Heidi at the Oktoberfest for free and enjoy the lively gameplay and festive atmosphere."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Heidi at the Oktoberfest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nHeidi at the Oktoberfest is a 5-reel, 50-payline slot game that offers lively gameplay, festive music, and a maximum payout of 500 times your bet. During the standard game and free spins, the wild symbol will appear and behave as usual, replacing all other icons except Heidi's. The free spins feature is activated by landing five or more scatter symbols of the beautiful girl, starting from the first reel on the left and continuing on the next reel.\n\nFree spins\n\nWhen you activate the free spins feature, you'll be given five free spins to start off with, but there's potential to increase your free spins up to a maximum of 200. Every Heidi who has activated this extra feature will then transform into the wild symbol (beer toast) and remain locked in place for the duration of your free spins, increasing the potential for payouts. During free spins, you can also land more scatters to re-trigger the feature.\n\nMaximum payout\n\nThe maximum payout for Heidi at the Oktoberfest is 500 times your bet. You can win this by matching five symbols of the beer drinking guy. Whether you play with a low stake of €0.10 or a high roller's stake of €200, there's a 500x multiplier up for grabs.\n\nRTP and variance\n\nThe return to player percentage (RTP) for this slot game is 94.9%, with a medium-low variance. This means that the reels are designed to produce many winning combinations, and the volatility is low, making it possible to trigger free spins regularly. However, payouts may not be as large as in high volatility games.\n\nGraphics and sound\n\nHeidi at the Oktoberfest has graphics that depict the famous beer festival perfectly. The sound, animations, and graphics offer a perfect mix of entertainment and winnings. Festive music plays throughout the game, making for a lively atmosphere that will keep you entertained and feeling like you're in the middle of the beer festival.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Heidi at the Oktoberfest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nHeidi at the Oktoberfest is a 5-reel, 50-payline slot game that offers lively gameplay, festive music, and a maximum payout of 500 times your bet. During the standard game and free spins, the wild symbol will appear and behave as usual, replacing all other icons except Heidi's. The free spins feature is activated by landing five or more scatter symbols of the beautiful girl, starting from the first reel on the left and continuing on the next reel.\n\nFree spins\n\nWhen you activate the free spins feature, you'll be given five free spins to start off with, but there's potential to increase your free spins up to a maximum of 200. Every Heidi who has activated this extra feature will then transform into the wild symbol (beer toast) and remain locked in place for the duration of your free spins, increasing the potential for payouts. During free spins, you can also land more scatters to re-trigger the feature.\n\nMaximum payout\n\nThe maximum payout for Heidi at the Oktoberfest is 500 times your bet. You can win this by matching five symbols of the beer drinking guy. Whether you play with a low stake of €0.10 or a high roller's stake of €200, there's a 500x multiplier up for grabs.\n\nRTP and variance\n\nThe return to player percentage (RTP) for this slot game is 94.9%, with a medium-low variance. This means that the reels are designed to produce many winning combinations, and the volatility is low, making it possible to trigger free spins regularly. However, payouts may not be as large as in high volatility games.\n\nGraphics and sound\n\nHeidi at the Oktoberfest has graphics that depict the famous beer festival perfectly. The sound, animations, and graphics offer a perfect mix of entertainment and winnings. Festive music plays throughout the game, making for a lively atmosphere that will keep you entertained and feeling like you're in the middle of the beer festival.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TpVQQej4tcgHmVAhupCsTy8SKjn3",
+                "id": "chatcmpl-7WUhNT2NeAsk3MQCzVnlQBghy8Hji",
                 "object": "chat.completion",
-                "created": 1687343856,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978857,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Lively gameplay with festive music\",\n        \"Free spins can be increased up to 200\",\n        \"Wild symbols enhance the potential for payouts\",\n        \"Maximum payout of 500x your bet\"\n    ],\n    \"cons\": [\n        \"Low variance may result in smaller payouts\",\n        \"Free spins feature can be difficult to trigger\"\n    ],\n    \"meta_title\": \"Play Heidi at the Oktoberfest for Free | Review\",\n    \"meta_description\": \"Enjoy lively gameplay and festive music with a potential payout of 500x your bet in Heidi at the Oktoberfest. Play for free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Lively gameplay with festive music\",\n    \"Maximum payout of 500 times your bet\",\n    \"Free spins feature with potential to increase up to 200 spins\",\n    \"Graphics and sound create a lively atmosphere\"\n  ],\n  \"cons\": [\n    \"Medium-low variance may result in smaller payouts\",\n    \"Limited variety of bonus features\"\n  ],\n  \"meta_title\": \"Play Heidi at the Oktoberfest Free: Festive and Lively Slot Game\",\n  \"meta_description\": \"Play Heidi at the Oktoberfest for free and enjoy the lively gameplay and festive atmosphere.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 583,
-                    "completion_tokens": 135,
-                    "total_tokens": 718
+                    "prompt_tokens": 580,
+                    "completion_tokens": 126,
+                    "total_tokens": 706
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/heidi-at-the-oktoberfest.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Heidi_at_the_Okt_eb27c973-7f52-464b-8b0e-6b74e6292b5d_2.png",
+        "arved__Create_a_feature_image_fitting_the_game_Heidi_at_the_Okt_eb27c973-7f52-464b-8b0e-6b74e6292b5d_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Heidi_at_the_Okt_eb27c973-7f52-464b-8b0e-6b74e6292b5d_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Heidi_at_the_Okt_eb27c973-7f52-464b-8b0e-6b74e6292b5d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Heidi At The Oktoberfest (Version 1).webp",
+        "game_reviews/processed_images/Heidi At The Oktoberfest (Version 4).webp",
+        "game_reviews/processed_images/Heidi At The Oktoberfest (Version 2).webp",
+        "game_reviews/processed_images/Heidi At The Oktoberfest (Version 3).webp"
+    ],
+    "slug": "heidi-at-the-oktoberfest",
+    "name": "Heidi at the Oktoberfest",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Heidi-At-The-Oktoberfest-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Heidi at the Oktoberfest Free: Festive and Lively Slot Game' ### Meta set: 'Play Heidi at the Oktoberfest for free and enjoy the lively gameplay and festive atmosphere.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

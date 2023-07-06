@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 96.2%",
-                    "Dynamic gameplay with big winnings",
-                    "Engaging visuals and sound effects",
-                    "Exciting Dragon features and abilities"
+                    "Dynamic gameplay with high RTP",
+                    "Meticulous graphics and sound effects",
+                    "Unique dragon features and abilities",
+                    "Compatibility with mobile devices and desktops"
                 ],
                 "cons": [
-                    "Limited paylines with fixed value",
+                    "Limited number of paylines",
                     "No progressive jackpot"
                 ],
-                "meta_title": "Play Dragon Stone Free - Big Winnings & Exciting Dragon Features",
-                "meta_description": "Enjoy Dragon Stone - a traditional game with 5 reels, 20 paylines and big winnings up to 698x value of bet. Exciting dragon features and abilities included."
+                "meta_title": "Play Dragon Stone Free - Exciting Gameplay with Big Winnings",
+                "meta_description": "Read our review of Dragon Stone, a free online slot game with dynamic gameplay and big winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Stone\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDynamic gameplay with a high RTP\n\nDragon Stone has a traditional gameplay with 5 reels and 20 fixed paylines. The game has an average variance, a high RTP of 96.2%, and offers big winnings that can go up to 698x the value of the bet per round. The minimum bet is €0.20, and the maximum bet is €20.00.\n\nVisuals and Sound Effects\n\nDragon Stone has meticulous graphics with highly realistic characters, special effects, and a minutely executed background music, making the gameplay very engaging and epic.\n\nDragon Features and Abilities\n\nDragon Stone has 4 dragons of different colors - red, blue, green and purple, each representing fire, ice, earth, and wind. The dragons offer unique abilities, including transforming standard icons into random Wilds, blocking winning icons and giving additional free spins, lifting rocks to turn them into entire reels, and extra surprises on random symbols. These abilities make the game very exciting and unpredictable.\n\nCompatibility with Devices\n\nDragon Stone is available to play for free from both mobile devices and desktops. It is developed by iSoftBet and is regularly certified by ADM online casinos.\n\nWinning Potential\n\nDragon Stone offers big winnings that can go up to 698x the value of the bet per round. The most valuable icon is the Red Dragon, which can provide dizzying winnings. The game also has a high RTP of 96.2%, making it a lucrative online slot game\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Stone\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDynamic gameplay with a high RTP\n\nDragon Stone has a traditional gameplay with 5 reels and 20 fixed paylines. The game has an average variance, a high RTP of 96.2%, and offers big winnings that can go up to 698x the value of the bet per round. The minimum bet is €0.20, and the maximum bet is €20.00.\n\nVisuals and Sound Effects\n\nDragon Stone has meticulous graphics with highly realistic characters, special effects, and a minutely executed background music, making the gameplay very engaging and epic.\n\nDragon Features and Abilities\n\nDragon Stone has 4 dragons of different colors - red, blue, green and purple, each representing fire, ice, earth, and wind. The dragons offer unique abilities, including transforming standard icons into random Wilds, blocking winning icons and giving additional free spins, lifting rocks to turn them into entire reels, and extra surprises on random symbols. These abilities make the game very exciting and unpredictable.\n\nCompatibility with Devices\n\nDragon Stone is available to play for free from both mobile devices and desktops. It is developed by iSoftBet and is regularly certified by ADM online casinos.\n\nWinning Potential\n\nDragon Stone offers big winnings that can go up to 698x the value of the bet per round. The most valuable icon is the Red Dragon, which can provide dizzying winnings. The game also has a high RTP of 96.2%, making it a lucrative online slot game\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T7vrY2GlTihYPtaToF1wQohlfDZK",
+                "id": "chatcmpl-7WRka0kPzYIcACGrivkSodSmNvsbk",
                 "object": "chat.completion",
-                "created": 1687176359,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 474,
-                    "completion_tokens": 131,
-                    "total_tokens": 605
-                },
+                "created": 1687967524,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 96.2%\",\n        \"Dynamic gameplay with big winnings\",\n        \"Engaging visuals and sound effects\",\n        \"Exciting Dragon features and abilities\"\n    ],\n    \"cons\": [\n        \"Limited paylines with fixed value\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Dragon Stone Free - Big Winnings & Exciting Dragon Features\",\n    \"meta_description\": \"Enjoy Dragon Stone - a traditional game with 5 reels, 20 paylines and big winnings up to 698x value of bet. Exciting dragon features and abilities included.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Dynamic gameplay with high RTP\",\n    \"Meticulous graphics and sound effects\",\n    \"Unique dragon features and abilities\",\n    \"Compatibility with mobile devices and desktops\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Dragon Stone Free - Exciting Gameplay with Big Winnings\",\n  \"meta_description\": \"Read our review of Dragon Stone, a free online slot game with dynamic gameplay and big winnings.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 471,
+                    "completion_tokens": 111,
+                    "total_tokens": 582
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_2.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_1.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_1.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_00eb7309-6b40-4eab-b31d-eeb9d657278a_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Dragon Stone (Version 3).webp",
-        "game_reviews/processed_images/Dragon Stone (Version 1).webp",
         "game_reviews/processed_images/Dragon Stone (Version 2).webp",
-        "game_reviews/processed_images/Dragon Stone (Version 4).webp"
+        "game_reviews/processed_images/Dragon Stone (Version 4).webp",
+        "game_reviews/processed_images/Dragon Stone (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/dragon-stone.json"
+    "filename": "game_reviews/translations/dragon-stone.json",
+    "slug": "dragon-stone",
+    "name": "Dragon Stone",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Stone-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Stone Free - Exciting Gameplay with Big Winnings' ### Meta set: 'Read our review of Dragon Stone, a free online slot game with dynamic gameplay and big winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

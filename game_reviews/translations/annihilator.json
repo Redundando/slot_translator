@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding wilds and scatter symbols",
-                    "Lucrative bonus features",
-                    "Detailed graphics and atmosphere",
-                    "Customizable soundtrack"
+                    "Exciting gameplay features like expanding wilds and bonus rounds",
+                    "Impressive maximum payout of 5,000 times your wager",
+                    "Meticulously detailed graphics and eerie atmosphere",
+                    "Customizable soundtrack featuring the band's greatest hits"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "Higher minimum bet compared to other slots"
+                    "Limited number of paylines (ten)",
+                    "High wagering range might not be suitable for all players"
                 ],
-                "meta_title": "Play Annihilator Slot for Free - Review of Annihilator Slot Machine",
-                "meta_description": "Play Annihilator slot machine for free and read our review. Explore the game's features, graphics, soundtrack, theme, symbols, payouts, and more."
+                "meta_title": "Play Annihilator Slot Game Free",
+                "meta_description": "Read our review of Annihilator, a slot game with exciting features and a free play option."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Annihilator\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAnnihilator has a 5x3 grid, ten paylines, and a theoretical Return to Player rate of 96.2%. The game offers a wagering range that starts at €0.10 and goes up to €100 per spin. The slot has expanding wilds, scatter symbols, and bonus rounds that provide free spins and lucrative wins.\n\nMaximum Payout\n\nThe maximum payout for Annihilator is an impressive 5,000 times your wager.\n\nGraphics and Atmosphere\n\nAnnihilator has meticulously detailed graphics set in a grand and eerie villa, fitting for a metal band's legacy. The symbols depict characters from the band's album covers, and the game's buttons for adjusting gameplay settings, such as wagering options, spinning reels, and autoplay, are informative. The game's sound features the band's greatest hits, which are customizable through the playlist button.\n\nTheme and Symbols\n\nAnnihilator's symbols vary in value, with the card symbols paying the lowest amounts. The highest-value symbols consist of the cover art from Annihilator - the album from 2010 - enclosed in a frame, a swallow-tailed electric guitar, and a woman holding a doll, who also appeared on the band's debut album, Alice in Hell. The game's scatter symbol is represented by a devil from the album Refresh the Demon, while the wild symbol is represented by Jeff Waters and his expanding wilds. There's also a bonus symbol represented by the doll from Annihilator's debut album.\n\nSoundtrack Customization\n\nThe game's sound is comprised of the band's greatest hits, which you can customize by clicking on the playlist button.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Annihilator\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAnnihilator has a 5x3 grid, ten paylines, and a theoretical Return to Player rate of 96.2%. The game offers a wagering range that starts at €0.10 and goes up to €100 per spin. The slot has expanding wilds, scatter symbols, and bonus rounds that provide free spins and lucrative wins.\n\nMaximum Payout\n\nThe maximum payout for Annihilator is an impressive 5,000 times your wager.\n\nGraphics and Atmosphere\n\nAnnihilator has meticulously detailed graphics set in a grand and eerie villa, fitting for a metal band's legacy. The symbols depict characters from the band's album covers, and the game's buttons for adjusting gameplay settings, such as wagering options, spinning reels, and autoplay, are informative. The game's sound features the band's greatest hits, which are customizable through the playlist button.\n\nTheme and Symbols\n\nAnnihilator's symbols vary in value, with the card symbols paying the lowest amounts. The highest-value symbols consist of the cover art from Annihilator - the album from 2010 - enclosed in a frame, a swallow-tailed electric guitar, and a woman holding a doll, who also appeared on the band's debut album, Alice in Hell. The game's scatter symbol is represented by a devil from the album Refresh the Demon, while the wild symbol is represented by Jeff Waters and his expanding wilds. There's also a bonus symbol represented by the doll from Annihilator's debut album.\n\nSoundtrack Customization\n\nThe game's sound is comprised of the band's greatest hits, which you can customize by clicking on the playlist button.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXNqSrOecQh5qjuLAZO1MC7YQC0H",
+                "id": "chatcmpl-7WNIqZrlbBSpmm3xq5beX3L5NrSaP",
                 "object": "chat.completion",
-                "created": 1687035866,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 515,
-                    "completion_tokens": 127,
-                    "total_tokens": 642
-                },
+                "created": 1687950428,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Expanding wilds and scatter symbols\",\n    \"Lucrative bonus features\",\n    \"Detailed graphics and atmosphere\",\n    \"Customizable soundtrack\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Higher minimum bet compared to other slots\"\n  ],\n  \"meta_title\": \"Play Annihilator Slot for Free - Review of Annihilator Slot Machine\",\n  \"meta_description\": \"Play Annihilator slot machine for free and read our review. Explore the game's features, graphics, soundtrack, theme, symbols, payouts, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay features like expanding wilds and bonus rounds\",\n    \"Impressive maximum payout of 5,000 times your wager\",\n    \"Meticulously detailed graphics and eerie atmosphere\",\n    \"Customizable soundtrack featuring the band's greatest hits\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (ten)\",\n    \"High wagering range might not be suitable for all players\"\n  ],\n  \"meta_title\": \"Play Annihilator Slot Game Free\",\n  \"meta_description\": \"Read our review of Annihilator, a slot game with exciting features and a free play option.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 512,
+                    "completion_tokens": 133,
+                    "total_tokens": 645
+                }
             }
         },
         {
@@ -815,14 +815,18 @@
     "filename": "game_reviews/translations/annihilator.json",
     "raw_feature_images": [
         "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_4.png",
-        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_3.png",
         "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_1.png",
-        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_2.png"
+        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_2.png",
+        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_A_eb1a2903-3745-44b4-a043-6a0d6ae41702_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Annihilator (Version 4).webp",
-        "game_reviews/processed_images/Annihilator (Version 1).webp",
+        "game_reviews/processed_images/Annihilator (Version 2).webp",
         "game_reviews/processed_images/Annihilator (Version 3).webp",
-        "game_reviews/processed_images/Annihilator (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Annihilator (Version 1).webp",
+        "game_reviews/processed_images/Annihilator (Version 4).webp"
+    ],
+    "slug": "annihilator",
+    "name": "Annihilator",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

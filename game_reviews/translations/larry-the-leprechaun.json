@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 97.46%",
-                    "Volatility feature for customized gameplay",
-                    "Two bonus features for added excitement",
-                    "Related game recommendations"
+                    "Unique gameplay with four horizontal and four vertical rows",
+                    "Two bonus features for additional excitement",
+                    "High return to player percentage",
+                    "Volatility options for customized gameplay"
                 ],
                 "cons": [
                     "Unclear game function and winning combinations",
-                    "Limited information on how to trigger bonus features"
+                    "Limited information on the Free Spins Bonus"
                 ],
-                "meta_title": "Play Larry the Leprechaun Slot for Free | High RTP and Volatility Options",
-                "meta_description": "Find out if Larry the Leprechaun is worth playing for free. Learn about the game's high RTP, volatility options, and bonus features. Try it now!"
+                "meta_title": "Play Larry the Leprechaun and Enjoy Free Spins and Bonus Features",
+                "meta_description": "Read our review of Larry the Leprechaun slot game, play for free and enjoy exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Larry the Leprechaun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLarry the Leprechaun is a slot game that plays on four horizontal and four vertical rows. The game function and winning combinations are not clear, but it seems to be a consecutive winning or cluster win game. It offers two bonus features, Magic Sack Bonus, which involves the collection of sacks for a possible bonus feature or booster, and Leprechaun Spins Bonus, which requires the collection of gold coins that occur during the base game. There's also a feature called Free Spins Bonus that requires the collection of silver coins that appear on the reels.\n\nBonus Features\n\nLarry the Leprechaun offers two bonus features. The first is the Magic Sack Bonus, which involves collecting sacks for a possible bonus feature or booster. The second is the Leprechaun Spins Bonus, which requires the collection of gold coins that occur during the base game. There's also a feature called Free Spins Bonus, which requires the collection of silver coins that appear on the reels.\n\nReturn to Player Percentage\n\nLarry the Leprechaun has a theoretical return to player of 97.46%. This is a rather unusually high percentage, almost two and a half percent more than the average of 95.00%.\n\nVolatility Options\n\nLarry the Leprechaun offers a volatility feature that allows players to choose whether the game will increase potential wins in low, medium or high variance modes. This feature is accessible through a button in the shape of an old submarine radar in the bottom right corner of the screen.\n\nRelated Games\n\nIf you enjoyed playing Larry the Leprechaun, Pragmatic Play's Leprechaun Carol is a slot machine worth checking out. It offers similar gameplay functions and a high RTP, as well as extra Wilds. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Larry the Leprechaun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLarry the Leprechaun is a slot game that plays on four horizontal and four vertical rows. The game function and winning combinations are not clear, but it seems to be a consecutive winning or cluster win game. It offers two bonus features, Magic Sack Bonus, which involves the collection of sacks for a possible bonus feature or booster, and Leprechaun Spins Bonus, which requires the collection of gold coins that occur during the base game. There's also a feature called Free Spins Bonus that requires the collection of silver coins that appear on the reels.\n\nBonus Features\n\nLarry the Leprechaun offers two bonus features. The first is the Magic Sack Bonus, which involves collecting sacks for a possible bonus feature or booster. The second is the Leprechaun Spins Bonus, which requires the collection of gold coins that occur during the base game. There's also a feature called Free Spins Bonus, which requires the collection of silver coins that appear on the reels.\n\nReturn to Player Percentage\n\nLarry the Leprechaun has a theoretical return to player of 97.46%. This is a rather unusually high percentage, almost two and a half percent more than the average of 95.00%.\n\nVolatility Options\n\nLarry the Leprechaun offers a volatility feature that allows players to choose whether the game will increase potential wins in low, medium or high variance modes. This feature is accessible through a button in the shape of an old submarine radar in the bottom right corner of the screen.\n\nRelated Games\n\nIf you enjoyed playing Larry the Leprechaun, Pragmatic Play's Leprechaun Carol is a slot machine worth checking out. It offers similar gameplay functions and a high RTP, as well as extra Wilds. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U08m6zZMGHAbzKwoQbzpHOUnuuBA",
+                "id": "chatcmpl-7WWEUMSQMxdcKEmYUOoGKvFW0Afrn",
                 "object": "chat.completion",
-                "created": 1687384736,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984754,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"High RTP of 97.46%\",\n    \"Volatility feature for customized gameplay\",\n    \"Two bonus features for added excitement\",\n    \"Related game recommendations\"\n  ],\n  \"cons\": [\n    \"Unclear game function and winning combinations\",\n    \"Limited information on how to trigger bonus features\"\n  ],\n  \"meta_title\": \"Play Larry the Leprechaun Slot for Free | High RTP and Volatility Options\",\n  \"meta_description\": \"Find out if Larry the Leprechaun is worth playing for free. Learn about the game's high RTP, volatility options, and bonus features. Try it now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay with four horizontal and four vertical rows\",\n    \"Two bonus features for additional excitement\",\n    \"High return to player percentage\",\n    \"Volatility options for customized gameplay\"\n  ],\n  \"cons\": [\n    \"Unclear game function and winning combinations\",\n    \"Limited information on the Free Spins Bonus\"\n  ],\n  \"meta_title\": \"Play Larry the Leprechaun and Enjoy Free Spins and Bonus Features\",\n  \"meta_description\": \"Read our review of Larry the Leprechaun slot game, play for free and enjoy exciting bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 550,
-                    "completion_tokens": 139,
-                    "total_tokens": 689
+                    "prompt_tokens": 547,
+                    "completion_tokens": 128,
+                    "total_tokens": 675
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/larry-the-leprechaun.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_88c031d1-8459-4fa7-8d31-02e10b788c93_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_88c031d1-8459-4fa7-8d31-02e10b788c93_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_88c031d1-8459-4fa7-8d31-02e10b788c93_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_88c031d1-8459-4fa7-8d31-02e10b788c93_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Larry The Leprechaun (Version 4).webp",
+        "game_reviews/processed_images/Larry The Leprechaun (Version 3).webp",
+        "game_reviews/processed_images/Larry The Leprechaun (Version 1).webp",
+        "game_reviews/processed_images/Larry The Leprechaun (Version 2).webp"
+    ],
+    "slug": "larry-the-leprechaun",
+    "name": "Larry the Leprechaun",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Larry-The-Leprechaun-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Larry the Leprechaun and Enjoy Free Spins and Bonus Features' ### Meta set: 'Read our review of Larry the Leprechaun slot game, play for free and enjoy exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

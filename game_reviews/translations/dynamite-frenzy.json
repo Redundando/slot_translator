@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Low betting range makes it accessible to all players.",
-                    "Unique theme with well-designed symbols.",
-                    "Free Spin feature increases chances of winning.",
-                    "DWAF function offers the possibility to turn regular symbols into cash nuggets."
+                    "Exciting gameplay mechanics",
+                    "Variety of symbols with different values",
+                    "Chance to win high payouts with Wild symbols",
+                    "Free Spin feature with bonus symbols and multipliers"
                 ],
                 "cons": [
-                    "Few paylines may limit potential payouts.",
-                    "Limited bonus features compared to other online slot games."
+                    "Limited number of paylines",
+                    "Feature purchase can be costly"
                 ],
-                "meta_title": "Play Dynamite Frenzy Free & Review | RTP 95.95%",
-                "meta_description": "Read our in-depth review of Dynamite Frenzy, the online slot game featuring a unique mining theme and a Free Spin feature. Play for free and win with an RTP of 95.95%."
+                "meta_title": "Play Dynamite Frenzy for Free",
+                "meta_description": "Read our review of Dynamite Frenzy and play for free. Experience exciting gameplay and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dynamite Frenzy\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and symbols\n\nDynamite Frenzy features a 5-reel, 3-row grid with 10 fixed paylines. Players can place bets as low as €0.01 per line, with each spin costing only €0.10. The playing cards have a lower value while the pickaxe, lantern, beer mug, map, and helmet symbols have higher values. Three Cash symbols, represented by gold, silver, and bronze nuggets, each with its own multiplier, can be matched in any combination to win payouts. The golden tile is the Wild and can replace all symbols except the special bonus symbols. Landing five Wild symbols on a single spin awards the same payouts as the highest-paying symbol.\n\nScatter and Wild symbols\n\nThe Scatter symbol is represented by a barrel and landing three, four, or five of them allows players to spin for 6, 8, or 10 Free Spins. The golden tile is the Wild and can replace all symbols except the special bonus symbols.\n\nFree Spin feature\n\nLanding three or more Scatter symbols triggers the Free Spin feature, with players receiving 6, 8, or 10 Free Spins. Players can also purchase the feature for 55 times the bet. During the base and bonus games, the DWARF function, activated randomly with the miner holding a diamond, can turn regular symbols into cash nuggets with multipliers or bonus symbols.\n\nDemo version and feature purchase\n\nPlayers can try the demo version of Dynamite Frenzy for free on our website without registration. They can also purchase the Free Spin feature for 55 times the bet.\n\nReturn to player percentage and volatility\n\nDynamite Frenzy has a medium volatility and a theoretical return to player percentage (RTP) of 95.95%.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dynamite Frenzy\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and symbols\n\nDynamite Frenzy features a 5-reel, 3-row grid with 10 fixed paylines. Players can place bets as low as €0.01 per line, with each spin costing only €0.10. The playing cards have a lower value while the pickaxe, lantern, beer mug, map, and helmet symbols have higher values. Three Cash symbols, represented by gold, silver, and bronze nuggets, each with its own multiplier, can be matched in any combination to win payouts. The golden tile is the Wild and can replace all symbols except the special bonus symbols. Landing five Wild symbols on a single spin awards the same payouts as the highest-paying symbol.\n\nScatter and Wild symbols\n\nThe Scatter symbol is represented by a barrel and landing three, four, or five of them allows players to spin for 6, 8, or 10 Free Spins. The golden tile is the Wild and can replace all symbols except the special bonus symbols.\n\nFree Spin feature\n\nLanding three or more Scatter symbols triggers the Free Spin feature, with players receiving 6, 8, or 10 Free Spins. Players can also purchase the feature for 55 times the bet. During the base and bonus games, the DWARF function, activated randomly with the miner holding a diamond, can turn regular symbols into cash nuggets with multipliers or bonus symbols.\n\nDemo version and feature purchase\n\nPlayers can try the demo version of Dynamite Frenzy for free on our website without registration. They can also purchase the Free Spin feature for 55 times the bet.\n\nReturn to player percentage and volatility\n\nDynamite Frenzy has a medium volatility and a theoretical return to player percentage (RTP) of 95.95%.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TA33p1A8cGClNkL3oHi98ljzKHaO",
+                "id": "chatcmpl-7WRw6MAT9JDK9CX7wEGkm55GMKZ4M",
                 "object": "chat.completion",
-                "created": 1687184493,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 545,
-                    "completion_tokens": 158,
-                    "total_tokens": 703
-                },
+                "created": 1687968238,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Low betting range makes it accessible to all players.\",\n        \"Unique theme with well-designed symbols.\",\n        \"Free Spin feature increases chances of winning.\",\n        \"DWAF function offers the possibility to turn regular symbols into cash nuggets.\"\n    ],\n    \"cons\": [\n        \"Few paylines may limit potential payouts.\",\n        \"Limited bonus features compared to other online slot games.\"\n    ],\n    \"meta_title\": \"Play Dynamite Frenzy Free & Review | RTP 95.95%\",\n    \"meta_description\": \"Read our in-depth review of Dynamite Frenzy, the online slot game featuring a unique mining theme and a Free Spin feature. Play for free and win with an RTP of 95.95%.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay mechanics\",\n    \"Variety of symbols with different values\",\n    \"Chance to win high payouts with Wild symbols\",\n    \"Free Spin feature with bonus symbols and multipliers\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Feature purchase can be costly\"\n  ],\n  \"meta_title\": \"Play Dynamite Frenzy for Free\",\n  \"meta_description\": \"Read our review of Dynamite Frenzy and play for free. Experience exciting gameplay and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 542,
+                    "completion_tokens": 115,
+                    "total_tokens": 657
+                }
             }
         },
         {
@@ -811,5 +811,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/dynamite-frenzy.json"
+    "filename": "game_reviews/translations/dynamite-frenzy.json",
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_feature_image_for_Dynamite_Frenzy_bdd4c9e6-99a4-4487-b996-fd78bbb97001_2.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Dynamite_Frenzy_bdd4c9e6-99a4-4487-b996-fd78bbb97001_4.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Dynamite_Frenzy_bdd4c9e6-99a4-4487-b996-fd78bbb97001_1.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Dynamite_Frenzy_bdd4c9e6-99a4-4487-b996-fd78bbb97001_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "dynamite-frenzy",
+    "name": "Dynamite Frenzy",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/dynamite-frenzy-social-300x169.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dynamite Frenzy for Free' ### Meta set: 'Read our review of Dynamite Frenzy and play for free. Experience exciting gameplay and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

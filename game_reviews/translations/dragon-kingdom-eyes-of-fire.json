@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Low minimum bet amount making it suitable for beginners",
-                    "Frequent low winnings due to low volatility",
-                    "Unique feature of progressive game levels with win multipliers",
-                    "Stunning graphics with epic music and mechanical sounds"
+                    "Low minimum bet, suitable for beginners",
+                    "Frequent but low winnings",
+                    "Unique progressive game levels with win multipliers",
+                    "Stunning graphics and sound design"
                 ],
                 "cons": [
-                    "Only 5 fixed paylines with low maximum bet amounts",
-                    "Limited number of symbols on the reels"
+                    "Limited number of paylines",
+                    "Low volatility may not appeal to all players"
                 ],
-                "meta_title": "Play Dragon Kingdom - Eyes of Fire for Free | Low Volatility, Progressive Levels",
-                "meta_description": "Read our review of Dragon Kingdom - Eyes of Fire, a low volatility slot game with a unique feature of progressive levels and multipliers. Play for free."
+                "meta_title": "Play Dragon Kingdom – Eyes of Fire for Free",
+                "meta_description": "Read our review of Dragon Kingdom – Eyes of Fire and play the game for free online."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Kingdom – Eyes of Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nDragon Kingdom – Eyes of Fire has 3 reels and 3 rows, with 5 fixed paylines. Winning combinations pay from left to right, and only the highest winning per line is paid. The low volatility results in frequent but low winnings. Players can set automatic spins with fast or turbo speed options.\n\nFixed Paylines and Minimum Bet Amount\n\nThe minimum bet is just €0.5 per spin, making it suitable for beginners. There are 5 fixed paylines, with winnings paid from left to right and only the highest winning per line is paid. \n\nVolatility and RTP\n\nDragon Kingdom - Eyes of Fire is a low volatility game with an RTP of 96.49%. Players can expect frequent but low winnings.\n\nProgressive Game Level and Win Multipliers\n\nDragon Kingdom – Eyes of Fire includes a unique feature of progressive game levels with win multipliers. The game starts at level 1, with four non-winning spins triggering another reel with 3 eggs with multipliers associated with them. Every four spins without a winning combination will move the player up one level, with higher multipliers becoming available. The maximum multiplier is 50x, available at level 6. Once a winning spin occurs, the special reel deactivates, and the game begins again.\n\nGraphics and Sound Design\n\nDragon Kingdom – Eyes of Fire features stunning graphics with the slot grid framed in marble. Two colorful dragons guard an invaluable treasure, including precious eggs, and a purple potion-filled cauldron is located at the top. The mechanical sound of the spinning reels is accompanied by epic music. The dragon's eye is the Wild symbol and replaces all other symbols.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Kingdom – Eyes of Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nDragon Kingdom – Eyes of Fire has 3 reels and 3 rows, with 5 fixed paylines. Winning combinations pay from left to right, and only the highest winning per line is paid. The low volatility results in frequent but low winnings. Players can set automatic spins with fast or turbo speed options.\n\nFixed Paylines and Minimum Bet Amount\n\nThe minimum bet is just €0.5 per spin, making it suitable for beginners. There are 5 fixed paylines, with winnings paid from left to right and only the highest winning per line is paid. \n\nVolatility and RTP\n\nDragon Kingdom - Eyes of Fire is a low volatility game with an RTP of 96.49%. Players can expect frequent but low winnings.\n\nProgressive Game Level and Win Multipliers\n\nDragon Kingdom – Eyes of Fire includes a unique feature of progressive game levels with win multipliers. The game starts at level 1, with four non-winning spins triggering another reel with 3 eggs with multipliers associated with them. Every four spins without a winning combination will move the player up one level, with higher multipliers becoming available. The maximum multiplier is 50x, available at level 6. Once a winning spin occurs, the special reel deactivates, and the game begins again.\n\nGraphics and Sound Design\n\nDragon Kingdom – Eyes of Fire features stunning graphics with the slot grid framed in marble. Two colorful dragons guard an invaluable treasure, including precious eggs, and a purple potion-filled cauldron is located at the top. The mechanical sound of the spinning reels is accompanied by epic music. The dragon's eye is the Wild symbol and replaces all other symbols.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T7CzWU0xkS3EuZREwjLjce5rsoea",
+                "id": "chatcmpl-7WRfqee6RmfjeQ0ujZohkhVQr4LS1",
                 "object": "chat.completion",
-                "created": 1687173577,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 519,
-                    "completion_tokens": 150,
-                    "total_tokens": 669
-                },
+                "created": 1687967230,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Low minimum bet amount making it suitable for beginners\",\n        \"Frequent low winnings due to low volatility\",\n        \"Unique feature of progressive game levels with win multipliers\",\n        \"Stunning graphics with epic music and mechanical sounds\"\n    ],\n    \"cons\": [\n        \"Only 5 fixed paylines with low maximum bet amounts\",\n        \"Limited number of symbols on the reels\"\n    ],\n    \"meta_title\": \"Play Dragon Kingdom - Eyes of Fire for Free | Low Volatility, Progressive Levels\",\n    \"meta_description\": \"Read our review of Dragon Kingdom - Eyes of Fire, a low volatility slot game with a unique feature of progressive levels and multipliers. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Low minimum bet, suitable for beginners\",\n    \"Frequent but low winnings\",\n    \"Unique progressive game levels with win multipliers\",\n    \"Stunning graphics and sound design\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Low volatility may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Dragon Kingdom – Eyes of Fire for Free\",\n  \"meta_description\": \"Read our review of Dragon Kingdom – Eyes of Fire and play the game for free online.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 516,
+                    "completion_tokens": 114,
+                    "total_tokens": 630
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_2.png",
-        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_3.png",
         "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_1.png",
-        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_4.png"
+        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_4.png",
+        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_25a54fc4-a9b2-46bc-af69-859ec8aea988_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 3).webp",
         "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 1).webp",
-        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 4).webp",
-        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 2).webp"
+        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 2).webp",
+        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 3).webp",
+        "game_reviews/processed_images/Dragon Kingdom Eyes Of Fire (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/dragon-kingdom-eyes-of-fire.json"
+    "filename": "game_reviews/translations/dragon-kingdom-eyes-of-fire.json",
+    "slug": "dragon-kingdom-eyes-of-fire",
+    "name": "Dragon Kingdom – Eyes of Fire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/dragon-kingdom-eyes-of-fire_gratis-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Kingdom – Eyes of Fire for Free' ### Meta set: 'Read our review of Dragon Kingdom – Eyes of Fire and play the game for free online.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

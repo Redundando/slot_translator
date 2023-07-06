@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Great graphics and animation",
-                    "Exciting bonus features with Wild and Scatter symbols",
-                    "Auto-spin feature for up to 500 spins",
-                    "High RTP of 96.71%"
+                    "Variety of betting options and limits",
+                    "Exciting gameplay mechanics and features",
+                    "Generous payouts for winning combinations",
+                    "Free spins feature adds extra excitement"
                 ],
                 "cons": [
-                    "Limited betting options for high rollers",
-                    "Fewer paylines compared to other slot games"
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Magic Oak Slot Game for Free - Exciting Bonus Features",
-                "meta_description": "Get ready to play Magic Oak - a 4x4 slot game with 20 fixed paylines, Wild and Scatter symbols, and exciting bonus features. Play for free now!"
+                "meta_title": "Play Magic Oak Free - Exciting Gameplay and Generous Payouts",
+                "meta_description": "Play Magic Oak for free and enjoy exciting gameplay mechanics and generous payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Oak\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nMagic Oak is a 4x4 slot game with 20 fixed paylines. The minimum bet is €0.01 per line, with a minimum total bet of €0.20 and a highest total bet of €100. Players can choose to set a number of automatic spins ranging from 10 up to a maximum of 500. The RTP is 96.71%. To win, at least 4 symbols (up to a maximum of 16) must appear in adjacent positions. The Wild symbol substitutes all symbols except the Scatter.\n\nBetting options and limits\n\nThe minimum bet in Magic Oak is €0.01 per line, with 20 fixed paylines. The minimum total bet (€0.01 per line and 1 bet level) is €0.20, and the highest total bet is €100.\n\nSymbols and paylines\n\nThe symbols in Magic Oak include the playing card suits and various forest animals such as a rabbit, boar, fox, bear, squirrel, and owl. With a minimum bet of €0.01, 4 symbols pay out €0.05, and with 16 symbols, you can get up to €4. The fox and rabbit pay out a maximum of €12, the raccoon €15, the boar €25, the fox €30 and the owl €50. To win, at least 4 symbols (up to a maximum of 16) must appear in adjacent positions.\n\nWild and Scatter symbols\n\nThe Wild symbol in Magic Oak is a tablet with the word 'Wild' engraved on it. The Wild symbol substitutes all symbols except the Scatter and pays out €250 if it appears 16 times. The Scatter symbol is a tablet with the word 'Scatter' on it. Four Scatters activate the free spins, and players click on each Scatter behind which the number of free spins won is hidden, which can be 2, 3, or 4. During the free spins, the Scatter cannot appear.\n\nSpecial features and bonuses\n\nIn Magic Oak, the plant located next to the game grid emits yellow or blue glows that will remain suspended next to the grid until they fly onto the reels. The blue glow replaces all symbols of the same type with the Wild symbol, while the yellow glow replaces a single symbol with the Wild symbol.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Oak\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nMagic Oak is a 4x4 slot game with 20 fixed paylines. The minimum bet is €0.01 per line, with a minimum total bet of €0.20 and a highest total bet of €100. Players can choose to set a number of automatic spins ranging from 10 up to a maximum of 500. The RTP is 96.71%. To win, at least 4 symbols (up to a maximum of 16) must appear in adjacent positions. The Wild symbol substitutes all symbols except the Scatter.\n\nBetting options and limits\n\nThe minimum bet in Magic Oak is €0.01 per line, with 20 fixed paylines. The minimum total bet (€0.01 per line and 1 bet level) is €0.20, and the highest total bet is €100.\n\nSymbols and paylines\n\nThe symbols in Magic Oak include the playing card suits and various forest animals such as a rabbit, boar, fox, bear, squirrel, and owl. With a minimum bet of €0.01, 4 symbols pay out €0.05, and with 16 symbols, you can get up to €4. The fox and rabbit pay out a maximum of €12, the raccoon €15, the boar €25, the fox €30 and the owl €50. To win, at least 4 symbols (up to a maximum of 16) must appear in adjacent positions.\n\nWild and Scatter symbols\n\nThe Wild symbol in Magic Oak is a tablet with the word 'Wild' engraved on it. The Wild symbol substitutes all symbols except the Scatter and pays out €250 if it appears 16 times. The Scatter symbol is a tablet with the word 'Scatter' on it. Four Scatters activate the free spins, and players click on each Scatter behind which the number of free spins won is hidden, which can be 2, 3, or 4. During the free spins, the Scatter cannot appear.\n\nSpecial features and bonuses\n\nIn Magic Oak, the plant located next to the game grid emits yellow or blue glows that will remain suspended next to the grid until they fly onto the reels. The blue glow replaces all symbols of the same type with the Wild symbol, while the yellow glow replaces a single symbol with the Wild symbol.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4iEURIC01PSu7vnnNPdi9mnHQDv",
+                "id": "chatcmpl-7WX3O1IWWTC3YH6C7VJYZ0vH6YgmO",
                 "object": "chat.completion",
-                "created": 1687402310,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987910,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Great graphics and animation\",\n        \"Exciting bonus features with Wild and Scatter symbols\",\n        \"Auto-spin feature for up to 500 spins\",\n        \"High RTP of 96.71%\"\n    ],\n    \"cons\": [\n        \"Limited betting options for high rollers\",\n        \"Fewer paylines compared to other slot games\"\n    ],\n    \"meta_title\": \"Play Magic Oak Slot Game for Free - Exciting Bonus Features\",\n    \"meta_description\": \"Get ready to play Magic Oak - a 4x4 slot game with 20 fixed paylines, Wild and Scatter symbols, and exciting bonus features. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Variety of betting options and limits\",\n    \"Exciting gameplay mechanics and features\",\n    \"Generous payouts for winning combinations\",\n    \"Free spins feature adds extra excitement\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Magic Oak Free - Exciting Gameplay and Generous Payouts\",\n  \"meta_description\": \"Play Magic Oak for free and enjoy exciting gameplay mechanics and generous payouts.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 655,
-                    "completion_tokens": 141,
-                    "total_tokens": 796
+                    "prompt_tokens": 652,
+                    "completion_tokens": 110,
+                    "total_tokens": 762
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-oak.json",
+    "raw_feature_images": [
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Magic_Oak_20c6fb3b-f09e-43cc-a23f-4424c6264ce0_3.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Magic_Oak_20c6fb3b-f09e-43cc-a23f-4424c6264ce0_1.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Magic_Oak_20c6fb3b-f09e-43cc-a23f-4424c6264ce0_4.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Magic_Oak_20c6fb3b-f09e-43cc-a23f-4424c6264ce0_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Oak (Version 3).webp",
+        "game_reviews/processed_images/Magic Oak (Version 4).webp",
+        "game_reviews/processed_images/Magic Oak (Version 1).webp",
+        "game_reviews/processed_images/Magic Oak (Version 2).webp"
+    ],
+    "slug": "magic-oak",
+    "name": "Magic Oak",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Oak-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Oak Free - Exciting Gameplay and Generous Payouts' ### Meta set: 'Play Magic Oak for free and enjoy exciting gameplay mechanics and generous payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

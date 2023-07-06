@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and simple cartoon farm-theme",
-                    "Wild and Bonus symbols add excitement",
-                    "Two different payline options",
-                    "Double Spin feature boosts chances of winning"
+                    "Cartoon farm-themed slot game",
+                    "Wild and Bonus symbols for extra features",
+                    "Different value levels for symbols",
+                    "Easy and enjoyable gameplay"
                 ],
                 "cons": [
-                    "Basic graphics and no background music",
-                    "Low betting limit may not appeal to high rollers"
+                    "Simple graphics with no animation or background music",
+                    "Limited betting options"
                 ],
-                "meta_title": "Play Cash Bunny for Free - Review",
-                "meta_description": "Read a review of Cash Bunny, a fun cartoon farm-themed slot game with Wild and Bonus symbols. Try it for free and enjoy its Double Spin feature."
+                "meta_title": "Play Cash Bunny for Free - Review and Gameplay",
+                "meta_description": "Read our review of Cash Bunny and enjoy a free play of this fun slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Bunny\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Symbols\n\nCash Bunny is a cartoon farm-themed slot game featuring animals and farm-related items such as fruit, corn, and a wheat sheaf. The graphics are simple and basic with no 3D animation or background music.\n\nWild and Bonus Symbols\n\nThe fox symbol acts as the Wild, replacing all other images except for the Bonus symbol. The Bonus symbol is the rabbit, and landing it three, four, or five times triggers the special Bonus game. Players can win additional prizes by clicking on one of the rabbits shown in the Bonus game screen. The rabbit then picks a carrot from the garden depending on the type of carrot pulled and the number of rabbits on the reels.\n\nPayout Symbols\n\nCash Bunny has symbols with different value levels, with oranges, cherries, and vegetable buckets in the first level, followed by the corncob and wheat sheaf symbols. The highest rewards come from a winning alignment of the crows, pig, fox, and farmer. Winnings are expressed in points, with each point equal to one cent of euro. While total wins from one game are added up, only the highest value win on a single line counts.\n\nBetting Options\n\nBefore starting the game, players need to select the amount they want to bet by using the BET button. The amount ranges from a minimum of €0.25 to a maximum of €4. Players can bet on each spin manually or use the Autoplay feature, selecting the number of spins desired from 5, 10, 25, 50, 100, 250, or 500.\n\nGameplay Features\n\nCash Bunny is a 5-reel slot game with either 5 or 10 paylines. Players must match symbols from left to right on the paylines to win. The game is a Double Spin slot machine, which means that if no winning lines appear from a turn, the system suggests which reels to keep in place and which to spin again in the next round. Cash Bunny is designed to be easy and enjoyable to play, making it perfect for experienced gamblers and 'nostalgic' players who love traditional slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Bunny\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Symbols\n\nCash Bunny is a cartoon farm-themed slot game featuring animals and farm-related items such as fruit, corn, and a wheat sheaf. The graphics are simple and basic with no 3D animation or background music.\n\nWild and Bonus Symbols\n\nThe fox symbol acts as the Wild, replacing all other images except for the Bonus symbol. The Bonus symbol is the rabbit, and landing it three, four, or five times triggers the special Bonus game. Players can win additional prizes by clicking on one of the rabbits shown in the Bonus game screen. The rabbit then picks a carrot from the garden depending on the type of carrot pulled and the number of rabbits on the reels.\n\nPayout Symbols\n\nCash Bunny has symbols with different value levels, with oranges, cherries, and vegetable buckets in the first level, followed by the corncob and wheat sheaf symbols. The highest rewards come from a winning alignment of the crows, pig, fox, and farmer. Winnings are expressed in points, with each point equal to one cent of euro. While total wins from one game are added up, only the highest value win on a single line counts.\n\nBetting Options\n\nBefore starting the game, players need to select the amount they want to bet by using the BET button. The amount ranges from a minimum of €0.25 to a maximum of €4. Players can bet on each spin manually or use the Autoplay feature, selecting the number of spins desired from 5, 10, 25, 50, 100, 250, or 500.\n\nGameplay Features\n\nCash Bunny is a 5-reel slot game with either 5 or 10 paylines. Players must match symbols from left to right on the paylines to win. The game is a Double Spin slot machine, which means that if no winning lines appear from a turn, the system suggests which reels to keep in place and which to spin again in the next round. Cash Bunny is designed to be easy and enjoyable to play, making it perfect for experienced gamblers and 'nostalgic' players who love traditional slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SqZvHWhjaNkcMafla47lrQPLqurC",
+                "id": "chatcmpl-7WPm5TOygJtMeu9UztzTe1EiXGgOG",
                 "object": "chat.completion",
-                "created": 1687109651,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 609,
-                    "completion_tokens": 126,
-                    "total_tokens": 735
-                },
+                "created": 1687959929,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fun and simple cartoon farm-theme\",\n        \"Wild and Bonus symbols add excitement\",\n        \"Two different payline options\",\n        \"Double Spin feature boosts chances of winning\"\n    ],\n    \"cons\": [\n        \"Basic graphics and no background music\",\n        \"Low betting limit may not appeal to high rollers\"\n    ],\n    \"meta_title\": \"Play Cash Bunny for Free - Review\",\n    \"meta_description\": \"Read a review of Cash Bunny, a fun cartoon farm-themed slot game with Wild and Bonus symbols. Try it for free and enjoy its Double Spin feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cartoon farm-themed slot game\",\n    \"Wild and Bonus symbols for extra features\",\n    \"Different value levels for symbols\",\n    \"Easy and enjoyable gameplay\"\n  ],\n  \"cons\": [\n    \"Simple graphics with no animation or background music\",\n    \"Limited betting options\"\n  ],\n  \"meta_title\": \"Play Cash Bunny for Free - Review and Gameplay\",\n  \"meta_description\": \"Read our review of Cash Bunny and enjoy a free play of this fun slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 606,
+                    "completion_tokens": 107,
+                    "total_tokens": 713
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_2.png",
         "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_4.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_3.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_2.png"
+        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_game_Cash_Bunny_in_ea4552c2-b67b-45c5-b179-55aac06cc8b2_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cash Bunny (Version 4).webp",
+        "game_reviews/processed_images/Cash Bunny (Version 2).webp",
         "game_reviews/processed_images/Cash Bunny (Version 3).webp",
         "game_reviews/processed_images/Cash Bunny (Version 1).webp",
-        "game_reviews/processed_images/Cash Bunny (Version 2).webp"
+        "game_reviews/processed_images/Cash Bunny (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/cash-bunny.json"
+    "filename": "game_reviews/translations/cash-bunny.json",
+    "slug": "cash-bunny",
+    "name": "Cash Bunny",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Bunny-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Bunny for Free - Review and Gameplay' ### Meta set: 'Read our review of Cash Bunny and enjoy a free play of this fun slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

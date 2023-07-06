@@ -578,38 +578,38 @@
             "response": {
                 "pros": [
                     "Exciting Indiana Jones-style graphics",
-                    "Bonus features with scatter symbols, map symbols, and Pick and Click game",
-                    "10,000x the stake maximum payout",
-                    "20 paylines and x3 multiplier on all jackpot free spins"
+                    "Max payout of 10,000x the stake",
+                    "Bonus features with scatter symbols and Pick and Click game",
+                    "Jackpot prizes and free spins with x3 multiplier"
                 ],
                 "cons": [
-                    "Only one setting for coins",
-                    "Limited range of wager amounts"
+                    "Limited coin setting",
+                    "Limited wager range"
                 ],
-                "meta_title": "Play Jackpot Raiders Free | Exciting Indiana Jones-themed Slot Game",
-                "meta_description": "Read our review of Jackpot Raiders and play this exciting Indiana Jones-style slot game for free. Collect scatter and map symbols for bonus features and a chance at winning the jackpot."
+                "meta_title": "Play Jackpot Raiders for Free",
+                "meta_description": "Read our review of Jackpot Raiders and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jackpot Raiders\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot Raiders slot game\n\nJackpot Raiders is a five-reel slot featuring Indiana Jones-style graphics with an exciting theme. This 20-payline slot game has a return to player of 96.30%.\n\nGameplay and features\n\nJackpot Raiders is a five-reel slot with three rows that offers a maximum payout of 10,000x the stake. The game has a single setting for coins, and players can select a wager of between £0.10 and £40.00 per spin. To activate the bonus features, players must collect three or more scatter symbols, receive rolled-up map symbols, and activate the Pick and Click game.\n\nPaylines and Jackpot prizes\n\nJackpot Raiders has 20 paylines that are always active. The highest paying symbol is the Scatter/Bonus symbol, which offers a payout of 10,000 coins multiplied by the line bet, and 10 free spins. The game also has an additional jackpot prize, which can be won by collecting five of the same gems.\n\nSymbols and bonuses\n\nThe most valuable symbols in Jackpot Raiders are Sam the adventurer and Bear, awarding 4000x and 2000x prizes, respectively, multiplied by the line bet. Additionally, three or more scatter symbols, rolled-up map symbols, and the Pick and Click game can activate the slot's bonus features. Finally, all jackpot free spins come with a x3 multiplier.\n\nSimilar Indiana Jones-themed slots\n\nIf you enjoy the Indiana Jones theme, you may want to try Indiana Jones: Treasure of The Incas, a Megagroup 25-payline slot machine.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jackpot Raiders\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot Raiders slot game\n\nJackpot Raiders is a five-reel slot featuring Indiana Jones-style graphics with an exciting theme. This 20-payline slot game has a return to player of 96.30%.\n\nGameplay and features\n\nJackpot Raiders is a five-reel slot with three rows that offers a maximum payout of 10,000x the stake. The game has a single setting for coins, and players can select a wager of between £0.10 and £40.00 per spin. To activate the bonus features, players must collect three or more scatter symbols, receive rolled-up map symbols, and activate the Pick and Click game.\n\nPaylines and Jackpot prizes\n\nJackpot Raiders has 20 paylines that are always active. The highest paying symbol is the Scatter/Bonus symbol, which offers a payout of 10,000 coins multiplied by the line bet, and 10 free spins. The game also has an additional jackpot prize, which can be won by collecting five of the same gems.\n\nSymbols and bonuses\n\nThe most valuable symbols in Jackpot Raiders are Sam the adventurer and Bear, awarding 4000x and 2000x prizes, respectively, multiplied by the line bet. Additionally, three or more scatter symbols, rolled-up map symbols, and the Pick and Click game can activate the slot's bonus features. Finally, all jackpot free spins come with a x3 multiplier.\n\nSimilar Indiana Jones-themed slots\n\nIf you enjoy the Indiana Jones theme, you may want to try Indiana Jones: Treasure of The Incas, a Megagroup 25-payline slot machine.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TuUu3SFX4P4FtAVrIsZiFoy3H6Rn",
+                "id": "chatcmpl-7WVOZld38Ff9sjgH2Ejhxzkz4xtHD",
                 "object": "chat.completion",
-                "created": 1687363044,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981535,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting Indiana Jones-style graphics\",\n        \"Bonus features with scatter symbols, map symbols, and Pick and Click game\",\n        \"10,000x the stake maximum payout\",\n        \"20 paylines and x3 multiplier on all jackpot free spins\"\n    ],\n    \"cons\": [\n        \"Only one setting for coins\",\n        \"Limited range of wager amounts\"\n    ],\n    \"meta_title\": \"Play Jackpot Raiders Free | Exciting Indiana Jones-themed Slot Game\",\n    \"meta_description\": \"Read our review of Jackpot Raiders and play this exciting Indiana Jones-style slot game for free. Collect scatter and map symbols for bonus features and a chance at winning the jackpot.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting Indiana Jones-style graphics\",\n    \"Max payout of 10,000x the stake\",\n    \"Bonus features with scatter symbols and Pick and Click game\",\n    \"Jackpot prizes and free spins with x3 multiplier\"\n  ],\n  \"cons\": [\n    \"Limited coin setting\",\n    \"Limited wager range\"\n  ],\n  \"meta_title\": \"Play Jackpot Raiders for Free\",\n  \"meta_description\": \"Read our review of Jackpot Raiders and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 504,
-                    "completion_tokens": 147,
-                    "total_tokens": 651
+                    "prompt_tokens": 501,
+                    "completion_tokens": 112,
+                    "total_tokens": 613
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jackpot-raiders.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_d870a278-688f-4133-a39d-f742fac865bf_1.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_d870a278-688f-4133-a39d-f742fac865bf_3.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_d870a278-688f-4133-a39d-f742fac865bf_4.png",
+        "arved__Please_create_a_cartoon-style_image_featuring_a_happy_Ma_d870a278-688f-4133-a39d-f742fac865bf_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jackpot Raiders (Version 4).webp",
+        "game_reviews/processed_images/Jackpot Raiders (Version 2).webp",
+        "game_reviews/processed_images/Jackpot Raiders (Version 3).webp",
+        "game_reviews/processed_images/Jackpot Raiders (Version 1).webp"
+    ],
+    "slug": "jackpot-raiders",
+    "name": "Jackpot Raiders",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jackpot-Raiders-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jackpot Raiders for Free' ### Meta set: 'Read our review of Jackpot Raiders and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

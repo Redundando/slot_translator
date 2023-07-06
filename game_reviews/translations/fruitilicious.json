@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Wide range of betting options",
-                    "Attractive fruit symbols and design",
-                    "Potential for high payouts",
-                    "Simple and relaxing sound effects"
+                    "Straightforward gameplay with no special features or bonuses",
+                    "Wide range of betting options for players of all levels",
+                    "Potentially lucrative prizes",
+                    "Fresh and attractive game design"
                 ],
                 "cons": [
-                    "No special features or bonuses",
-                    "Lower than average RTP"
+                    "Lower than average RTP of 95%",
+                    "No Wild or Scatter symbols"
                 ],
-                "meta_title": "Play Fruitilicious Free: Review of Classic Online Slot Game",
-                "meta_description": "Read our review of Fruitilicious, a classic online slot game with potential for high payouts. Play for free with a wide range of betting options."
+                "meta_title": "Play Fruitilicious Slot Game for Free",
+                "meta_description": "Read our review of Fruitilicious, a straightforward slot game with potentially lucrative prizes. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruitilicious\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nFruitilicious is a straightforward slot game with no special features or bonuses. It has five reels, three rows, and 5 paylines. The game has a medium-high volatility, which means getting winnings may take some patience, but it offers potentially lucrative prizes.\n\nBet Range\n\nThe game offers a wide range of bets, from a minimum of ten credits per line for occasional players to a maximum of 2,000 credits per line for high rollers. The fixed paylines mean the range of total bets is between 50 and 10,000 credits.\n\nPayouts\n\nFruitilicious has classic fruit machine symbols, including lemons, cherries, plums, oranges, grapes, watermelons, and the number 7. Payouts range up to 25 times the value of the bet for lemons, cherries, plums, and oranges, up to 100 times for grapes and watermelons, and up to 1,000 times for the number 7. There are no Wild or Scatter symbols.\n\nGame Design\n\nFruitilicious offers a fresh and bright look compared to other fruit machines. The combination of green and purple colors on the reels creates a bold and inviting design. The symbols are traditionally styled but reproduced in an attractive and appetizing manner. The game has simple and relaxing sound effects that don't distract from the gameplay.\n\nRTP\n\nThe theoretical return to player or RTP of Fruitilicious is 95%, which is lower than average.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruitilicious\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nFruitilicious is a straightforward slot game with no special features or bonuses. It has five reels, three rows, and 5 paylines. The game has a medium-high volatility, which means getting winnings may take some patience, but it offers potentially lucrative prizes.\n\nBet Range\n\nThe game offers a wide range of bets, from a minimum of ten credits per line for occasional players to a maximum of 2,000 credits per line for high rollers. The fixed paylines mean the range of total bets is between 50 and 10,000 credits.\n\nPayouts\n\nFruitilicious has classic fruit machine symbols, including lemons, cherries, plums, oranges, grapes, watermelons, and the number 7. Payouts range up to 25 times the value of the bet for lemons, cherries, plums, and oranges, up to 100 times for grapes and watermelons, and up to 1,000 times for the number 7. There are no Wild or Scatter symbols.\n\nGame Design\n\nFruitilicious offers a fresh and bright look compared to other fruit machines. The combination of green and purple colors on the reels creates a bold and inviting design. The symbols are traditionally styled but reproduced in an attractive and appetizing manner. The game has simple and relaxing sound effects that don't distract from the gameplay.\n\nRTP\n\nThe theoretical return to player or RTP of Fruitilicious is 95%, which is lower than average.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TKofuAhFlbFzz48DEzV5mkiwWiYs",
+                "id": "chatcmpl-7WTNz7LHqnuDOxdBnpG2JA9Sw7uRm",
                 "object": "chat.completion",
-                "created": 1687225885,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 487,
-                    "completion_tokens": 120,
-                    "total_tokens": 607
-                },
+                "created": 1687973811,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Wide range of betting options\",\n    \"Attractive fruit symbols and design\",\n    \"Potential for high payouts\",\n    \"Simple and relaxing sound effects\"\n  ],\n  \"cons\": [\n    \"No special features or bonuses\",\n    \"Lower than average RTP\"\n  ],\n  \"meta_title\": \"Play Fruitilicious Free: Review of Classic Online Slot Game\",\n  \"meta_description\": \"Read our review of Fruitilicious, a classic online slot game with potential for high payouts. Play for free with a wide range of betting options.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Straightforward gameplay with no special features or bonuses\",\n      \"Wide range of betting options for players of all levels\",\n      \"Potentially lucrative prizes\",\n      \"Fresh and attractive game design\"\n   ],\n   \"cons\": [\n      \"Lower than average RTP of 95%\",\n      \"No Wild or Scatter symbols\"\n   ],\n   \"meta_title\": \"Play Fruitilicious Slot Game for Free\",\n   \"meta_description\": \"Read our review of Fruitilicious, a straightforward slot game with potentially lucrative prizes. Play for free.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 484,
+                    "completion_tokens": 118,
+                    "total_tokens": 602
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruitilicious.json"
+    "filename": "game_reviews/translations/fruitilicious.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_9d95fd79-aa2b-4993-b89e-44186b854989_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_9d95fd79-aa2b-4993-b89e-44186b854989_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_2ef2ed1b-b9f0-4b07-9fa6-9f97088dd4aa_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_9d95fd79-aa2b-4993-b89e-44186b854989_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_2ef2ed1b-b9f0-4b07-9fa6-9f97088dd4aa_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_2ef2ed1b-b9f0-4b07-9fa6-9f97088dd4aa_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_9d95fd79-aa2b-4993-b89e-44186b854989_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruitilicious_that_fea_2ef2ed1b-b9f0-4b07-9fa6-9f97088dd4aa_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruitilicious (Version 5).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 3).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 8).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 1).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 4).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 6).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 7).webp",
+        "game_reviews/processed_images/Fruitilicious (Version 2).webp"
+    ],
+    "slug": "fruitilicious",
+    "name": "Fruitilicious",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruitilicious-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruitilicious Slot Game for Free' ### Meta set: 'Read our review of Fruitilicious, a straightforward slot game with potentially lucrative prizes. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

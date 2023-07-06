@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 96.34%",
+                    "High volatility for bigger wins",
+                    "Excellent RTP figure of 96.34%",
                     "Exciting steampunk theme",
-                    "Additional reel with multipliers",
-                    "Three special functions"
+                    "Three special features to enhance gameplay"
                 ],
                 "cons": [
-                    "High volatility level might deter some players",
-                    "Low-level symbols lack detail"
+                    "Limited minimum bet of €0.25",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Cloud Corsairs for free: A High-RTP Steampunk Slot",
-                "meta_description": "Read our review of Cloud Corsairs, a high-RTP steampunk-themed slot with exciting special features and an additional reel with multipliers. Play for free."
+                "meta_title": "Play Cloud Corsairs Free - Exciting Steampunk Slot Game",
+                "meta_description": "Play Cloud Corsairs for free and experience the thrill of a steampunk-themed slot game with high volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cloud Corsairs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nCloud Corsairs is a 5x3 grid slot game with 27 paylines and a minimum bet of €0.25. To win, players need to match identical symbols starting from the left reel and moving right, or complete the combo with the Wild symbol. The game's volatility is high, while the RTP figure stands at an excellent 96.34%. Next to the fifth reel, there is an additional reel on which there are multipliers that help increase the value of wins.\n\nSymbols and paylines\n\nThere are 8 regular symbols in Cloud Corsairs, 4 low-level and 4 high-level. The low-level symbols are represented by wind roses of different colors, while the high-level symbols are the pirates of the story. The airship symbol is the Wild. To make a winning combo, players must match symbols on any of the 27 paylines starting from the left reel and moving right.\n\nSpecial features\n\nCloud Corsairs offers three special functions. 1) Zeppelin Respins, triggered when the winning combo includes the airship symbol, which remains locked while respins trigger various multipliers for up to 50x. 2) Bonus, triggered with three bonus symbols, players get 12 free spins, and wins pay in both directions, from left to right and vice versa. A special counter on the left of the grid moves up every time additional bonus symbols appear, unlocking more multipliers and granting additional free spins. 3) Lightning Mystery, where lightning incinerates six random symbols and replaces them to form winning combos.\n\nVolatility and RTP\n\nCloud Corsairs has high volatility and an RTP figure of an excellent 96.34%. The volatility level reflects the frequency of wins in a game. Higher volatility means less frequent, but bigger wins. The RTP figure is the percentage of wagered money that a slot machine returns to players, on average, over a long period.\n\nSteampunk theme\n\nCloud Corsairs is a steampunk-themed game, revolving around a group of sky pirates trying to plunder commercial flights. The game's graphics are cartoon-style drawings and characters with meticulous definition. The steampunk theme adds an exciting element to the game, with fast airships, steam-driven machines, gears capable of moving tons of iron, and cities suspended in the clouds.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cloud Corsairs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nCloud Corsairs is a 5x3 grid slot game with 27 paylines and a minimum bet of €0.25. To win, players need to match identical symbols starting from the left reel and moving right, or complete the combo with the Wild symbol. The game's volatility is high, while the RTP figure stands at an excellent 96.34%. Next to the fifth reel, there is an additional reel on which there are multipliers that help increase the value of wins.\n\nSymbols and paylines\n\nThere are 8 regular symbols in Cloud Corsairs, 4 low-level and 4 high-level. The low-level symbols are represented by wind roses of different colors, while the high-level symbols are the pirates of the story. The airship symbol is the Wild. To make a winning combo, players must match symbols on any of the 27 paylines starting from the left reel and moving right.\n\nSpecial features\n\nCloud Corsairs offers three special functions. 1) Zeppelin Respins, triggered when the winning combo includes the airship symbol, which remains locked while respins trigger various multipliers for up to 50x. 2) Bonus, triggered with three bonus symbols, players get 12 free spins, and wins pay in both directions, from left to right and vice versa. A special counter on the left of the grid moves up every time additional bonus symbols appear, unlocking more multipliers and granting additional free spins. 3) Lightning Mystery, where lightning incinerates six random symbols and replaces them to form winning combos.\n\nVolatility and RTP\n\nCloud Corsairs has high volatility and an RTP figure of an excellent 96.34%. The volatility level reflects the frequency of wins in a game. Higher volatility means less frequent, but bigger wins. The RTP figure is the percentage of wagered money that a slot machine returns to players, on average, over a long period.\n\nSteampunk theme\n\nCloud Corsairs is a steampunk-themed game, revolving around a group of sky pirates trying to plunder commercial flights. The game's graphics are cartoon-style drawings and characters with meticulous definition. The steampunk theme adds an exciting element to the game, with fast airships, steam-driven machines, gears capable of moving tons of iron, and cities suspended in the clouds.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SvxSWD9MSw8Uk6zWiku4Uu0HpM4C",
+                "id": "chatcmpl-7WQOHzvXw5dZBWJqGO8Ua1UAYHvje",
                 "object": "chat.completion",
-                "created": 1687130330,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 649,
-                    "completion_tokens": 130,
-                    "total_tokens": 779
-                },
+                "created": 1687962297,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 96.34%\",\n        \"Exciting steampunk theme\",\n        \"Additional reel with multipliers\",\n        \"Three special functions\"\n    ],\n    \"cons\": [\n        \"High volatility level might deter some players\",\n        \"Low-level symbols lack detail\"\n    ],\n    \"meta_title\": \"Play Cloud Corsairs for free: A High-RTP Steampunk Slot\",\n    \"meta_description\": \"Read our review of Cloud Corsairs, a high-RTP steampunk-themed slot with exciting special features and an additional reel with multipliers. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High volatility for bigger wins\",\n    \"Excellent RTP figure of 96.34%\",\n    \"Exciting steampunk theme\",\n    \"Three special features to enhance gameplay\"\n  ],\n  \"cons\": [\n    \"Limited minimum bet of €0.25\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Cloud Corsairs Free - Exciting Steampunk Slot Game\",\n  \"meta_description\": \"Play Cloud Corsairs for free and experience the thrill of a steampunk-themed slot game with high volatility.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 646,
+                    "completion_tokens": 121,
+                    "total_tokens": 767
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_4.png",
         "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_4.png"
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Cloud_Corsairs_that_ca_18c7b5d3-9a27-493b-ba90-40fed1c9a605_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cloud Corsairs (Version 4).webp",
+        "game_reviews/processed_images/Cloud Corsairs (Version 3).webp",
         "game_reviews/processed_images/Cloud Corsairs (Version 2).webp",
-        "game_reviews/processed_images/Cloud Corsairs (Version 1).webp",
-        "game_reviews/processed_images/Cloud Corsairs (Version 3).webp"
+        "game_reviews/processed_images/Cloud Corsairs (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cloud-corsairs.json"
+    "filename": "game_reviews/translations/cloud-corsairs.json",
+    "slug": "cloud-corsairs",
+    "name": "Cloud Corsairs",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cloud-Corsairs-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cloud Corsairs Free - Exciting Steampunk Slot Game' ### Meta set: 'Play Cloud Corsairs for free and experience the thrill of a steampunk-themed slot game with high volatility.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

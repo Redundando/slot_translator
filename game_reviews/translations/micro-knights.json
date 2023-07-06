@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and creative banner features",
-                    "Free Drops Bonus Game with reactivation option",
-                    "High maximum payout of 2,500x the bet",
-                    "Colorful and fun medieval-themed design"
+                    "Cluster Pays mechanic for frequent wins",
+                    "Exciting banner features for additional rewards",
+                    "Free Drops Bonus Game feature for extra spins",
+                    "Fun and visually appealing medieval theme"
                 ],
                 "cons": [
-                    "Fewer winning combinations due to Cluster Pays mechanic",
-                    "No progressive jackpot feature"
+                    "Limited betting options",
+                    "High volatility may not be suitable for all players"
                 ],
-                "meta_title": "Play Micro Knights Free Slot Game - Exciting Medieval Adventure",
-                "meta_description": "Join the Micro Knights for a fun medieval-themed slot adventure. Play Micro Knights slot for free and enjoy unique banner features and high payouts."
+                "meta_title": "Play Micro Knights for Free! Slot Review and Game Overview",
+                "meta_description": "Read our review of Micro Knights and play for free. Discover the gameplay, features, and payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Micro Knights\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and mechanics\n\nMicro Knights is a 7x7 grid slot game with bets ranging from €0.10 up to €100.00 per round on all devices. Being a Cluster Pays slot, winning combinations are formed by getting 5 or more matching symbols. When a win is formed, a cascade will be triggered and winning clusters will be removed to make way for new symbols to land, bringing consecutive wins. A player can win up to 2,500x their bet for each spin/drop.\n\nBanner features\n\nMicro Knights has six banner features that remove rows, add wilds, remove low-value symbols, and give you extra symbols. These features include: Enhanced Queue, Charge, Epic Charge, Extra Wild, Inferno, and Super Size. Each symbol in a winning cluster is added to the symbol grid on the right. When the grid is full, a randomly selected banner feature is activated while the grid is reset.\n\nFree Drops Bonus Game feature\n\nIf a player lands three crown symbols, the Free Drops Bonus Game feature will be activated. This feature awards 5 free drops/spins initially with the option to reactivate the feature to reach 10. Starting from an empty counter and queue, a player can benefit from all of the banner features mentioned above.\n\nPayouts and RTP\n\nThe payouts in Micro Knights range up to 2,500x the bet for each spin/drop, with an RTP of 96%. The bull symbol is the most rewarding and can give a player 250x the total bet.\n\nVisuals and theme\n\nMicro Knights is a fun medieval-themed game with a cartoon-inspired design that has graphics resembling those of PC games. The symbols include wells, targets, mushrooms, rabbits, frogs, goats, bulls, and the golden chalice, which is the wild symbol that replaces all symbols except the bonus scatter. The game is colorful and portrays knights charging around the grid with the Charging Knight keeping track of the symbol queue.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Micro Knights\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and mechanics\n\nMicro Knights is a 7x7 grid slot game with bets ranging from €0.10 up to €100.00 per round on all devices. Being a Cluster Pays slot, winning combinations are formed by getting 5 or more matching symbols. When a win is formed, a cascade will be triggered and winning clusters will be removed to make way for new symbols to land, bringing consecutive wins. A player can win up to 2,500x their bet for each spin/drop.\n\nBanner features\n\nMicro Knights has six banner features that remove rows, add wilds, remove low-value symbols, and give you extra symbols. These features include: Enhanced Queue, Charge, Epic Charge, Extra Wild, Inferno, and Super Size. Each symbol in a winning cluster is added to the symbol grid on the right. When the grid is full, a randomly selected banner feature is activated while the grid is reset.\n\nFree Drops Bonus Game feature\n\nIf a player lands three crown symbols, the Free Drops Bonus Game feature will be activated. This feature awards 5 free drops/spins initially with the option to reactivate the feature to reach 10. Starting from an empty counter and queue, a player can benefit from all of the banner features mentioned above.\n\nPayouts and RTP\n\nThe payouts in Micro Knights range up to 2,500x the bet for each spin/drop, with an RTP of 96%. The bull symbol is the most rewarding and can give a player 250x the total bet.\n\nVisuals and theme\n\nMicro Knights is a fun medieval-themed game with a cartoon-inspired design that has graphics resembling those of PC games. The symbols include wells, targets, mushrooms, rabbits, frogs, goats, bulls, and the golden chalice, which is the wild symbol that replaces all symbols except the bonus scatter. The game is colorful and portrays knights charging around the grid with the Charging Knight keeping track of the symbol queue.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U8iPw1bBDbaMevZhQ2GbuCAVWNPH",
+                "id": "chatcmpl-7WXf4CuaXMhfclxvtICUk8vtANHQP",
                 "object": "chat.completion",
-                "created": 1687417697,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990246,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique and creative banner features\",\n        \"Free Drops Bonus Game with reactivation option\",\n        \"High maximum payout of 2,500x the bet\",\n        \"Colorful and fun medieval-themed design\"\n    ],\n    \"cons\": [\n        \"Fewer winning combinations due to Cluster Pays mechanic\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Micro Knights Free Slot Game - Exciting Medieval Adventure\",\n    \"meta_description\": \"Join the Micro Knights for a fun medieval-themed slot adventure. Play Micro Knights slot for free and enjoy unique banner features and high payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cluster Pays mechanic for frequent wins\",\n    \"Exciting banner features for additional rewards\",\n    \"Free Drops Bonus Game feature for extra spins\",\n    \"Fun and visually appealing medieval theme\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"High volatility may not be suitable for all players\"\n  ],\n  \"meta_title\": \"Play Micro Knights for Free! Slot Review and Game Overview\",\n  \"meta_description\": \"Read our review of Micro Knights and play for free. Discover the gameplay, features, and payouts.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 574,
-                    "completion_tokens": 131,
-                    "total_tokens": 705
+                    "prompt_tokens": 571,
+                    "completion_tokens": 118,
+                    "total_tokens": 689
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/micro-knights.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Micro_K_ec51309d-b6ef-4ff3-b45a-55a37b997ab1_4.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Micro_K_ec51309d-b6ef-4ff3-b45a-55a37b997ab1_2.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Micro_K_ec51309d-b6ef-4ff3-b45a-55a37b997ab1_3.png",
+        "arved__DALLE_please_create_a_feature_image_for_the_game_Micro_K_ec51309d-b6ef-4ff3-b45a-55a37b997ab1_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Micro Knights (Version 2).webp",
+        "game_reviews/processed_images/Micro Knights (Version 1).webp",
+        "game_reviews/processed_images/Micro Knights (Version 4).webp",
+        "game_reviews/processed_images/Micro Knights (Version 3).webp"
+    ],
+    "slug": "micro-knights",
+    "name": "Micro Knights",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Micro-Knights-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Micro Knights for Free! Slot Review and Game Overview' ### Meta set: 'Read our review of Micro Knights and play for free. Discover the gameplay, features, and payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

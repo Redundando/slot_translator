@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cinematic masterpiece",
-                    "High-quality graphics and sound",
-                    "Special features for varying gameplay",
-                    "Top manufacturer in the industry"
+                    "Well-designed graphics",
+                    "Cinematic experience",
+                    "Variety of bonus modes",
+                    "High-quality sound effects"
                 ],
                 "cons": [
-                    "No visible game skeleton",
-                    "Limited number of payoff lines"
+                    "Standard 5x3 slot machine",
+                    "No visible game skeleton"
                 ],
-                "meta_title": "Play Jurassic Park Slot Game for Free - Microgaming",
-                "meta_description": "Read our review of Jurassic Park slot game by Microgaming and play for free. Experience the wonders of the dinosaur park with 243 payoff lines."
+                "meta_title": "Play Jurassic Park Slot Game Free",
+                "meta_description": "Read our review of Jurassic Park slot game and play for free. Enjoy the cinematic experience."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jurassic Park\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJurassic Park slot game\n\nMicrogaming's Jurassic Park slot game is a cinematic masterpiece that brings the 90's dinosaur park to life. Graphically, the game is well-designed with symbols moving on 5 invisible reels, featuring human protagonists and dinosaurs. The sound effects are mysterious and epic, and the famous Jurassic Park theme plays during special combinations. Overall, Jurassic Park is a must-play for enthusiasts of online slot games.\n\nMicrogaming\n\nMicrogaming is a top manufacturer of online slot machines in the industry, responsible for some of the best slot games available. Their products are known for their high quality, especially in their cinema-themed slots, like Jurassic Park.\n\nGameplay features\n\nDespite the absence of a visible game skeleton, Jurassic Park is a standard 5x3 slot machine with 243 payoff lines. The game has special symbols, including the mosquito trapped in resin, that allow players to access free spins and try 5 different bonus modes. These modes are characterized by different dinosaurs and special features that make the gameplay always varied and fun.\n\nSpecial features\n\nJurassic Park is equipped with special features that set it apart from other online slot games. One of the most notable features is the ability to try 5 different bonus modes during free spins, each characterized by different dinosaurs and special features. Additionally, the game has a Scatter symbol, the mosquito trapped in resin, which allows players to access free spins.\n\nSound effects\n\nThe sound effects in Jurassic Park are well-done, with mysterious and epic music playing in the background, perfectly in line with the game's theme. During special combinations, players might hear the famous Jurassic Park theme. Overall, the sound effects add to the cinematic experience of playing this slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jurassic Park\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJurassic Park slot game\n\nMicrogaming's Jurassic Park slot game is a cinematic masterpiece that brings the 90's dinosaur park to life. Graphically, the game is well-designed with symbols moving on 5 invisible reels, featuring human protagonists and dinosaurs. The sound effects are mysterious and epic, and the famous Jurassic Park theme plays during special combinations. Overall, Jurassic Park is a must-play for enthusiasts of online slot games.\n\nMicrogaming\n\nMicrogaming is a top manufacturer of online slot machines in the industry, responsible for some of the best slot games available. Their products are known for their high quality, especially in their cinema-themed slots, like Jurassic Park.\n\nGameplay features\n\nDespite the absence of a visible game skeleton, Jurassic Park is a standard 5x3 slot machine with 243 payoff lines. The game has special symbols, including the mosquito trapped in resin, that allow players to access free spins and try 5 different bonus modes. These modes are characterized by different dinosaurs and special features that make the gameplay always varied and fun.\n\nSpecial features\n\nJurassic Park is equipped with special features that set it apart from other online slot games. One of the most notable features is the ability to try 5 different bonus modes during free spins, each characterized by different dinosaurs and special features. Additionally, the game has a Scatter symbol, the mosquito trapped in resin, which allows players to access free spins.\n\nSound effects\n\nThe sound effects in Jurassic Park are well-done, with mysterious and epic music playing in the background, perfectly in line with the game's theme. During special combinations, players might hear the famous Jurassic Park theme. Overall, the sound effects add to the cinematic experience of playing this slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxO3t106NmoRg2gbZXrzdVjcd608",
+                "id": "chatcmpl-7WVp7n27SKHQIu0pFgGSQa73GDxhZ",
                 "object": "chat.completion",
-                "created": 1687374151,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983181,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Cinematic masterpiece\",\n    \"High-quality graphics and sound\",\n    \"Special features for varying gameplay\",\n    \"Top manufacturer in the industry\"\n  ],\n  \"cons\": [\n    \"No visible game skeleton\",\n    \"Limited number of payoff lines\"\n  ],\n  \"meta_title\": \"Play Jurassic Park Slot Game for Free - Microgaming\",\n  \"meta_description\": \"Read our review of Jurassic Park slot game by Microgaming and play for free. Experience the wonders of the dinosaur park with 243 payoff lines.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-designed graphics\",\n    \"Cinematic experience\",\n    \"Variety of bonus modes\",\n    \"High-quality sound effects\"\n  ],\n  \"cons\": [\n    \"Standard 5x3 slot machine\",\n    \"No visible game skeleton\"\n  ],\n  \"meta_title\": \"Play Jurassic Park Slot Game Free\",\n  \"meta_description\": \"Read our review of Jurassic Park slot game and play for free. Enjoy the cinematic experience.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 525,
-                    "completion_tokens": 118,
-                    "total_tokens": 643
+                    "prompt_tokens": 522,
+                    "completion_tokens": 100,
+                    "total_tokens": 622
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jurassic-park.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Jurassic_Park_slot_game_that__5f27fc65-08ff-4dc5-9156-bcf2c5d1ce4e_1.png",
+        "arved__Create_a_feature_image_for_Jurassic_Park_slot_game_that__5f27fc65-08ff-4dc5-9156-bcf2c5d1ce4e_3.png",
+        "arved__Create_a_feature_image_for_Jurassic_Park_slot_game_that__5f27fc65-08ff-4dc5-9156-bcf2c5d1ce4e_4.png",
+        "arved__Create_a_feature_image_for_Jurassic_Park_slot_game_that__5f27fc65-08ff-4dc5-9156-bcf2c5d1ce4e_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jurassic Park (Version 1).webp",
+        "game_reviews/processed_images/Jurassic Park (Version 3).webp",
+        "game_reviews/processed_images/Jurassic Park (Version 2).webp",
+        "game_reviews/processed_images/Jurassic Park (Version 4).webp"
+    ],
+    "slug": "jurassic-park",
+    "name": "Jurassic Park",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jurassic-Park-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jurassic Park Slot Game Free' ### Meta set: 'Read our review of Jurassic Park slot game and play for free. Enjoy the cinematic experience.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

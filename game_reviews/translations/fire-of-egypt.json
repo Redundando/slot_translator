@@ -579,38 +579,38 @@
                 "pros": [
                     "Mix of classic and modern gameplay mechanics",
                     "Easy to play for both novice and experienced players",
-                    "Effective graphics that capture the essence of ancient Egyptian culture",
-                    "Numerous winning combinations for increased winnings"
+                    "Reflects the essence of ancient Egyptian culture and traditions",
+                    "Excellent quality symbols that are easily recognizable"
                 ],
                 "cons": [
-                    "Unfamiliar 4x4 grid may not appeal to all players",
-                    "High-risk double or nothing feature"
+                    "Graphics are not innovative",
+                    "Double or nothing feature carries a high risk"
                 ],
-                "meta_title": "Play Fire of Egypt Free - Merkur Slot Review",
-                "meta_description": "Read our review of Fire of Egypt, a Merkur slot game set in ancient Egypt. Play free and discover the mix of classic and modern gameplay mechanics."
+                "meta_title": "Play Fire of Egypt for Free - Game Review",
+                "meta_description": "Read our review of Fire of Egypt and play this slot game for free. Explore ancient Egyptian culture and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fire of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFire of Egypt is a slot game created by Merkur with a 4x4 grid and 25 fixed paylines. This slot offers a mix of classic and modern gameplay mechanics, with a double or nothing feature and a gamble round that allows players to take risks and potentially increase their winnings. The game is relatively easy to play, and it is suitable for both novice and experienced players alike.\n\nEgyptian theme and graphics\n\nFire of Egypt has a classic theme that takes players back to ancient Egypt, with its symbols and artifacts highlighting the rich culture of the Egyptian civilization. The game offers a simple aesthetic design with illustrations that reflect the game's theme. Although the graphics are not innovative, they are effective in capturing the essence of ancient Egyptian culture and traditions.\n\nPaylines and game grid\n\nFire of Egypt has 25 fixed paylines and a 4x4 grid. The game's layout may be a bit unfamiliar to some players who are used to the more conventional 5x3 grid; however, the gameplay mechanics remain similar. The paylines are fixed, which means that players cannot decrease or increase their numbers. The game provides numerous winning combinations that can increase players' winnings, and it is relatively easy to navigate.\n\nSymbols and artifacts\n\nFire of Egypt has various symbols and artifacts that reflect the rich culture of ancient Egypt. The game features pharaoh scepters, fans, and the graphical representations of two famous archaeological artifacts - Tutankhamun's golden sarcophagus, and the head of Queen Nefertiti. The inevitable card symbols (A, K, Q, J) feature prominently in the game, and they are bright and colorful, reflecting Merkur's graphic tradition. The symbols' quality is excellent, and they are easily recognizable.\n\nDouble or nothing feature\n\nFire of Egypt's double or nothing feature allows players to gamble their winnings, either by playing a card game or climbing to higher winnings. While appreciated, this particular feature carries a high risk, and players must use it with caution. Novice players are advised to practice before betting high values.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fire of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFire of Egypt is a slot game created by Merkur with a 4x4 grid and 25 fixed paylines. This slot offers a mix of classic and modern gameplay mechanics, with a double or nothing feature and a gamble round that allows players to take risks and potentially increase their winnings. The game is relatively easy to play, and it is suitable for both novice and experienced players alike.\n\nEgyptian theme and graphics\n\nFire of Egypt has a classic theme that takes players back to ancient Egypt, with its symbols and artifacts highlighting the rich culture of the Egyptian civilization. The game offers a simple aesthetic design with illustrations that reflect the game's theme. Although the graphics are not innovative, they are effective in capturing the essence of ancient Egyptian culture and traditions.\n\nPaylines and game grid\n\nFire of Egypt has 25 fixed paylines and a 4x4 grid. The game's layout may be a bit unfamiliar to some players who are used to the more conventional 5x3 grid; however, the gameplay mechanics remain similar. The paylines are fixed, which means that players cannot decrease or increase their numbers. The game provides numerous winning combinations that can increase players' winnings, and it is relatively easy to navigate.\n\nSymbols and artifacts\n\nFire of Egypt has various symbols and artifacts that reflect the rich culture of ancient Egypt. The game features pharaoh scepters, fans, and the graphical representations of two famous archaeological artifacts - Tutankhamun's golden sarcophagus, and the head of Queen Nefertiti. The inevitable card symbols (A, K, Q, J) feature prominently in the game, and they are bright and colorful, reflecting Merkur's graphic tradition. The symbols' quality is excellent, and they are easily recognizable.\n\nDouble or nothing feature\n\nFire of Egypt's double or nothing feature allows players to gamble their winnings, either by playing a card game or climbing to higher winnings. While appreciated, this particular feature carries a high risk, and players must use it with caution. Novice players are advised to practice before betting high values.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TFQAqpgPH8uiIjEy3qQoXoSACzcl",
+                "id": "chatcmpl-7WSjKiA9J1W973Dh7npMBOadWhvUm",
                 "object": "chat.completion",
-                "created": 1687205146,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 600,
-                    "completion_tokens": 143,
-                    "total_tokens": 743
-                },
+                "created": 1687971290,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Mix of classic and modern gameplay mechanics\",\n        \"Easy to play for both novice and experienced players\",\n        \"Effective graphics that capture the essence of ancient Egyptian culture\",\n        \"Numerous winning combinations for increased winnings\"\n    ],\n    \"cons\": [\n        \"Unfamiliar 4x4 grid may not appeal to all players\",\n        \"High-risk double or nothing feature\"\n    ],\n    \"meta_title\": \"Play Fire of Egypt Free - Merkur Slot Review\",\n    \"meta_description\": \"Read our review of Fire of Egypt, a Merkur slot game set in ancient Egypt. Play free and discover the mix of classic and modern gameplay mechanics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Mix of classic and modern gameplay mechanics\",\n    \"Easy to play for both novice and experienced players\",\n    \"Reflects the essence of ancient Egyptian culture and traditions\",\n    \"Excellent quality symbols that are easily recognizable\"\n  ],\n  \"cons\": [\n    \"Graphics are not innovative\",\n    \"Double or nothing feature carries a high risk\"\n  ],\n  \"meta_title\": \"Play Fire of Egypt for Free - Game Review\",\n  \"meta_description\": \"Read our review of Fire of Egypt and play this slot game for free. Explore ancient Egyptian culture and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 597,
+                    "completion_tokens": 125,
+                    "total_tokens": 722
+                }
             }
         },
         {
@@ -809,5 +809,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fire-of-egypt.json"
+    "filename": "game_reviews/translations/fire-of-egypt.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_5564484a-0709-4a9f-9d17-bb76d88afded_3.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_5564484a-0709-4a9f-9d17-bb76d88afded_1.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_5564484a-0709-4a9f-9d17-bb76d88afded_2.png",
+        "arved__Prompt_Create_a_cartoon_style_image_featuring_a_happy_Ma_5564484a-0709-4a9f-9d17-bb76d88afded_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fire-of-egypt",
+    "name": "Fire of Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fire-of-egypt-new-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fire of Egypt for Free - Game Review' ### Meta set: 'Read our review of Fire of Egypt and play this slot game for free. Explore ancient Egyptian culture and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

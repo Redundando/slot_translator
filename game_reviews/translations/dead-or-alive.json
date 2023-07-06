@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Sticky Win feature adds extra excitement",
-                    "Top-notch graphics and sound effects",
-                    "Immersive Western-inspired atmosphere",
-                    "Range of betting options to suit all budgets"
+                    "Immersive gameplay with Wild West theme",
+                    "Sticky Win feature adds excitement",
+                    "High-quality graphics and sound effects",
+                    "Chance to win big with free spins and Sticky Win feature"
                 ],
                 "cons": [
-                    "Limited variety of bonus features",
-                    "High variance may not appeal to all players"
+                    "Limited betting options",
+                    "Autoplay feature may not appeal to all players"
                 ],
-                "meta_title": "Play Dead or Alive Slot Game for Free",
-                "meta_description": "Read our review of Dead or Alive slot game by NetEnt and play for free. Enjoy the immersive Western-themed atmosphere and Sticky Win feature for big wins."
+                "meta_title": "Play Dead or Alive - Free Wild West Slot Game",
+                "meta_description": "Read our review of Dead or Alive, the free Wild West slot game with immersive gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dead or Alive\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDead or Alive by NetEnt is a slot machine that takes players on an immersive journey through the world of the Wild West. The game's graphics, animations, and sound effects all contribute to creating a realistic gaming experience. The Sticky Win feature adds an extra layer of excitement to the game by allowing players to hold onto the symbols that determine winning combinations and spin only the wheels corresponding to remaining symbols. With up to 12 free spins available as well, Dead or Alive offers a thrilling gaming experience.\n\nGraphics and Audio\n\nThe graphics and sound effects of Dead or Alive are top-notch, evoking a sense of the Wild West perfectly. The background is well-designed, featuring a landscape of the vast, open plains typical of the American West. The animations are smooth and engaging, breathing life into the game before the reels even start spinning. The sound effects, such as the wind blowing on the dusty roads and the creaking of the door of a saloon, add an extra layer of immersion to the game.\n\nTheme and Symbols\n\nDead or Alive is a slot machine that immerses players into the exciting and dangerous world of the Wild West. The symbols, including cowboy boots, sheriff's badges, and smoking guns, all contribute to creating a Western-inspired atmosphere. The Wanted sign serves as the Wild symbol, replacing all other symbols to complete winning combinations and activate the Sticky Win feature. Meanwhile, two crossed guns represent the Scatter symbol, awarding free spins and increasing players' winning potential.\n\nBetting Options\n\nDead or Alive offers a range of betting options to suit every player's budget. The minimum coin value is €0.01, while the maximum coin value is €0.50. The game also features a maximum bet button, which sets the highest bet possible. Additionally, there are nine levels available that players can choose from. The Autoplay function makes it possible to have the reels spin automatically, but players can switch back to manual mode at any time.\n\nWinning Potential\n\nDead or Alive offers players the opportunity to win big with a maximum jackpot of €54,000 achievable by using the Sticky Win feature. Additionally, players can win up to 12 free spins if they land at least three Scatter symbols on the reels. With the possibility of holding on to the symbols that determine winning combinations, the Sticky Win feature provides an exciting gameplay experience that can lead to even bigger wins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dead or Alive\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDead or Alive by NetEnt is a slot machine that takes players on an immersive journey through the world of the Wild West. The game's graphics, animations, and sound effects all contribute to creating a realistic gaming experience. The Sticky Win feature adds an extra layer of excitement to the game by allowing players to hold onto the symbols that determine winning combinations and spin only the wheels corresponding to remaining symbols. With up to 12 free spins available as well, Dead or Alive offers a thrilling gaming experience.\n\nGraphics and Audio\n\nThe graphics and sound effects of Dead or Alive are top-notch, evoking a sense of the Wild West perfectly. The background is well-designed, featuring a landscape of the vast, open plains typical of the American West. The animations are smooth and engaging, breathing life into the game before the reels even start spinning. The sound effects, such as the wind blowing on the dusty roads and the creaking of the door of a saloon, add an extra layer of immersion to the game.\n\nTheme and Symbols\n\nDead or Alive is a slot machine that immerses players into the exciting and dangerous world of the Wild West. The symbols, including cowboy boots, sheriff's badges, and smoking guns, all contribute to creating a Western-inspired atmosphere. The Wanted sign serves as the Wild symbol, replacing all other symbols to complete winning combinations and activate the Sticky Win feature. Meanwhile, two crossed guns represent the Scatter symbol, awarding free spins and increasing players' winning potential.\n\nBetting Options\n\nDead or Alive offers a range of betting options to suit every player's budget. The minimum coin value is €0.01, while the maximum coin value is €0.50. The game also features a maximum bet button, which sets the highest bet possible. Additionally, there are nine levels available that players can choose from. The Autoplay function makes it possible to have the reels spin automatically, but players can switch back to manual mode at any time.\n\nWinning Potential\n\nDead or Alive offers players the opportunity to win big with a maximum jackpot of €54,000 achievable by using the Sticky Win feature. Additionally, players can win up to 12 free spins if they land at least three Scatter symbols on the reels. With the possibility of holding on to the symbols that determine winning combinations, the Sticky Win feature provides an exciting gameplay experience that can lead to even bigger wins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T1g0ouUnQ240eVIh7FdErEvDIalD",
+                "id": "chatcmpl-7WR3LZK33fQ9FiBcugQOQDKzhwhWb",
                 "object": "chat.completion",
-                "created": 1687152312,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 662,
-                    "completion_tokens": 128,
-                    "total_tokens": 790
-                },
+                "created": 1687964843,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Sticky Win feature adds extra excitement\",\n        \"Top-notch graphics and sound effects\",\n        \"Immersive Western-inspired atmosphere\",\n        \"Range of betting options to suit all budgets\"\n    ],\n    \"cons\": [\n        \"Limited variety of bonus features\",\n        \"High variance may not appeal to all players\"\n    ],\n    \"meta_title\": \"Play Dead or Alive Slot Game for Free\",\n    \"meta_description\": \"Read our review of Dead or Alive slot game by NetEnt and play for free. Enjoy the immersive Western-themed atmosphere and Sticky Win feature for big wins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive gameplay with Wild West theme\",\n    \"Sticky Win feature adds excitement\",\n    \"High-quality graphics and sound effects\",\n    \"Chance to win big with free spins and Sticky Win feature\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"Autoplay feature may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Dead or Alive - Free Wild West Slot Game\",\n  \"meta_description\": \"Read our review of Dead or Alive, the free Wild West slot game with immersive gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 659,
+                    "completion_tokens": 119,
+                    "total_tokens": 778
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_1.png",
         "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_4.png",
-        "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_2.png",
         "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_3.png",
-        "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_1.png"
+        "arved__Create_a_cartoon-style_feature_image_that_captures_the_e_d6211099-d418-4e48-85f7-f935850814b2_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dead Or Alive (Version 4).webp",
-        "game_reviews/processed_images/Dead Or Alive (Version 1).webp",
         "game_reviews/processed_images/Dead Or Alive (Version 3).webp",
-        "game_reviews/processed_images/Dead Or Alive (Version 2).webp"
+        "game_reviews/processed_images/Dead Or Alive (Version 4).webp",
+        "game_reviews/processed_images/Dead Or Alive (Version 2).webp",
+        "game_reviews/processed_images/Dead Or Alive (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/dead-or-alive.json"
+    "filename": "game_reviews/translations/dead-or-alive.json",
+    "slug": "dead-or-alive",
+    "name": "Dead or Alive",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dead-Or-Alive-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dead or Alive - Free Wild West Slot Game' ### Meta set: 'Read our review of Dead or Alive, the free Wild West slot game with immersive gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

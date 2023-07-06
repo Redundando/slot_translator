@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "117,649 ways to win",
-                    "Exciting bonus games",
-                    "Free Spins and Super Free Spins",
-                    "High maximum win potential"
+                    "Variety of special symbols and features",
+                    "High winning potential",
+                    "Smooth gameplay on mobile devices",
+                    "Ability to play for free on the provider's website"
                 ],
                 "cons": [
-                    "High volatility",
-                    "Autoplay function requires manual limits"
+                    "Limited number of Scatter symbols",
+                    "High volatility"
                 ],
-                "meta_title": "Play Euphoria Megaways for Free: Exciting Bonus Games",
-                "meta_description": "Read our review of Euphoria Megaways, the high-volatility slot game with free spins and exciting bonus games. Try it for free on the provider's website."
+                "meta_title": "Play Free: Euphoria Megaways Slot Review",
+                "meta_description": "Read our review of Euphoria Megaways slot game. Play for free and discover its features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Euphoria Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nEuphoria Megaways has 6 reels and variable rows with up to 117,649 ways to win. The minimum bet is €0.20, and the maximum win is 10,000 times the bet. The game uses the cascading system, which means that after every winning combo, the winning symbols are removed and replaced by entirely new ones. The game also features an Autoplay function, where players can activate from 5 to 1,000 automatic spins, but it is necessary to set the win and loss limits beyond which the function will stop, returning us to manual mode.\n\nSpecial Symbols and Features\n\nThe game features Scatter symbols, Wilds, multipliers and other exciting bonus games. The Wild symbol can replace all basic symbols except the other special ones. The Scatter symbols are the Euphoria word and the blue and red Euphoria words. The blue Euphoria word Scatter rewards Free Spins ranging from 8 to 14, depending on the number landed during a spin. The red Euphoria word Scatter appears with the blue word Scatter, and together they trigger the Super Free Spins function, thanks to multipliers and other bonuses. There is also a mystery symbol that transforms into a paying symbol and a star that always appears with a multiplier.\n\nWinning Potential and Bet Options\n\nEuphoria Megaways allows for a maximum win of 10,000 times the bet and has a minimum bet of €0.20. The game features an Autoplay function, where players can activate from 5 to 1,000 automatic spins, but it is necessary to set the win and loss limits beyond which the function will stop, returning us to manual mode.\n\nRTP and Volatility\n\nEuphoria Megaways has an RTP of 96% and high volatility. The game uses the cascading system, which means that after every winning combo, the winning symbols are removed and replaced by entirely new ones.\n\nAccessibility and Availability\n\nEuphoria Megaways runs smoothly on any mobile device thanks to HTML5 technology. The game can be tested for free on the provider's website. Free Spins or Super Free Spins can be obtained by landing at least three Scatters on the reels or by buying the feature through the BUY button on the grid.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Euphoria Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nEuphoria Megaways has 6 reels and variable rows with up to 117,649 ways to win. The minimum bet is €0.20, and the maximum win is 10,000 times the bet. The game uses the cascading system, which means that after every winning combo, the winning symbols are removed and replaced by entirely new ones. The game also features an Autoplay function, where players can activate from 5 to 1,000 automatic spins, but it is necessary to set the win and loss limits beyond which the function will stop, returning us to manual mode.\n\nSpecial Symbols and Features\n\nThe game features Scatter symbols, Wilds, multipliers and other exciting bonus games. The Wild symbol can replace all basic symbols except the other special ones. The Scatter symbols are the Euphoria word and the blue and red Euphoria words. The blue Euphoria word Scatter rewards Free Spins ranging from 8 to 14, depending on the number landed during a spin. The red Euphoria word Scatter appears with the blue word Scatter, and together they trigger the Super Free Spins function, thanks to multipliers and other bonuses. There is also a mystery symbol that transforms into a paying symbol and a star that always appears with a multiplier.\n\nWinning Potential and Bet Options\n\nEuphoria Megaways allows for a maximum win of 10,000 times the bet and has a minimum bet of €0.20. The game features an Autoplay function, where players can activate from 5 to 1,000 automatic spins, but it is necessary to set the win and loss limits beyond which the function will stop, returning us to manual mode.\n\nRTP and Volatility\n\nEuphoria Megaways has an RTP of 96% and high volatility. The game uses the cascading system, which means that after every winning combo, the winning symbols are removed and replaced by entirely new ones.\n\nAccessibility and Availability\n\nEuphoria Megaways runs smoothly on any mobile device thanks to HTML5 technology. The game can be tested for free on the provider's website. Free Spins or Super Free Spins can be obtained by landing at least three Scatters on the reels or by buying the feature through the BUY button on the grid.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCy66RCwEv813Lhjg7SSFbqFH4Cy",
+                "id": "chatcmpl-7WSQ932mVI1MbHJPygKWVEZsSjYLt",
                 "object": "chat.completion",
-                "created": 1687195718,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 646,
-                    "completion_tokens": 127,
-                    "total_tokens": 773
-                },
+                "created": 1687970101,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"117,649 ways to win\",\n        \"Exciting bonus games\",\n        \"Free Spins and Super Free Spins\",\n        \"High maximum win potential\"\n    ],\n    \"cons\": [\n        \"High volatility\",\n        \"Autoplay function requires manual limits\"\n    ],\n    \"meta_title\": \"Play Euphoria Megaways for Free: Exciting Bonus Games\",\n    \"meta_description\": \"Read our review of Euphoria Megaways, the high-volatility slot game with free spins and exciting bonus games. Try it for free on the provider's website.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Variety of special symbols and features\",\n    \"High winning potential\",\n    \"Smooth gameplay on mobile devices\",\n    \"Ability to play for free on the provider's website\"\n  ],\n  \"cons\": [\n    \"Limited number of Scatter symbols\",\n    \"High volatility\"\n  ],\n  \"meta_title\": \"Play Free: Euphoria Megaways Slot Review\",\n  \"meta_description\": \"Read our review of Euphoria Megaways slot game. Play for free and discover its features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 643,
+                    "completion_tokens": 110,
+                    "total_tokens": 753
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/euphoria-megaways.json"
+    "filename": "game_reviews/translations/euphoria-megaways.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_fun_and_vibrant_cartoon_image_for_Euphor_4fba047b-e602-463d-bc0d-4cde75067785_2.png",
+        "arved__Prompt_Create_a_fun_and_vibrant_cartoon_image_for_Euphor_4fba047b-e602-463d-bc0d-4cde75067785_4.png",
+        "arved__Prompt_Create_a_fun_and_vibrant_cartoon_image_for_Euphor_4fba047b-e602-463d-bc0d-4cde75067785_1.png",
+        "arved__Prompt_Create_a_fun_and_vibrant_cartoon_image_for_Euphor_4fba047b-e602-463d-bc0d-4cde75067785_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "euphoria-megaways",
+    "name": "Euphoria Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/euphoria-megaways-logo-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Free: Euphoria Megaways Slot Review' ### Meta set: 'Read our review of Euphoria Megaways slot game. Play for free and discover its features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

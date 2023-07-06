@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High volatility with up to 5000x payout",
-                    "Attractive graphics and design elements",
-                    "Multiple bonus features for more chances to win",
-                    "Compatible across various devices"
+                    "Wide betting range for both casual and daring players",
+                    "High volatility with chances to win big",
+                    "Stunning graphics and immersive design elements",
+                    "Several bonus features for more opportunities to win"
                 ],
                 "cons": [
-                    "May not appeal to players looking for low volatility",
-                    "May not offer enough variety in gameplay"
+                    "Limited number of paylines",
+                    "May not appeal to players who prefer low volatility slots"
                 ],
-                "meta_title": "Play Coywolf Cash Free: High-Volatility Slot Review",
-                "meta_description": "Experience the American wilderness with Coywolf Cash. Read our review and play for free to win big payouts on this high-volatility online slot game."
+                "meta_title": "Play Coywolf Cash Free & Win Big | Online Slot Game",
+                "meta_description": "Review of Coywolf Cash, an online slot game with stunning graphics and bonus features. Play for free and win big online."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Coywolf Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCoywolf Cash is a five-reel, twenty-payline online slot game from Play'n GO. Wins are awarded for combinations of identical symbols that are aligned from left to right on the reels. The betting range starts from just 20 cents and goes up to a maximum bet of €100, making this game perfect for both casual and daring players. With wins of up to 5000 times the bet amount and a 96.5% RTP rate, Coywolf Cash's volatility is high, providing players with plenty of chances to win big.\n\nGraphics and Design\n\nCoywolf Cash immerses players in the American wilderness theme with stunning graphics and design elements. The backdrop features rock formations, cacti, and a long winding road stretching out into the horizon. The game's cute and charming symbols include an eagle cop, an unfriendly snake, the coyote himself, a classic cactus, a bag of money adorned with a dollar sign, a buffalo skull, and an RV that add to the immersive elements of the game. The attention to detail enhances the gaming experience and brings the game's theme to life.\n\nBonus Features\n\nCoywolf Cash offers several bonus features that give players more chances to win big. The Wild symbols help players form winning combinations, while the Scatter symbols activate free spins and access to the game's bonus round. The bonus round includes the Prey Free Spins When Night Falls feature and the Wild Reel Feature, which add more excitement to the game and increase players' chances of winning big payouts.\n\nPayouts and Jackpots\n\nCoywolf Cash has a high volatility level, providing players with ample opportunities for big wins. The game offers a maximum payout of up to 5000 times the bet amount, totalling a staggering €500,000 at the maximum bet level. Additionally, the game's respectable 96.5% RTP rate ensures that players have a fair chance of winning. Overall, Coywolf Cash is a potentially profitable and exciting choice for experienced players looking to win big online.\n\nCompatibility\n\nCoywolf Cash is compatible with various devices, including desktop, mobile phones, and tablets, making it accessible to players on the go. The game is optimized for different screen sizes and devices, providing players with a seamless gaming experience regardless of their device's specifications. Coywolf Cash is available on various online casinos that support Play'n GO games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Coywolf Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCoywolf Cash is a five-reel, twenty-payline online slot game from Play'n GO. Wins are awarded for combinations of identical symbols that are aligned from left to right on the reels. The betting range starts from just 20 cents and goes up to a maximum bet of €100, making this game perfect for both casual and daring players. With wins of up to 5000 times the bet amount and a 96.5% RTP rate, Coywolf Cash's volatility is high, providing players with plenty of chances to win big.\n\nGraphics and Design\n\nCoywolf Cash immerses players in the American wilderness theme with stunning graphics and design elements. The backdrop features rock formations, cacti, and a long winding road stretching out into the horizon. The game's cute and charming symbols include an eagle cop, an unfriendly snake, the coyote himself, a classic cactus, a bag of money adorned with a dollar sign, a buffalo skull, and an RV that add to the immersive elements of the game. The attention to detail enhances the gaming experience and brings the game's theme to life.\n\nBonus Features\n\nCoywolf Cash offers several bonus features that give players more chances to win big. The Wild symbols help players form winning combinations, while the Scatter symbols activate free spins and access to the game's bonus round. The bonus round includes the Prey Free Spins When Night Falls feature and the Wild Reel Feature, which add more excitement to the game and increase players' chances of winning big payouts.\n\nPayouts and Jackpots\n\nCoywolf Cash has a high volatility level, providing players with ample opportunities for big wins. The game offers a maximum payout of up to 5000 times the bet amount, totalling a staggering €500,000 at the maximum bet level. Additionally, the game's respectable 96.5% RTP rate ensures that players have a fair chance of winning. Overall, Coywolf Cash is a potentially profitable and exciting choice for experienced players looking to win big online.\n\nCompatibility\n\nCoywolf Cash is compatible with various devices, including desktop, mobile phones, and tablets, making it accessible to players on the go. The game is optimized for different screen sizes and devices, providing players with a seamless gaming experience regardless of their device's specifications. Coywolf Cash is available on various online casinos that support Play'n GO games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SxfFT0FxH3BAX6brpqbwQnGG6Xf7",
+                "id": "chatcmpl-7WQb6IauS3sfuLvwmdcXdJ6JcueLF",
                 "object": "chat.completion",
-                "created": 1687136889,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 666,
-                    "completion_tokens": 135,
-                    "total_tokens": 801
-                },
+                "created": 1687963092,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High volatility with up to 5000x payout\",\n        \"Attractive graphics and design elements\",\n        \"Multiple bonus features for more chances to win\",\n        \"Compatible across various devices\"\n    ],\n    \"cons\": [\n        \"May not appeal to players looking for low volatility\",\n        \"May not offer enough variety in gameplay\"\n    ],\n    \"meta_title\": \"Play Coywolf Cash Free: High-Volatility Slot Review\",\n    \"meta_description\": \"Experience the American wilderness with Coywolf Cash. Read our review and play for free to win big payouts on this high-volatility online slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Wide betting range for both casual and daring players\",\n    \"High volatility with chances to win big\",\n    \"Stunning graphics and immersive design elements\",\n    \"Several bonus features for more opportunities to win\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"May not appeal to players who prefer low volatility slots\"\n  ],\n  \"meta_title\": \"Play Coywolf Cash Free & Win Big | Online Slot Game\",\n  \"meta_description\": \"Review of Coywolf Cash, an online slot game with stunning graphics and bonus features. Play for free and win big online.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 663,
+                    "completion_tokens": 131,
+                    "total_tokens": 794
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_3.png",
         "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_1.png",
+        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_3.png",
         "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_4.png",
         "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Coywolf Cash (Version 4).webp",
         "game_reviews/processed_images/Coywolf Cash (Version 1).webp",
-        "game_reviews/processed_images/Coywolf Cash (Version 3).webp",
         "game_reviews/processed_images/Coywolf Cash (Version 2).webp",
-        "game_reviews/processed_images/Coywolf Cash (Version 4).webp"
+        "game_reviews/processed_images/Coywolf Cash (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/coywolf-cash.json"
+    "filename": "game_reviews/translations/coywolf-cash.json",
+    "slug": "coywolf-cash",
+    "name": "Coywolf Cash",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Coywolf-Cash-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Coywolf Cash Free & Win Big | Online Slot Game' ### Meta set: 'Review of Coywolf Cash, an online slot game with stunning graphics and bonus features. Play for free and win big online.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

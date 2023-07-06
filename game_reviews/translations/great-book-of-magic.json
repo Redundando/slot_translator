@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Magic book as both scatter and wild symbol",
+                    "Magic book serves as both scatter and wild symbol",
                     "Free spins bonus with expanding symbols",
                     "Colorful graphics and simple animations",
-                    "Range of symbols including classic and enchanted objects"
+                    "Wide range of betting options"
                 ],
                 "cons": [
-                    "Limited bonus features",
-                    "Low maximum payout"
+                    "Limited number of free spins in the bonus round",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Great Book of Magic for Free - Review",
-                "meta_description": "Read our review of Great Book of Magic, a slot game with expanding symbols and a magic book wild/scatter. Play for free and learn if it's worth betting real money."
+                "meta_title": "Play Great Book of Magic for Free",
+                "meta_description": "Read our review of Great Book of Magic and play for free. Discover the magic today."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Great Book of Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMagic book as both scatter and wild symbol\n\nThe magic book is the highlight of Great Book of Magic as it works as both the wild symbol, replacing all symbols except the bonus, and the scatter symbol. Three or more scatters trigger 10 free spins, during which the book becomes an expanding symbol chosen at random to pay out in any position.\n\nFree spins bonus with expanding symbols\n\nThe free spins bonus in Great Book of Magic is triggered with three or more scatter symbols and rewards players with 10 free spins. Before the start of the free spins, a random bonus symbol is chosen to expand and cover the entire reel, increasing the chances of winning combinations. The free spins can also be re-triggered during the bonus round.\n\nColorful graphics and simple animations\n\nGreat Book of Magic features a dark and eerie design with colorful graphics and simple animations. The symbols in the game range from classic card suit symbols to enchanted objects like serpents and owls, adding to the mysterious and magical theme of the game.\n\nRange of symbols including classic and enchanted objects\n\nGreat Book of Magic includes a range of symbols from classic card suit symbols to enchanted objects like serpents, owls, and magic books. The symbol of the magic book is the most important in the game, working as both the wild and the scatter symbol.\n\nWide range of betting options\n\nWazdan has created a wide range of betting options to suit players of every level and budget. The controls are familiar, making it easy for players who have played Wazdan titles before. Additionally, the gamble feature gives players the chance to double their winnings up to seven times.\n\nSequel game with higher RTP percentages\n\nIf you enjoyed Great Book of Magic, Wazdan has released an improved and updated sequel called Great Book of Magic Deluxe. Produced by the same software manufacturer, this game offers even higher RTP percentages and is definitely worth betting your money on.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Great Book of Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMagic book as both scatter and wild symbol\n\nThe magic book is the highlight of Great Book of Magic as it works as both the wild symbol, replacing all symbols except the bonus, and the scatter symbol. Three or more scatters trigger 10 free spins, during which the book becomes an expanding symbol chosen at random to pay out in any position.\n\nFree spins bonus with expanding symbols\n\nThe free spins bonus in Great Book of Magic is triggered with three or more scatter symbols and rewards players with 10 free spins. Before the start of the free spins, a random bonus symbol is chosen to expand and cover the entire reel, increasing the chances of winning combinations. The free spins can also be re-triggered during the bonus round.\n\nColorful graphics and simple animations\n\nGreat Book of Magic features a dark and eerie design with colorful graphics and simple animations. The symbols in the game range from classic card suit symbols to enchanted objects like serpents and owls, adding to the mysterious and magical theme of the game.\n\nRange of symbols including classic and enchanted objects\n\nGreat Book of Magic includes a range of symbols from classic card suit symbols to enchanted objects like serpents, owls, and magic books. The symbol of the magic book is the most important in the game, working as both the wild and the scatter symbol.\n\nWide range of betting options\n\nWazdan has created a wide range of betting options to suit players of every level and budget. The controls are familiar, making it easy for players who have played Wazdan titles before. Additionally, the gamble feature gives players the chance to double their winnings up to seven times.\n\nSequel game with higher RTP percentages\n\nIf you enjoyed Great Book of Magic, Wazdan has released an improved and updated sequel called Great Book of Magic Deluxe. Produced by the same software manufacturer, this game offers even higher RTP percentages and is definitely worth betting your money on.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TmtcxOgduxder9uKn8LiE1ziCpxE",
+                "id": "chatcmpl-7WULpNXlMLjSncJr9XgcpKDHyRUT4",
                 "object": "chat.completion",
-                "created": 1687333824,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687977521,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Magic book as both scatter and wild symbol\",\n        \"Free spins bonus with expanding symbols\",\n        \"Colorful graphics and simple animations\",\n        \"Range of symbols including classic and enchanted objects\"\n    ],\n    \"cons\": [\n        \"Limited bonus features\",\n        \"Low maximum payout\"\n    ],\n    \"meta_title\": \"Play Great Book of Magic for Free - Review\",\n    \"meta_description\": \"Read our review of Great Book of Magic, a slot game with expanding symbols and a magic book wild/scatter. Play for free and learn if it's worth betting real money.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Magic book serves as both scatter and wild symbol\",\n    \"Free spins bonus with expanding symbols\",\n    \"Colorful graphics and simple animations\",\n    \"Wide range of betting options\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins in the bonus round\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Great Book of Magic for Free\",\n  \"meta_description\": \"Read our review of Great Book of Magic and play for free. Discover the magic today.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 564,
-                    "completion_tokens": 128,
-                    "total_tokens": 692
+                    "prompt_tokens": 561,
+                    "completion_tokens": 112,
+                    "total_tokens": 673
                 }
             }
         },
@@ -886,5 +886,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/great-book-of-magic.json"
+    "filename": "game_reviews/translations/great-book-of-magic.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Great_Book_of_Magic_that_feat_6f23e679-4352-462f-a564-6e60bb48716d_2.png",
+        "arved__Create_a_feature_image_for_Great_Book_of_Magic_that_feat_6f23e679-4352-462f-a564-6e60bb48716d_4.png",
+        "arved__Create_a_feature_image_for_Great_Book_of_Magic_that_feat_6f23e679-4352-462f-a564-6e60bb48716d_3.png",
+        "arved__Create_a_feature_image_for_Great_Book_of_Magic_that_feat_6f23e679-4352-462f-a564-6e60bb48716d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Great Book Of Magic (Version 1).webp",
+        "game_reviews/processed_images/Great Book Of Magic (Version 2).webp",
+        "game_reviews/processed_images/Great Book Of Magic (Version 4).webp",
+        "game_reviews/processed_images/Great Book Of Magic (Version 3).webp"
+    ],
+    "slug": "great-book-of-magic",
+    "name": "Great Book of Magic",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Great-Book-Of-Magic-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Great Book of Magic for Free' ### Meta set: 'Read our review of Great Book of Magic and play for free. Discover the magic today.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

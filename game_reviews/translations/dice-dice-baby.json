@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High likelihood of great rewards",
-                    "Availability of demo mode",
+                    "High likelihood of great rewards on winning spins",
+                    "Availability of a demo mode",
                     "Compatibility with different devices",
-                    "Various gameplay options"
+                    "Availability of Autospin, Turbo Mode, Max Bet, and volume settings"
                 ],
                 "cons": [
-                    "Absence of progressive jackpot",
-                    "Need to buy Free Spins feature for 100 times the bet"
+                    "No progressive jackpot",
+                    "Need to buy the Free Spins feature for 100 times the bet"
                 ],
-                "meta_title": "Play Dice Dice Baby Free | Slot Game Review",
-                "meta_description": "Read our unbiased review of Dice Dice Baby slot game and play it for free. Discover the game's features, pros and cons, and winning potential."
+                "meta_title": "Play Dice Dice Baby Free | Review",
+                "meta_description": "Read a comprehensive review of Dice Dice Baby and play for free to experience the excitement."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dice Dice Baby\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features of Dice Dice Baby\n\nDice Dice Baby is a 6×4, 25-payline slot game developed by Booming Games. With its high volatility and an RTP of 95.40%, players have a high probability of getting great rewards on winning spins. The game offers various options like Autospin, Turbo Mode, Max Bet, and volume settings. The Free demo mode available on the website allows players to experience the game without risking losing money.\n\nWinning combinations and betting options\n\nWinning combinations start from 3 to 6 symbols. The bet per spin starts from €0.05 up to €25. Players have a chance to win up to 5000 times their bet, which means they can win an average amount of €5000 by betting €1.\n\nSpecial symbols in the game\n\nIn addition to the iconic symbols, including cherries, watermelon, plum, orange, BAR symbol, bell, diamond, and seven, Dice Dice Baby has special symbols such as the Wild, which can lead to the maximum win of 5000 times the bet when 6 Wilds appear on the reels. The Star represents the bonus symbol that activates the Free Spins feature when 3 of these symbols appear on the board.\n\nCompatibility and accessibility\n\nDice Dice Baby is compatible with smartphones, tablets, and computers. The game's HTML5 technology makes it compatible with Android and iOS operating systems. It can be played directly in the browser, so there's no need to worry about memory space.\n\nPros and cons of the game\n\nPros of Dice Dice Baby include its high likelihood of great rewards on winning spins, availability of a demo mode, compatibility with different devices, and availability of Autospin, Turbo Mode, Max Bet, and volume settings. Cons include the absence of a progressive jackpot and the need to buy the Free Spins feature for 100 times the bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dice Dice Baby\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features of Dice Dice Baby\n\nDice Dice Baby is a 6×4, 25-payline slot game developed by Booming Games. With its high volatility and an RTP of 95.40%, players have a high probability of getting great rewards on winning spins. The game offers various options like Autospin, Turbo Mode, Max Bet, and volume settings. The Free demo mode available on the website allows players to experience the game without risking losing money.\n\nWinning combinations and betting options\n\nWinning combinations start from 3 to 6 symbols. The bet per spin starts from €0.05 up to €25. Players have a chance to win up to 5000 times their bet, which means they can win an average amount of €5000 by betting €1.\n\nSpecial symbols in the game\n\nIn addition to the iconic symbols, including cherries, watermelon, plum, orange, BAR symbol, bell, diamond, and seven, Dice Dice Baby has special symbols such as the Wild, which can lead to the maximum win of 5000 times the bet when 6 Wilds appear on the reels. The Star represents the bonus symbol that activates the Free Spins feature when 3 of these symbols appear on the board.\n\nCompatibility and accessibility\n\nDice Dice Baby is compatible with smartphones, tablets, and computers. The game's HTML5 technology makes it compatible with Android and iOS operating systems. It can be played directly in the browser, so there's no need to worry about memory space.\n\nPros and cons of the game\n\nPros of Dice Dice Baby include its high likelihood of great rewards on winning spins, availability of a demo mode, compatibility with different devices, and availability of Autospin, Turbo Mode, Max Bet, and volume settings. Cons include the absence of a progressive jackpot and the need to buy the Free Spins feature for 100 times the bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T3svHqGFNmR0gvJznmUZEHZ0TH5X",
+                "id": "chatcmpl-7WRGAGHaHCvcnekRftOuE2pvbIkn8",
                 "object": "chat.completion",
-                "created": 1687160801,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 563,
-                    "completion_tokens": 112,
-                    "total_tokens": 675
-                },
+                "created": 1687965638,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"High likelihood of great rewards\", \"Availability of demo mode\", \n             \"Compatibility with different devices\", \"Various gameplay options\"],\n    \"cons\": [\"Absence of progressive jackpot\", \"Need to buy Free Spins feature for 100 times the bet\"],\n    \"meta_title\": \"Play Dice Dice Baby Free | Slot Game Review\",\n    \"meta_description\": \"Read our unbiased review of Dice Dice Baby slot game and play it for free. Discover the game's features, pros and cons, and winning potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High likelihood of great rewards on winning spins\",\n    \"Availability of a demo mode\",\n    \"Compatibility with different devices\",\n    \"Availability of Autospin, Turbo Mode, Max Bet, and volume settings\"\n  ],\n  \"cons\": [\n    \"No progressive jackpot\",\n    \"Need to buy the Free Spins feature for 100 times the bet\"\n  ],\n  \"meta_title\": \"Play Dice Dice Baby Free | Review\",\n  \"meta_description\": \"Read a comprehensive review of Dice Dice Baby and play for free to experience the excitement.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 560,
+                    "completion_tokens": 121,
+                    "total_tokens": 681
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_1.png",
-        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_2.png",
         "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_4.png",
-        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_3.png"
+        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_3.png",
+        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_2.png",
+        "arved__Create_a_feature_image_for_Dice_Dice_Baby_in_cartoon_sty_c00b8069-343b-4905-a562-9db8b9cd1835_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Dice Dice Baby (Version 2).webp",
-        "game_reviews/processed_images/Dice Dice Baby (Version 3).webp",
         "game_reviews/processed_images/Dice Dice Baby (Version 4).webp",
+        "game_reviews/processed_images/Dice Dice Baby (Version 3).webp",
         "game_reviews/processed_images/Dice Dice Baby (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/dice-dice-baby.json"
+    "filename": "game_reviews/translations/dice-dice-baby.json",
+    "slug": "dice-dice-baby",
+    "name": "Dice Dice Baby",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dice-Dice-Baby-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dice Dice Baby Free | Review' ### Meta set: 'Read a comprehensive review of Dice Dice Baby and play for free to experience the excitement.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

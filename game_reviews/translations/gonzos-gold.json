@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gonzos-gold.json"
+    "filename": "game_reviews/translations/gonzos-gold.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_b89b792b-d3a6-4949-93c4-a09bd78e3cbf_4.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_b89b792b-d3a6-4949-93c4-a09bd78e3cbf_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_b89b792b-d3a6-4949-93c4-a09bd78e3cbf_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_b89b792b-d3a6-4949-93c4-a09bd78e3cbf_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gonzos Gold (Version 1).webp",
+        "game_reviews/processed_images/Gonzos Gold (Version 3).webp",
+        "game_reviews/processed_images/Gonzos Gold (Version 4).webp",
+        "game_reviews/processed_images/Gonzos Gold (Version 2).webp"
+    ],
+    "slug": "gonzos-gold",
+    "name": "Gonzo’s Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gonzos-Gold-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gonzo's Gold Free: Exciting Slot Game Review' ### Meta set: 'Read our review of Gonzo's Gold and play for free. Discover a jungle-themed slot game with up to 5000x payouts and exciting features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Dynamic and exciting gameplay with high chances of winning payouts",
-                    "Impeccable graphics with interactive quality that enhances the gameplay experience",
-                    "Multiple random modifiers and bonus rounds that keep the game continuously entertaining",
-                    "Distinct and immersive theme that transports players back in time to explore the wonders of underground London"
+                    "Dynamic and exciting gameplay",
+                    "Impeccably designed graphics",
+                    "Numerous bonus features and rounds",
+                    "Distinct and immersive theme"
                 ],
                 "cons": [
-                    "Limited number of paylines may not appeal to some players",
-                    "No progressive jackpot feature"
+                    "Limited number of paylines",
+                    "High volatility"
                 ],
-                "meta_title": "Play Going Underground Free: Exciting Slot Game Review",
-                "meta_description": "Experience the wonders of London's underground with Going Underground free slot game review. Discover the distinct and immersive theme and bonus features today!"
+                "meta_title": "Play Going Underground Slot for Free",
+                "meta_description": "Read our review of Going Underground, an exciting online slot game. Play for free and experience dynamic gameplay and numerous bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Going Underground\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGoing Underground is an exciting online slot game with a classic 5x3 structure and 20 fixed paylines. The game is designed to take us back in time to the underground world with its unique bonus features and modifiers that can engage players at every bet. Players must find at least 3 matching symbols to earn payouts from left to right. The gameplay is dynamic and exciting, with high chances for landing payouts.\n\nGraphics\n\nGoing Underground is an impeccably designed online slot game with cartoon-style symbols of historical figures, including Isaac Newton, Winston Churchill, William Shakespeare and more. The game has exceptional graphics that enhance the gameplay experience. The aesthetics include a constantly changing background according to the features activated and the type of round a player is playing. The visuals and graphics have an interactive quality that keeps the gameplay fresh and enjoyable.\n\nBonus Features\n\nGoing Underground is full of bonus features that make each spin unique and exciting. The game has five random modifiers, including ‘Tunnel Vision,' which adds mystery symbols to the reels, ‘Big Smoke', where players look for a 3x3 pay symbol, and wilds that randomly drop onto the grid. Moreover, the game has five possible bonus rounds that can be activated by finding at least three scatters. With Pentonville, lucky combinations and respins are fixed on the grid until winning payouts are generated. In Kings Cross, players receive five additional spins with a central reel that gets filled with wilds, and late in the game, players encounter Canary Wharf, which offers eight spins and highly remunerative symbols that can result in winnings up to 50 times the original bet. The game is packed with different bonus rounds and features, designed to continuously entertain and captivate players.\n\nTheme\n\nGoing Underground is a slot game that capitalizes on the theme of London's underground history. The game transports players back in time to explore the wonders of the underground world while interacting with famous historical figures. The game's theme is distinct and immersive, and every part of the game adds to the player's experience of the historical world being explored.\n\nAccessibility\n\nGoing Underground is available to every player worldwide, as the game is produced by a popular provider, Pragmatic Play, which operates in more than 70 countries worldwide. The game's accessibility is expanded to mobile devices, meaning players can enjoy the game regardless of their device. Going Underground has an RTP of 95.58%, and thanks to its different bonus features and modifiers, the game remains engaging, fresh and endlessly enjoyable.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Going Underground\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGoing Underground is an exciting online slot game with a classic 5x3 structure and 20 fixed paylines. The game is designed to take us back in time to the underground world with its unique bonus features and modifiers that can engage players at every bet. Players must find at least 3 matching symbols to earn payouts from left to right. The gameplay is dynamic and exciting, with high chances for landing payouts.\n\nGraphics\n\nGoing Underground is an impeccably designed online slot game with cartoon-style symbols of historical figures, including Isaac Newton, Winston Churchill, William Shakespeare and more. The game has exceptional graphics that enhance the gameplay experience. The aesthetics include a constantly changing background according to the features activated and the type of round a player is playing. The visuals and graphics have an interactive quality that keeps the gameplay fresh and enjoyable.\n\nBonus Features\n\nGoing Underground is full of bonus features that make each spin unique and exciting. The game has five random modifiers, including ‘Tunnel Vision,' which adds mystery symbols to the reels, ‘Big Smoke', where players look for a 3x3 pay symbol, and wilds that randomly drop onto the grid. Moreover, the game has five possible bonus rounds that can be activated by finding at least three scatters. With Pentonville, lucky combinations and respins are fixed on the grid until winning payouts are generated. In Kings Cross, players receive five additional spins with a central reel that gets filled with wilds, and late in the game, players encounter Canary Wharf, which offers eight spins and highly remunerative symbols that can result in winnings up to 50 times the original bet. The game is packed with different bonus rounds and features, designed to continuously entertain and captivate players.\n\nTheme\n\nGoing Underground is a slot game that capitalizes on the theme of London's underground history. The game transports players back in time to explore the wonders of the underground world while interacting with famous historical figures. The game's theme is distinct and immersive, and every part of the game adds to the player's experience of the historical world being explored.\n\nAccessibility\n\nGoing Underground is available to every player worldwide, as the game is produced by a popular provider, Pragmatic Play, which operates in more than 70 countries worldwide. The game's accessibility is expanded to mobile devices, meaning players can enjoy the game regardless of their device. Going Underground has an RTP of 95.58%, and thanks to its different bonus features and modifiers, the game remains engaging, fresh and endlessly enjoyable.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TQ16xEGRoQ4FSholeccmDjkCIzeP",
+                "id": "chatcmpl-7WTvtCMN6XuK4vhuS1TEkCoPwmUq4",
                 "object": "chat.completion",
-                "created": 1687245876,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 686,
-                    "completion_tokens": 152,
-                    "total_tokens": 838
-                },
+                "created": 1687975913,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Dynamic and exciting gameplay with high chances of winning payouts\",\n        \"Impeccable graphics with interactive quality that enhances the gameplay experience\",\n        \"Multiple random modifiers and bonus rounds that keep the game continuously entertaining\",\n        \"Distinct and immersive theme that transports players back in time to explore the wonders of underground London\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines may not appeal to some players\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Going Underground Free: Exciting Slot Game Review\",\n    \"meta_description\": \"Experience the wonders of London's underground with Going Underground free slot game review. Discover the distinct and immersive theme and bonus features today!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Dynamic and exciting gameplay\",\n    \"Impeccably designed graphics\",\n    \"Numerous bonus features and rounds\",\n    \"Distinct and immersive theme\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"High volatility\"\n  ],\n  \"meta_title\": \"Play Going Underground Slot for Free\",\n  \"meta_description\": \"Read our review of Going Underground, an exciting online slot game. Play for free and experience dynamic gameplay and numerous bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 683,
+                    "completion_tokens": 106,
+                    "total_tokens": 789
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/going-underground.json"
+    "filename": "game_reviews/translations/going-underground.json",
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_593d0d8c-7215-4519-b294-440555d6430a_1.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_593d0d8c-7215-4519-b294-440555d6430a_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_593d0d8c-7215-4519-b294-440555d6430a_4.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_e4a5b08b-678a-43ed-bea3-57203376d864_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_593d0d8c-7215-4519-b294-440555d6430a_3.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_e4a5b08b-678a-43ed-bea3-57203376d864_1.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_e4a5b08b-678a-43ed-bea3-57203376d864_4.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_t_e4a5b08b-678a-43ed-bea3-57203376d864_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Going Underground (Version 6).webp",
+        "game_reviews/processed_images/Going Underground (Version 2).webp",
+        "game_reviews/processed_images/Going Underground (Version 3).webp",
+        "game_reviews/processed_images/Going Underground (Version 1).webp",
+        "game_reviews/processed_images/Going Underground (Version 8).webp",
+        "game_reviews/processed_images/Going Underground (Version 4).webp",
+        "game_reviews/processed_images/Going Underground (Version 5).webp",
+        "game_reviews/processed_images/Going Underground (Version 7).webp"
+    ],
+    "slug": "going-underground",
+    "name": "Going Underground",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Going-Underground-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Going Underground Slot for Free' ### Meta set: 'Read our review of Going Underground, an exciting online slot game. Play for free and experience dynamic gameplay and numerous bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

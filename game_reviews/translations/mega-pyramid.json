@@ -580,38 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay mechanism",
-                    "Stunning graphics and immersive sound effects",
-                    "Different bonus features",
+                    "Fascinating gameplay mechanism",
+                    "Stunning graphics and animation",
+                    "Various bonus features",
                     "High winning potential"
                 ],
                 "cons": [
-                    "Limited number of free spins",
-                    "No progressive jackpot"
+                    "Limited number of paylines",
+                    "Not suitable for players seeking a simple, classic slot experience"
                 ],
-                "meta_title": "Play Mega Pyramid Free Slot Game Review",
-                "meta_description": "Discover all the features of Mega Pyramid free slot game, including bonuses, gameplay, and graphics. Play for free and experience the thrill of ancient Egypt."
+                "meta_title": "Play Mega Pyramid Free - A Fascinating Slot Game",
+                "meta_description": "Immerse yourself in ancient Egypt and play Mega Pyramid free. Stunning graphics, engaging gameplay, and high winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Pyramid\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMega Pyramid by Red Tiger Gaming is a fascinating 5-reel, 30-line slot game that immerses players in the world of ancient Egypt. The game features an engaging gameplay mechanism and offers a wide array of symbols which include multiple Egyptian gods, scarabs, and various totems. The graphics are stunning, with vibrant 3D animation and sound effects that add to the immersive experience.\n\nBonuses\n\nMega Pyramid includes different bonus features that can help players increase their chances of winning. The Cloning function randomly duplicates symbols, allowing players to complete more winning combinations. The game also features a random bonus of the God RA, which can be combined with other similar symbols. Additionally, players can activate sessions of free spins that lead to obtaining ten free spins with the combination of three Pharaoh symbols.\n\nFeatures\n\nThe game features 5 regular reels with 30 lines to align combinations of symbols. The symbols of the game vary in their high or low payment attributed to them. Players can consult the paytable to discover which symbols are available and to understand all the symbols they will encounter in the game. The game features optimal graphics that transport players back in time to ancient Egypt and offers a lively and complete gameplay experience.\n\nWinning Potential\n\nMega Pyramid offers players the chance to increase their bets up to 5,000 times. The game features symbols that pay out differently, with the most valuable icons being the rarest and most difficult to find. However, the game also offers bonuses, free spins, and random bonus features that can help players complete more winning combinations or increase the value of their winnings.\n\nOverall Experience\n\nMega Pyramid is an excellent slot game that offers an engaging and immersive gaming experience to players. The game's graphics are stunning and the animation is carefully crafted to create a lively and magical gameplay atmosphere. With the game's various bonuses and free spin features, players have a great chance of winning big and feeling the thrill of ancient Egyptian history. Overall, this slot game offers a fantastic way to have fun and try your luck.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Pyramid\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMega Pyramid by Red Tiger Gaming is a fascinating 5-reel, 30-line slot game that immerses players in the world of ancient Egypt. The game features an engaging gameplay mechanism and offers a wide array of symbols which include multiple Egyptian gods, scarabs, and various totems. The graphics are stunning, with vibrant 3D animation and sound effects that add to the immersive experience.\n\nBonuses\n\nMega Pyramid includes different bonus features that can help players increase their chances of winning. The Cloning function randomly duplicates symbols, allowing players to complete more winning combinations. The game also features a random bonus of the God RA, which can be combined with other similar symbols. Additionally, players can activate sessions of free spins that lead to obtaining ten free spins with the combination of three Pharaoh symbols.\n\nFeatures\n\nThe game features 5 regular reels with 30 lines to align combinations of symbols. The symbols of the game vary in their high or low payment attributed to them. Players can consult the paytable to discover which symbols are available and to understand all the symbols they will encounter in the game. The game features optimal graphics that transport players back in time to ancient Egypt and offers a lively and complete gameplay experience.\n\nWinning Potential\n\nMega Pyramid offers players the chance to increase their bets up to 5,000 times. The game features symbols that pay out differently, with the most valuable icons being the rarest and most difficult to find. However, the game also offers bonuses, free spins, and random bonus features that can help players complete more winning combinations or increase the value of their winnings.\n\nOverall Experience\n\nMega Pyramid is an excellent slot game that offers an engaging and immersive gaming experience to players. The game's graphics are stunning and the animation is carefully crafted to create a lively and magical gameplay atmosphere. With the game's various bonuses and free spin features, players have a great chance of winning big and feeling the thrill of ancient Egyptian history. Overall, this slot game offers a fantastic way to have fun and try your luck.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7vRiiOQ9Fg6J259GgdrLyZmXIep",
+                "id": "chatcmpl-7WXXYFLs7TfQ7TDwuy09lqmCijZ8Z",
                 "object": "chat.completion",
-                "created": 1687414661,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989780,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging gameplay mechanism\",\n        \"Stunning graphics and immersive sound effects\",\n        \"Different bonus features\",\n        \"High winning potential\"\n    ],\n    \"cons\": [\n        \"Limited number of free spins\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Mega Pyramid Free Slot Game Review\",\n    \"meta_description\": \"Discover all the features of Mega Pyramid free slot game, including bonuses, gameplay, and graphics. Play for free and experience the thrill of ancient Egypt.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fascinating gameplay mechanism\",\n    \"Stunning graphics and animation\",\n    \"Various bonus features\",\n    \"High winning potential\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Not suitable for players seeking a simple, classic slot experience\"\n  ],\n  \"meta_title\": \"Play Mega Pyramid Free - A Fascinating Slot Game\",\n  \"meta_description\": \"Immerse yourself in ancient Egypt and play Mega Pyramid free. Stunning graphics, engaging gameplay, and high winning potential.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 594,
-                    "completion_tokens": 111,
+                    "prompt_tokens": 591,
+                    "completion_tokens": 114,
                     "total_tokens": 705
                 }
             }
@@ -741,5 +741,20 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-pyramid.json",
+    "raw_feature_images": [
+        "arved__novices_who_wish_to_enjoy_a_new_slot_game_experience_4.png",
+        "arved__novices_who_wish_to_enjoy_a_new_slot_game_experience_1.png",
+        "arved__novices_who_wish_to_enjoy_a_new_slot_game_experience_2.png",
+        "arved__novices_who_wish_to_enjoy_a_new_slot_game_experience_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Pyramid (Version 2).webp",
+        "game_reviews/processed_images/Mega Pyramid (Version 3).webp",
+        "game_reviews/processed_images/Mega Pyramid (Version 4).webp",
+        "game_reviews/processed_images/Mega Pyramid (Version 1).webp"
+    ],
+    "slug": "mega-pyramid",
+    "name": "Mega Pyramid"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging theme and stunning graphics",
-                    "Big payouts potential from Hold & Respin feature",
-                    "Exciting treasure hunt adventure",
-                    "Beautiful graphics and engaging gameplay"
+                    "Engaging theme",
+                    "Stunning graphics",
+                    "Hold & Respin feature",
+                    "Chance to win big"
                 ],
                 "cons": [
                     "Lack of free spins",
-                    "Slightly lower RTP than some other slots"
+                    "Slightly lower RTP"
                 ],
-                "meta_title": "Play Stolen Treasures for Free - Exciting Treasure Hunt Adventure",
-                "meta_description": "Experience an exciting treasure hunt adventure and win big with Stolen Treasures. Play now for free and enjoy stunning graphics and engaging gameplay."
+                "meta_title": "Play Stolen Treasures for Free",
+                "meta_description": "Read our review of Stolen Treasures and play this thrilling slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Stolen Treasures\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nStolen Treasures Overview\n\nStolen Treasures is a Red Tiger Gaming slot game that takes players on a treasure hunt adventure. The game has a 6x4 grid with 25 active pay lines and offers the opportunity to win up to 10,428 times your bet by forming winning combinations of at least three matching symbols.\n\nGameplay and Features\n\nStolen Treasures boasts stunning graphics and an engaging theme that adds an extra layer of excitement to the gameplay experience. The gold reels are filled with a variety of precious artifacts and ancient relics, including statues, busts, vases, coins, rings, necklaces, eggs, and golden goblets. The game also features a special wild symbol that can substitute for other paying symbols and trigger the Hold & Respin function. This feature is the only bonus round in the game but can lead to big wins if you land three or more treasure chest symbols to get up to 5 respins.\n\nSymbols and Paytable\n\nThere are both high and low-value symbols in Stolen Treasures. The high-value symbols include statues, busts, vases, and treasure chests. The treasure chest symbols will give you the biggest payout, with a possible win of up to 10,428 times your bet. Lower value symbols like coins, rings, necklaces, eggs, and golden goblets can also pay out up to 12 times your original bet per spin.\n\nPros and Cons\n\nOne of the major pros of Stolen Treasures is its engaging theme and stunning graphics that creates an overall immersive gaming experience. The Hold & Respin feature can potentially lead to big payouts. However, some may find the lack of free spins and slightly lower RTP than some other slots to be a drawback.\n\nVerdict\n\nOverall, Stolen Treasures is an exciting slot game that offers the chance to win big while experiencing a thrilling treasure hunt adventure. With beautiful graphics and engaging gameplay, it is a game that is sure to captivate players. While it may not have all the bonus features some other slots offer, the Hold & Respin function provides the opportunity to win big. As such, we recommend this game to players looking for a fun and immersive gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Stolen Treasures\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nStolen Treasures Overview\n\nStolen Treasures is a Red Tiger Gaming slot game that takes players on a treasure hunt adventure. The game has a 6x4 grid with 25 active pay lines and offers the opportunity to win up to 10,428 times your bet by forming winning combinations of at least three matching symbols.\n\nGameplay and Features\n\nStolen Treasures boasts stunning graphics and an engaging theme that adds an extra layer of excitement to the gameplay experience. The gold reels are filled with a variety of precious artifacts and ancient relics, including statues, busts, vases, coins, rings, necklaces, eggs, and golden goblets. The game also features a special wild symbol that can substitute for other paying symbols and trigger the Hold & Respin function. This feature is the only bonus round in the game but can lead to big wins if you land three or more treasure chest symbols to get up to 5 respins.\n\nSymbols and Paytable\n\nThere are both high and low-value symbols in Stolen Treasures. The high-value symbols include statues, busts, vases, and treasure chests. The treasure chest symbols will give you the biggest payout, with a possible win of up to 10,428 times your bet. Lower value symbols like coins, rings, necklaces, eggs, and golden goblets can also pay out up to 12 times your original bet per spin.\n\nPros and Cons\n\nOne of the major pros of Stolen Treasures is its engaging theme and stunning graphics that creates an overall immersive gaming experience. The Hold & Respin feature can potentially lead to big payouts. However, some may find the lack of free spins and slightly lower RTP than some other slots to be a drawback.\n\nVerdict\n\nOverall, Stolen Treasures is an exciting slot game that offers the chance to win big while experiencing a thrilling treasure hunt adventure. With beautiful graphics and engaging gameplay, it is a game that is sure to captivate players. While it may not have all the bonus features some other slots offer, the Hold & Respin function provides the opportunity to win big. As such, we recommend this game to players looking for a fun and immersive gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QLiH9ROYYfLrO9Mnao9XqdNs9qCA",
+                "id": "chatcmpl-7WcoLfQD4oqxF6jAzeUO3lbF4Mq3f",
                 "object": "chat.completion",
-                "created": 1686514349,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 127,
-                    "total_tokens": 750
-                },
+                "created": 1688010041,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging theme and stunning graphics\",\n        \"Big payouts potential from Hold & Respin feature\",\n        \"Exciting treasure hunt adventure\",\n        \"Beautiful graphics and engaging gameplay\"\n    ],\n    \"cons\": [\n        \"Lack of free spins\",\n        \"Slightly lower RTP than some other slots\"\n    ],\n    \"meta_title\": \"Play Stolen Treasures for Free - Exciting Treasure Hunt Adventure\",\n    \"meta_description\": \"Experience an exciting treasure hunt adventure and win big with Stolen Treasures. Play now for free and enjoy stunning graphics and engaging gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging theme\",\n    \"Stunning graphics\",\n    \"Hold & Respin feature\",\n    \"Chance to win big\"\n  ],\n  \"cons\": [\n    \"Lack of free spins\",\n    \"Slightly lower RTP\"\n  ],\n  \"meta_title\": \"Play Stolen Treasures for Free\",\n  \"meta_description\": \"Read our review of Stolen Treasures and play this thrilling slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 620,
+                    "completion_tokens": 96,
+                    "total_tokens": 716
+                }
             }
         },
         {
@@ -812,6 +812,30 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_4.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_1.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_3.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_1.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_2.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_2.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_4.png",
+        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Stolen Treasures (Version 8).webp",
+        "game_reviews/processed_images/Stolen Treasures (Version 7).webp",
+        "game_reviews/processed_images/Stolen Treasures (Version 5).webp",
+        "game_reviews/processed_images/Stolen Treasures (Version 6).webp"
+    ],
+    "filename": "game_reviews/translations/stolen-treasures.json",
+    "slug": "stolen-treasures",
+    "name": "Stolen Treasures",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Stolen-Treasures-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Stolen Treasures for Free' ### Meta set: 'Read our review of Stolen Treasures and play this thrilling slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

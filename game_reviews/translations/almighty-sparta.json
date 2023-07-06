@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Seamless gameplay and immersive experience",
-                    "High-quality and entertaining slot game",
-                    "Special symbols and free spins add an extra touch",
-                    "Balance of risk and reward is appreciated by experienced gamblers"
+                    "Immersive gameplay and seamless experience",
+                    "High-quality graphics and attention to detail",
+                    "Special symbols and functions add excitement",
+                    "Appreciated balance of risk and reward"
                 ],
                 "cons": [
-                    "Limited special symbols",
+                    "Limited special symbols and functions",
                     "Lack of variety in betting limits"
                 ],
-                "meta_title": "Play Almighty Sparta Free: Game Review and Pros & Cons",
-                "meta_description": "Read our review of Almighty Sparta online slot game. Learn about its pros & cons before you play for free. Discover if the game is worth your time."
+                "meta_title": "Play Almighty Sparta Free | Exciting Slot Game Review",
+                "meta_description": "Read the review of Almighty Sparta, play for free, and enjoy an exciting slot game experience."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Almighty Sparta\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nAlmighty Sparta is a slot game produced by Endorphina and takes players back to the time of the Spartan battles. The graphics of the game present us with a classic window with a view of the sea. The game symbols include recognizable characters such as Leonidas, the Oracle, and the traitor, along with swords, shields, and lances, as well as the inevitable symbols of poker. The visuals are accompanied by tense background music, which adds to the atmosphere of the game.\n\nSpecial Symbols and Functions\n\nThe special symbols in the game are two. The Shield is the game's scatter, and when 2 to 5 scatters are displayed, additional prizes are awarded. Leonidas is the wild symbol, which can cover up to 3 boxes on the same reel. The special functions of the game include 20 free spins, which are obtained by displaying 3 or more scatters in the same spin, with a x4 multiplier. Additionally, the betting game can be activated after each winning simple spin, where the prize can be doubled up to 10 times, by beating the dealer's card, choosing yours among 4 different cards.\n\nRTP and Betting Limits\n\nThe game's RTP percentage is about 96%. The minimum bet is 0.01€, and the maximum bet is 100€ per spin. The game's balance of risk and reward is appreciated by experienced gamblers.\n\nGameplay and Experience\n\nOverall, the gameplay of Almighty Sparta is seamless, immersive, and enjoyable. The game's extra special symbols and free spins add an extra touch to the already fascinating slot game. The visuals and audio of the game make the player feel like they are right there in the middle of the Spartan battles. The atmosphere is tense, and the player can choose to turn the audio on or off from the game's options.\n\nProducer and Reputation\n\nEndorphina, the producer of Almighty Sparta, has a reputation for creating high-quality and entertaining slot games. The attention to detail in Almighty Sparta is noticeable, and the seamless gameplay adds to the overall experience of the game. The game's balance of risk and reward is appreciated by experienced gamblers, making it an enjoyable experience for everyone.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Almighty Sparta\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nAlmighty Sparta is a slot game produced by Endorphina and takes players back to the time of the Spartan battles. The graphics of the game present us with a classic window with a view of the sea. The game symbols include recognizable characters such as Leonidas, the Oracle, and the traitor, along with swords, shields, and lances, as well as the inevitable symbols of poker. The visuals are accompanied by tense background music, which adds to the atmosphere of the game.\n\nSpecial Symbols and Functions\n\nThe special symbols in the game are two. The Shield is the game's scatter, and when 2 to 5 scatters are displayed, additional prizes are awarded. Leonidas is the wild symbol, which can cover up to 3 boxes on the same reel. The special functions of the game include 20 free spins, which are obtained by displaying 3 or more scatters in the same spin, with a x4 multiplier. Additionally, the betting game can be activated after each winning simple spin, where the prize can be doubled up to 10 times, by beating the dealer's card, choosing yours among 4 different cards.\n\nRTP and Betting Limits\n\nThe game's RTP percentage is about 96%. The minimum bet is 0.01€, and the maximum bet is 100€ per spin. The game's balance of risk and reward is appreciated by experienced gamblers.\n\nGameplay and Experience\n\nOverall, the gameplay of Almighty Sparta is seamless, immersive, and enjoyable. The game's extra special symbols and free spins add an extra touch to the already fascinating slot game. The visuals and audio of the game make the player feel like they are right there in the middle of the Spartan battles. The atmosphere is tense, and the player can choose to turn the audio on or off from the game's options.\n\nProducer and Reputation\n\nEndorphina, the producer of Almighty Sparta, has a reputation for creating high-quality and entertaining slot games. The attention to detail in Almighty Sparta is noticeable, and the seamless gameplay adds to the overall experience of the game. The game's balance of risk and reward is appreciated by experienced gamblers, making it an enjoyable experience for everyone.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SVrpmh26qdTvRbnSTEC1ZpKela4s",
+                "id": "chatcmpl-7WN59Ceu4VtBFraslTLHO0VydVfnQ",
                 "object": "chat.completion",
-                "created": 1687030037,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 632,
-                    "completion_tokens": 136,
-                    "total_tokens": 768
-                },
+                "created": 1687949579,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Seamless gameplay and immersive experience\",\n        \"High-quality and entertaining slot game\",\n        \"Special symbols and free spins add an extra touch\",\n        \"Balance of risk and reward is appreciated by experienced gamblers\"\n    ],\n    \"cons\": [\n        \"Limited special symbols\",\n        \"Lack of variety in betting limits\"\n    ],\n    \"meta_title\": \"Play Almighty Sparta Free: Game Review and Pros & Cons\",\n    \"meta_description\": \"Read our review of Almighty Sparta online slot game. Learn about its pros & cons before you play for free. Discover if the game is worth your time.\" \n}"
+                            "content": "{\n\"pros\": [\n  \"Immersive gameplay and seamless experience\",\n  \"High-quality graphics and attention to detail\",\n  \"Special symbols and functions add excitement\",\n  \"Appreciated balance of risk and reward\"\n],\n\"cons\": [\n  \"Limited special symbols and functions\",\n  \"Lack of variety in betting limits\"\n],\n\"meta_title\": \"Play Almighty Sparta Free | Exciting Slot Game Review\",\n\"meta_description\": \"Read the review of Almighty Sparta, play for free, and enjoy an exciting slot game experience.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 629,
+                    "completion_tokens": 113,
+                    "total_tokens": 742
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "filename": "game_reviews/translations/almighty-sparta.json",
     "raw_feature_images": [
         "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_2.png",
-        "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_4.png",
+        "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_1.png",
         "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_3.png",
-        "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_1.png"
+        "arved__Prompt_for_DALLE_Create_a_vibrant_feature_image_for_Almi_31ff892a-1581-4575-bad3-74555bd4bce9_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Almighty Sparta (Version 1).webp",
-        "game_reviews/processed_images/Almighty Sparta (Version 4).webp",
+        "game_reviews/processed_images/Almighty Sparta (Version 2).webp",
         "game_reviews/processed_images/Almighty Sparta (Version 3).webp",
-        "game_reviews/processed_images/Almighty Sparta (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Almighty Sparta (Version 4).webp"
+    ],
+    "slug": "almighty-sparta",
+    "name": "Almighty Sparta",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Almighty-Sparta-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Almighty Sparta Free | Exciting Slot Game Review' ### Meta set: 'Read the review of Almighty Sparta, play for free, and enjoy an exciting slot game experience.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

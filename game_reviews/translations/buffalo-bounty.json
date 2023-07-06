@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful graphics of the North American wilderness",
-                    "Free spins feature triggered by Scatter symbol",
-                    "Multiple power-up spin options",
-                    "High-paying buffalo symbol worth up to 15x total bet"
+                    "Beautiful graphics depicting scenic landscapes",
+                    "Exciting free spins feature with increasing number of spins",
+                    "Power-up spin options for enhanced gameplay",
+                    "Immersive experience for experienced gamblers"
                 ],
                 "cons": [
-                    "Only 10 paylines",
+                    "Limited number of paylines (10)",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Buffalo Bounty Free: Game Review & Features",
-                "meta_description": "Experience the beautiful wilderness of North America in Buffalo Bounty, an online slot game featuring free spins and multiple power-up spin options."
+                "meta_title": "Play Buffalo Bounty Free - Exciting Online Slot Game",
+                "meta_description": "Experience the Wild West and play Buffalo Bounty slot game for free. Enjoy stunning graphics and thrilling features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Buffalo Bounty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBuffalo Bounty online slot game\n\nBuffalo Bounty is an online slot game by DragonGaming that takes players to the rustic landscapes of North America. The game features 5 reels, 10 paylines, and a payout rate of 96.03%.\n\nGame features and graphics\n\nThe game's graphics depict a beautiful valley with mountains in the background, where the game's symbols are located. In addition to low-value cards, players also encounter high-paying symbols, such as animals like deer, foxes, pumas, and eagles, as well as the buffalo symbol, which can pay up to 15x the total bet.\n\nScatter symbol and free spins feature\n\nThe game's Scatter symbol is represented by a buffalo skull, which triggers the game's most exciting feature: free spins. By landing at least three Scatter symbols, players can activate the free spins feature, starting with 10 free spins. If additional Scatters appear, the number of free spins can be increased, up to another 3 free spins.\n\nPower-up spin options\n\nPlayers can also choose how they want to power up their spins with various options, like adding a wild symbol in the form of a buffalo, eagle, or puma, which can even expand to trigger a bonus round. Alternatively, players can choose to activate additional free spins, complete with win multipliers of up to 4x.\n\nPlayer experience and recommendation\n\nIn conclusion, Buffalo Bounty is a must-try for experienced gamblers looking for a truly immersive experience. With its impressive structure and gorgeous graphics, this game successfully transports players to the wilds of America.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Buffalo Bounty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBuffalo Bounty online slot game\n\nBuffalo Bounty is an online slot game by DragonGaming that takes players to the rustic landscapes of North America. The game features 5 reels, 10 paylines, and a payout rate of 96.03%.\n\nGame features and graphics\n\nThe game's graphics depict a beautiful valley with mountains in the background, where the game's symbols are located. In addition to low-value cards, players also encounter high-paying symbols, such as animals like deer, foxes, pumas, and eagles, as well as the buffalo symbol, which can pay up to 15x the total bet.\n\nScatter symbol and free spins feature\n\nThe game's Scatter symbol is represented by a buffalo skull, which triggers the game's most exciting feature: free spins. By landing at least three Scatter symbols, players can activate the free spins feature, starting with 10 free spins. If additional Scatters appear, the number of free spins can be increased, up to another 3 free spins.\n\nPower-up spin options\n\nPlayers can also choose how they want to power up their spins with various options, like adding a wild symbol in the form of a buffalo, eagle, or puma, which can even expand to trigger a bonus round. Alternatively, players can choose to activate additional free spins, complete with win multipliers of up to 4x.\n\nPlayer experience and recommendation\n\nIn conclusion, Buffalo Bounty is a must-try for experienced gamblers looking for a truly immersive experience. With its impressive structure and gorgeous graphics, this game successfully transports players to the wilds of America.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Snn242o01mq2M9oZec7SXPIlRatN",
+                "id": "chatcmpl-7WPTaiHQ5KWmO0HIOXngSZt4tiNM7",
                 "object": "chat.completion",
-                "created": 1687098932,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 503,
-                    "completion_tokens": 123,
-                    "total_tokens": 626
-                },
+                "created": 1687958782,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Beautiful graphics of the North American wilderness\",\n    \"Free spins feature triggered by Scatter symbol\",\n    \"Multiple power-up spin options\",\n    \"High-paying buffalo symbol worth up to 15x total bet\"\n  ],\n  \"cons\": [\n    \"Only 10 paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Buffalo Bounty Free: Game Review & Features\",\n  \"meta_description\": \"Experience the beautiful wilderness of North America in Buffalo Bounty, an online slot game featuring free spins and multiple power-up spin options.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful graphics depicting scenic landscapes\",\n    \"Exciting free spins feature with increasing number of spins\",\n    \"Power-up spin options for enhanced gameplay\",\n    \"Immersive experience for experienced gamblers\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (10)\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Buffalo Bounty Free - Exciting Online Slot Game\",\n  \"meta_description\": \"Experience the Wild West and play Buffalo Bounty slot game for free. Enjoy stunning graphics and thrilling features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 500,
+                    "completion_tokens": 119,
+                    "total_tokens": 619
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "raw_feature_images": [
         "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_3.png",
         "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_2.png"
+        "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Buffalo_Bounty_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Buffalo Bounty (Version 3).webp",
+        "game_reviews/processed_images/Buffalo Bounty (Version 2).webp",
         "game_reviews/processed_images/Buffalo Bounty (Version 4).webp",
-        "game_reviews/processed_images/Buffalo Bounty (Version 1).webp",
-        "game_reviews/processed_images/Buffalo Bounty (Version 2).webp"
+        "game_reviews/processed_images/Buffalo Bounty (Version 3).webp",
+        "game_reviews/processed_images/Buffalo Bounty (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/buffalo-bounty.json"
+    "filename": "game_reviews/translations/buffalo-bounty.json",
+    "slug": "buffalo-bounty",
+    "name": "Buffalo Bounty",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Buffalo-Bounty-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Buffalo Bounty Free - Exciting Online Slot Game' ### Meta set: 'Experience the Wild West and play Buffalo Bounty slot game for free. Enjoy stunning graphics and thrilling features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

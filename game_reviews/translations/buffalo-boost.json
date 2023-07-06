@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Collect Feature with chance to trigger Free Spins mode",
-                    "Buy Feature allows players to activate the bonus mode with a small fee",
-                    "Wild feature with buffalo symbol as most lucrative and aids in replacing other symbols",
-                    "Beautiful Grand Canyon scenery and calming soundtrack"
+                    "Beautiful Grand Canyon scenery",
+                    "Calming soundtrack",
+                    "High-quality gameplay",
+                    "Original bonus features"
                 ],
                 "cons": [
-                    "Poker card symbols have minimal significance",
-                    "Free Spins mode may take a while to trigger"
+                    "Limited significance of poker card symbols",
+                    "Small fee required to activate bonus mode"
                 ],
-                "meta_title": "Play Buffalo Boost for Free - Slot Game Review",
-                "meta_description": "Read our review of Buffalo Boost slot game and play for free. Learn about Collect and Buy Feature, pay lines, symbols, and gameplay experience."
+                "meta_title": "Play Buffalo Boost Free - Slot Game Review",
+                "meta_description": "Read our review of Buffalo Boost, a slot game set in the Grand Canyon. Play for free and enjoy original bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Buffalo Boost\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBuffalo Boost slot game\n\nBuffalo Boost is a slot game developed by Spinmatic, set in the Grand Canyon, featuring native animals in their natural habitat. The game grid consists of 5 reels and 25 pay lines.\n\nGame features\n\nBuffalo Boost offers two special features. The first is the Collect Feature, which is triggered by obtaining as many occurrences as possible of the game's protagonist symbol: the buffalo. If you manage to get 50 appearances of this icon, the Free Spins mode is triggered. The second feature is the Buy Feature, where you can instantly activate the bonus mode by paying a small fee.\n\nGame symbols and pay lines\n\nThe game symbols follow the theme, with the most rewarding icon being that of the buffalo, followed by the explorers, foxes, snakes, and mountain goats, in decreasing order of importance. Finally, there are also poker cards, J, Q, K, A, but their significance is meager. The game grid is composed of 5 reels and 25 pay lines.\n\nCollect Feature and Buy Feature\n\nThe Collect Feature is triggered by obtaining as many occurrences as possible of the game's protagonist symbol: the buffalo. If you manage to get 50 appearances of this icon, the Free Spins mode is triggered. This mode also activates the Wild feature, where the buffalo becomes both the most lucrative symbol and a wild symbol, meaning it can replace any other symbol in the slot game to help you win. The Buy Feature allows players to instantly activate the bonus mode by paying a small fee determined by the game.\n\nGameplay experience\n\nBuffalo Boost offers a unique and calming gaming experience with its beautiful Grand Canyon scenery and calming soundtrack. The game's high-quality gameplay, high return player rates, and original bonus features provide both experienced and novice players with an entertaining and rewarding gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Buffalo Boost\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBuffalo Boost slot game\n\nBuffalo Boost is a slot game developed by Spinmatic, set in the Grand Canyon, featuring native animals in their natural habitat. The game grid consists of 5 reels and 25 pay lines.\n\nGame features\n\nBuffalo Boost offers two special features. The first is the Collect Feature, which is triggered by obtaining as many occurrences as possible of the game's protagonist symbol: the buffalo. If you manage to get 50 appearances of this icon, the Free Spins mode is triggered. The second feature is the Buy Feature, where you can instantly activate the bonus mode by paying a small fee.\n\nGame symbols and pay lines\n\nThe game symbols follow the theme, with the most rewarding icon being that of the buffalo, followed by the explorers, foxes, snakes, and mountain goats, in decreasing order of importance. Finally, there are also poker cards, J, Q, K, A, but their significance is meager. The game grid is composed of 5 reels and 25 pay lines.\n\nCollect Feature and Buy Feature\n\nThe Collect Feature is triggered by obtaining as many occurrences as possible of the game's protagonist symbol: the buffalo. If you manage to get 50 appearances of this icon, the Free Spins mode is triggered. This mode also activates the Wild feature, where the buffalo becomes both the most lucrative symbol and a wild symbol, meaning it can replace any other symbol in the slot game to help you win. The Buy Feature allows players to instantly activate the bonus mode by paying a small fee determined by the game.\n\nGameplay experience\n\nBuffalo Boost offers a unique and calming gaming experience with its beautiful Grand Canyon scenery and calming soundtrack. The game's high-quality gameplay, high return player rates, and original bonus features provide both experienced and novice players with an entertaining and rewarding gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SnhElhBmacYlJmXP8B13gVqAoXfp",
+                "id": "chatcmpl-7WPSyPn4HwxoQBuATSvPfu9LOdbZy",
                 "object": "chat.completion",
-                "created": 1687098572,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 549,
-                    "completion_tokens": 148,
-                    "total_tokens": 697
-                },
+                "created": 1687958744,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Collect Feature with chance to trigger Free Spins mode\",\n        \"Buy Feature allows players to activate the bonus mode with a small fee\",\n        \"Wild feature with buffalo symbol as most lucrative and aids in replacing other symbols\",\n        \"Beautiful Grand Canyon scenery and calming soundtrack\"\n    ],\n    \"cons\": [\n        \"Poker card symbols have minimal significance\",\n        \"Free Spins mode may take a while to trigger\"\n    ],\n    \"meta_title\": \"Play Buffalo Boost for Free - Slot Game Review\",\n    \"meta_description\": \"Read our review of Buffalo Boost slot game and play for free. Learn about Collect and Buy Feature, pay lines, symbols, and gameplay experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful Grand Canyon scenery\",\n    \"Calming soundtrack\",\n    \"High-quality gameplay\",\n    \"Original bonus features\"\n  ],\n  \"cons\": [\n    \"Limited significance of poker card symbols\",\n    \"Small fee required to activate bonus mode\"\n  ],\n  \"meta_title\": \"Play Buffalo Boost Free - Slot Game Review\",\n  \"meta_description\": \"Read our review of Buffalo Boost, a slot game set in the Grand Canyon. Play for free and enjoy original bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 546,
+                    "completion_tokens": 107,
+                    "total_tokens": 653
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_fun_and_eye-catching_feature_image_for_B_3fad5b9e-d0fe-47b0-94b0-30a3de50c1b8_3.png",
         "arved__Prompt_Create_a_fun_and_eye-catching_feature_image_for_B_3fad5b9e-d0fe-47b0-94b0-30a3de50c1b8_2.png",
+        "arved__Prompt_Create_a_fun_and_eye-catching_feature_image_for_B_3fad5b9e-d0fe-47b0-94b0-30a3de50c1b8_3.png",
         "arved__Prompt_Create_a_fun_and_eye-catching_feature_image_for_B_3fad5b9e-d0fe-47b0-94b0-30a3de50c1b8_1.png",
         "arved__Prompt_Create_a_fun_and_eye-catching_feature_image_for_B_3fad5b9e-d0fe-47b0-94b0-30a3de50c1b8_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Buffalo Boost (Version 2).webp",
-        "game_reviews/processed_images/Buffalo Boost (Version 4).webp",
         "game_reviews/processed_images/Buffalo Boost (Version 3).webp",
-        "game_reviews/processed_images/Buffalo Boost (Version 1).webp"
+        "game_reviews/processed_images/Buffalo Boost (Version 2).webp",
+        "game_reviews/processed_images/Buffalo Boost (Version 1).webp",
+        "game_reviews/processed_images/Buffalo Boost (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/buffalo-boost.json"
+    "filename": "game_reviews/translations/buffalo-boost.json",
+    "slug": "buffalo-boost",
+    "name": "Buffalo Boost",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Buffalo-Boost-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Buffalo Boost Free - Slot Game Review' ### Meta set: 'Read our review of Buffalo Boost, a slot game set in the Grand Canyon. Play for free and enjoy original bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

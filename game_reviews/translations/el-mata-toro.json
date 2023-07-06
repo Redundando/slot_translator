@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding Wild for more chances to win",
-                    "Two bonus features for even bigger payouts",
-                    "Mystery Multiplier to increase winnings by up to 3x",
-                    "Well-designed symbols and graphics"
+                    "Exciting bullfighting theme",
+                    "Wilds and bonuses for enhanced gameplay",
+                    "Well-designed symbols and graphics",
+                    "Highly rewarding functions"
                 ],
                 "cons": [
-                    "Slightly lower than average RTP of 95.2%",
-                    "Graphics not very immersive"
+                    "Slightly lower RTP than industry standard",
+                    "Graphics could be more immersive"
                 ],
-                "meta_title": "Play El Mata Toro Free: Bullfighting Themed Slot Game",
-                "meta_description": "Read our review on El Mata Toro, a bullfighting themed online slot game from CapeCod. Play for free and learn about its features and bonuses."
+                "meta_title": "Play El Mata Toro Free: Review of Exciting Bullfighting Slot Game",
+                "meta_description": "Discover the bullfighting-themed slot game El Mata Toro and play for free. Check out our review!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"El Mata Toro\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEl Mata Toro Overview\n\nEl Mata Toro is an online slot game produced by CapeCod with a 5x3 grid and 25 paylines. It features a bullfighting theme, including symbols like a bullfighter and a Spanish woman.\n\nGameplay Features including Wilds and Bonuses\n\nEl Mata Toro has both a normal Wild and an Expanding Wild which expands to cover the entire reel. It also has a mini-game bonus with five free spins and a Toro Bonus with five MagicSpins. Lastly, there's a Mystery Multiplier that can multiply winnings by 2x or 3x.\n\nDesign and Graphics\n\nEl Mata Toro has simple graphics but well-designed symbols, particularly the bullfighter and Spanish woman. The background is a shade of romantic red with red roses on the corner. The graphics aren't very immersive but make up for it with highly rewarding functions.\n\nReturn to Player (RTP)\n\nEl Mata Toro has a 95.2% RTP which is slightly lower than the industry standard of 95.5%. However, the game compensates with its amazing bonuses and rewards.\n\nRecommendations for Similar Games\n\nFor those interested in bullfighting themes, Wild Toro by Elk is highly recommended. It has modern graphics and a maximum number of paylines of 178! Another option is Spanish Eyes by NextGen with 25 paylines and a romantic Spanish theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"El Mata Toro\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEl Mata Toro Overview\n\nEl Mata Toro is an online slot game produced by CapeCod with a 5x3 grid and 25 paylines. It features a bullfighting theme, including symbols like a bullfighter and a Spanish woman.\n\nGameplay Features including Wilds and Bonuses\n\nEl Mata Toro has both a normal Wild and an Expanding Wild which expands to cover the entire reel. It also has a mini-game bonus with five free spins and a Toro Bonus with five MagicSpins. Lastly, there's a Mystery Multiplier that can multiply winnings by 2x or 3x.\n\nDesign and Graphics\n\nEl Mata Toro has simple graphics but well-designed symbols, particularly the bullfighter and Spanish woman. The background is a shade of romantic red with red roses on the corner. The graphics aren't very immersive but make up for it with highly rewarding functions.\n\nReturn to Player (RTP)\n\nEl Mata Toro has a 95.2% RTP which is slightly lower than the industry standard of 95.5%. However, the game compensates with its amazing bonuses and rewards.\n\nRecommendations for Similar Games\n\nFor those interested in bullfighting themes, Wild Toro by Elk is highly recommended. It has modern graphics and a maximum number of paylines of 178! Another option is Spanish Eyes by NextGen with 25 paylines and a romantic Spanish theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TBoawkECBVaDnVw0dwhmRDNVIq6A",
+                "id": "chatcmpl-7WS8ikVKtp9hcnLeZEFHxJpWV2u4z",
                 "object": "chat.completion",
-                "created": 1687191284,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 457,
-                    "completion_tokens": 141,
-                    "total_tokens": 598
-                },
+                "created": 1687969020,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding Wild for more chances to win\",\n        \"Two bonus features for even bigger payouts\",\n        \"Mystery Multiplier to increase winnings by up to 3x\",\n        \"Well-designed symbols and graphics\"\n    ],\n    \"cons\": [\n        \"Slightly lower than average RTP of 95.2%\",\n        \"Graphics not very immersive\"\n    ],\n    \"meta_title\": \"Play El Mata Toro Free: Bullfighting Themed Slot Game\",\n    \"meta_description\": \"Read our review on El Mata Toro, a bullfighting themed online slot game from CapeCod. Play for free and learn about its features and bonuses.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting bullfighting theme\",\n    \"Wilds and bonuses for enhanced gameplay\",\n    \"Well-designed symbols and graphics\",\n    \"Highly rewarding functions\"\n  ],\n  \"cons\": [\n    \"Slightly lower RTP than industry standard\",\n    \"Graphics could be more immersive\"\n  ],\n  \"meta_title\": \"Play El Mata Toro Free: Review of Exciting Bullfighting Slot Game\",\n  \"meta_description\": \"Discover the bullfighting-themed slot game El Mata Toro and play for free. Check out our review!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 454,
+                    "completion_tokens": 119,
+                    "total_tokens": 573
+                }
             }
         },
         {
@@ -811,5 +811,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/el-mata-toro.json"
+    "filename": "game_reviews/translations/el-mata-toro.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_9a16fc2c-b18a-4f0f-9280-a94bc129cacf_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_9a16fc2c-b18a-4f0f-9280-a94bc129cacf_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_9a16fc2c-b18a-4f0f-9280-a94bc129cacf_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_9a16fc2c-b18a-4f0f-9280-a94bc129cacf_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "el-mata-toro",
+    "name": "El Mata Toro",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/el-mata-toro_logo-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play El Mata Toro Free: Review of Exciting Bullfighting Slot Game' ### Meta set: 'Discover the bullfighting-themed slot game El Mata Toro and play for free. Check out our review!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

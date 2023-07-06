@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High-tech racing visuals",
-                    "Above-average RTP",
-                    "Multiple bonus features",
-                    "Challenging gameplay"
+                    "High-tech visuals and immersive racing theme",
+                    "Above-average RTP for increased profitability",
+                    "Multiple bonus features for higher winnings",
+                    "Challenging gameplay with exciting tension"
                 ],
                 "cons": [
-                    "Disruptive music",
-                    "Potentially confusing color palette"
+                    "Potentially confusing color palette",
+                    "Constant music may be disruptive"
                 ],
-                "meta_title": "Play Drift King Free: A Unique Game with High-speed Thrill",
-                "meta_description": "Read our review of Drift King, a unique racing game with multiple bonuses, and play for free. Enjoy challenging gameplay and immerse in high-speed visuals."
+                "meta_title": "Play Drift King Free: Exciting Racing Slot Game",
+                "meta_description": "Read our review of Drift King, a thrilling racing-themed slot game. Play for free and enjoy challenging gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Drift King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design and graphics\n\nDrift King's design is focused on a racing theme, with high-tech visuals and a colour palette that immerses players in the world of high-speed motorsports. The symbols on the grid are unique to the racing world, and the game's interface looks like gauges. However, the color palette may confuse some players, and the music that plays continually throughout the game could be disruptive.\n\nRTP and profitability\n\nDrift King's 96.33% RTP is above average for Capecod-developed slot games, meaning players have the potential to win significant profits. The high-value symbols are connected to racing, with a yellow car being the highest in value, while the letter W is the wildcard that replaces all regular symbols. The freespin bonus, represented by a yellow car driving upwards is a scatter and can give players up to twenty free spins. Another bonus feature, Bonus Drift, can be activated by winning consecutive spins without losing, creating a challenging yet rewarding experience.\n\nBonus features\n\nDrift King has several bonus features to help players increase their winnings. The Freespin Bonus is triggered by hitting three or more scatter symbols. Once triggered, players will be rewarded with five, ten, or twenty free spins. As for the Bonus Drift, players will activate this bonus by not losing for a series of consecutive spins and filling up the loading bar. Once triggered, players will have the chance to increase their winnings significantly.\n\nChallenging gameplay\n\nDrift King's gameplay is a unique experience that races enthusiasts will enjoy. Consecutive spins without a loss create an exciting tension to trigger the Bonus Drift and gain an enormous boost. Although the game's constant music and the confusing color palette could be problematic for some players, players can look forward to an overall challenging and thrilling gaming experience.\n\nTarget audience\n\nDrift King's racing theme and mechanics make it a suitable game for racing enthusiasts looking to combine their love of slots with their love of high-speed racing. The game's challenges and rewards make it an exciting experience for experienced gamblers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Drift King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design and graphics\n\nDrift King's design is focused on a racing theme, with high-tech visuals and a colour palette that immerses players in the world of high-speed motorsports. The symbols on the grid are unique to the racing world, and the game's interface looks like gauges. However, the color palette may confuse some players, and the music that plays continually throughout the game could be disruptive.\n\nRTP and profitability\n\nDrift King's 96.33% RTP is above average for Capecod-developed slot games, meaning players have the potential to win significant profits. The high-value symbols are connected to racing, with a yellow car being the highest in value, while the letter W is the wildcard that replaces all regular symbols. The freespin bonus, represented by a yellow car driving upwards is a scatter and can give players up to twenty free spins. Another bonus feature, Bonus Drift, can be activated by winning consecutive spins without losing, creating a challenging yet rewarding experience.\n\nBonus features\n\nDrift King has several bonus features to help players increase their winnings. The Freespin Bonus is triggered by hitting three or more scatter symbols. Once triggered, players will be rewarded with five, ten, or twenty free spins. As for the Bonus Drift, players will activate this bonus by not losing for a series of consecutive spins and filling up the loading bar. Once triggered, players will have the chance to increase their winnings significantly.\n\nChallenging gameplay\n\nDrift King's gameplay is a unique experience that races enthusiasts will enjoy. Consecutive spins without a loss create an exciting tension to trigger the Bonus Drift and gain an enormous boost. Although the game's constant music and the confusing color palette could be problematic for some players, players can look forward to an overall challenging and thrilling gaming experience.\n\nTarget audience\n\nDrift King's racing theme and mechanics make it a suitable game for racing enthusiasts looking to combine their love of slots with their love of high-speed racing. The game's challenges and rewards make it an exciting experience for experienced gamblers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T9TNEPNxT2JU815vp41CdaxVSrRE",
+                "id": "chatcmpl-7WRrzjhkxQUbuApAVjfJGd6StjiNI",
                 "object": "chat.completion",
-                "created": 1687182281,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 596,
-                    "completion_tokens": 117,
-                    "total_tokens": 713
-                },
+                "created": 1687967983,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"High-tech racing visuals\",\n    \"Above-average RTP\",\n    \"Multiple bonus features\",\n    \"Challenging gameplay\"\n  ],\n  \"cons\": [\n    \"Disruptive music\",\n    \"Potentially confusing color palette\"\n  ],\n  \"meta_title\": \"Play Drift King Free: A Unique Game with High-speed Thrill\",\n  \"meta_description\": \"Read our review of Drift King, a unique racing game with multiple bonuses, and play for free. Enjoy challenging gameplay and immerse in high-speed visuals.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"High-tech visuals and immersive racing theme\",\n    \"Above-average RTP for increased profitability\",\n    \"Multiple bonus features for higher winnings\",\n    \"Challenging gameplay with exciting tension\"\n  ],\n  \"cons\": [\n    \"Potentially confusing color palette\",\n    \"Constant music may be disruptive\"\n  ],\n  \"meta_title\": \"Play Drift King Free: Exciting Racing Slot Game\",\n  \"meta_description\": \"Read our review of Drift King, a thrilling racing-themed slot game. Play for free and enjoy challenging gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 593,
+                    "completion_tokens": 118,
+                    "total_tokens": 711
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/drift-king.json"
+    "filename": "game_reviews/translations/drift-king.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Drift_King_that_showcases_a_h_de0cf4ec-85e0-4c97-b3bf-9fd47ce94ce5_2.png",
+        "arved__Create_a_feature_image_for_Drift_King_that_showcases_a_h_de0cf4ec-85e0-4c97-b3bf-9fd47ce94ce5_1.png",
+        "arved__Create_a_feature_image_for_Drift_King_that_showcases_a_h_de0cf4ec-85e0-4c97-b3bf-9fd47ce94ce5_4.png",
+        "arved__Create_a_feature_image_for_Drift_King_that_showcases_a_h_de0cf4ec-85e0-4c97-b3bf-9fd47ce94ce5_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "drift-king",
+    "name": "Drift King",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/drift-king_gratis-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Drift King Free: Exciting Racing Slot Game' ### Meta set: 'Read our review of Drift King, a thrilling racing-themed slot game. Play for free and enjoy challenging gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

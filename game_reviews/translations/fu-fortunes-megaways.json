@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Megaways mechanism allows up to 46,656 ways to win",
-                    "Bonus functions increase chances of winning",
-                    "Four jackpots offer larger payouts",
-                    "Free spins offer multipliers up to 20x"
+                    "Megaways mechanism with up to 46,656 ways to win",
+                    "Medium to high volatility for exciting gameplay",
+                    "Includes wild symbol, jackpots, and free spins",
+                    "High payout potential of up to 9710 times your bet"
                 ],
                 "cons": [
-                    "Medium to high volatility may deter some players",
-                    "Maximum bet limit of 20 euros may not appeal to high rollers"
+                    "Limited bet range with minimum bet of 20 cents",
+                    "Payout percentage slightly below average for online slots"
                 ],
-                "meta_title": "Play Fu Fortunes Megaways for Free | Game Review",
-                "meta_description": "Read our review of Fu Fortunes Megaways, an online slot with 6 reels and up to 46,656 ways to win. Play for free and discover bonus functions and jackpots."
+                "meta_title": "Play Fu Fortunes Megaways Free - Exciting Asian Themed Slot",
+                "meta_description": "Discover Fu Fortunes Megaways, a thrilling Asian themed slot game with free spins and big winnings. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fu Fortunes Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFeatures of Fu Fortunes Megaways\n\nFu Fortunes Megaways is an Asian themed video slot game featuring 6 reels and a variable number of symbols. The game uses the Megaways mechanism, meaning that there are up to 36 symbols on the game field, allowing you to form combinations in no less than 46,656 different ways. The game also includes a wild symbol, jackpots, and free spins.\n\nGameplay and Mechanics\n\nWhen you win a game, the symbols involved disappear and make room for new ones to give you a second chance to win. This slot machine has medium to high volatility, meaning that you may need a little time to form combos, but you can win up to 9710 times your bet. There are five plates above the reel sets that reveal the win multipliers in the pick-me bonus.\n\nBet Range and Payout Percentages\n\nFu Fortunes Megaways slot offers a payout percentage of 96.03%, which is nearly equal to the average for online slots. You can place a minimum bet of 20 cents per spin, and the maximum you can bet on a round is 20 euros. The payout variance of this slot is medium to high.\n\nBonus Functions and Jackpots\n\nFu Fortunes Megaways includes several bonus functions to boost your chances of winning. The plates above the game field contain multipliers and one of the four jackpots (mini, minor, major, and grand). You can win one of these jackpots by choosing three identical coins in the Bonus function. By spinning four or more scatters on the game field, you gain access to the free spins round. During free spins, you play on a different game field that only has space for the most valuable symbols, and you can win up to 20x your winnings with active multipliers.\n\nDemo Play Availability\n\nFu Fortunes Megaways is available in online casinos that offer demo slots to players. If you're not ready to wager real money, you can always try this game as a free demo, courtesy of iSoftBet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fu Fortunes Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFeatures of Fu Fortunes Megaways\n\nFu Fortunes Megaways is an Asian themed video slot game featuring 6 reels and a variable number of symbols. The game uses the Megaways mechanism, meaning that there are up to 36 symbols on the game field, allowing you to form combinations in no less than 46,656 different ways. The game also includes a wild symbol, jackpots, and free spins.\n\nGameplay and Mechanics\n\nWhen you win a game, the symbols involved disappear and make room for new ones to give you a second chance to win. This slot machine has medium to high volatility, meaning that you may need a little time to form combos, but you can win up to 9710 times your bet. There are five plates above the reel sets that reveal the win multipliers in the pick-me bonus.\n\nBet Range and Payout Percentages\n\nFu Fortunes Megaways slot offers a payout percentage of 96.03%, which is nearly equal to the average for online slots. You can place a minimum bet of 20 cents per spin, and the maximum you can bet on a round is 20 euros. The payout variance of this slot is medium to high.\n\nBonus Functions and Jackpots\n\nFu Fortunes Megaways includes several bonus functions to boost your chances of winning. The plates above the game field contain multipliers and one of the four jackpots (mini, minor, major, and grand). You can win one of these jackpots by choosing three identical coins in the Bonus function. By spinning four or more scatters on the game field, you gain access to the free spins round. During free spins, you play on a different game field that only has space for the most valuable symbols, and you can win up to 20x your winnings with active multipliers.\n\nDemo Play Availability\n\nFu Fortunes Megaways is available in online casinos that offer demo slots to players. If you're not ready to wager real money, you can always try this game as a free demo, courtesy of iSoftBet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TMHETv8yS2NmMIfUEBHiolvCiAj1",
+                "id": "chatcmpl-7WTWfYXGhu8QY4q6e8rgeXgWeMQyY",
                 "object": "chat.completion",
-                "created": 1687231500,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 598,
-                    "completion_tokens": 157,
-                    "total_tokens": 755
-                },
+                "created": 1687974349,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Megaways mechanism allows up to 46,656 ways to win\",\n        \"Bonus functions increase chances of winning\",\n        \"Four jackpots offer larger payouts\",\n        \"Free spins offer multipliers up to 20x\"\n    ],\n    \"cons\": [\n        \"Medium to high volatility may deter some players\",\n        \"Maximum bet limit of 20 euros may not appeal to high rollers\"\n    ],\n    \"meta_title\": \"Play Fu Fortunes Megaways for Free | Game Review\",\n    \"meta_description\": \"Read our review of Fu Fortunes Megaways, an online slot with 6 reels and up to 46,656 ways to win. Play for free and discover bonus functions and jackpots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Megaways mechanism with up to 46,656 ways to win\",\n    \"Medium to high volatility for exciting gameplay\",\n    \"Includes wild symbol, jackpots, and free spins\",\n    \"High payout potential of up to 9710 times your bet\"\n  ],\n  \"cons\": [\n    \"Limited bet range with minimum bet of 20 cents\",\n    \"Payout percentage slightly below average for online slots\"\n  ],\n  \"meta_title\": \"Play Fu Fortunes Megaways Free - Exciting Asian Themed Slot\",\n  \"meta_description\": \"Discover Fu Fortunes Megaways, a thrilling Asian themed slot game with free spins and big winnings. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 595,
+                    "completion_tokens": 148,
+                    "total_tokens": 743
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fu-fortunes-megaways.json"
+    "filename": "game_reviews/translations/fu-fortunes-megaways.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_4df4f10a-1fe3-4be1-bc67-1d3905e7ec89_1.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_156b5c86-5a47-414f-820a-ba4a65dc42d1_1.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_4df4f10a-1fe3-4be1-bc67-1d3905e7ec89_2.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_156b5c86-5a47-414f-820a-ba4a65dc42d1_2.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_4df4f10a-1fe3-4be1-bc67-1d3905e7ec89_3.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_156b5c86-5a47-414f-820a-ba4a65dc42d1_3.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_156b5c86-5a47-414f-820a-ba4a65dc42d1_4.png",
+        "arved__Create_a_feature_image_for_Fu_Fortunes_Megaways_to_add_v_4df4f10a-1fe3-4be1-bc67-1d3905e7ec89_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 3).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 8).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 6).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 7).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 2).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 1).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 5).webp",
+        "game_reviews/processed_images/Fu Fortunes Megaways (Version 4).webp"
+    ],
+    "slug": "fu-fortunes-megaways",
+    "name": "Fu Fortunes Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fu-Fortunes-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fu Fortunes Megaways Free - Exciting Asian Themed Slot' ### Meta set: 'Discover Fu Fortunes Megaways, a thrilling Asian themed slot game with free spins and big winnings. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

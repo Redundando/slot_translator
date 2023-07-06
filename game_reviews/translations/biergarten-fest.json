@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Smooth gameplay mechanics",
-                    "Exciting array of bonus features",
-                    "Fantastic graphics and impressive design",
-                    "Lively beer festival theme"
+                    "Smooth and enjoyable gameplay on both desktop and mobile devices",
+                    "Exciting array of bonus features, including free spins and mini-game",
+                    "Fantastic graphics and impressive design immerses players into the beer festival theme",
+                    "Opportunity for significant payouts with free spins and mini-game"
                 ],
                 "cons": [
-                    "Slightly lower than average RTP",
+                    "Slightly lower RTP compared to average slot games",
                     "Disappointing soundtrack"
                 ],
-                "meta_title": "Play Biergarten Fest for free: A fun slot game with exciting bonus features",
-                "meta_description": "Read our review of Biergarten Fest and play it for free. Enjoy smooth gameplay, fun bonus features, and fantastic graphics in this Oktoberfest-inspired slot game."
+                "meta_title": "Play Biergarten Fest Free: A Fun and Exciting Slot Game",
+                "meta_description": "Play Biergarten Fest for free and enjoy the Oktoberfest-inspired theme and exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Biergarten Fest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBiergarten Fest is a 5-reel slot game with 243 ways to win. Players can enjoy smooth and enjoyable spins, both on desktop and mobile devices. The game features a Wild symbol that can substitute all other symbols, a Scatter symbol that offers up to 20 free spins, and a mini-game that can be accessed with three or more bonus symbols.\n\nBonus features\n\nBiergarten Fest offers players an exciting array of bonus features. For starters, the game has a free spins feature that is triggered by landing three or more Scatter symbols anywhere on the reels. Players can win up to 20 free spins depending on the number of Scatters landed. Additionally, players can trigger the mini-game by landing three or more bonus symbols anywhere on the reels. In the mini-game, players are required to match food and drink orders for customers to win lucrative prizes.\n\nGraphics and design\n\nBiergarten Fest boasts of fantastic graphics and an impressive design. With a cartoonish style, the game immerses players into a lively beer festival complete with market stalls and traditional fairs. The beer Wild symbol is an exciting addition, and the symbols are well-studied for all types of combinations. Although the soundtrack is a bit disappointing, the game's overall design and graphics make up for it.\n\nRTP and payouts\n\nBiergarten Fest has an RTP of 95%, which is slightly lower than the average for slots games. However, this does not mean that players cannot walk away with significant payouts. With the free spins feature, players can win up to 20 free spins, while the mini-game can also yield lucrative prizes to boost players' final payout.\n\nOverall experience\n\nBiergarten Fest is an irreverent slot game that is sure to put players in a good mood. Its Oktoberfest-inspired theme is well-executed, and the bonus features make gameplay even more interesting. Although the game's RTP is slightly low, it does not take away from the fun and exciting experience players are sure to have. Experienced gamblers are likely to enjoy the game's design and mechanics. Overall, Biergarten Fest is an excellent addition to PlayPearls' growing portfolio of slot games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Biergarten Fest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBiergarten Fest is a 5-reel slot game with 243 ways to win. Players can enjoy smooth and enjoyable spins, both on desktop and mobile devices. The game features a Wild symbol that can substitute all other symbols, a Scatter symbol that offers up to 20 free spins, and a mini-game that can be accessed with three or more bonus symbols.\n\nBonus features\n\nBiergarten Fest offers players an exciting array of bonus features. For starters, the game has a free spins feature that is triggered by landing three or more Scatter symbols anywhere on the reels. Players can win up to 20 free spins depending on the number of Scatters landed. Additionally, players can trigger the mini-game by landing three or more bonus symbols anywhere on the reels. In the mini-game, players are required to match food and drink orders for customers to win lucrative prizes.\n\nGraphics and design\n\nBiergarten Fest boasts of fantastic graphics and an impressive design. With a cartoonish style, the game immerses players into a lively beer festival complete with market stalls and traditional fairs. The beer Wild symbol is an exciting addition, and the symbols are well-studied for all types of combinations. Although the soundtrack is a bit disappointing, the game's overall design and graphics make up for it.\n\nRTP and payouts\n\nBiergarten Fest has an RTP of 95%, which is slightly lower than the average for slots games. However, this does not mean that players cannot walk away with significant payouts. With the free spins feature, players can win up to 20 free spins, while the mini-game can also yield lucrative prizes to boost players' final payout.\n\nOverall experience\n\nBiergarten Fest is an irreverent slot game that is sure to put players in a good mood. Its Oktoberfest-inspired theme is well-executed, and the bonus features make gameplay even more interesting. Although the game's RTP is slightly low, it does not take away from the fun and exciting experience players are sure to have. Experienced gamblers are likely to enjoy the game's design and mechanics. Overall, Biergarten Fest is an excellent addition to PlayPearls' growing portfolio of slot games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdvDBgBWuH6XdIhysVputFC6CO4s",
+                "id": "chatcmpl-7WO5ZgPydEZYGCG50WnQek28B2MHn",
                 "object": "chat.completion",
-                "created": 1687060999,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 631,
-                    "completion_tokens": 129,
-                    "total_tokens": 760
-                },
+                "created": 1687953449,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Smooth gameplay mechanics\",\n        \"Exciting array of bonus features\",\n        \"Fantastic graphics and impressive design\",\n        \"Lively beer festival theme\"\n    ],\n    \"cons\": [\n        \"Slightly lower than average RTP\",\n        \"Disappointing soundtrack\"\n    ],\n    \"meta_title\": \"Play Biergarten Fest for free: A fun slot game with exciting bonus features\",\n    \"meta_description\": \"Read our review of Biergarten Fest and play it for free. Enjoy smooth gameplay, fun bonus features, and fantastic graphics in this Oktoberfest-inspired slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Smooth and enjoyable gameplay on both desktop and mobile devices\",\n    \"Exciting array of bonus features, including free spins and mini-game\",\n    \"Fantastic graphics and impressive design immerses players into the beer festival theme\",\n    \"Opportunity for significant payouts with free spins and mini-game\"\n  ],\n  \"cons\": [\n    \"Slightly lower RTP compared to average slot games\",\n    \"Disappointing soundtrack\"\n  ],\n  \"meta_title\": \"Play Biergarten Fest Free: A Fun and Exciting Slot Game\",\n  \"meta_description\": \"Play Biergarten Fest for free and enjoy the Oktoberfest-inspired theme and exciting bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 628,
+                    "completion_tokens": 144,
+                    "total_tokens": 772
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/biergarten-fest.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_4.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_2.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_3.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_2.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Biergart_d41818a3-007f-4cf0-bbd0-395821de49a5_4.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Biergarten Fest (Version 4).webp",
         "game_reviews/processed_images/Biergarten Fest (Version 2).webp",
         "game_reviews/processed_images/Biergarten Fest (Version 3).webp",
-        "game_reviews/processed_images/Biergarten Fest (Version 1).webp",
-        "game_reviews/processed_images/Biergarten Fest (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Biergarten Fest (Version 1).webp"
+    ],
+    "slug": "biergarten-fest",
+    "name": "Biergarten Fest",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Biergarten-Fest-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Biergarten Fest Free: A Fun and Exciting Slot Game' ### Meta set: 'Play Biergarten Fest for free and enjoy the Oktoberfest-inspired theme and exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "100 paylines with colossal reels",
-                    "Exciting bonus games with mini-games",
-                    "Minimum bet of 50 cents up to 50 €",
-                    "Playable for free without registration or downloads"
+                    "Simple gameplay",
+                    "Exciting bonus features",
+                    "Wide betting range",
+                    "Easy to navigate interface"
                 ],
                 "cons": [
-                    "No progressive jackpot feature",
-                    "High wagering requirements to unlock bonuses"
+                    "Limited number of paylines",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Epic MONOPOLY II for Free - Exciting Gameplay and Features",
-                "meta_description": "Experience the classic board game with Epic MONOPOLY II online slot. Play for free with exciting bonuses and a maximum payout of 1,500x your bet."
+                "meta_title": "Play Epic MONOPOLY II for Free",
+                "meta_description": "Read our review of Epic MONOPOLY II and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Epic MONOPOLY II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\nEpic MONOPOLY II is a classic board game turned into an online slot machine by William Interactive (WMS). The game has 100 paylines and traditional five main reels along with an additional five colossal reels. The gameplay is not overly complex, making it easy to get into.\n\nBonus Features\n\nEpic MONOPOLY II offers several exciting bonus games. The 'Epic Wheel' feature activates when three or more scatters appear on the reels. Mini-games include dice rolls, free spins, multipliers, and cash prizes. These bonuses can help players win big while keeping the game engaging and entertaining.\n\nBetting Range\n\nThe betting range in Epic MONOPOLY II starts at a minimum of 50 cents up to a maximum of 50 €. The game's highest payout is 1,500 times the value of the player's bet, and the theoretical RTP is 96%, putting the game in line with other WMS slots. Players can play the game for fun without registration or downloads, making it an excellent opportunity to perfect their strategy before investing real money.\n\nEase of Play\n\nEpic MONOPOLY II is an easy-to-play game that offers enough tricks and features to keep players engaged without being too complicated. The game's interface is straightforward to navigate, making it easy for new and experienced players alike.\n\nPayout Potential\n\nEpic MONOPOLY II offers a maximum payout of 1,500 times the player's bet, which is higher than most slot games. The potential for big wins is further increased by the exciting bonuses available in the game. Players should note that the theoretical RTP is 96%, which is on par with other WMS slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Epic MONOPOLY II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\nEpic MONOPOLY II is a classic board game turned into an online slot machine by William Interactive (WMS). The game has 100 paylines and traditional five main reels along with an additional five colossal reels. The gameplay is not overly complex, making it easy to get into.\n\nBonus Features\n\nEpic MONOPOLY II offers several exciting bonus games. The 'Epic Wheel' feature activates when three or more scatters appear on the reels. Mini-games include dice rolls, free spins, multipliers, and cash prizes. These bonuses can help players win big while keeping the game engaging and entertaining.\n\nBetting Range\n\nThe betting range in Epic MONOPOLY II starts at a minimum of 50 cents up to a maximum of 50 €. The game's highest payout is 1,500 times the value of the player's bet, and the theoretical RTP is 96%, putting the game in line with other WMS slots. Players can play the game for fun without registration or downloads, making it an excellent opportunity to perfect their strategy before investing real money.\n\nEase of Play\n\nEpic MONOPOLY II is an easy-to-play game that offers enough tricks and features to keep players engaged without being too complicated. The game's interface is straightforward to navigate, making it easy for new and experienced players alike.\n\nPayout Potential\n\nEpic MONOPOLY II offers a maximum payout of 1,500 times the player's bet, which is higher than most slot games. The potential for big wins is further increased by the exciting bonuses available in the game. Players should note that the theoretical RTP is 96%, which is on par with other WMS slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCUt4pFsqnb2P2ZSVBVEF0RtG8bd",
+                "id": "chatcmpl-7WSMqaddXPqh9eClcqbXUkPVsScpj",
                 "object": "chat.completion",
-                "created": 1687193907,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 531,
-                    "completion_tokens": 141,
-                    "total_tokens": 672
-                },
+                "created": 1687969896,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"100 paylines with colossal reels\",\n    \"Exciting bonus games with mini-games\",\n    \"Minimum bet of 50 cents up to 50 €\",\n    \"Playable for free without registration or downloads\"\n  ],\n  \"cons\": [\n    \"No progressive jackpot feature\",\n    \"High wagering requirements to unlock bonuses\"\n  ],\n  \"meta_title\": \"Play Epic MONOPOLY II for Free - Exciting Gameplay and Features\",\n  \"meta_description\": \"Experience the classic board game with Epic MONOPOLY II online slot. Play for free with exciting bonuses and a maximum payout of 1,500x your bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay\",\n    \"Exciting bonus features\",\n    \"Wide betting range\",\n    \"Easy to navigate interface\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Epic MONOPOLY II for Free\",\n  \"meta_description\": \"Read our review of Epic MONOPOLY II and play this slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 528,
+                    "completion_tokens": 96,
+                    "total_tokens": 624
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/epic-monopoly-ii.json"
+    "filename": "game_reviews/translations/epic-monopoly-ii.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_that_captures_th_7b71cf93-0959-4f36-b6fc-361721b033bd_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_that_captures_th_7b71cf93-0959-4f36-b6fc-361721b033bd_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_that_captures_th_7b71cf93-0959-4f36-b6fc-361721b033bd_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_that_captures_th_7b71cf93-0959-4f36-b6fc-361721b033bd_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "epic-monopoly-ii",
+    "name": "Epic MONOPOLY II",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/epic-monopoly-ii-featured-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Epic MONOPOLY II for Free' ### Meta set: 'Read our review of Epic MONOPOLY II and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

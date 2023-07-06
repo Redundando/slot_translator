@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Two respin functions with locking in wild symbols",
+                    "Two respin functions with locking wild symbols",
                     "Unlimited free spins with multipliers up to 4x",
-                    "Four progressive jackpots through the DC Super Heroes Jackpot Game",
-                    "Playable on desktop and mobile devices"
+                    "Graphics inspired by comics and Aquaman film",
+                    "Four progressive jackpots to be won"
                 ],
                 "cons": [
-                    "Lacks a bonus game",
-                    "Limited multipliers"
+                    "Limited variety of pay symbols",
+                    "Limited availability of the game on some platforms"
                 ],
-                "meta_title": "Play Aquaman Slot for Free in 2021",
-                "meta_description": "Read our unbiased review of Aquaman online slot game and play for free in 2021. Enjoy two respin functions, progressive jackpots, and a unique underwater theme."
+                "meta_title": "Play Aquaman Free | Review of Aquaman Online Slot Game",
+                "meta_description": "Read our review of Aquaman, an online slot game with locking wilds and unlimited free spins. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aquaman\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nAquaman is a 5-reel, 243-ways-to-win online slot game designed by Playtech. The game has two respin functions, which feature locking in wild symbols to trigger significant winnings and unlimited free spins with multipliers up to 4x through the Atlantis Free Games function. The game also has four progressive jackpots that can be won through the DC Super Heroes Jackpot Game function.\n\nGraphics and Theme\n\nThe game has graphics inspired by both comics and the Aquaman film. The background shows Atlantis, representing the underwater reality. The pay symbols include royal cards A, K, Q, J, and 10, the warrior Mera, and Aquaman himself as the richest symbol. The trident symbol acts as the wild symbol, replacing all other symbols except the Scatter. The game also features animations and wilds for its Trident Wild Respins and Ocean Rush Respins functions.\n\nWinning Opportunities\n\nPlayers have numerous winning opportunities, including the two respin functions, which involve locking in wild symbols to trigger significant winnings and unlimited free spins through the Atlantis Free Games function. The combination of wilds and Scatters can activate a 2x to 4x multiplier. In addition, the game has four progressive jackpots that can be triggered through the DC Super Heroes Jackpot Game function.\n\nMobile Compatibility\n\nPlayers can enjoy Aquaman on both desktop and mobile devices without sacrificing quality in terms of gameplay. The game has been designed to provide a unique experience on both platforms.\n\nProgressive Jackpots\n\nAquaman has four progressive jackpots that can be won through the DC Super Heroes Jackpot Game function. Players need to fill up a collection area by choosing from 20 icons in the game to strike it lucky and hit the jackpot.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aquaman\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nAquaman is a 5-reel, 243-ways-to-win online slot game designed by Playtech. The game has two respin functions, which feature locking in wild symbols to trigger significant winnings and unlimited free spins with multipliers up to 4x through the Atlantis Free Games function. The game also has four progressive jackpots that can be won through the DC Super Heroes Jackpot Game function.\n\nGraphics and Theme\n\nThe game has graphics inspired by both comics and the Aquaman film. The background shows Atlantis, representing the underwater reality. The pay symbols include royal cards A, K, Q, J, and 10, the warrior Mera, and Aquaman himself as the richest symbol. The trident symbol acts as the wild symbol, replacing all other symbols except the Scatter. The game also features animations and wilds for its Trident Wild Respins and Ocean Rush Respins functions.\n\nWinning Opportunities\n\nPlayers have numerous winning opportunities, including the two respin functions, which involve locking in wild symbols to trigger significant winnings and unlimited free spins through the Atlantis Free Games function. The combination of wilds and Scatters can activate a 2x to 4x multiplier. In addition, the game has four progressive jackpots that can be triggered through the DC Super Heroes Jackpot Game function.\n\nMobile Compatibility\n\nPlayers can enjoy Aquaman on both desktop and mobile devices without sacrificing quality in terms of gameplay. The game has been designed to provide a unique experience on both platforms.\n\nProgressive Jackpots\n\nAquaman has four progressive jackpots that can be won through the DC Super Heroes Jackpot Game function. Players need to fill up a collection area by choosing from 20 icons in the game to strike it lucky and hit the jackpot.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXj7xxtZdngr8lYI7aXApkV9f7sM",
+                "id": "chatcmpl-7WNL5fakWCpI3OsFlSkG0vMoh1PKH",
                 "object": "chat.completion",
-                "created": 1687037185,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 536,
-                    "completion_tokens": 143,
-                    "total_tokens": 679
-                },
+                "created": 1687950567,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Two respin functions with locking in wild symbols\",\n        \"Unlimited free spins with multipliers up to 4x\",\n        \"Four progressive jackpots through the DC Super Heroes Jackpot Game\",\n        \"Playable on desktop and mobile devices\"\n    ],\n    \"cons\": [\n        \"Lacks a bonus game\",\n        \"Limited multipliers\"\n    ],\n    \"meta_title\": \"Play Aquaman Slot for Free in 2021\",\n    \"meta_description\": \"Read our unbiased review of Aquaman online slot game and play for free in 2021. Enjoy two respin functions, progressive jackpots, and a unique underwater theme.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Two respin functions with locking wild symbols\",\n    \"Unlimited free spins with multipliers up to 4x\",\n    \"Graphics inspired by comics and Aquaman film\",\n    \"Four progressive jackpots to be won\"\n  ],\n  \"cons\": [\n    \"Limited variety of pay symbols\",\n    \"Limited availability of the game on some platforms\"\n  ],\n  \"meta_title\": \"Play Aquaman Free | Review of Aquaman Online Slot Game\",\n  \"meta_description\": \"Read our review of Aquaman, an online slot game with locking wilds and unlimited free spins. Play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 533,
+                    "completion_tokens": 133,
+                    "total_tokens": 666
+                }
             }
         },
         {
@@ -816,13 +816,22 @@
     "raw_feature_images": [
         "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_3.png",
         "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_1.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_2.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_4.png"
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_4.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_adven_143a58f7-5cca-47d3-afd2-4bfbd7291b5f_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Aquaman (Version 1).webp",
-        "game_reviews/processed_images/Aquaman (Version 4).webp",
         "game_reviews/processed_images/Aquaman (Version 3).webp",
+        "game_reviews/processed_images/Aquaman (Version 4).webp",
+        "game_reviews/processed_images/Aquaman (Version 1).webp",
         "game_reviews/processed_images/Aquaman (Version 2).webp"
-    ]
+    ],
+    "slug": "aquaman",
+    "name": "Aquaman",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aquaman-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aquaman Free | Review of Aquaman Online Slot Game' ### Meta set: 'Read our review of Aquaman, an online slot game with locking wilds and unlimited free spins. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

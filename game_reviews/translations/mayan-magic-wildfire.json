@@ -692,39 +692,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Game offers a range of wild features.",
-                    "Attractive design, with well-executed graphics.",
-                    "Mayan Wild Feature increases win multiplier by 1x.",
-                    "Mystery Wild and Mystery Sync Features can be triggered at random."
+                    "Multiple wild features enhance gameplay",
+                    "Colorful graphics and immersive jungle scenery",
+                    "Maya Wilds feature with respins and sticky wilds",
+                    "Mystery Wild and Mystery Sync features for additional excitement"
                 ],
                 "cons": [
-                    "Mayan Magic Wildfire is a medium variance game.",
-                    "Mayan Magic Wildfire does not offer any free spins bonus."
+                    "Limited number of central reels for wild triggers",
+                    "Medium variance may not appeal to players seeking high-risk, high-reward gameplay"
                 ],
-                "meta_title": "Play Mayan Magic Wildfire for Free: Game Review",
-                "meta_description": "Read our review of Mayan Magic Wildfire, a jungle-themed online slot. Play Mayan Magic Wildfire for free and discover its gameplay features and graphic design."
+                "meta_title": "Play Mayan Magic Wildfire Free - Exciting Features & Stunning Graphics",
+                "meta_description": "Discover the wild features and beautiful scenery in Mayan Magic Wildfire. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mayan Magic Wildfire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nMayan Magic Wildfire offers a number of wild features including transformed wilds, synchronized reels, and sticky wilds that are triggered by landing a wild symbol on the 3 central reels. Players can earn a respin with each additional wild that triggers another spin. The Mayan Wild feature can increase the win multiplier by 1x with the landing of every third wild. The Mystery Wild and Mystery Sync features can be triggered at random on any spin.\n\nScenery and graphics\n\nMayan Magic Wildfire is set within a colorful jungle scene with lush graphics and rich colors. The game window appears to be suspended on a stone structure with a green gem at its center. The cascading waterfall in the background adds to the overall atmosphere. The design is comic-style and works well with the game's theme.\n\nMaya Wilds Feature\n\nThe Maya Wilds Feature provides players with a respin when a wild symbol lands on any position on the 3 central reels. Additional wilds earn more respins and sticky wilds are added to the central position on that reel. Every third wild that lands increases the win multiplier by 1x.\n\nMystery Wild and Mystery Sync Features\n\nThe Mystery Wild Feature is triggered at random on any spin. The symbol on the central position of reel 3 transforms into a wild, along with all instances of that symbol elsewhere on the central position of the 3 reels. The Maya Wild feature follows. The Mystery Sync feature can also be triggered at random on any spin. The symbols on the 3 central reels synchronize to create a new winning combination.\n\nEstimated RTP and payouts\n\nThe estimated RTP of this medium variance game is around 96%. The chance to win up to 1,264 times the player's stake is available with the Mayan Magic Wildfire slot.\n\nComparison to other similar jungle-themed online slot games\n\nMayan Magic Wildfire is a jungle-themed online slot game that offers a unique set of wild features. For those interested in similar jungle-themed slots, Jumanji is a good option to try. For those interested in mega jackpots, Mega Moolah is popular; the jackpot offers the chance for players to win millions of euros with a single spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mayan Magic Wildfire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nMayan Magic Wildfire offers a number of wild features including transformed wilds, synchronized reels, and sticky wilds that are triggered by landing a wild symbol on the 3 central reels. Players can earn a respin with each additional wild that triggers another spin. The Mayan Wild feature can increase the win multiplier by 1x with the landing of every third wild. The Mystery Wild and Mystery Sync features can be triggered at random on any spin.\n\nScenery and graphics\n\nMayan Magic Wildfire is set within a colorful jungle scene with lush graphics and rich colors. The game window appears to be suspended on a stone structure with a green gem at its center. The cascading waterfall in the background adds to the overall atmosphere. The design is comic-style and works well with the game's theme.\n\nMaya Wilds Feature\n\nThe Maya Wilds Feature provides players with a respin when a wild symbol lands on any position on the 3 central reels. Additional wilds earn more respins and sticky wilds are added to the central position on that reel. Every third wild that lands increases the win multiplier by 1x.\n\nMystery Wild and Mystery Sync Features\n\nThe Mystery Wild Feature is triggered at random on any spin. The symbol on the central position of reel 3 transforms into a wild, along with all instances of that symbol elsewhere on the central position of the 3 reels. The Maya Wild feature follows. The Mystery Sync feature can also be triggered at random on any spin. The symbols on the 3 central reels synchronize to create a new winning combination.\n\nEstimated RTP and payouts\n\nThe estimated RTP of this medium variance game is around 96%. The chance to win up to 1,264 times the player's stake is available with the Mayan Magic Wildfire slot.\n\nComparison to other similar jungle-themed online slot games\n\nMayan Magic Wildfire is a jungle-themed online slot game that offers a unique set of wild features. For those interested in similar jungle-themed slots, Jumanji is a good option to try. For those interested in mega jackpots, Mega Moolah is popular; the jackpot offers the chance for players to win millions of euros with a single spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U6aQw1vCay1fOA3RtAb8wsbSIVPQ",
+                "id": "chatcmpl-7WXL4Hy5nW7cLc3NvwXJtqX4DPgfV",
                 "object": "chat.completion",
-                "created": 1687409514,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989006,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Game offers a range of wild features.\",\n        \"Attractive design, with well-executed graphics.\",\n        \"Mayan Wild Feature increases win multiplier by 1x.\",\n        \"Mystery Wild and Mystery Sync Features can be triggered at random.\"\n    ],\n    \"cons\": [\n        \"Mayan Magic Wildfire is a medium variance game.\",\n        \"Mayan Magic Wildfire does not offer any free spins bonus.\"\n    ],\n    \"meta_title\": \"Play Mayan Magic Wildfire for Free: Game Review\",\n    \"meta_description\": \"Read our review of Mayan Magic Wildfire, a jungle-themed online slot. Play Mayan Magic Wildfire for free and discover its gameplay features and graphic design.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Multiple wild features enhance gameplay\",\n      \"Colorful graphics and immersive jungle scenery\",\n      \"Maya Wilds feature with respins and sticky wilds\",\n      \"Mystery Wild and Mystery Sync features for additional excitement\"\n   ],\n   \"cons\": [\n      \"Limited number of central reels for wild triggers\",\n      \"Medium variance may not appeal to players seeking high-risk, high-reward gameplay\"\n   ],\n   \"meta_title\": \"Play Mayan Magic Wildfire Free - Exciting Features & Stunning Graphics\",\n   \"meta_description\": \"Discover the wild features and beautiful scenery in Mayan Magic Wildfire. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 629,
-                    "completion_tokens": 154,
-                    "total_tokens": 783
+                    "prompt_tokens": 626,
+                    "completion_tokens": 138,
+                    "total_tokens": 764
                 }
             }
         },
@@ -923,5 +923,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mayan-magic-wildfire.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_that_fits_the_theme__f4055707-e70d-4aeb-bd0b-e32d3b083de2_3.png",
+        "arved__DALLE_please_create_a_feature_image_that_fits_the_theme__f4055707-e70d-4aeb-bd0b-e32d3b083de2_2.png",
+        "arved__DALLE_please_create_a_feature_image_that_fits_the_theme__f4055707-e70d-4aeb-bd0b-e32d3b083de2_4.png",
+        "arved__DALLE_please_create_a_feature_image_that_fits_the_theme__f4055707-e70d-4aeb-bd0b-e32d3b083de2_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mayan Magic Wildfire (Version 1).webp",
+        "game_reviews/processed_images/Mayan Magic Wildfire (Version 4).webp",
+        "game_reviews/processed_images/Mayan Magic Wildfire (Version 2).webp",
+        "game_reviews/processed_images/Mayan Magic Wildfire (Version 3).webp"
+    ],
+    "slug": "mayan-magic-wildfire",
+    "name": "Mayan Magic Wildfire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mayan-Magic-Wildfire-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mayan Magic Wildfire Free - Exciting Features & Stunning Graphics' ### Meta set: 'Discover the wild features and beautiful scenery in Mayan Magic Wildfire. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

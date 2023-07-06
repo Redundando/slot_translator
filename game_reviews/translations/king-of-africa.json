@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting bonus mode triggered by finding three or more Scatters",
-                    "Engaging respin feature triggered by finding two Scatters",
-                    "Savannah-themed design and vibrant color scheme add to the game's appeal",
-                    "Variety of regular symbols keep gameplay interesting"
+                    "Savannah theme with vibrant colors",
+                    "Exciting bonus features",
+                    "Wide range of symbols and combinations",
+                    "Plenty of other Africa-themed slots to explore"
                 ],
                 "cons": [
-                    "Relatively low RTP compared to the market's current standards",
-                    "Lack of constant background music may make the game less immersive"
+                    "Low RTP compared to industry standards",
+                    "Lack of constant background music"
                 ],
-                "meta_title": "Play King of Africa Slot Game for Free - Review",
-                "meta_description": "Explore the pros and cons of King of Africa, a 5×3 online slot game with 20 paylines and exciting bonus features. Play for free and experience the savannah-themed design."
+                "meta_title": "Play King of Africa - Free Slot Game",
+                "meta_description": "Read our review of King of Africa, an exciting slot game with vibrant colors and exciting bonus features. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"King of Africa\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nKing of Africa is a 5×3 slot with twenty pay lines and an RTP of 92.14%. The game's Wild symbol is its title, replacing other regular symbols. The tree in the savannah is the Scatter symbol; finding three or more in a spin triggers the bonus mode, while finding two can trigger a respin of the other reels.\n\nGame Design and Graphics\n\nKing of Africa has a savannah theme, with dominant colors of yellow and red. The game frame is the savannah itself, and the game grid features animals like lions, zebras, cheetahs, antelopes, elephants, and objects representing native African populations. There is no constant background music; the music only plays when the reels are spinning.\n\nSymbols and Bonus Features\n\nThe game's most important symbols are the Wild symbol (the title) and the Scatter symbol (the tree in the savannah). Three or more Scatters trigger the bonus mode, while two Scatters can trigger a respin of the other reels. There are also other regular symbols, like playing cards, that can be substituted by the Wild symbol.\n\nRTP and Payout\n\nKing of Africa boasts an RTP of 92.14%, which is low compared to the market's current standards but still reasonable. The game offers payouts, the details of which depend on the symbols and their combinations. The highest-paying symbol is the lion, which can payout up to 500 credits.\n\nSimilar Games\n\nFor players interested in exploring Africa-themed slots further, the market offers plenty of options. Some of these include Africa Untamed by Barcrest, Soccer Safari by Microgaming, and King of the Jungle and Savanna Moon by Bally Wulff.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"King of Africa\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nKing of Africa is a 5×3 slot with twenty pay lines and an RTP of 92.14%. The game's Wild symbol is its title, replacing other regular symbols. The tree in the savannah is the Scatter symbol; finding three or more in a spin triggers the bonus mode, while finding two can trigger a respin of the other reels.\n\nGame Design and Graphics\n\nKing of Africa has a savannah theme, with dominant colors of yellow and red. The game frame is the savannah itself, and the game grid features animals like lions, zebras, cheetahs, antelopes, elephants, and objects representing native African populations. There is no constant background music; the music only plays when the reels are spinning.\n\nSymbols and Bonus Features\n\nThe game's most important symbols are the Wild symbol (the title) and the Scatter symbol (the tree in the savannah). Three or more Scatters trigger the bonus mode, while two Scatters can trigger a respin of the other reels. There are also other regular symbols, like playing cards, that can be substituted by the Wild symbol.\n\nRTP and Payout\n\nKing of Africa boasts an RTP of 92.14%, which is low compared to the market's current standards but still reasonable. The game offers payouts, the details of which depend on the symbols and their combinations. The highest-paying symbol is the lion, which can payout up to 500 credits.\n\nSimilar Games\n\nFor players interested in exploring Africa-themed slots further, the market offers plenty of options. Some of these include Africa Untamed by Barcrest, Soccer Safari by Microgaming, and King of the Jungle and Savanna Moon by Bally Wulff.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxsxtnNUFv1fvmj2W9m9cvzbU2Bj",
+                "id": "chatcmpl-7WVtx2h133XCJ4PnDXZ53nTtNUQtW",
                 "object": "chat.completion",
-                "created": 1687376067,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983481,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting bonus mode triggered by finding three or more Scatters\",\n        \"Engaging respin feature triggered by finding two Scatters\",\n        \"Savannah-themed design and vibrant color scheme add to the game's appeal\",\n        \"Variety of regular symbols keep gameplay interesting\"\n    ],\n    \"cons\": [\n        \"Relatively low RTP compared to the market's current standards\",\n        \"Lack of constant background music may make the game less immersive\"\n    ],\n    \"meta_title\": \"Play King of Africa Slot Game for Free - Review\",\n    \"meta_description\": \"Explore the pros and cons of King of Africa, a 5×3 online slot game with 20 paylines and exciting bonus features. Play for free and experience the savannah-themed design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Savannah theme with vibrant colors\",\n    \"Exciting bonus features\",\n    \"Wide range of symbols and combinations\",\n    \"Plenty of other Africa-themed slots to explore\"\n  ],\n  \"cons\": [\n    \"Low RTP compared to industry standards\",\n    \"Lack of constant background music\"\n  ],\n  \"meta_title\": \"Play King of Africa - Free Slot Game\",\n  \"meta_description\": \"Read our review of King of Africa, an exciting slot game with vibrant colors and exciting bonus features. Play for free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 529,
-                    "completion_tokens": 167,
-                    "total_tokens": 696
+                    "prompt_tokens": 526,
+                    "completion_tokens": 119,
+                    "total_tokens": 645
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/king-of-africa.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_King_of_Africa_that_sh_e65cd549-8c80-4e9f-b766-da5dab1232ff_1.png",
+        "arved__Prompt_Create_a_feature_image_for_King_of_Africa_that_sh_e65cd549-8c80-4e9f-b766-da5dab1232ff_3.png",
+        "arved__Prompt_Create_a_feature_image_for_King_of_Africa_that_sh_e65cd549-8c80-4e9f-b766-da5dab1232ff_2.png",
+        "arved__Prompt_Create_a_feature_image_for_King_of_Africa_that_sh_e65cd549-8c80-4e9f-b766-da5dab1232ff_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/King Of Africa (Version 3).webp",
+        "game_reviews/processed_images/King Of Africa (Version 1).webp",
+        "game_reviews/processed_images/King Of Africa (Version 4).webp",
+        "game_reviews/processed_images/King Of Africa (Version 2).webp"
+    ],
+    "slug": "king-of-africa",
+    "name": "King of Africa",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/King-Of-Africa-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play King of Africa - Free Slot Game' ### Meta set: 'Read our review of King of Africa, an exciting slot game with vibrant colors and exciting bonus features. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Non-traditional game grid with 4,096 ways to win",
-                    "Cascading reel system and unlimited multiplier",
-                    "Maximum win of 15,000 times the bet value",
-                    "Available in free demo version without registration"
+                    "Unique gameplay mechanics with cascading reels and unlimited multiplier",
+                    "High winning potential with a maximum win of 15,000 times the bet",
+                    "Wide betting range from 10 cents to 100 €",
+                    "Available on desktop and mobile devices, with a free demo version"
                 ],
                 "cons": [
-                    "High volatility may not appeal to all players",
-                    "Theoretical RTP of 96.14% is only average"
+                    "High volatility may lead to infrequent wins",
+                    "No mention of bonus features besides free spins round"
                 ],
-                "meta_title": "Play Crystal Quest: Deep Jungle for Free - Review",
-                "meta_description": "Explore the jungle in Crystal Quest: Deep Jungle slot game. Read our review and play for free. 4,096 ways to win and a maximum prize of 15,000x."
+                "meta_title": "Play Crystal Quest: Deep Jungle for Free",
+                "meta_description": "Read our review of Crystal Quest: Deep Jungle and play this online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crystal Quest: Deep Jungle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nCrystal Quest: Deep Jungle features a non-traditional game grid with six reels, four rows, and 4,096 ways to win. The game offers a cascading reel system, an unlimited multiplier that increases as you play, and a bonus round of free spins thanks to the Scatter.\n\nWinning potential\n\nThis slot game has high volatility and offers a maximum win of 15,000 times the value of the bet. While getting constant prizes may be unlikely, it has the potential to repay players big for their bets.\n\nBetting range and availability\n\nCrystal Quest: Deep Jungle allows players to place bets starting from just 10 cents up to a maximum of 100 €. It is available on desktop and mobile devices, as well as in free demo version, without spending money and without having to register on any platform.\n\nTheme and visual design\n\nSet in a rainforest, Crystal Quest: Deep Jungle features colored crystals and strange creatures amidst stone blocks resembling an Aztec temple. The soundtrack alternates between the sounds of animals and tribal drums with that of the symbols that fall on the reels.\n\nReturn to player percentage\n\nTheoretical return to player or RTP of Crystal Quest: Deep Jungle is 96.14%, making it perfectly average in this regard.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crystal Quest: Deep Jungle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nCrystal Quest: Deep Jungle features a non-traditional game grid with six reels, four rows, and 4,096 ways to win. The game offers a cascading reel system, an unlimited multiplier that increases as you play, and a bonus round of free spins thanks to the Scatter.\n\nWinning potential\n\nThis slot game has high volatility and offers a maximum win of 15,000 times the value of the bet. While getting constant prizes may be unlikely, it has the potential to repay players big for their bets.\n\nBetting range and availability\n\nCrystal Quest: Deep Jungle allows players to place bets starting from just 10 cents up to a maximum of 100 €. It is available on desktop and mobile devices, as well as in free demo version, without spending money and without having to register on any platform.\n\nTheme and visual design\n\nSet in a rainforest, Crystal Quest: Deep Jungle features colored crystals and strange creatures amidst stone blocks resembling an Aztec temple. The soundtrack alternates between the sounds of animals and tribal drums with that of the symbols that fall on the reels.\n\nReturn to player percentage\n\nTheoretical return to player or RTP of Crystal Quest: Deep Jungle is 96.14%, making it perfectly average in this regard.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SynvKnx9lXMi7TYTWO2yliSryQPG",
+                "id": "chatcmpl-7WQjx4yevulxh6ifNsnVgcAo2X6eL",
                 "object": "chat.completion",
-                "created": 1687141271,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 437,
-                    "completion_tokens": 157,
-                    "total_tokens": 594
-                },
+                "created": 1687963641,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Non-traditional game grid with 4,096 ways to win\",\n        \"Cascading reel system and unlimited multiplier\",\n        \"Maximum win of 15,000 times the bet value\",\n        \"Available in free demo version without registration\"\n    ],\n    \"cons\": [\n        \"High volatility may not appeal to all players\",\n        \"Theoretical RTP of 96.14% is only average\"\n    ],\n    \"meta_title\": \"Play Crystal Quest: Deep Jungle for Free - Review\",\n    \"meta_description\": \"Explore the jungle in Crystal Quest: Deep Jungle slot game. Read our review and play for free. 4,096 ways to win and a maximum prize of 15,000x.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics with cascading reels and unlimited multiplier\",\n    \"High winning potential with a maximum win of 15,000 times the bet\",\n    \"Wide betting range from 10 cents to 100 €\",\n    \"Available on desktop and mobile devices, with a free demo version\"\n  ],\n  \"cons\": [\n    \"High volatility may lead to infrequent wins\",\n    \"No mention of bonus features besides free spins round\"\n  ],\n  \"meta_title\": \"Play Crystal Quest: Deep Jungle for Free\",\n  \"meta_description\": \"Read our review of Crystal Quest: Deep Jungle and play this online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 434,
+                    "completion_tokens": 139,
+                    "total_tokens": 573
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_3.png",
-        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_4.png",
         "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_2.png",
-        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_1.png"
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_1.png",
+        "arved__Please_create_an_image_in_cartoon_style_featuring_a_happ_f0292f9a-5d4b-49c1-a7f8-bdbe9b8b3a46_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 2).webp",
-        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 4).webp",
         "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 1).webp",
-        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 3).webp"
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 2).webp",
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 3).webp",
+        "game_reviews/processed_images/Crystal Quest Deep Jungle (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/crystal-quest-deep-jungle.json"
+    "filename": "game_reviews/translations/crystal-quest-deep-jungle.json",
+    "slug": "crystal-quest-deep-jungle",
+    "name": "Crystal Quest: Deep Jungle",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crystal-Quest-Deep-Jungle-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crystal Quest: Deep Jungle for Free' ### Meta set: 'Read our review of Crystal Quest: Deep Jungle and play this online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and engaging jungle theme",
+                    "Stunning graphics and engaging gameplay",
                     "Special functions linked to Wild and Scatter symbols",
-                    "Jumbo Links Bonus and Diamond Bonus offer exciting opportunities",
-                    "Suitable for both experienced and less experienced players"
+                    "Free spins and Diamond Bonus add excitement",
+                    "Jumbo Links Bonus and multipliers for big wins"
                 ],
                 "cons": [
                     "Small winnings in the base game",
-                    "Limited number of Bonus symbols to trigger Jumbo Links Bonus"
+                    "Requires patience to achieve big wins"
                 ],
-                "meta_title": "Play Jaguar Gold for Free - Review of Skywind Slot",
-                "meta_description": "Discover the jungle adventure with Jaguar Gold. Play for free and enjoy special functions, bonuses, and stunning graphics in this Skywind Group slot game."
+                "meta_title": "Play Jaguar Gold Free: Review of Gameplay, Graphics, and Wins",
+                "meta_description": "Discover the exciting gameplay, stunning graphics, and winning potential of Jaguar Gold. Play free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jaguar Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and bonuses\n\nJaguar Gold by Skywind Group has stunning graphics and offers special functions linked to Wild and Scatter symbols, accompanied by free spins and the Diamond Bonus. The Jumbo Links Bonus can be triggered when six or more Bonus symbols are in play, and multipliers - ranging from 3x to 5x - are the real source of fortune in this title.\n\nWinning potential and chances\n\nSmall winnings can be expected in the base game, but for even greater success, it's essential to arm yourself with a bit of patience. The main opportunity for big wins comes from the multipliers. The RTP of the game is set at 96%, which is perfectly in line with the average level of the sector.\n\nGraphics and theme\n\nJaguar Gold boasts impressive graphics that are highly detailed and engaging. The symbols on the reels are well-designed, including the Scatter symbol which represents the jungle, diamonds with different values, a frog, an orangutan, a toucan, and of course, the jaguar. The overall theme of the game is centered around a jungle adventure that promises a thrilling experience for players.\n\nSuitability for different players\n\nJaguar Gold is not only an excellent choice for experienced players but also has the ideal features to attract the attention of those who have less experience with online gambling. The game maintains excellent performance not only on desktop but also on mobile devices.\n\nDeveloper information\n\nSkywind Group is a well-respected developer that has produced numerous successful online slot games. With Jaguar Gold, they have focused heavily on its scenic effects and strong technical structure, providing players with an overall enjoyable gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jaguar Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and bonuses\n\nJaguar Gold by Skywind Group has stunning graphics and offers special functions linked to Wild and Scatter symbols, accompanied by free spins and the Diamond Bonus. The Jumbo Links Bonus can be triggered when six or more Bonus symbols are in play, and multipliers - ranging from 3x to 5x - are the real source of fortune in this title.\n\nWinning potential and chances\n\nSmall winnings can be expected in the base game, but for even greater success, it's essential to arm yourself with a bit of patience. The main opportunity for big wins comes from the multipliers. The RTP of the game is set at 96%, which is perfectly in line with the average level of the sector.\n\nGraphics and theme\n\nJaguar Gold boasts impressive graphics that are highly detailed and engaging. The symbols on the reels are well-designed, including the Scatter symbol which represents the jungle, diamonds with different values, a frog, an orangutan, a toucan, and of course, the jaguar. The overall theme of the game is centered around a jungle adventure that promises a thrilling experience for players.\n\nSuitability for different players\n\nJaguar Gold is not only an excellent choice for experienced players but also has the ideal features to attract the attention of those who have less experience with online gambling. The game maintains excellent performance not only on desktop but also on mobile devices.\n\nDeveloper information\n\nSkywind Group is a well-respected developer that has produced numerous successful online slot games. With Jaguar Gold, they have focused heavily on its scenic effects and strong technical structure, providing players with an overall enjoyable gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TuYVDLIP8JrfSvbDl4m6YTDzLUtN",
+                "id": "chatcmpl-7WVP7sr7caeJ67ffUG4i5t6qNvB5B",
                 "object": "chat.completion",
-                "created": 1687363267,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981569,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and engaging jungle theme\",\n        \"Special functions linked to Wild and Scatter symbols\",\n        \"Jumbo Links Bonus and Diamond Bonus offer exciting opportunities\",\n        \"Suitable for both experienced and less experienced players\"\n    ],\n    \"cons\": [\n        \"Small winnings in the base game\",\n        \"Limited number of Bonus symbols to trigger Jumbo Links Bonus\"\n    ],\n    \"meta_title\": \"Play Jaguar Gold for Free - Review of Skywind Slot\",\n    \"meta_description\": \"Discover the jungle adventure with Jaguar Gold. Play for free and enjoy special functions, bonuses, and stunning graphics in this Skywind Group slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning graphics and engaging gameplay\",\n    \"Special functions linked to Wild and Scatter symbols\",\n    \"Free spins and Diamond Bonus add excitement\",\n    \"Jumbo Links Bonus and multipliers for big wins\"\n  ],\n  \"cons\": [\n    \"Small winnings in the base game\",\n    \"Requires patience to achieve big wins\"\n  ],\n  \"meta_title\": \"Play Jaguar Gold Free: Review of Gameplay, Graphics, and Wins\",\n  \"meta_description\": \"Discover the exciting gameplay, stunning graphics, and winning potential of Jaguar Gold. Play free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 510,
-                    "completion_tokens": 140,
-                    "total_tokens": 650
+                    "prompt_tokens": 507,
+                    "completion_tokens": 123,
+                    "total_tokens": 630
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jaguar-gold.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon_style_feature_image_for_Jaguar_Gold_slo_45843ba6-15f3-4a8f-9d91-42db2b2af002_2.png",
+        "arved__Create_a_cartoon_style_feature_image_for_Jaguar_Gold_slo_45843ba6-15f3-4a8f-9d91-42db2b2af002_3.png",
+        "arved__Create_a_cartoon_style_feature_image_for_Jaguar_Gold_slo_45843ba6-15f3-4a8f-9d91-42db2b2af002_4.png",
+        "arved__Create_a_cartoon_style_feature_image_for_Jaguar_Gold_slo_45843ba6-15f3-4a8f-9d91-42db2b2af002_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jaguar Gold (Version 1).webp",
+        "game_reviews/processed_images/Jaguar Gold (Version 3).webp",
+        "game_reviews/processed_images/Jaguar Gold (Version 4).webp",
+        "game_reviews/processed_images/Jaguar Gold (Version 2).webp"
+    ],
+    "slug": "jaguar-gold",
+    "name": "Jaguar Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jaguar-Gold-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jaguar Gold Free: Review of Gameplay, Graphics, and Wins' ### Meta set: 'Discover the exciting gameplay, stunning graphics, and winning potential of Jaguar Gold. Play free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

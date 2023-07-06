@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Historical theme with engaging symbols",
-                    "Wild symbol and Scatter symbol increase winning potential",
-                    "Bonus Game offers up to ten free spins",
-                    "Versatile betting options for different budgets"
+                    "Historical theme",
+                    "Wild symbol, Scatter symbol, and Bonus Game",
+                    "Autoplay function",
+                    "Good winning potential"
                 ],
                 "cons": [
-                    "Only 9 paylines may limit gameplay",
-                    "Graphics and sound effects could be improved"
+                    "Limited number of paylines",
+                    "Only one Wild symbol"
                 ],
-                "meta_title": "Play Columbus for Free - Historical Slot Game",
-                "meta_description": "Read a review of the historical slot game Columbus. Play for free and enjoy a Bonus Game with up to ten free spins and a 20,000 coin jackpot."
+                "meta_title": "Play Columbus Slot Free - Historical Theme with Wilds and Bonus Game",
+                "meta_description": "Read our review of Columbus slot game with historical theme, Wilds, and Bonus Game. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Columbus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nColumbus is a 5-reel, 9-payline slot machine with a historical theme. The game features a Wild symbol, Scatter symbol, and Bonus Game. Players can activate the Autoplay function, which allows the game to spin automatically.\n\nSymbols and paylines\n\nThe symbols in the Columbus slot machine include Christopher Columbus, Queen Isabella of Aragon, a gold necklace, a sextant, and the cards from ace to nine. The Scatter symbol is represented by the three caravels: the Nina, the Pinta, and the Santa Maria. The Wild symbol can only be Christopher Columbus. The game has 9 paylines, and players win by aligning 3 or more identical symbols from left to right.\n\nBonus game\n\nThe Columbus slot machine offers a Bonus Game, which is triggered by aligning the Scatter symbol represented by the three caravels: the Nina, the Pinta, and the Santa Maria. If the ships appear 1, 3, or 5 times in the same spin on the payline, players can win up to ten free spins. During the Bonus Game, the three caravels also represent the Wild symbol, which activates additional free spins.\n\nWinning potential\n\nColumbus has a good winning potential, with a jackpot of 20,000 coins. The game allows players to bet a minimum of €0.18 and a maximum of €45, providing versatility for players with different budgets. The game also offers frequent wins, making it enjoyable and engaging.\n\nGame variants\n\nSimilar games to Columbus include Columbus Deluxe, which is a more modern and engaging version of the game on the same theme. Another game in the same theme is Age of Discovery, in which the protagonists are the first explorers who set sail from the Old Continent to discover new lands.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Columbus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nColumbus is a 5-reel, 9-payline slot machine with a historical theme. The game features a Wild symbol, Scatter symbol, and Bonus Game. Players can activate the Autoplay function, which allows the game to spin automatically.\n\nSymbols and paylines\n\nThe symbols in the Columbus slot machine include Christopher Columbus, Queen Isabella of Aragon, a gold necklace, a sextant, and the cards from ace to nine. The Scatter symbol is represented by the three caravels: the Nina, the Pinta, and the Santa Maria. The Wild symbol can only be Christopher Columbus. The game has 9 paylines, and players win by aligning 3 or more identical symbols from left to right.\n\nBonus game\n\nThe Columbus slot machine offers a Bonus Game, which is triggered by aligning the Scatter symbol represented by the three caravels: the Nina, the Pinta, and the Santa Maria. If the ships appear 1, 3, or 5 times in the same spin on the payline, players can win up to ten free spins. During the Bonus Game, the three caravels also represent the Wild symbol, which activates additional free spins.\n\nWinning potential\n\nColumbus has a good winning potential, with a jackpot of 20,000 coins. The game allows players to bet a minimum of €0.18 and a maximum of €45, providing versatility for players with different budgets. The game also offers frequent wins, making it enjoyable and engaging.\n\nGame variants\n\nSimilar games to Columbus include Columbus Deluxe, which is a more modern and engaging version of the game on the same theme. Another game in the same theme is Age of Discovery, in which the protagonists are the first explorers who set sail from the Old Continent to discover new lands.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SwhXS8JR8oZ7B1YNP86eFSPQKNwH",
+                "id": "chatcmpl-7WQTl6rExf5lGXFEkjdfp37qtyQOm",
                 "object": "chat.completion",
-                "created": 1687133187,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 549,
-                    "completion_tokens": 134,
-                    "total_tokens": 683
-                },
+                "created": 1687962637,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Historical theme with engaging symbols\",\n        \"Wild symbol and Scatter symbol increase winning potential\",\n        \"Bonus Game offers up to ten free spins\",\n        \"Versatile betting options for different budgets\"\n    ],\n    \"cons\": [\n        \"Only 9 paylines may limit gameplay\",\n        \"Graphics and sound effects could be improved\"\n    ],\n    \"meta_title\": \"Play Columbus for Free - Historical Slot Game\",\n    \"meta_description\": \"Read a review of the historical slot game Columbus. Play for free and enjoy a Bonus Game with up to ten free spins and a 20,000 coin jackpot.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Historical theme\",\n    \"Wild symbol, Scatter symbol, and Bonus Game\",\n    \"Autoplay function\",\n    \"Good winning potential\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Only one Wild symbol\"\n  ],\n  \"meta_title\": \"Play Columbus Slot Free - Historical Theme with Wilds and Bonus Game\",\n  \"meta_description\": \"Read our review of Columbus slot game with historical theme, Wilds, and Bonus Game. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 546,
+                    "completion_tokens": 111,
+                    "total_tokens": 657
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "raw_feature_images": [
         "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_1.png",
         "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_2.png",
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_3.png",
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_4.png"
+        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_4.png",
+        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Columbus (Version 4).webp",
-        "game_reviews/processed_images/Columbus (Version 3).webp",
         "game_reviews/processed_images/Columbus (Version 2).webp",
-        "game_reviews/processed_images/Columbus (Version 1).webp"
+        "game_reviews/processed_images/Columbus (Version 1).webp",
+        "game_reviews/processed_images/Columbus (Version 3).webp",
+        "game_reviews/processed_images/Columbus (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/columbus.json"
+    "filename": "game_reviews/translations/columbus.json",
+    "slug": "columbus",
+    "name": "Columbus",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Columbus-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Columbus Slot Free - Historical Theme with Wilds and Bonus Game' ### Meta set: 'Read our review of Columbus slot game with historical theme, Wilds, and Bonus Game. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

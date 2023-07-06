@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Innovative take on the Egyptian theme",
                     "Impressive graphics and detailed symbols",
-                    "Innovative Egyptian-themed game set at the bottom of the Nile",
                     "High volatility for big wins",
                     "Bonus play with golden statue and Cleopatra symbols"
                 ],
                 "cons": [
-                    "Less frequent wins due to high volatility",
-                    "Not suitable for players who prefer low-volatility games"
+                    "Less frequent wins on average",
+                    "Limited variety of special symbols"
                 ],
-                "meta_title": "Play Fish Eye for Free: Review of Pragmatic Play's Unique Slot",
-                "meta_description": "Discover Fish Eye by Pragmatic Play, an innovative Ancient Egypt-themed slot set at the bottom of the Nile. Play for free and read our review."
+                "meta_title": "Play Fish Eye - Free Egypt-Based Slot Game",
+                "meta_description": "Read our review of Fish Eye, a unique Egypt-based slot game to play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fish Eye\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFish Eye: A Unique Egypt-Based Slot Game\n\nFish Eye is a new Pragmatic Play slot game set at the bottom of the Nile. Unlike most other Ancient Egypt-themed slot games, Fish Eye offers a captivating and innovative take on the popular theme. The game grid is placed at water level, with a few floating vases on the surface. The graphics are impressive, and the symbols are adorned with numerous details that make the game a little gem.\n\nSpecial Symbols and Multipliers\n\nFish Eye has nine base symbols and two special symbols. The royals, from 10 to Ace, are the symbols of lesser value, while more profitable symbols include the eye, cat, bird, and beetle. The golden fish is a special symbol, and depending on the number of these symbols in a single spin, a multiplier is obtained. For instance, 4 fish give a 1x multiplier, 7 fish 10x, and 15 fish a whopping 2,000x! The Eye of Ra with the pyramid in the background is the Scatter symbol that gives out 10-20 Free Spins, depending on its frequency.\n\nEgyptian Theme at the Bottom of the Nile\n\nFish Eye offers an innovative take on the Egyptian theme by developing the game at the bottom of the Nile. The graphics are breathtaking, and the symbols are adorned with numerous details that make the game a little gem. The game grid is located below the water level, with a few vases floating on the surface.\n\nHigh Volatility for Big Wins\n\nFish Eye has high volatility, meaning that players win less often on average, but when it happens, the figures are always substantial. The maximum win is 10,000x the bet, and all wins that develop from the leftmost reel and proceed towards the right are considered winners. Fish Eye offers players an excellent opportunity to win big, even if it happens less often than low-volatility games. \n\nBonus Play with Golden Statue and Cleopatra Symbols\n\nDuring Bonus play in Fish Eye, two symbols will appear on the screen: the golden statue of the pharaoh and Cleopatra. The pharaoh is the Collection symbol, and its function is to collect fish symbols. If 4 appear, they give an additional 10 Free Spins. Cleopatra, on the other hand, is a Removal symbol because it removes low-value symbols from the current game and overall bonus game. With two Removal symbols, three additional free spins are obtained.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fish Eye\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFish Eye: A Unique Egypt-Based Slot Game\n\nFish Eye is a new Pragmatic Play slot game set at the bottom of the Nile. Unlike most other Ancient Egypt-themed slot games, Fish Eye offers a captivating and innovative take on the popular theme. The game grid is placed at water level, with a few floating vases on the surface. The graphics are impressive, and the symbols are adorned with numerous details that make the game a little gem.\n\nSpecial Symbols and Multipliers\n\nFish Eye has nine base symbols and two special symbols. The royals, from 10 to Ace, are the symbols of lesser value, while more profitable symbols include the eye, cat, bird, and beetle. The golden fish is a special symbol, and depending on the number of these symbols in a single spin, a multiplier is obtained. For instance, 4 fish give a 1x multiplier, 7 fish 10x, and 15 fish a whopping 2,000x! The Eye of Ra with the pyramid in the background is the Scatter symbol that gives out 10-20 Free Spins, depending on its frequency.\n\nEgyptian Theme at the Bottom of the Nile\n\nFish Eye offers an innovative take on the Egyptian theme by developing the game at the bottom of the Nile. The graphics are breathtaking, and the symbols are adorned with numerous details that make the game a little gem. The game grid is located below the water level, with a few vases floating on the surface.\n\nHigh Volatility for Big Wins\n\nFish Eye has high volatility, meaning that players win less often on average, but when it happens, the figures are always substantial. The maximum win is 10,000x the bet, and all wins that develop from the leftmost reel and proceed towards the right are considered winners. Fish Eye offers players an excellent opportunity to win big, even if it happens less often than low-volatility games. \n\nBonus Play with Golden Statue and Cleopatra Symbols\n\nDuring Bonus play in Fish Eye, two symbols will appear on the screen: the golden statue of the pharaoh and Cleopatra. The pharaoh is the Collection symbol, and its function is to collect fish symbols. If 4 appear, they give an additional 10 Free Spins. Cleopatra, on the other hand, is a Removal symbol because it removes low-value symbols from the current game and overall bonus game. With two Removal symbols, three additional free spins are obtained.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QN7kLQgYOlDHWKSy6uYRZgiP2M1g",
+                "id": "chatcmpl-7WSoPbbF3d2tpxBeYCzrHJkhKwvDj",
                 "object": "chat.completion",
-                "created": 1686519772,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 677,
-                    "completion_tokens": 147,
-                    "total_tokens": 824
-                },
+                "created": 1687971605,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and detailed symbols\",\n        \"Innovative Egyptian-themed game set at the bottom of the Nile\",\n        \"High volatility for big wins\",\n        \"Bonus play with golden statue and Cleopatra symbols\"\n    ],\n    \"cons\": [\n        \"Less frequent wins due to high volatility\",\n        \"Not suitable for players who prefer low-volatility games\"\n    ],\n    \"meta_title\": \"Play Fish Eye for Free: Review of Pragmatic Play's Unique Slot\",\n    \"meta_description\": \"Discover Fish Eye by Pragmatic Play, an innovative Ancient Egypt-themed slot set at the bottom of the Nile. Play for free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Innovative take on the Egyptian theme\",\n    \"Impressive graphics and detailed symbols\",\n    \"High volatility for big wins\",\n    \"Bonus play with golden statue and Cleopatra symbols\"\n  ],\n  \"cons\": [\n    \"Less frequent wins on average\",\n    \"Limited variety of special symbols\"\n  ],\n  \"meta_title\": \"Play Fish Eye - Free Egypt-Based Slot Game\",\n  \"meta_description\": \"Read our review of Fish Eye, a unique Egypt-based slot game to play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 674,
+                    "completion_tokens": 114,
+                    "total_tokens": 788
+                }
             }
         },
         {
@@ -821,15 +821,20 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_4.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_2.png",
         "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_3.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_1.png"
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_4.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_1.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_ab938b35-852e-4548-b4a6-853c0b9b2e95_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Fish Eye (Version 4).webp",
+        "game_reviews/processed_images/Fish Eye (Version 3).webp",
         "game_reviews/processed_images/Fish Eye (Version 1).webp",
         "game_reviews/processed_images/Fish Eye (Version 2).webp",
-        "game_reviews/processed_images/Fish Eye (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Fish Eye (Version 4).webp"
+    ],
+    "filename": "game_reviews/translations/fish-eye.json",
+    "slug": "fish-eye",
+    "name": "Fish Eye",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

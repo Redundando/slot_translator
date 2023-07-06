@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Well-crafted graphics and futuristic backdrop",
-                    "Rich multipliers during Free Spin feature",
-                    "Wild symbol has the potential to trigger special functions",
-                    "Autoplay Function for a smooth gaming experience"
+                    "Well-crafted graphics with a futuristic pyramid background",
+                    "Traditional gameplay structure",
+                    "Rich multipliers during free spins",
+                    "Autoplay function and high return to player percentage"
                 ],
                 "cons": [
-                    "Lack of originality",
-                    "Scatter symbol is too difficult to trigger"
+                    "Lack of originality in theme",
+                    "Limited symbol variety"
                 ],
-                "meta_title": "Play Ankh of Anubis Free | Review of Play’N’Go's Online Slot Game",
-                "meta_description": "Discover all about Ankh of Anubis, an online slot game from Play’N’Go, with an Ancient Egypt theme centered on the god Anubis. Play it free and read our review."
+                "meta_title": "Play Ankh of Anubis Free - Online Slot Game Review",
+                "meta_description": "Read our review of Ankh of Anubis, an online slot game with a free play option."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ankh of Anubis\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview and Theme\n\nAnkh of Anubis is an online slot game from Play’N’Go with an Ancient Egypt theme centered on the god Anubis. Despite a lack of originality, the game has well-crafted graphics and a futuristic pyramid background that sets it apart.\n\nSymbol Layout and Design\n\nAnkh of Anubis follows a traditional gameplay structure. The symbols are inspired by ancient Egyptian culture and the playing cards from Jack to Ace. The Ankh symbol serves as the cross of life, while others include a pyramid, a golden scarab, and amulets. The game has three symbols on the outer reels and five on the center ones.\n\nWild and Scatter Symbols\n\nThe Wild symbol is the head of the god Anubis with canine features. It replaces any other symbol except for the Scatter to form winning combinations. When it appears, the Wild can also trigger a special function where it acquires greater value. The Scatter symbol is the key, and three or more of them triggers free spins.\n\nFree Spin and Multiplier Feature\n\nFree spins in Ankh of Anubis come with rich multipliers that can lead to substantial winnings. The Scatter symbol triggers this feature and the number of free spins varies. During the first free spin, additional Scatters cannot appear on the reels. You can win up to 15,000 times your bet during free spins.\n\nAutoplay Function and Return to Player\n\nAnkh of Anubis offers an autoplay function allowing players to set the number of free spins they want. The theoretical return to player is 96.2%, which is in line with most other online slot games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ankh of Anubis\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview and Theme\n\nAnkh of Anubis is an online slot game from Play’N’Go with an Ancient Egypt theme centered on the god Anubis. Despite a lack of originality, the game has well-crafted graphics and a futuristic pyramid background that sets it apart.\n\nSymbol Layout and Design\n\nAnkh of Anubis follows a traditional gameplay structure. The symbols are inspired by ancient Egyptian culture and the playing cards from Jack to Ace. The Ankh symbol serves as the cross of life, while others include a pyramid, a golden scarab, and amulets. The game has three symbols on the outer reels and five on the center ones.\n\nWild and Scatter Symbols\n\nThe Wild symbol is the head of the god Anubis with canine features. It replaces any other symbol except for the Scatter to form winning combinations. When it appears, the Wild can also trigger a special function where it acquires greater value. The Scatter symbol is the key, and three or more of them triggers free spins.\n\nFree Spin and Multiplier Feature\n\nFree spins in Ankh of Anubis come with rich multipliers that can lead to substantial winnings. The Scatter symbol triggers this feature and the number of free spins varies. During the first free spin, additional Scatters cannot appear on the reels. You can win up to 15,000 times your bet during free spins.\n\nAutoplay Function and Return to Player\n\nAnkh of Anubis offers an autoplay function allowing players to set the number of free spins they want. The theoretical return to player is 96.2%, which is in line with most other online slot games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXJwlpdZYgLllqy9cJLsmUdVi7gZ",
+                "id": "chatcmpl-7WNIAGDTl41qhRQT3nUI0PEJe7gvL",
                 "object": "chat.completion",
-                "created": 1687035624,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 514,
-                    "completion_tokens": 155,
-                    "total_tokens": 669
-                },
+                "created": 1687950386,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Well-crafted graphics and futuristic backdrop\",\n        \"Rich multipliers during Free Spin feature\",\n        \"Wild symbol has the potential to trigger special functions\",\n        \"Autoplay Function for a smooth gaming experience\"\n    ],\n    \"cons\": [\n        \"Lack of originality\",\n        \"Scatter symbol is too difficult to trigger\"\n    ],\n    \"meta_title\": \"Play Ankh of Anubis Free | Review of Play’N’Go's Online Slot Game\",\n    \"meta_description\": \"Discover all about Ankh of Anubis, an online slot game from Play’N’Go, with an Ancient Egypt theme centered on the god Anubis. Play it free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-crafted graphics with a futuristic pyramid background\",\n    \"Traditional gameplay structure\",\n    \"Rich multipliers during free spins\",\n    \"Autoplay function and high return to player percentage\"\n  ],\n  \"cons\": [\n    \"Lack of originality in theme\",\n    \"Limited symbol variety\"\n  ],\n  \"meta_title\": \"Play Ankh of Anubis Free - Online Slot Game Review\",\n  \"meta_description\": \"Read our review of Ankh of Anubis, an online slot game with a free play option.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 511,
+                    "completion_tokens": 119,
+                    "total_tokens": 630
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/ankh-of-anubis.json",
     "raw_feature_images": [
-        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_1.png",
-        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_2.png",
+        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_3.png",
         "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_4.png",
-        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_3.png"
+        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_2.png",
+        "arved__Please_create_a_cartoon_image_for_the_online_slot_game_A_75231e62-4874-4d3c-94f8-537f9481f970_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Ankh Of Anubis (Version 2).webp",
-        "game_reviews/processed_images/Ankh Of Anubis (Version 4).webp",
         "game_reviews/processed_images/Ankh Of Anubis (Version 1).webp",
-        "game_reviews/processed_images/Ankh Of Anubis (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Ankh Of Anubis (Version 3).webp",
+        "game_reviews/processed_images/Ankh Of Anubis (Version 2).webp",
+        "game_reviews/processed_images/Ankh Of Anubis (Version 4).webp"
+    ],
+    "slug": "ankh-of-anubis",
+    "name": "Ankh of Anubis",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ankh of Anubis Free - Online Slot Game Review' ### Meta set: 'Read our review of Ankh of Anubis, an online slot game with a free play option.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

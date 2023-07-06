@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Colorful and appealing graphics",
-                    "Multiple bonus features available",
-                    "Wide range of betting options",
-                    "Scatter and Wild symbols increase chances of winning"
+                    "Colorful and visually appealing graphics",
+                    "Wide range of classic symbols",
+                    "Exciting free spins and bonus rounds",
+                    "Gamble feature adds an extra thrill"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "Lower RTP compared to some other online slots"
+                    "Limited number of paylines",
+                    "Higher RTP percentage in the sequel"
                 ],
-                "meta_title": "Play Magic Target Free: Online Slot Game Review",
-                "meta_description": "Read our review of Magic Target, an online slot game with a colorful retro atmosphere and multiple bonus features. Play it for free and try your luck today!"
+                "meta_title": "Play Magic Target Free - Retro Online Slot Game",
+                "meta_description": "Read our review of Magic Target, a retro online slot game. Play for free and enjoy colorful graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Target\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Graphics\n\nMagic Target is a 5-reel online slot that features traditional cartoon-like symbols for a retro atmosphere. The graphics are colorful, with golden stars floating above the warm red background, making Magic Target visually appealing.\n\nPaylines and Symbols\n\nMagic Target features 20 fixed paylines with classic symbols like juicy fruits, golden crowns, bells, bombs, sevens, and wilds. All symbols have their own win multiplier, so it's essential to check the paytable before placing bets. There is also a set of extended game symbols in the Magic Target slot machine that will help you significantly increase your winnings.\n\nScatter and Wild Symbols\n\nThe Scatter Symbol in Magic Target is represented by the bomb symbol. If you land at least three Scatters on the reels from left to right, starting from the leftmost reel, you will trigger 10 free spins, during which cannon symbols that act as multipliers can land on the middle reel to double your win. The Wild Symbol is represented by the Joker icon in a colorful hat and replaces all symbols except for the Scatter and Multiplier to increase your chances of winning big.\n\nFree Spins and Bonus Rounds\n\nMagic Target offers fantastic bonuses to help you win more. If you collect at least three Scatters anywhere on the reels, you will trigger a free spins round, during which you can also trigger cannon symbols that act as multipliers on the middle reel to double your win! Additionally, there is a bonus round where 10 free spins are triggered when 3 or more Scatter Bombs appear. During this feature, scatter cannon shots may appear, thereby multiplying the current round's winnings.\n\nGamble Feature\n\nAfter every winning round in Magic Target, bettors have the option to gamble and in this way increase their earnings a few times. They will be given the chance to choose between red or black card. Choosing the right one will double their win, while choosing the wrong color will make them lose everything they won during that round. Additionally, there is an option to collect half the winnings from the current round.\n\nJackpot and Sequel\n\nTo receive the jackpot in Magic Target, you need to collect a line of 5 Jokers, playing at the highest possible odds. If you enjoyed Magic Target, you may want to try out the sequel, Magic Target Deluxe, which maintains the same catchy graphics but offers new features and a higher RTP percentage!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Target\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Graphics\n\nMagic Target is a 5-reel online slot that features traditional cartoon-like symbols for a retro atmosphere. The graphics are colorful, with golden stars floating above the warm red background, making Magic Target visually appealing.\n\nPaylines and Symbols\n\nMagic Target features 20 fixed paylines with classic symbols like juicy fruits, golden crowns, bells, bombs, sevens, and wilds. All symbols have their own win multiplier, so it's essential to check the paytable before placing bets. There is also a set of extended game symbols in the Magic Target slot machine that will help you significantly increase your winnings.\n\nScatter and Wild Symbols\n\nThe Scatter Symbol in Magic Target is represented by the bomb symbol. If you land at least three Scatters on the reels from left to right, starting from the leftmost reel, you will trigger 10 free spins, during which cannon symbols that act as multipliers can land on the middle reel to double your win. The Wild Symbol is represented by the Joker icon in a colorful hat and replaces all symbols except for the Scatter and Multiplier to increase your chances of winning big.\n\nFree Spins and Bonus Rounds\n\nMagic Target offers fantastic bonuses to help you win more. If you collect at least three Scatters anywhere on the reels, you will trigger a free spins round, during which you can also trigger cannon symbols that act as multipliers on the middle reel to double your win! Additionally, there is a bonus round where 10 free spins are triggered when 3 or more Scatter Bombs appear. During this feature, scatter cannon shots may appear, thereby multiplying the current round's winnings.\n\nGamble Feature\n\nAfter every winning round in Magic Target, bettors have the option to gamble and in this way increase their earnings a few times. They will be given the chance to choose between red or black card. Choosing the right one will double their win, while choosing the wrong color will make them lose everything they won during that round. Additionally, there is an option to collect half the winnings from the current round.\n\nJackpot and Sequel\n\nTo receive the jackpot in Magic Target, you need to collect a line of 5 Jokers, playing at the highest possible odds. If you enjoyed Magic Target, you may want to try out the sequel, Magic Target Deluxe, which maintains the same catchy graphics but offers new features and a higher RTP percentage!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5CssjglNGENt8hKupFNUDs1vfsG",
+                "id": "chatcmpl-7WX7MFaLu2KcmQdMACHJfdSWLr5Kh",
                 "object": "chat.completion",
-                "created": 1687404210,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988156,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Colorful and appealing graphics\",\n        \"Multiple bonus features available\",\n        \"Wide range of betting options\",\n        \"Scatter and Wild symbols increase chances of winning\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"Lower RTP compared to some other online slots\"\n    ],\n    \"meta_title\": \"Play Magic Target Free: Online Slot Game Review\",\n    \"meta_description\": \"Read our review of Magic Target, an online slot game with a colorful retro atmosphere and multiple bonus features. Play it for free and try your luck today!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Colorful and visually appealing graphics\",\n    \"Wide range of classic symbols\",\n    \"Exciting free spins and bonus rounds\",\n    \"Gamble feature adds an extra thrill\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Higher RTP percentage in the sequel\"\n  ],\n  \"meta_title\": \"Play Magic Target Free - Retro Online Slot Game\",\n  \"meta_description\": \"Read our review of Magic Target, a retro online slot game. Play for free and enjoy colorful graphics.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 663,
-                    "completion_tokens": 123,
-                    "total_tokens": 786
+                    "prompt_tokens": 660,
+                    "completion_tokens": 114,
+                    "total_tokens": 774
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-target.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_game_Magic_Target_that_sh_4287ac7b-b5ca-4422-9542-1910ede53e6d_3.png",
+        "arved__Create_a_feature_image_for_the_game_Magic_Target_that_sh_4287ac7b-b5ca-4422-9542-1910ede53e6d_1.png",
+        "arved__Create_a_feature_image_for_the_game_Magic_Target_that_sh_4287ac7b-b5ca-4422-9542-1910ede53e6d_4.png",
+        "arved__Create_a_feature_image_for_the_game_Magic_Target_that_sh_4287ac7b-b5ca-4422-9542-1910ede53e6d_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Target (Version 2).webp",
+        "game_reviews/processed_images/Magic Target (Version 3).webp",
+        "game_reviews/processed_images/Magic Target (Version 1).webp",
+        "game_reviews/processed_images/Magic Target (Version 4).webp"
+    ],
+    "slug": "magic-target",
+    "name": "Magic Target",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Target-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Target Free - Retro Online Slot Game' ### Meta set: 'Read our review of Magic Target, a retro online slot game. Play for free and enjoy colorful graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

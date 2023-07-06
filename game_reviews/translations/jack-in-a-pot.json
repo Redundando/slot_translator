@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique gameplay mechanics and features.",
-                    "Visually stunning graphics and animations.",
-                    "Medium volatility with potential for significant payouts.",
-                    "Themed around Irish folklore and mythology."
+                    "Unique gameplay mechanics",
+                    "Visually stunning graphics",
+                    "Medium volatility with potential for big wins",
+                    "Irish-themed with fun symbols and animations"
                 ],
                 "cons": [
-                    "Low RTP compared to other slot games.",
-                    "May not appeal to players who prefer traditional spinning reels."
+                    "Low theoretical return to player (RTP)",
+                    "No spinning reels for traditional slot game enthusiasts"
                 ],
-                "meta_title": "Play Jack in a Pot for Free - Unique Irish-themed Slot Game",
-                "meta_description": "Discover the unique gameplay mechanics and visually stunning graphics of Jack in a Pot, an Irish-themed slot game. Play for free and win big!"
+                "meta_title": "Play Jack in a Pot for Free - Unique Features & Stunning Graphics",
+                "meta_description": "Read our review of Jack in a Pot and play for free! Enjoy unique gameplay mechanics and visually stunning graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jack in a Pot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and unique features\n\nJack in a Pot is a slot game that stands out for its gameplay mechanics and unique features. The game grid consists of 7×7 rows, and the reels do not spin but use a cascading system to generate symbol clusters. To win, players need to make clusters of at least five identical symbols in adjacent positions, both horizontally and vertically.\n\nGraphics and visual appeal\n\nRed Tiger Gaming has done an excellent job of designing a visually stunning game screen for Jack in a Pot. The game is set on a green hill surrounded by shamrocks, with a golden cauldron atop it, and the colors are vivid and attractive. The game is further enhanced by animations that are fun and entertaining, making the overall gaming experience engaging.\n\nBetting range and RTP\n\nPlayers can bet from 0.20 up to 100 credits on Jack in a Pot, and the highest potential win is 1,743 times the bet. However, one aspect that may not be appealing to players is the theoretical return to player (RTP), which stands at an unusually low 95.17%, well below the average.\n\nVolatility and payout potential\n\nJack in a Pot is a medium volatility slot game, which means that players can expect both small frequent wins and larger prizes that require patience to achieve. The highest potential win is 1,743 times the bet, which can be a significant payout for players.\n\nTheme and symbols\n\nThe game's theme is inspired by Irish folklore and mythology, represented by the character of Jack, a Leprechaun who makes shoes for fairies. The symbols on the grid include Jack's shoes, horseshoes, green bow ties, and the golden shamrock, among others. Jack's top hat is the game Wild symbol. Players can also trigger the Free Spins feature that gives them access to further bonuses and potential for winning.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jack in a Pot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and unique features\n\nJack in a Pot is a slot game that stands out for its gameplay mechanics and unique features. The game grid consists of 7×7 rows, and the reels do not spin but use a cascading system to generate symbol clusters. To win, players need to make clusters of at least five identical symbols in adjacent positions, both horizontally and vertically.\n\nGraphics and visual appeal\n\nRed Tiger Gaming has done an excellent job of designing a visually stunning game screen for Jack in a Pot. The game is set on a green hill surrounded by shamrocks, with a golden cauldron atop it, and the colors are vivid and attractive. The game is further enhanced by animations that are fun and entertaining, making the overall gaming experience engaging.\n\nBetting range and RTP\n\nPlayers can bet from 0.20 up to 100 credits on Jack in a Pot, and the highest potential win is 1,743 times the bet. However, one aspect that may not be appealing to players is the theoretical return to player (RTP), which stands at an unusually low 95.17%, well below the average.\n\nVolatility and payout potential\n\nJack in a Pot is a medium volatility slot game, which means that players can expect both small frequent wins and larger prizes that require patience to achieve. The highest potential win is 1,743 times the bet, which can be a significant payout for players.\n\nTheme and symbols\n\nThe game's theme is inspired by Irish folklore and mythology, represented by the character of Jack, a Leprechaun who makes shoes for fairies. The symbols on the grid include Jack's shoes, horseshoes, green bow ties, and the golden shamrock, among others. Jack's top hat is the game Wild symbol. Players can also trigger the Free Spins feature that gives them access to further bonuses and potential for winning.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TuIEElC8v5uyIsll0pCx9TflIKdc",
+                "id": "chatcmpl-7WVMWUiHuHKR8PQWJuVWoeaRhTnN2",
                 "object": "chat.completion",
-                "created": 1687362258,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981408,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gameplay mechanics and features.\",\n        \"Visually stunning graphics and animations.\",\n        \"Medium volatility with potential for significant payouts.\",\n        \"Themed around Irish folklore and mythology.\"\n    ],\n    \"cons\": [\n        \"Low RTP compared to other slot games.\",\n        \"May not appeal to players who prefer traditional spinning reels.\"\n    ],\n    \"meta_title\": \"Play Jack in a Pot for Free - Unique Irish-themed Slot Game\",\n    \"meta_description\": \"Discover the unique gameplay mechanics and visually stunning graphics of Jack in a Pot, an Irish-themed slot game. Play for free and win big!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics\",\n    \"Visually stunning graphics\",\n    \"Medium volatility with potential for big wins\",\n    \"Irish-themed with fun symbols and animations\"\n  ],\n  \"cons\": [\n    \"Low theoretical return to player (RTP)\",\n    \"No spinning reels for traditional slot game enthusiasts\"\n  ],\n  \"meta_title\": \"Play Jack in a Pot for Free - Unique Features & Stunning Graphics\",\n  \"meta_description\": \"Read our review of Jack in a Pot and play for free! Enjoy unique gameplay mechanics and visually stunning graphics.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 562,
-                    "completion_tokens": 132,
-                    "total_tokens": 694
+                    "prompt_tokens": 559,
+                    "completion_tokens": 122,
+                    "total_tokens": 681
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jack-in-a-pot.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_fun_and_engaging_feature_image_a2ad6d3f-c0b9-4f29-9d27-2e6d52cdb1bc_1.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_engaging_feature_image_a2ad6d3f-c0b9-4f29-9d27-2e6d52cdb1bc_3.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_engaging_feature_image_a2ad6d3f-c0b9-4f29-9d27-2e6d52cdb1bc_2.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_engaging_feature_image_a2ad6d3f-c0b9-4f29-9d27-2e6d52cdb1bc_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jack In A Pot (Version 2).webp",
+        "game_reviews/processed_images/Jack In A Pot (Version 4).webp",
+        "game_reviews/processed_images/Jack In A Pot (Version 1).webp",
+        "game_reviews/processed_images/Jack In A Pot (Version 3).webp"
+    ],
+    "slug": "jack-in-a-pot",
+    "name": "Jack in a Pot",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Guard-Jackpot-Dash-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jack in a Pot for Free - Unique Features & Stunning Graphics' ### Meta set: 'Read our review of Jack in a Pot and play for free! Enjoy unique gameplay mechanics and visually stunning graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

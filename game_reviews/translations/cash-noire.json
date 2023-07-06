@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Easy and intuitive gameplay",
-                    "Impressive graphics and immersive theme",
-                    "Various engaging features",
-                    "1,024 ways to win"
+                    "Impressive graphics with a dark and moody theme",
+                    "Frequent payouts with low volatility",
+                    "Engaging features and thematic symbols"
                 ],
                 "cons": [
-                    "Low volatility game, not suitable for high rollers",
-                    "Limited maximum win amount"
+                    "Not suitable for players seeking high winnings",
+                    "Limited paylines"
                 ],
-                "meta_title": "Play Cash Noire for Free – Slot Game Review",
-                "meta_description": "Read our review of Cash Noire, the crime fiction-themed slot game. Play for free and experience the immersive gameplay and engaging features."
+                "meta_title": "Play Cash Noire for Free",
+                "meta_description": "Read our review of Cash Noire and play for free. Explore the dark world of crime fiction."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Noire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCash Noire has an easy and intuitive gameplay that is perfect for both experienced and new players. It has low volatility which guarantees frequent wins, albeit not too high. The game's structure is quite traditional with five reels, four rows, and 1,024 paylines.\n\nGraphics\n\nThe graphics of Cash Noire are one of its highlights. It features a dark and moody theme inspired by the world of crime fiction. The imagery is well-crafted, realistic, and sharp, immersing the players in a seedy Los Angeles environment. The urban scenes are illuminated by neon lights, creating an eerie atmosphere that is suggestive and immersive. The symbols and the game screen feature dark colors that convey the game's theme perfectly.\n\nPayouts\n\nThe highest possible win in Cash Noire is 5,000 times the bet, and the return to player (RTP) is 96.06%. The low volatility of the game ensures that the player gets frequent payouts, although not high. It is a game suitable for those looking for a casual and relaxing spinning experience rather than winning a substantial sum of money.\n\nFeatures\n\nCash Noire has various functionalities making it an engaging and exciting game. The game system called 'Avalanche' sweeps away the symbols that formed a winning combination and replaces them with a cascade of other icons. The free spins feature gives out free spins, while the Mystery Symbols feature increases the player's chances of winning. The game has a thread that links the various features together in a common plot, and the symbols are entirely thematic.\n\nPaylines\n\nCash Noire has 1,024 ways to win, the paylines of the game. It means that winning combinations can appear anywhere on adjacent reels, rather than on specific lines. It adds to the game's overall simplicity and easy-to-understand gameplay. The symbols such as the detective, two women, the gangster, gun and bullets, a box of matches, and a magnifying glass all play a part in forming winning combinations and adding to the game's overall thematic experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Noire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCash Noire has an easy and intuitive gameplay that is perfect for both experienced and new players. It has low volatility which guarantees frequent wins, albeit not too high. The game's structure is quite traditional with five reels, four rows, and 1,024 paylines.\n\nGraphics\n\nThe graphics of Cash Noire are one of its highlights. It features a dark and moody theme inspired by the world of crime fiction. The imagery is well-crafted, realistic, and sharp, immersing the players in a seedy Los Angeles environment. The urban scenes are illuminated by neon lights, creating an eerie atmosphere that is suggestive and immersive. The symbols and the game screen feature dark colors that convey the game's theme perfectly.\n\nPayouts\n\nThe highest possible win in Cash Noire is 5,000 times the bet, and the return to player (RTP) is 96.06%. The low volatility of the game ensures that the player gets frequent payouts, although not high. It is a game suitable for those looking for a casual and relaxing spinning experience rather than winning a substantial sum of money.\n\nFeatures\n\nCash Noire has various functionalities making it an engaging and exciting game. The game system called 'Avalanche' sweeps away the symbols that formed a winning combination and replaces them with a cascade of other icons. The free spins feature gives out free spins, while the Mystery Symbols feature increases the player's chances of winning. The game has a thread that links the various features together in a common plot, and the symbols are entirely thematic.\n\nPaylines\n\nCash Noire has 1,024 ways to win, the paylines of the game. It means that winning combinations can appear anywhere on adjacent reels, rather than on specific lines. It adds to the game's overall simplicity and easy-to-understand gameplay. The symbols such as the detective, two women, the gangster, gun and bullets, a box of matches, and a magnifying glass all play a part in forming winning combinations and adding to the game's overall thematic experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sr9jbJRK7vXjR6sZIMbvGbVaAxkn",
+                "id": "chatcmpl-7WPpWPMcIz1nIce0XGSplGI7qH8RZ",
                 "object": "chat.completion",
-                "created": 1687111871,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 596,
-                    "completion_tokens": 118,
-                    "total_tokens": 714
-                },
+                "created": 1687960142,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Easy and intuitive gameplay\",\n        \"Impressive graphics and immersive theme\",\n        \"Various engaging features\",\n        \"1,024 ways to win\"\n    ],\n    \"cons\": [\n        \"Low volatility game, not suitable for high rollers\",\n        \"Limited maximum win amount\"\n    ],\n    \"meta_title\": \"Play Cash Noire for Free – Slot Game Review\",\n    \"meta_description\": \"Read our review of Cash Noire, the crime fiction-themed slot game. Play for free and experience the immersive gameplay and engaging features.\" \n}"
+                            "content": "{\n  \"pros\": [\"Easy and intuitive gameplay\", \"Impressive graphics with a dark and moody theme\", \"Frequent payouts with low volatility\", \"Engaging features and thematic symbols\"],\n  \"cons\": [\"Not suitable for players seeking high winnings\", \"Limited paylines\"],\n  \"meta_title\": \"Play Cash Noire for Free\",\n  \"meta_description\": \"Read our review of Cash Noire and play for free. Explore the dark world of crime fiction.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 593,
+                    "completion_tokens": 99,
+                    "total_tokens": 692
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "raw_feature_images": [
         "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_4.png",
         "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_1.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_2.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_3.png"
+        "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_3.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Cash_Noire_that_0f349162-e3a6-4a14-a819-013d778b2b0f_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cash Noire (Version 3).webp",
         "game_reviews/processed_images/Cash Noire (Version 1).webp",
         "game_reviews/processed_images/Cash Noire (Version 2).webp",
+        "game_reviews/processed_images/Cash Noire (Version 3).webp",
         "game_reviews/processed_images/Cash Noire (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/cash-noire.json"
+    "filename": "game_reviews/translations/cash-noire.json",
+    "slug": "cash-noire",
+    "name": "Cash Noire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Noire-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Noire for Free' ### Meta set: 'Read our review of Cash Noire and play for free. Explore the dark world of crime fiction.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

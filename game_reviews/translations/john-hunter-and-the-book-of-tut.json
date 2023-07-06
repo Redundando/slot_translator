@@ -655,38 +655,38 @@
             "response": {
                 "pros": [
                     "High-definition graphics and animations",
-                    "Autoplay feature to up to 100 autospins",
-                    "Inspired by Indiana Jones movie series",
-                    "Available on mobile, tablet, and desktop devices"
+                    "Impressive maximum payout potential of 5000x",
+                    "High RTP of 96.50%",
+                    "Compatible with Windows, iOS, and Android platforms"
                 ],
                 "cons": [
-                    "Only 10 paylines",
-                    "May not appeal to players who don't like Ancient Egypt-themed slots"
+                    "Limited number of paylines (10)",
+                    "Autoplay feature only allows up to 100 autospins"
                 ],
-                "meta_title": "Play John Hunter and the Book of Tut Free Slot",
-                "meta_description": "Read our review of John Hunter and the Book of Tut slot game. Play for free on mobile, tablet, and desktop devices with high-definition graphics."
+                "meta_title": "Play John Hunter and the Book of Tut for Free",
+                "meta_description": "Read our review of John Hunter and the Book of Tut and play it for free on any device."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"John Hunter and the Book of Tut\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nThe John Hunter and the Book of Tut slot game has 5 reels and 10 paylines. There is an Autoplay feature to play up to 100 autospins. The game has high variance, an RTP of 96.50%, and a maximum payout potential of 5000x.\n\nGraphics and Animations\n\nThe game has high-definition graphics and animations, with Egyptian icons and golden symbols that give it a convincing quality. The visuals are much better than the typical Ancient Egypt-themed slot games.\n\nTheme and Storyline\n\nThe game revolves around the character of John Hunter, who is searching for lost treasures of the Pharaohs in the desert. The game's plot is inspired by the Indiana Jones movie series, giving players a sense of adventure and excitement.\n\nRTP and Payout Potential\n\nThe game's theoretical return to player (RTP) is 96.50%, which is high for an online slot game. The game's maximum payout potential is 5000x, which is also impressive.\n\nCompatibility and Accessibility\n\nThe game is available on mobile, tablet, and desktop devices. It has been developed with HTML5 technology, making it compatible with Windows, iOS, and Android platforms. Players can enjoy the game without any registration requirement.\n\nNumber of Paylines and Reels\n\nThe John Hunter and the Book of Tut slot game has 5 reels and 10 paylines. Players can win with combinations of 3 or more matching symbols on any of the paylines. The game has 4 highest paying symbols that require only 2 or more symbols to get a payout.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"John Hunter and the Book of Tut\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nThe John Hunter and the Book of Tut slot game has 5 reels and 10 paylines. There is an Autoplay feature to play up to 100 autospins. The game has high variance, an RTP of 96.50%, and a maximum payout potential of 5000x.\n\nGraphics and Animations\n\nThe game has high-definition graphics and animations, with Egyptian icons and golden symbols that give it a convincing quality. The visuals are much better than the typical Ancient Egypt-themed slot games.\n\nTheme and Storyline\n\nThe game revolves around the character of John Hunter, who is searching for lost treasures of the Pharaohs in the desert. The game's plot is inspired by the Indiana Jones movie series, giving players a sense of adventure and excitement.\n\nRTP and Payout Potential\n\nThe game's theoretical return to player (RTP) is 96.50%, which is high for an online slot game. The game's maximum payout potential is 5000x, which is also impressive.\n\nCompatibility and Accessibility\n\nThe game is available on mobile, tablet, and desktop devices. It has been developed with HTML5 technology, making it compatible with Windows, iOS, and Android platforms. Players can enjoy the game without any registration requirement.\n\nNumber of Paylines and Reels\n\nThe John Hunter and the Book of Tut slot game has 5 reels and 10 paylines. Players can win with combinations of 3 or more matching symbols on any of the paylines. The game has 4 highest paying symbols that require only 2 or more symbols to get a payout.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tvc9Cnk70hmJxXtwh6n7UxazQ2pY",
+                "id": "chatcmpl-7WVYFwlZTe5rLZMdJLTyEK0eBmEXv",
                 "object": "chat.completion",
-                "created": 1687367337,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982135,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"High-definition graphics and animations\",\n    \"Autoplay feature to up to 100 autospins\",\n    \"Inspired by Indiana Jones movie series\",\n    \"Available on mobile, tablet, and desktop devices\"\n  ],\n  \"cons\": [\n    \"Only 10 paylines\",\n    \"May not appeal to players who don't like Ancient Egypt-themed slots\"\n  ],\n  \"meta_title\": \"Play John Hunter and the Book of Tut Free Slot\",\n  \"meta_description\": \"Read our review of John Hunter and the Book of Tut slot game. Play for free on mobile, tablet, and desktop devices with high-definition graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-definition graphics and animations\",\n    \"Impressive maximum payout potential of 5000x\",\n    \"High RTP of 96.50%\",\n    \"Compatible with Windows, iOS, and Android platforms\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (10)\",\n    \"Autoplay feature only allows up to 100 autospins\"\n  ],\n  \"meta_title\": \"Play John Hunter and the Book of Tut for Free\",\n  \"meta_description\": \"Read our review of John Hunter and the Book of Tut and play it for free on any device.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 508,
-                    "completion_tokens": 139,
-                    "total_tokens": 647
+                    "prompt_tokens": 505,
+                    "completion_tokens": 128,
+                    "total_tokens": 633
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/john-hunter-and-the-book-of-tut.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_John_Hunter_and__bffc9a0a-beec-404b-9283-11cb5e18290a_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_John_Hunter_and__bffc9a0a-beec-404b-9283-11cb5e18290a_2.png",
+        "arved__Create_a_feature_image_fitting_the_game_John_Hunter_and__bffc9a0a-beec-404b-9283-11cb5e18290a_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_John_Hunter_and__bffc9a0a-beec-404b-9283-11cb5e18290a_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/John Hunter And The Book Of Tut (Version 1).webp",
+        "game_reviews/processed_images/John Hunter And The Book Of Tut (Version 2).webp",
+        "game_reviews/processed_images/John Hunter And The Book Of Tut (Version 4).webp",
+        "game_reviews/processed_images/John Hunter And The Book Of Tut (Version 3).webp"
+    ],
+    "slug": "john-hunter-and-the-book-of-tut",
+    "name": "John Hunter and the Book of Tut",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/John-Hunter-And-The-Book-Of-Tut-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play John Hunter and the Book of Tut for Free' ### Meta set: 'Read our review of John Hunter and the Book of Tut and play it for free on any device.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

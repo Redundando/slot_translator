@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Relaxing and atmospheric sound design",
-                    "Wild symbol that substitutes for normal symbols",
-                    "Free spins mode with up to three game grids",
-                    "40 win lines and a high RTP of 96.35%"
+                    "40 win lines and high RTP of 96.35%",
+                    "Wild symbol increases chances of winning",
+                    "Free spins mode with multiple game grids",
+                    "Relaxing graphics and sound design"
                 ],
                 "cons": [
-                    "Limited variety in symbols",
-                    "Free spins mode can be difficult to trigger"
+                    "Limited variety of bonus symbols",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Butterfly Staxx 2 Free - Relaxing Slot Review | NetEnt",
-                "meta_description": "Read our review of the slot Butterfly Staxx 2 by NetEnt. Play for free with 40 win lines, a high RTP of 96.35%, and a relaxing atmospheric sound design."
+                "meta_title": "Play Butterfly Staxx 2 - Free Review",
+                "meta_description": "Discover the features, gameplay, and pros and cons of Butterfly Staxx 2 in this free review."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Butterfly Staxx 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nNetEnt's Butterfly Staxx 2 uses a 5x4 game grid with 40 win lines and an RTP of 96.35%. The purple orchid is a Wild symbol that substitutes for any other normal symbol, while the golden butterfly grants access to free spins. The free spins mode consists of two additional game grids that increase the chances of winning exponentially.\n\nGraphics and sound design\n\nButterfly Staxx 2 welcomes players with atmospheric music and a relaxing floral theme. The reels feature classic playing card symbols, butterflies, and flowers. The sound of the reels spinning is a gentle tinkling that adapts to the relaxed atmosphere of the slot, making it stand out from other slots that can be overwhelming.\n\nNumber of win lines and RTP\n\nButterfly Staxx 2 has 40 win lines and an estimated RTP of 96.35%, which is slightly higher than the average of most slots. The 5x4 game grid features twenty symbols per round, increasing the number of combinations obtainable.\n\nBonus symbols and free spins\n\nThe purple orchid is the Wild symbol that can replace any other normal symbol to create winning combinations. The golden butterfly symbol grants access to the free spins mode, which consists of up to three game grids. If the two reels to the left of the first grid are covered with golden butterflies, a second grid appears, and if the two reels to the left of the second grid are also covered, a third grid appears. This feature increases the chances of winning exponentially.\n\nSimilar games by NetEnt and Pragmatic Play\n\nNetEnt offers other similar games like Trolls, Evolution, and Fairytale Legends, that share a natural and relaxed style similar to Butterfly Staxx 2. Pragmatic Play has a similarly themed slot called Jade Butterfly, featuring a floral theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Butterfly Staxx 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nNetEnt's Butterfly Staxx 2 uses a 5x4 game grid with 40 win lines and an RTP of 96.35%. The purple orchid is a Wild symbol that substitutes for any other normal symbol, while the golden butterfly grants access to free spins. The free spins mode consists of two additional game grids that increase the chances of winning exponentially.\n\nGraphics and sound design\n\nButterfly Staxx 2 welcomes players with atmospheric music and a relaxing floral theme. The reels feature classic playing card symbols, butterflies, and flowers. The sound of the reels spinning is a gentle tinkling that adapts to the relaxed atmosphere of the slot, making it stand out from other slots that can be overwhelming.\n\nNumber of win lines and RTP\n\nButterfly Staxx 2 has 40 win lines and an estimated RTP of 96.35%, which is slightly higher than the average of most slots. The 5x4 game grid features twenty symbols per round, increasing the number of combinations obtainable.\n\nBonus symbols and free spins\n\nThe purple orchid is the Wild symbol that can replace any other normal symbol to create winning combinations. The golden butterfly symbol grants access to the free spins mode, which consists of up to three game grids. If the two reels to the left of the first grid are covered with golden butterflies, a second grid appears, and if the two reels to the left of the second grid are also covered, a third grid appears. This feature increases the chances of winning exponentially.\n\nSimilar games by NetEnt and Pragmatic Play\n\nNetEnt offers other similar games like Trolls, Evolution, and Fairytale Legends, that share a natural and relaxed style similar to Butterfly Staxx 2. Pragmatic Play has a similarly themed slot called Jade Butterfly, featuring a floral theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sp0Z2gdv7EDMkmtpSur0fXNWfJFU",
+                "id": "chatcmpl-7WPaimfDqHqLiSw7U5JMW2S3l6MQd",
                 "object": "chat.completion",
-                "created": 1687103615,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 559,
-                    "completion_tokens": 153,
-                    "total_tokens": 712
-                },
+                "created": 1687959224,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Relaxing and atmospheric sound design\",\n        \"Wild symbol that substitutes for normal symbols\",\n        \"Free spins mode with up to three game grids\",\n        \"40 win lines and a high RTP of 96.35%\"\n    ],\n    \"cons\": [\n        \"Limited variety in symbols\",\n        \"Free spins mode can be difficult to trigger\"\n    ],\n    \"meta_title\": \"Play Butterfly Staxx 2 Free - Relaxing Slot Review | NetEnt\",\n    \"meta_description\": \"Read our review of the slot Butterfly Staxx 2 by NetEnt. Play for free with 40 win lines, a high RTP of 96.35%, and a relaxing atmospheric sound design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"40 win lines and high RTP of 96.35%\",\n    \"Wild symbol increases chances of winning\",\n    \"Free spins mode with multiple game grids\",\n    \"Relaxing graphics and sound design\"\n  ],\n  \"cons\": [\n    \"Limited variety of bonus symbols\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Butterfly Staxx 2 - Free Review\",\n  \"meta_description\": \"Discover the features, gameplay, and pros and cons of Butterfly Staxx 2 in this free review.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 556,
+                    "completion_tokens": 120,
+                    "total_tokens": 676
+                }
             }
         },
         {
@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_3.png",
         "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_2.png",
-        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_1.png"
+        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Butterfly_Staxx__d534b963-b0ee-4b50-b76a-fed9cd9b44cd_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Butterfly Staxx 2 (Version 4).webp",
+        "game_reviews/processed_images/Butterfly Staxx 2 (Version 1).webp",
         "game_reviews/processed_images/Butterfly Staxx 2 (Version 2).webp",
-        "game_reviews/processed_images/Butterfly Staxx 2 (Version 3).webp",
-        "game_reviews/processed_images/Butterfly Staxx 2 (Version 1).webp"
+        "game_reviews/processed_images/Butterfly Staxx 2 (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/butterfly-staxx-2.json"
+    "filename": "game_reviews/translations/butterfly-staxx-2.json",
+    "slug": "butterfly-staxx-2",
+    "name": "Butterfly Staxx 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Butterfly-Staxx-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Butterfly Staxx 2 - Free Review' ### Meta set: 'Discover the features, gameplay, and pros and cons of Butterfly Staxx 2 in this free review.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

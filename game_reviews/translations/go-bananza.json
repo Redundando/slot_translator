@@ -586,34 +586,33 @@
                     "Availability"
                 ],
                 "cons": [
-                    "Average RTP",
-                    "May be too basic for some players"
+                    "None to mention"
                 ],
-                "meta_title": "Play Go Bananza for Free: Enjoy Simple Gameplay and Unlimited Free Spins",
-                "meta_description": "Get ready to play Go Bananza for free! Enjoy simple gameplay, unlimited free spins, and well-executed graphics on desktop and mobile devices."
+                "meta_title": "Play Go Bananza Free: Exciting Online Slot Game",
+                "meta_description": "A review of Go Bananza, a fun and free online slot game with unlimited Free Spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Go Bananza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSimple and fun gameplay\n\nGo Bananza is a simple online video slot with an easy to understand gameplay. It doesn't involve complicated rules or features, which makes it suitable for both experienced and new players.\n\nWell-crafted graphics\n\nThe graphics of Go Bananza are beautifully drawn and colorful. The monkey theme is well-executed, with the reels set on a tree house that gives it a tropical feel. The symbols light up when you win, which adds to the excitement. The music enhances the overall gaming experience without being distracting.\n\nUnlimited Free Spins\n\nGo Bananza offers a unique Free Spins feature that can be re-triggered indefinitely. You can activate it by landing three Golden Monkey Scatter symbols. This feature increases your chances of winning big without risking your own money.\n\nAvailability\n\nGo Bananza will soon be available on all legal Italian online casinos certified by the Ministry. It can be played on both desktop and mobile devices for your convenience.\n\nReturn to Player (RTP)\n\nThe theoretical Return to Player (RTP) in Go Bananza is 95.5%, which is around the industry average. This means that for every €100 wagered, players can expect to win back €95.50 in the long run.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Go Bananza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSimple and fun gameplay\n\nGo Bananza is a simple online video slot with an easy to understand gameplay. It doesn't involve complicated rules or features, which makes it suitable for both experienced and new players.\n\nWell-crafted graphics\n\nThe graphics of Go Bananza are beautifully drawn and colorful. The monkey theme is well-executed, with the reels set on a tree house that gives it a tropical feel. The symbols light up when you win, which adds to the excitement. The music enhances the overall gaming experience without being distracting.\n\nUnlimited Free Spins\n\nGo Bananza offers a unique Free Spins feature that can be re-triggered indefinitely. You can activate it by landing three Golden Monkey Scatter symbols. This feature increases your chances of winning big without risking your own money.\n\nAvailability\n\nGo Bananza will soon be available on all legal Italian online casinos certified by the Ministry. It can be played on both desktop and mobile devices for your convenience.\n\nReturn to Player (RTP)\n\nThe theoretical Return to Player (RTP) in Go Bananza is 95.5%, which is around the industry average. This means that for every €100 wagered, players can expect to win back €95.50 in the long run.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TPYLnnJ0JJPiBT4Yf5oDTJm1FYi2",
+                "id": "chatcmpl-7WTsZKQWqsfbHUr1GKZBpVpWvOXiL",
                 "object": "chat.completion",
-                "created": 1687244093,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 427,
-                    "completion_tokens": 116,
-                    "total_tokens": 543
-                },
+                "created": 1687975707,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Simple and fun gameplay\",\n    \"Well-crafted graphics\",\n    \"Unlimited Free Spins\",\n    \"Availability\"\n  ],\n  \"cons\": [\n    \"Average RTP\",\n    \"May be too basic for some players\"\n  ],\n  \"meta_title\": \"Play Go Bananza for Free: Enjoy Simple Gameplay and Unlimited Free Spins\",\n  \"meta_description\": \"Get ready to play Go Bananza for free! Enjoy simple gameplay, unlimited free spins, and well-executed graphics on desktop and mobile devices.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and fun gameplay\",\n    \"Well-crafted graphics\",\n    \"Unlimited Free Spins\",\n    \"Availability\"\n  ],\n  \"cons\": [\n    \"None to mention\"\n  ],\n  \"meta_title\": \"Play Go Bananza Free: Exciting Online Slot Game\",\n  \"meta_description\": \"A review of Go Bananza, a fun and free online slot game with unlimited Free Spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 424,
+                    "completion_tokens": 93,
+                    "total_tokens": 517
+                }
             }
         },
         {
@@ -812,5 +811,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/go-bananza.json"
+    "filename": "game_reviews/translations/go-bananza.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_04c3ee40-cbcf-44c0-86b8-1b9475658867_2.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_1ef237fc-78c4-4d8a-bf0e-1ea4b3ce6061_1.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_1ef237fc-78c4-4d8a-bf0e-1ea4b3ce6061_4.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_04c3ee40-cbcf-44c0-86b8-1b9475658867_3.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_1ef237fc-78c4-4d8a-bf0e-1ea4b3ce6061_2.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_04c3ee40-cbcf-44c0-86b8-1b9475658867_4.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_04c3ee40-cbcf-44c0-86b8-1b9475658867_1.png",
+        "arved__Create_a_feature_image_for_Go_Bananza_that_showcases_a_h_1ef237fc-78c4-4d8a-bf0e-1ea4b3ce6061_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Go Bananza (Version 5).webp",
+        "game_reviews/processed_images/Go Bananza (Version 7).webp",
+        "game_reviews/processed_images/Go Bananza (Version 1).webp",
+        "game_reviews/processed_images/Go Bananza (Version 8).webp",
+        "game_reviews/processed_images/Go Bananza (Version 3).webp",
+        "game_reviews/processed_images/Go Bananza (Version 4).webp",
+        "game_reviews/processed_images/Go Bananza (Version 6).webp",
+        "game_reviews/processed_images/Go Bananza (Version 2).webp"
+    ],
+    "slug": "go-bananza",
+    "name": "Go Bananza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Go-Bananza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Go Bananza Free: Exciting Online Slot Game' ### Meta set: 'A review of Go Bananza, a fun and free online slot game with unlimited Free Spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

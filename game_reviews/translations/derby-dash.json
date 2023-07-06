@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting gameplay with nudges, free spins, multipliers, and wilds",
-                    "Stakes range from €0.20 to €200",
-                    "Impressive RTP of 96% and generous no-deposit bonus",
-                    "Impeccable graphics with stunning horse symbols"
+                    "Thrilling gameplay with exciting features",
+                    "Wide range of betting options",
+                    "Impressive RTP and high volatility",
+                    "Impeccable graphics and symbols"
                 ],
                 "cons": [
-                    "Not suitable for players who are not fans of horseracing",
-                    "Only 10 paylines, which may not be enough for some players"
+                    "Limited number of paylines",
+                    "Requires an internet connection"
                 ],
-                "meta_title": "Play Derby Dash Free: Exciting Gameplay & Impressive RTP",
-                "meta_description": "Explore the Derby Dash online slot game with nudges, free spins, multipliers, and wilds. Enjoy impeccable graphics and an RTP of 96%. Play free now!"
+                "meta_title": "Play Derby Dash for Free",
+                "meta_description": "Read our review of Derby Dash, a thrilling online slot game with exciting features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Derby Dash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDerby Dash is a thrilling online slot game with 10 paylines across five reels and four rows. Features include nudges, free spins, multipliers, and wilds. The Nudging Reels feature can be randomly activated, allowing for selected reels to move up to five positions to give players winning combinations.\n\nStakes Range\n\nPlayers can place bets ranging from €0.20 to €200 in Derby Dash, making it ideal for both casual players and high rollers.\n\nReturn to Player (RTP)\n\nDerby Dash has an impressive RTP of 96% and is highly volatile, with a 30% success rate that is augmented by a generous no-deposit bonus upon registering at one of the casinos on our ADM/AAMS list.\n\nGraphics and Symbols\n\nHigh 5 Games' Derby Dash features impeccable graphics with intricate symbols. The classic card suits are replaced by five stunning racehorses that represent lower-value icons. Jockeys and the audience are more rewarding, with the wild symbol being the most valuable as it replaces any other symbol except scatters.\n\nPlayer Experience\n\nDerby Dash offers a thrilling experience for players, especially those who are fans of horseracing. It can be played on mobile devices without registration, making it accessible to anyone. The game offers a lot of exciting features, including nudges, free spins, multipliers, and wilds, that enhance the gameplay experience for both casual and experienced gamblers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Derby Dash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDerby Dash is a thrilling online slot game with 10 paylines across five reels and four rows. Features include nudges, free spins, multipliers, and wilds. The Nudging Reels feature can be randomly activated, allowing for selected reels to move up to five positions to give players winning combinations.\n\nStakes Range\n\nPlayers can place bets ranging from €0.20 to €200 in Derby Dash, making it ideal for both casual players and high rollers.\n\nReturn to Player (RTP)\n\nDerby Dash has an impressive RTP of 96% and is highly volatile, with a 30% success rate that is augmented by a generous no-deposit bonus upon registering at one of the casinos on our ADM/AAMS list.\n\nGraphics and Symbols\n\nHigh 5 Games' Derby Dash features impeccable graphics with intricate symbols. The classic card suits are replaced by five stunning racehorses that represent lower-value icons. Jockeys and the audience are more rewarding, with the wild symbol being the most valuable as it replaces any other symbol except scatters.\n\nPlayer Experience\n\nDerby Dash offers a thrilling experience for players, especially those who are fans of horseracing. It can be played on mobile devices without registration, making it accessible to anyone. The game offers a lot of exciting features, including nudges, free spins, multipliers, and wilds, that enhance the gameplay experience for both casual and experienced gamblers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T2WQXqVzhDGBXFBLYAZXzZJEDNyY",
+                "id": "chatcmpl-7WR8fKNDGruUiSU1DRCUEZWE5J4jE",
                 "object": "chat.completion",
-                "created": 1687155562,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 472,
-                    "completion_tokens": 165,
-                    "total_tokens": 637
-                },
+                "created": 1687965173,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n  \"Exciting gameplay with nudges, free spins, multipliers, and wilds\",\n  \"Stakes range from €0.20 to €200\",\n  \"Impressive RTP of 96% and generous no-deposit bonus\",\n  \"Impeccable graphics with stunning horse symbols\"\n],\n\"cons\": [\n  \"Not suitable for players who are not fans of horseracing\",\n  \"Only 10 paylines, which may not be enough for some players\"\n],\n\"meta_title\": \"Play Derby Dash Free: Exciting Gameplay & Impressive RTP\",\n\"meta_description\": \"Explore the Derby Dash online slot game with nudges, free spins, multipliers, and wilds. Enjoy impeccable graphics and an RTP of 96%. Play free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Thrilling gameplay with exciting features\",\n    \"Wide range of betting options\",\n    \"Impressive RTP and high volatility\",\n    \"Impeccable graphics and symbols\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Requires an internet connection\"\n  ],\n  \"meta_title\": \"Play Derby Dash for Free\",\n  \"meta_description\": \"Read our review of Derby Dash, a thrilling online slot game with exciting features. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 469,
+                    "completion_tokens": 106,
+                    "total_tokens": 575
+                }
             }
         },
         {
@@ -813,10 +813,10 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_3.png",
         "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_4.png",
-        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_1.png",
-        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_2.png"
+        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_3.png",
+        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_2.png",
+        "arved__Create_a_feature_image_for_Derby_Dash_that_features_a_ha_3756bd86-d677-4965-afa2-fff10758af04_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Derby Dash (Version 2).webp",
@@ -824,5 +824,14 @@
         "game_reviews/processed_images/Derby Dash (Version 1).webp",
         "game_reviews/processed_images/Derby Dash (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/derby-dash.json"
+    "filename": "game_reviews/translations/derby-dash.json",
+    "slug": "derby-dash",
+    "name": "Derby Dash",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Derby-Dash-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Derby Dash for Free' ### Meta set: 'Read our review of Derby Dash, a thrilling online slot game with exciting features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and immersive theme",
-                    "Free spins feature with increasing multipliers",
-                    "Medium-volatility for a balanced gameplay",
-                    "Maximum payout potential up to 10,000x your bet"
+                    "Medium-volatility for a balanced gaming experience",
+                    "Visually stunning graphics and immersive theme",
+                    "Potential for higher payouts with specific symbol combinations",
+                    "Exciting free spins feature with increasing multipliers"
                 ],
                 "cons": [
                     "Limited bonus features aside from free spins",
-                    "Higher payouts rely on specific symbol combinations"
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Neptune's Champions Free Slot | Read Review",
-                "meta_description": "Read our review of Neptune's Champions slot game and play for free. Discover the stunning visuals, free spins feature, and 10,000x potential payout."
+                "meta_title": "Play Neptune’s Champions Slot Game Free",
+                "meta_description": "Read our review of Neptune’s Champions slot game and play for free. Discover its features, volatility, and winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Neptune’s Champions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Volatility\n\nNeptune's Champions is a medium-volatility slot game, making it a great option for experienced players looking for a good balance between high and low volatility slot games. The game mechanics are quite simple, with a 5x3 reel grid and 40 active paylines.\n\nVisuals and Theme\n\nThe graphics of Neptune's Champions are visually stunning, immersing you in the mythical and oceanic setting of the game. The game's 5x3 grid is surrounded by none other than Neptune himself, and the accompanying soundtrack adds an extra layer of depth to the game.\n\nPaylines and Symbols\n\nPaylines in Neptune's Champions are set at 40, with symbols ranging from gems to helmets. The true potential for higher payouts lies in combinations of the turtle, seahorse, and dolphin symbols. Winning combinations are also possible with wild symbols appearing on the reels, increasing your chances of winning even more.\n\nBonus Features and Free Spins\n\nThe free spins feature is where Neptune's Champions truly shines. Triggered by landing 3 or more bonus symbols, you can receive up to 20 free spins and an initial 2x multiplier. The free spins feature also includes increasing multipliers for pearl discoveries, with the chance to increase your rewards even more.\n\nWinning Potential and RTP\n\nThe maximum payout potential in Neptune's Champions slot game is up to 10,000x your bet, making it a rewarding option for players. The game's 96% RTP is also in line with the average for online slots, offering fair and balanced gameplay.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Neptune’s Champions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Volatility\n\nNeptune's Champions is a medium-volatility slot game, making it a great option for experienced players looking for a good balance between high and low volatility slot games. The game mechanics are quite simple, with a 5x3 reel grid and 40 active paylines.\n\nVisuals and Theme\n\nThe graphics of Neptune's Champions are visually stunning, immersing you in the mythical and oceanic setting of the game. The game's 5x3 grid is surrounded by none other than Neptune himself, and the accompanying soundtrack adds an extra layer of depth to the game.\n\nPaylines and Symbols\n\nPaylines in Neptune's Champions are set at 40, with symbols ranging from gems to helmets. The true potential for higher payouts lies in combinations of the turtle, seahorse, and dolphin symbols. Winning combinations are also possible with wild symbols appearing on the reels, increasing your chances of winning even more.\n\nBonus Features and Free Spins\n\nThe free spins feature is where Neptune's Champions truly shines. Triggered by landing 3 or more bonus symbols, you can receive up to 20 free spins and an initial 2x multiplier. The free spins feature also includes increasing multipliers for pearl discoveries, with the chance to increase your rewards even more.\n\nWinning Potential and RTP\n\nThe maximum payout potential in Neptune's Champions slot game is up to 10,000x your bet, making it a rewarding option for players. The game's 96% RTP is also in line with the average for online slots, offering fair and balanced gameplay.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SN27Qd7pw8u09rrsjFHhlgck23Gg",
+                "id": "chatcmpl-7WYZdzv1GtWJ4iH4lfCBXqoLU4uZ6",
                 "object": "chat.completion",
-                "created": 1686996079,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 499,
-                    "completion_tokens": 137,
-                    "total_tokens": 636
-                },
+                "created": 1687993753,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and immersive theme\",\n        \"Free spins feature with increasing multipliers\",\n        \"Medium-volatility for a balanced gameplay\",\n        \"Maximum payout potential up to 10,000x your bet\"\n    ],\n    \"cons\": [\n        \"Limited bonus features aside from free spins\",\n        \"Higher payouts rely on specific symbol combinations\"\n    ],\n    \"meta_title\": \"Play Neptune's Champions Free Slot | Read Review\",\n    \"meta_description\": \"Read our review of Neptune's Champions slot game and play for free. Discover the stunning visuals, free spins feature, and 10,000x potential payout.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Medium-volatility for a balanced gaming experience\",\n    \"Visually stunning graphics and immersive theme\",\n    \"Potential for higher payouts with specific symbol combinations\",\n    \"Exciting free spins feature with increasing multipliers\"\n  ],\n  \"cons\": [\n    \"Limited bonus features aside from free spins\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Neptune’s Champions Slot Game Free\",\n  \"meta_description\": \"Read our review of Neptune’s Champions slot game and play for free. Discover its features, volatility, and winning potential.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 496,
+                    "completion_tokens": 123,
+                    "total_tokens": 619
+                }
             }
         },
         {
@@ -814,15 +814,32 @@
     ],
     "filename": "game_reviews/translations/neptunes-champions.json",
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_e8ae51ca-6994-4e82-b974-0b0662b619c8_4.png",
         "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_1.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_2.png"
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_e8ae51ca-6994-4e82-b974-0b0662b619c8_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_1c445512-02c6-4986-b5a2-5d5ba6f4b19d_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_e8ae51ca-6994-4e82-b974-0b0662b619c8_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Neptunes_Champi_e8ae51ca-6994-4e82-b974-0b0662b619c8_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Neptunes Champions (Version 4).webp",
-        "game_reviews/processed_images/Neptunes Champions (Version 1).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 6).webp",
         "game_reviews/processed_images/Neptunes Champions (Version 2).webp",
-        "game_reviews/processed_images/Neptunes Champions (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Neptunes Champions (Version 4).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 3).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 1).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 7).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 8).webp",
+        "game_reviews/processed_images/Neptunes Champions (Version 5).webp"
+    ],
+    "name": "Neptune’s Champions",
+    "slug": "neptunes-champions",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Neptunes-Champions-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Neptune’s Champions Slot Game Free' ### Meta set: 'Read our review of Neptune’s Champions slot game and play for free. Discover its features, volatility, and winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

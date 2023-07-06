@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic slot game with old-school vibe",
-                    "Stunning gemstone visuals and sound effects",
-                    "Low betting range for risk-averse players",
-                    "Autoplay feature for convenience"
+                    "Classic theme with visually appealing gemstone symbols",
+                    "Realistic sound effects create an immersive gameplay experience",
+                    "Conservative betting range suitable for all players",
+                    "Engaging gameplay and an autoplay feature for convenience"
                 ],
                 "cons": [
-                    "Lack of special features may deter some players",
+                    "Lack of special features may not appeal to all players",
                     "No wild symbols in the game"
                 ],
-                "meta_title": "Play Just Jewels for Free - Review of Novomatic Classic Slot Game",
-                "meta_description": "Experience the thrill of playing Just Jewels for free in this review of the classic online slot game by Novomatic. Learn about the gameplay and features."
+                "meta_title": "Play Just Jewels Free and Win Big! | Online Slot Game Review",
+                "meta_description": "Discover the treasure-filled world of Just Jewels. Play for free and win big in this classic online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Just Jewels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nJust Jewels is a classic online slot game developed by Novomatic that takes players on a journey into the world of old-school slot machines. The game features a theme of precious gems, which can be seen both visually and aurally. The reels are surrounded by actual buttons, and the sound effects recreate the experience of playing on a land-based slot machine. The gemstones floating on the dark blue background create a treasure-chest-like atmosphere.\n\nSymbols and Jackpot\n\nJust Jewels features symbols that represent various forms of wealth, such as gemstones, bankrolls, gold bars, and tiaras. The gemstones, including emeralds, amethysts, rubies, and sapphires, are worth up to 15,000 and 20,000 tokens, respectively. The euro logo can reward you with up to 45,000 tokens, while banknotes and gold bars can get you as high as 50,000 tokens. The highest paying symbols are the dazzling tiaras encrusted with precious gems that can win you the jackpot of 500,000 tokens. There are no wild symbols in this game, but scatter symbols offer a chance for rewards even when appearing on non-adjacent reels.\n\nSpecial Features\n\nJust Jewels does not have any special features other than the gamble feature, which allows players to double their winnings regardless of the amount. There are no wild symbols either. The absence of special features might detract some players, but others who appreciate simple gameplay may find it entertaining. \n\nBetting Range\n\nThe betting range in Just Jewels is relatively conservative, ranging from 0.01€ to 9€. You can bet up to 100 credits on each of the nine paylines for a total of 1€. This means that the game is suitable for players who prefer not to place large bets without compromising the excitement factor. However, the gamble feature does offer a chance for more daring players to double their winnings.\n\nVisuals and Gameplay\n\nJust Jewels boasts stunning visuals with its gemstone theme, and the dark blue background creates a treasure-chest-like ambiance. The lack of special features is compensated for with exciting visuals and enjoyable gameplay. The game does offer an autoplay feature, which spins the reels automatically and allows you to set a specific number of spins and bet value. Overall, this is an engaging game that can provide endless entertainment to both new and experienced players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Just Jewels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nJust Jewels is a classic online slot game developed by Novomatic that takes players on a journey into the world of old-school slot machines. The game features a theme of precious gems, which can be seen both visually and aurally. The reels are surrounded by actual buttons, and the sound effects recreate the experience of playing on a land-based slot machine. The gemstones floating on the dark blue background create a treasure-chest-like atmosphere.\n\nSymbols and Jackpot\n\nJust Jewels features symbols that represent various forms of wealth, such as gemstones, bankrolls, gold bars, and tiaras. The gemstones, including emeralds, amethysts, rubies, and sapphires, are worth up to 15,000 and 20,000 tokens, respectively. The euro logo can reward you with up to 45,000 tokens, while banknotes and gold bars can get you as high as 50,000 tokens. The highest paying symbols are the dazzling tiaras encrusted with precious gems that can win you the jackpot of 500,000 tokens. There are no wild symbols in this game, but scatter symbols offer a chance for rewards even when appearing on non-adjacent reels.\n\nSpecial Features\n\nJust Jewels does not have any special features other than the gamble feature, which allows players to double their winnings regardless of the amount. There are no wild symbols either. The absence of special features might detract some players, but others who appreciate simple gameplay may find it entertaining. \n\nBetting Range\n\nThe betting range in Just Jewels is relatively conservative, ranging from 0.01€ to 9€. You can bet up to 100 credits on each of the nine paylines for a total of 1€. This means that the game is suitable for players who prefer not to place large bets without compromising the excitement factor. However, the gamble feature does offer a chance for more daring players to double their winnings.\n\nVisuals and Gameplay\n\nJust Jewels boasts stunning visuals with its gemstone theme, and the dark blue background creates a treasure-chest-like ambiance. The lack of special features is compensated for with exciting visuals and enjoyable gameplay. The game does offer an autoplay feature, which spins the reels automatically and allows you to set a specific number of spins and bet value. Overall, this is an engaging game that can provide endless entertainment to both new and experienced players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxS05YHkEF0W0s4Ks9XRU53GLbO0",
+                "id": "chatcmpl-7WVpgjWd5hNjELPG7yzb3I8qJkrH2",
                 "object": "chat.completion",
-                "created": 1687374396,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983216,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic slot game with old-school vibe\",\n        \"Stunning gemstone visuals and sound effects\",\n        \"Low betting range for risk-averse players\",\n        \"Autoplay feature for convenience\"\n    ],\n    \"cons\": [\n        \"Lack of special features may deter some players\",\n        \"No wild symbols in the game\"\n    ],\n    \"meta_title\": \"Play Just Jewels for Free - Review of Novomatic Classic Slot Game\",\n    \"meta_description\": \"Experience the thrill of playing Just Jewels for free in this review of the classic online slot game by Novomatic. Learn about the gameplay and features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic theme with visually appealing gemstone symbols\",\n    \"Realistic sound effects create an immersive gameplay experience\",\n    \"Conservative betting range suitable for all players\",\n    \"Engaging gameplay and an autoplay feature for convenience\"\n  ],\n  \"cons\": [\n    \"Lack of special features may not appeal to all players\",\n    \"No wild symbols in the game\"\n  ],\n  \"meta_title\": \"Play Just Jewels Free and Win Big! | Online Slot Game Review\",\n  \"meta_description\": \"Discover the treasure-filled world of Just Jewels. Play for free and win big in this classic online slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 670,
+                    "prompt_tokens": 667,
                     "completion_tokens": 136,
-                    "total_tokens": 806
+                    "total_tokens": 803
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/just-jewels.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_for_Just_Jewe_b78a94eb-2beb-446a-ac45-ddaf1a90c74d_1.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_for_Just_Jewe_b78a94eb-2beb-446a-ac45-ddaf1a90c74d_2.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_for_Just_Jewe_b78a94eb-2beb-446a-ac45-ddaf1a90c74d_3.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_for_Just_Jewe_b78a94eb-2beb-446a-ac45-ddaf1a90c74d_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Just Jewels (Version 1).webp",
+        "game_reviews/processed_images/Just Jewels (Version 3).webp",
+        "game_reviews/processed_images/Just Jewels (Version 2).webp",
+        "game_reviews/processed_images/Just Jewels (Version 4).webp"
+    ],
+    "slug": "just-jewels",
+    "name": "Just Jewels",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Just-Jewels-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Just Jewels Free and Win Big! | Online Slot Game Review' ### Meta set: 'Discover the treasure-filled world of Just Jewels. Play for free and win big in this classic online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

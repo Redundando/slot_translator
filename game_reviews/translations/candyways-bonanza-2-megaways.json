@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Variety of symbols and bonuses",
-                    "117,649 winning combinations",
-                    "Affordable betting range",
-                    "Playable on both PC and mobile"
+                    "Variety of symbols and extra features",
+                    "Impressive number of winning combinations",
+                    "Wide betting range",
+                    "Compatible on PC and mobile devices"
                 ],
                 "cons": [
-                    "Limited betting range",
-                    "No progressive jackpot feature"
+                    "May not appeal to players who prefer traditional slot game themes",
+                    "Free spins feature may be difficult to trigger"
                 ],
-                "meta_title": "Play Candyways Bonanza 2 Megaways Free: Slot Game Review",
-                "meta_description": "Get the lowdown on Candyways Bonanza 2 Megaways slot game with our review. Play for free and experience its variety of symbols, winning combos, and bonuses."
+                "meta_title": "Play Candyways Bonanza 2 Megaways for Free",
+                "meta_description": "Read our review of Candyways Bonanza 2 Megaways and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Candyways Bonanza 2 Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCandyways Bonanza 2 Megaways offers a variety of symbols, including the Wild, the Mystery Wild, and the Scatter. There are also extra features and rewarding bonuses like the Mystery Symbols, Free Spins, and the Multipliers. The cascading reels feature is available to increase chances of winning combinations. The game offers a fun and exciting gameplay experience for all players.\n\nNumber of reels and winning combinations\n\nCandyways Bonanza 2 Megaways has 6 reels with an additional horizontal reel, providing an impressive 117,649 winning combinations. The game offers players plenty of opportunities to win big while enjoying a sweet and colorful game theme.\n\nBetting range and return to player percentage\n\nPlayers can bet a minimum of €0.20 and a maximum of €20 per spin. Candyways Bonanza 2 Megaways has a return to player percentage of around 96%, making it a good choice for players who want to enjoy a potentially profitable game experience.\n\nSpecial icons\n\nCandyways Bonanza 2 Megaways features the Wild symbol which can replace all other symbols except the Scatter. The Mystery Wild symbol lands on the top reel and randomly chooses an icon, turning all corresponding symbols into Wilds. Additionally, the Scatter can trigger the Free Spins feature when 4 or more land on the same row. The Multiplier symbol can also appear during Free Spins, providing up to 100x your bet and 15 free spins.\n\nCompatibility on PC and mobile devices\n\nCandyways Bonanza 2 Megaways is available on both PC and mobile devices. Players can access this game from anywhere and at any time, making it a convenient and enjoyable choice for all players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Candyways Bonanza 2 Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCandyways Bonanza 2 Megaways offers a variety of symbols, including the Wild, the Mystery Wild, and the Scatter. There are also extra features and rewarding bonuses like the Mystery Symbols, Free Spins, and the Multipliers. The cascading reels feature is available to increase chances of winning combinations. The game offers a fun and exciting gameplay experience for all players.\n\nNumber of reels and winning combinations\n\nCandyways Bonanza 2 Megaways has 6 reels with an additional horizontal reel, providing an impressive 117,649 winning combinations. The game offers players plenty of opportunities to win big while enjoying a sweet and colorful game theme.\n\nBetting range and return to player percentage\n\nPlayers can bet a minimum of €0.20 and a maximum of €20 per spin. Candyways Bonanza 2 Megaways has a return to player percentage of around 96%, making it a good choice for players who want to enjoy a potentially profitable game experience.\n\nSpecial icons\n\nCandyways Bonanza 2 Megaways features the Wild symbol which can replace all other symbols except the Scatter. The Mystery Wild symbol lands on the top reel and randomly chooses an icon, turning all corresponding symbols into Wilds. Additionally, the Scatter can trigger the Free Spins feature when 4 or more land on the same row. The Multiplier symbol can also appear during Free Spins, providing up to 100x your bet and 15 free spins.\n\nCompatibility on PC and mobile devices\n\nCandyways Bonanza 2 Megaways is available on both PC and mobile devices. Players can access this game from anywhere and at any time, making it a convenient and enjoyable choice for all players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SqD2UyzxAD23tlrJ9kTwXKO1x42N",
+                "id": "chatcmpl-7WPib00BC5GRuO0vAnAgnkBjhqaWf",
                 "object": "chat.completion",
-                "created": 1687108232,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 531,
-                    "completion_tokens": 126,
-                    "total_tokens": 657
-                },
+                "created": 1687959713,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Variety of symbols and bonuses\",\n        \"117,649 winning combinations\",\n        \"Affordable betting range\",\n        \"Playable on both PC and mobile\"\n    ],\n    \"cons\": [\n        \"Limited betting range\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Candyways Bonanza 2 Megaways Free: Slot Game Review\",\n    \"meta_description\": \"Get the lowdown on Candyways Bonanza 2 Megaways slot game with our review. Play for free and experience its variety of symbols, winning combos, and bonuses.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Variety of symbols and extra features\",\n      \"Impressive number of winning combinations\",\n      \"Wide betting range\",\n      \"Compatible on PC and mobile devices\"\n   ],\n   \"cons\": [\n      \"May not appeal to players who prefer traditional slot game themes\",\n      \"Free spins feature may be difficult to trigger\"\n   ],\n   \"meta_title\": \"Play Candyways Bonanza 2 Megaways for Free\",\n   \"meta_description\": \"Read our review of Candyways Bonanza 2 Megaways and play this exciting slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 528,
+                    "completion_tokens": 121,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -812,14 +812,23 @@
     "raw_feature_images": [
         "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_3.png",
         "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_1.png",
-        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_2.png",
-        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_4.png"
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_4.png",
+        "arved__Feature_Image_Prompt_Design_a_cartoon-style_feature_imag_06b603f7-e80b-4f88-a366-13bf2701b7d9_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 4).webp",
-        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 3).webp",
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 2).webp",
         "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 1).webp",
-        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 2).webp"
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 4).webp",
+        "game_reviews/processed_images/Candyways Bonanza 2 Megaways (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/candyways-bonanza-2-megaways.json"
+    "filename": "game_reviews/translations/candyways-bonanza-2-megaways.json",
+    "slug": "candyways-bonanza-2-megaways",
+    "name": "Candyways Bonanza 2 Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Candyways-Bonanza-2-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Candyways Bonanza 2 Megaways for Free' ### Meta set: 'Read our review of Candyways Bonanza 2 Megaways and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

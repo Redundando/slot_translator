@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Various bonus features, including Free Spins and stacked Wilds",
-                    "Impressive graphics that transport players to the magical world of Camelot",
-                    "Super Stake function doubles chance of getting Scatter symbols",
-                    "Playable on any mobile device or PC"
+                    "Multiple bonus features, including Free Spins and stacked Wilds",
+                    "User-friendly accessibility on mobile devices and PCs",
+                    "Impressive graphics that create an immersive experience",
+                    "Turbo Spin and Super Stake functions for enhanced gameplay"
                 ],
                 "cons": [
-                    "High volatility may not appeal to all players",
-                    "Limited betting range, minimum bet per spin is €0.20"
+                    "High volatility may result in less frequent wins",
+                    "Limited number of paylines compared to some other slot games"
                 ],
-                "meta_title": "Play Fortune of Camelot Free Online Slot Game",
-                "meta_description": "Read the review of Fortune of Camelot and play this impressive online slot game for free. Enjoy various bonus features and immersive graphics."
+                "meta_title": "Play Fortune of Camelot for Free",
+                "meta_description": "Experience the magic of Camelot with Fortune of Camelot online slot game. Play now for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fortune of Camelot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFortune of Camelot is a 5-reel, 3-row online slot game with 20 fixed paylines. The minimum bet per spin is €0.20. The game also features automatic spins, Turbo Spin function, and the Super Stake function that doubles the chance of getting Scatter symbols. The theoretical return to the player (RTP) is 95.84%, and the volatility is set to high.\n\nBonus Features\n\nFortune of Camelot offers several bonus features, including Free Spins and stacked Wilds. The Scatter symbol, represented by the Bonus sign, can trigger ten Free Spins when three or more land on the reels. During the Free Spins, Wilds increase the multiplier by x1 each time they appear. Additionally, the bonus game also features Merlin's magic, which can transform a Wild into a stacked Wild or make single Wilds appear.\n\nSymbols\n\nThe symbols in Fortune of Camelot can be divided into low-level ones, which are represented by playing cards, and high-level ones, which are represented by King Arthur and the characters of the Round Table. The sword is the Wild symbol that substitutes for all symbols except the Scatter. The Scatter symbol is represented by the Bonus sign.\n\nAccessibility\n\nFortune of Camelot is accessible on any mobile device or PC. The game is user-friendly and has clear buttons for playing and adjusting the bet. The Turbo Spin function and the Super Stake function are also easily accessible.\n\nAesthetics\n\nFortune of Camelot has impressive graphics that transport players to the magical world of Camelot. The game grid is embedded in stone, with two dragon sculptures carved on the sides. The music that accompanies the spins has an epic and engaging tone, adding to the overall immersive experience of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fortune of Camelot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFortune of Camelot is a 5-reel, 3-row online slot game with 20 fixed paylines. The minimum bet per spin is €0.20. The game also features automatic spins, Turbo Spin function, and the Super Stake function that doubles the chance of getting Scatter symbols. The theoretical return to the player (RTP) is 95.84%, and the volatility is set to high.\n\nBonus Features\n\nFortune of Camelot offers several bonus features, including Free Spins and stacked Wilds. The Scatter symbol, represented by the Bonus sign, can trigger ten Free Spins when three or more land on the reels. During the Free Spins, Wilds increase the multiplier by x1 each time they appear. Additionally, the bonus game also features Merlin's magic, which can transform a Wild into a stacked Wild or make single Wilds appear.\n\nSymbols\n\nThe symbols in Fortune of Camelot can be divided into low-level ones, which are represented by playing cards, and high-level ones, which are represented by King Arthur and the characters of the Round Table. The sword is the Wild symbol that substitutes for all symbols except the Scatter. The Scatter symbol is represented by the Bonus sign.\n\nAccessibility\n\nFortune of Camelot is accessible on any mobile device or PC. The game is user-friendly and has clear buttons for playing and adjusting the bet. The Turbo Spin function and the Super Stake function are also easily accessible.\n\nAesthetics\n\nFortune of Camelot has impressive graphics that transport players to the magical world of Camelot. The game grid is embedded in stone, with two dragon sculptures carved on the sides. The music that accompanies the spins has an epic and engaging tone, adding to the overall immersive experience of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TI4CwKSFJfvSLZXDhnmC0vjBb9z1",
+                "id": "chatcmpl-7WT3zZHdPc6fsj26l93es4c3nVXLM",
                 "object": "chat.completion",
-                "created": 1687215316,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 539,
-                    "completion_tokens": 146,
-                    "total_tokens": 685
-                },
+                "created": 1687972571,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Various bonus features, including Free Spins and stacked Wilds\",\n        \"Impressive graphics that transport players to the magical world of Camelot\",\n        \"Super Stake function doubles chance of getting Scatter symbols\",\n        \"Playable on any mobile device or PC\"\n    ],\n    \"cons\": [\n        \"High volatility may not appeal to all players\",\n        \"Limited betting range, minimum bet per spin is €0.20\"\n    ],\n    \"meta_title\": \"Play Fortune of Camelot Free Online Slot Game\",\n    \"meta_description\": \"Read the review of Fortune of Camelot and play this impressive online slot game for free. Enjoy various bonus features and immersive graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Multiple bonus features, including Free Spins and stacked Wilds\",\n    \"User-friendly accessibility on mobile devices and PCs\",\n    \"Impressive graphics that create an immersive experience\",\n    \"Turbo Spin and Super Stake functions for enhanced gameplay\"\n  ],\n  \"cons\": [\n    \"High volatility may result in less frequent wins\",\n    \"Limited number of paylines compared to some other slot games\"\n  ],\n  \"meta_title\": \"Play Fortune of Camelot for Free\",\n  \"meta_description\": \"Experience the magic of Camelot with Fortune of Camelot online slot game. Play now for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 536,
+                    "completion_tokens": 132,
+                    "total_tokens": 668
+                }
             }
         },
         {
@@ -812,5 +812,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fortune-of-camelot.json"
+    "filename": "game_reviews/translations/fortune-of-camelot.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_72bcda2d-381d-4aa7-814a-ffcd5de03d03_4.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_0f4c56a6-358f-4f00-85b3-0cc31a6189b3_3.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_72bcda2d-381d-4aa7-814a-ffcd5de03d03_3.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_72bcda2d-381d-4aa7-814a-ffcd5de03d03_2.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_0f4c56a6-358f-4f00-85b3-0cc31a6189b3_4.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_72bcda2d-381d-4aa7-814a-ffcd5de03d03_1.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_0f4c56a6-358f-4f00-85b3-0cc31a6189b3_1.png",
+        "arved__Create_a_feature_image_for_Fortune_of_Camelot_that_incor_0f4c56a6-358f-4f00-85b3-0cc31a6189b3_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fortune Of Camelot (Version 7).webp",
+        "game_reviews/processed_images/Fortune Of Camelot (Version 6).webp",
+        "game_reviews/processed_images/Fortune Of Camelot (Version 8).webp",
+        "game_reviews/processed_images/Fortune Of Camelot (Version 5).webp"
+    ],
+    "slug": "fortune-of-camelot",
+    "name": "Fortune of Camelot",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fortune-Of-Camelot-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fortune of Camelot for Free' ### Meta set: 'Experience the magic of Camelot with Fortune of Camelot online slot game. Play now for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

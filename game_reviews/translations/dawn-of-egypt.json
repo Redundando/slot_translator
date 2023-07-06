@@ -580,39 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and designs",
-                    "Egyptian themed story-line",
-                    "Free spin bonus and symbol upgrade feature",
-                    "Wide range of winning symbols"
+                    "Stunning graphics",
+                    "Exciting gameplay features",
+                    "Impressive winning symbols",
+                    "Treasure trove for history lovers"
                 ],
                 "cons": [
-                    "Limited paylines may discourage players"
+                    "Limited number of paylines",
+                    "Lack of innovative bonus features"
                 ],
-                "meta_title": "Play Dawn of Egypt Free - Our Review",
-                "meta_description": "Discover the stunning graphics and Egyptian theme of Dawn of Egypt slot game. Play for free with our review and enjoy its free spin bonus and symbol upgrade feature."
+                "meta_title": "Play Dawn of Egypt Free - Exciting Slot Game Review",
+                "meta_description": "Read our review of Dawn of Egypt and play this exciting slot game for free. Experience stunning graphics and impressive winning symbols."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dawn of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDawn of Egypt features ten fixed paylines and five reels that reveal scatters, wild symbols, and wilds. The free spin bonus has a symbol upgrade feature, and there are two symbols that are worth 10,000x on a winning payline. Players need either scatters, scatter wilds, or the wild symbol to win big.\n\nVisuals/Graphics\n\nThe graphics in Dawn of Egypt are stunning. The symbols include a blue lotus flower, an ankh, a scorpion, a snake, and two deities, Osiris and Maahes, the lion god. The rest are royal cards made with impeccable gemstone designs. Each winning combination results in a burst of light and golden dust around the symbols.\n\nEgyptian Theme\n\nPlay'n GO never fails to impress with their Ancient Egypt themed slots, and Dawn of Egypt is no exception. This slot is a treasure trove for history lovers.\n\nWinning Symbols\n\nThe scatter wild and regular scatter symbols both pay 100x for five on a payline, while the regular scatter symbol pays 1000x on the winning bet when five of the same fall somewhere on the reels. The highest paying symbols on the paytable include Osiris paying 100x for five symbols on a winning payline, followed by the lion king symbol with a payout of 40x and the snake and scorpion with a payout of 20x.\n\nRecommendations\n\nOverall, Dawn of Egypt is a must-play slot game for any slot lover. We suggest giving Ankh of Anubis, also produced by Play N Go, a try with its staggering 576 paylines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dawn of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDawn of Egypt features ten fixed paylines and five reels that reveal scatters, wild symbols, and wilds. The free spin bonus has a symbol upgrade feature, and there are two symbols that are worth 10,000x on a winning payline. Players need either scatters, scatter wilds, or the wild symbol to win big.\n\nVisuals/Graphics\n\nThe graphics in Dawn of Egypt are stunning. The symbols include a blue lotus flower, an ankh, a scorpion, a snake, and two deities, Osiris and Maahes, the lion god. The rest are royal cards made with impeccable gemstone designs. Each winning combination results in a burst of light and golden dust around the symbols.\n\nEgyptian Theme\n\nPlay'n GO never fails to impress with their Ancient Egypt themed slots, and Dawn of Egypt is no exception. This slot is a treasure trove for history lovers.\n\nWinning Symbols\n\nThe scatter wild and regular scatter symbols both pay 100x for five on a payline, while the regular scatter symbol pays 1000x on the winning bet when five of the same fall somewhere on the reels. The highest paying symbols on the paytable include Osiris paying 100x for five symbols on a winning payline, followed by the lion king symbol with a payout of 40x and the snake and scorpion with a payout of 20x.\n\nRecommendations\n\nOverall, Dawn of Egypt is a must-play slot game for any slot lover. We suggest giving Ankh of Anubis, also produced by Play N Go, a try with its staggering 576 paylines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T0tMIpGTai3s3thrkg2k6PSgXU1M",
+                "id": "chatcmpl-7WQyxJOskvjN134OQVRzIGxye19Wx",
                 "object": "chat.completion",
-                "created": 1687149296,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 514,
-                    "completion_tokens": 113,
-                    "total_tokens": 627
-                },
+                "created": 1687964571,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and designs\",\n        \"Egyptian themed story-line\",\n        \"Free spin bonus and symbol upgrade feature\",\n        \"Wide range of winning symbols\"\n    ],\n    \"cons\": [\n        \"Limited paylines may discourage players\"\n    ],\n    \"meta_title\": \"Play Dawn of Egypt Free - Our Review\",\n    \"meta_description\": \"Discover the stunning graphics and Egyptian theme of Dawn of Egypt slot game. Play for free with our review and enjoy its free spin bonus and symbol upgrade feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning graphics\",\n    \"Exciting gameplay features\",\n    \"Impressive winning symbols\",\n    \"Treasure trove for history lovers\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Lack of innovative bonus features\"\n  ],\n  \"meta_title\": \"Play Dawn of Egypt Free - Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Dawn of Egypt and play this exciting slot game for free. Experience stunning graphics and impressive winning symbols.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 511,
+                    "completion_tokens": 112,
+                    "total_tokens": 623
+                }
             }
         },
         {
@@ -812,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_4.png",
         "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_1.png",
         "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_2.png"
+        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_2.png",
+        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dawn Of Egypt (Version 1).webp",
         "game_reviews/processed_images/Dawn Of Egypt (Version 2).webp",
-        "game_reviews/processed_images/Dawn Of Egypt (Version 3).webp",
-        "game_reviews/processed_images/Dawn Of Egypt (Version 4).webp"
+        "game_reviews/processed_images/Dawn Of Egypt (Version 4).webp",
+        "game_reviews/processed_images/Dawn Of Egypt (Version 1).webp",
+        "game_reviews/processed_images/Dawn Of Egypt (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/dawn-of-egypt.json"
+    "filename": "game_reviews/translations/dawn-of-egypt.json",
+    "slug": "dawn-of-egypt",
+    "name": "Dawn of Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dawn-Of-Egypt-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dawn of Egypt Free - Exciting Slot Game Review' ### Meta set: 'Read our review of Dawn of Egypt and play this exciting slot game for free. Experience stunning graphics and impressive winning symbols.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

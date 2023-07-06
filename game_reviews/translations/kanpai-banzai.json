@@ -578,38 +578,38 @@
             "response": {
                 "pros": [
                     "Great graphics and dynamic elements",
+                    "Wild reels, multipliers, scatters, and cascading reels",
                     "Potential to win over 10,000 times your bet",
-                    "Variety of betting limits",
-                    "Bonus game called Tasty Fish"
+                    "Variety of betting limits"
                 ],
                 "cons": [
-                    "Risk of premature end of bonus game",
-                    "Limited number of paylines"
+                    "Bonus game can end prematurely with poisoned piece",
+                    "RTP rate could be higher"
                 ],
-                "meta_title": "Play Kanpai Banzai Free: Slot Game Review",
-                "meta_description": "Find out everything you need to know about the Kanpai Banzai slot game. Play for free and enjoy the great graphics, bonus games and winning potential."
+                "meta_title": "Play Kanpai Banzai for Free",
+                "meta_description": "Read our review of Kanpai Banzai and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Kanpai Banzai\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nKanpai Banzai is a modern slot game with great graphics, distinctive and dynamic elements, including wild reels, multipliers, scatters, and cascading reels. The game has 5x4 reels and 1024 different ways to win.\n\nWinning Potential\n\nWith a potential of winning over 10,000 times your bet, Kanpai Banzai is a perfect choice for players who look for winning big. The cascading reels feature and the wild reel feature provide significant potential for players to hit a lot of wins and grows their final prize pool. \n\nBet Limits\n\nThis slot game provides players with a variety of betting limits. You can start with a minimum bet of €0.10, and if you prefer to go for the big wins, you can wager up to €500 per spin.\n\nRTP Rate\n\nKanpai Banzai has an RTP rate of 96.10%, which is decent when compared to other casino slot machine games. This means that the game returns €96.10 for every €100 wagered.\n\nBonus Game\n\nKanpai Banzai has a bonus game called Tasty Fish, which can be activated by scatter symbols with Golden Koi. During the bonus game, players can slice the fish to get up to nine prizes but beware of the poisoned piece that can end the feature prematurely.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Kanpai Banzai\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nKanpai Banzai is a modern slot game with great graphics, distinctive and dynamic elements, including wild reels, multipliers, scatters, and cascading reels. The game has 5x4 reels and 1024 different ways to win.\n\nWinning Potential\n\nWith a potential of winning over 10,000 times your bet, Kanpai Banzai is a perfect choice for players who look for winning big. The cascading reels feature and the wild reel feature provide significant potential for players to hit a lot of wins and grows their final prize pool. \n\nBet Limits\n\nThis slot game provides players with a variety of betting limits. You can start with a minimum bet of €0.10, and if you prefer to go for the big wins, you can wager up to €500 per spin.\n\nRTP Rate\n\nKanpai Banzai has an RTP rate of 96.10%, which is decent when compared to other casino slot machine games. This means that the game returns €96.10 for every €100 wagered.\n\nBonus Game\n\nKanpai Banzai has a bonus game called Tasty Fish, which can be activated by scatter symbols with Golden Koi. During the bonus game, players can slice the fish to get up to nine prizes but beware of the poisoned piece that can end the feature prematurely.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxdEjDHEGRVL8OsJ4zZMz82qTyzv",
+                "id": "chatcmpl-7WVrhKaOMXXe2PEkYXPeYIDnsucee",
                 "object": "chat.completion",
-                "created": 1687375092,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983341,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Great graphics and dynamic elements\",\n        \"Potential to win over 10,000 times your bet\",\n        \"Variety of betting limits\",\n        \"Bonus game called Tasty Fish\"\n    ],\n    \"cons\": [\n        \"Risk of premature end of bonus game\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Kanpai Banzai Free: Slot Game Review\",\n    \"meta_description\": \"Find out everything you need to know about the Kanpai Banzai slot game. Play for free and enjoy the great graphics, bonus games and winning potential.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Great graphics and dynamic elements\",\n        \"Wild reels, multipliers, scatters, and cascading reels\",\n        \"Potential to win over 10,000 times your bet\",\n        \"Variety of betting limits\"\n    ],\n    \"cons\": [\n        \"Bonus game can end prematurely with poisoned piece\",\n        \"RTP rate could be higher\"\n    ],\n    \"meta_title\": \"Play Kanpai Banzai for Free\",\n    \"meta_description\": \"Read our review of Kanpai Banzai and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 458,
-                    "completion_tokens": 131,
-                    "total_tokens": 589
+                    "prompt_tokens": 455,
+                    "completion_tokens": 122,
+                    "total_tokens": 577
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/kanpai-banzai.json",
+    "raw_feature_images": [
+        "arved__Create_a_brightly_colored_cartoon_image_of_a_Maya_warrio_3c68f211-bdcb-4d32-a20a-8bd3af4d46af_2.png",
+        "arved__Create_a_brightly_colored_cartoon_image_of_a_Maya_warrio_3c68f211-bdcb-4d32-a20a-8bd3af4d46af_4.png",
+        "arved__Create_a_brightly_colored_cartoon_image_of_a_Maya_warrio_3c68f211-bdcb-4d32-a20a-8bd3af4d46af_3.png",
+        "arved__Create_a_brightly_colored_cartoon_image_of_a_Maya_warrio_3c68f211-bdcb-4d32-a20a-8bd3af4d46af_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Kanpai Banzai (Version 3).webp",
+        "game_reviews/processed_images/Kanpai Banzai (Version 1).webp",
+        "game_reviews/processed_images/Kanpai Banzai (Version 2).webp",
+        "game_reviews/processed_images/Kanpai Banzai (Version 4).webp"
+    ],
+    "slug": "kanpai-banzai",
+    "name": "Kanpai Banzai",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Kanpai-Banzai-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Kanpai Banzai for Free' ### Meta set: 'Read our review of Kanpai Banzai and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

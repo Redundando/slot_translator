@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "6 reels and 4096 ways to win offer unique gameplay",
-                    "Highly customizable game mechanics",
-                    "Visually stunning symbol design and theme",
-                    "Exciting free spins bonus round with bet multiplier"
+                    "Unique 6-reel format",
+                    "4096 ways to win",
+                    "Highly customizable gameplay",
+                    "Stunning African-themed design"
                 ],
                 "cons": [
-                    "Low RTP compared to other slots",
-                    "Variance not clearly defined"
+                    "Low RTP of 92.38%",
+                    "Variance not officially specified"
                 ],
-                "meta_title": "Play Lucky Lions for Free - Review of Game Features & Design",
-                "meta_description": "Read our review of Lucky Lions, an online slot game with 6 reels and 4096 ways to win. Play for free and enjoy stunning African-style design, free spins bonus, and customizable gameplay."
+                "meta_title": "Play Lucky Lions for Free - Unique 6-Reel Format",
+                "meta_description": "Experience the excitement of Lucky Lions with its 6-reel format. Play for free and discover 4096 ways to win."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Lions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Format and Features\n\nLucky Lions is an online slot with 6 reels and 4096 ways to win, developed by Gamevy. The unusual setup of six reels might catch the player's eye, and the possibility of 4096 ways to win can elevate the excitement. The slot is highly customizable, allowing players to adjust the speed of the spins, their bets, and when to use the autoplay feature. The game offers a round of free spins, which can be renewed by finding the Bonus Scatter symbol at least three times simultaneously on the reels.\n\nSymbol Design and Hierarchy\n\nThe symbols in Lucky Lions are inspired by the Savannah ecosystem, with the lion as the most lucrative and most important icon. The other animals on the reels, such as wildebeest, leopard, fox, and zebra, follow the lion in decreasing order of importance. The overall design of the symbols is visually stunning and reflects the African style that the slot game represents.\n\nFree Spins Bonus Round\n\nThe free spins bonus round in Lucky Lions is triggered when the player finds the Bonus Scatter symbol, a paw print, at least three times simultaneously on the reels. The free spins mode can offer up to 100 free spins and can be renewed by finding the same Scatter symbols again. During this feature, the Wild symbol functions as a bet multiplier, which is different from its functionality in the base game. The bonus round enhances the excitement and potential rewards for players.\n\nRTP\n\nLucky Lions' RTP is 92.38%, which is low compared to the average of online slot games. However, since the RTP is theoretical and not guaranteed, players should not focus too much on this figure. The large number of ways to win can help to compensate for the lower RTP, but the variance is not officially designated.\n\nGame Design and Theme\n\nLucky Lions offers a stunning visual design that reflects an African-style environment. The reels feature images of iconic animals such as lions, wildebeest, zebras, and leopards. The slot game's soft colors and tranquil soundtrack provide players with a peaceful and inviting atmosphere. The theme and design of the game make it a top choice for players who dream of going on a safari adventure.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Lions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Format and Features\n\nLucky Lions is an online slot with 6 reels and 4096 ways to win, developed by Gamevy. The unusual setup of six reels might catch the player's eye, and the possibility of 4096 ways to win can elevate the excitement. The slot is highly customizable, allowing players to adjust the speed of the spins, their bets, and when to use the autoplay feature. The game offers a round of free spins, which can be renewed by finding the Bonus Scatter symbol at least three times simultaneously on the reels.\n\nSymbol Design and Hierarchy\n\nThe symbols in Lucky Lions are inspired by the Savannah ecosystem, with the lion as the most lucrative and most important icon. The other animals on the reels, such as wildebeest, leopard, fox, and zebra, follow the lion in decreasing order of importance. The overall design of the symbols is visually stunning and reflects the African style that the slot game represents.\n\nFree Spins Bonus Round\n\nThe free spins bonus round in Lucky Lions is triggered when the player finds the Bonus Scatter symbol, a paw print, at least three times simultaneously on the reels. The free spins mode can offer up to 100 free spins and can be renewed by finding the same Scatter symbols again. During this feature, the Wild symbol functions as a bet multiplier, which is different from its functionality in the base game. The bonus round enhances the excitement and potential rewards for players.\n\nRTP\n\nLucky Lions' RTP is 92.38%, which is low compared to the average of online slot games. However, since the RTP is theoretical and not guaranteed, players should not focus too much on this figure. The large number of ways to win can help to compensate for the lower RTP, but the variance is not officially designated.\n\nGame Design and Theme\n\nLucky Lions offers a stunning visual design that reflects an African-style environment. The reels feature images of iconic animals such as lions, wildebeest, zebras, and leopards. The slot game's soft colors and tranquil soundtrack provide players with a peaceful and inviting atmosphere. The theme and design of the game make it a top choice for players who dream of going on a safari adventure.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3AyJo5BpYvqPcmciP3dLCjq67wB",
+                "id": "chatcmpl-7WWjjhy28sLHSrjTbKGYlpnI99VhE",
                 "object": "chat.completion",
-                "created": 1687396404,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986691,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"6 reels and 4096 ways to win offer unique gameplay\",\n        \"Highly customizable game mechanics\",\n        \"Visually stunning symbol design and theme\",\n        \"Exciting free spins bonus round with bet multiplier\"\n    ],\n    \"cons\": [\n        \"Low RTP compared to other slots\",\n        \"Variance not clearly defined\"\n    ],\n    \"meta_title\": \"Play Lucky Lions for Free - Review of Game Features & Design\",\n    \"meta_description\": \"Read our review of Lucky Lions, an online slot game with 6 reels and 4096 ways to win. Play for free and enjoy stunning African-style design, free spins bonus, and customizable gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique 6-reel format\",\n    \"4096 ways to win\",\n    \"Highly customizable gameplay\",\n    \"Stunning African-themed design\"\n  ],\n  \"cons\": [\n    \"Low RTP of 92.38%\",\n    \"Variance not officially specified\"\n  ],\n  \"meta_title\": \"Play Lucky Lions for Free - Unique 6-Reel Format\",\n  \"meta_description\": \"Experience the excitement of Lucky Lions with its 6-reel format. Play for free and discover 4096 ways to win.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 626,
-                    "completion_tokens": 146,
-                    "total_tokens": 772
+                    "prompt_tokens": 623,
+                    "completion_tokens": 118,
+                    "total_tokens": 741
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-lions.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_Luck_9b35bdc2-2b07-40da-b570-1e115565eadd_3.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_Luck_9b35bdc2-2b07-40da-b570-1e115565eadd_2.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_Luck_9b35bdc2-2b07-40da-b570-1e115565eadd_1.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_Luck_9b35bdc2-2b07-40da-b570-1e115565eadd_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Lions (Version 4).webp",
+        "game_reviews/processed_images/Lucky Lions (Version 2).webp",
+        "game_reviews/processed_images/Lucky Lions (Version 3).webp",
+        "game_reviews/processed_images/Lucky Lions (Version 1).webp"
+    ],
+    "slug": "lucky-lions",
+    "name": "Lucky Lions",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Lions-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Lions for Free - Unique 6-Reel Format' ### Meta set: 'Experience the excitement of Lucky Lions with its 6-reel format. Play for free and discover 4096 ways to win.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

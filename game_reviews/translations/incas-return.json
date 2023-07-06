@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Wild symbol replaces any other symbol",
-                    "Scatter symbol grants access to Bonus Game",
-                    "Illustrative symbols rich in details",
-                    "Standard slot follows online slot standards set by Cristaltec"
+                    "Standard slot game following online slot standards",
+                    "Wild symbol and Scatter symbol with Bonus Game",
+                    "Pre-Columbian civilization theme",
+                    "Illustrative symbols rich in details"
                 ],
                 "cons": [
-                    "Weak music loop quality",
-                    "No sound effects"
+                    "Poorly looped music",
+                    "Difficulty distinguishing symbols"
                 ],
-                "meta_title": "Play Incas Return Slot for Free - Game Review",
-                "meta_description": "Read our unbiased review of the Incas Return slot game and play for free. Discover its gameplay, theme, technical features, and audio components."
+                "meta_title": "Play Incas Return Free | Online Slot Review",
+                "meta_description": "Read our review of Incas Return and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Incas Return\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIncas Return gameplay\n\nIncas Return is a 5-reel, 3-row slot game with 15 symbols displayed at each play. It features a Wild symbol that replaces any other symbol and a Scatter symbol accompanied by Bonus Game writing that grants access to the special mode if players find at least three in a single play. It is a standard slot that follows the online slot standards set by Cristaltec without taking any risks.\n\nIncas Return theme and symbols\n\nIncas Return is a slot game with a pre-Columbian civilization theme, which is one of the most commonly used themes in online slots. The slot's graphics feature an animated dragonfly on a wood stump set against a forest background. The symbols are illustrative, rich in details, and may or may not appear pleasant, depending on the viewer's preference. However, the richness of details makes it difficult, at least at first glance, to distinguish one symbol from another.\n\nIncas Return technical features\n\nIncas Return is a standard slot game that follows the online slot standards set by Cristaltec. It is a 5-reel, 3-row slot game with 15 symbols displayed at each play. The game features a Wild symbol that can replace any other symbol and a Scatter symbol accompanied by Bonus Game writing that grants access to the special mode if players find at least three in a single play. The slot's graphics feature an animated dragonfly on a wood stump set against a forest background, and the symbols are illustrative and rich in details.\n\nOnline slots with similar themes\n\nThe pre-Columbian population theme is common in online slot games, and there are many similar titles. Some examples of slots with a similar theme include Mayan Temple Advance by Capecod Gaming and Inca's Treasure by Tom Horn Gaming. These slots explore the theme of the same civilization and offer different variations of gameplay and visual elements.\n\nIncas Return audio and music\n\nThe music is the weakest aspect of Incas Return. The 9-second tune is looped, and the end and beginning of the tune do not blend well, creating a continuous and unpleasant sound. The tune quality is a shame considering the high standards of other Cristaltec slots. However, players have the option to turn off the music component. There are no other audio elements or sound effects in the slot.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Incas Return\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIncas Return gameplay\n\nIncas Return is a 5-reel, 3-row slot game with 15 symbols displayed at each play. It features a Wild symbol that replaces any other symbol and a Scatter symbol accompanied by Bonus Game writing that grants access to the special mode if players find at least three in a single play. It is a standard slot that follows the online slot standards set by Cristaltec without taking any risks.\n\nIncas Return theme and symbols\n\nIncas Return is a slot game with a pre-Columbian civilization theme, which is one of the most commonly used themes in online slots. The slot's graphics feature an animated dragonfly on a wood stump set against a forest background. The symbols are illustrative, rich in details, and may or may not appear pleasant, depending on the viewer's preference. However, the richness of details makes it difficult, at least at first glance, to distinguish one symbol from another.\n\nIncas Return technical features\n\nIncas Return is a standard slot game that follows the online slot standards set by Cristaltec. It is a 5-reel, 3-row slot game with 15 symbols displayed at each play. The game features a Wild symbol that can replace any other symbol and a Scatter symbol accompanied by Bonus Game writing that grants access to the special mode if players find at least three in a single play. The slot's graphics feature an animated dragonfly on a wood stump set against a forest background, and the symbols are illustrative and rich in details.\n\nOnline slots with similar themes\n\nThe pre-Columbian population theme is common in online slot games, and there are many similar titles. Some examples of slots with a similar theme include Mayan Temple Advance by Capecod Gaming and Inca's Treasure by Tom Horn Gaming. These slots explore the theme of the same civilization and offer different variations of gameplay and visual elements.\n\nIncas Return audio and music\n\nThe music is the weakest aspect of Incas Return. The 9-second tune is looped, and the end and beginning of the tune do not blend well, creating a continuous and unpleasant sound. The tune quality is a shame considering the high standards of other Cristaltec slots. However, players have the option to turn off the music component. There are no other audio elements or sound effects in the slot.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tt6XdxEqoXduM6NGPy1AA1lczg3w",
+                "id": "chatcmpl-7WVCE0UFvmZJevcqdnyzAR8TcdJcm",
                 "object": "chat.completion",
-                "created": 1687357689,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980770,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Wild symbol replaces any other symbol\",\n        \"Scatter symbol grants access to Bonus Game\",\n        \"Illustrative symbols rich in details\",\n        \"Standard slot follows online slot standards set by Cristaltec\"\n    ],\n    \"cons\": [\n        \"Weak music loop quality\",\n        \"No sound effects\"\n    ],\n    \"meta_title\": \"Play Incas Return Slot for Free - Game Review\",\n    \"meta_description\": \"Read our unbiased review of the Incas Return slot game and play for free. Discover its gameplay, theme, technical features, and audio components.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Standard slot game following online slot standards\",\n    \"Wild symbol and Scatter symbol with Bonus Game\",\n    \"Pre-Columbian civilization theme\",\n    \"Illustrative symbols rich in details\"\n  ],\n  \"cons\": [\n    \"Poorly looped music\",\n    \"Difficulty distinguishing symbols\"\n  ],\n  \"meta_title\": \"Play Incas Return Free | Online Slot Review\",\n  \"meta_description\": \"Read our review of Incas Return and play this slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 650,
-                    "completion_tokens": 126,
-                    "total_tokens": 776
+                    "prompt_tokens": 647,
+                    "completion_tokens": 107,
+                    "total_tokens": 754
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/incas-return.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Incas_Return_Slot_Game_c6099214-76e1-4706-9d9b-749b69f9b826_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Incas_Return_Slot_Game_c6099214-76e1-4706-9d9b-749b69f9b826_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Incas_Return_Slot_Game_c6099214-76e1-4706-9d9b-749b69f9b826_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Incas_Return_Slot_Game_c6099214-76e1-4706-9d9b-749b69f9b826_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Incas Return (Version 4).webp",
+        "game_reviews/processed_images/Incas Return (Version 1).webp",
+        "game_reviews/processed_images/Incas Return (Version 3).webp",
+        "game_reviews/processed_images/Incas Return (Version 2).webp"
+    ],
+    "slug": "incas-return",
+    "name": "Incas Return",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Incas-Return-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Incas Return Free | Online Slot Review' ### Meta set: 'Read our review of Incas Return and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

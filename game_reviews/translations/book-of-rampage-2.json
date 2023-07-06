@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning, high-quality graphics and relaxing background music",
-                    "Expanding symbols feature boosts chances of big wins",
-                    "Exciting Ice Age theme featuring captivating creatures",
-                    "Bonus Buy Spins option available"
+                    "Stunning Ice Age setting",
+                    "High-quality graphics and design",
+                    "Exciting expanding symbols feature in Free Spins mode",
+                    "Option to purchase bonus spins"
                 ],
                 "cons": [
-                    "High volatility may not be suitable for some players",
-                    "Bonus Buy Spins feature comes at a high cost"
+                    "High volatility",
+                    "Expensive cost for bonus spin purchase"
                 ],
-                "meta_title": "Play Book of Rampage 2 for Free or Real Money",
-                "meta_description": "Find out how to play the exciting Book of Rampage 2 slot game for free and real money, and learn about its stunning graphics and bonus features."
+                "meta_title": "Play Book of Rampage 2 for Free",
+                "meta_description": "Discover the stunning Ice Age world in Book of Rampage 2 and play for free or real money."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Rampage 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of Rampage 2: How to Play for Free and Real Money\n\nBook of Rampage 2 has a 5x3 grid with 10 fixed paylines. Players can bet a maximum of €100 and a minimum of €0.10 per spin. There's also an option to buy the free spins feature at the beginning of the game.\n\nHow to Activate Book of Rampage 2 Bonus Spins and Free Spins\n\nFree Spins: Three or more Scatter Wilds on the reels activate the Free Spins feature, awarding players 10 free spins. Players will be able to activate and reactivate the expanding symbols feature throughout the bonus round. Bonus Buy Spins option allows players to purchase 10 free spins at any given point in the game.\n\nRTP, Volatility, Graphics, and Symbols of Book of Rampage 2\n\nThe Book of Rampage 2 slot has a 96.14% RTP and high volatility. This game has a stunning Ice Age setting, with a detailed and high-quality design and relaxing background music. The game features 10 symbols, which include low, medium, and special Wild Scatter icons. In Free Spins mode, even the basic symbols can expand, creating additional paylines and chances for players to win big.\n\nBook of Rampage 2: Beyond the Snowy Mountains\n\nBook of Rampage 2 is set beyond the snowy mountains and takes players on a journey back to the Ice Age. The slots' theme features various Ice age creatures, mammoths, rhinos, and saber-toothed tigers, all beautifully designed and captivating.\n\nBonus Purchase Option\n\nThe Bonus Buy feature allows players to purchase 10 free spins and the expanding Wilds feature whenever they desire during the game at a cost of 104 times their bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Rampage 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of Rampage 2: How to Play for Free and Real Money\n\nBook of Rampage 2 has a 5x3 grid with 10 fixed paylines. Players can bet a maximum of €100 and a minimum of €0.10 per spin. There's also an option to buy the free spins feature at the beginning of the game.\n\nHow to Activate Book of Rampage 2 Bonus Spins and Free Spins\n\nFree Spins: Three or more Scatter Wilds on the reels activate the Free Spins feature, awarding players 10 free spins. Players will be able to activate and reactivate the expanding symbols feature throughout the bonus round. Bonus Buy Spins option allows players to purchase 10 free spins at any given point in the game.\n\nRTP, Volatility, Graphics, and Symbols of Book of Rampage 2\n\nThe Book of Rampage 2 slot has a 96.14% RTP and high volatility. This game has a stunning Ice Age setting, with a detailed and high-quality design and relaxing background music. The game features 10 symbols, which include low, medium, and special Wild Scatter icons. In Free Spins mode, even the basic symbols can expand, creating additional paylines and chances for players to win big.\n\nBook of Rampage 2: Beyond the Snowy Mountains\n\nBook of Rampage 2 is set beyond the snowy mountains and takes players on a journey back to the Ice Age. The slots' theme features various Ice age creatures, mammoths, rhinos, and saber-toothed tigers, all beautifully designed and captivating.\n\nBonus Purchase Option\n\nThe Bonus Buy feature allows players to purchase 10 free spins and the expanding Wilds feature whenever they desire during the game at a cost of 104 times their bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QMRCW0f588fIVviqCOoIwcsWD8R8",
+                "id": "chatcmpl-7WOynHzH1qhxwPgebP4yW2vPGrQAv",
                 "object": "chat.completion",
-                "created": 1686517134,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 548,
-                    "completion_tokens": 144,
-                    "total_tokens": 692
-                },
+                "created": 1687956873,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning, high-quality graphics and relaxing background music\",\n        \"Expanding symbols feature boosts chances of big wins\",\n        \"Exciting Ice Age theme featuring captivating creatures\",\n        \"Bonus Buy Spins option available\"\n    ],\n    \"cons\": [\n        \"High volatility may not be suitable for some players\",\n        \"Bonus Buy Spins feature comes at a high cost\"\n    ],\n    \"meta_title\": \"Play Book of Rampage 2 for Free or Real Money\",\n    \"meta_description\": \"Find out how to play the exciting Book of Rampage 2 slot game for free and real money, and learn about its stunning graphics and bonus features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning Ice Age setting\",\n    \"High-quality graphics and design\",\n    \"Exciting expanding symbols feature in Free Spins mode\",\n    \"Option to purchase bonus spins\"\n  ],\n  \"cons\": [\n    \"High volatility\",\n    \"Expensive cost for bonus spin purchase\"\n  ],\n  \"meta_title\": \"Play Book of Rampage 2 for Free\",\n  \"meta_description\": \"Discover the stunning Ice Age world in Book of Rampage 2 and play for free or real money.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 545,
+                    "completion_tokens": 112,
+                    "total_tokens": 657
+                }
             }
         },
         {
@@ -814,14 +814,19 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_3.png",
         "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_2.png",
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_3.png"
+        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Rampage 2 (Version 3).webp",
         "game_reviews/processed_images/Book Of Rampage 2 (Version 1).webp",
-        "game_reviews/processed_images/Book Of Rampage 2 (Version 2).webp",
-        "game_reviews/processed_images/Book Of Rampage 2 (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Book Of Rampage 2 (Version 4).webp",
+        "game_reviews/processed_images/Book Of Rampage 2 (Version 3).webp",
+        "game_reviews/processed_images/Book Of Rampage 2 (Version 2).webp"
+    ],
+    "filename": "game_reviews/translations/book-of-rampage-2.json",
+    "slug": "book-of-rampage-2",
+    "name": "Book of Rampage 2",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

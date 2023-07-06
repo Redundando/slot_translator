@@ -580,39 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautifully designed with mesmerizing graphics",
-                    "Significant potential payouts",
+                    "Beautifully designed graphics",
                     "Engaging free spins feature",
-                    "Unique chance to fight bosses"
+                    "Smooth gameplay",
+                    "High winning potential"
                 ],
                 "cons": [
-                    "Frequent cinematic events can make gameplay slightly clunky",
-                    "Limited to experienced gamblers due to high volatility"
+                    "Frequent cinematic bonus events can interrupt gameplay flow"
                 ],
-                "meta_title": "Play Lilith's Inferno Free: Review & Winning Potential",
-                "meta_description": "Read our review of Lilith's Inferno, play for free, and experience high-volatility gameplay with thrilling features like free spins and boss battles."
+                "meta_title": "Play Lilith's Inferno Free: Review of Mesmerizing Slot Game",
+                "meta_description": "Discover the immersive world of Lilith's Inferno. Play for free and win big prizes."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lilith’s Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLilith's Inferno is a beautifully designed 5x4 video slot game with 25 paylines, created by AvatarUX Studios. The game offers players a chance to immerse themselves in an epic adventure where they can fight against fierce monsters and win big prizes. The game's design is smooth, and autoplay is available.\n\nGraphics\n\nLilith's Inferno features mesmerizing graphics that immerse players in a world of monsters and magic. The characters are well-designed, and the game's graphics are smooth, including the battles, although the frequent cinematic bonus events can make gameplay slightly less fluid.\n\nWinning Potential\n\nLilith's Inferno has a top-paying symbol that can pay out 24x the bet, with a theoretical maximum prize of over 100,000 pounds or the equivalent in your currency. Players can bet as low as 0.10 euros and up to 150 euros per spin, with a payline bet of 6 euros on each of the 25 lines. Overall, the game offers significant potential payouts for lucky players.\n\nFree Spins Feature\n\nThe game's free spins feature is more engaging than usual. The number of free spins is determined when three, four, or five crystal skulls land on the reels. Players then get to punch the monster for each spin, with each hit counting as a spin. Three triggering symbols can award 10-20 free spins, four can give 15-30, and five can reward players with 25-50. Lucky players who land the VS symbol twice on the reel-set will have a chance to fight one of the bosses.\n\nOverall Experience\n\nLilith's Inferno is a must-play slot game for experienced gamblers looking for thrilling gameplay, mesmerizing graphics, and big potential wins. The game stands out with incredible design and unique features, such as the free spins feature and the chance to fight bosses. Overall, if you're looking for similar games, try the Gorilla Slot from Novomatic or the popular Yggdrasil slot game set in a forest with demonic gorillas.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lilith’s Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLilith's Inferno is a beautifully designed 5x4 video slot game with 25 paylines, created by AvatarUX Studios. The game offers players a chance to immerse themselves in an epic adventure where they can fight against fierce monsters and win big prizes. The game's design is smooth, and autoplay is available.\n\nGraphics\n\nLilith's Inferno features mesmerizing graphics that immerse players in a world of monsters and magic. The characters are well-designed, and the game's graphics are smooth, including the battles, although the frequent cinematic bonus events can make gameplay slightly less fluid.\n\nWinning Potential\n\nLilith's Inferno has a top-paying symbol that can pay out 24x the bet, with a theoretical maximum prize of over 100,000 pounds or the equivalent in your currency. Players can bet as low as 0.10 euros and up to 150 euros per spin, with a payline bet of 6 euros on each of the 25 lines. Overall, the game offers significant potential payouts for lucky players.\n\nFree Spins Feature\n\nThe game's free spins feature is more engaging than usual. The number of free spins is determined when three, four, or five crystal skulls land on the reels. Players then get to punch the monster for each spin, with each hit counting as a spin. Three triggering symbols can award 10-20 free spins, four can give 15-30, and five can reward players with 25-50. Lucky players who land the VS symbol twice on the reel-set will have a chance to fight one of the bosses.\n\nOverall Experience\n\nLilith's Inferno is a must-play slot game for experienced gamblers looking for thrilling gameplay, mesmerizing graphics, and big potential wins. The game stands out with incredible design and unique features, such as the free spins feature and the chance to fight bosses. Overall, if you're looking for similar games, try the Gorilla Slot from Novomatic or the popular Yggdrasil slot game set in a forest with demonic gorillas.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U1KMmtwcrQ2p2d1DDvka558xaKtx",
+                "id": "chatcmpl-7WWPrpyPhxGTBijGnycuUZHrLlvZM",
                 "object": "chat.completion",
-                "created": 1687389298,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985459,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n \"pros\": [\n   \"Beautifully designed with mesmerizing graphics\",\n   \"Significant potential payouts\",\n   \"Engaging free spins feature\",\n   \"Unique chance to fight bosses\"\n ],\n \"cons\": [\n   \"Frequent cinematic events can make gameplay slightly clunky\",\n   \"Limited to experienced gamblers due to high volatility\"\n ],\n \"meta_title\": \"Play Lilith's Inferno Free: Review & Winning Potential\",\n \"meta_description\": \"Read our review of Lilith's Inferno, play for free, and experience high-volatility gameplay with thrilling features like free spins and boss battles.\"\n}"
+                            "content": "{\n  \"pros\": [\"Beautifully designed graphics\", \"Engaging free spins feature\", \"Smooth gameplay\", \"High winning potential\"],\n  \"cons\": [\"Frequent cinematic bonus events can interrupt gameplay flow\"],\n  \"meta_title\": \"Play Lilith's Inferno Free: Review of Mesmerizing Slot Game\",\n  \"meta_description\": \"Discover the immersive world of Lilith's Inferno. Play for free and win big prizes.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 125,
-                    "total_tokens": 729
+                    "prompt_tokens": 601,
+                    "completion_tokens": 91,
+                    "total_tokens": 692
                 }
             }
         },
@@ -811,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/liliths-inferno.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Liliths_Inferno_7c109784-37de-4986-b588-d47ec24e258a_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Liliths_Inferno_7c109784-37de-4986-b588-d47ec24e258a_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Liliths_Inferno_7c109784-37de-4986-b588-d47ec24e258a_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Liliths_Inferno_7c109784-37de-4986-b588-d47ec24e258a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Liliths Inferno (Version 1).webp",
+        "game_reviews/processed_images/Liliths Inferno (Version 2).webp",
+        "game_reviews/processed_images/Liliths Inferno (Version 4).webp",
+        "game_reviews/processed_images/Liliths Inferno (Version 3).webp"
+    ],
+    "slug": "liliths-inferno",
+    "name": "Lilith’s Inferno",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Liliths-Inferno-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lilith's Inferno Free: Review of Mesmerizing Slot Game' ### Meta set: 'Discover the immersive world of Lilith's Inferno. Play for free and win big prizes.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

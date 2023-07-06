@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stacked Respins feature",
+                    "High volatility and excellent RTP",
+                    "Stacked Respin feature for more chances to win",
                     "Two different Free Spin features",
-                    "Excellent RTP of 96.83%",
-                    "High-quality graphics and design"
+                    "Stunning design and graphics"
                 ],
                 "cons": [
                     "No real Scatter symbol",
-                    "High volatility might not be for everyone"
+                    "Limited betting options"
                 ],
-                "meta_title": "Play Marvelous Furlongs for Free - Review",
-                "meta_description": "Read our review of Marvelous Furlongs, a high-volatility online slot game with Stacked Respins and two Free Spins features. Play the game for free."
+                "meta_title": "Play Marvelous Furlongs Free - Exciting Slot Game Review",
+                "meta_description": "Read our review of Marvelous Furlongs, an exciting slot game with high volatility and two Free Spin features that you can play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Marvelous Furlongs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMarvelous Furlongs is a 5-reel, 4-row slot game with 15 fixed paylines. The game boasts high volatility and an excellent RTP of 96.83%. The Stacked Respin feature is activated when the same jockey symbol appears on a reel and the symbol extends over the entire reel, moving to the right with each spin. The Wild symbol, represented by the cup, appears on columns 1, 3, and 5 and replaces all other symbols. There is no real Scatter symbol in the game, but the function is covered by the calendar or the Wild symbol. Players can also enjoy two different Free Spin features: the Standard Matches feature and the Wonderful Free Matches feature.\n\nBetting Options\n\nPlayers can place bets starting at €0.01 per line, making a game cost just €0.15. The game offers a wide range of betting options, with the possibility of setting 10 to 500 automatic spins with or without Autoplay.\n\nSymbol Mechanics\n\nIn Marvelous Furlongs, the symbols that assign high winnings are the four jockeys, while those of lesser value are the horseshoes with the stable color. The cup is the Wild symbol, and it replaces all other symbols. When the same jockey symbol appears on a reel, the Stacked Respin feature is activated, and the symbol extends over the entire reel, moving to the right with each spin. There is no real Scatter symbol in the game, but the function is covered by the calendar or the Wild symbol.\n\nFree Spin Features\n\nThere are two ways to trigger the Free Spin features in Marvelous Furlongs. The first is by landing the Wild symbol, and the second is by triggering the Standard Matches feature or the Wonderful Free Matches feature. Before the Free Spins, players will be asked to choose a horse to compete with the others. If they come in the top three, they can win between 250 and 1,000 coins.\n\nGraphics and Design\n\nMarvelous Furlongs boasts a stunning design with symbols that have incredible definition. The game grid corresponds to the starting gates of the five horses, and on the right, there is a calendar with the dates of the races marked. On the left, players can see the horses running. At the bottom, players can find all the game statistics and various options to calibrate their bet to perfection. The pulsating music is full of adrenaline and makes the game even more exciting.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Marvelous Furlongs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMarvelous Furlongs is a 5-reel, 4-row slot game with 15 fixed paylines. The game boasts high volatility and an excellent RTP of 96.83%. The Stacked Respin feature is activated when the same jockey symbol appears on a reel and the symbol extends over the entire reel, moving to the right with each spin. The Wild symbol, represented by the cup, appears on columns 1, 3, and 5 and replaces all other symbols. There is no real Scatter symbol in the game, but the function is covered by the calendar or the Wild symbol. Players can also enjoy two different Free Spin features: the Standard Matches feature and the Wonderful Free Matches feature.\n\nBetting Options\n\nPlayers can place bets starting at €0.01 per line, making a game cost just €0.15. The game offers a wide range of betting options, with the possibility of setting 10 to 500 automatic spins with or without Autoplay.\n\nSymbol Mechanics\n\nIn Marvelous Furlongs, the symbols that assign high winnings are the four jockeys, while those of lesser value are the horseshoes with the stable color. The cup is the Wild symbol, and it replaces all other symbols. When the same jockey symbol appears on a reel, the Stacked Respin feature is activated, and the symbol extends over the entire reel, moving to the right with each spin. There is no real Scatter symbol in the game, but the function is covered by the calendar or the Wild symbol.\n\nFree Spin Features\n\nThere are two ways to trigger the Free Spin features in Marvelous Furlongs. The first is by landing the Wild symbol, and the second is by triggering the Standard Matches feature or the Wonderful Free Matches feature. Before the Free Spins, players will be asked to choose a horse to compete with the others. If they come in the top three, they can win between 250 and 1,000 coins.\n\nGraphics and Design\n\nMarvelous Furlongs boasts a stunning design with symbols that have incredible definition. The game grid corresponds to the starting gates of the five horses, and on the right, there is a calendar with the dates of the races marked. On the left, players can see the horses running. At the bottom, players can find all the game statistics and various options to calibrate their bet to perfection. The pulsating music is full of adrenaline and makes the game even more exciting.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5sqq056wDoU7gvW6li2KMgJAltN",
+                "id": "chatcmpl-7WXDpWBBwS37VWL8PNDalpA2bVEp0",
                 "object": "chat.completion",
-                "created": 1687406812,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988557,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stacked Respins feature\",\n        \"Two different Free Spin features\",\n        \"Excellent RTP of 96.83%\",\n        \"High-quality graphics and design\"\n    ],\n    \"cons\": [\n        \"No real Scatter symbol\",\n        \"High volatility might not be for everyone\"\n    ],\n    \"meta_title\": \"Play Marvelous Furlongs for Free - Review\",\n    \"meta_description\": \"Read our review of Marvelous Furlongs, a high-volatility online slot game with Stacked Respins and two Free Spins features. Play the game for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High volatility and excellent RTP\",\n    \"Stacked Respin feature for more chances to win\",\n    \"Two different Free Spin features\",\n    \"Stunning design and graphics\"\n  ],\n  \"cons\": [\n    \"No real Scatter symbol\",\n    \"Limited betting options\"\n  ],\n  \"meta_title\": \"Play Marvelous Furlongs Free - Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Marvelous Furlongs, an exciting slot game with high volatility and two Free Spin features that you can play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 685,
-                    "completion_tokens": 128,
-                    "total_tokens": 813
+                    "prompt_tokens": 682,
+                    "completion_tokens": 122,
+                    "total_tokens": 804
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/marvelous-furlongs.json",
+    "raw_feature_images": [
+        "arved__Create_a_vibrant_cartoon-style_image_for_Marvelous_Furlo_11d62657-f50d-45d3-8332-590089300e2c_3.png",
+        "arved__Create_a_vibrant_cartoon-style_image_for_Marvelous_Furlo_11d62657-f50d-45d3-8332-590089300e2c_1.png",
+        "arved__Create_a_vibrant_cartoon-style_image_for_Marvelous_Furlo_11d62657-f50d-45d3-8332-590089300e2c_4.png",
+        "arved__Create_a_vibrant_cartoon-style_image_for_Marvelous_Furlo_11d62657-f50d-45d3-8332-590089300e2c_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Marvelous Furlongs (Version 4).webp",
+        "game_reviews/processed_images/Marvelous Furlongs (Version 2).webp",
+        "game_reviews/processed_images/Marvelous Furlongs (Version 1).webp",
+        "game_reviews/processed_images/Marvelous Furlongs (Version 3).webp"
+    ],
+    "slug": "marvelous-furlongs",
+    "name": "Marvelous Furlongs",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Marvelous-Furlongs-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Marvelous Furlongs Free - Exciting Slot Game Review' ### Meta set: 'Read our review of Marvelous Furlongs, an exciting slot game with high volatility and two Free Spin features that you can play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

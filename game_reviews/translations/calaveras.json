@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_3.png",
-        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_4.png",
         "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_2.png",
-        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_1.png"
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_12878c3b-7a47-4edb-8267-525f82bc7693_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Calaveras (Version 3).webp",
-        "game_reviews/processed_images/Calaveras (Version 2).webp",
         "game_reviews/processed_images/Calaveras (Version 1).webp",
-        "game_reviews/processed_images/Calaveras (Version 4).webp"
+        "game_reviews/processed_images/Calaveras (Version 4).webp",
+        "game_reviews/processed_images/Calaveras (Version 3).webp",
+        "game_reviews/processed_images/Calaveras (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/calaveras.json"
+    "filename": "game_reviews/translations/calaveras.json",
+    "slug": "calaveras",
+    "name": "Calaveras",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Calaveras-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Calaveras Free: Review and Gameplay' ### Meta set: 'Interested in Calaveras? Read our review and play this online slot game for free. Find out about the gameplay, features, and RTP value.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

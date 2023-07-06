@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting and immersive gameplay",
-                    "High-quality symbols and graphics",
-                    "243 ways to win",
-                    "Skydive Bonus and other special symbols"
+                    "Action-packed gameplay with thrilling features",
+                    "High-quality symbols and immersive music",
+                    "Chance to secure large payouts",
+                    "Demo version available for free play and exploration"
                 ],
                 "cons": [
-                    "High volatility",
-                    "No progressive jackpot"
+                    "Limited bonus features",
+                    "High volatility may not suit all players"
                 ],
-                "meta_title": "Play Stunt Stars Free: A Thrilling Action-Packed Slot Game",
-                "meta_description": "Discover the exciting world of Stunt Stars and play for free. With 243 ways to win, special bonuses, and immersive gameplay, this game will keep you entertained!"
+                "meta_title": "Play Stunt Stars for Free - Action-Packed Online Slot Game",
+                "meta_description": "Experience the thrills of Stunt Stars with its action-packed gameplay and high-quality symbols. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Stunt Stars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIntroduction/Overview\n\nStunt Stars is an action-packed online slot game from Lightning Box, perfect for fans of action films with gunfights, explosions, and dangerous chases. It features a standard 5×3 grid layout, with 243 ways to win, and offers a thrilling experience with high-quality symbols and immersive music.\n\nGameplay, RTP and Volatility\n\nStunt Stars offers a betting range between €0.3 and €90, with a payout rate of 95.99% and high volatility. Players can secure large payouts by aligning symbols from left to right and appearing on adjacent reels, and with a maximum payout of 17,010 times the wager, it provides some heart-stopping thrills!\n\nSymbols and Design\n\nStunt Stars features cartoonish high-quality symbols representing actors and actresses performing acrobatics on a film set. The low-value symbols are the card suits, while the high-value symbols include the stunt kit, the clapper, and the male and female stunt performers. Stunt Stars also offers special symbols such as the Skydive Scatter, Stunt Double Scatter, and Car Wild, all of which can contribute to large payouts.\n\nBonus Spins and Free Spins\n\nStunt Stars offers a Skydive Bonus triggered by landing three or more Skydive Scatters, giving players a chance to collect symbols such as hearts and stars to receive free spins and Stunt Double Scatters. However, watch out for parachutes, which mark the end of the jump and collection phase.\n\nStunt Stars Demo\n\nStunt Stars provides a demo version, allowing players to learn how to play this online slot game, see its unique features, and explore its mechanics without the need for a deposit.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Stunt Stars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIntroduction/Overview\n\nStunt Stars is an action-packed online slot game from Lightning Box, perfect for fans of action films with gunfights, explosions, and dangerous chases. It features a standard 5×3 grid layout, with 243 ways to win, and offers a thrilling experience with high-quality symbols and immersive music.\n\nGameplay, RTP and Volatility\n\nStunt Stars offers a betting range between €0.3 and €90, with a payout rate of 95.99% and high volatility. Players can secure large payouts by aligning symbols from left to right and appearing on adjacent reels, and with a maximum payout of 17,010 times the wager, it provides some heart-stopping thrills!\n\nSymbols and Design\n\nStunt Stars features cartoonish high-quality symbols representing actors and actresses performing acrobatics on a film set. The low-value symbols are the card suits, while the high-value symbols include the stunt kit, the clapper, and the male and female stunt performers. Stunt Stars also offers special symbols such as the Skydive Scatter, Stunt Double Scatter, and Car Wild, all of which can contribute to large payouts.\n\nBonus Spins and Free Spins\n\nStunt Stars offers a Skydive Bonus triggered by landing three or more Skydive Scatters, giving players a chance to collect symbols such as hearts and stars to receive free spins and Stunt Double Scatters. However, watch out for parachutes, which mark the end of the jump and collection phase.\n\nStunt Stars Demo\n\nStunt Stars provides a demo version, allowing players to learn how to play this online slot game, see its unique features, and explore its mechanics without the need for a deposit.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QLfX2JMZNFvWTHYdpiTcshaSe6fF",
+                "id": "chatcmpl-7WcvBjgFfMMWUkLTKmxoQpePe77iH",
                 "object": "chat.completion",
-                "created": 1686514179,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 528,
-                    "completion_tokens": 124,
-                    "total_tokens": 652
-                },
+                "created": 1688010465,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Exciting and immersive gameplay\",\n      \"High-quality symbols and graphics\",\n      \"243 ways to win\",\n      \"Skydive Bonus and other special symbols\"\n   ],\n   \"cons\": [\n      \"High volatility\",\n      \"No progressive jackpot\"\n   ],\n   \"meta_title\": \"Play Stunt Stars Free: A Thrilling Action-Packed Slot Game\",\n   \"meta_description\": \"Discover the exciting world of Stunt Stars and play for free. With 243 ways to win, special bonuses, and immersive gameplay, this game will keep you entertained!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Action-packed gameplay with thrilling features\",\n    \"High-quality symbols and immersive music\",\n    \"Chance to secure large payouts\",\n    \"Demo version available for free play and exploration\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"High volatility may not suit all players\"\n  ],\n  \"meta_title\": \"Play Stunt Stars for Free - Action-Packed Online Slot Game\",\n  \"meta_description\": \"Experience the thrills of Stunt Stars with its action-packed gameplay and high-quality symbols. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 525,
+                    "completion_tokens": 118,
+                    "total_tokens": 643
+                }
             }
         },
         {
@@ -809,6 +809,30 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_a54ce072-4f24-4f17-b342-0d984933e930_3.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_c0bb2b94-5fe8-413d-a96b-169c034f113e_1.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_a54ce072-4f24-4f17-b342-0d984933e930_2.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_a54ce072-4f24-4f17-b342-0d984933e930_4.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_c0bb2b94-5fe8-413d-a96b-169c034f113e_4.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_c0bb2b94-5fe8-413d-a96b-169c034f113e_3.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_a54ce072-4f24-4f17-b342-0d984933e930_1.png",
+        "arved__Please_design_a_feature_image_for_Stunt_Stars_that_inclu_c0bb2b94-5fe8-413d-a96b-169c034f113e_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Stunt Stars (Version 8).webp",
+        "game_reviews/processed_images/Stunt Stars (Version 7).webp",
+        "game_reviews/processed_images/Stunt Stars (Version 6).webp",
+        "game_reviews/processed_images/Stunt Stars (Version 5).webp"
+    ],
+    "filename": "game_reviews/translations/stunt-stars.json",
+    "slug": "stunt-stars",
+    "name": "Stunt Stars",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Stunt-Stars-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Stunt Stars for Free - Action-Packed Online Slot Game' ### Meta set: 'Experience the thrills of Stunt Stars with its action-packed gameplay and high-quality symbols. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

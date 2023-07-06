@@ -1,9 +1,9 @@
 import openai
 import traceback
-
+import config
 class ChatGpt:
 
-    API_KEY = "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"
+    API_KEY = config.API_KEY
     MAX_TOKENS = 4097 - 100
     ATTEMPTS = 3
 
@@ -46,6 +46,3 @@ class ChatGpt:
             except Exception as e:
                 print((str(e)))
                 traceback.print_exc()
-
-a = ChatGpt(prompt='Cartoon of a camel with cash')
-print(a.create_image())

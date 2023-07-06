@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Excellent graphics and animations",
-                    "Thematic soundtrack",
-                    "Free spins with Jolly symbols",
-                    "High RTP"
+                    "Excellent graphics with a fantasy theme",
+                    "Wide betting range from € 0.10 to € 20",
+                    "Exciting bonus features with free spins",
+                    "High RTP value of 96.56%"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "Fixed paylines"
+                    "Limited number of paylines with 10 fixed",
+                    "Gameplay may feel repetitive after extended play"
                 ],
-                "meta_title": "Play Crazy Wizard Free: Exciting Game with Free Spins",
-                "meta_description": "Enjoy playing online slot game Crazy Wizard free, featuring exciting gameplay, great graphics, and high RTP. Activate free spins with Jolly symbols."
+                "meta_title": "Play Crazy Wizard for Free",
+                "meta_description": "Read our review of Crazy Wizard, a fantasy-themed online slot game. Play for free and enjoy exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crazy Wizard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCrazy Wizard is a 5-reel, 3-row online slot game with 10 fixed paylines. To win, players need to have at least three identical symbols adjacent from left to right. The betting range is from € 0.10 to € 20 depending on the player's choices. We have the option to set between 10 and 50 automatic spins, including some win and loss limits.\n\nGraphics\n\nCrazy Wizard has a fantasy theme, and its graphics are of excellent quality. The grid has a completely black texture with flames in the background. Some animated effects follow wins and activation of the Free Spins feature. The music is driving but does not distract from the game. Players can turn the music off in the menu. The paylines are indicated on the sides of the frame, while at the bottom, divided into sectors, there are the balance, winnings, token value, and total bet. The Start and Autoplay buttons complete everything.\n\nBonus Features\n\nThe wizard is a paying Wild symbol in Crazy wizard, and it replaces all symbols except Scatter. Furthermore, in a paying line, it doubles the winnings. The dragon acts as the Scatter symbol. Three of these scatter symbols can trigger ten free spins. Four dragon symbols activate twenty free spins, while five of them trigger thirty free spins. In every free spin, 2, 3, or 4 regular symbols are randomly replaced with Jolly symbols. The free spins can be reactivated during the bonus game in the same way described above. The maximum number of free spins earned is 250.\n\nSymbols\n\nCrazy Wizard has a total of 10 symbols, 6 low-level and 4 high-level, plus 2 special ones. The playing cards from 10 to ace are worth less than all of them. The lower-level symbols are the ampoule, candle, magic sphere, and spellbook. The wizard is a paying Wild symbol. Covering the role of Jolly, it replaces all symbols except Scatter. Furthermore, in a paying line, it doubles the winnings. The dragon is the Scatter symbol.\n\nRTP Value\n\nCrazy Wizard has an RTP value of 96.56%, making it a highly respectable online slot game for players to enjoy.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crazy Wizard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCrazy Wizard is a 5-reel, 3-row online slot game with 10 fixed paylines. To win, players need to have at least three identical symbols adjacent from left to right. The betting range is from € 0.10 to € 20 depending on the player's choices. We have the option to set between 10 and 50 automatic spins, including some win and loss limits.\n\nGraphics\n\nCrazy Wizard has a fantasy theme, and its graphics are of excellent quality. The grid has a completely black texture with flames in the background. Some animated effects follow wins and activation of the Free Spins feature. The music is driving but does not distract from the game. Players can turn the music off in the menu. The paylines are indicated on the sides of the frame, while at the bottom, divided into sectors, there are the balance, winnings, token value, and total bet. The Start and Autoplay buttons complete everything.\n\nBonus Features\n\nThe wizard is a paying Wild symbol in Crazy wizard, and it replaces all symbols except Scatter. Furthermore, in a paying line, it doubles the winnings. The dragon acts as the Scatter symbol. Three of these scatter symbols can trigger ten free spins. Four dragon symbols activate twenty free spins, while five of them trigger thirty free spins. In every free spin, 2, 3, or 4 regular symbols are randomly replaced with Jolly symbols. The free spins can be reactivated during the bonus game in the same way described above. The maximum number of free spins earned is 250.\n\nSymbols\n\nCrazy Wizard has a total of 10 symbols, 6 low-level and 4 high-level, plus 2 special ones. The playing cards from 10 to ace are worth less than all of them. The lower-level symbols are the ampoule, candle, magic sphere, and spellbook. The wizard is a paying Wild symbol. Covering the role of Jolly, it replaces all symbols except Scatter. Furthermore, in a paying line, it doubles the winnings. The dragon is the Scatter symbol.\n\nRTP Value\n\nCrazy Wizard has an RTP value of 96.56%, making it a highly respectable online slot game for players to enjoy.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sxuw3Zhfd2mjwjxpC85Q3ZjBzQth",
+                "id": "chatcmpl-7WQcuaHGn8vtfsCbPK8SyAuI6nCaz",
                 "object": "chat.completion",
-                "created": 1687137862,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 636,
-                    "completion_tokens": 110,
-                    "total_tokens": 746
-                },
+                "created": 1687963204,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Excellent graphics and animations\",\n        \"Thematic soundtrack\",\n        \"Free spins with Jolly symbols\",\n        \"High RTP\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"Fixed paylines\"\n    ],\n    \"meta_title\": \"Play Crazy Wizard Free: Exciting Game with Free Spins\",\n    \"meta_description\": \"Enjoy playing online slot game Crazy Wizard free, featuring exciting gameplay, great graphics, and high RTP. Activate free spins with Jolly symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Excellent graphics with a fantasy theme\",\n    \"Wide betting range from € 0.10 to € 20\",\n    \"Exciting bonus features with free spins\",\n    \"High RTP value of 96.56%\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines with 10 fixed\",\n    \"Gameplay may feel repetitive after extended play\"\n  ],\n  \"meta_title\": \"Play Crazy Wizard for Free\",\n  \"meta_description\": \"Read our review of Crazy Wizard, a fantasy-themed online slot game. Play for free and enjoy exciting bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 633,
+                    "completion_tokens": 127,
+                    "total_tokens": 760
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_2.png",
         "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_2.png"
+        "arved__Create_a_feature_image_fitting_the_game_Crazy_Wizard_DAL_af136f45-3969-4e5e-91e8-43965584edaa_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Crazy Wizard (Version 2).webp",
+        "game_reviews/processed_images/Crazy Wizard (Version 1).webp",
         "game_reviews/processed_images/Crazy Wizard (Version 4).webp",
-        "game_reviews/processed_images/Crazy Wizard (Version 3).webp",
-        "game_reviews/processed_images/Crazy Wizard (Version 1).webp"
+        "game_reviews/processed_images/Crazy Wizard (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/crazy-wizard.json"
+    "filename": "game_reviews/translations/crazy-wizard.json",
+    "slug": "crazy-wizard",
+    "name": "Crazy Wizard",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crazy-Wizard-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crazy Wizard for Free' ### Meta set: 'Read our review of Crazy Wizard, a fantasy-themed online slot game. Play for free and enjoy exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

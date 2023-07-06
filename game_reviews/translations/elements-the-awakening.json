@@ -616,40 +616,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique fantasy interpretation of natural elements",
-                    "Cascading mechanism for concatenated wins",
-                    "Outstanding visual aspects and sound",
-                    "High-quality game developer"
+                    "Versatile themes and unique games",
+                    "Fantasy interpretation of natural elements",
+                    "Cascading mechanism for exciting gameplay",
+                    "Chance for concatenated wins"
                 ],
                 "cons": [
-                    "No progressive jackpot feature",
-                    "Limited slot selection for combining fantasy and natural themes"
+                    "Finding similar slots with the theme may be challenging"
                 ],
-                "meta_title": "Play Elements: The Awakening Online Slot Game for Free",
-                "meta_description": "Explore the features and gameplay of NetEnt's Elements: The Awakening online slot game for free. Read our review, find similar slots, and play for fun."
+                "meta_title": "Play Elements: The Awakening Free",
+                "meta_description": "Unbiased review of NetEnt's Elements: The Awakening online slot game. Play for free and win big."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Elements: The Awakening\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nA Neutral Review of Elements: The Awakening Online Slot Game\n\nThis review offers an unbiased analysis of NetEnt's Elements: The Awakening online slot game. The review covers its features, visual aspects, sound, gameplay, and a recommendation for other similar slots.\n\nNetEnt: A Top-Ranked Online Slot Developer\n\nNetEnt is highly regarded in the world of online slots due to its versatility in creating various themes and unique games.\n\nFantasy Interpretation of Natural Elements\n\nElements is an online slot game that features four natural elements, including air, water, fire, and earth, presented in a fantasy setting. The backdrop includes mountainous views, valleys, and an active volcano. The slot reel's symbols are composed of rocks with the various natural elements enclosed within them, along with special symbols such as water beings, fire and electricity golems, and air dragons.\n\nCascading Mechanism\n\nElements features a cascading mechanism where symbols fall from above instead of the reels. In the event of a winning combination, the symbols involved in the combination will get absorbed by a central talisman that will load with energy. Other symbols then fall from above, creating a chance for a concatenated win. To fill the talisman, players must achieve four concatenated wins.\n\nConcatenated Wins\n\nElements has a concatenated win system where players can receive multiple wins in a single turn. This system involves the cascading mechanism, where symbols that form a winning combination will get absorbed by a talisman, and new symbols will fall from above, giving players the opportunity to get more winning combinations.\n\nSimilar Slots to Elements\n\nFinding slots similar to Elements might be challenging, considering its unique theme. But for players who enjoy the concatenated win system, Fruit Case is an ideal option. Fruit Case, also from NetEnt, is a lighter game that makes for an excellent follow-up to the adventure and excitement of Elements.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Elements: The Awakening\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nA Neutral Review of Elements: The Awakening Online Slot Game\n\nThis review offers an unbiased analysis of NetEnt's Elements: The Awakening online slot game. The review covers its features, visual aspects, sound, gameplay, and a recommendation for other similar slots.\n\nNetEnt: A Top-Ranked Online Slot Developer\n\nNetEnt is highly regarded in the world of online slots due to its versatility in creating various themes and unique games.\n\nFantasy Interpretation of Natural Elements\n\nElements is an online slot game that features four natural elements, including air, water, fire, and earth, presented in a fantasy setting. The backdrop includes mountainous views, valleys, and an active volcano. The slot reel's symbols are composed of rocks with the various natural elements enclosed within them, along with special symbols such as water beings, fire and electricity golems, and air dragons.\n\nCascading Mechanism\n\nElements features a cascading mechanism where symbols fall from above instead of the reels. In the event of a winning combination, the symbols involved in the combination will get absorbed by a central talisman that will load with energy. Other symbols then fall from above, creating a chance for a concatenated win. To fill the talisman, players must achieve four concatenated wins.\n\nConcatenated Wins\n\nElements has a concatenated win system where players can receive multiple wins in a single turn. This system involves the cascading mechanism, where symbols that form a winning combination will get absorbed by a talisman, and new symbols will fall from above, giving players the opportunity to get more winning combinations.\n\nSimilar Slots to Elements\n\nFinding slots similar to Elements might be challenging, considering its unique theme. But for players who enjoy the concatenated win system, Fruit Case is an ideal option. Fruit Case, also from NetEnt, is a lighter game that makes for an excellent follow-up to the adventure and excitement of Elements.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCByYCHPAo1CVxhDO9xU6IecsENE",
+                "id": "chatcmpl-7WSBMwTXM2xwZxWXXzp4tUY7g6T6q",
                 "object": "chat.completion",
-                "created": 1687192734,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 556,
-                    "completion_tokens": 115,
-                    "total_tokens": 671
-                },
+                "created": 1687969184,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\"Unique fantasy interpretation of natural elements\", \"Cascading mechanism for concatenated wins\", \"Outstanding visual aspects and sound\", \"High-quality game developer\"],\n  \"cons\": [\"No progressive jackpot feature\", \"Limited slot selection for combining fantasy and natural themes\"],\n  \"meta_title\": \"Play Elements: The Awakening Online Slot Game for Free\",\n  \"meta_description\": \"Explore the features and gameplay of NetEnt's Elements: The Awakening online slot game for free. Read our review, find similar slots, and play for fun.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Versatile themes and unique games\",\n    \"Fantasy interpretation of natural elements\",\n    \"Cascading mechanism for exciting gameplay\",\n    \"Chance for concatenated wins\"\n  ],\n  \"cons\": [\n    \"Finding similar slots with the theme may be challenging\"\n  ],\n  \"meta_title\": \"Play Elements: The Awakening Free\",\n  \"meta_description\": \"Unbiased review of NetEnt's Elements: The Awakening online slot game. Play for free and win big.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 553,
+                    "completion_tokens": 105,
+                    "total_tokens": 658
+                }
             }
         },
         {
@@ -848,5 +847,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/elements-the-awakening.json"
+    "filename": "game_reviews/translations/elements-the-awakening.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_to_feature_the_game_Elements_The_Awakeni_d40f458e-b1a7-4014-ae87-6a834c0cccb3_4.png",
+        "arved__Create_an_image_to_feature_the_game_Elements_The_Awakeni_d40f458e-b1a7-4014-ae87-6a834c0cccb3_1.png",
+        "arved__Create_an_image_to_feature_the_game_Elements_The_Awakeni_d40f458e-b1a7-4014-ae87-6a834c0cccb3_3.png",
+        "arved__Create_an_image_to_feature_the_game_Elements_The_Awakeni_d40f458e-b1a7-4014-ae87-6a834c0cccb3_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "elements-the-awakening",
+    "name": "Elements: The Awakening",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/elements-the-awakening-free-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Elements: The Awakening Free' ### Meta set: 'Unbiased review of NetEnt's Elements: The Awakening online slot game. Play for free and win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

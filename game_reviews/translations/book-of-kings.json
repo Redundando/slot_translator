@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free bonuses and bonus features",
-                    "Wild symbols to replace all game symbols",
-                    "Highly rewarding protagonist explorer symbol",
-                    "Engaging mobile gameplay with no loss in graphics quality"
+                    "Offers free bonuses and special symbols",
+                    "Visually pleasing graphics with an Ancient Egypt theme",
+                    "Mobile-compatible with no loss in quality",
+                    "High RTP and volatility for high prizes"
                 ],
                 "cons": [
-                    "High volatility may not appeal to all players",
-                    "Limited paylines may not provide enough variety"
+                    "Game symbols may not offer as high payouts",
+                    "Lower frequency of wins compared to other games"
                 ],
-                "meta_title": "Play Free Book of Kings Slot - Big Wins Await",
-                "meta_description": "Discover the mysteries of Ancient Egypt and play Book of Kings, an online slot game with free bonuses, high rewards, and mobile compatibility. Play free now."
+                "meta_title": "Play Book of Kings for Free - Slot Game Review",
+                "meta_description": "Discover the gameplay, graphics, symbols, and mobile compatibility of Book of Kings in our review. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Kings\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonuses\n\nBook of Kings is a 5-reel, 10-payline online slot game that offers not only free bonuses but also the possibility to turn any random symbol into its new special icon. The slot's wild symbols are two: the book and the snake, which have the enormous power to replace all game symbols. The game features various bonuses and additional features that can lead to maximum winnings of up to 15,000 times your bet.\n\nGraphics and theme\n\nBook of Kings' graphics follow a typical Ancient Egypt theme, with the mysterious pyramids serving as the background and the game symbols including the Eye of Ra, the image of Tutankhamun, the protagonist explorer, and Horus (the falcon god). The game has a visually pleasing graphics that is well done and the soundtrack recalls a very pleasant traditional style that enhances the overall player's experience.\n\nSymbols and payouts\n\nBook of Kings' symbols include the common A, K, Q, J, and 10 paired with game-specific symbols such as the Eye of Ra, Tutankhamun, the protagonist explorer, and Horus (the falcon god). The protagonist explorer symbol is highly rewarding with combinations of her image on 2, 3, 4, or 5 boxes resulting in a prize equal to 1, 10, 50, or 500 times the total bet. The slot's two wild symbols are the book and the snake, which have the power to replace all game symbols. Five wild symbol combinations allow you to reach 200x your bet.\n\nMobile compatibility\n\nBook of Kings is a mobile-compatible game that keeps its visual quality and gameplay mechanics when played on a smartphone or tablet. The animations are engaging, and there is no loss in graphic quality.\n\nReturn to Player (RTP) and volatility\n\nThe Book of Kings slot game has an RTP of 96.5% and high volatility, guaranteeing relatively high prizes with lower frequency than other games. Experienced gamblers will find the Book of Kings slot to be a great addition to their repertoire.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Kings\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonuses\n\nBook of Kings is a 5-reel, 10-payline online slot game that offers not only free bonuses but also the possibility to turn any random symbol into its new special icon. The slot's wild symbols are two: the book and the snake, which have the enormous power to replace all game symbols. The game features various bonuses and additional features that can lead to maximum winnings of up to 15,000 times your bet.\n\nGraphics and theme\n\nBook of Kings' graphics follow a typical Ancient Egypt theme, with the mysterious pyramids serving as the background and the game symbols including the Eye of Ra, the image of Tutankhamun, the protagonist explorer, and Horus (the falcon god). The game has a visually pleasing graphics that is well done and the soundtrack recalls a very pleasant traditional style that enhances the overall player's experience.\n\nSymbols and payouts\n\nBook of Kings' symbols include the common A, K, Q, J, and 10 paired with game-specific symbols such as the Eye of Ra, Tutankhamun, the protagonist explorer, and Horus (the falcon god). The protagonist explorer symbol is highly rewarding with combinations of her image on 2, 3, 4, or 5 boxes resulting in a prize equal to 1, 10, 50, or 500 times the total bet. The slot's two wild symbols are the book and the snake, which have the power to replace all game symbols. Five wild symbol combinations allow you to reach 200x your bet.\n\nMobile compatibility\n\nBook of Kings is a mobile-compatible game that keeps its visual quality and gameplay mechanics when played on a smartphone or tablet. The animations are engaging, and there is no loss in graphic quality.\n\nReturn to Player (RTP) and volatility\n\nThe Book of Kings slot game has an RTP of 96.5% and high volatility, guaranteeing relatively high prizes with lower frequency than other games. Experienced gamblers will find the Book of Kings slot to be a great addition to their repertoire.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SjjWDxxxunYBBJxcAxL4Jn5IYv5o",
+                "id": "chatcmpl-7WOspd2KGMjH9LqymgMcOqZn5c6hI",
                 "object": "chat.completion",
-                "created": 1687083338,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 597,
-                    "completion_tokens": 134,
-                    "total_tokens": 731
-                },
+                "created": 1687956503,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free bonuses and bonus features\",\n        \"Wild symbols to replace all game symbols\",\n        \"Highly rewarding protagonist explorer symbol\",\n        \"Engaging mobile gameplay with no loss in graphics quality\"\n    ],\n    \"cons\": [\n        \"High volatility may not appeal to all players\",\n        \"Limited paylines may not provide enough variety\"\n    ],\n    \"meta_title\": \"Play Free Book of Kings Slot - Big Wins Await\",\n    \"meta_description\": \"Discover the mysteries of Ancient Egypt and play Book of Kings, an online slot game with free bonuses, high rewards, and mobile compatibility. Play free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Offers free bonuses and special symbols\",\n    \"Visually pleasing graphics with an Ancient Egypt theme\",\n    \"Mobile-compatible with no loss in quality\",\n    \"High RTP and volatility for high prizes\"\n  ],\n  \"cons\": [\n    \"Game symbols may not offer as high payouts\",\n    \"Lower frequency of wins compared to other games\"\n  ],\n  \"meta_title\": \"Play Book of Kings for Free - Slot Game Review\",\n  \"meta_description\": \"Discover the gameplay, graphics, symbols, and mobile compatibility of Book of Kings in our review. Play for free!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 594,
+                    "completion_tokens": 127,
+                    "total_tokens": 721
+                }
             }
         },
         {
@@ -820,9 +820,18 @@
         "arved__Prompt_Design_a_feature_image_for_the_online_slot_game_B_73654be8-84ad-4d74-872d-4b1712de8cfb_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Kings (Version 1).webp",
+        "game_reviews/processed_images/Book Of Kings (Version 2).webp",
         "game_reviews/processed_images/Book Of Kings (Version 3).webp",
-        "game_reviews/processed_images/Book Of Kings (Version 4).webp",
-        "game_reviews/processed_images/Book Of Kings (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Book Of Kings (Version 1).webp",
+        "game_reviews/processed_images/Book Of Kings (Version 4).webp"
+    ],
+    "slug": "book-of-kings",
+    "name": "Book of Kings",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Kings for Free - Slot Game Review' ### Meta set: 'Discover the gameplay, graphics, symbols, and mobile compatibility of Book of Kings in our review. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

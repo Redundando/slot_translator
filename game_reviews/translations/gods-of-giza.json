@@ -580,39 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay with rotating reels feature",
-                    "Moderate maximum exposure with less risk",
-                    "Attractive graphics and immersive theme",
-                    "Unique 4x4 reels layout"
+                    "Intriguing gameplay with rotating reels and 20 paylines",
+                    "Unique 4x4 reels and square playing field",
+                    "Variety of bonus features, including free spins",
+                    "Immersive theme and graphics inspired by Ancient Egypt"
                 ],
                 "cons": [
-                    "Payouts are moderate compared to other slot games"
+                    "Moderate maximum exposure compared to other slot games",
+                    "Limited betting range per spin"
                 ],
-                "meta_title": "Play Gods of Giza for free - Review of Game Features",
-                "meta_description": "Read our review of Gods of Giza slot game, with rotating reels, free spins, and engaging gameplay. Play for free and learn about its features."
+                "meta_title": "Play Gods of Giza & Enjoy Free Spins | Slot Game Review",
+                "meta_description": "Discover Gods of Giza, an engaging slot game with rotating reels, free spins, and immersive Ancient Egypt theme. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gods of Giza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nGods of Giza slot machine by Genesis Gaming offers an intriguing gameplay experience by using a different model than the industry standard. It features 4x4 reels, which means that the playing field is a square shape, and 20 paylines create an even set of combinations to draw from. The game is easy to understand and comes with rotating reels, scatters, free spins, and wilds, which makes it very engaging and fun.\n\nPaylines and Reels\n\nGods of Giza slot game comes with 4x4 reels and 20 active paylines situated in the middle of the screen. The game's layout is unique and differs from the industry norm. Its setup creates a square playing field, which makes it stand out among other slot games. The slot offers a betting range per spin of €0.20 to €40 per spin and has a line bet range of €0.01 to €2, making it suitable for most players.\n\nMaximum Exposure\n\nGods of Giza slot game has a maximum exposure of €16,000, which can be achieved by landing the best combination of symbols on a single spin. The bet range required to achieve this maximum payout is €40 per spin, and the jackpot is 400x the bet. This payout is moderate compared to other slot games in the industry, but it's achievable with less risk, making it more favourable to many players.\n\nBonus Features\n\nGods of Giza slot game comes with a variety of bonus features that make it very engaging. These features include a rotating reels feature that occurs during the free spins. The free spins feature is triggered by landing 3 or more scatter symbols on the 4 reels. Players get 8 free spins to start with, and there is a chance to trigger an additional 8 free spins. During the free spins, the playing area rotates 90 degrees for every free spin, creating new wins and exciting gameplay.\n\nTheme and Graphics\n\nGods of Giza slot game is inspired by the pyramids of Giza, and the theme is popular among slot game enthusiasts. The game's background features hieroglyphs mixed with powerful Egyptian deities that invoke a sense of calm, security, and fear. Genesis Gaming has done an excellent job of bringing Ancient Egypt to life with this slot game. The symbols are clear and easy to discern, and the slot's layout is pleasing to the eye, making it very immersive.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gods of Giza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nGods of Giza slot machine by Genesis Gaming offers an intriguing gameplay experience by using a different model than the industry standard. It features 4x4 reels, which means that the playing field is a square shape, and 20 paylines create an even set of combinations to draw from. The game is easy to understand and comes with rotating reels, scatters, free spins, and wilds, which makes it very engaging and fun.\n\nPaylines and Reels\n\nGods of Giza slot game comes with 4x4 reels and 20 active paylines situated in the middle of the screen. The game's layout is unique and differs from the industry norm. Its setup creates a square playing field, which makes it stand out among other slot games. The slot offers a betting range per spin of €0.20 to €40 per spin and has a line bet range of €0.01 to €2, making it suitable for most players.\n\nMaximum Exposure\n\nGods of Giza slot game has a maximum exposure of €16,000, which can be achieved by landing the best combination of symbols on a single spin. The bet range required to achieve this maximum payout is €40 per spin, and the jackpot is 400x the bet. This payout is moderate compared to other slot games in the industry, but it's achievable with less risk, making it more favourable to many players.\n\nBonus Features\n\nGods of Giza slot game comes with a variety of bonus features that make it very engaging. These features include a rotating reels feature that occurs during the free spins. The free spins feature is triggered by landing 3 or more scatter symbols on the 4 reels. Players get 8 free spins to start with, and there is a chance to trigger an additional 8 free spins. During the free spins, the playing area rotates 90 degrees for every free spin, creating new wins and exciting gameplay.\n\nTheme and Graphics\n\nGods of Giza slot game is inspired by the pyramids of Giza, and the theme is popular among slot game enthusiasts. The game's background features hieroglyphs mixed with powerful Egyptian deities that invoke a sense of calm, security, and fear. Genesis Gaming has done an excellent job of bringing Ancient Egypt to life with this slot game. The symbols are clear and easy to discern, and the slot's layout is pleasing to the eye, making it very immersive.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TPjmvJoYJnDwhqXp2gEEsgunv3Ho",
+                "id": "chatcmpl-7WTtr3THllnZm5WooudQobU1MqFLK",
                 "object": "chat.completion",
-                "created": 1687244802,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 675,
-                    "completion_tokens": 126,
-                    "total_tokens": 801
-                },
+                "created": 1687975787,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging gameplay with rotating reels feature\",\n        \"Moderate maximum exposure with less risk\",\n        \"Attractive graphics and immersive theme\",\n        \"Unique 4x4 reels layout\"\n    ],\n    \"cons\": [\n        \"Payouts are moderate compared to other slot games\"\n    ],\n    \"meta_title\": \"Play Gods of Giza for free - Review of Game Features\",\n    \"meta_description\": \"Read our review of Gods of Giza slot game, with rotating reels, free spins, and engaging gameplay. Play for free and learn about its features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Intriguing gameplay with rotating reels and 20 paylines\",\n    \"Unique 4x4 reels and square playing field\",\n    \"Variety of bonus features, including free spins\",\n    \"Immersive theme and graphics inspired by Ancient Egypt\"\n  ],\n  \"cons\": [\n    \"Moderate maximum exposure compared to other slot games\",\n    \"Limited betting range per spin\"\n  ],\n  \"meta_title\": \"Play Gods of Giza & Enjoy Free Spins | Slot Game Review\",\n  \"meta_description\": \"Discover Gods of Giza, an engaging slot game with rotating reels, free spins, and immersive Ancient Egypt theme. Play for free and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 672,
+                    "completion_tokens": 148,
+                    "total_tokens": 820
+                }
             }
         },
         {
@@ -811,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gods-of-giza.json"
+    "filename": "game_reviews/translations/gods-of-giza.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_3ad6c02f-46b4-43a5-81ec-a207859f49fd_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_3ad6c02f-46b4-43a5-81ec-a207859f49fd_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_cca7182e-f9b0-4c12-a794-416de6442e50_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_3ad6c02f-46b4-43a5-81ec-a207859f49fd_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_cca7182e-f9b0-4c12-a794-416de6442e50_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_cca7182e-f9b0-4c12-a794-416de6442e50_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_cca7182e-f9b0-4c12-a794-416de6442e50_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Gods_of_Giza_th_3ad6c02f-46b4-43a5-81ec-a207859f49fd_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gods Of Giza (Version 4).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 5).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 3).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 6).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 8).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 7).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 2).webp",
+        "game_reviews/processed_images/Gods Of Giza (Version 1).webp"
+    ],
+    "slug": "gods-of-giza",
+    "name": "Gods of Giza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gods-Of-Giza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gods of Giza & Enjoy Free Spins | Slot Game Review' ### Meta set: 'Discover Gods of Giza, an engaging slot game with rotating reels, free spins, and immersive Ancient Egypt theme. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

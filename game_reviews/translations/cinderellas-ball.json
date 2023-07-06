@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "A simple yet aesthetically pleasing game design",
-                    "Enchanting Cinderella-themed background graphics and symbols",
-                    "Wide range of bets from casual bettors to high rollers",
-                    "Possibility of playing various bonus rounds that amplify the fun"
+                    "Aesthetically pleasing game design with well-crafted graphics",
+                    "Enchanting theme that appeals to a female audience",
+                    "Wide range of bets suitable for both casual bettors and high rollers",
+                    "Interesting bonus rounds that amplify the fun and winning opportunities"
                 ],
                 "cons": [
-                    "Some small, more or less constant prizes with average variance",
-                    "May primarily attract a female audience"
+                    "Average variance may not appeal to players seeking very high or low volatility",
+                    "Theoretical return to player percentage of 95.23% may be lower than some other slots"
                 ],
-                "meta_title": "Play Cinderella's Ball Free: Magical Slot Machine Review",
-                "meta_description": "Read our Cinderella's Ball slot review to play a magical slot machine game free. With an intuitive gameplay, Cinderella's Ball offers bonus rounds and themed payouts."
+                "meta_title": "Play Cinderella's Ball for Free - A Magical and Enchanting Slot",
+                "meta_description": "Read our review of Cinderella's Ball, a slot game with thrilling gameplay and enchanting theme. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cinderella’s ball\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design\n\nCinderella's Ball has a simple yet aesthetically pleasing game design with well-crafted graphics and symbols standing out against a light background. The main screen features the iconic pumpkin carriage against a beautiful blue background with the title in golden letters. The game screen is framed by a red curtain.\n\nTheme\n\nThe game's theme is based on the Cinderella fairy tale and is portrayed through the background graphics and the symbols on the reels. It's a magical and enchanting theme that may primarily attract a female audience, but can also appeal to those who enjoy thrilling gameplay.\n\nTarget audience\n\nCinderella's Ball may be specifically designed to attract a female audience with its enchanting theme, but it's also a game that can offer a satisfying gaming experience to anyone who enjoys thrilling gameplay. Its wide range of bets, from 20 cents to €500 per spin, makes it perfect for both casual bettors and high rollers.\n\nFeatures and bonuses\n\nCinderella's Ball is a fairly simple slot machine consisting of five reels, three rows, and 20 total paylines. The game offers an interesting range of bets and the possibility of winning up to 800 times the value of your bet. The slot's most interesting aspect is the possibility of playing various bonus rounds that amplify the fun and translate into winning opportunities. One of the bonus features, the Bonus Ballroom function, allows the player to get the maximum prize worth up to 800 times the value of the bet.\n\nGameplay and payouts\n\nCinderella's Ball is of average variance and features a theoretical return to player percentage of 95.23%. Players can expect some small, more or less constant prizes, but with a little bit of patience, they can also potentially earn very profitable winnings. The game's symbols are divided into thematic and non-thematic, with the former including the carriage, the castle, the crystal slipper, and the magic wand. Overall, Cinderella's Ball offers an intuitive yet thrilling gameplay experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cinderella’s ball\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design\n\nCinderella's Ball has a simple yet aesthetically pleasing game design with well-crafted graphics and symbols standing out against a light background. The main screen features the iconic pumpkin carriage against a beautiful blue background with the title in golden letters. The game screen is framed by a red curtain.\n\nTheme\n\nThe game's theme is based on the Cinderella fairy tale and is portrayed through the background graphics and the symbols on the reels. It's a magical and enchanting theme that may primarily attract a female audience, but can also appeal to those who enjoy thrilling gameplay.\n\nTarget audience\n\nCinderella's Ball may be specifically designed to attract a female audience with its enchanting theme, but it's also a game that can offer a satisfying gaming experience to anyone who enjoys thrilling gameplay. Its wide range of bets, from 20 cents to €500 per spin, makes it perfect for both casual bettors and high rollers.\n\nFeatures and bonuses\n\nCinderella's Ball is a fairly simple slot machine consisting of five reels, three rows, and 20 total paylines. The game offers an interesting range of bets and the possibility of winning up to 800 times the value of your bet. The slot's most interesting aspect is the possibility of playing various bonus rounds that amplify the fun and translate into winning opportunities. One of the bonus features, the Bonus Ballroom function, allows the player to get the maximum prize worth up to 800 times the value of the bet.\n\nGameplay and payouts\n\nCinderella's Ball is of average variance and features a theoretical return to player percentage of 95.23%. Players can expect some small, more or less constant prizes, but with a little bit of patience, they can also potentially earn very profitable winnings. The game's symbols are divided into thematic and non-thematic, with the former including the carriage, the castle, the crystal slipper, and the magic wand. Overall, Cinderella's Ball offers an intuitive yet thrilling gameplay experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sv7o6lDrRd73pQxRmR4sV35Nnc4v",
+                "id": "chatcmpl-7WQIJ6vLJOtsP4tV1oqpOdlOPRhOy",
                 "object": "chat.completion",
-                "created": 1687127128,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 583,
-                    "completion_tokens": 151,
-                    "total_tokens": 734
-                },
+                "created": 1687961927,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"A simple yet aesthetically pleasing game design\",\n        \"Enchanting Cinderella-themed background graphics and symbols\",\n        \"Wide range of bets from casual bettors to high rollers\",\n        \"Possibility of playing various bonus rounds that amplify the fun\"\n    ],\n    \"cons\": [\n        \"Some small, more or less constant prizes with average variance\",\n        \"May primarily attract a female audience\"\n    ],\n    \"meta_title\": \"Play Cinderella's Ball Free: Magical Slot Machine Review\",\n    \"meta_description\": \"Read our Cinderella's Ball slot review to play a magical slot machine game free. With an intuitive gameplay, Cinderella's Ball offers bonus rounds and themed payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Aesthetically pleasing game design with well-crafted graphics\",\n    \"Enchanting theme that appeals to a female audience\",\n    \"Wide range of bets suitable for both casual bettors and high rollers\",\n    \"Interesting bonus rounds that amplify the fun and winning opportunities\"\n  ],\n  \"cons\": [\n    \"Average variance may not appeal to players seeking very high or low volatility\",\n    \"Theoretical return to player percentage of 95.23% may be lower than some other slots\"\n  ],\n  \"meta_title\": \"Play Cinderella's Ball for Free - A Magical and Enchanting Slot\",\n  \"meta_description\": \"Read our review of Cinderella's Ball, a slot game with thrilling gameplay and enchanting theme. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 580,
+                    "completion_tokens": 164,
+                    "total_tokens": 744
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_1.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_3.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_1.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_that_feature_2fe2db3a-cde5-4751-85ce-07c55263724b_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cinderellas Ball (Version 1).webp",
-        "game_reviews/processed_images/Cinderellas Ball (Version 3).webp",
+        "game_reviews/processed_images/Cinderellas Ball (Version 4).webp",
         "game_reviews/processed_images/Cinderellas Ball (Version 2).webp",
-        "game_reviews/processed_images/Cinderellas Ball (Version 4).webp"
+        "game_reviews/processed_images/Cinderellas Ball (Version 1).webp",
+        "game_reviews/processed_images/Cinderellas Ball (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/cinderellas-ball.json"
+    "filename": "game_reviews/translations/cinderellas-ball.json",
+    "slug": "cinderellas-ball",
+    "name": "Cinderella’s ball",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cinderellas-Ball-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cinderella's Ball for Free - A Magical and Enchanting Slot' ### Meta set: 'Read our review of Cinderella's Ball, a slot game with thrilling gameplay and enchanting theme. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

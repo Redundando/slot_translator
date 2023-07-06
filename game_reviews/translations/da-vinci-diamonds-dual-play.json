@@ -654,40 +654,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Tumbling Reels mode for better chances of winning",
-                    "Wild symbol for creating the best winning combinations",
-                    "Dual game panels for more potential paylines",
-                    "Luxurious design featuring precious stones and Da Vinci artwork"
+                    "Tumbling Reels mode for increased chances of winning",
+                    "Wild symbol and Extra Paylines Bonus feature",
+                    "Dual game panels for double the chances of winning",
+                    "Luxurious design featuring Da Vinci artwork"
                 ],
                 "cons": [
-                    "Limited number of free spins",
-                    "No progressive jackpot feature"
+                    "No progressive jackpot feature",
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play Da Vinci Diamonds Dual Play Free Slot | Review 2021",
-                "meta_description": "Discover the luxurious online slot game Da Vinci Diamonds Dual Play and play for free. Read our review and learn about its impressive features and payouts."
+                "meta_title": "Play Da Vinci Diamonds Dual Play Free",
+                "meta_description": "Read our review of Da Vinci Diamonds Dual Play slot game and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Da Vinci Diamonds Dual Play\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTumbling Reels mode\n\nThe Da Vinci Diamonds Dual Play slot machine offers the possibility of using the Tumbling Reels mode twice in the same gaming session. With this function, the icons fall from the top of the game panel and, in case of winning symbol combinations, disappear, leaving room for new symbols to multiply the chances of winning.\n\nWild symbol and Extra Paylines Bonus feature\n\nThe Wild symbol of the slot, namely the icon showing the homonymous writing, replaces all the other symbols like a joker, except for the Extra Paylines icon, in order to create the best winning combinations. Aligning three Bonus symbols on the same winning line instead grants access to the Extra Paylines Bonus, which rewards the lucky players with the automatic activation of 6 free spins.\n\nDual game panels\n\nDa Vinci Diamonds Dual Play doubles the game panels in a single screen. The slot machine keeps the 5 reels of the basic version and increases the potential number of paylines to 60, doubling the chances of winning.\n\nLuxurious design featuring Da Vinci artwork\n\nThe background of the slot features a red, luxurious golden-frosted frame, surrounded by a green background in which the reels are located. The symbols are the works of art of Leonardo da Vinci, such as the Mona Lisa, the Musician portrait, and Lady with an Ermine, and precious stones like amber, ruby, and emerald.\n\nUp to 300 free spins\n\nThe Extra Paylines Bonus rewards lucky players with the automatic activation of 6 free spins, and another 20 paylines become active for a total of 60 lines. When other Extra Paylines symbols appear on reels number 1, 2, and 3, the free spins will be reactivated up to a maximum of 300 times.\n\nMax payout of 5,000 times the bet\n\nIn the Da Vinci Diamonds Dual Play online slot machine, the luckiest symbol in winning combinations is the diamond icon with the writing Da Vinci Diamonds, which can pay up to 5,000 times the bet by appearing 5 times on the reels.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Da Vinci Diamonds Dual Play\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTumbling Reels mode\n\nThe Da Vinci Diamonds Dual Play slot machine offers the possibility of using the Tumbling Reels mode twice in the same gaming session. With this function, the icons fall from the top of the game panel and, in case of winning symbol combinations, disappear, leaving room for new symbols to multiply the chances of winning.\n\nWild symbol and Extra Paylines Bonus feature\n\nThe Wild symbol of the slot, namely the icon showing the homonymous writing, replaces all the other symbols like a joker, except for the Extra Paylines icon, in order to create the best winning combinations. Aligning three Bonus symbols on the same winning line instead grants access to the Extra Paylines Bonus, which rewards the lucky players with the automatic activation of 6 free spins.\n\nDual game panels\n\nDa Vinci Diamonds Dual Play doubles the game panels in a single screen. The slot machine keeps the 5 reels of the basic version and increases the potential number of paylines to 60, doubling the chances of winning.\n\nLuxurious design featuring Da Vinci artwork\n\nThe background of the slot features a red, luxurious golden-frosted frame, surrounded by a green background in which the reels are located. The symbols are the works of art of Leonardo da Vinci, such as the Mona Lisa, the Musician portrait, and Lady with an Ermine, and precious stones like amber, ruby, and emerald.\n\nUp to 300 free spins\n\nThe Extra Paylines Bonus rewards lucky players with the automatic activation of 6 free spins, and another 20 paylines become active for a total of 60 lines. When other Extra Paylines symbols appear on reels number 1, 2, and 3, the free spins will be reactivated up to a maximum of 300 times.\n\nMax payout of 5,000 times the bet\n\nIn the Da Vinci Diamonds Dual Play online slot machine, the luckiest symbol in winning combinations is the diamond icon with the writing Da Vinci Diamonds, which can pay up to 5,000 times the bet by appearing 5 times on the reels.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QG2bpUhmdfH6Wgs1vnntk7XJirBt",
+                "id": "chatcmpl-7WQsW7HoskNzIGLFN1g9DkhejdlQW",
                 "object": "chat.completion",
-                "created": 1686492545,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 601,
-                    "completion_tokens": 135,
-                    "total_tokens": 736
-                },
+                "created": 1687964172,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Tumbling Reels mode for better chances of winning\",\n        \"Wild symbol for creating the best winning combinations\",\n        \"Dual game panels for more potential paylines\",\n        \"Luxurious design featuring precious stones and Da Vinci artwork\"\n    ],\n    \"cons\": [\n        \"Limited number of free spins\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Da Vinci Diamonds Dual Play Free Slot | Review 2021\",\n    \"meta_description\": \"Discover the luxurious online slot game Da Vinci Diamonds Dual Play and play for free. Read our review and learn about its impressive features and payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Tumbling Reels mode for increased chances of winning\",\n    \"Wild symbol and Extra Paylines Bonus feature\",\n    \"Dual game panels for double the chances of winning\",\n    \"Luxurious design featuring Da Vinci artwork\"\n  ],\n  \"cons\": [\n    \"No progressive jackpot feature\",\n    \"Limited bonus features\"\n  ],\n  \"meta_title\": \"Play Da Vinci Diamonds Dual Play Free\",\n  \"meta_description\": \"Read our review of Da Vinci Diamonds Dual Play slot game and play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 598,
+                    "completion_tokens": 112,
+                    "total_tokens": 710
+                }
             }
         },
         {
@@ -888,15 +888,19 @@
     ],
     "filename": "game_reviews/translations/da-vinci-diamonds-dual-play.json",
     "raw_feature_images": [
-        "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_1.png",
         "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_3.png",
+        "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_4.png",
         "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_2.png",
-        "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_4.png"
+        "arved__Create_a_fun_and_engaging_feature_image_for_Da_Vinci_Dia_b51b929a-9951-4a49-b6f5-ea379b36097b_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Da Vinci Diamonds Dual Play (Version 2).webp",
         "game_reviews/processed_images/Da Vinci Diamonds Dual Play (Version 4).webp",
         "game_reviews/processed_images/Da Vinci Diamonds Dual Play (Version 1).webp",
-        "game_reviews/processed_images/Da Vinci Diamonds Dual Play (Version 2).webp",
         "game_reviews/processed_images/Da Vinci Diamonds Dual Play (Version 3).webp"
-    ]
+    ],
+    "slug": "da-vinci-diamonds-dual-play",
+    "name": "Da Vinci Diamonds Dual Play",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

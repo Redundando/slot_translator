@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Intricate and high-quality graphics",
-                    "Quetzalcoatl symbol can expand to cover an entire reel",
-                    "Three options available during the Free Spins round",
-                    "Multiple symbols that can award payouts even with just two matched"
+                    "Superior image quality and intricate design",
+                    "Quetzalcoatl symbol as a wild for massive wins",
+                    "Free spins with various wild reel options",
+                    "Maya-themed symbols with high payout potential"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "No progressive jackpot"
+                    "Limited options for free spins",
+                    "Mayan Magic may not appeal to players who prefer different themes"
                 ],
-                "meta_title": "Play Mayan Magic Free: Superior Graphics and Intricate Design",
-                "meta_description": "Read our Mayan Magic review and play for free! Experience this slot game's intricate design and Quetzalcoatl symbol that can expand to cover an entire reel."
+                "meta_title": "Play Mayan Magic Slot for Free",
+                "meta_description": "Read our review of Mayan Magic and play this slot game for free. Experience superior graphics and massive wins with wild symbols."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mayan Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Magic Theme and Graphics\n\nMayan Magic offers superior image quality and intricate design that feature statues, plants, and symbols, which transports players to a world of intricate details. The graphics are simply legendary, and Spielo continues to heavily promote Mayan Magic.\n\nQuetzalcoatl Symbol as a Wild\n\nThe standout symbol of Mayan Magic is the Quetzalcoatl, which acts as both a dragon-like creature and a wild. It can expand to cover an entire reel and can appear on any reel. This allows players to achieve massive wins along the fifty available paylines.\n\nFree Spins with Various Wild Reel Options\n\nThe Free Spins round in Mayan Magic is triggered with three or more golden coins scattered on the reels. Players can choose between three options: fifteen spins with the third reel completely wild, ten spins with reels two and four wild, or five spins with reels one, three, and five wild.\n\nMaya Themed Symbols including Masks and Emblems\n\nMayan Magic features ten standard symbols with fruits and plants. The Butterfly, the Maya green and purple emblems, and the golden Maya mask are the highlight symbols of the game and can award payouts with just two symbols matched. These symbols can pay from 2x to 500x your bet depending on how many matching symbols you have lined up.\n\nMaya Gold as an Alternative Game Option\n\nIf you loved Mayan Magic, we suggest checking out Spielo's other slot game, Maya Gold, which features even more bonus features, keeping your interest alive and providing substantial wins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mayan Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Magic Theme and Graphics\n\nMayan Magic offers superior image quality and intricate design that feature statues, plants, and symbols, which transports players to a world of intricate details. The graphics are simply legendary, and Spielo continues to heavily promote Mayan Magic.\n\nQuetzalcoatl Symbol as a Wild\n\nThe standout symbol of Mayan Magic is the Quetzalcoatl, which acts as both a dragon-like creature and a wild. It can expand to cover an entire reel and can appear on any reel. This allows players to achieve massive wins along the fifty available paylines.\n\nFree Spins with Various Wild Reel Options\n\nThe Free Spins round in Mayan Magic is triggered with three or more golden coins scattered on the reels. Players can choose between three options: fifteen spins with the third reel completely wild, ten spins with reels two and four wild, or five spins with reels one, three, and five wild.\n\nMaya Themed Symbols including Masks and Emblems\n\nMayan Magic features ten standard symbols with fruits and plants. The Butterfly, the Maya green and purple emblems, and the golden Maya mask are the highlight symbols of the game and can award payouts with just two symbols matched. These symbols can pay from 2x to 500x your bet depending on how many matching symbols you have lined up.\n\nMaya Gold as an Alternative Game Option\n\nIf you loved Mayan Magic, we suggest checking out Spielo's other slot game, Maya Gold, which features even more bonus features, keeping your interest alive and providing substantial wins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U6W9Z66A99GDCFLIoAXcg6KvVofP",
+                "id": "chatcmpl-7WXKTJ0jitp8WGdhgHVJfcOIs7vCY",
                 "object": "chat.completion",
-                "created": 1687409249,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988969,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Intricate and high-quality graphics\", \n        \"Quetzalcoatl symbol can expand to cover an entire reel\", \n        \"Three options available during the Free Spins round\", \n        \"Multiple symbols that can award payouts even with just two matched\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\", \n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Mayan Magic Free: Superior Graphics and Intricate Design\",\n    \"meta_description\": \"Read our Mayan Magic review and play for free! Experience this slot game's intricate design and Quetzalcoatl symbol that can expand to cover an entire reel.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Superior image quality and intricate design\",\n    \"Quetzalcoatl symbol as a wild for massive wins\",\n    \"Free spins with various wild reel options\",\n    \"Maya-themed symbols with high payout potential\"\n  ],\n  \"cons\": [\n    \"Limited options for free spins\",\n    \"Mayan Magic may not appeal to players who prefer different themes\"\n  ],\n  \"meta_title\": \"Play Mayan Magic Slot for Free\",\n  \"meta_description\": \"Read our review of Mayan Magic and play this slot game for free. Experience superior graphics and massive wins with wild symbols.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 495,
-                    "completion_tokens": 147,
-                    "total_tokens": 642
+                    "prompt_tokens": 492,
+                    "completion_tokens": 131,
+                    "total_tokens": 623
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mayan-magic.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_9eddfb47-7cb2-4859-a742-3002ddef17fa_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_9eddfb47-7cb2-4859-a742-3002ddef17fa_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_9eddfb47-7cb2-4859-a742-3002ddef17fa_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_9eddfb47-7cb2-4859-a742-3002ddef17fa_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mayan Magic (Version 2).webp",
+        "game_reviews/processed_images/Mayan Magic (Version 3).webp",
+        "game_reviews/processed_images/Mayan Magic (Version 1).webp",
+        "game_reviews/processed_images/Mayan Magic (Version 4).webp"
+    ],
+    "slug": "mayan-magic",
+    "name": "Mayan Magic",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mayan-Magic-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mayan Magic Slot for Free' ### Meta set: 'Read our review of Mayan Magic and play this slot game for free. Experience superior graphics and massive wins with wild symbols.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

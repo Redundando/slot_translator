@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Simple and essential graphic design",
-                    "Up to 40x your bet and win up to 30,000 coins",
-                    "Impressive Return to Player of 96.9%",
-                    "Exciting bonus game with multipliers up to 40x"
+                    "Versatile range of betting options",
+                    "Impressive Return to Player (RTP)",
+                    "Exciting bonus game with interesting prizes"
                 ],
                 "cons": [
                     "No Wild symbol",
-                    "Mini-game can become repetitive over time"
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Casino Island II Free - Review and Game Overview",
-                "meta_description": "Get ready to set sail with Casino Island II! Read our review and play Casino Island II free for a unique and enjoyable slot machine experience."
+                "meta_title": "Play Casino Island II for Free - Enjoy an Engaging Slot Experience",
+                "meta_description": "Play Casino Island II for free and explore the high seas in this enjoyable and unique slot machine."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Casino Island II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nCasino Island II offers a simple and essential graphic design that provides a background for the game without being invasive. The sea, the island, and the symbols are all depicted in a simple and stylized manner, with no excess movement to take away from the gameplay. This choice by the provider emphasizes the quality of the gameplay above all else, allowing players to focus solely on the game without any distractions.\n\nPaylines and Winnings\n\nThis slot machine offers up to forty times your bet with five reels and nine paylines in the base game. By placing the maximum bet, players can reach the jackpot and win up to 30,000 coins! Casino Island II offers a versatile range of bets, starting at 0.01 and going up to 45 coins, making it a great choice for players with different budgets.\n\nReturn to Player (RTP)\n\nThe theoretical Return to Player (RTP) of Casino Island II is an impressive 96.9%, well above the median for not only the same provider but also for most slot games in general. This is a significant advantage for players, as it means they have a higher chance of winning compared to other games.\n\nSymbols and Bonus Game\n\nThe symbols in Casino Island II are entirely thematic, referring to the seafaring world. There is no Wild symbol, but there is a Scatter represented by a small sailboat. When the Scatter appears twice on the reels in any position on an active payline, players gain access to a mini-game that offers very interesting prizes. During the bonus game, players have to navigate their way toward the island, avoiding rocks and other obstacles along the way. If players manage to reach the island, they can receive a multiplier of 5x to 40x, and even hitting rocks will award players with a Rock Award multiplier valued up to 3x their bet. The biggest prize of all is achieved when the treasure chest symbol appears on all five reels, resulting in a jackpot of 30,000 coins!\n\nPlayer Experience\n\nOverall, Casino Island II is an enjoyable and unique slot machine worth trying out for players looking for something a little different from traditional slot machines. As an experienced gambler, you'll appreciate the simplicity of the gameplay and the potential for high payouts. Give it a spin and explore the high seas for yourself!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Casino Island II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nCasino Island II offers a simple and essential graphic design that provides a background for the game without being invasive. The sea, the island, and the symbols are all depicted in a simple and stylized manner, with no excess movement to take away from the gameplay. This choice by the provider emphasizes the quality of the gameplay above all else, allowing players to focus solely on the game without any distractions.\n\nPaylines and Winnings\n\nThis slot machine offers up to forty times your bet with five reels and nine paylines in the base game. By placing the maximum bet, players can reach the jackpot and win up to 30,000 coins! Casino Island II offers a versatile range of bets, starting at 0.01 and going up to 45 coins, making it a great choice for players with different budgets.\n\nReturn to Player (RTP)\n\nThe theoretical Return to Player (RTP) of Casino Island II is an impressive 96.9%, well above the median for not only the same provider but also for most slot games in general. This is a significant advantage for players, as it means they have a higher chance of winning compared to other games.\n\nSymbols and Bonus Game\n\nThe symbols in Casino Island II are entirely thematic, referring to the seafaring world. There is no Wild symbol, but there is a Scatter represented by a small sailboat. When the Scatter appears twice on the reels in any position on an active payline, players gain access to a mini-game that offers very interesting prizes. During the bonus game, players have to navigate their way toward the island, avoiding rocks and other obstacles along the way. If players manage to reach the island, they can receive a multiplier of 5x to 40x, and even hitting rocks will award players with a Rock Award multiplier valued up to 3x their bet. The biggest prize of all is achieved when the treasure chest symbol appears on all five reels, resulting in a jackpot of 30,000 coins!\n\nPlayer Experience\n\nOverall, Casino Island II is an enjoyable and unique slot machine worth trying out for players looking for something a little different from traditional slot machines. As an experienced gambler, you'll appreciate the simplicity of the gameplay and the potential for high payouts. Give it a spin and explore the high seas for yourself!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SrZCM3rDq31MZSFUCubJLZcM8opm",
+                "id": "chatcmpl-7WPt22c9Y60mRqDPDx907vwNCihma",
                 "object": "chat.completion",
-                "created": 1687113450,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 650,
-                    "completion_tokens": 140,
-                    "total_tokens": 790
-                },
+                "created": 1687960360,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and essential graphic design\",\n        \"Up to 40x your bet and win up to 30,000 coins\",\n        \"Impressive Return to Player of 96.9%\",\n        \"Exciting bonus game with multipliers up to 40x\"\n    ],\n    \"cons\": [\n        \"No Wild symbol\",\n        \"Mini-game can become repetitive over time\"\n    ],\n    \"meta_title\": \"Play Casino Island II Free - Review and Game Overview\",\n    \"meta_description\": \"Get ready to set sail with Casino Island II! Read our review and play Casino Island II free for a unique and enjoyable slot machine experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and essential graphic design\",\n    \"Versatile range of betting options\",\n    \"Impressive Return to Player (RTP)\",\n    \"Exciting bonus game with interesting prizes\"\n  ],\n  \"cons\": [\n    \"No Wild symbol\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Casino Island II for Free - Enjoy an Engaging Slot Experience\",\n  \"meta_description\": \"Play Casino Island II for free and explore the high seas in this enjoyable and unique slot machine.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 647,
+                    "completion_tokens": 114,
+                    "total_tokens": 761
+                }
             }
         },
         {
@@ -819,10 +819,19 @@
         "arved__Create_a_fun_and_adventurous_feature_image_for_Casino_Is_c6647e21-a7be-4aa6-9e5e-b45393d175e2_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Casino Island Ii (Version 3).webp",
+        "game_reviews/processed_images/Casino Island Ii (Version 4).webp",
         "game_reviews/processed_images/Casino Island Ii (Version 2).webp",
-        "game_reviews/processed_images/Casino Island Ii (Version 1).webp",
-        "game_reviews/processed_images/Casino Island Ii (Version 4).webp"
+        "game_reviews/processed_images/Casino Island Ii (Version 3).webp",
+        "game_reviews/processed_images/Casino Island Ii (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/casino-island-ii.json"
+    "filename": "game_reviews/translations/casino-island-ii.json",
+    "slug": "casino-island-ii",
+    "name": "Casino Island II",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Casino-Island-Ii-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Casino Island II for Free - Enjoy an Engaging Slot Experience' ### Meta set: 'Play Casino Island II for free and explore the high seas in this enjoyable and unique slot machine.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

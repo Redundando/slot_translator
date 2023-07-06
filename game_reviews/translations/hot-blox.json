@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Innovative gameplay mechanics",
-                    "Exciting winning potential and multipliers",
+                    "Excellent winning potential",
                     "Flashy graphics and symbols",
-                    "Free spins feature with retrigger option"
+                    "Compatible with desktop and mobile devices"
                 ],
                 "cons": [
-                    "Uninspired game theme",
-                    "Limited backdrop visuals"
+                    "Lack of clear theme",
+                    "Limited free spins feature"
                 ],
-                "meta_title": "Play Hot Blox for Free: Unique Slot Game with Flashy Graphics",
-                "meta_description": "Ready to play Hot Blox for free? Read our review to discover this innovative and exciting slot game with flashy graphics and a free spins feature."
+                "meta_title": "Play Hot Blox Free - Innovative Gameplay with Excellent Winning Potential",
+                "meta_description": "Read our review of Hot Blox, a unique slot game with innovative gameplay and free spins feature."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hot Blox\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Rules\n\nHot Blox is a unique slot game with innovative gameplay mechanics that are different from the usual grid with reels. It features nine blocks with four symbols each, and each block spins independently to reveal four symbols. The aim of the game is to get four identical symbols in a block to win. When you win, the winnings from each block are added up. The game has a bet counter, betting options, and playtime at the bottom of the screen, while the spin button is on the left.\n\nWinning Potential and Multipliers\n\nHot Blox offers excellent winning potential and guarantees a very exciting gaming experience. For each win, the number of identical symbols on the entire screen determines the multiplier, which can range from 2x to 100x. The diamond symbol, which is the game's scatter, triggers the free spins feature when it appears three or four times anywhere. You can win seven or ten free spins, respectively when you trigger the free spins feature.\n\nGraphics and Design\n\nHot Blox is produced by High 5 Games, and it features flashy graphics and symbols that bring to mind classic casino slot machines. The game's theme is not particularly evident, with only a flaming red backdrop on which the reels stand out. The icons you'll find on the Hot Blox reels are traditional fruit machine symbols, including colorful fruits, bells, and the Red Seven, a red number 7.\n\nFree Spins Feature\n\nHot Blox has a free spins feature that is triggered when you land three or four diamond symbols, which is the game's scatter, anywhere on the reels. You can win seven or ten free spins, respectively, when you trigger the feature. You can also re-trigger the feature up to a maximum of 10 times by landing three or four diamond symbols during the free spins round.\n\nAccessibility and Compatibility\n\nHot Blox can be played on both desktop computers and mobile devices, including smartphones and tablets running on Windows, Android, or iOS. The game's settings buttons, including win and bet counters, betting options, and playtime, are located at the bottom of the screen, while the spin button is on the left. You can enjoy Hot Blox on your desktop or mobile device without having to download any software or mobile app.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hot Blox\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Rules\n\nHot Blox is a unique slot game with innovative gameplay mechanics that are different from the usual grid with reels. It features nine blocks with four symbols each, and each block spins independently to reveal four symbols. The aim of the game is to get four identical symbols in a block to win. When you win, the winnings from each block are added up. The game has a bet counter, betting options, and playtime at the bottom of the screen, while the spin button is on the left.\n\nWinning Potential and Multipliers\n\nHot Blox offers excellent winning potential and guarantees a very exciting gaming experience. For each win, the number of identical symbols on the entire screen determines the multiplier, which can range from 2x to 100x. The diamond symbol, which is the game's scatter, triggers the free spins feature when it appears three or four times anywhere. You can win seven or ten free spins, respectively when you trigger the free spins feature.\n\nGraphics and Design\n\nHot Blox is produced by High 5 Games, and it features flashy graphics and symbols that bring to mind classic casino slot machines. The game's theme is not particularly evident, with only a flaming red backdrop on which the reels stand out. The icons you'll find on the Hot Blox reels are traditional fruit machine symbols, including colorful fruits, bells, and the Red Seven, a red number 7.\n\nFree Spins Feature\n\nHot Blox has a free spins feature that is triggered when you land three or four diamond symbols, which is the game's scatter, anywhere on the reels. You can win seven or ten free spins, respectively, when you trigger the feature. You can also re-trigger the feature up to a maximum of 10 times by landing three or four diamond symbols during the free spins round.\n\nAccessibility and Compatibility\n\nHot Blox can be played on both desktop computers and mobile devices, including smartphones and tablets running on Windows, Android, or iOS. The game's settings buttons, including win and bet counters, betting options, and playtime, are located at the bottom of the screen, while the spin button is on the left. You can enjoy Hot Blox on your desktop or mobile device without having to download any software or mobile app.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TqtclTKtxI6ZKvwOQnUQ8RhDOyKi",
+                "id": "chatcmpl-7WUtECOZoM9ywifnnpY2QqWK8o8K6",
                 "object": "chat.completion",
-                "created": 1687349200,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687979592,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Innovative gameplay mechanics\",\n    \"Exciting winning potential and multipliers\",\n    \"Flashy graphics and symbols\",\n    \"Free spins feature with retrigger option\"\n  ],\n  \"cons\": [\n    \"Uninspired game theme\",\n    \"Limited backdrop visuals\"\n  ],\n  \"meta_title\": \"Play Hot Blox for Free: Unique Slot Game with Flashy Graphics\",\n  \"meta_description\": \"Ready to play Hot Blox for free? Read our review to discover this innovative and exciting slot game with flashy graphics and a free spins feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Innovative gameplay mechanics\",\n    \"Excellent winning potential\",\n    \"Flashy graphics and symbols\",\n    \"Compatible with desktop and mobile devices\"\n  ],\n  \"cons\": [\n    \"Lack of clear theme\",\n    \"Limited free spins feature\"\n  ],\n  \"meta_title\": \"Play Hot Blox Free - Innovative Gameplay with Excellent Winning Potential\",\n  \"meta_description\": \"Read our review of Hot Blox, a unique slot game with innovative gameplay and free spins feature.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 638,
-                    "completion_tokens": 124,
-                    "total_tokens": 762
+                    "prompt_tokens": 635,
+                    "completion_tokens": 108,
+                    "total_tokens": 743
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hot-blox.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_295ade3f-088e-497e-b636-50d5d16aabec_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_295ade3f-088e-497e-b636-50d5d16aabec_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_295ade3f-088e-497e-b636-50d5d16aabec_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_295ade3f-088e-497e-b636-50d5d16aabec_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hot Blox (Version 2).webp",
+        "game_reviews/processed_images/Hot Blox (Version 3).webp",
+        "game_reviews/processed_images/Hot Blox (Version 4).webp",
+        "game_reviews/processed_images/Hot Blox (Version 1).webp"
+    ],
+    "slug": "hot-blox",
+    "name": "Hot Blox",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hot-Blox-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hot Blox Free - Innovative Gameplay with Excellent Winning Potential' ### Meta set: 'Read our review of Hot Blox, a unique slot game with innovative gameplay and free spins feature.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

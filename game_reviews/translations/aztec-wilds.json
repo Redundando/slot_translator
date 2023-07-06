@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "1,024 possible ways to win",
-                    "Unique gameplay system",
                     "Highly polished graphics",
-                    "A variety of Wild Symbols"
+                    "Unique gameplay system",
+                    "Multiple Wild symbols",
+                    "Cascading symbols and Free Spins"
                 ],
                 "cons": [
-                    "High volatility",
-                    "No bonus games"
+                    "Limited appearance of 'sticky' Wild",
+                    "High volatility"
                 ],
-                "meta_title": "Play Aztec Wilds Free: A Thrilling Game with Multiple Wilds",
-                "meta_description": "Discover a new world of slot games with Aztec Wilds free play version. A game with a unique gameplay system filled with wild symbols and Free Spins."
+                "meta_title": "Play Aztec Wilds Free - Review of Gameplay, Wilds, Symbols, and Volatility",
+                "meta_description": "Read our review of Aztec Wilds gameplay, Wild symbols, Cascading symbols, and volatility. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aztec Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Layout\n\nAztec Wilds has a highly polished graphics standard and a unique gameplay system. The game grid consists of five reels and four rows, with 1,024 possible ways to win. The game has a cascading symbol system that replaces every winning combination with new symbols that could also be winning. If four consecutive combinations are achieved, Free Spins are activated. The game allows players to bet from a minimum of €0.50 to a maximum of €50.\n\nWild Symbols\n\nAztec Wilds has three different Wilds, which are the highlight of this game. The first is a regular Wild with the function of a Joker that can appear on reels 2, 3, 4, and 5, and can substitute for all symbols. The second Wild is called a 'sticky' Wild and can only appear on reel 3. If the symbols underneath it disappear, it drops by one row. The last Wild is an expanding Wild that can appear randomly on reels 2, 3, 4, and 5, occupying the entire reel and increasing the chances of winning combinations.\n\nCascading Symbols and Free Spins\n\nAztec Wilds has a cascading symbol system that replaces every winning combination with new symbols that could also be winning. If four consecutive combinations are achieved, Free Spins are activated. During the Free Spins, after four wins, a progressive multiplier is activated, which can reach a maximum of 6X. The game has 1,024 possible ways to win due to the different multipliers that can be activated during the Free Spins.\n\nVolatility and RTP\n\nAztec Wilds has an RTP of 96.2% and high volatility. The betting range is from €0.50 to €50 and players can activate from a minimum of five automatic spins up to a maximum of 999.\n\nTheme and Graphics\n\nAztec Wilds has a theme of the ancient Aztec civilization featuring their wealth and hidden treasures. The game grid is framed in stone, and the brightly colored symbols are etched onto square rocks. On either side of the grid are two circular-shaped sculptures representing magical symbols that are essential to the gameplay. The game has highly polished graphics, and its background music is dominated by tribal tunes featuring flutes and drums.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aztec Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Layout\n\nAztec Wilds has a highly polished graphics standard and a unique gameplay system. The game grid consists of five reels and four rows, with 1,024 possible ways to win. The game has a cascading symbol system that replaces every winning combination with new symbols that could also be winning. If four consecutive combinations are achieved, Free Spins are activated. The game allows players to bet from a minimum of €0.50 to a maximum of €50.\n\nWild Symbols\n\nAztec Wilds has three different Wilds, which are the highlight of this game. The first is a regular Wild with the function of a Joker that can appear on reels 2, 3, 4, and 5, and can substitute for all symbols. The second Wild is called a 'sticky' Wild and can only appear on reel 3. If the symbols underneath it disappear, it drops by one row. The last Wild is an expanding Wild that can appear randomly on reels 2, 3, 4, and 5, occupying the entire reel and increasing the chances of winning combinations.\n\nCascading Symbols and Free Spins\n\nAztec Wilds has a cascading symbol system that replaces every winning combination with new symbols that could also be winning. If four consecutive combinations are achieved, Free Spins are activated. During the Free Spins, after four wins, a progressive multiplier is activated, which can reach a maximum of 6X. The game has 1,024 possible ways to win due to the different multipliers that can be activated during the Free Spins.\n\nVolatility and RTP\n\nAztec Wilds has an RTP of 96.2% and high volatility. The betting range is from €0.50 to €50 and players can activate from a minimum of five automatic spins up to a maximum of 999.\n\nTheme and Graphics\n\nAztec Wilds has a theme of the ancient Aztec civilization featuring their wealth and hidden treasures. The game grid is framed in stone, and the brightly colored symbols are etched onto square rocks. On either side of the grid are two circular-shaped sculptures representing magical symbols that are essential to the gameplay. The game has highly polished graphics, and its background music is dominated by tribal tunes featuring flutes and drums.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SaucG44WeGG1rC0RzPFd0QcFHhBj",
+                "id": "chatcmpl-7WNflNwjJQCTrBnthGEygiMGE0F9k",
                 "object": "chat.completion",
-                "created": 1687049430,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 120,
-                    "total_tokens": 765
-                },
+                "created": 1687951849,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"1,024 possible ways to win\",\n        \"Unique gameplay system\",\n        \"Highly polished graphics\",\n        \"A variety of Wild Symbols\"\n    ],\n    \"cons\": [\n        \"High volatility\",\n        \"No bonus games\"\n    ],\n    \"meta_title\": \"Play Aztec Wilds Free: A Thrilling Game with Multiple Wilds\",\n    \"meta_description\": \"Discover a new world of slot games with Aztec Wilds free play version. A game with a unique gameplay system filled with wild symbols and Free Spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Highly polished graphics\",\n    \"Unique gameplay system\",\n    \"Multiple Wild symbols\",\n    \"Cascading symbols and Free Spins\"\n  ],\n  \"cons\": [\n    \"Limited appearance of 'sticky' Wild\",\n    \"High volatility\"\n  ],\n  \"meta_title\": \"Play Aztec Wilds Free - Review of Gameplay, Wilds, Symbols, and Volatility\",\n  \"meta_description\": \"Read our review of Aztec Wilds gameplay, Wild symbols, Cascading symbols, and volatility. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 642,
+                    "completion_tokens": 118,
+                    "total_tokens": 760
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/aztec-wilds.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_3.png",
-        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_4.png",
+        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_2.png",
         "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_1.png",
-        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_2.png"
+        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_3.png",
+        "arved__Create_a_feature_image_for_Aztec_Wilds_that_features_a_h_9a63c1dd-6eef-4fbf-b5af-9115a4c85f32_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Aztec Wilds (Version 3).webp",
         "game_reviews/processed_images/Aztec Wilds (Version 1).webp",
-        "game_reviews/processed_images/Aztec Wilds (Version 2).webp",
-        "game_reviews/processed_images/Aztec Wilds (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Aztec Wilds (Version 4).webp",
+        "game_reviews/processed_images/Aztec Wilds (Version 2).webp"
+    ],
+    "slug": "aztec-wilds",
+    "name": "Aztec Wilds",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aztec-Wilds-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aztec Wilds Free - Review of Gameplay, Wilds, Symbols, and Volatility' ### Meta set: 'Read our review of Aztec Wilds gameplay, Wild symbols, Cascading symbols, and volatility. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

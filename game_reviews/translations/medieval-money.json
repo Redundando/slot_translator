@@ -725,39 +725,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Medieval themed graphics are appealing",
-                    "Offers 5 different bonus games",
-                    "Great winning potential, especially during the Joust Free Spins Bonus",
-                    "Accessible to players with varying budgets"
+                    "Medieval theme adds to the immersive gameplay experience",
+                    "Multiple bonus features offer exciting opportunities to win",
+                    "Wide bet range accommodates players with different budgets",
+                    "High winning potential, especially during the Joust Free Spins Bonus"
                 ],
                 "cons": [
-                    "Only available on desktop devices",
-                    "Graphics could be better"
+                    "Cartoonish graphics may not appeal to all players",
+                    "Game only available on desktop devices"
                 ],
-                "meta_title": "Play Medieval Money Slot Free - Review & Bonus Features",
-                "meta_description": "Find out how to play Medieval Money, a medieval-themed slot game developed by IGT. Play it for free and enjoy 5 bonus features and great winning potential."
+                "meta_title": "Play Medieval Money Slot Game for Free",
+                "meta_description": "Read our review of Medieval Money, a slot game with a medieval theme and multiple bonus features. Play now for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Medieval Money\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMedieval Money Slot Game\n\nMedieval Money is a slot game by IGT with 5 reels and 20 paylines, featuring a medieval theme and cartoonish graphics. The game can be played on all desktop devices (PC or laptop) with a bet range from €0.20 up to €600 per spin.\n\nGameplay and Features\n\nWith 5 bonus features, Medieval Money's gameplay centers on its bonus rounds. The Archery Picker feature triggers the bonus games when 3 Bonus symbols appear on the central reels. Players can choose from 4 options: Money Bags Picker, Joust Free Spins Bonus, Spell Picker, or Dragon Path Bonus. Each feature offers varying cash prizes ranging from 2 to 200 times your bet depending on which is triggered.\n\nGraphics and Theme\n\nThe game's medieval theme features symbols such as jester hats, targets, kings, queens, princesses, knights, and the Medieval Money logo, which is the highest paying symbol. The cartoonish graphics may not be IGT's best, but they still complement the overall feel of the game and grow on players over time.\n\nDevice Compatibility\n\nMedieval Money is only available on desktop devices and can be played on PC or laptop.\n\nBonus Features\n\nMedieval Money offers 5 bonus features: Money Bags Picker, Joust Free Spins Bonus, Spell Picker, Dragon Path Bonus, and Archery Picker. Each bonus offers a different way to win cash prizes ranging from 2 to 200 times your bet depending on which is triggered.\n\nWinning Potential\n\nMedieval Money offers great winning potential, especially during its Joust Free Spins Bonus feature, which can lead to huge wins if you get a row of free spins. The Medieval Money logo symbol awards the highest payout of 1,000 times your bet if you manage to get 5 on a payline.\n\nBet Range\n\nMedieval Money's bet range is from €0.20 up to €600 per spin, making it accessible to players with varying budgets. The game offers a variety of cash prizes ranging from 2 to 200 times your bet, depending on the bonus feature triggered.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Medieval Money\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMedieval Money Slot Game\n\nMedieval Money is a slot game by IGT with 5 reels and 20 paylines, featuring a medieval theme and cartoonish graphics. The game can be played on all desktop devices (PC or laptop) with a bet range from €0.20 up to €600 per spin.\n\nGameplay and Features\n\nWith 5 bonus features, Medieval Money's gameplay centers on its bonus rounds. The Archery Picker feature triggers the bonus games when 3 Bonus symbols appear on the central reels. Players can choose from 4 options: Money Bags Picker, Joust Free Spins Bonus, Spell Picker, or Dragon Path Bonus. Each feature offers varying cash prizes ranging from 2 to 200 times your bet depending on which is triggered.\n\nGraphics and Theme\n\nThe game's medieval theme features symbols such as jester hats, targets, kings, queens, princesses, knights, and the Medieval Money logo, which is the highest paying symbol. The cartoonish graphics may not be IGT's best, but they still complement the overall feel of the game and grow on players over time.\n\nDevice Compatibility\n\nMedieval Money is only available on desktop devices and can be played on PC or laptop.\n\nBonus Features\n\nMedieval Money offers 5 bonus features: Money Bags Picker, Joust Free Spins Bonus, Spell Picker, Dragon Path Bonus, and Archery Picker. Each bonus offers a different way to win cash prizes ranging from 2 to 200 times your bet depending on which is triggered.\n\nWinning Potential\n\nMedieval Money offers great winning potential, especially during its Joust Free Spins Bonus feature, which can lead to huge wins if you get a row of free spins. The Medieval Money logo symbol awards the highest payout of 1,000 times your bet if you manage to get 5 on a payline.\n\nBet Range\n\nMedieval Money's bet range is from €0.20 up to €600 per spin, making it accessible to players with varying budgets. The game offers a variety of cash prizes ranging from 2 to 200 times your bet, depending on the bonus feature triggered.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7CDQ0A6sBf8x2XgO6HEgBNlXVjW",
+                "id": "chatcmpl-7WXQyiglWFkA3CEhKujjpwckCeNKN",
                 "object": "chat.completion",
-                "created": 1687411857,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989372,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Medieval themed graphics are appealing\", \"Offers 5 different bonus games\", \"Great winning potential, especially during the Joust Free Spins Bonus\", \"Accessible to players with varying budgets\"],\n    \"cons\": [\"Only available on desktop devices\", \"Graphics could be better\"],\n    \"meta_title\": \"Play Medieval Money Slot Free - Review & Bonus Features\",\n    \"meta_description\": \"Find out how to play Medieval Money, a medieval-themed slot game developed by IGT. Play it for free and enjoy 5 bonus features and great winning potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Medieval theme adds to the immersive gameplay experience\",\n    \"Multiple bonus features offer exciting opportunities to win\",\n    \"Wide bet range accommodates players with different budgets\",\n    \"High winning potential, especially during the Joust Free Spins Bonus\"\n  ],\n  \"cons\": [\n    \"Cartoonish graphics may not appeal to all players\",\n    \"Game only available on desktop devices\"\n  ],\n  \"meta_title\": \"Play Medieval Money Slot Game for Free\",\n  \"meta_description\": \"Read our review of Medieval Money, a slot game with a medieval theme and multiple bonus features. Play now for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 610,
-                    "completion_tokens": 120,
-                    "total_tokens": 730
+                    "prompt_tokens": 607,
+                    "completion_tokens": 134,
+                    "total_tokens": 741
                 }
             }
         },
@@ -956,5 +956,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/medieval-money.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_for_Medieval_Money_that_e_b8b30ce4-beb5-4a54-81b1-84b2a1dc33a3_3.png",
+        "arved__Create_a_feature_image_fitting_for_Medieval_Money_that_e_b8b30ce4-beb5-4a54-81b1-84b2a1dc33a3_2.png",
+        "arved__Create_a_feature_image_fitting_for_Medieval_Money_that_e_b8b30ce4-beb5-4a54-81b1-84b2a1dc33a3_4.png",
+        "arved__Create_a_feature_image_fitting_for_Medieval_Money_that_e_b8b30ce4-beb5-4a54-81b1-84b2a1dc33a3_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Medieval Money (Version 4).webp",
+        "game_reviews/processed_images/Medieval Money (Version 3).webp",
+        "game_reviews/processed_images/Medieval Money (Version 1).webp",
+        "game_reviews/processed_images/Medieval Money (Version 2).webp"
+    ],
+    "slug": "medieval-money",
+    "name": "Medieval Money",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Medieval-Money-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Medieval Money Slot Game for Free' ### Meta set: 'Read our review of Medieval Money, a slot game with a medieval theme and multiple bonus features. Play now for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

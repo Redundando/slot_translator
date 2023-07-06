@@ -53,18 +53,6 @@ def list_all_image_prompts():
                 print(dalle_prompt.replace("\n", " "), file=f)
 
 
-"""
-def load_all_jsons(directory="game_reviews/translations"):
-    result = []
-    jsons = glob.glob("game_reviews/translations/*.json")
-    for file in jsons:
-        f = open(file, encoding="utf8")
-        data = json.load(f)
-        result.append(data)
-    return result
-"""
-
-
 def read_image_data_csv(directory="game_reviews/images/"):
     files = glob.glob(directory + "image_data_*.*")
     result = []
@@ -105,7 +93,6 @@ def create_webp_feature_image(image_filename="", slug="", version=1):
         return None
     print(f"Saving image {processed_filename}")
     image = Image.open("game_reviews/images/" + image_filename)
-    # image.save(processed_filename, format="webp")
     webp_save_with_targetSize(image, processed_filename, 95000)
     return processed_filename
 
@@ -146,11 +133,8 @@ def create_all_webp_images(directory="game_reviews/translations"):
 
 
 if __name__ == "__main__":
-    # a = load_all_jsons()
-    # print((len(a)))
-    # image_data = read_image_data_csv()
+    image_data = read_image_data_csv()
+    print(len(image_data))
     # list_all_image_prompts()
-    # add_image_data_to_json(filename="game_reviews/translations/barbarian-fury.json", image_data=image_data)
-    # create_webp_feature_images(filename="game_reviews/translations/barbarian-fury.json")
-    add_all_image_datas()
+    # add_all_image_datas()
     create_all_webp_images()

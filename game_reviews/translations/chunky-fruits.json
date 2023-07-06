@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding Wild symbols with free spins",
-                    "Modern gameplay mechanics",
-                    "Nostalgic fruit symbols with immersive design",
+                    "Modern gameplay experience with a 5x3 game grid",
+                    "Expanding Wild symbols trigger free spins",
+                    "Immersive and nostalgic atmosphere",
                     "High-quality background music"
                 ],
                 "cons": [
-                    "Limited variety in symbols",
-                    "No bonus games or jackpots"
+                    "Limited variety of symbols",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Chunky Fruits Free Slot - Review & Rating",
-                "meta_description": "Experience modern gameplay mechanics and immersive design with expanding Wild symbols in Chunky Fruits. Play now for free, read our review and rating."
+                "meta_title": "Play Chunky Fruits Online for Free",
+                "meta_description": "Read our review of Chunky Fruits and play this slot game for free. Enjoy modern gameplay and expanding Wild symbols."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Chunky Fruits\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nChunky Fruits offers a modern gameplay experience with a 5x3 game grid, allowing for a greater number of combinations. The game also features expanding Wild symbols, which act as wild cards and trigger free spins with the symbols locked in position.\n\nSymbols and design\n\nAs the name suggests, Chunky Fruits revolves around fruit symbols such as plums, cherries, and lemons, accompanied by other common slot symbols like the BAR sign, diamonds, and number 7. The symbols are suspended in an ethereal fog on a purple background, creating an immersive and nostalgic atmosphere.\n\nExpanding Wild symbols\n\nThe BAR symbols in Chunky Fruits are expanding Wild symbols that unlock when they appear in the game grid. They expand along the entire reel and act as wild cards for all combinations, triggering a free spin with the Wild symbols locked in position.\n\nSimilar slots\n\nPlayers who enjoy the nostalgia of classic slot games featuring fruit symbols can find similar titles like Mega Joker, Bananas Go Bahamas, and SuperLiner.\n\nBackground music\n\nThe background music in Chunky Fruits is light and catchy, adding to the immersive atmosphere of the game. While the style of the music is reminiscent of classic slots, the quality and production are modern and of high standards.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Chunky Fruits\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nChunky Fruits offers a modern gameplay experience with a 5x3 game grid, allowing for a greater number of combinations. The game also features expanding Wild symbols, which act as wild cards and trigger free spins with the symbols locked in position.\n\nSymbols and design\n\nAs the name suggests, Chunky Fruits revolves around fruit symbols such as plums, cherries, and lemons, accompanied by other common slot symbols like the BAR sign, diamonds, and number 7. The symbols are suspended in an ethereal fog on a purple background, creating an immersive and nostalgic atmosphere.\n\nExpanding Wild symbols\n\nThe BAR symbols in Chunky Fruits are expanding Wild symbols that unlock when they appear in the game grid. They expand along the entire reel and act as wild cards for all combinations, triggering a free spin with the Wild symbols locked in position.\n\nSimilar slots\n\nPlayers who enjoy the nostalgia of classic slot games featuring fruit symbols can find similar titles like Mega Joker, Bananas Go Bahamas, and SuperLiner.\n\nBackground music\n\nThe background music in Chunky Fruits is light and catchy, adding to the immersive atmosphere of the game. While the style of the music is reminiscent of classic slots, the quality and production are modern and of high standards.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Suze0c48Or1EAu06OfPa8SXawVp0",
+                "id": "chatcmpl-7WQH6vMFDUsvlT2FPuKiIWPPzBZ3O",
                 "object": "chat.completion",
-                "created": 1687126622,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 437,
-                    "completion_tokens": 122,
-                    "total_tokens": 559
-                },
+                "created": 1687961852,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding Wild symbols with free spins\",\n        \"Modern gameplay mechanics\",\n        \"Nostalgic fruit symbols with immersive design\",\n        \"High-quality background music\"\n    ],\n    \"cons\": [\n        \"Limited variety in symbols\",\n        \"No bonus games or jackpots\"\n    ],\n    \"meta_title\": \"Play Chunky Fruits Free Slot - Review & Rating\",\n    \"meta_description\": \"Experience modern gameplay mechanics and immersive design with expanding Wild symbols in Chunky Fruits. Play now for free, read our review and rating.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Modern gameplay experience with a 5x3 game grid\",\n    \"Expanding Wild symbols trigger free spins\",\n    \"Immersive and nostalgic atmosphere\",\n    \"High-quality background music\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Chunky Fruits Online for Free\",\n  \"meta_description\": \"Read our review of Chunky Fruits and play this slot game for free. Enjoy modern gameplay and expanding Wild symbols.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 434,
+                    "completion_tokens": 116,
+                    "total_tokens": 550
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_1.png",
         "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_1.png"
+        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Chunky_Fruits_in_a_car_110171d1-d006-410e-ba65-24cd347d112c_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Chunky Fruits (Version 4).webp",
         "game_reviews/processed_images/Chunky Fruits (Version 3).webp",
         "game_reviews/processed_images/Chunky Fruits (Version 2).webp",
-        "game_reviews/processed_images/Chunky Fruits (Version 1).webp"
+        "game_reviews/processed_images/Chunky Fruits (Version 1).webp",
+        "game_reviews/processed_images/Chunky Fruits (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/chunky-fruits.json"
+    "filename": "game_reviews/translations/chunky-fruits.json",
+    "slug": "chunky-fruits",
+    "name": "Chunky Fruits",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Chunky-Fruits-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Chunky Fruits Online for Free' ### Meta set: 'Read our review of Chunky Fruits and play this slot game for free. Enjoy modern gameplay and expanding Wild symbols.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Easy to understand gameplay mechanics",
                     "Impressive 96% RTP rate",
-                    "Lucky You mode with free spins and multipliers",
-                    "Engaging gameplay mechanics",
-                    "Aesthetic appeal with unique symbols"
+                    "Lucky You mode with free spins and multiplied wins",
+                    "Visually appealing symbol design"
                 ],
                 "cons": [
-                    "Limited duration of the Lucky You mode",
-                    "No progressive jackpot"
+                    "Lucky You mode is short-lived",
+                    "Limited variety in symbols"
                 ],
-                "meta_title": "Play Lucky U Free: Review of Mechanics & RTP Rate",
-                "meta_description": "Read our review of Lucky U, the Playtech online slot game featuring impressive RTP, Lucky You mode, and appealing symbol design. Play for free today."
+                "meta_title": "Play Lucky U for Free",
+                "meta_description": "Read our review of Lucky U and play this engaging slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky U\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nLucky U features a 5x3 game grid with 96% RTP rate and easy to understand gameplay mechanics. The symbols on the reels include classic ones like A, K, Q, J, as well as unique icons like the American buffalo and pyramids from ancient civilizations. A special Lucky You mode triggers when you gather money symbols in a particular sequence and grants significant payouts.\n\nRTP Rate\n\nThe Lucky U slot game has an impressive 96% Return to Player (RTP) rate, which means that over time, players can expect to receive $96 for every $100 they bet on the game.\n\nLucky You Mode\n\nThe Lucky You mode in Lucky U provides players with the opportunity to receive free spins and multiply their wins by collecting stars. This mode is triggered when you collect money symbols in a particular sequence. It lasts a short while but can grant substantial rewards.\n\nSymbol Design\n\nLucky U features an array of classic slot game symbols such as A, K, Q, J, combined with unique icons like the American buffalo, idols from ancient civilizations, and pyramids from pharaonic Egypt. The game symbols are visually appealing and contribute to the overall aesthetic quality of the game.\n\nRecommendations\n\nLucky U is a simple, yet unique slot game that offers engaging gameplay mechanics and aesthetic appeal. Players who enjoyed this title might want to try other Playtech games such as Oceanus Rising, Buffalo Blitz, and Justice League Comic, which offer similar mechanics that correspond with different themes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky U\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nLucky U features a 5x3 game grid with 96% RTP rate and easy to understand gameplay mechanics. The symbols on the reels include classic ones like A, K, Q, J, as well as unique icons like the American buffalo and pyramids from ancient civilizations. A special Lucky You mode triggers when you gather money symbols in a particular sequence and grants significant payouts.\n\nRTP Rate\n\nThe Lucky U slot game has an impressive 96% Return to Player (RTP) rate, which means that over time, players can expect to receive $96 for every $100 they bet on the game.\n\nLucky You Mode\n\nThe Lucky You mode in Lucky U provides players with the opportunity to receive free spins and multiply their wins by collecting stars. This mode is triggered when you collect money symbols in a particular sequence. It lasts a short while but can grant substantial rewards.\n\nSymbol Design\n\nLucky U features an array of classic slot game symbols such as A, K, Q, J, combined with unique icons like the American buffalo, idols from ancient civilizations, and pyramids from pharaonic Egypt. The game symbols are visually appealing and contribute to the overall aesthetic quality of the game.\n\nRecommendations\n\nLucky U is a simple, yet unique slot game that offers engaging gameplay mechanics and aesthetic appeal. Players who enjoyed this title might want to try other Playtech games such as Oceanus Rising, Buffalo Blitz, and Justice League Comic, which offer similar mechanics that correspond with different themes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3uTHXfeWrVHB7AZWnX6VU90EaFL",
+                "id": "chatcmpl-7WWqVjRJkJKKleUXQTzl7SBdG6FfA",
                 "object": "chat.completion",
-                "created": 1687399225,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987111,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive 96% RTP rate\",\n        \"Lucky You mode with free spins and multipliers\",\n        \"Engaging gameplay mechanics\",\n        \"Aesthetic appeal with unique symbols\"\n    ],\n    \"cons\": [\n        \"Limited duration of the Lucky You mode\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Lucky U Free: Review of Mechanics & RTP Rate\",\n    \"meta_description\": \"Read our review of Lucky U, the Playtech online slot game featuring impressive RTP, Lucky You mode, and appealing symbol design. Play for free today.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Easy to understand gameplay mechanics\",\n      \"Impressive 96% RTP rate\",\n      \"Lucky You mode with free spins and multiplied wins\",\n      \"Visually appealing symbol design\"\n   ],\n   \"cons\": [\n      \"Lucky You mode is short-lived\",\n      \"Limited variety in symbols\"\n   ],\n   \"meta_title\": \"Play Lucky U for Free\",\n   \"meta_description\": \"Read our review of Lucky U and play this engaging slot game for free.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 485,
-                    "completion_tokens": 128,
-                    "total_tokens": 613
+                    "prompt_tokens": 482,
+                    "completion_tokens": 107,
+                    "total_tokens": 589
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-u.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_that_depi_4cd931e5-50bf-424d-a26e-1bf31560efd7_4.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_that_depi_4cd931e5-50bf-424d-a26e-1bf31560efd7_3.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_that_depi_4cd931e5-50bf-424d-a26e-1bf31560efd7_2.png",
+        "arved__Prompt_Create_a_feature_image_in_cartoon_style_that_depi_4cd931e5-50bf-424d-a26e-1bf31560efd7_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky U (Version 2).webp",
+        "game_reviews/processed_images/Lucky U (Version 1).webp",
+        "game_reviews/processed_images/Lucky U (Version 3).webp",
+        "game_reviews/processed_images/Lucky U (Version 4).webp"
+    ],
+    "slug": "lucky-u",
+    "name": "Lucky U",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-U-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky U for Free' ### Meta set: 'Read our review of Lucky U and play this engaging slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

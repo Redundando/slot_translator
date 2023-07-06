@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Den of Thieves and Free Spins feature",
-                    "Walking Wilds feature increases chances of winning",
-                    "Gameplay on all devices",
-                    "High-quality graphics and immersive backdrop"
+                    "Den of Thieves Bonus feature",
+                    "Free Spins feature",
+                    "Walking Wilds feature",
+                    "Gameplay on All Devices"
                 ],
                 "cons": [
-                    "Being caught by the thieves takes you back to the base game",
-                    "Only 8 free spins initially"
+                    "Potential to be caught by thieves in Den of Thieves Bonus feature",
+                    "Limited number of free spins"
                 ],
-                "meta_title": "Play Fortunes of Ali Baba Free – Slot Game Review",
-                "meta_description": "Read our review of Fortunes of Ali Baba slot game. Play for free and enjoy the Den of Thieves and Free Spins features, Walking Wilds, and high-quality graphics."
+                "meta_title": "Play Fortunes of Ali Baba Slot Game for Free",
+                "meta_description": "Read our review of Fortunes of Ali Baba and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fortunes of Ali Baba\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDen of Thieves Bonus Feature\n\nThe Den of Thieves Bonus feature in Fortunes of Ali Baba is activated by landing two Morgiana scatters on reels 1 and 5 during a base game spin. This feature takes you to the thieves’ hideout where you get to pick up cash prizes and also access the Free Spins feature. However, beware of being caught by the thieves in levels 2, 3, 4 and 5 as it will take you back to the base game.\n\nFree Spins Feature\n\nFortunes of Ali Baba has an enticing Free Spins feature that is activated alongside the Den of Thieves Bonus feature. Players get eight free spins, which can be reactivated if two Morgiana scatters land on the first and fifth reels. The Ali Baba wild symbol is present during this feature, and if a Thieves Wild is added on a free spin, the Walking Wilds feature is activated. This feature spins the reels again while the Thieves Wild approaches Ali Baba with each free spin, increasing the multiplier.\n\nWalking Wilds Feature\n\nThe Walking Wilds feature in Fortunes of Ali Baba is activated within the Free Spins feature, where players get a Thieves Wild added on a free spin. This feature makes the reels spin again with the Thieves Wild approaching Ali Baba with each free spin, increasing your chances of winning big.\n\nGameplay on All Devices\n\nFortunes of Ali Baba is a versatile slot game and can be played on all devices including desktops, laptops, tablets, and smartphones. The game is optimized for mobile devices, making the playing experience more enjoyable and seamless on smaller screens.\n\nHigh-quality Graphics\n\nFortunes of Ali Baba has high-quality graphics that are appealing and immersive. The backdrop of the game represents the thieves' hideout, with symbols such as precious jewels, mystical healing herbs, and Ali Baba's dagger. The game is inspired by Arabian Nights, with themed elements that will keep you entertained throughout your gameplay.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fortunes of Ali Baba\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDen of Thieves Bonus Feature\n\nThe Den of Thieves Bonus feature in Fortunes of Ali Baba is activated by landing two Morgiana scatters on reels 1 and 5 during a base game spin. This feature takes you to the thieves’ hideout where you get to pick up cash prizes and also access the Free Spins feature. However, beware of being caught by the thieves in levels 2, 3, 4 and 5 as it will take you back to the base game.\n\nFree Spins Feature\n\nFortunes of Ali Baba has an enticing Free Spins feature that is activated alongside the Den of Thieves Bonus feature. Players get eight free spins, which can be reactivated if two Morgiana scatters land on the first and fifth reels. The Ali Baba wild symbol is present during this feature, and if a Thieves Wild is added on a free spin, the Walking Wilds feature is activated. This feature spins the reels again while the Thieves Wild approaches Ali Baba with each free spin, increasing the multiplier.\n\nWalking Wilds Feature\n\nThe Walking Wilds feature in Fortunes of Ali Baba is activated within the Free Spins feature, where players get a Thieves Wild added on a free spin. This feature makes the reels spin again with the Thieves Wild approaching Ali Baba with each free spin, increasing your chances of winning big.\n\nGameplay on All Devices\n\nFortunes of Ali Baba is a versatile slot game and can be played on all devices including desktops, laptops, tablets, and smartphones. The game is optimized for mobile devices, making the playing experience more enjoyable and seamless on smaller screens.\n\nHigh-quality Graphics\n\nFortunes of Ali Baba has high-quality graphics that are appealing and immersive. The backdrop of the game represents the thieves' hideout, with symbols such as precious jewels, mystical healing herbs, and Ali Baba's dagger. The game is inspired by Arabian Nights, with themed elements that will keep you entertained throughout your gameplay.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TIOyBV8FUOJbamFYMpWvm7IrZDRT",
+                "id": "chatcmpl-7WT6fbKuOtzguvrFvTLdU1wnd9g7R",
                 "object": "chat.completion",
-                "created": 1687216604,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 579,
-                    "completion_tokens": 143,
-                    "total_tokens": 722
-                },
+                "created": 1687972737,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Den of Thieves and Free Spins feature\",\n        \"Walking Wilds feature increases chances of winning\",\n        \"Gameplay on all devices\",\n        \"High-quality graphics and immersive backdrop\"\n    ],\n    \"cons\": [\n        \"Being caught by the thieves takes you back to the base game\",\n        \"Only 8 free spins initially\"\n    ],\n    \"meta_title\": \"Play Fortunes of Ali Baba Free – Slot Game Review\",\n    \"meta_description\": \"Read our review of Fortunes of Ali Baba slot game. Play for free and enjoy the Den of Thieves and Free Spins features, Walking Wilds, and high-quality graphics.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Den of Thieves Bonus feature\",\n        \"Free Spins feature\",\n        \"Walking Wilds feature\",\n        \"Gameplay on All Devices\"\n    ],\n    \"cons\": [\n        \"Potential to be caught by thieves in Den of Thieves Bonus feature\",\n        \"Limited number of free spins\"\n    ],\n    \"meta_title\": \"Play Fortunes of Ali Baba Slot Game for Free\",\n    \"meta_description\": \"Read our review of Fortunes of Ali Baba and play this exciting slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 576,
+                    "completion_tokens": 113,
+                    "total_tokens": 689
+                }
             }
         },
         {
@@ -811,5 +811,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fortunes-of-ali-baba.json"
+    "filename": "game_reviews/translations/fortunes-of-ali-baba.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_ba62f138-b0c5-49ee-8e46-f2cd8b7435f1_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_a30b182a-071e-4f0a-8704-6ae29ee75d51_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_a30b182a-071e-4f0a-8704-6ae29ee75d51_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_ba62f138-b0c5-49ee-8e46-f2cd8b7435f1_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_ba62f138-b0c5-49ee-8e46-f2cd8b7435f1_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_ba62f138-b0c5-49ee-8e46-f2cd8b7435f1_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_a30b182a-071e-4f0a-8704-6ae29ee75d51_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_a30b182a-071e-4f0a-8704-6ae29ee75d51_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fortunes Of Ali Baba (Version 8).webp",
+        "game_reviews/processed_images/Fortunes Of Ali Baba (Version 7).webp",
+        "game_reviews/processed_images/Fortunes Of Ali Baba (Version 6).webp",
+        "game_reviews/processed_images/Fortunes Of Ali Baba (Version 5).webp"
+    ],
+    "slug": "fortunes-of-ali-baba",
+    "name": "Fortunes of Ali Baba",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fortunes-Of-Ali-Baba-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fortunes of Ali Baba Slot Game for Free' ### Meta set: 'Read our review of Fortunes of Ali Baba and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

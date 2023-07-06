@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic fruit slot game with special symbols",
-                    "Mini-bonus round and Free Spins feature",
-                    "Allows you to gamble winnings in a double-up game",
-                    "High-quality graphics and unique Wild West theme"
+                    "Classic fruit slot with a unique Wild West theme",
+                    "High-quality graphics and smooth animations",
+                    "Multiple bonus features for increased winnings",
+                    "Big Screen Mode for an immersive gaming experience"
                 ],
                 "cons": [
-                    "Only three reels and twenty-seven paylines",
-                    "Free Spins feature can only award up to 9 free spins"
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Mystery Jack Free Slot - Review and Gameplay",
-                "meta_description": "Read our review of Mystery Jack free slot game. Enjoy classic fruit slot gameplay mechanics, special symbols, and bonus rounds in this unique Wild West game."
+                "meta_title": "Play Mystery Jack for Free - A Classic Fruit Slot with a Wild West Theme",
+                "meta_description": "Read our review of Mystery Jack, a classic fruit slot with a Wild West theme. Play for free and enjoy bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystery Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nMystery Jack is a classic fruit slot game that features three reels and twenty-seven paylines. You can earn payouts for several combinations of symbols, and you can transfer your credits to your balance or try to increase your winnings in the double-up game.\n\nSpecial Symbols\n\nMystery Jack features three special symbols: the Wild symbol, the Bonus symbol, and the Scatter symbol. The Wild symbol can replace regular symbols and help you create winning combinations. The Bonus symbol rewards you with extra credits in the mini-bonus round, while the Scatter symbol triggers the Free Spins feature.\n\nBonus Rounds\n\nMystery Jack offers a mini-bonus round and a Free Spins feature. The mini-bonus round is triggered when you land three Bonus symbols on the reels. You can win credits ranging from 1 to 500 times your total bet. The Free Spins feature is triggered when you land three Scatter symbols anywhere on the reels. You can get up to 9 free spins.\n\nGambling Feature\n\nMystery Jack allows you to gamble your winnings in a double-up game. You can launch this round by clicking on the Gamble button after each successful spin. Your task is to guess the color of the card. Guessing right doubles your winnings, and guessing wrong cancels your winnings for the last spin. You can play half of your winnings in this round or collect your winnings at any time.\n\nGraphics\n\nMystery Jack features old-school cartoon symbols and a Wild West theme that creates a unique atmosphere. The slot looks great, with high-quality graphics and smooth animations. The Big Screen Mode feature also allows you to enjoy the western theme fully.\n\nTheme\n\nMystery Jack has a Wild West theme that is captured by the graphics and the symbols on the reels. The game takes place in an old western town and features symbols like cherries, lemons, oranges, plums, bells, sevens, BAR, and the angry bull icon. The cowboy Wild symbol and the moving train in the mini-bonus round add to the theme of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystery Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nMystery Jack is a classic fruit slot game that features three reels and twenty-seven paylines. You can earn payouts for several combinations of symbols, and you can transfer your credits to your balance or try to increase your winnings in the double-up game.\n\nSpecial Symbols\n\nMystery Jack features three special symbols: the Wild symbol, the Bonus symbol, and the Scatter symbol. The Wild symbol can replace regular symbols and help you create winning combinations. The Bonus symbol rewards you with extra credits in the mini-bonus round, while the Scatter symbol triggers the Free Spins feature.\n\nBonus Rounds\n\nMystery Jack offers a mini-bonus round and a Free Spins feature. The mini-bonus round is triggered when you land three Bonus symbols on the reels. You can win credits ranging from 1 to 500 times your total bet. The Free Spins feature is triggered when you land three Scatter symbols anywhere on the reels. You can get up to 9 free spins.\n\nGambling Feature\n\nMystery Jack allows you to gamble your winnings in a double-up game. You can launch this round by clicking on the Gamble button after each successful spin. Your task is to guess the color of the card. Guessing right doubles your winnings, and guessing wrong cancels your winnings for the last spin. You can play half of your winnings in this round or collect your winnings at any time.\n\nGraphics\n\nMystery Jack features old-school cartoon symbols and a Wild West theme that creates a unique atmosphere. The slot looks great, with high-quality graphics and smooth animations. The Big Screen Mode feature also allows you to enjoy the western theme fully.\n\nTheme\n\nMystery Jack has a Wild West theme that is captured by the graphics and the symbols on the reels. The game takes place in an old western town and features symbols like cherries, lemons, oranges, plums, bells, sevens, BAR, and the angry bull icon. The cowboy Wild symbol and the moving train in the mini-bonus round add to the theme of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDgVc96FA7y0r5Wzi5MJtw2jbSRm",
+                "id": "chatcmpl-7WYMY0M5kqoHIw1DASI5BCxBYK77x",
                 "object": "chat.completion",
-                "created": 1687436799,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992942,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic fruit slot game with special symbols\",\n        \"Mini-bonus round and Free Spins feature\",\n        \"Allows you to gamble winnings in a double-up game\",\n        \"High-quality graphics and unique Wild West theme\"\n    ],\n    \"cons\": [\n        \"Only three reels and twenty-seven paylines\",\n        \"Free Spins feature can only award up to 9 free spins\"\n    ],\n    \"meta_title\": \"Play Mystery Jack Free Slot - Review and Gameplay\",\n    \"meta_description\": \"Read our review of Mystery Jack free slot game. Enjoy classic fruit slot gameplay mechanics, special symbols, and bonus rounds in this unique Wild West game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic fruit slot with a unique Wild West theme\",\n    \"High-quality graphics and smooth animations\",\n    \"Multiple bonus features for increased winnings\",\n    \"Big Screen Mode for an immersive gaming experience\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Mystery Jack for Free - A Classic Fruit Slot with a Wild West Theme\",\n  \"meta_description\": \"Read our review of Mystery Jack, a classic fruit slot with a Wild West theme. Play for free and enjoy bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 143,
-                    "total_tokens": 735
+                    "prompt_tokens": 589,
+                    "completion_tokens": 126,
+                    "total_tokens": 715
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystery-jack.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mystery__9a073250-1473-4088-92d8-7f46d2d8b021_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mystery__9a073250-1473-4088-92d8-7f46d2d8b021_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mystery__9a073250-1473-4088-92d8-7f46d2d8b021_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mystery__9a073250-1473-4088-92d8-7f46d2d8b021_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystery Jack (Version 4).webp",
+        "game_reviews/processed_images/Mystery Jack (Version 1).webp",
+        "game_reviews/processed_images/Mystery Jack (Version 3).webp",
+        "game_reviews/processed_images/Mystery Jack (Version 2).webp"
+    ],
+    "slug": "mystery-jack",
+    "name": "Mystery Jack",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystery-Jack-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystery Jack for Free - A Classic Fruit Slot with a Wild West Theme' ### Meta set: 'Read our review of Mystery Jack, a classic fruit slot with a Wild West theme. Play for free and enjoy bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

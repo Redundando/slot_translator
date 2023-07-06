@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Above-average RTP of 96.05%",
-                    "Captivating graphics and animations",
-                    "Wilds, Scatters, and free spins offer many chances to win",
-                    "Bonus gambling game offers an opportunity to double winnings"
+                    "Well-designed graphics and animations",
+                    "Captivating ancient Egypt theme",
+                    "Variety of winning features including Wilds, Scatters, and free spins",
+                    "Chance to double winnings with bonus gambling game"
                 ],
                 "cons": [
-                    "Limited 10 ways to win",
-                    "Lack of bonus features"
+                    "Limited number of paylines (10 ways to win)",
+                    "High volatility may not appeal to all players"
                 ],
-                "meta_title": "Play Glory of Egypt for Free - Exciting Slot Game",
-                "meta_description": "Read our review of Glory of Egypt, a captivating slot game set in ancient Egypt. Play this game for free and enjoy Wilds, Scatters, and free spins."
+                "meta_title": "Play Glory of Egypt Free - A Captivating Ancient Egypt Slot Game",
+                "meta_description": "Play Glory of Egypt free and experience the captivating world of ancient Egypt with exciting features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Glory of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nGlory of Egypt is a 5-reel, 3-row slot game that offers 10 ways to win. The RTP of the game is 96.05%, which is above average. The maximum win is 5,000x the player's bet. The game features Wilds, Scatters, and free spins.\n\nGraphics and Animations\n\nThe game is set in ancient Egypt and features a temple structure filled with treasures. The graphics and animations are well done with a captivating atmosphere. The symbols include Caesar, Cleopatra, a gold bracelet, and playing cards. The soundtrack fits perfectly with the theme of the game.\n\nSymbols and Soundtrack\n\nThe game symbols consist of Caesar, Cleopatra, a gold bracelet, and the usual playing card symbols. Cleopatra is the Wild symbol and helps create winning combinations. The soundtrack works perfectly with the overall atmosphere of the game.\n\nWinning Potential\n\nGlory of Egypt has an industry-average RTP of 96.05% and offers a maximum win of 5,000x the player's bet. The game features include Wilds, Scatters, and free spins, all of which increase the player's chances of winning.\n\nBonus Gambling Game\n\nGlory of Egypt offers players the opportunity to double their winnings through a bonus gambling game. In this game, players must select one of four cards and hope that it has a higher value than the dealer's uncovered card. The maximum win multiplier is 10x.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Glory of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nGlory of Egypt is a 5-reel, 3-row slot game that offers 10 ways to win. The RTP of the game is 96.05%, which is above average. The maximum win is 5,000x the player's bet. The game features Wilds, Scatters, and free spins.\n\nGraphics and Animations\n\nThe game is set in ancient Egypt and features a temple structure filled with treasures. The graphics and animations are well done with a captivating atmosphere. The symbols include Caesar, Cleopatra, a gold bracelet, and playing cards. The soundtrack fits perfectly with the theme of the game.\n\nSymbols and Soundtrack\n\nThe game symbols consist of Caesar, Cleopatra, a gold bracelet, and the usual playing card symbols. Cleopatra is the Wild symbol and helps create winning combinations. The soundtrack works perfectly with the overall atmosphere of the game.\n\nWinning Potential\n\nGlory of Egypt has an industry-average RTP of 96.05% and offers a maximum win of 5,000x the player's bet. The game features include Wilds, Scatters, and free spins, all of which increase the player's chances of winning.\n\nBonus Gambling Game\n\nGlory of Egypt offers players the opportunity to double their winnings through a bonus gambling game. In this game, players must select one of four cards and hope that it has a higher value than the dealer's uncovered card. The maximum win multiplier is 10x.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TPU76aeYRNIoBL11n17ZBtgdtAad",
+                "id": "chatcmpl-7WTrrjaNT1mKx1bi5K2UvdIpq5GeC",
                 "object": "chat.completion",
-                "created": 1687243831,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 482,
-                    "completion_tokens": 141,
-                    "total_tokens": 623
-                },
+                "created": 1687975663,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Above-average RTP of 96.05%\",\n        \"Captivating graphics and animations\",\n        \"Wilds, Scatters, and free spins offer many chances to win\",\n        \"Bonus gambling game offers an opportunity to double winnings\"\n    ],\n    \"cons\": [\n        \"Limited 10 ways to win\",\n        \"Lack of bonus features\"\n    ],\n    \"meta_title\": \"Play Glory of Egypt for Free - Exciting Slot Game\",\n    \"meta_description\": \"Read our review of Glory of Egypt, a captivating slot game set in ancient Egypt. Play this game for free and enjoy Wilds, Scatters, and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-designed graphics and animations\",\n    \"Captivating ancient Egypt theme\",\n    \"Variety of winning features including Wilds, Scatters, and free spins\",\n    \"Chance to double winnings with bonus gambling game\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (10 ways to win)\",\n    \"High volatility may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Glory of Egypt Free - A Captivating Ancient Egypt Slot Game\",\n  \"meta_description\": \"Play Glory of Egypt free and experience the captivating world of ancient Egypt with exciting features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 479,
+                    "completion_tokens": 129,
+                    "total_tokens": 608
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/glory-of-egypt.json"
+    "filename": "game_reviews/translations/glory-of-egypt.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__4bdd1e18-c6d8-4e90-b85b-d56881e22a24_3.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__c178200d-ad18-4d18-8dda-8f574f848ce9_1.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__c178200d-ad18-4d18-8dda-8f574f848ce9_3.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__c178200d-ad18-4d18-8dda-8f574f848ce9_2.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__4bdd1e18-c6d8-4e90-b85b-d56881e22a24_1.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__4bdd1e18-c6d8-4e90-b85b-d56881e22a24_2.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__c178200d-ad18-4d18-8dda-8f574f848ce9_4.png",
+        "arved__Create_a_feature_image_for_Glory_of_Egypt_Please_create__4bdd1e18-c6d8-4e90-b85b-d56881e22a24_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Glory Of Egypt (Version 2).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 7).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 6).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 4).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 5).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 1).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 8).webp",
+        "game_reviews/processed_images/Glory Of Egypt (Version 3).webp"
+    ],
+    "slug": "glory-of-egypt",
+    "name": "Glory of Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Glory-Of-Egypt-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Glory of Egypt Free - A Captivating Ancient Egypt Slot Game' ### Meta set: 'Play Glory of Egypt free and experience the captivating world of ancient Egypt with exciting features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

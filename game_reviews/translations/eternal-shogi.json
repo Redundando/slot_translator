@@ -582,38 +582,38 @@
                 "pros": [
                     "Unique gameplay mechanics with central reel",
                     "Free spins mode with up to 16x multiplier",
-                    "Suitable betting ranges for both low and high rollers",
-                    "Symbols and bonus features inspired by traditional board games"
+                    "Wide range of betting options for all players",
+                    "Engaging symbols and bonus features"
                 ],
                 "cons": [
-                    "Limited to 10 paylines",
+                    "Limited number of paylines",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Eternal Shogi Free: Unique Gameplay & Bonus Features",
-                "meta_description": "Discover Eternal Shogi, a unique slot game with bonus features based on traditional board games. Play for free and enjoy suitable betting ranges for all levels."
+                "meta_title": "Play Eternal Shogi Free - Unique Gameplay and Exciting Bonus Features",
+                "meta_description": "Discover the unique gameplay and exciting bonus features in Eternal Shogi. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Eternal Shogi\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nEternal Shogi features ten paylines with five paying from left to right and the other five from right to left. The game's unique gameplay mechanics involve the central reel, and you activate the free spins feature by matching two high-paying symbols with one Scatter Wild. The minimum bet is 0.10€, and the maximum bet is 100.00€, but you can still enjoy the game's amazing features, irrespective of your bankroll.\n\nFree spins mode\n\nIf you match two high-paying symbols and one Scatter Wild, you activate Eternal Shogi's free spins mode where your winnings can be multiplied up to 16 times. With a possibility of getting between 5 to 100 free spins, you can get more playtime and increase your chances of winning big. The game's symbols also take into account the Year of the Dragon, providing you with bonus games and free spins that can enhance your gaming experience.\n\nBetting ranges\n\nThe game offers a range of bets suitable for players of all levels and can alter the game's volatility. The minimum bet is 0.10€, and the maximum bet is 100.00€, making it an excellent choice for both low and high rollers. You can also use the AutoPlay function to set the reels on autopilot based on your preferences.\n\nSymbols and bonus features\n\nThe game symbols in Eternal Shogi feature various icons inspired by traditional Chinese and Japanese board games, including a sacred carp, a temple, a bonsai, a lantern, and a fan. The Scatter Wild symbol is represented by the game's adorable characters, Panda and Turtle. Besides, the game takes into account the Year of the Dragon, providing you with bonus games and free spins that can enhance your gaming experience.\n\nAccessibility across devices\n\nSpearhead Studios' main goal is to revolutionize the iGaming industry by making games more engaging and accessible to any user. The developer has created a smooth and seamless gaming experience that is compatible with any device, ensuring that players have a fantastic and extraordinary gaming experience. You can try out the game library offered by online casinos ADM to discover other Spearhead titles like Meganova, taking you on an adventure through space, or Pirates of the Mediterranean, where you can explore the oceans in both demo mode or with real bets.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Eternal Shogi\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nEternal Shogi features ten paylines with five paying from left to right and the other five from right to left. The game's unique gameplay mechanics involve the central reel, and you activate the free spins feature by matching two high-paying symbols with one Scatter Wild. The minimum bet is 0.10€, and the maximum bet is 100.00€, but you can still enjoy the game's amazing features, irrespective of your bankroll.\n\nFree spins mode\n\nIf you match two high-paying symbols and one Scatter Wild, you activate Eternal Shogi's free spins mode where your winnings can be multiplied up to 16 times. With a possibility of getting between 5 to 100 free spins, you can get more playtime and increase your chances of winning big. The game's symbols also take into account the Year of the Dragon, providing you with bonus games and free spins that can enhance your gaming experience.\n\nBetting ranges\n\nThe game offers a range of bets suitable for players of all levels and can alter the game's volatility. The minimum bet is 0.10€, and the maximum bet is 100.00€, making it an excellent choice for both low and high rollers. You can also use the AutoPlay function to set the reels on autopilot based on your preferences.\n\nSymbols and bonus features\n\nThe game symbols in Eternal Shogi feature various icons inspired by traditional Chinese and Japanese board games, including a sacred carp, a temple, a bonsai, a lantern, and a fan. The Scatter Wild symbol is represented by the game's adorable characters, Panda and Turtle. Besides, the game takes into account the Year of the Dragon, providing you with bonus games and free spins that can enhance your gaming experience.\n\nAccessibility across devices\n\nSpearhead Studios' main goal is to revolutionize the iGaming industry by making games more engaging and accessible to any user. The developer has created a smooth and seamless gaming experience that is compatible with any device, ensuring that players have a fantastic and extraordinary gaming experience. You can try out the game library offered by online casinos ADM to discover other Spearhead titles like Meganova, taking you on an adventure through space, or Pirates of the Mediterranean, where you can explore the oceans in both demo mode or with real bets.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCljvADNuzUZ35UFn5xQet8CKN3p",
+                "id": "chatcmpl-7WSOqX00nkjRDnHwKUoJDeNnCjbl0",
                 "object": "chat.completion",
-                "created": 1687194951,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 135,
-                    "total_tokens": 780
-                },
+                "created": 1687970020,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gameplay mechanics with central reel\",\n        \"Free spins mode with up to 16x multiplier\",\n        \"Suitable betting ranges for both low and high rollers\",\n        \"Symbols and bonus features inspired by traditional board games\"\n    ],\n    \"cons\": [\n        \"Limited to 10 paylines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Eternal Shogi Free: Unique Gameplay & Bonus Features\",\n    \"meta_description\": \"Discover Eternal Shogi, a unique slot game with bonus features based on traditional board games. Play for free and enjoy suitable betting ranges for all levels.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics with central reel\",\n    \"Free spins mode with up to 16x multiplier\",\n    \"Wide range of betting options for all players\",\n    \"Engaging symbols and bonus features\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Eternal Shogi Free - Unique Gameplay and Exciting Bonus Features\",\n  \"meta_description\": \"Discover the unique gameplay and exciting bonus features in Eternal Shogi. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 642,
+                    "completion_tokens": 118,
+                    "total_tokens": 760
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/eternal-shogi.json"
+    "filename": "game_reviews/translations/eternal-shogi.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Eternal_Shogi_t_4ebd89b1-3f4b-47ff-a611-cb872e9f82e7_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Eternal_Shogi_t_4ebd89b1-3f4b-47ff-a611-cb872e9f82e7_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Eternal_Shogi_t_4ebd89b1-3f4b-47ff-a611-cb872e9f82e7_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Eternal_Shogi_t_4ebd89b1-3f4b-47ff-a611-cb872e9f82e7_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "eternal-shogi",
+    "name": "Eternal Shogi",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/eternal-shogi_gratis-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Eternal Shogi Free - Unique Gameplay and Exciting Bonus Features' ### Meta set: 'Discover the unique gameplay and exciting bonus features in Eternal Shogi. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

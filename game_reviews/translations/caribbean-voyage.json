@@ -654,40 +654,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting pirate-themed adventure",
-                    "Unique bonus round with Free Spins and more",
-                    "Wide range of betting options up to $500",
-                    "Free demo mode available"
+                    "Pirate-themed adventure with hidden treasures",
+                    "Unique bonus round with Free Spins and Expanding Wilds",
+                    "Bright and colorful graphics in line with the pirate theme",
+                    "High winning potential with bets up to $500 and medium RTP"
                 ],
                 "cons": [
-                    "Medium RTP of 96.60%",
-                    "Limited availability across online casinos"
+                    "Limited number of paylines (30)",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Caribbean Voyage Free Slot Game - Funta Gaming",
-                "meta_description": "Set sail for adventure in Caribbean Voyage, the exciting pirate-themed slot from Funta Gaming. Play for free or real money and win big with unique bonus features."
+                "meta_title": "Play Caribbean Voyage Slot for Free",
+                "meta_description": "Read our review of Caribbean Voyage slot game. Play for free and explore hidden treasures."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Caribbean Voyage\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCaribbean Voyage has a pirate theme that takes players on an adventure, accompanied by the captain of a pirate ship and a pirate girl. The aim is to find hidden treasures within the Caribbean Sea and its islands using maps and compasses. The game features a unique bonus round with Free Spins, Expanding Wilds, and Cascading Reels, all of which are triggered when players land winning combinations on the reels.\n\nTheme\n\nCaribbean Voyage is a pirate-themed slot game featuring a 5x4 reel and 30 paylines. The game takes place on the high seas and invites players to search for hidden treasures in the Caribbean islands. The game is bright, colorful, and features hero characters and symbols that are entirely in line with the pirate theme.\n\nBonuses and Features\n\nCaribbean Voyage offers an array of bonus features. The game's Wild symbol is a map and compass captured by the Kraken's tentacles, which can substitute for all standard symbols except the Scatter. During the base game, the standard Wild can become an Expanding Wild symbol.  The Scatter symbol is a ship at sea icon that triggers the Free Spins feature when players land three on the reels. The Free Spins feature is accompanied by the Kraken, who extends its tentacles to bring special bonus features with Expanding Wilds and Cascading Reels.\n\nWinning Potential\n\nCaribbean Voyage offers players the opportunity to win up to a million dollars with a wide range of bets between $1 and $500. The game has a medium RTP of 96.60%, making it an attractive option for experienced gamblers looking for high payout potential.\n\nFree Demo Mode\n\nCaribbean Voyage features a free demo mode that allows players to spin the reels for free before risking real money. By playing the demo version, you can explore the game's features, paytable, rules, and betting board and test out different betting strategies to find the best way to maximize winnings.\n\nDeveloper\n\nCaribbean Voyage is developed by Funta Gaming, a leading online casino game provider known for creating high-quality video slots with unique themes and exciting bonus features. Funta Gaming's portfolio includes a wide range of slots and table games that are popular among online casino players around the world.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Caribbean Voyage\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCaribbean Voyage has a pirate theme that takes players on an adventure, accompanied by the captain of a pirate ship and a pirate girl. The aim is to find hidden treasures within the Caribbean Sea and its islands using maps and compasses. The game features a unique bonus round with Free Spins, Expanding Wilds, and Cascading Reels, all of which are triggered when players land winning combinations on the reels.\n\nTheme\n\nCaribbean Voyage is a pirate-themed slot game featuring a 5x4 reel and 30 paylines. The game takes place on the high seas and invites players to search for hidden treasures in the Caribbean islands. The game is bright, colorful, and features hero characters and symbols that are entirely in line with the pirate theme.\n\nBonuses and Features\n\nCaribbean Voyage offers an array of bonus features. The game's Wild symbol is a map and compass captured by the Kraken's tentacles, which can substitute for all standard symbols except the Scatter. During the base game, the standard Wild can become an Expanding Wild symbol.  The Scatter symbol is a ship at sea icon that triggers the Free Spins feature when players land three on the reels. The Free Spins feature is accompanied by the Kraken, who extends its tentacles to bring special bonus features with Expanding Wilds and Cascading Reels.\n\nWinning Potential\n\nCaribbean Voyage offers players the opportunity to win up to a million dollars with a wide range of bets between $1 and $500. The game has a medium RTP of 96.60%, making it an attractive option for experienced gamblers looking for high payout potential.\n\nFree Demo Mode\n\nCaribbean Voyage features a free demo mode that allows players to spin the reels for free before risking real money. By playing the demo version, you can explore the game's features, paytable, rules, and betting board and test out different betting strategies to find the best way to maximize winnings.\n\nDeveloper\n\nCaribbean Voyage is developed by Funta Gaming, a leading online casino game provider known for creating high-quality video slots with unique themes and exciting bonus features. Funta Gaming's portfolio includes a wide range of slots and table games that are popular among online casino players around the world.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SqUtfbPJMChT9kLzNnccnPB1NJaN",
+                "id": "chatcmpl-7WPlRpLFTF96Ki8sJhhaTO3p9qqBN",
                 "object": "chat.completion",
-                "created": 1687109339,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 632,
-                    "completion_tokens": 130,
-                    "total_tokens": 762
-                },
+                "created": 1687959889,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting pirate-themed adventure\",\n        \"Unique bonus round with Free Spins and more\",\n        \"Wide range of betting options up to $500\",\n        \"Free demo mode available\"\n    ],\n    \"cons\": [\n        \"Medium RTP of 96.60%\",\n        \"Limited availability across online casinos\"\n    ],\n    \"meta_title\": \"Play Caribbean Voyage Free Slot Game - Funta Gaming\",\n    \"meta_description\": \"Set sail for adventure in Caribbean Voyage, the exciting pirate-themed slot from Funta Gaming. Play for free or real money and win big with unique bonus features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Pirate-themed adventure with hidden treasures\",\n    \"Unique bonus round with Free Spins and Expanding Wilds\",\n    \"Bright and colorful graphics in line with the pirate theme\",\n    \"High winning potential with bets up to $500 and medium RTP\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (30)\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Caribbean Voyage Slot for Free\",\n  \"meta_description\": \"Read our review of Caribbean Voyage slot game. Play for free and explore hidden treasures.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 629,
+                    "completion_tokens": 123,
+                    "total_tokens": 752
+                }
             }
         },
         {
@@ -887,16 +887,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_3.png",
         "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_4.png",
-        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_1.png",
-        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_2.png"
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_2.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_3.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Funta_Gamings_0f9de20b-5981-49c3-900b-92e04a0277a0_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Caribbean Voyage (Version 4).webp",
-        "game_reviews/processed_images/Caribbean Voyage (Version 3).webp",
         "game_reviews/processed_images/Caribbean Voyage (Version 2).webp",
-        "game_reviews/processed_images/Caribbean Voyage (Version 1).webp"
+        "game_reviews/processed_images/Caribbean Voyage (Version 3).webp",
+        "game_reviews/processed_images/Caribbean Voyage (Version 1).webp",
+        "game_reviews/processed_images/Caribbean Voyage (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/caribbean-voyage.json"
+    "filename": "game_reviews/translations/caribbean-voyage.json",
+    "slug": "caribbean-voyage",
+    "name": "Caribbean Voyage",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Caribbean-Voyage-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Caribbean Voyage Slot for Free' ### Meta set: 'Read our review of Caribbean Voyage slot game. Play for free and explore hidden treasures.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

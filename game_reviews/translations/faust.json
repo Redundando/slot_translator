@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Immersive and dark atmosphere",
+                    "Immersive atmosphere with dark and eerie mood",
                     "Sharp and well-designed graphics",
-                    "Straightforward gameplay",
-                    "Bonus features including free spins"
+                    "Simple and straightforward gameplay",
+                    "Exciting bonus features and free spins"
                 ],
                 "cons": [
                     "Limited number of paylines",
-                    "No progressive jackpot"
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Faust for Free - Dark Literary-Themed Slot Game",
-                "meta_description": "Discover the formula to defeat the devil in Faust, an immersive slot game inspired by Goethe's masterpiece. Play for free and access bonus features."
+                "meta_title": "Play Faust Slot Game Free",
+                "meta_description": "Discover the immersive atmosphere and exciting bonus features of Faust. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Faust\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFaust Slot Game\n\nFaust is a slot game developed by Novomatic that is inspired by the literary masterpiece of Goethe. This game offers a dark and immersive atmosphere that takes players on a journey through the alchemist's laboratory to discover the formula to defeat the devil himself. Faust is a 5-reel, 10-payline slot game with a minimum bet of 0.20 € and a maximum bet of 100 €.\n\nDesign and Atmosphere\n\nNovomatic has done an excellent job of creating a slot game with a truly immersive atmosphere. The alchemist's laboratory background, combined with the haunting soundtrack, creates an eerie and dark mood that engulfs players. The graphics are sharp and well-designed, and everything about the game feels polished and well-executed.\n\nSymbols and Gameplay\n\nThe symbols in Faust revolve around the alchemy lab and include Faust, his beloved Greta, tools of the lab, and food on a plate. There are also traditional playing card symbols from 9 to Ace. Mephistopheles acts as both the Wild and Scatter symbol, replacing all other symbols in a single play and unlocking the bonus features. The gameplay is straightforward, with players choosing the number of paylines to play on and then clicking the 'Play' button to start the spins. There is also an Autoplay function that can be set to run a consecutive number of spins until the stop button is pressed.\n\nBonus Features\n\nMephistopheles plays a significant role in Faust, acting as both the winner and the loser. It allows players to access both bonus and free spins. At the beginning of each free spin round, a symbol is randomly selected to become the 'expanding symbol.' This symbol will expand to cover three positions when it appears during the free spins.\n\nOther Literary-Themed Slot Games\n\nIf you're a fan of literary-themed slot games, then you're in luck. World Match has developed Dante's Hell, a complex game with bonuses and free spins, where one follows Dante through Hell, Heaven, and Purgatory. Betsoft offers Pinocchio, inspired by Carlo Collodi's famous storybook, which provides an exciting and adventurous gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Faust\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFaust Slot Game\n\nFaust is a slot game developed by Novomatic that is inspired by the literary masterpiece of Goethe. This game offers a dark and immersive atmosphere that takes players on a journey through the alchemist's laboratory to discover the formula to defeat the devil himself. Faust is a 5-reel, 10-payline slot game with a minimum bet of 0.20 € and a maximum bet of 100 €.\n\nDesign and Atmosphere\n\nNovomatic has done an excellent job of creating a slot game with a truly immersive atmosphere. The alchemist's laboratory background, combined with the haunting soundtrack, creates an eerie and dark mood that engulfs players. The graphics are sharp and well-designed, and everything about the game feels polished and well-executed.\n\nSymbols and Gameplay\n\nThe symbols in Faust revolve around the alchemy lab and include Faust, his beloved Greta, tools of the lab, and food on a plate. There are also traditional playing card symbols from 9 to Ace. Mephistopheles acts as both the Wild and Scatter symbol, replacing all other symbols in a single play and unlocking the bonus features. The gameplay is straightforward, with players choosing the number of paylines to play on and then clicking the 'Play' button to start the spins. There is also an Autoplay function that can be set to run a consecutive number of spins until the stop button is pressed.\n\nBonus Features\n\nMephistopheles plays a significant role in Faust, acting as both the winner and the loser. It allows players to access both bonus and free spins. At the beginning of each free spin round, a symbol is randomly selected to become the 'expanding symbol.' This symbol will expand to cover three positions when it appears during the free spins.\n\nOther Literary-Themed Slot Games\n\nIf you're a fan of literary-themed slot games, then you're in luck. World Match has developed Dante's Hell, a complex game with bonuses and free spins, where one follows Dante through Hell, Heaven, and Purgatory. Betsoft offers Pinocchio, inspired by Carlo Collodi's famous storybook, which provides an exciting and adventurous gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEV1JPDGd5oGX01nJLdMLOm786x9",
+                "id": "chatcmpl-7WSbxhjN7NSaIBI554ND45IddHUYG",
                 "object": "chat.completion",
-                "created": 1687201603,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 116,
-                    "total_tokens": 739
-                },
+                "created": 1687970833,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"Immersive and dark atmosphere\",\n      \"Sharp and well-designed graphics\",\n      \"Straightforward gameplay\",\n      \"Bonus features including free spins\"\n   ],\n   \"cons\":[\n      \"Limited number of paylines\",\n      \"No progressive jackpot\"\n   ],\n   \"meta_title\":\"Play Faust for Free - Dark Literary-Themed Slot Game\",\n   \"meta_description\":\"Discover the formula to defeat the devil in Faust, an immersive slot game inspired by Goethe's masterpiece. Play for free and access bonus features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive atmosphere with dark and eerie mood\",\n    \"Sharp and well-designed graphics\",\n    \"Simple and straightforward gameplay\",\n    \"Exciting bonus features and free spins\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Faust Slot Game Free\",\n  \"meta_description\": \"Discover the immersive atmosphere and exciting bonus features of Faust. Play for free.\"  \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 620,
+                    "completion_tokens": 105,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/faust.json"
+    "filename": "game_reviews/translations/faust.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_0ac3878e-7e1d-4629-a2f9-d579a4afdb03_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_0ac3878e-7e1d-4629-a2f9-d579a4afdb03_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_0ac3878e-7e1d-4629-a2f9-d579a4afdb03_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_0ac3878e-7e1d-4629-a2f9-d579a4afdb03_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "faust",
+    "name": "Faust",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/faust-slot-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Faust Slot Game Free' ### Meta set: 'Discover the immersive atmosphere and exciting bonus features of Faust. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

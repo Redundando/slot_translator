@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Easy to understand gameplay and rules",
+                    "Simple and easy to understand gameplay",
                     "Supermeter function for bigger jackpots",
-                    "Simple and recognizable symbols",
-                    "Ideal for players who enjoy classic slots"
+                    "Clear and recognizable symbols",
+                    "Suitable for all players"
                 ],
                 "cons": [
-                    "Graphics and animations are not very modern or flashy",
+                    "Graphics are not flashy",
                     "Limited number of paylines"
                 ],
-                "meta_title": "Play Jackpot 6000 Free - Review of Classic Slot Game",
-                "meta_description": "Experience the nostalgia of classic slot games with Jackpot 6000. Simple rules and controls, supermeter function for bigger jackpots. Play for free today."
+                "meta_title": "Play Jackpot 6000 for Free",
+                "meta_description": "Read our review of Jackpot 6000 and play for free without any registration or download."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jackpot 6000\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nJackpot 6000 by NetEnt is a classic slot game with 5 reels and 10 paylines. The game is simple and easy to understand with intuitive controls. The player must set their bet before spinning the reels and hope to match winning combinations of symbols to win prizes.\n\nSupermeter Function\n\nThe Supermeter function is a key feature of Jackpot 6000. Players can activate this function by betting the maximum, which allows them to potentially win bigger jackpots. The bets are higher in this mode, with a minimum of 20 coins across all 5 paylines. If players position 2 jokers on a single line, they could win anywhere from 10 to 6,000 coins.\n\nWinning Combinations and Paylines\n\nThe symbols used in Jackpot 6000 are simple and ranked in order of importance, with cherries and lemons as the lowest paying symbols and the wild symbol as the highest paying. Winning combinations can be achieved by matching symbols on any of the 10 paylines, with higher payouts for more symbols matched.\n\nGraphics and Symbols\n\nJackpot 6000 features a minimalistic design, resembling a classic slot machine found in bars and casinos. The symbols used in the game are simple and easy to recognize, with an emphasis on traditional slot symbols such as cherries, lemons, and bells. The graphics are not flashy, but they add to the overall vintage feel of the game.\n\nTarget Audience and Overall Experience\n\nJackpot 6000 is ideal for players who want to experience the nostalgia of classic slot games without the added complexity of modern animations and features. The game is suitable for all players, regardless of their experience level, with simple rules and controls. The laid-back and understated nature of the game offers a refreshing break from the more complex and high-energy slot games on the market.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jackpot 6000\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nJackpot 6000 by NetEnt is a classic slot game with 5 reels and 10 paylines. The game is simple and easy to understand with intuitive controls. The player must set their bet before spinning the reels and hope to match winning combinations of symbols to win prizes.\n\nSupermeter Function\n\nThe Supermeter function is a key feature of Jackpot 6000. Players can activate this function by betting the maximum, which allows them to potentially win bigger jackpots. The bets are higher in this mode, with a minimum of 20 coins across all 5 paylines. If players position 2 jokers on a single line, they could win anywhere from 10 to 6,000 coins.\n\nWinning Combinations and Paylines\n\nThe symbols used in Jackpot 6000 are simple and ranked in order of importance, with cherries and lemons as the lowest paying symbols and the wild symbol as the highest paying. Winning combinations can be achieved by matching symbols on any of the 10 paylines, with higher payouts for more symbols matched.\n\nGraphics and Symbols\n\nJackpot 6000 features a minimalistic design, resembling a classic slot machine found in bars and casinos. The symbols used in the game are simple and easy to recognize, with an emphasis on traditional slot symbols such as cherries, lemons, and bells. The graphics are not flashy, but they add to the overall vintage feel of the game.\n\nTarget Audience and Overall Experience\n\nJackpot 6000 is ideal for players who want to experience the nostalgia of classic slot games without the added complexity of modern animations and features. The game is suitable for all players, regardless of their experience level, with simple rules and controls. The laid-back and understated nature of the game offers a refreshing break from the more complex and high-energy slot games on the market.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TuQ5bHXlNFjwqcG35PFfpAGmTlCT",
+                "id": "chatcmpl-7WVNtD0RmvphtTPryhCwtb9nbRgF8",
                 "object": "chat.completion",
-                "created": 1687362745,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981493,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Easy to understand gameplay and rules\",\n    \"Supermeter function for bigger jackpots\",\n    \"Simple and recognizable symbols\",\n    \"Ideal for players who enjoy classic slots\"\n  ],\n  \"cons\": [\n    \"Graphics and animations are not very modern or flashy\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Jackpot 6000 Free - Review of Classic Slot Game\",\n  \"meta_description\": \"Experience the nostalgia of classic slot games with Jackpot 6000. Simple rules and controls, supermeter function for bigger jackpots. Play for free today.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and easy to understand gameplay\",\n    \"Supermeter function for bigger jackpots\",\n    \"Clear and recognizable symbols\",\n    \"Suitable for all players\"\n  ],\n  \"cons\": [\n    \"Graphics are not flashy\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Jackpot 6000 for Free\",\n  \"meta_description\": \"Read our review of Jackpot 6000 and play for free without any registration or download.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 559,
-                    "completion_tokens": 134,
-                    "total_tokens": 693
+                    "prompt_tokens": 556,
+                    "completion_tokens": 107,
+                    "total_tokens": 663
                 }
             }
         },
@@ -811,5 +811,17 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jackpot-6000.json",
+    "raw_feature_images": [],
+    "processed_feature_images": [],
+    "slug": "jackpot-6000",
+    "name": "Jackpot 6000",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/jackpot-6000_slot-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jackpot 6000 for Free' ### Meta set: 'Read our review of Jackpot 6000 and play for free without any registration or download.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

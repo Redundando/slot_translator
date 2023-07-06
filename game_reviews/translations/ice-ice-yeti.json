@@ -655,38 +655,38 @@
             "response": {
                 "pros": [
                     "Up to 16,807 ways to win",
-                    "Expanding reels offer more gameplay area",
-                    "Maximum win of 5,000x the bet",
-                    "Available on desktop and mobile"
+                    "Expanding reels for increased gameplay area",
+                    "Chance to win a maximum of 5,000x the bet",
+                    "Playable on desktop, mobile, and tablet"
                 ],
                 "cons": [
-                    "Jackpot may not be as high as some other games",
-                    "No free spins bonus round"
+                    "Limited bonus features",
+                    "Random triggering of Yeti Shake function"
                 ],
-                "meta_title": "Play Ice Ice Yeti for Free - Review of the Arctic-themed Slot Game",
-                "meta_description": "Read our review of Ice Ice Yeti, an Arctic-themed slot game with expanding reels and up to 16,807 ways to win. Play for free on desktop and mobile."
+                "meta_title": "Play Ice Ice Yeti for Free",
+                "meta_description": "Read our review of Ice Ice Yeti, a slot game with expanding reels and 16,807 ways to win. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ice Ice Yeti\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nIce Ice Yeti is a 5-reel video slot game, set in the Arctic region, where four furry friends roam looking for the giant Yeti.\n\nWays to Win\n\nIce Ice Yeti offers up to 16,807 ways to win, in addition to streaks. The game has five reels and three rows at the beginning, which can randomly expand to seven rows and 16,807 wins.\n\nExpanding Reels\n\nThe Yeti Shake function, which is triggered randomly, between 2 and 10 frozen reel positions thaw, which increases the gameplay area. If all frozen positions thaw, players play on reels offering 16,807 ways to win.\n\nJackpot\n\nIce Ice Yeti offers a maximum win of 5,000x the bet for a single respin sequence.\n\nBonus Features\n\nThe Ice Ice Respins feature gives players a respin with 2 or 3 unlocked frozen positions when they land a wild Yeti. If players land a sticky symbol, a vein of respins is triggered, and these respins come until new matching or wild symbols join the winning group.\n\nAvailability Across Platforms\n\nIce Ice Yeti is designed in the modern HTML5 format, allowing it to be played on desktop, mobile, and tablet on any operating system platform. The autoplay feature lets players choose to play from 10 to 100 spins consecutively.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ice Ice Yeti\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nIce Ice Yeti is a 5-reel video slot game, set in the Arctic region, where four furry friends roam looking for the giant Yeti.\n\nWays to Win\n\nIce Ice Yeti offers up to 16,807 ways to win, in addition to streaks. The game has five reels and three rows at the beginning, which can randomly expand to seven rows and 16,807 wins.\n\nExpanding Reels\n\nThe Yeti Shake function, which is triggered randomly, between 2 and 10 frozen reel positions thaw, which increases the gameplay area. If all frozen positions thaw, players play on reels offering 16,807 ways to win.\n\nJackpot\n\nIce Ice Yeti offers a maximum win of 5,000x the bet for a single respin sequence.\n\nBonus Features\n\nThe Ice Ice Respins feature gives players a respin with 2 or 3 unlocked frozen positions when they land a wild Yeti. If players land a sticky symbol, a vein of respins is triggered, and these respins come until new matching or wild symbols join the winning group.\n\nAvailability Across Platforms\n\nIce Ice Yeti is designed in the modern HTML5 format, allowing it to be played on desktop, mobile, and tablet on any operating system platform. The autoplay feature lets players choose to play from 10 to 100 spins consecutively.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TsVFaPg1OeMYWl5rqZuGcDJ507jj",
+                "id": "chatcmpl-7WV6R0XyKwjLdKxYGL8Rdh9MGbRzZ",
                 "object": "chat.completion",
-                "created": 1687355377,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980411,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Up to 16,807 ways to win\",\n    \"Expanding reels offer more gameplay area\",\n    \"Maximum win of 5,000x the bet\",\n    \"Available on desktop and mobile\"\n  ],\n  \"cons\": [\n    \"Jackpot may not be as high as some other games\",\n    \"No free spins bonus round\"\n  ],\n  \"meta_title\": \"Play Ice Ice Yeti for Free - Review of the Arctic-themed Slot Game\",\n  \"meta_description\": \"Read our review of Ice Ice Yeti, an Arctic-themed slot game with expanding reels and up to 16,807 ways to win. Play for free on desktop and mobile.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Up to 16,807 ways to win\",\n    \"Expanding reels for increased gameplay area\",\n    \"Chance to win a maximum of 5,000x the bet\",\n    \"Playable on desktop, mobile, and tablet\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"Random triggering of Yeti Shake function\"\n  ],\n  \"meta_title\": \"Play Ice Ice Yeti for Free\",\n  \"meta_description\": \"Read our review of Ice Ice Yeti, a slot game with expanding reels and 16,807 ways to win. Play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 461,
-                    "completion_tokens": 147,
-                    "total_tokens": 608
+                    "prompt_tokens": 458,
+                    "completion_tokens": 130,
+                    "total_tokens": 588
                 }
             }
         },
@@ -889,5 +889,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/ice-ice-yeti.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Ice_Ice_Yeti__95336d0d-a634-457e-a950-52d681a636e7_2.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Ice_Ice_Yeti__95336d0d-a634-457e-a950-52d681a636e7_1.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Ice_Ice_Yeti__95336d0d-a634-457e-a950-52d681a636e7_3.png",
+        "arved__Create_a_fun_and_vibrant_feature_image_for_Ice_Ice_Yeti__95336d0d-a634-457e-a950-52d681a636e7_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ice Ice Yeti (Version 1).webp",
+        "game_reviews/processed_images/Ice Ice Yeti (Version 4).webp",
+        "game_reviews/processed_images/Ice Ice Yeti (Version 2).webp",
+        "game_reviews/processed_images/Ice Ice Yeti (Version 3).webp"
+    ],
+    "slug": "ice-ice-yeti",
+    "name": "Ice Ice Yeti",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ice-Ice-Yeti-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ice Ice Yeti for Free' ### Meta set: 'Read our review of Ice Ice Yeti, a slot game with expanding reels and 16,807 ways to win. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Variable number of paylines up to 46,656",
-                    "Win multiplier that increases with each cascade",
-                    "Expanding wilds with multipliers ranging from 2x to 6x",
+                    "Cascading reels with increasing win multiplier",
+                    "Expanding wilds with multipliers",
                     "Bonus round with free spins and expanding multipliers"
                 ],
                 "cons": [
-                    "Bonus round cannot be reactivated",
-                    "Low maximum payout compared to other games"
+                    "No ability to reactivate free spins feature",
+                    "Low maximum payout of 12,000x"
                 ],
-                "meta_title": "Play Medallion Megaways for Free - Full Review 2021",
-                "meta_description": "Read our unbiased review of Medallion Megaways by Fantasma Games, play the game for free, and learn about its features, payouts, and similar games."
+                "meta_title": "Play Medallion Megaways - Free Slot Review",
+                "meta_description": "Discover the gameplay and features of Medallion Megaways in this free slot review."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Medallion Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nMedallion Megaways by Fantasma Games features 6 reels and a variable number of paylines ranging from 64 to 46,656. It has cascading reels and a win multiplier that increases by 1x after each successive cascade but resets when there are no wins. The game offers expanding wilds with multipliers ranging from 2x to 6x, respins and a bonus round that awards free spins with expanding multipliers. The amulet features include expanding wilds, void resins and the free spins feature, which awards 10 free spins without the ability to reactivate.\n\nVisual Design and Theme\n\nMedallion Megaways has a visually striking design with an atmospheric setting of a luxurious tent in the Saharan desert. The symbols are mainly precious stones, with high-value symbols marked with triangles, crescents and stars. The crystal is the wild symbol, and the most lucrative symbol is the golden serpent, which pays out 30 times your bet for six on a payline. The sound effects complement the theme and create an immersive playing experience.\n\nPayouts and Volatility\n\nMedallion Megaways is a relatively low-volatility slot game, making it a great alternative for players seeking value in terms of playtime. The game has a maximum payout of around 12,000 times your bet. The hits of 15-30x in the base game come quite consistently, and the bonus is rarely too far away.\n\nDevice Compatibility and Betting Range\n\nPlayers can enjoy Medallion Megaways on any device, and the game supports a wide range of bet sizes, from 0.10€ to 80€ per spin, making it accessible to players with different budgets.\n\nRecommendations and Similar Games\n\nIf you enjoyed playing Medallion Megaways, then we highly recommend Bonanza Megaways by Big Time Gaming. It uses the developer's Megaways engine and offers up to 117,649 winning combinations. Bonanza Megaways also features a free spins feature with expanding multipliers and a chance to win up to 26,000x your bet on each free spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Medallion Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nMedallion Megaways by Fantasma Games features 6 reels and a variable number of paylines ranging from 64 to 46,656. It has cascading reels and a win multiplier that increases by 1x after each successive cascade but resets when there are no wins. The game offers expanding wilds with multipliers ranging from 2x to 6x, respins and a bonus round that awards free spins with expanding multipliers. The amulet features include expanding wilds, void resins and the free spins feature, which awards 10 free spins without the ability to reactivate.\n\nVisual Design and Theme\n\nMedallion Megaways has a visually striking design with an atmospheric setting of a luxurious tent in the Saharan desert. The symbols are mainly precious stones, with high-value symbols marked with triangles, crescents and stars. The crystal is the wild symbol, and the most lucrative symbol is the golden serpent, which pays out 30 times your bet for six on a payline. The sound effects complement the theme and create an immersive playing experience.\n\nPayouts and Volatility\n\nMedallion Megaways is a relatively low-volatility slot game, making it a great alternative for players seeking value in terms of playtime. The game has a maximum payout of around 12,000 times your bet. The hits of 15-30x in the base game come quite consistently, and the bonus is rarely too far away.\n\nDevice Compatibility and Betting Range\n\nPlayers can enjoy Medallion Megaways on any device, and the game supports a wide range of bet sizes, from 0.10€ to 80€ per spin, making it accessible to players with different budgets.\n\nRecommendations and Similar Games\n\nIf you enjoyed playing Medallion Megaways, then we highly recommend Bonanza Megaways by Big Time Gaming. It uses the developer's Megaways engine and offers up to 117,649 winning combinations. Bonanza Megaways also features a free spins feature with expanding multipliers and a chance to win up to 26,000x your bet on each free spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U77RPd99cpvgF7PKMbc8vgZqJJ4I",
+                "id": "chatcmpl-7WXQJN2ownL3b195wxc3eEuVFTtcV",
                 "object": "chat.completion",
-                "created": 1687411561,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989331,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Variable number of paylines up to 46,656\",\n        \"Win multiplier that increases with each cascade\",\n        \"Expanding wilds with multipliers ranging from 2x to 6x\",\n        \"Bonus round with free spins and expanding multipliers\"\n    ],\n    \"cons\": [\n        \"Bonus round cannot be reactivated\",\n        \"Low maximum payout compared to other games\"\n    ],\n    \"meta_title\": \"Play Medallion Megaways for Free - Full Review 2021\",\n    \"meta_description\": \"Read our unbiased review of Medallion Megaways by Fantasma Games, play the game for free, and learn about its features, payouts, and similar games.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Variable number of paylines up to 46,656\",\n    \"Cascading reels with increasing win multiplier\",\n    \"Expanding wilds with multipliers\",\n    \"Bonus round with free spins and expanding multipliers\"\n  ],\n  \"cons\": [\n    \"No ability to reactivate free spins feature\",\n    \"Low maximum payout of 12,000x\"\n  ],\n  \"meta_title\": \"Play Medallion Megaways - Free Slot Review\",\n  \"meta_description\": \"Discover the gameplay and features of Medallion Megaways in this free slot review.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 612,
-                    "completion_tokens": 152,
-                    "total_tokens": 764
+                    "prompt_tokens": 609,
+                    "completion_tokens": 127,
+                    "total_tokens": 736
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/medallion-megaways.json",
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_M_7db4cb22-d991-44d2-b7a9-92f4d6546f3d_3.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_M_7db4cb22-d991-44d2-b7a9-92f4d6546f3d_4.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_M_7db4cb22-d991-44d2-b7a9-92f4d6546f3d_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_M_7db4cb22-d991-44d2-b7a9-92f4d6546f3d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Medallion Megaways (Version 4).webp",
+        "game_reviews/processed_images/Medallion Megaways (Version 3).webp",
+        "game_reviews/processed_images/Medallion Megaways (Version 2).webp",
+        "game_reviews/processed_images/Medallion Megaways (Version 1).webp"
+    ],
+    "slug": "medallion-megaways",
+    "name": "Medallion Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Medallion-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Medallion Megaways - Free Slot Review' ### Meta set: 'Discover the gameplay and features of Medallion Megaways in this free slot review.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

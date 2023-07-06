@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique winning potential",
-                    "Inspired by Planet of the Apes",
-                    "Easy to understand symbols and functionality",
-                    "Exciting gaming experience"
+                    "Unique symbols and functions",
+                    "High winning potential",
+                    "Inspired by 'Planet of the Apes'",
+                    "Easy-to-understand symbols and functionality"
                 ],
                 "cons": [
-                    "Limited paylines",
-                    "No progressive jackpot"
+                    "Limited to 20 paylines",
+                    "Not available on all gaming platforms"
                 ],
-                "meta_title": "Play Baboon to the Moon Free - Exciting Slot Machine",
-                "meta_description": "Get ready to play Baboon to the Moon, a unique and exciting slot machine with a chance to win up to 5000 times your bet. Try it for free now!"
+                "meta_title": "Play Baboon to the Moon Free - Exciting Slot Game",
+                "meta_description": "Read our review of Baboon to the Moon and discover an exciting slot game to play for free. Don't miss out!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Baboon To The Moon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nBaboon to the Moon is a virtual gaming platform that offers 5 game reels, 20 paylines, and unique symbols and functions. This slot machine reflects the tradition of slot machines but also presents symbols that are not typical of the genre. The game has attractive bonuses and winning potential.\n\nWinning Potential\n\nLeander Games has presented a unique winning potential in this slot machine that is not comparable to other slot machines. At certain moments during gameplay, players have a chance to win up to 5000 times the amount of their bet. This feature is a great incentive for players, making Baboon to the Moon stand out amongst other slot machines.\n\nInspiration from Planet of the Apes\n\nBaboon to the Moon is heavily modeled on the famous movie 'Planet of the Apes', adding an exciting theme and unique twist to the gaming experience. This slot machine offers a different perspective than other online casinos by taking inspiration from the movie.\n\nSymbol and Functionality\n\nThe symbols and functions of Baboon to the Moon are a mix of both traditional and unique features. The symbols of the playing cards and wild and scatter symbols are present, while the protagonist of the game is a monkey trying to go to the moon. The game's functionality and symbols are easy to understand and create an exciting gaming experience.\n\nOverall Gaming Experience\n\nBaboon to the Moon is an excellent slot machine offered by Leander Games. It is a unique and exciting game that has features that are not seen in other slot machines. The winning potential of up to 5000 times the amount of the bet is a significant incentive for gamers. The game's theme is unique, and the symbols and functionality are easy to use. Overall, Baboon to the Moon provides an enjoyable gaming experience that any player should try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Baboon To The Moon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nBaboon to the Moon is a virtual gaming platform that offers 5 game reels, 20 paylines, and unique symbols and functions. This slot machine reflects the tradition of slot machines but also presents symbols that are not typical of the genre. The game has attractive bonuses and winning potential.\n\nWinning Potential\n\nLeander Games has presented a unique winning potential in this slot machine that is not comparable to other slot machines. At certain moments during gameplay, players have a chance to win up to 5000 times the amount of their bet. This feature is a great incentive for players, making Baboon to the Moon stand out amongst other slot machines.\n\nInspiration from Planet of the Apes\n\nBaboon to the Moon is heavily modeled on the famous movie 'Planet of the Apes', adding an exciting theme and unique twist to the gaming experience. This slot machine offers a different perspective than other online casinos by taking inspiration from the movie.\n\nSymbol and Functionality\n\nThe symbols and functions of Baboon to the Moon are a mix of both traditional and unique features. The symbols of the playing cards and wild and scatter symbols are present, while the protagonist of the game is a monkey trying to go to the moon. The game's functionality and symbols are easy to understand and create an exciting gaming experience.\n\nOverall Gaming Experience\n\nBaboon to the Moon is an excellent slot machine offered by Leander Games. It is a unique and exciting game that has features that are not seen in other slot machines. The winning potential of up to 5000 times the amount of the bet is a significant incentive for gamers. The game's theme is unique, and the symbols and functionality are easy to use. Overall, Baboon to the Moon provides an enjoyable gaming experience that any player should try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sayrr4ffhi2phQrRd4ubcwQI0LGL",
+                "id": "chatcmpl-7WNgPAso05fqTcUs2pKY0L6SD8kE2",
                 "object": "chat.completion",
-                "created": 1687049693,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 546,
-                    "completion_tokens": 124,
-                    "total_tokens": 670
-                },
+                "created": 1687951889,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique winning potential\",\n        \"Inspired by Planet of the Apes\",\n        \"Easy to understand symbols and functionality\",\n        \"Exciting gaming experience\"\n    ],\n    \"cons\": [\n        \"Limited paylines\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Baboon to the Moon Free - Exciting Slot Machine\",\n    \"meta_description\": \"Get ready to play Baboon to the Moon, a unique and exciting slot machine with a chance to win up to 5000 times your bet. Try it for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique symbols and functions\",\n    \"High winning potential\",\n    \"Inspired by 'Planet of the Apes'\",\n    \"Easy-to-understand symbols and functionality\"\n  ],\n  \"cons\": [\n    \"Limited to 20 paylines\",\n    \"Not available on all gaming platforms\"\n  ],\n  \"meta_title\": \"Play Baboon to the Moon Free - Exciting Slot Game\",\n  \"meta_description\": \"Read our review of Baboon to the Moon and discover an exciting slot game to play for free. Don't miss out!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 543,
+                    "completion_tokens": 120,
+                    "total_tokens": 663
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/baboon-to-the-moon.json",
     "raw_feature_images": [
-        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_3.png",
-        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_4.png",
         "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_2.png",
-        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_1.png"
+        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_1.png",
+        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_3.png",
+        "arved__Prompt_DALLE_we_would_like_you_to_create_a_feature_image_90916ea2-1e00-44df-a7b1-f7b2769e308f_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Baboon To The Moon (Version 3).webp",
         "game_reviews/processed_images/Baboon To The Moon (Version 4).webp",
-        "game_reviews/processed_images/Baboon To The Moon (Version 2).webp",
-        "game_reviews/processed_images/Baboon To The Moon (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Baboon To The Moon (Version 1).webp",
+        "game_reviews/processed_images/Baboon To The Moon (Version 3).webp",
+        "game_reviews/processed_images/Baboon To The Moon (Version 2).webp"
+    ],
+    "slug": "baboon-to-the-moon",
+    "name": "Baboon To The Moon",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Baboon-To-The-Moon-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Baboon to the Moon Free - Exciting Slot Game' ### Meta set: 'Read our review of Baboon to the Moon and discover an exciting slot game to play for free. Don't miss out!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

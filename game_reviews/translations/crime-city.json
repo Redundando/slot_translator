@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_4.png",
         "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_1.png",
-        "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_3.png",
         "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_2.png",
-        "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_4.png"
+        "arved__Prompt_Design_a_cartoon-style_feature_image_for_Crime_Ci_25fe4fe5-d745-4443-8047-6d524c8aca11_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Crime City (Version 2).webp",
-        "game_reviews/processed_images/Crime City (Version 4).webp",
         "game_reviews/processed_images/Crime City (Version 1).webp",
+        "game_reviews/processed_images/Crime City (Version 4).webp",
+        "game_reviews/processed_images/Crime City (Version 2).webp",
         "game_reviews/processed_images/Crime City (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/crime-city.json"
+    "filename": "game_reviews/translations/crime-city.json",
+    "slug": "crime-city",
+    "name": "Crime City",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crime-City-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crime City Online for Free - Slot Review' ### Meta set: 'Read our review of Crime City, a slot machine with a cyberpunk theme, 243 ways to win, and flexible betting options. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

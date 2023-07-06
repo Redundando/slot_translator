@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Joker Wilds for more re-spins and free spins",
-                    "Towering Reel combines reels for high wins",
+                    "Towering Reel feature for giant reels and high winning combinations",
                     "Low-risk betting range with high payouts",
                     "Unique spin on the classic Joker theme"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "No progressive jackpot feature"
+                    "Limited number of paylines (9)",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Joker Reelz Free - Review of Gameplay and Features",
-                "meta_description": "Get a review of the gameplay and features of Joker Reelz slot game. Play for free and learn about the importance of Joker Wilds and the Towering Reel."
+                "meta_title": "Play Joker Reelz for Free",
+                "meta_description": "Read our review of Joker Reelz, a slot game with Joker Wilds and Towering Reels. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker Reelz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features of Joker Reelz\n\nJoker Reelz is a 5-reel, 9-line slot game with an RTP of 96%. The game includes features such as re-spins, wild symbols, and reels of towering. The range of bets for the casino slot includes a win of up to 250X.\n\nImportance of Joker Wilds for getting more re-spins and free spins\n\nJoker Wilds are the key to getting more re-spins and free spins. The more Joker Wilds that are present in each round, the more re-spins and free spins the player can receive. It is even possible to reactivate free spins, further increasing the chances of winning.\n\nTowering Reel and its ability to combine multiple reels into one giant reel with 2x2 or 3x3 symbols\n\nThe Towering Reel feature allows 2-3 reels to combine into one giant reel with 2x2 or 3x3 symbols. This feature can be activated at any time, both during regular and free spins, and increases the chances of high winning combinations.\n\nBetting range and payout potential in Joker Reelz\n\nJoker Reelz has a low-risk betting range with small bet amounts and high payouts. The game includes a range of bets with a potential win of up to 250X for the player.\n\nThe unique spin on the classic Joker theme in Joker Reelz\n\nWhile the classic Joker theme is common in slot games, Joker Reelz manages to incorporate the theme in a unique and fun way. The game includes classic symbols such as Lucky 7, BAR logos, and bells, as well as Joker Wilds and lower value card suits. The Joker Reels feature is a key aspect of the game and helps set it apart from other Joker-themed slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker Reelz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features of Joker Reelz\n\nJoker Reelz is a 5-reel, 9-line slot game with an RTP of 96%. The game includes features such as re-spins, wild symbols, and reels of towering. The range of bets for the casino slot includes a win of up to 250X.\n\nImportance of Joker Wilds for getting more re-spins and free spins\n\nJoker Wilds are the key to getting more re-spins and free spins. The more Joker Wilds that are present in each round, the more re-spins and free spins the player can receive. It is even possible to reactivate free spins, further increasing the chances of winning.\n\nTowering Reel and its ability to combine multiple reels into one giant reel with 2x2 or 3x3 symbols\n\nThe Towering Reel feature allows 2-3 reels to combine into one giant reel with 2x2 or 3x3 symbols. This feature can be activated at any time, both during regular and free spins, and increases the chances of high winning combinations.\n\nBetting range and payout potential in Joker Reelz\n\nJoker Reelz has a low-risk betting range with small bet amounts and high payouts. The game includes a range of bets with a potential win of up to 250X for the player.\n\nThe unique spin on the classic Joker theme in Joker Reelz\n\nWhile the classic Joker theme is common in slot games, Joker Reelz manages to incorporate the theme in a unique and fun way. The game includes classic symbols such as Lucky 7, BAR logos, and bells, as well as Joker Wilds and lower value card suits. The Joker Reels feature is a key aspect of the game and helps set it apart from other Joker-themed slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwFvr3Hj1xmySSrZp6q3AuAgst7i",
+                "id": "chatcmpl-7WVea9Y2lksZQgLRSSOxzN4RYD2fv",
                 "object": "chat.completion",
-                "created": 1687369803,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982528,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Joker Wilds for more re-spins and free spins\",\n        \"Towering Reel combines reels for high wins\",\n        \"Low-risk betting range with high payouts\",\n        \"Unique spin on the classic Joker theme\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Joker Reelz Free - Review of Gameplay and Features\",\n    \"meta_description\": \"Get a review of the gameplay and features of Joker Reelz slot game. Play for free and learn about the importance of Joker Wilds and the Towering Reel.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Joker Wilds for more re-spins and free spins\",\n    \"Towering Reel feature for giant reels and high winning combinations\",\n    \"Low-risk betting range with high payouts\",\n    \"Unique spin on the classic Joker theme\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (9)\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Joker Reelz for Free\",\n  \"meta_description\": \"Read our review of Joker Reelz, a slot game with Joker Wilds and Towering Reels. Play for free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 140,
-                    "total_tokens": 692
+                    "prompt_tokens": 549,
+                    "completion_tokens": 130,
+                    "total_tokens": 679
                 }
             }
         },
@@ -810,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/joker-reelz.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Joker_Reelz_that_fits__b429abe9-b0d5-404a-8275-d952b6e85a65_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Reelz_that_fits__b429abe9-b0d5-404a-8275-d952b6e85a65_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Reelz_that_fits__b429abe9-b0d5-404a-8275-d952b6e85a65_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Reelz_that_fits__b429abe9-b0d5-404a-8275-d952b6e85a65_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Joker Reelz (Version 3).webp",
+        "game_reviews/processed_images/Joker Reelz (Version 2).webp",
+        "game_reviews/processed_images/Joker Reelz (Version 4).webp",
+        "game_reviews/processed_images/Joker Reelz (Version 1).webp"
+    ],
+    "slug": "joker-reelz",
+    "name": "Joker Reelz",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Joker-Reelz-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker Reelz for Free' ### Meta set: 'Read our review of Joker Reelz, a slot game with Joker Wilds and Towering Reels. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

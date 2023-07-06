@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Visually stunning graphics and great musical theme",
-                    "Flexible betting options cater to all bankrolls",
-                    "Special features like Extra Scatter and Free Spins enhance gameplay",
-                    "Competitive RTP value of 96.12%"
+                    "Outstanding visuals and sophisticated graphics",
+                    "User-friendly control panel",
+                    "Special features increase chances of winning",
+                    "Flexible betting options for all bankrolls"
                 ],
                 "cons": [
                     "Limited number of paylines",
-                    "Some may find the Egyptian theme overused in slot games"
+                    "Gamble feature can lead to potential loss of winnings"
                 ],
-                "meta_title": "Play Book of Gods for Free - Review by Slot Expert",
-                "meta_description": "Read our review of Book of Gods - an Ancient Egyptian-themed online slot game. Play this visually amazing slot for free and explore its exciting features."
+                "meta_title": "Play Book of Gods Free: Review and Special Features",
+                "meta_description": "Read our review of Book of Gods, a visually stunning slot game. Play for free and enjoy special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Gods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Graphics\n\nBook of Gods, developed by BF Games, is set in the world of Ancient Egypt. The graphics in the game are sophisticated and offer outstanding visuals. The game's protagonist is an explorer who has a striking resemblance to Indiana Jones and is in pursuit of a book hidden in the Pharaoh's palace. The game's musical theme complements the graphics and increases the excitement of each spin. The control panel is user-friendly, requiring minimal effort to set up and begin spinning.\n\nSymbols and Paylines\n\nThe slot game Book of Gods features a standard grid with 5 reels, 3 rows, and 10 fixed paylines. Winning combinations occur when identical symbols appear on adjacent reels from left to right. The playing cards from ten to ace are the lower-paying symbols, followed by the scarab and the god Anubis, the sarcophagus of Tutankhamun, and the explorer. The magic book is the special symbol in the game and serves as both a Wild and Scatter. It replaces all symbols and rewards players with 10 Free Spins when three symbols appear anywhere on the grid. The value of the magic book is the same as the value of Tutankhamun. During the bonus spins, an Extra Scatter symbol, an open book, can reward players with ten additional Free Spins.  \n\nSpecial Features\n\nBook of Gods has several special features that increase players' chances of winning. These include the magic book symbol, which acts as both a Wild and Scatter, the Extra Scatter symbol that can reward players with additional Free Spins, and the Gamble feature, which allows players to double their winnings or lose them entirely. The Free Spins feature is the game's highlight, allowing players to maximize wins and improve their overall gaming experience. \n\nBetting Options\n\nBook of Gods has a minimum bet of €0.01 per line and a maximum bet of €50 per spin. Players can activate automatic spins that range from 10 to 100, which stop when the predetermined loss threshold is reached. Before activating the automatic spins, players can choose the number of spins they want to activate. The betting options in the game are flexible and cater to all levels of players' bankrolls. \n\nRTP Value\n\nThe RTP value of Book of Gods is 96.12%, which is competitive with other popular slot games. The game's RTP value ensures that players have a fair chance of winning and earning payouts during their gaming experience. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Gods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Graphics\n\nBook of Gods, developed by BF Games, is set in the world of Ancient Egypt. The graphics in the game are sophisticated and offer outstanding visuals. The game's protagonist is an explorer who has a striking resemblance to Indiana Jones and is in pursuit of a book hidden in the Pharaoh's palace. The game's musical theme complements the graphics and increases the excitement of each spin. The control panel is user-friendly, requiring minimal effort to set up and begin spinning.\n\nSymbols and Paylines\n\nThe slot game Book of Gods features a standard grid with 5 reels, 3 rows, and 10 fixed paylines. Winning combinations occur when identical symbols appear on adjacent reels from left to right. The playing cards from ten to ace are the lower-paying symbols, followed by the scarab and the god Anubis, the sarcophagus of Tutankhamun, and the explorer. The magic book is the special symbol in the game and serves as both a Wild and Scatter. It replaces all symbols and rewards players with 10 Free Spins when three symbols appear anywhere on the grid. The value of the magic book is the same as the value of Tutankhamun. During the bonus spins, an Extra Scatter symbol, an open book, can reward players with ten additional Free Spins.  \n\nSpecial Features\n\nBook of Gods has several special features that increase players' chances of winning. These include the magic book symbol, which acts as both a Wild and Scatter, the Extra Scatter symbol that can reward players with additional Free Spins, and the Gamble feature, which allows players to double their winnings or lose them entirely. The Free Spins feature is the game's highlight, allowing players to maximize wins and improve their overall gaming experience. \n\nBetting Options\n\nBook of Gods has a minimum bet of €0.01 per line and a maximum bet of €50 per spin. Players can activate automatic spins that range from 10 to 100, which stop when the predetermined loss threshold is reached. Before activating the automatic spins, players can choose the number of spins they want to activate. The betting options in the game are flexible and cater to all levels of players' bankrolls. \n\nRTP Value\n\nThe RTP value of Book of Gods is 96.12%, which is competitive with other popular slot games. The game's RTP value ensures that players have a fair chance of winning and earning payouts during their gaming experience. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SjAAxCufdFPKIjL9EWGktIikbgTW",
+                "id": "chatcmpl-7WOoS2Y3wNiuGRfkDSTj2xNKSSv87",
                 "object": "chat.completion",
-                "created": 1687081146,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 676,
-                    "completion_tokens": 141,
-                    "total_tokens": 817
-                },
+                "created": 1687956232,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Visually stunning graphics and great musical theme\",\n    \"Flexible betting options cater to all bankrolls\",\n    \"Special features like Extra Scatter and Free Spins enhance gameplay\",\n    \"Competitive RTP value of 96.12%\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Some may find the Egyptian theme overused in slot games\"\n  ],\n  \"meta_title\": \"Play Book of Gods for Free - Review by Slot Expert\",\n  \"meta_description\": \"Read our review of Book of Gods - an Ancient Egyptian-themed online slot game. Play this visually amazing slot for free and explore its exciting features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Outstanding visuals and sophisticated graphics\",\n    \"User-friendly control panel\",\n    \"Special features increase chances of winning\",\n    \"Flexible betting options for all bankrolls\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Gamble feature can lead to potential loss of winnings\"\n  ],\n  \"meta_title\": \"Play Book of Gods Free: Review and Special Features\",\n  \"meta_description\": \"Read our review of Book of Gods, a visually stunning slot game. Play for free and enjoy special features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 673,
+                    "completion_tokens": 118,
+                    "total_tokens": 791
+                }
             }
         },
         {
@@ -811,15 +811,24 @@
     ],
     "filename": "game_reviews/translations/book-of-gods.json",
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_3.png",
+        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_1.png",
         "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_4.png",
-        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_2.png",
-        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_1.png"
+        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_3.png",
+        "arved__Create_a_cartoon-style_image_of_a_happy_Maya_warrior_wit_bc3fac11-b715-4bf8-9832-8683bc3216a2_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Gods (Version 4).webp",
-        "game_reviews/processed_images/Book Of Gods (Version 1).webp",
         "game_reviews/processed_images/Book Of Gods (Version 3).webp",
-        "game_reviews/processed_images/Book Of Gods (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Book Of Gods (Version 4).webp",
+        "game_reviews/processed_images/Book Of Gods (Version 2).webp",
+        "game_reviews/processed_images/Book Of Gods (Version 1).webp"
+    ],
+    "slug": "book-of-gods",
+    "name": "Book of Gods",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Gods Free: Review and Special Features' ### Meta set: 'Read our review of Book of Gods, a visually stunning slot game. Play for free and enjoy special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

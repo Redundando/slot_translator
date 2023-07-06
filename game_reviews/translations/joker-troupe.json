@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Unique and exciting gameplay features",
+                    "Vibrant colors and brilliant graphics",
                     "Exciting bonus features",
-                    "Unique Joker symbols with different bonuses and multipliers",
-                    "Vibrant and exotic visuals and design",
-                    "Engaging gameplay with only 10 paylines"
+                    "Engaging and entertaining gameplay"
                 ],
                 "cons": [
                     "Limited number of paylines",
-                    "No progressive jackpot feature"
+                    "Not as famous as other Joker-themed slot games"
                 ],
-                "meta_title": "Play Joker Troupe Slot for Free - Review 2021",
-                "meta_description": "Read our unbiased review of Joker Troupe slot game. Play it for free with exciting bonus features, unique Joker symbols, and vibrant visuals."
+                "meta_title": "Play Joker Troupe for Free",
+                "meta_description": "Read our review of Joker Troupe and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker Troupe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nJoker Troupe features a 4x3 grid setup with 10 paylines. The game's notable gameplay feature is that when two reels have matching Joker symbols, the third reel extends the movement to create more suspense, building excitement for potential winnings. There are three unique Jokers in the game that offer different bonuses and multipliers.\n\nVisuals and Design\n\nJoker Troupe is an exotic game with vibrant colors and brilliant graphics. The blackish-purple background is accentuated by moving geometric shapes. The symbols include various Jokers that are not related to the Batman Joker, and other exotic symbols such as Dragon Fruit.\n\nBonus Features\n\nJoker Troupe has exciting bonus features that can significantly increase winnings. The red Joker triggers 20 seconds of free spins if three red Joker symbols are lined up. The green Joker adds multipliers during free spins. The blue Joker transforms into one of the other two Jokers, remaining on the reels for the following three free spins, allowing players to increase their payouts.\n\nSymbols\n\nThe symbols in Joker Troupe include various Jokers that are not related to the Batman Joker. There are three unique Jokers in the game, each with different bonuses and multipliers. Players will also find other exotic symbols such as Dragon Fruit.\n\nEntertainment Value\n\nJoker Troupe is an exciting game that will keep players engaged. With only 10 paylines, the game makes up for it with various bonus features and unique Jokers. The game's graphics and colors are vibrant and energetic, adding to the overall entertainment value. For players interested in other Joker slot games, Play n' Go's Star Joker may be worth checking out.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker Troupe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nJoker Troupe features a 4x3 grid setup with 10 paylines. The game's notable gameplay feature is that when two reels have matching Joker symbols, the third reel extends the movement to create more suspense, building excitement for potential winnings. There are three unique Jokers in the game that offer different bonuses and multipliers.\n\nVisuals and Design\n\nJoker Troupe is an exotic game with vibrant colors and brilliant graphics. The blackish-purple background is accentuated by moving geometric shapes. The symbols include various Jokers that are not related to the Batman Joker, and other exotic symbols such as Dragon Fruit.\n\nBonus Features\n\nJoker Troupe has exciting bonus features that can significantly increase winnings. The red Joker triggers 20 seconds of free spins if three red Joker symbols are lined up. The green Joker adds multipliers during free spins. The blue Joker transforms into one of the other two Jokers, remaining on the reels for the following three free spins, allowing players to increase their payouts.\n\nSymbols\n\nThe symbols in Joker Troupe include various Jokers that are not related to the Batman Joker. There are three unique Jokers in the game, each with different bonuses and multipliers. Players will also find other exotic symbols such as Dragon Fruit.\n\nEntertainment Value\n\nJoker Troupe is an exciting game that will keep players engaged. With only 10 paylines, the game makes up for it with various bonus features and unique Jokers. The game's graphics and colors are vibrant and energetic, adding to the overall entertainment value. For players interested in other Joker slot games, Play n' Go's Star Joker may be worth checking out.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwS64maOYnzTtoCet0148eS4fjiN",
+                "id": "chatcmpl-7WVgLBMn6OUTFF1NORAtw9Lih94Ee",
                 "object": "chat.completion",
-                "created": 1687370558,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982637,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting bonus features\",\n        \"Unique Joker symbols with different bonuses and multipliers\",\n        \"Vibrant and exotic visuals and design\",\n        \"Engaging gameplay with only 10 paylines\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Joker Troupe Slot for Free - Review 2021\",\n    \"meta_description\": \"Read our unbiased review of Joker Troupe slot game. Play it for free with exciting bonus features, unique Joker symbols, and vibrant visuals.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique and exciting gameplay features\",\n    \"Vibrant colors and brilliant graphics\",\n    \"Exciting bonus features\",\n    \"Engaging and entertaining gameplay\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Not as famous as other Joker-themed slot games\"\n  ],\n  \"meta_title\": \"Play Joker Troupe for Free\",\n  \"meta_description\": \"Read our review of Joker Troupe and play this exciting slot game for free.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 517,
-                    "completion_tokens": 128,
-                    "total_tokens": 645
+                    "prompt_tokens": 514,
+                    "completion_tokens": 106,
+                    "total_tokens": 620
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/joker-troupe.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Joker_Troupe_that_capt_a4ce2eb3-7358-4356-8be0-2a727c1baadb_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Troupe_that_capt_a4ce2eb3-7358-4356-8be0-2a727c1baadb_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Troupe_that_capt_a4ce2eb3-7358-4356-8be0-2a727c1baadb_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Troupe_that_capt_a4ce2eb3-7358-4356-8be0-2a727c1baadb_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Joker Troupe (Version 3).webp",
+        "game_reviews/processed_images/Joker Troupe (Version 4).webp",
+        "game_reviews/processed_images/Joker Troupe (Version 2).webp",
+        "game_reviews/processed_images/Joker Troupe (Version 1).webp"
+    ],
+    "slug": "joker-troupe",
+    "name": "Joker Troupe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Joker-Troupe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker Troupe for Free' ### Meta set: 'Read our review of Joker Troupe and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

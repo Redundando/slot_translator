@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and animation",
-                    "Special features including respins and wild multipliers",
-                    "Flexible interface allowing for perfect gameplay on any device",
-                    "Rewards with high payouts"
+                    "Breathtaking graphics and animation",
+                    "Special features like respins and free spins",
+                    "Flexible interface for seamless gameplay on desktop and mobile",
+                    "Beautiful recreation of the Ali Baba story"
                 ],
                 "cons": [
-                    "Low frequency of winnings",
-                    "Limited number of paylines"
+                    "High winnings but with low frequency",
+                    "Requires patience from players"
                 ],
-                "meta_title": "Play Ali Baba's Gold Free - Review of Top Slot Machines",
-                "meta_description": "Read our in-depth review of Ali Baba's Gold and play for free. Enjoy stunning graphics, special features, and flexible interface for seamless gameplay."
+                "meta_title": "Play Ali Baba’s Gold Free Online Slot Game",
+                "meta_description": "Read our review of Ali Baba’s Gold and play this stunning online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ali Baba’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSlot graphics\n\nAli Baba's Gold is a visual masterpiece. Its graphics and animation are breathtaking, and the slot machine is capable of attracting any type of player. The basic symbols are perfectly recreated, and the animation is worthy of a Disney movie.\n\nGameplay features and special functions\n\nAli Baba's Gold is a 5x3 machine with 20 paylines that offers special features such as respins, wild multipliers, stacked wilds, and free spins. The Wilds increase from 2x to 5x and take the place of all symbols except for the Scatter. The game offers a multiplier that increases with each spin. The 'Open Sesame' feature activates respins when you fill the third reel with 3 Wilds and covers the second, third, and fourth reels during the feature. The high-paying symbols include Ali Baba who offers 400 times your wager with five symbols, the monkey who pays you 250 times your bet, Jafar who offers up to 175 times the wager, and the princess who will give you 125 times your bet. \n\nFlexibility of interface\n\nAli Baba's Gold provides a truly flexible interface that allows for perfect gameplay on your computer or any other mobile device. Thanks to its design, players can enjoy a seamless and flawless experience whether they are using a desktop or mobile device.\n\nWinning symbols\n\nAli Baba's Gold offers high payouts but with low frequency. The most rewarding symbols include Ali Baba, his faithful monkey, Jafar, and the princess. In addition, the Wild symbol increases your chances of winning, while the 'Open Sesame' feature offers respins and increased winning potential.\n\nFinal thoughts on Ali Baba's Gold\n\nAli Baba's Gold is an online gaming masterpiece that beautifully recreates the story of Ali Baba and the Forty Thieves. It offers high winnings but with low frequency, so players need to be patient. With its stunning graphics, flexible interface, and special features, Ali Baba's Gold is a must-play for any online slot gaming enthusiast.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ali Baba’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSlot graphics\n\nAli Baba's Gold is a visual masterpiece. Its graphics and animation are breathtaking, and the slot machine is capable of attracting any type of player. The basic symbols are perfectly recreated, and the animation is worthy of a Disney movie.\n\nGameplay features and special functions\n\nAli Baba's Gold is a 5x3 machine with 20 paylines that offers special features such as respins, wild multipliers, stacked wilds, and free spins. The Wilds increase from 2x to 5x and take the place of all symbols except for the Scatter. The game offers a multiplier that increases with each spin. The 'Open Sesame' feature activates respins when you fill the third reel with 3 Wilds and covers the second, third, and fourth reels during the feature. The high-paying symbols include Ali Baba who offers 400 times your wager with five symbols, the monkey who pays you 250 times your bet, Jafar who offers up to 175 times the wager, and the princess who will give you 125 times your bet. \n\nFlexibility of interface\n\nAli Baba's Gold provides a truly flexible interface that allows for perfect gameplay on your computer or any other mobile device. Thanks to its design, players can enjoy a seamless and flawless experience whether they are using a desktop or mobile device.\n\nWinning symbols\n\nAli Baba's Gold offers high payouts but with low frequency. The most rewarding symbols include Ali Baba, his faithful monkey, Jafar, and the princess. In addition, the Wild symbol increases your chances of winning, while the 'Open Sesame' feature offers respins and increased winning potential.\n\nFinal thoughts on Ali Baba's Gold\n\nAli Baba's Gold is an online gaming masterpiece that beautifully recreates the story of Ali Baba and the Forty Thieves. It offers high winnings but with low frequency, so players need to be patient. With its stunning graphics, flexible interface, and special features, Ali Baba's Gold is a must-play for any online slot gaming enthusiast.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SUsWioXfa28RyBCYT0h10b9VSQb0",
+                "id": "chatcmpl-7WMvRtbxN5oBrB8DBgD1EEBINKyLW",
                 "object": "chat.completion",
-                "created": 1687026236,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 589,
-                    "completion_tokens": 127,
-                    "total_tokens": 716
-                },
+                "created": 1687948977,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and animation\",\n        \"Special features including respins and wild multipliers\",\n        \"Flexible interface allowing for perfect gameplay on any device\",\n        \"Rewards with high payouts\"\n    ],\n    \"cons\": [\n        \"Low frequency of winnings\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Ali Baba's Gold Free - Review of Top Slot Machines\",\n    \"meta_description\": \"Read our in-depth review of Ali Baba's Gold and play for free. Enjoy stunning graphics, special features, and flexible interface for seamless gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Breathtaking graphics and animation\",\n    \"Special features like respins and free spins\",\n    \"Flexible interface for seamless gameplay on desktop and mobile\",\n    \"Beautiful recreation of the Ali Baba story\"\n  ],\n  \"cons\": [\n    \"High winnings but with low frequency\",\n    \"Requires patience from players\"\n  ],\n  \"meta_title\": \"Play Ali Baba’s Gold Free Online Slot Game\",\n  \"meta_description\": \"Read our review of Ali Baba’s Gold and play this stunning online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 586,
+                    "completion_tokens": 115,
+                    "total_tokens": 701
+                }
             }
         },
         {
@@ -814,5 +814,14 @@
     ],
     "filename": "game_reviews/translations/ali-babas-gold.json",
     "raw_feature_images": [],
-    "processed_feature_images": []
+    "processed_feature_images": [],
+    "slug": "ali-babas-gold",
+    "name": "Ali Baba’s Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/ali-babas-gold_featured-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ali Baba’s Gold Free Online Slot Game' ### Meta set: 'Read our review of Ali Baba’s Gold and play this stunning online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

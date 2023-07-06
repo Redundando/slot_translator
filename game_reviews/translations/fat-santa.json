@@ -654,40 +654,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Festive atmosphere with cheerful graphics and catchy soundtrack",
-                    "Bonus features for more chances to win big",
-                    "Compatible with mobile devices",
-                    "Control panel with options to set up to 100 automatic spins"
+                    "Festive Christmas theme",
+                    "Randomly triggered Santa's Sleigh feature",
+                    "Free Spins feature with increasing wild symbols",
+                    "Cheerful graphics and catchy soundtrack"
                 ],
                 "cons": [
                     "RTP not specified by the provider",
-                    "Lowest paying symbols still pay relatively low"
+                    "Limited number of initial free spins"
                 ],
-                "meta_title": "Play Fat Santa Slot for Free - Enjoy Festive Gameplay",
-                "meta_description": "Read our review of Fat Santa slots and play for free. Enjoy the festive theme, bonus features, and mobile compatibility of this cheerful game."
+                "meta_title": "Play Fat Santa Free - Festive Christmas Slot Game",
+                "meta_description": "Read our review of Fat Santa and play this festive Christmas slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fat Santa\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFat Santa slots is a five-reel slot with five rows and fifty fixed paylines; the action takes place in Santa's Village with a festive soundtrack in the background. The control panel offers all the usual options and allows you to set up to 100 automatic spins.\n\nBonus Features\n\nThe Santa's Sleigh feature can be triggered randomly at the beginning of any spin in the base game. It drops a random number of wild symbols on the game grid to provide more chances to hit big multiline wins. The Free Spins feature is triggered by landing Santa Claus on the reels together with at least one wild cake. You initially receive five free spins, and every time a cake lands, Santa Claus increases in size, awards three extra spins, and remains on the reels during spins as a wild symbol.\n\nDesign and Graphics\n\nFat Santa slots is set in Santa's Village with cheerful graphics that create the perfect winter setting. The symbols are an elf, a reindeer, a snowman, a gift, and Christmas tree baubles in red, orange, and two shades of green. The catchy soundtrack adds a touch of joy to the festive atmosphere.\n\nPayouts\n\nThe payouts for all symbols can be found in the paytable, but here's a summary. The baubles are the lowest paying symbols, followed by the gift, snowman, reindeer, elf, and Santa Claus, which awards 20x for the five-symbol combination. The RTP is not specified by the provider.\n\nTheme\n\nFat Santa slots has a Christmas theme that tells the story of how Santa Claus gets so fat by eating cakes on his sleigh. The symbols represent different elements of Christmas, such as Santa's Village and his sleigh, and the cheerful soundtrack creates the perfect festive atmosphere.\n\nMobile Compatibility\n\nFat Santa slots is compatible with mobile devices and can be played on the go. The game runs smoothly on various screen sizes and operating systems, and all features are available on mobile devices.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fat Santa\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFat Santa slots is a five-reel slot with five rows and fifty fixed paylines; the action takes place in Santa's Village with a festive soundtrack in the background. The control panel offers all the usual options and allows you to set up to 100 automatic spins.\n\nBonus Features\n\nThe Santa's Sleigh feature can be triggered randomly at the beginning of any spin in the base game. It drops a random number of wild symbols on the game grid to provide more chances to hit big multiline wins. The Free Spins feature is triggered by landing Santa Claus on the reels together with at least one wild cake. You initially receive five free spins, and every time a cake lands, Santa Claus increases in size, awards three extra spins, and remains on the reels during spins as a wild symbol.\n\nDesign and Graphics\n\nFat Santa slots is set in Santa's Village with cheerful graphics that create the perfect winter setting. The symbols are an elf, a reindeer, a snowman, a gift, and Christmas tree baubles in red, orange, and two shades of green. The catchy soundtrack adds a touch of joy to the festive atmosphere.\n\nPayouts\n\nThe payouts for all symbols can be found in the paytable, but here's a summary. The baubles are the lowest paying symbols, followed by the gift, snowman, reindeer, elf, and Santa Claus, which awards 20x for the five-symbol combination. The RTP is not specified by the provider.\n\nTheme\n\nFat Santa slots has a Christmas theme that tells the story of how Santa Claus gets so fat by eating cakes on his sleigh. The symbols represent different elements of Christmas, such as Santa's Village and his sleigh, and the cheerful soundtrack creates the perfect festive atmosphere.\n\nMobile Compatibility\n\nFat Santa slots is compatible with mobile devices and can be played on the go. The game runs smoothly on various screen sizes and operating systems, and all features are available on mobile devices.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEPf0qJ8ttFTho90yNdAyn37xix3",
+                "id": "chatcmpl-7WSbHoDBkKmGIVJYFNF5zDr3jTu3l",
                 "object": "chat.completion",
-                "created": 1687201271,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 576,
-                    "completion_tokens": 137,
-                    "total_tokens": 713
-                },
+                "created": 1687970791,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Festive atmosphere with cheerful graphics and catchy soundtrack\",\n        \"Bonus features for more chances to win big\",\n        \"Compatible with mobile devices\",\n        \"Control panel with options to set up to 100 automatic spins\"\n    ],\n    \"cons\": [\n        \"RTP not specified by the provider\",\n        \"Lowest paying symbols still pay relatively low\"\n    ],\n    \"meta_title\": \"Play Fat Santa Slot for Free - Enjoy Festive Gameplay\",\n    \"meta_description\": \"Read our review of Fat Santa slots and play for free. Enjoy the festive theme, bonus features, and mobile compatibility of this cheerful game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Festive Christmas theme\",\n    \"Randomly triggered Santa's Sleigh feature\",\n    \"Free Spins feature with increasing wild symbols\",\n    \"Cheerful graphics and catchy soundtrack\"\n  ],\n  \"cons\": [\n    \"RTP not specified by the provider\",\n    \"Limited number of initial free spins\"\n  ],\n  \"meta_title\": \"Play Fat Santa Free - Festive Christmas Slot Game\",\n  \"meta_description\": \"Read our review of Fat Santa and play this festive Christmas slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 573,
+                    "completion_tokens": 115,
+                    "total_tokens": 688
+                }
             }
         },
         {
@@ -886,5 +886,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fat-santa.json"
+    "filename": "game_reviews/translations/fat-santa.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Fat_Santa_that_showcases_the__dae5bdd2-ffe2-4575-bbf3-8b26526fb9d1_2.png",
+        "arved__Create_a_feature_image_for_Fat_Santa_that_showcases_the__dae5bdd2-ffe2-4575-bbf3-8b26526fb9d1_3.png",
+        "arved__Create_a_feature_image_for_Fat_Santa_that_showcases_the__dae5bdd2-ffe2-4575-bbf3-8b26526fb9d1_1.png",
+        "arved__Create_a_feature_image_for_Fat_Santa_that_showcases_the__dae5bdd2-ffe2-4575-bbf3-8b26526fb9d1_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fat-santa",
+    "name": "Fat Santa",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fat-santa_featured-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fat Santa Free - Festive Christmas Slot Game' ### Meta set: 'Read our review of Fat Santa and play this festive Christmas slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

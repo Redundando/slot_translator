@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Double symbols offering 10 winning combinations",
-                    "Stacked wilds available in the free spins feature",
-                    "Beautiful Asian-inspired theme with detailed graphics",
-                    "Free spins feature with 3x multiplier and potential for up to 60 free spins"
+                    "Double symbols for increased winning combinations",
+                    "Stacked Wilds in Free Spins feature",
+                    "Asian-inspired theme with beautiful visuals",
+                    "Opportunity to win up to 60 free spins"
                 ],
                 "cons": [
-                    "Medium volatility may not appeal to high-risk players",
-                    "No progressive jackpot"
+                    "Limited number of paylines (30)",
+                    "Limited bonus features"
                 ],
                 "meta_title": "Play Happy Riches Free: A Neutral Review",
-                "meta_description": "Discover the features of Happy Riches, NetEnt's Asian-inspired slot game. Play it for free and learn about symbols, paylines, and free spins."
+                "meta_description": "Read this detailed review of Happy Riches and play the game for free. Discover its features and gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Happy Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nHappy Riches: A Neutral Review\n\nHappy Riches is a slot game developed by NetEnt. It features 5 reels, 3 rows, and 30 paylines. The game has an Asian-inspired theme. We provide a detailed review of the game, covering gameplay features, symbols and paylines, and the free spins feature.\n\nGameplay Features\n\nHappy Riches features double symbols that can allow for 10 winning combinations. The game also has stacked Wilds in the Free Spins feature. It includes an interesting 3x Multiplier. Medium win symbols may appear as single or double symbols. Double symbols count as 2 single icons, and the game also has a Wild symbol represented by a Dragon that replaces all symbols except the Scatter. The appearance of 4 or more Scatters in the base game round will trigger the Free Spins feature.\n\nAsian-inspired Theme\n\nHappy Riches has an Asian-inspired theme. The reels are nestled inside a traditional frame of a sacred temple, and the background features a beautiful blue sky. Symbols include colorful letters A, K, Q, and J, oranges, dishes, lanterns, Koi Carp, and Lucky Cats waving on the reels.\n\nSymbols and Paylines\n\nHappy Riches features 5 reels, 3 rows, and 30 paylines. Symbols include colorful letters A, K, Q, and J, oranges, dishes, lanterns, Koi Carp, and Lucky Cats waving on the reels. Medium win symbols may appear as single or double symbols. Double symbols count as 2 single icons and can get you 10 wins of one kind. The Wild symbol represented by a Dragon replaces all symbols except the Scatter. 3, 4, or 5 Wild symbols will pay 8.33, 33.33, or 166.66x the bet.\n\nFree Spins Feature\n\nThe Scatter is the Free Spin symbol in Happy Riches. The appearance of 4 or more Scatters in the base game round will trigger the Free Spins feature. The free spin symbol can appear as a single or double. At the start, you can get between 10 and 30 free spins, depending on the table on the screen. A 3x multiplier will be applied to all winning combinations. You can also win more free spins by getting 4 or more Free Spins symbols for a maximum of 60 free spins in total. Finally, the Wild symbols can appear stacked as 2 or 3 to help you form larger winning combinations.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Happy Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nHappy Riches: A Neutral Review\n\nHappy Riches is a slot game developed by NetEnt. It features 5 reels, 3 rows, and 30 paylines. The game has an Asian-inspired theme. We provide a detailed review of the game, covering gameplay features, symbols and paylines, and the free spins feature.\n\nGameplay Features\n\nHappy Riches features double symbols that can allow for 10 winning combinations. The game also has stacked Wilds in the Free Spins feature. It includes an interesting 3x Multiplier. Medium win symbols may appear as single or double symbols. Double symbols count as 2 single icons, and the game also has a Wild symbol represented by a Dragon that replaces all symbols except the Scatter. The appearance of 4 or more Scatters in the base game round will trigger the Free Spins feature.\n\nAsian-inspired Theme\n\nHappy Riches has an Asian-inspired theme. The reels are nestled inside a traditional frame of a sacred temple, and the background features a beautiful blue sky. Symbols include colorful letters A, K, Q, and J, oranges, dishes, lanterns, Koi Carp, and Lucky Cats waving on the reels.\n\nSymbols and Paylines\n\nHappy Riches features 5 reels, 3 rows, and 30 paylines. Symbols include colorful letters A, K, Q, and J, oranges, dishes, lanterns, Koi Carp, and Lucky Cats waving on the reels. Medium win symbols may appear as single or double symbols. Double symbols count as 2 single icons and can get you 10 wins of one kind. The Wild symbol represented by a Dragon replaces all symbols except the Scatter. 3, 4, or 5 Wild symbols will pay 8.33, 33.33, or 166.66x the bet.\n\nFree Spins Feature\n\nThe Scatter is the Free Spin symbol in Happy Riches. The appearance of 4 or more Scatters in the base game round will trigger the Free Spins feature. The free spin symbol can appear as a single or double. At the start, you can get between 10 and 30 free spins, depending on the table on the screen. A 3x multiplier will be applied to all winning combinations. You can also win more free spins by getting 4 or more Free Spins symbols for a maximum of 60 free spins in total. Finally, the Wild symbols can appear stacked as 2 or 3 to help you form larger winning combinations.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tos51J4nDFXCvzlvjBfk9FK8ngf1",
+                "id": "chatcmpl-7WUaOHMgSgpQUVSXA3w3pMieTJIZ9",
                 "object": "chat.completion",
-                "created": 1687341417,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978424,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\":[\"Double symbols offering 10 winning combinations\",\n        \"Stacked wilds available in the free spins feature\",\n        \"Beautiful Asian-inspired theme with detailed graphics\",\n        \"Free spins feature with 3x multiplier and potential for up to 60 free spins\"],\n\"cons\":[\"Medium volatility may not appeal to high-risk players\",\n        \"No progressive jackpot\"],\n\"meta_title\":\"Play Happy Riches Free: A Neutral Review\",\n\"meta_description\":\"Discover the features of Happy Riches, NetEnt's Asian-inspired slot game. Play it for free and learn about symbols, paylines, and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Double symbols for increased winning combinations\",\n    \"Stacked Wilds in Free Spins feature\",\n    \"Asian-inspired theme with beautiful visuals\",\n    \"Opportunity to win up to 60 free spins\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (30)\",\n    \"Limited bonus features\"\n  ],\n  \"meta_title\": \"Play Happy Riches Free: A Neutral Review\",\n  \"meta_description\": \"Read this detailed review of Happy Riches and play the game for free. Discover its features and gameplay.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 688,
-                    "completion_tokens": 127,
-                    "total_tokens": 815
+                    "prompt_tokens": 685,
+                    "completion_tokens": 120,
+                    "total_tokens": 805
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/happy-riches.json",
+    "raw_feature_images": [
+        "arved__Create_a_captivating_feature_image_for_Happy_Riches_with_2a25d100-85d3-4469-b638-c5cf7c132d80_4.png",
+        "arved__Create_a_captivating_feature_image_for_Happy_Riches_with_2a25d100-85d3-4469-b638-c5cf7c132d80_1.png",
+        "arved__Create_a_captivating_feature_image_for_Happy_Riches_with_2a25d100-85d3-4469-b638-c5cf7c132d80_3.png",
+        "arved__Create_a_captivating_feature_image_for_Happy_Riches_with_2a25d100-85d3-4469-b638-c5cf7c132d80_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Happy Riches (Version 3).webp",
+        "game_reviews/processed_images/Happy Riches (Version 2).webp",
+        "game_reviews/processed_images/Happy Riches (Version 1).webp",
+        "game_reviews/processed_images/Happy Riches (Version 4).webp"
+    ],
+    "slug": "happy-riches",
+    "name": "Happy Riches",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Happy-Riches-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Happy Riches Free: A Neutral Review' ### Meta set: 'Read this detailed review of Happy Riches and play the game for free. Discover its features and gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

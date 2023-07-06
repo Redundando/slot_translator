@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Play as the famous martial artist Bruce Lee",
-                    "Low volatility slot game with smaller bets",
-                    "Special symbols like Wild and Scatter with free spins",
-                    "Playable on both desktop and mobile devices"
+                    "Easy gameplay",
+                    "Special symbols and free spins",
+                    "Wide betting range",
+                    "Compatible with desktop and mobile devices"
                 ],
                 "cons": [
                     "Lack of unique features",
-                    "Not suitable for high-stakes players"
+                    "Low potential for high winnings"
                 ],
-                "meta_title": "Play Bruce Lee for Free – Review of WMS's Classic Slot Game",
-                "meta_description": "Experience the legendary martial artist Bruce Lee in WMS's slot game. Play for free and read our review of Bruce Lee's gameplay, symbols, and more."
+                "meta_title": "Play Bruce Lee Free - Fun and Easy Slot Game",
+                "meta_description": "Try Bruce Lee for free and enjoy its intuitive gameplay and wide betting range."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Bruce Lee\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBruce Lee slot game\n\nBruce Lee is a slot game from WMS software featuring the famous martial artist, Bruce Lee, as its theme.\n\nGameplay and features\n\nBruce Lee is a 5-reel, 60-payline slot game with uncomplicated gameplay. The game includes special symbols such as Wild and Scatter, and offers the possibility of obtaining free spins. Bruce Lee is a low volatility slot game, and the bets can be placed ranging from 0.01 to 2 credits per pay line.\n\nSymbols and paytable\n\nThe symbols in Bruce Lee are faithful to the theme and include the famous martial artist, a dragon, a Chinese hat, a vase, a scroll, ninja stars, gold coins, a dagger, a treasure chest, and the Royals from 9 to Ace. Bruce Lee is the Wild symbol and can replace all the other icons except the Scatter symbol, represented by the treasure chest. The game's highest-paying symbol is Bruce Lee with a payout of 800 credits.\n\nCompatibility and accessibility\n\nBruce Lee is optimized to be playable on desktop computers through Chrome and Safari, as well as on all mobile devices, including iOS and Android.\n\nTarget audience\n\nBruce Lee is a simple slot game with intuitive gameplay and lower betting amounts suitable for beginners and those who enjoy low-cost games. It doesn't promise high winnings or unique features, but it is smooth and fun to play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Bruce Lee\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBruce Lee slot game\n\nBruce Lee is a slot game from WMS software featuring the famous martial artist, Bruce Lee, as its theme.\n\nGameplay and features\n\nBruce Lee is a 5-reel, 60-payline slot game with uncomplicated gameplay. The game includes special symbols such as Wild and Scatter, and offers the possibility of obtaining free spins. Bruce Lee is a low volatility slot game, and the bets can be placed ranging from 0.01 to 2 credits per pay line.\n\nSymbols and paytable\n\nThe symbols in Bruce Lee are faithful to the theme and include the famous martial artist, a dragon, a Chinese hat, a vase, a scroll, ninja stars, gold coins, a dagger, a treasure chest, and the Royals from 9 to Ace. Bruce Lee is the Wild symbol and can replace all the other icons except the Scatter symbol, represented by the treasure chest. The game's highest-paying symbol is Bruce Lee with a payout of 800 credits.\n\nCompatibility and accessibility\n\nBruce Lee is optimized to be playable on desktop computers through Chrome and Safari, as well as on all mobile devices, including iOS and Android.\n\nTarget audience\n\nBruce Lee is a simple slot game with intuitive gameplay and lower betting amounts suitable for beginners and those who enjoy low-cost games. It doesn't promise high winnings or unique features, but it is smooth and fun to play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SnDeiUX8iTwUqL982bJYMlr7JAhs",
+                "id": "chatcmpl-7WPQ6WsxmnM4ELgA8pPjoYcSVj8HK",
                 "object": "chat.completion",
-                "created": 1687096738,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 457,
-                    "completion_tokens": 138,
-                    "total_tokens": 595
-                },
+                "created": 1687958566,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Play as the famous martial artist Bruce Lee\",\n        \"Low volatility slot game with smaller bets\",\n        \"Special symbols like Wild and Scatter with free spins\",\n        \"Playable on both desktop and mobile devices\"\n    ],\n    \"cons\": [\n        \"Lack of unique features\",\n        \"Not suitable for high-stakes players\"\n    ],\n    \"meta_title\": \"Play Bruce Lee for Free – Review of WMS's Classic Slot Game\",\n    \"meta_description\": \"Experience the legendary martial artist Bruce Lee in WMS's slot game. Play for free and read our review of Bruce Lee's gameplay, symbols, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Easy gameplay\",\n    \"Special symbols and free spins\",\n    \"Wide betting range\",\n    \"Compatible with desktop and mobile devices\"\n  ],\n  \"cons\": [\n    \"Lack of unique features\",\n    \"Low potential for high winnings\"\n  ],\n  \"meta_title\": \"Play Bruce Lee Free - Fun and Easy Slot Game\",\n  \"meta_description\": \"Try Bruce Lee for free and enjoy its intuitive gameplay and wide betting range.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 454,
+                    "completion_tokens": 99,
+                    "total_tokens": 553
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_2.png",
-        "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_3.png",
         "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_4.png",
-        "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_1.png"
+        "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_1.png",
+        "arved__Create_a_Cartoon_Image_of_a_Happy_Maya_Warrior_with_Glas_bbccbd6e-2daf-4b3c-b589-3b463017757b_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Bruce Lee (Version 1).webp",
-        "game_reviews/processed_images/Bruce Lee (Version 3).webp",
         "game_reviews/processed_images/Bruce Lee (Version 2).webp",
-        "game_reviews/processed_images/Bruce Lee (Version 4).webp"
+        "game_reviews/processed_images/Bruce Lee (Version 1).webp",
+        "game_reviews/processed_images/Bruce Lee (Version 4).webp",
+        "game_reviews/processed_images/Bruce Lee (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/bruce-lee.json"
+    "filename": "game_reviews/translations/bruce-lee.json",
+    "slug": "bruce-lee",
+    "name": "Bruce Lee",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bruce-Lee-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Bruce Lee Free - Fun and Easy Slot Game' ### Meta set: 'Try Bruce Lee for free and enjoy its intuitive gameplay and wide betting range.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

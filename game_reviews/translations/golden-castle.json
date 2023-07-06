@@ -802,40 +802,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative Titanways engine and exciting gameplay mechanics",
-                    "Avalanche feature adds extra excitement and chance for increased wins",
-                    "Bonus game with progressive win multiplier and the potential for significant payouts",
-                    "Ghost King symbol and randomly transforming grid symbols offer unique gameplay"
+                    "Innovative Titanways engine and unique symbol designs",
+                    "Avalanche feature adds excitement and potential for big wins",
+                    "Phantom Free Spins with progressive win multiplier",
+                    "Ghost King symbol adds an element of surprise to gameplay"
                 ],
                 "cons": [
-                    "Highly volatile gameplay may not be suitable for all players",
-                    "Purchase of buy feature is expensive at 70 times default bet"
+                    "Highly volatile gameplay may not suit all players",
+                    "Buy feature can be costly"
                 ],
-                "meta_title": "Play Golden Castle Slot for Free - Review and Rating",
-                "meta_description": "Read our neutral Golden Castle Slot review to play this innovative game with Titanways engine and Ghost King feature for free. Highly volatile with a top prize of 20,000x."
+                "meta_title": "Play Golden Castle Slot for Free",
+                "meta_description": "Read our review of Golden Castle, an innovative slot game with exciting features. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Castle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame mechanics and Titanways engine\n\nFantasma's Golden Castle Titanways operates on a 6x6 grid and uses the innovative Titanways engine. Symbols can appear in five dimensions - 1x1, 1x2, 1x3, 2x2, and 3x3. Winning is simple - players need three or more identical symbols to land adjacent from the first reel onwards. \n\nSymbol design and size\n\nThe game features various precious stones, some in 3x3 size, valued from 1x for 6 of a kind to 10x if you get 6 diamonds. Symbols are of different shapes and sizes, and some can be divided into smaller symbols through the Ghost King feature.\n\nAvalanche feature\n\nThe Avalanche feature shatters any winning combinations, which then disappear before new symbols avalanche into the empty spaces. Any mega 2x2 or 3x3 symbol will crush the underlying symbols if there are partial gaps beneath them.\n\nBonus game and progressive multiplier\n\nLanding three scatters activates 10 Phantom Free Spins with a progressive win multiplier that increases after each winning avalanche, with no limits. The multiplier does not reset between spins. During the feature, Ghost King can also split larger symbols, potentially leading to significant payouts.\n\nGhost King symbol\n\nThe Ghost King symbol randomly transforms grid symbols, potentially multiplying a win if it is part of a combo. Randomly, some of the split symbols can transform into golden Ghost King wild symbols.\n\nVolatile gameplay\n\nGolden Castle Titanways has highly volatile gameplay, offering players a chance to win up to 20,000 times their wager. \n\nRTP and buy feature\n\nThe game comes with an RTP of 96.34%, which increases to 97.12% if the buy feature is activated. The buy feature allows players to purchase a feature for 70 times their default bet.\n\nBetting range and top prize\n\nThe game allows players to place a wager ranging from 20 cents to 50 euros per spin and offers a top prize of 20,000 times your bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Castle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame mechanics and Titanways engine\n\nFantasma's Golden Castle Titanways operates on a 6x6 grid and uses the innovative Titanways engine. Symbols can appear in five dimensions - 1x1, 1x2, 1x3, 2x2, and 3x3. Winning is simple - players need three or more identical symbols to land adjacent from the first reel onwards. \n\nSymbol design and size\n\nThe game features various precious stones, some in 3x3 size, valued from 1x for 6 of a kind to 10x if you get 6 diamonds. Symbols are of different shapes and sizes, and some can be divided into smaller symbols through the Ghost King feature.\n\nAvalanche feature\n\nThe Avalanche feature shatters any winning combinations, which then disappear before new symbols avalanche into the empty spaces. Any mega 2x2 or 3x3 symbol will crush the underlying symbols if there are partial gaps beneath them.\n\nBonus game and progressive multiplier\n\nLanding three scatters activates 10 Phantom Free Spins with a progressive win multiplier that increases after each winning avalanche, with no limits. The multiplier does not reset between spins. During the feature, Ghost King can also split larger symbols, potentially leading to significant payouts.\n\nGhost King symbol\n\nThe Ghost King symbol randomly transforms grid symbols, potentially multiplying a win if it is part of a combo. Randomly, some of the split symbols can transform into golden Ghost King wild symbols.\n\nVolatile gameplay\n\nGolden Castle Titanways has highly volatile gameplay, offering players a chance to win up to 20,000 times their wager. \n\nRTP and buy feature\n\nThe game comes with an RTP of 96.34%, which increases to 97.12% if the buy feature is activated. The buy feature allows players to purchase a feature for 70 times their default bet.\n\nBetting range and top prize\n\nThe game allows players to place a wager ranging from 20 cents to 50 euros per spin and offers a top prize of 20,000 times your bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TSufBk3tfbLNmk5PLsQ8HW3A7ePJ",
+                "id": "chatcmpl-7WU4TBnNtryUpmd5LSEwt00eQJz2H",
                 "object": "chat.completion",
-                "created": 1687257009,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 599,
-                    "completion_tokens": 163,
-                    "total_tokens": 762
-                },
+                "created": 1687976445,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative Titanways engine and exciting gameplay mechanics\",\n        \"Avalanche feature adds extra excitement and chance for increased wins\",\n        \"Bonus game with progressive win multiplier and the potential for significant payouts\",\n        \"Ghost King symbol and randomly transforming grid symbols offer unique gameplay\"\n    ],\n    \"cons\": [\n        \"Highly volatile gameplay may not be suitable for all players\",\n        \"Purchase of buy feature is expensive at 70 times default bet\"\n    ],\n    \"meta_title\": \"Play Golden Castle Slot for Free - Review and Rating\",\n    \"meta_description\": \"Read our neutral Golden Castle Slot review to play this innovative game with Titanways engine and Ghost King feature for free. Highly volatile with a top prize of 20,000x.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Innovative Titanways engine and unique symbol designs\",\n    \"Avalanche feature adds excitement and potential for big wins\",\n    \"Phantom Free Spins with progressive win multiplier\",\n    \"Ghost King symbol adds an element of surprise to gameplay\"\n  ],\n  \"cons\": [\n    \"Highly volatile gameplay may not suit all players\",\n    \"Buy feature can be costly\"\n  ],\n  \"meta_title\": \"Play Golden Castle Slot for Free\",\n  \"meta_description\": \"Read our review of Golden Castle, an innovative slot game with exciting features. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 596,
+                    "completion_tokens": 128,
+                    "total_tokens": 724
+                }
             }
         },
         {
@@ -1038,5 +1038,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-castle.json"
+    "filename": "game_reviews/translations/golden-castle.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_game_Golden_Castle_that_f_c7c214af-9831-4324-9530-5bff191ea5ff_3.png",
+        "arved__Create_a_feature_image_for_the_game_Golden_Castle_that_f_c7c214af-9831-4324-9530-5bff191ea5ff_2.png",
+        "arved__Create_a_feature_image_for_the_game_Golden_Castle_that_f_c7c214af-9831-4324-9530-5bff191ea5ff_1.png",
+        "arved__Create_a_feature_image_for_the_game_Golden_Castle_that_f_c7c214af-9831-4324-9530-5bff191ea5ff_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Castle (Version 2).webp",
+        "game_reviews/processed_images/Golden Castle (Version 4).webp",
+        "game_reviews/processed_images/Golden Castle (Version 1).webp",
+        "game_reviews/processed_images/Golden Castle (Version 3).webp"
+    ],
+    "slug": "golden-castle",
+    "name": "Golden Castle",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Castle-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Castle Slot for Free' ### Meta set: 'Read our review of Golden Castle, an innovative slot game with exciting features. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

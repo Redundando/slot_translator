@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Impressive graphics",
-                    "Thematic symbols",
-                    "Free spins feature",
-                    "Automatic spins"
+                    "Classic gameplay",
+                    "Variable paylines",
+                    "Free spins feature"
                 ],
                 "cons": [
-                    "RTP slightly lower than average",
-                    "Limited betting options"
+                    "Medium volatility",
+                    "Slightly lower RTP"
                 ],
-                "meta_title": "Play Flash Cash for Free and Enjoy Impressive Graphics",
-                "meta_description": "Read our review of Flash Cash by Ainsworth and play this adrenaline-filled slot game for free. Enjoy impressive graphics and free spins feature."
+                "meta_title": "Play Flash Cash Online for Free",
+                "meta_description": "Read our review of Flash Cash and play this adrenaline-filled slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Flash Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFlash Cash\n\nFlash Cash is an adrenaline-filled slot game by Ainsworth that celebrates the passion for motors with impressive graphics and old-school gameplay.\n\nGameplay\n\nFlash Cash features classic gameplay with a 5x3 grid and a maximum of 30 variable paylines. Players can choose how many paylines to activate and the bets are quite contained, with a minimum of €0.01 per active line. The game has medium volatility and an RTP slightly lower than the average, at 93.93%. Players can also activate automatic spins for up to 100 spins.\n\nPaylines\n\nFlash Cash has a maximum of 30 variable paylines and players can choose how many to activate. A higher number of active paylines increases the probability of winning combinations.\n\nSymbols\n\nThe symbols in Flash Cash include both thematic and non-thematic symbols. The non-thematic symbols are represented by playing cards from 10 to Ace and pay the least. Thematic symbols include the helmet, the wheel, the speedometer, the checkered flag with the champagne bottle, the race car, and the dollar symbol as the Wild.\n\nFree Spins\n\nPlayers can trigger 10 free spins in Flash Cash by landing the Scatter trophy symbol on the reels three times. During free spins, the Wild symbol can transform all symbols on reels 2 or 4 into Wilds. An additional reel may also appear during free spins, with a multiplier of x2, x3, or x5. Players can earn an additional 5 free spins by landing three or more Scatter symbols during free spins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Flash Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFlash Cash\n\nFlash Cash is an adrenaline-filled slot game by Ainsworth that celebrates the passion for motors with impressive graphics and old-school gameplay.\n\nGameplay\n\nFlash Cash features classic gameplay with a 5x3 grid and a maximum of 30 variable paylines. Players can choose how many paylines to activate and the bets are quite contained, with a minimum of €0.01 per active line. The game has medium volatility and an RTP slightly lower than the average, at 93.93%. Players can also activate automatic spins for up to 100 spins.\n\nPaylines\n\nFlash Cash has a maximum of 30 variable paylines and players can choose how many to activate. A higher number of active paylines increases the probability of winning combinations.\n\nSymbols\n\nThe symbols in Flash Cash include both thematic and non-thematic symbols. The non-thematic symbols are represented by playing cards from 10 to Ace and pay the least. Thematic symbols include the helmet, the wheel, the speedometer, the checkered flag with the champagne bottle, the race car, and the dollar symbol as the Wild.\n\nFree Spins\n\nPlayers can trigger 10 free spins in Flash Cash by landing the Scatter trophy symbol on the reels three times. During free spins, the Wild symbol can transform all symbols on reels 2 or 4 into Wilds. An additional reel may also appear during free spins, with a multiplier of x2, x3, or x5. Players can earn an additional 5 free spins by landing three or more Scatter symbols during free spins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TGZZaDUMTi2NFcDL22dO262t6WrI",
+                "id": "chatcmpl-7WSslVEbuzEweZ1OheBRyxOXGZaf9",
                 "object": "chat.completion",
-                "created": 1687209573,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 493,
-                    "completion_tokens": 95,
-                    "total_tokens": 588
-                },
+                "created": 1687971875,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Impressive graphics\", \"Thematic symbols\", \"Free spins feature\", \"Automatic spins\"],\n    \"cons\": [\"RTP slightly lower than average\", \"Limited betting options\"],\n    \"meta_title\": \"Play Flash Cash for Free and Enjoy Impressive Graphics\",\n    \"meta_description\": \"Read our review of Flash Cash by Ainsworth and play this adrenaline-filled slot game for free. Enjoy impressive graphics and free spins feature.\" \n}"
+                            "content": "{\"pros\": [\"Impressive graphics\", \"Classic gameplay\", \"Variable paylines\", \"Free spins feature\"], \"cons\": [\"Medium volatility\", \"Slightly lower RTP\"], \"meta_title\": \"Play Flash Cash Online for Free\", \"meta_description\": \"Read our review of Flash Cash and play this adrenaline-filled slot game for free.\"}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 490,
+                    "completion_tokens": 70,
+                    "total_tokens": 560
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/flash-cash.json"
+    "filename": "game_reviews/translations/flash-cash.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Flash_Cash_Cartoon_sty_d24af4fa-85d6-4833-9128-096c630a65bd_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Flash_Cash_Cartoon_sty_d24af4fa-85d6-4833-9128-096c630a65bd_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Flash_Cash_Cartoon_sty_d24af4fa-85d6-4833-9128-096c630a65bd_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Flash_Cash_Cartoon_sty_d24af4fa-85d6-4833-9128-096c630a65bd_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "flash-cash",
+    "name": "Flash Cash",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/flash-cash_free-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Flash Cash Online for Free' ### Meta set: 'Read our review of Flash Cash and play this adrenaline-filled slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

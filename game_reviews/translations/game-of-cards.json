@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting theme based on \"Alice in Wonderland\"",
-                    "3 Bonus features for more chances to win big",
-                    "Wide range of betting options",
-                    "Progressive Jackpot available"
+                    "Exciting theme based on Alice in Wonderland",
+                    "Multiple Bonus features for increased winning potential",
+                    "Wide range of betting levels to suit different players",
+                    "High jackpot multiplier of 2,000x line bet"
                 ],
                 "cons": [
-                    "Only 30 fixed paylines",
-                    "Medium volatility may not suit those seeking high-risk options"
+                    "Medium volatility may not appeal to players seeking high-risk/high-reward gameplay",
+                    "Limited number of fixed paylines (30) compared to some other slots"
                 ],
-                "meta_title": "Play Game of Cards for Free - Review of Online Slot Game",
-                "meta_description": "Join the battle between the Queen of Hearts and the Queen of Spades in Game of Cards. Play for free and read our review of this exciting online slot game."
+                "meta_title": "Play Game of Cards for Free",
+                "meta_description": "Read our review of Game of Cards and play for free to experience the exciting Alice in Wonderland-themed slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Game of Cards\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nIn Game of Cards, players join the battle between the Queen of Hearts and the Queen of Spades, with medium volatility and 30 fixed paylines. The game offers a wide range of betting levels, starting at 0.30€ and going up to a maximum of 30.00€ per spin. The main goal is to align the right combinations of symbols and trigger one of the available Bonus features.\n\nBonus Features\n\nGame of Cards presents three Bonus features that can increase your chances of winning big. The Wicked Queen of Spades represents the Scatter symbol and triggers a round of up to 30 Free Spins with x30 multipliers if you are able to climb high enough levels on the side mini-game. The Jackpot Bonus is activated by three blue Magician icons on reels 1, 2, and 3, featuring six stones to flip and a chance to win the Progressive Jackpot. Finally, the Queen of Hearts functions as the slot's wild symbol and completes your winning combinations, as well as awards a Jackpot Multiplier of 2,000x line bet each time you land 5 identical icons.\n\nSymbols\n\nThe symbols in Game of Cards are inspired by the characters from the famous novel \"Alice in Wonderland.\" The highest paying symbol is the Queen of Hearts, followed by the King, the Ace, the Rabbit, the Cat, and the blue Magician. In addition, there are lower paying symbols such as the 10, J, Q, and K. The wild symbol is represented by the Queen of Hearts and functions as a substitute for any other symbol, except for the Scatter and Bonus symbols.\n\nBetting Range\n\nGame of Cards offers a wide range of betting levels to suit different players' preferences. The lowest betting option allows players to place their bet with only 0.30€ per round. If you feel more daring, you can increase your stake up to a maximum of 30.00€ per spin.\n\nJackpot\n\nGame of Cards presents a Jackpot Multiplier of 2,000x line bet, which is awarded each time 5 identical Queen of Heart icons appear. The Jackpot Bonus feature is activated by three blue Magician icons on reels 1, 2, and 3, featuring six stones to flip and a chance to win the Progressive Jackpot. In order to win the Progressive Jackpot, players must get four or five Game of Cards logo icons to appear in any position.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Game of Cards\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nIn Game of Cards, players join the battle between the Queen of Hearts and the Queen of Spades, with medium volatility and 30 fixed paylines. The game offers a wide range of betting levels, starting at 0.30€ and going up to a maximum of 30.00€ per spin. The main goal is to align the right combinations of symbols and trigger one of the available Bonus features.\n\nBonus Features\n\nGame of Cards presents three Bonus features that can increase your chances of winning big. The Wicked Queen of Spades represents the Scatter symbol and triggers a round of up to 30 Free Spins with x30 multipliers if you are able to climb high enough levels on the side mini-game. The Jackpot Bonus is activated by three blue Magician icons on reels 1, 2, and 3, featuring six stones to flip and a chance to win the Progressive Jackpot. Finally, the Queen of Hearts functions as the slot's wild symbol and completes your winning combinations, as well as awards a Jackpot Multiplier of 2,000x line bet each time you land 5 identical icons.\n\nSymbols\n\nThe symbols in Game of Cards are inspired by the characters from the famous novel \"Alice in Wonderland.\" The highest paying symbol is the Queen of Hearts, followed by the King, the Ace, the Rabbit, the Cat, and the blue Magician. In addition, there are lower paying symbols such as the 10, J, Q, and K. The wild symbol is represented by the Queen of Hearts and functions as a substitute for any other symbol, except for the Scatter and Bonus symbols.\n\nBetting Range\n\nGame of Cards offers a wide range of betting levels to suit different players' preferences. The lowest betting option allows players to place their bet with only 0.30€ per round. If you feel more daring, you can increase your stake up to a maximum of 30.00€ per spin.\n\nJackpot\n\nGame of Cards presents a Jackpot Multiplier of 2,000x line bet, which is awarded each time 5 identical Queen of Heart icons appear. The Jackpot Bonus feature is activated by three blue Magician icons on reels 1, 2, and 3, featuring six stones to flip and a chance to win the Progressive Jackpot. In order to win the Progressive Jackpot, players must get four or five Game of Cards logo icons to appear in any position.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TMrap9lRaDi8ynZIdC5N6u4trObg",
+                "id": "chatcmpl-7WTaaKfVLA9chp4FS0hemW9HaiskC",
                 "object": "chat.completion",
-                "created": 1687233754,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 678,
-                    "completion_tokens": 138,
-                    "total_tokens": 816
-                },
+                "created": 1687974592,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting theme based on \\\"Alice in Wonderland\\\"\",\n        \"3 Bonus features for more chances to win big\",\n        \"Wide range of betting options\",\n        \"Progressive Jackpot available\"\n    ],\n    \"cons\": [\n        \"Only 30 fixed paylines\",\n        \"Medium volatility may not suit those seeking high-risk options\"\n    ],\n    \"meta_title\": \"Play Game of Cards for Free - Review of Online Slot Game\",\n    \"meta_description\": \"Join the battle between the Queen of Hearts and the Queen of Spades in Game of Cards. Play for free and read our review of this exciting online slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting theme based on Alice in Wonderland\",\n    \"Multiple Bonus features for increased winning potential\",\n    \"Wide range of betting levels to suit different players\",\n    \"High jackpot multiplier of 2,000x line bet\"\n  ],\n  \"cons\": [\n    \"Medium volatility may not appeal to players seeking high-risk/high-reward gameplay\",\n    \"Limited number of fixed paylines (30) compared to some other slots\"\n  ],\n  \"meta_title\": \"Play Game of Cards for Free\",\n  \"meta_description\": \"Read our review of Game of Cards and play for free to experience the exciting Alice in Wonderland-themed slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 675,
+                    "completion_tokens": 139,
+                    "total_tokens": 814
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/game-of-cards.json"
+    "filename": "game_reviews/translations/game-of-cards.json",
+    "raw_feature_images": [
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_9169500e-cd29-45d3-94e0-a91ff93de479_3.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_2a8b9a28-044a-4b0a-a97f-378419dd12d7_3.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_2a8b9a28-044a-4b0a-a97f-378419dd12d7_4.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_9169500e-cd29-45d3-94e0-a91ff93de479_2.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_2a8b9a28-044a-4b0a-a97f-378419dd12d7_2.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_2a8b9a28-044a-4b0a-a97f-378419dd12d7_1.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_9169500e-cd29-45d3-94e0-a91ff93de479_1.png",
+        "arved__Create_a_colorful_image_for_Game_of_Cards_that_depicts_a_9169500e-cd29-45d3-94e0-a91ff93de479_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Game Of Cards (Version 1).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 8).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 6).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 5).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 3).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 2).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 4).webp",
+        "game_reviews/processed_images/Game Of Cards (Version 7).webp"
+    ],
+    "slug": "game-of-cards",
+    "name": "Game of Cards",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Game-Of-Cards-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Game of Cards for Free' ### Meta set: 'Read our review of Game of Cards and play for free to experience the exciting Alice in Wonderland-themed slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

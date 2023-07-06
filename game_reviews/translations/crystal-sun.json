@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 96.6%",
-                    "Regular Wild symbols increase winning chances",
-                    "Expanding Wilds offer up to 4,000x win",
-                    "BAR symbols have a high payout of 160x multiplier"
+                    "Impressive payout percentage of 96.6%",
+                    "Regular Wild symbols increase chances of winning",
+                    "Expanding Wilds offer potential for big wins",
+                    "BAR Symbols provide considerable rewards"
                 ],
                 "cons": [
-                    "Limited number of paylines (10)",
-                    "No bonus games or free spins"
+                    "Limited variety in symbols",
+                    "No bonus features apart from Expanding Wilds"
                 ],
-                "meta_title": "Play Crystal Sun Slot Game for Free - Review",
-                "meta_description": "Read our review of Crystal Sun slot game and play for free. Enjoy an intergalactic journey with stunning graphics and high chances of winning."
+                "meta_title": "Play Crystal Sun for Free",
+                "meta_description": "Read our review of Crystal Sun, a space-themed slot game with impressive payouts. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crystal Sun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCrystal Sun Slot Game\n\nCrystal Sun is a space-themed slot machine produced by Play N Go, offering a classic 5×3 grid for a total of 10 paylines. It presents stunning graphics that resemble an intergalactic journey through our beautiful galaxy while making a lot of money.\n\nRTP (Return to Player)\n\nCrystal Sun has an impressive and competitive payout percentage of 96.6%, which is higher than the average of all the other slot machines on the market. This high probability of winning makes this slot machine appealing to many players.\n\nWild Symbols\n\nThis slot game offers regular Wild symbols which function as a Jolly that replaces any value within a payline to obtain a win. The Wild symbol is helpful in increasing the chances of winning in the game.\n\nExpanding Wilds\n\nCrystal Sun offers an incredible bonus of Expanding Wilds. These symbols expand to cover the entire reel, which significantly increases the amount of your winnings. The Expanding Wilds bonus can grant you up to an astonishing 4,000x win!\n\nBAR Symbols\n\nThe BAR symbol has a payout of 160x multiplier with a single spin, allowing you to get a considerable reward. Although the game has only classic BAR icons and stones with bright colors ranging from red to green to blue, they don't detract from the excitement of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crystal Sun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCrystal Sun Slot Game\n\nCrystal Sun is a space-themed slot machine produced by Play N Go, offering a classic 5×3 grid for a total of 10 paylines. It presents stunning graphics that resemble an intergalactic journey through our beautiful galaxy while making a lot of money.\n\nRTP (Return to Player)\n\nCrystal Sun has an impressive and competitive payout percentage of 96.6%, which is higher than the average of all the other slot machines on the market. This high probability of winning makes this slot machine appealing to many players.\n\nWild Symbols\n\nThis slot game offers regular Wild symbols which function as a Jolly that replaces any value within a payline to obtain a win. The Wild symbol is helpful in increasing the chances of winning in the game.\n\nExpanding Wilds\n\nCrystal Sun offers an incredible bonus of Expanding Wilds. These symbols expand to cover the entire reel, which significantly increases the amount of your winnings. The Expanding Wilds bonus can grant you up to an astonishing 4,000x win!\n\nBAR Symbols\n\nThe BAR symbol has a payout of 160x multiplier with a single spin, allowing you to get a considerable reward. Although the game has only classic BAR icons and stones with bright colors ranging from red to green to blue, they don't detract from the excitement of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SysHucvbRXLDtxFpfPCbJTdy6WVg",
+                "id": "chatcmpl-7WQkdCCEgNJ1XSDofxPQuY5aF4xYp",
                 "object": "chat.completion",
-                "created": 1687141541,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 447,
-                    "completion_tokens": 136,
-                    "total_tokens": 583
-                },
+                "created": 1687963683,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 96.6%\",\n        \"Regular Wild symbols increase winning chances\",\n        \"Expanding Wilds offer up to 4,000x win\",\n        \"BAR symbols have a high payout of 160x multiplier\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines (10)\",\n        \"No bonus games or free spins\"\n    ],\n    \"meta_title\": \"Play Crystal Sun Slot Game for Free - Review\",\n    \"meta_description\": \"Read our review of Crystal Sun slot game and play for free. Enjoy an intergalactic journey with stunning graphics and high chances of winning.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Impressive payout percentage of 96.6%\",\n      \"Regular Wild symbols increase chances of winning\",\n      \"Expanding Wilds offer potential for big wins\",\n      \"BAR Symbols provide considerable rewards\"\n   ],\n   \"cons\": [\n      \"Limited variety in symbols\",\n      \"No bonus features apart from Expanding Wilds\"\n   ],\n   \"meta_title\": \"Play Crystal Sun for Free\",\n   \"meta_description\": \"Read our review of Crystal Sun, a space-themed slot game with impressive payouts. Play for free now!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 444,
+                    "completion_tokens": 118,
+                    "total_tokens": 562
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_1.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_3.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4fc1a715-9d73-4d55-8323-15aa563a1cef_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Crystal Sun (Version 3).webp",
-        "game_reviews/processed_images/Crystal Sun (Version 1).webp",
         "game_reviews/processed_images/Crystal Sun (Version 4).webp",
+        "game_reviews/processed_images/Crystal Sun (Version 1).webp",
         "game_reviews/processed_images/Crystal Sun (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/crystal-sun.json"
+    "filename": "game_reviews/translations/crystal-sun.json",
+    "slug": "crystal-sun",
+    "name": "Crystal Sun",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crystal-Sun-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crystal Sun for Free' ### Meta set: 'Read our review of Crystal Sun, a space-themed slot game with impressive payouts. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

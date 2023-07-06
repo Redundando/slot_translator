@@ -580,40 +580,41 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful graphics and immersive theme",
-                    "Book of the Sun symbol serves as wild and scatter",
-                    "Free spins with expandable symbols and multipliers",
-                    "Ability to buy feature to access free spins round"
+                    "Well-designed graphics immersing players in the world of ancient Greek mythology",
+                    "Book of the Sun symbol serves as both the wild and scatter, increasing winning potential",
+                    "Free spins with expandable symbols and multipliers create more opportunities for big wins",
+                    "'Buy Feature' option adds excitement and risk to the game",
+                    "Compatible with all devices and operating systems for convenient play on the go"
                 ],
                 "cons": [
-                    "RTP slightly lower than industry average",
-                    "Only 10 paylines"
+                    "Lower RTP compared to industry average",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Book of Helios Free Slot Game Online",
-                "meta_description": "Read our review of Book of Helios, a Betsoft slot game themed around Helios. Play for free and access the free spins round with buy feature option."
+                "meta_title": "Play Book of Helios Free | Ancient Greek Mythology",
+                "meta_description": "Read our review of Book of Helios slot and play for free. Explore ancient Greek mythology and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Helios\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of Helios Theme and Format\n\nBook of Helios is a slot game developed by Betsoft, themed around the ancient Greek god of the sun - Helios. The game has a 3x5 format, with 10 paylines and features several symbols related to Helios and the ancient Greek civilization. The game's graphics are well-designed and immerse players in the world of ancient Greek mythology.\n\nBook of the Sun as a Wild and Scatter Symbol\n\nThe Book of the Sun symbol is the most powerful symbol in the Book of Helios slot. It serves as both the wild symbol and the scatter symbol, helping players create winning combinations and obtain prizes. Having three or more Book of Helios symbols on the display in the same spin gives players access to 10 free spins.\n\nFree Spins with Expandable Symbols and Multipliers\n\nDuring the 10 free spins, a symbol is randomly selected to become an expandable symbol. If the expandable symbol appears on the reels, it expands vertically to cover the whole reel and creates more winning combinations. Additionally, if the symbol of the Book of Helios appears during the free spins, it expands and multiplies the winnings by up to 5x.\n\nBuy Feature Option to Access Free Spins Round\n\nOne of the unique features of the Book of Helios slot is the 'Buy Feature' option. This feature allows players to purchase access to the free spins round without having to wait for the symbols to appear naturally. The feature has a set token cost that is indicated on the button that activates it. This feature adds an element of risk and excitement to the game, making it more engaging and interactive.\n\nRTP and Device Compatibility\n\nThe Book of Helios slot has an RTP of 95.58%, which is slightly less than the industry average. However, this is compensated by the high volatility of the game, which means that players can expect larger payouts. The game is compatible with all devices and operating systems, both desktop and mobile. Players can access the game on their desktop computers, smartphones, and tablets, making it convenient for them to play on the go.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Helios\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of Helios Theme and Format\n\nBook of Helios is a slot game developed by Betsoft, themed around the ancient Greek god of the sun - Helios. The game has a 3x5 format, with 10 paylines and features several symbols related to Helios and the ancient Greek civilization. The game's graphics are well-designed and immerse players in the world of ancient Greek mythology.\n\nBook of the Sun as a Wild and Scatter Symbol\n\nThe Book of the Sun symbol is the most powerful symbol in the Book of Helios slot. It serves as both the wild symbol and the scatter symbol, helping players create winning combinations and obtain prizes. Having three or more Book of Helios symbols on the display in the same spin gives players access to 10 free spins.\n\nFree Spins with Expandable Symbols and Multipliers\n\nDuring the 10 free spins, a symbol is randomly selected to become an expandable symbol. If the expandable symbol appears on the reels, it expands vertically to cover the whole reel and creates more winning combinations. Additionally, if the symbol of the Book of Helios appears during the free spins, it expands and multiplies the winnings by up to 5x.\n\nBuy Feature Option to Access Free Spins Round\n\nOne of the unique features of the Book of Helios slot is the 'Buy Feature' option. This feature allows players to purchase access to the free spins round without having to wait for the symbols to appear naturally. The feature has a set token cost that is indicated on the button that activates it. This feature adds an element of risk and excitement to the game, making it more engaging and interactive.\n\nRTP and Device Compatibility\n\nThe Book of Helios slot has an RTP of 95.58%, which is slightly less than the industry average. However, this is compensated by the high volatility of the game, which means that players can expect larger payouts. The game is compatible with all devices and operating systems, both desktop and mobile. Players can access the game on their desktop computers, smartphones, and tablets, making it convenient for them to play on the go.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SjYgx47xjCvnUSOrLtV9JZSzkp9k",
+                "id": "chatcmpl-7WOrCze9yoMy2RIYoZD4mpcHOf5AJ",
                 "object": "chat.completion",
-                "created": 1687082666,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 607,
-                    "completion_tokens": 136,
-                    "total_tokens": 743
-                },
+                "created": 1687956402,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Beautiful graphics and immersive theme\",\n    \"Book of the Sun symbol serves as wild and scatter\",\n    \"Free spins with expandable symbols and multipliers\",\n    \"Ability to buy feature to access free spins round\"\n  ],\n  \"cons\": [\n    \"RTP slightly lower than industry average\",\n    \"Only 10 paylines\"\n  ],\n  \"meta_title\": \"Play Book of Helios Free Slot Game Online\",\n  \"meta_description\": \"Read our review of Book of Helios, a Betsoft slot game themed around Helios. Play for free and access the free spins round with buy feature option.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Well-designed graphics immersing players in the world of ancient Greek mythology\",\n      \"Book of the Sun symbol serves as both the wild and scatter, increasing winning potential\",\n      \"Free spins with expandable symbols and multipliers create more opportunities for big wins\",\n      \"'Buy Feature' option adds excitement and risk to the game\",\n      \"Compatible with all devices and operating systems for convenient play on the go\"\n   ],\n   \"cons\": [\n      \"Lower RTP compared to industry average\",\n      \"Limited number of paylines\"\n   ],\n   \"meta_title\": \"Play Book of Helios Free | Ancient Greek Mythology\",\n   \"meta_description\": \"Read our review of Book of Helios slot and play for free. Explore ancient Greek mythology and win big!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 604,
+                    "completion_tokens": 165,
+                    "total_tokens": 769
+                }
             }
         },
         {
@@ -815,14 +816,23 @@
     "filename": "game_reviews/translations/book-of-helios.json",
     "raw_feature_images": [
         "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_4.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_1.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_3.png",
         "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_2.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_3.png"
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Helios (Version 3).webp",
-        "game_reviews/processed_images/Book Of Helios (Version 4).webp",
         "game_reviews/processed_images/Book Of Helios (Version 2).webp",
-        "game_reviews/processed_images/Book Of Helios (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Book Of Helios (Version 1).webp",
+        "game_reviews/processed_images/Book Of Helios (Version 4).webp"
+    ],
+    "slug": "book-of-helios",
+    "name": "Book of Helios",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Helios Free | Ancient Greek Mythology' ### Meta set: 'Read our review of Book of Helios slot and play for free. Explore ancient Greek mythology and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

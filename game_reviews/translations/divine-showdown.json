@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting special features that boost winnings",
-                    "Maximum prize of €50,000",
-                    "High-quality graphics and animations",
-                    "Developed by a reputable game developer"
+                    "Exciting special features",
+                    "High maximum prize",
+                    "Variable RTP percentage",
+                    "Developed by reputable company"
                 ],
                 "cons": [
-                    "High volatility may not appeal to some players",
-                    "Variable RTP may not be ideal for all players"
+                    "High volatility",
+                    "Betting range may not suit all players"
                 ],
-                "meta_title": "Play Divine Showdown Free - Exciting Features & High Jackpot",
-                "meta_description": "Looking to play Divine Showdown? Read our review of this exciting game featuring special features, a high jackpot, and developed by Play 'N Go. Play for free."
+                "meta_title": "Play Divine Showdown for Free - Exciting Special Features!",
+                "meta_description": "Read our review of Divine Showdown, a slot game with exciting special features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Divine Showdown\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nDivine Showdown is a slot game by Play 'N Go that features four deities - Thor, Wukong, Athena, and Anubis. The game has five reels, twenty paylines, and a betting range that goes from a minimum of 20 cents up to a maximum of € 100 per spin, while the token value is between € 0.01 and € 10. The game has high volatility and offers a maximum prize of € 50,000.\n\nSpecial Features\n\nDivine Showdown offers several special features, including a multiplier reel that allows players to win up to 5,000 times their initial bet, a random Power Spin feature that helps players increase their winnings, and a Scatter symbol that offers the possibility of obtaining a variable number of free spins. During Power Spin, one of the four deities will help the player with his power and allow him to increase his winnings. \n\nMaximum Prize\n\nDivine Showdown offers a maximum prize of a whopping 5,000 times the initial bet, which adds up to the amount of € 50,000.\n\nReturn-to-Player Percentage\n\nThe return-to-player (RTP) of Divine Showdown is variable, ranging from 94.5% to 96.51%, putting it in line with most online casino games. \n\nGame Developer\n\nDivine Showdown is developed by Play 'N Go, a well-known developer in the online casino industry who has always been recognized for the quality of their products.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Divine Showdown\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nDivine Showdown is a slot game by Play 'N Go that features four deities - Thor, Wukong, Athena, and Anubis. The game has five reels, twenty paylines, and a betting range that goes from a minimum of 20 cents up to a maximum of € 100 per spin, while the token value is between € 0.01 and € 10. The game has high volatility and offers a maximum prize of € 50,000.\n\nSpecial Features\n\nDivine Showdown offers several special features, including a multiplier reel that allows players to win up to 5,000 times their initial bet, a random Power Spin feature that helps players increase their winnings, and a Scatter symbol that offers the possibility of obtaining a variable number of free spins. During Power Spin, one of the four deities will help the player with his power and allow him to increase his winnings. \n\nMaximum Prize\n\nDivine Showdown offers a maximum prize of a whopping 5,000 times the initial bet, which adds up to the amount of € 50,000.\n\nReturn-to-Player Percentage\n\nThe return-to-player (RTP) of Divine Showdown is variable, ranging from 94.5% to 96.51%, putting it in line with most online casino games. \n\nGame Developer\n\nDivine Showdown is developed by Play 'N Go, a well-known developer in the online casino industry who has always been recognized for the quality of their products.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T4PqZtd2Qa3wnT6Se0E4iDujGBZe",
+                "id": "chatcmpl-7WRJt4TrZDDs5qjE736P3LgEuKrqY",
                 "object": "chat.completion",
-                "created": 1687162842,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 486,
-                    "completion_tokens": 139,
-                    "total_tokens": 625
-                },
+                "created": 1687965869,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting special features that boost winnings\",\n        \"Maximum prize of €50,000\",\n        \"High-quality graphics and animations\",\n        \"Developed by a reputable game developer\"\n    ],\n    \"cons\": [\n        \"High volatility may not appeal to some players\",\n        \"Variable RTP may not be ideal for all players\"\n    ],\n    \"meta_title\": \"Play Divine Showdown Free - Exciting Features & High Jackpot\",\n    \"meta_description\": \"Looking to play Divine Showdown? Read our review of this exciting game featuring special features, a high jackpot, and developed by Play 'N Go. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting special features\",\n    \"High maximum prize\",\n    \"Variable RTP percentage\",\n    \"Developed by reputable company\"\n  ],\n  \"cons\": [\n    \"High volatility\",\n    \"Betting range may not suit all players\"\n  ],\n  \"meta_title\": \"Play Divine Showdown for Free - Exciting Special Features!\",\n  \"meta_description\": \"Read our review of Divine Showdown, a slot game with exciting special features. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 483,
+                    "completion_tokens": 104,
+                    "total_tokens": 587
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_1.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_3.png",
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_4.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_2.png"
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c5607358-6961-482a-b34c-f90c6269eb37_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Divine Showdown (Version 1).webp",
-        "game_reviews/processed_images/Divine Showdown (Version 2).webp",
+        "game_reviews/processed_images/Divine Showdown (Version 4).webp",
         "game_reviews/processed_images/Divine Showdown (Version 3).webp",
-        "game_reviews/processed_images/Divine Showdown (Version 4).webp"
+        "game_reviews/processed_images/Divine Showdown (Version 1).webp",
+        "game_reviews/processed_images/Divine Showdown (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/divine-showdown.json"
+    "filename": "game_reviews/translations/divine-showdown.json",
+    "slug": "divine-showdown",
+    "name": "Divine Showdown",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Divine-Showdown-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Divine Showdown for Free - Exciting Special Features!' ### Meta set: 'Read our review of Divine Showdown, a slot game with exciting special features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

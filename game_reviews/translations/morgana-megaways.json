@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Morgana Free Spins Feature",
-                    "Max Megaways Function",
-                    "High Variance and RTP",
-                    "Superior Graphics and Compatibility with All Devices"
+                    "Morgana Free Spins feature with extra free spins and cash prizes",
+                    "Max Megaways function with up to 117,649 chances to win",
+                    "High variance and RTP for immense winning potential",
+                    "Superior graphics and compatibility with all devices"
                 ],
                 "cons": [
-                    "High Variance Game Better Suited to Experienced Gamblers",
-                    "Bonus Purchasing Required To Increase Probability of Winning"
+                    "Highly volatile game better suited to experienced gamblers",
+                    "Bonus purchasing required to increase probability of winning"
                 ],
-                "meta_title": "Play Morgana Megaways free - read our review",
-                "meta_description": "Our review of Morgana Megaways game. Play for free with the Morgana Free Spins mode. Superior graphics and high variance with Max Megaways function."
+                "meta_title": "Play Morgana Megaways Free - Exciting Features & High RTP",
+                "meta_description": "Read our review of Morgana Megaways featuring free spins and high variance. Play free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Morgana Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMorgana Free Spins Feature\n\nMorgana Megaways features the Morgana Free Spins mode, which allows players to win extra free spins, cash prizes up to 500x the bet, and a minimum number of Megaways per free spin. Symbols can also be collected during this mode to maximise winnings.\n\nMax Megaways Function\n\nThis game boasts the Max Megaways function, with up to 117,649 chances to win, which is typical of the Megaways engine. Reels can have up to seven rows, and players can earn prizes up to a whopping 10,000x in this high variance game.\n\nHigh Variance and RTP\n\nMorgana Megaways has a noticeable level of variance with a theoretical return to player (RTP) of 95.98%. Players will get immense winning potential, but beware, as this game is highly volatile and better suited to experienced gamblers.\n\nSuperior Graphics and Compatibility with All Devices\n\nThe graphics on this mobile game are superior and are compatible with all devices that use iOS, Android and Windows operating systems. The game is user-friendly and allows players to select betting amounts, rotation speed and automatic spin with ease, utilising classic controls and button layouts.\n\nBonus Purchasing and Wild Symbols\n\nThe wild 'W' symbol replaces all symbols except the scatter bonus on the trail, which only appears on reels 2, 3, 4 and 5. Players can purchase bonuses to increase the probability of winning, and landing at least six matching symbols is required to gain winnings. The highest-paying Morgana symbol offers 50x multiplication on a winning bet of six.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Morgana Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMorgana Free Spins Feature\n\nMorgana Megaways features the Morgana Free Spins mode, which allows players to win extra free spins, cash prizes up to 500x the bet, and a minimum number of Megaways per free spin. Symbols can also be collected during this mode to maximise winnings.\n\nMax Megaways Function\n\nThis game boasts the Max Megaways function, with up to 117,649 chances to win, which is typical of the Megaways engine. Reels can have up to seven rows, and players can earn prizes up to a whopping 10,000x in this high variance game.\n\nHigh Variance and RTP\n\nMorgana Megaways has a noticeable level of variance with a theoretical return to player (RTP) of 95.98%. Players will get immense winning potential, but beware, as this game is highly volatile and better suited to experienced gamblers.\n\nSuperior Graphics and Compatibility with All Devices\n\nThe graphics on this mobile game are superior and are compatible with all devices that use iOS, Android and Windows operating systems. The game is user-friendly and allows players to select betting amounts, rotation speed and automatic spin with ease, utilising classic controls and button layouts.\n\nBonus Purchasing and Wild Symbols\n\nThe wild 'W' symbol replaces all symbols except the scatter bonus on the trail, which only appears on reels 2, 3, 4 and 5. Players can purchase bonuses to increase the probability of winning, and landing at least six matching symbols is required to gain winnings. The highest-paying Morgana symbol offers 50x multiplication on a winning bet of six.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UCQMoG64cBxKPfonb4dQrMDNSkdl",
+                "id": "chatcmpl-7WYB9P8KHxOKdrh7gw63IB2gCoIGd",
                 "object": "chat.completion",
-                "created": 1687431954,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992235,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Morgana Free Spins Feature\",\n        \"Max Megaways Function\",\n        \"High Variance and RTP\",\n        \"Superior Graphics and Compatibility with All Devices\"\n    ],\n    \"cons\": [\n        \"High Variance Game Better Suited to Experienced Gamblers\",\n        \"Bonus Purchasing Required To Increase Probability of Winning\"\n    ],\n    \"meta_title\": \"Play Morgana Megaways free - read our review\",\n    \"meta_description\": \"Our review of Morgana Megaways game. Play for free with the Morgana Free Spins mode. Superior graphics and high variance with Max Megaways function.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Morgana Free Spins feature with extra free spins and cash prizes\",\n    \"Max Megaways function with up to 117,649 chances to win\",\n    \"High variance and RTP for immense winning potential\",\n    \"Superior graphics and compatibility with all devices\"\n  ],\n  \"cons\": [\n    \"Highly volatile game better suited to experienced gamblers\",\n    \"Bonus purchasing required to increase probability of winning\"\n  ],\n  \"meta_title\": \"Play Morgana Megaways Free - Exciting Features & High RTP\",\n  \"meta_description\": \"Read our review of Morgana Megaways featuring free spins and high variance. Play free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 511,
-                    "completion_tokens": 135,
-                    "total_tokens": 646
+                    "prompt_tokens": 508,
+                    "completion_tokens": 142,
+                    "total_tokens": 650
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/morgana-megaways.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon_feature_image_for_Morgana_Megaways_that_1c1b1e12-e1e2-4e10-9179-54c9cc7649d4_4.png",
+        "arved__Create_a_cartoon_feature_image_for_Morgana_Megaways_that_1c1b1e12-e1e2-4e10-9179-54c9cc7649d4_1.png",
+        "arved__Create_a_cartoon_feature_image_for_Morgana_Megaways_that_1c1b1e12-e1e2-4e10-9179-54c9cc7649d4_2.png",
+        "arved__Create_a_cartoon_feature_image_for_Morgana_Megaways_that_1c1b1e12-e1e2-4e10-9179-54c9cc7649d4_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Morgana Megaways (Version 1).webp",
+        "game_reviews/processed_images/Morgana Megaways (Version 3).webp",
+        "game_reviews/processed_images/Morgana Megaways (Version 4).webp",
+        "game_reviews/processed_images/Morgana Megaways (Version 2).webp"
+    ],
+    "slug": "morgana-megaways",
+    "name": "Morgana Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Morgana-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Morgana Megaways Free - Exciting Features & High RTP' ### Meta set: 'Read our review of Morgana Megaways featuring free spins and high variance. Play free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

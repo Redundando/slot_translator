@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Simple and intuitive gameplay mechanics",
-                    "Competitive RTP of 96.5%",
-                    "Bonus game with potential for substantial winnings",
-                    "Plenty of similar games available for fans of the Joker theme"
+                    "High volatility for potentially substantial winnings",
+                    "Bonus game with multipliers for increased winnings",
+                    "Similar games available for players who enjoy the Joker theme"
                 ],
                 "cons": [
-                    "Not the highest RTP rate on the market",
-                    "Lack of complexity in the bonus game"
+                    "Not the highest RTP rate in the market",
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play Joker's Jewels Free Slot - Simple yet Competitive Gameplay",
-                "meta_description": "Play Joker's Jewels free slot for a simple yet competitive gameplay experience. Trigger the bonus game for multipliers and potentially substantial winnings."
+                "meta_title": "Play Joker's Jewels Free - Online Slot Review",
+                "meta_description": "Read our review of Joker's Jewels and play this online slot game for free. Experience simple gameplay and potential winnings with high volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker’s Jewels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nJoker's Jewels offers a simple and intuitive gameplay experience. It has five reels and five paylines with a minimum bet amount of €0.01 and a maximum bet amount of €25. The player can bet on each line a number of coins ranging from one to 10, with a value ranging from a minimum of 1 cent to a maximum of €0.50 to bet on all five lines. Its RTP of 96.5% and high volatility make it competitive in terms of winnings.\n\nWinning Symbols\n\nJoker's Jewels features gemstones on its reels, along with thematically specific icons related to the symbol of the Joker. The paytable displays the value of each symbol. The mask of the Joker pays the most with a win equal to €50 for an alignment of five symbols, while the round dark blue gem pays the lowest with a maximum of €1.\n\nBonus Features\n\nJoker's Jewels offers a bonus game triggered by the Scatter symbol, represented by a red crown with the word Bonus. The bonus game provides multipliers that are activated on the highest win, allowing the player to obtain potentially substantial winnings. It's not a particularly complex bonus game, but it's still a great addition to the overall gameplay experience.\n\nSimilar Games\n\nThe Joker is a popular theme in the world of slot machines, and there are several software providers that offer similar games to Joker's Jewels. One such example is Joker Gems, which is very similar in terms of graphics and gameplay. For those looking for a more complex game but still on the same theme, Novomatic's Mega Joker is a high-adrenaline game that is perfect for the most daring players.\n\nReturn to Player Rate\n\nJoker's Jewels has an RTP of 96.5%, which means that the game returns an average of €96.5 to players for every €100 wagered. While this is not the highest RTP rate in the market, it's still a competitive rate that offers players a good chance of winning in the long run.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker’s Jewels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nJoker's Jewels offers a simple and intuitive gameplay experience. It has five reels and five paylines with a minimum bet amount of €0.01 and a maximum bet amount of €25. The player can bet on each line a number of coins ranging from one to 10, with a value ranging from a minimum of 1 cent to a maximum of €0.50 to bet on all five lines. Its RTP of 96.5% and high volatility make it competitive in terms of winnings.\n\nWinning Symbols\n\nJoker's Jewels features gemstones on its reels, along with thematically specific icons related to the symbol of the Joker. The paytable displays the value of each symbol. The mask of the Joker pays the most with a win equal to €50 for an alignment of five symbols, while the round dark blue gem pays the lowest with a maximum of €1.\n\nBonus Features\n\nJoker's Jewels offers a bonus game triggered by the Scatter symbol, represented by a red crown with the word Bonus. The bonus game provides multipliers that are activated on the highest win, allowing the player to obtain potentially substantial winnings. It's not a particularly complex bonus game, but it's still a great addition to the overall gameplay experience.\n\nSimilar Games\n\nThe Joker is a popular theme in the world of slot machines, and there are several software providers that offer similar games to Joker's Jewels. One such example is Joker Gems, which is very similar in terms of graphics and gameplay. For those looking for a more complex game but still on the same theme, Novomatic's Mega Joker is a high-adrenaline game that is perfect for the most daring players.\n\nReturn to Player Rate\n\nJoker's Jewels has an RTP of 96.5%, which means that the game returns an average of €96.5 to players for every €100 wagered. While this is not the highest RTP rate in the market, it's still a competitive rate that offers players a good chance of winning in the long run.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwYji4KLS4pkPI8svgRcuCJKdepL",
+                "id": "chatcmpl-7WVhUL1O2GtcbJ4PStYUjL4ATAraM",
                 "object": "chat.completion",
-                "created": 1687370969,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982708,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and intuitive gameplay mechanics\",\n        \"Competitive RTP of 96.5%\",\n        \"Bonus game with potential for substantial winnings\",\n        \"Plenty of similar games available for fans of the Joker theme\"\n    ],\n    \"cons\": [\n        \"Not the highest RTP rate on the market\",\n        \"Lack of complexity in the bonus game\"\n    ],\n    \"meta_title\": \"Play Joker's Jewels Free Slot - Simple yet Competitive Gameplay\",\n    \"meta_description\": \"Play Joker's Jewels free slot for a simple yet competitive gameplay experience. Trigger the bonus game for multipliers and potentially substantial winnings.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and intuitive gameplay mechanics\",\n    \"High volatility for potentially substantial winnings\",\n    \"Bonus game with multipliers for increased winnings\",\n    \"Similar games available for players who enjoy the Joker theme\"\n  ],\n  \"cons\": [\n    \"Not the highest RTP rate in the market\",\n    \"Limited bonus features\"\n  ],\n  \"meta_title\": \"Play Joker's Jewels Free - Online Slot Review\",\n  \"meta_description\": \"Read our review of Joker's Jewels and play this online slot game for free. Experience simple gameplay and potential winnings with high volatility.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 597,
-                    "completion_tokens": 136,
-                    "total_tokens": 733
+                    "prompt_tokens": 594,
+                    "completion_tokens": 125,
+                    "total_tokens": 719
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jokers-jewels.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Jokers_Jewels_that_showcases__eb1e5813-2bb1-4f73-ba13-c139a0b6462c_3.png",
+        "arved__Create_a_feature_image_for_Jokers_Jewels_that_showcases__eb1e5813-2bb1-4f73-ba13-c139a0b6462c_1.png",
+        "arved__Create_a_feature_image_for_Jokers_Jewels_that_showcases__eb1e5813-2bb1-4f73-ba13-c139a0b6462c_4.png",
+        "arved__Create_a_feature_image_for_Jokers_Jewels_that_showcases__eb1e5813-2bb1-4f73-ba13-c139a0b6462c_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jokers Jewels (Version 4).webp",
+        "game_reviews/processed_images/Jokers Jewels (Version 3).webp",
+        "game_reviews/processed_images/Jokers Jewels (Version 2).webp",
+        "game_reviews/processed_images/Jokers Jewels (Version 1).webp"
+    ],
+    "slug": "jokers-jewels",
+    "name": "Joker’s Jewels",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jokers-Jewels-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker's Jewels Free - Online Slot Review' ### Meta set: 'Read our review of Joker's Jewels and play this online slot game for free. Experience simple gameplay and potential winnings with high volatility.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

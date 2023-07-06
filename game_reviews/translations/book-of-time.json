@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_4.png",
         "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_4.png"
+        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Book_of_Time_that_depi_052ae9cd-1872-4a08-ae87-769d280b06c8_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Time (Version 2).webp",
-        "game_reviews/processed_images/Book Of Time (Version 4).webp",
         "game_reviews/processed_images/Book Of Time (Version 3).webp",
-        "game_reviews/processed_images/Book Of Time (Version 1).webp"
+        "game_reviews/processed_images/Book Of Time (Version 1).webp",
+        "game_reviews/processed_images/Book Of Time (Version 4).webp",
+        "game_reviews/processed_images/Book Of Time (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/book-of-time.json"
+    "filename": "game_reviews/translations/book-of-time.json",
+    "slug": "book-of-time",
+    "name": "Book of Time",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Book-Of-Time-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Time Slot Game Free - Review' ### Meta set: 'Read our review of Book of Time online slot game. Play Book of Time for free and learn about its features, bonuses, and design.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting multipliers with the Mega Rise Chip and Multiplier Bar",
-                    "Four progressive jackpots that can create big payouts",
-                    "High-quality design and engaging gameplay",
-                    "Simple and easy-to-understand gameplay for players of all backgrounds"
+                    "Classic Tutti Frutti theme",
+                    "High payouts and exciting multipliers",
+                    "Captivating design",
+                    "Four progressive jackpots"
                 ],
                 "cons": [
-                    "No ability to select a specific number of paylines",
-                    "Limited variety in terms of bonus features"
+                    "Inability to select a certain number of paylines",
+                    "Lack of variety in symbols"
                 ],
-                "meta_title": "Play Mega Rise Slot for Free - Review & Free Demo",
-                "meta_description": "Play Mega Rise slot for free and read our comprehensive review. Enjoy high payouts, exciting multipliers, and classic Tutti Frutti symbols in this Red Tiger game."
+                "meta_title": "Play Mega Rise Free: Review of the Classic Tutti Frutti Slot Game",
+                "meta_description": "Discover the high payouts and exciting multipliers of Mega Rise. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Rise\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMega Rise slot game features\n\nMega Rise is a 3-reel slot developed by Red Tiger Gaming. It has a classic Tutti Frutti theme, with symbols like stars, bells, cherries, lemons, watermelons, grapes, and 7s icons. The game has 5 active paylines that can form winning combinations, with a final prize of up to 5000 times the total bet thanks to the Rise and Mega Rise Chips multipliers.\n\nMultiplier Bar importance\n\nThe Multiplier Bar is a crucial element in the Mega Rise slot game, as the value of your winnings depends on it. The Mega Rise Chip is a symbol that helps increase the multiplier of a random symbol or locks its multiplier on the bar until it contributes to forming a win. The Golden Mega Rise Chip can have a big impact on the multiplier of an icon as well.\n\nProgressive jackpots\n\nThe Mega Rise slot game offers four progressive jackpots, namely the Mega Jackpot, Super Rapid, Must Go, and Daily jackpots. These jackpots can be won randomly during any spin, and they add to the excitement and potential payouts of the game.\n\nSymbols and paylines\n\nThe Mega Rise slot game has symbols like Lucky Seven, Golden Bell, Silver Star, and vintage Fruit that pay the most. There are 5 active paylines in the game, and players have the possibility to set a bet on the entire playing area, with minimum and maximum bets of €0.10 and €40.00 per round respectively. The highest payout in the game is €200,000.\n\nOverall review\n\nMega Rise is a fun and lively fruit-themed slot game that offers high payouts and exciting multipliers. The game has a captivating design and four progressive jackpots that add more excitement and potential payouts. The only downside is that players cannot select a certain number of paylines. Overall, we recommend Mega Rise to fans of Tutti Frutti genre and players looking for big wins in a straightforward and classic slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Rise\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMega Rise slot game features\n\nMega Rise is a 3-reel slot developed by Red Tiger Gaming. It has a classic Tutti Frutti theme, with symbols like stars, bells, cherries, lemons, watermelons, grapes, and 7s icons. The game has 5 active paylines that can form winning combinations, with a final prize of up to 5000 times the total bet thanks to the Rise and Mega Rise Chips multipliers.\n\nMultiplier Bar importance\n\nThe Multiplier Bar is a crucial element in the Mega Rise slot game, as the value of your winnings depends on it. The Mega Rise Chip is a symbol that helps increase the multiplier of a random symbol or locks its multiplier on the bar until it contributes to forming a win. The Golden Mega Rise Chip can have a big impact on the multiplier of an icon as well.\n\nProgressive jackpots\n\nThe Mega Rise slot game offers four progressive jackpots, namely the Mega Jackpot, Super Rapid, Must Go, and Daily jackpots. These jackpots can be won randomly during any spin, and they add to the excitement and potential payouts of the game.\n\nSymbols and paylines\n\nThe Mega Rise slot game has symbols like Lucky Seven, Golden Bell, Silver Star, and vintage Fruit that pay the most. There are 5 active paylines in the game, and players have the possibility to set a bet on the entire playing area, with minimum and maximum bets of €0.10 and €40.00 per round respectively. The highest payout in the game is €200,000.\n\nOverall review\n\nMega Rise is a fun and lively fruit-themed slot game that offers high payouts and exciting multipliers. The game has a captivating design and four progressive jackpots that add more excitement and potential payouts. The only downside is that players cannot select a certain number of paylines. Overall, we recommend Mega Rise to fans of Tutti Frutti genre and players looking for big wins in a straightforward and classic slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7zrc9Sg86p5MiVtHPeA8pSQwQSx",
+                "id": "chatcmpl-7WXXcqOUJReVG0eO5gnWBIr3Hpqg4",
                 "object": "chat.completion",
-                "created": 1687414935,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989784,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting multipliers with the Mega Rise Chip and Multiplier Bar\",\n        \"Four progressive jackpots that can create big payouts\",\n        \"High-quality design and engaging gameplay\",\n        \"Simple and easy-to-understand gameplay for players of all backgrounds\"\n    ],\n    \"cons\": [\n        \"No ability to select a specific number of paylines\",\n        \"Limited variety in terms of bonus features\"\n    ],\n    \"meta_title\": \"Play Mega Rise Slot for Free - Review & Free Demo\",\n    \"meta_description\": \"Play Mega Rise slot for free and read our comprehensive review. Enjoy high payouts, exciting multipliers, and classic Tutti Frutti symbols in this Red Tiger game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic Tutti Frutti theme\",\n    \"High payouts and exciting multipliers\",\n    \"Captivating design\",\n    \"Four progressive jackpots\"\n  ],\n  \"cons\": [\n    \"Inability to select a certain number of paylines\",\n    \"Lack of variety in symbols\"\n  ],\n  \"meta_title\": \"Play Mega Rise Free: Review of the Classic Tutti Frutti Slot Game\",\n  \"meta_description\": \"Discover the high payouts and exciting multipliers of Mega Rise. Play for free and win big!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 152,
-                    "total_tokens": 744
+                    "prompt_tokens": 589,
+                    "completion_tokens": 120,
+                    "total_tokens": 709
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-rise.json",
+    "raw_feature_images": [
+        "arved__Create_a_vibrant_cartoon_style_feature_image_for_Mega_Ri_74f1c94d-0578-4958-a3aa-cdc86b3fff13_4.png",
+        "arved__Create_a_vibrant_cartoon_style_feature_image_for_Mega_Ri_74f1c94d-0578-4958-a3aa-cdc86b3fff13_1.png",
+        "arved__Create_a_vibrant_cartoon_style_feature_image_for_Mega_Ri_74f1c94d-0578-4958-a3aa-cdc86b3fff13_2.png",
+        "arved__Create_a_vibrant_cartoon_style_feature_image_for_Mega_Ri_74f1c94d-0578-4958-a3aa-cdc86b3fff13_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Rise (Version 3).webp",
+        "game_reviews/processed_images/Mega Rise (Version 4).webp",
+        "game_reviews/processed_images/Mega Rise (Version 1).webp",
+        "game_reviews/processed_images/Mega Rise (Version 2).webp"
+    ],
+    "slug": "mega-rise",
+    "name": "Mega Rise",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Rise-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Rise Free: Review of the Classic Tutti Frutti Slot Game' ### Meta set: 'Discover the high payouts and exciting multipliers of Mega Rise. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

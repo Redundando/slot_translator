@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Sophisticated graphics and small icons.",
-                    "Bonus feature with free spins and sticky wilds.",
-                    "Regular symbols that include the Eye of Horus and Cleopatra.",
-                    "Mobile compatibility for an exciting gaming experience."
+                    "Sophisticated graphics with high-quality icons",
+                    "Exciting bonus features including free spins and sticky wilds",
+                    "Wide range of regular symbols for greater variety",
+                    "Available on desktop and mobile devices for convenient gameplay"
                 ],
                 "cons": [
-                    "Maximum win of 17,000x may not be appealing to high rollers.",
-                    "Only 10 paylines may limit betting options for some players."
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Lara Jones is Cleopatra Free Slot | Review",
-                "meta_description": "Read our review of Lara Jones is Cleopatra, a thrilling adventure-themed slot game with free bonus spins and sticky wilds. Play for free on desktop or mobile."
+                "meta_title": "Play Lara Jones is Cleopatra for Free",
+                "meta_description": "Discover the amazing adventure-themed slot game with free spins and high-quality graphics. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lara Jones is Cleopatra\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nThe graphics of Lara Jones is Cleopatra are sophisticated, and the game includes high-quality, small icons, sand-block reels, a temple used as a matrix, and a background that features the desert, pyramids, and animated birds.\n\nBonus Features\n\nThis game offers ten free spins when a player gets three scatter symbols anywhere on the first, third, and fifth reels. During free spins, the wild symbol transforms into a sticky wild that remains in place until the end of this special mode.\n\nRegular Symbols\n\nIn this machine, nine regular symbols include a snake, five playing card symbols, the Eye of Horus, Cleopatra, and a scarab beetle. Lara Jones herself plays the role of a wild symbol. She can replace regular symbols as long as she can help a player complete a winning line.\n\nMobile Compatibility\n\nThis HTML5 video slot is designed to be played on desktop and any mobile device, making games even more exciting. This slot game is optimized for mobile devices and is available in a wide range of currencies and languages on online casinos certified by regulatory authorities in all major jurisdictions, including Italy.\n\nGameplay\n\nLara Jones is Cleopatra has 5 reels and 10 paylines with a maximum win of around 17,000x. The game has an RTP of 96.46%. Expect phenomenal wins with single-line wins of up to 3,000 times the initial bet and the Cleopatra rotation bonus. Fans of adventure-themed slot games will love this game!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lara Jones is Cleopatra\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nThe graphics of Lara Jones is Cleopatra are sophisticated, and the game includes high-quality, small icons, sand-block reels, a temple used as a matrix, and a background that features the desert, pyramids, and animated birds.\n\nBonus Features\n\nThis game offers ten free spins when a player gets three scatter symbols anywhere on the first, third, and fifth reels. During free spins, the wild symbol transforms into a sticky wild that remains in place until the end of this special mode.\n\nRegular Symbols\n\nIn this machine, nine regular symbols include a snake, five playing card symbols, the Eye of Horus, Cleopatra, and a scarab beetle. Lara Jones herself plays the role of a wild symbol. She can replace regular symbols as long as she can help a player complete a winning line.\n\nMobile Compatibility\n\nThis HTML5 video slot is designed to be played on desktop and any mobile device, making games even more exciting. This slot game is optimized for mobile devices and is available in a wide range of currencies and languages on online casinos certified by regulatory authorities in all major jurisdictions, including Italy.\n\nGameplay\n\nLara Jones is Cleopatra has 5 reels and 10 paylines with a maximum win of around 17,000x. The game has an RTP of 96.46%. Expect phenomenal wins with single-line wins of up to 3,000 times the initial bet and the Cleopatra rotation bonus. Fans of adventure-themed slot games will love this game!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U05Cc6Wzdj4lYqJGDC5rzTnNBPXh",
+                "id": "chatcmpl-7WWDrqXBXYAz872sGhj9T5hE64bwJ",
                 "object": "chat.completion",
-                "created": 1687384514,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984715,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Sophisticated graphics and small icons.\",\n        \"Bonus feature with free spins and sticky wilds.\",\n        \"Regular symbols that include the Eye of Horus and Cleopatra.\",\n        \"Mobile compatibility for an exciting gaming experience.\"\n    ],\n    \"cons\": [\n        \"Maximum win of 17,000x may not be appealing to high rollers.\",\n        \"Only 10 paylines may limit betting options for some players.\"\n    ],\n    \"meta_title\": \"Play Lara Jones is Cleopatra Free Slot | Review\",\n    \"meta_description\": \"Read our review of Lara Jones is Cleopatra, a thrilling adventure-themed slot game with free bonus spins and sticky wilds. Play for free on desktop or mobile.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Sophisticated graphics with high-quality icons\",\n    \"Exciting bonus features including free spins and sticky wilds\",\n    \"Wide range of regular symbols for greater variety\",\n    \"Available on desktop and mobile devices for convenient gameplay\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Lara Jones is Cleopatra for Free\",\n  \"meta_description\": \"Discover the amazing adventure-themed slot game with free spins and high-quality graphics. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 487,
-                    "completion_tokens": 157,
-                    "total_tokens": 644
+                    "prompt_tokens": 484,
+                    "completion_tokens": 122,
+                    "total_tokens": 606
                 }
             }
         },
@@ -815,5 +815,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lara-jones-is-cleopatra.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_the_game_Lara_Jones_is_eab027da-92d9-4a5f-84f7-f0e717da67d8_2.png",
+        "arved__Please_create_a_feature_image_for_the_game_Lara_Jones_is_eab027da-92d9-4a5f-84f7-f0e717da67d8_3.png",
+        "arved__Please_create_a_feature_image_for_the_game_Lara_Jones_is_eab027da-92d9-4a5f-84f7-f0e717da67d8_4.png",
+        "arved__Please_create_a_feature_image_for_the_game_Lara_Jones_is_eab027da-92d9-4a5f-84f7-f0e717da67d8_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lara Jones Is Cleopatra (Version 3).webp",
+        "game_reviews/processed_images/Lara Jones Is Cleopatra (Version 1).webp",
+        "game_reviews/processed_images/Lara Jones Is Cleopatra (Version 4).webp",
+        "game_reviews/processed_images/Lara Jones Is Cleopatra (Version 2).webp"
+    ],
+    "slug": "lara-jones-is-cleopatra",
+    "name": "Lara Jones is Cleopatra",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lara-Jones-Is-Cleopatra-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lara Jones is Cleopatra for Free' ### Meta set: 'Discover the amazing adventure-themed slot game with free spins and high-quality graphics. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Autoplay button for convenient gameplay",
-                    "Low betting range accommodates players with smaller budgets",
-                    "Quick spin mode adds to the excitement",
-                    "Mobile compatibility for easy on-the-go play"
+                    "Wide betting range for players with different budgets",
+                    "Autoplay feature allows for convenient gameplay",
+                    "Mobile compatibility for gaming on the go",
+                    "Frequent, small wins with medium volatility"
                 ],
                 "cons": [
                     "No free spins or jackpot features",
-                    "Limited variety in symbols"
+                    "Limited variety of symbols"
                 ],
-                "meta_title": "Play Fruits and Jokers: 100 Lines for Free | Pros and Cons",
-                "meta_description": "Read our review of Fruits and Jokers: 100 Lines and discover the game's pros and cons. Play for free on mobile or with real money. No free spins or jackpot feature."
+                "meta_title": "Play Fruits & Jokers: 100 Lines for Free",
+                "meta_description": "Read our review of Fruits & Jokers: 100 Lines and play this online slot game for free. Enjoy frequent wins with medium volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruits and Jokers: 100 lines\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Main Features\n\nFruits & Jokers: 100 lines is a 5 x 4 reel set online slot game with 20 fixed pay lines, paid in succession from left to right. The game features an autoplay button that can be adjusted up to 999 spins. The minimum bet is €0.20, and the maximum bet is €100, making it a perfect game for players with low budgets or those new to the game. The quick spin mode increases the speed, and the game has an RTP of 96.46% with medium volatility, allowing for frequent, small wins.\n\nSymbols\n\nThe symbols in Fruits & Jokers: 100 lines are mostly fruits and jokers, with cherries, lemons, and oranges paying the minimum and grapes, watermelons, and lucky 7s paying the most. The Wild symbol is represented by Joker, and it rewards x15 the bet when 5 of them land on a pay line. Golden Star offers a bet of 400x when five of them appear anywhere on the screen.\n\nBetting Options\n\nFruits & Jokers: 100 lines offers a betting range from €0.20 to €100, making it ideal for players with low stakes or those new to the game.\n\nBonuses\n\nThere are no free spins or jackpot features in Fruits & Jokers: 100 lines, as Playson designed the game to be true to vintage fruit slot games. However, the game has an RTP of 96.46% with medium volatility, allowing for frequent, small wins.\n\nMobile Compatibility\n\nFruits & Jokers: 100 lines can be played on any mobile device, allowing for convenient gameplay on the go. Players can enjoy the game with real money, taking advantage of welcome and deposit bonuses offered by various online providers. Super Burning Wins, another Playson game, is also available in our gaming catalog and is a colorful and entertaining vintage game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruits and Jokers: 100 lines\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Main Features\n\nFruits & Jokers: 100 lines is a 5 x 4 reel set online slot game with 20 fixed pay lines, paid in succession from left to right. The game features an autoplay button that can be adjusted up to 999 spins. The minimum bet is €0.20, and the maximum bet is €100, making it a perfect game for players with low budgets or those new to the game. The quick spin mode increases the speed, and the game has an RTP of 96.46% with medium volatility, allowing for frequent, small wins.\n\nSymbols\n\nThe symbols in Fruits & Jokers: 100 lines are mostly fruits and jokers, with cherries, lemons, and oranges paying the minimum and grapes, watermelons, and lucky 7s paying the most. The Wild symbol is represented by Joker, and it rewards x15 the bet when 5 of them land on a pay line. Golden Star offers a bet of 400x when five of them appear anywhere on the screen.\n\nBetting Options\n\nFruits & Jokers: 100 lines offers a betting range from €0.20 to €100, making it ideal for players with low stakes or those new to the game.\n\nBonuses\n\nThere are no free spins or jackpot features in Fruits & Jokers: 100 lines, as Playson designed the game to be true to vintage fruit slot games. However, the game has an RTP of 96.46% with medium volatility, allowing for frequent, small wins.\n\nMobile Compatibility\n\nFruits & Jokers: 100 lines can be played on any mobile device, allowing for convenient gameplay on the go. Players can enjoy the game with real money, taking advantage of welcome and deposit bonuses offered by various online providers. Super Burning Wins, another Playson game, is also available in our gaming catalog and is a colorful and entertaining vintage game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TLICA5VGEMoSjjh8vkwELWzr33EV",
+                "id": "chatcmpl-7WTR02OYjjw0NAPXAO8zniiUD4FWA",
                 "object": "chat.completion",
-                "created": 1687227716,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 579,
-                    "completion_tokens": 128,
-                    "total_tokens": 707
-                },
+                "created": 1687973998,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\"Autoplay button for convenient gameplay\", \"Low betting range accommodates players with smaller budgets\", \"Quick spin mode adds to the excitement\", \"Mobile compatibility for easy on-the-go play\"],\n\"cons\": [\"No free spins or jackpot features\", \"Limited variety in symbols\"],\n\"meta_title\": \"Play Fruits and Jokers: 100 Lines for Free | Pros and Cons\",\n\"meta_description\": \"Read our review of Fruits and Jokers: 100 Lines and discover the game's pros and cons. Play for free on mobile or with real money. No free spins or jackpot feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Wide betting range for players with different budgets\",\n    \"Autoplay feature allows for convenient gameplay\",\n    \"Mobile compatibility for gaming on the go\",\n    \"Frequent, small wins with medium volatility\"\n  ],\n  \"cons\": [\n    \"No free spins or jackpot features\",\n    \"Limited variety of symbols\"\n  ],\n  \"meta_title\": \"Play Fruits & Jokers: 100 Lines for Free\",\n  \"meta_description\": \"Read our review of Fruits & Jokers: 100 Lines and play this online slot game for free. Enjoy frequent wins with medium volatility.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 576,
+                    "completion_tokens": 129,
+                    "total_tokens": 705
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruits-and-jokers-100-lines.json"
+    "filename": "game_reviews/translations/fruits-and-jokers-100-lines.json",
+    "raw_feature_images": [
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_b00bd32e-497e-4f27-9839-f7279082da0b_1.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_eb27c9e8-a980-47a2-b9e8-592f8e15bc92_4.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_eb27c9e8-a980-47a2-b9e8-592f8e15bc92_3.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_b00bd32e-497e-4f27-9839-f7279082da0b_2.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_eb27c9e8-a980-47a2-b9e8-592f8e15bc92_1.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_b00bd32e-497e-4f27-9839-f7279082da0b_3.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_eb27c9e8-a980-47a2-b9e8-592f8e15bc92_2.png",
+        "arved__For_the_feature_image_consider_a_cartoon-style_Maya_warr_b00bd32e-497e-4f27-9839-f7279082da0b_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 5).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 7).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 3).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 2).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 8).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 1).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 6).webp",
+        "game_reviews/processed_images/Fruits And Jokers 100 Lines (Version 4).webp"
+    ],
+    "slug": "fruits-and-jokers-100-lines",
+    "name": "Fruits and Jokers: 100 lines",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruits-And-Jokers-100-Lines-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruits & Jokers: 100 Lines for Free' ### Meta set: 'Read our review of Fruits & Jokers: 100 Lines and play this online slot game for free. Enjoy frequent wins with medium volatility.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

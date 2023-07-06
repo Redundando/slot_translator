@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Power Shot wild symbol with access to free spins event",
-                    "Collecting Cannon Shot symbols can lead to free spin phase and prize of up to 1000x bet",
-                    "Free spins event can be extended with additional Cannon Shot symbols",
-                    "High volatility offers the potential for bigger rewards"
+                    "Wild symbol can replace any other symbol",
+                    "Free spins event with expanding wilds",
+                    "Chance to win up to 1000 times your bet",
+                    "Designed for players who enjoy high volatility"
                 ],
                 "cons": [
-                    "Payouts may be less frequent due to high volatility",
-                    "Goal counter resets at the end of each Hat Trick Hero phase"
+                    "Payouts may be less frequent",
+                    "Goal counter resets at the end of each phase"
                 ],
-                "meta_title": "Play Hat Trick Hero free - Review of Betsoft Slot Game",
-                "meta_description": "Read our review of Hat Trick Hero, a high volatility slot game by Betsoft with free spin event and potential for big rewards. Play for free now."
+                "meta_title": "Play Hat Trick Hero Free: Slot Game Review",
+                "meta_description": "Learn about the features of Hat Trick Hero slot game and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hat Trick Hero\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDetails of Hat Trick Hero slot game\n\nHat Trick Hero is a slot game with 5 reels and 25 paylines. It is produced by Betsoft and features a minimum bet of 20 cents and an RTP of 96.23%. The game has high volatility, meaning that it pays out less often but with higher rewards.\n\nPower Shot Wild Symbol\n\nThe Power Shot symbol, also known as the Cannon Shot symbol, is the game's wild symbol and can replace any other symbol in the game. It also allows the player to access the free spins event. During free spins, each Cannon Shot symbol on the reels will move one reel to the left until it reaches the goal post.\n\nImportance of collecting Cannon Shot symbols\n\nCollecting Cannon Shot symbols is important in Hat Trick Hero, as every 3 collected will lead to a free spin phase. The goal counter will also add a point for every goal scored, and once the full 15-goal counter is achieved, a prize of up to 1000 times your bet will be awarded. But, keep in mind that the counter resets at the end of each Hat Trick Hero phase.\n\nFree Spins Event\n\nDuring free spins, every Cannon Shot symbol moves one reel to the left until it reaches the goal post. Additional Cannon Shot symbols that appear on the reels will extend the free spin phase, with a possible payout of up to 1000 times your bet if the entire Goal Counter is filled.\n\nHigh volatility\n\nWith high volatility, Hat Trick Hero is designed for players who are willing to bet big in order to potentially receive higher rewards. While the payouts may be less frequent, they can be more substantial than in slot games with lower volatility.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hat Trick Hero\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDetails of Hat Trick Hero slot game\n\nHat Trick Hero is a slot game with 5 reels and 25 paylines. It is produced by Betsoft and features a minimum bet of 20 cents and an RTP of 96.23%. The game has high volatility, meaning that it pays out less often but with higher rewards.\n\nPower Shot Wild Symbol\n\nThe Power Shot symbol, also known as the Cannon Shot symbol, is the game's wild symbol and can replace any other symbol in the game. It also allows the player to access the free spins event. During free spins, each Cannon Shot symbol on the reels will move one reel to the left until it reaches the goal post.\n\nImportance of collecting Cannon Shot symbols\n\nCollecting Cannon Shot symbols is important in Hat Trick Hero, as every 3 collected will lead to a free spin phase. The goal counter will also add a point for every goal scored, and once the full 15-goal counter is achieved, a prize of up to 1000 times your bet will be awarded. But, keep in mind that the counter resets at the end of each Hat Trick Hero phase.\n\nFree Spins Event\n\nDuring free spins, every Cannon Shot symbol moves one reel to the left until it reaches the goal post. Additional Cannon Shot symbols that appear on the reels will extend the free spin phase, with a possible payout of up to 1000 times your bet if the entire Goal Counter is filled.\n\nHigh volatility\n\nWith high volatility, Hat Trick Hero is designed for players who are willing to bet big in order to potentially receive higher rewards. While the payouts may be less frequent, they can be more substantial than in slot games with lower volatility.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tp3cnCQrGO6l3soKvSJ4RXbQyCkk",
+                "id": "chatcmpl-7WUc9IoMn5mfAqUjiwSlGa8WDKXRs",
                 "object": "chat.completion",
-                "created": 1687342132,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978533,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Power Shot wild symbol with access to free spins event\",\n        \"Collecting Cannon Shot symbols can lead to free spin phase and prize of up to 1000x bet\",\n        \"Free spins event can be extended with additional Cannon Shot symbols\",\n        \"High volatility offers the potential for bigger rewards\"\n    ],\n    \"cons\": [\n        \"Payouts may be less frequent due to high volatility\",\n        \"Goal counter resets at the end of each Hat Trick Hero phase\"\n    ],\n    \"meta_title\": \"Play Hat Trick Hero free - Review of Betsoft Slot Game\",\n    \"meta_description\": \"Read our review of Hat Trick Hero, a high volatility slot game by Betsoft with free spin event and potential for big rewards. Play for free now.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Wild symbol can replace any other symbol\",\n      \"Free spins event with expanding wilds\",\n      \"Chance to win up to 1000 times your bet\",\n      \"Designed for players who enjoy high volatility\"\n   ],\n   \"cons\": [\n      \"Payouts may be less frequent\",\n      \"Goal counter resets at the end of each phase\"\n   ],\n   \"meta_title\": \"Play Hat Trick Hero Free: Slot Game Review\",\n   \"meta_description\": \"Learn about the features of Hat Trick Hero slot game and play for free.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 520,
-                    "completion_tokens": 165,
-                    "total_tokens": 685
+                    "prompt_tokens": 517,
+                    "completion_tokens": 121,
+                    "total_tokens": 638
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hat-trick-hero.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_and_dynamic_feature_image_for_Hat_Trick_Her_ed378814-aa46-4521-b9a8-b8f319431193_1.png",
+        "arved__Create_a_fun_and_dynamic_feature_image_for_Hat_Trick_Her_ed378814-aa46-4521-b9a8-b8f319431193_4.png",
+        "arved__Create_a_fun_and_dynamic_feature_image_for_Hat_Trick_Her_ed378814-aa46-4521-b9a8-b8f319431193_3.png",
+        "arved__Create_a_fun_and_dynamic_feature_image_for_Hat_Trick_Her_ed378814-aa46-4521-b9a8-b8f319431193_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hat Trick Hero (Version 3).webp",
+        "game_reviews/processed_images/Hat Trick Hero (Version 2).webp",
+        "game_reviews/processed_images/Hat Trick Hero (Version 4).webp",
+        "game_reviews/processed_images/Hat Trick Hero (Version 1).webp"
+    ],
+    "slug": "hat-trick-hero",
+    "name": "Hat Trick Hero",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hat-Trick-Hero-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hat Trick Hero Free: Slot Game Review' ### Meta set: 'Learn about the features of Hat Trick Hero slot game and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

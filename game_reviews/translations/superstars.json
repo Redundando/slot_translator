@@ -690,40 +690,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting bonus game and special symbols",
-                    "Fun and creative features",
-                    "High maximum win potential",
-                    "Diverse and original game design"
+                    "Variety of exciting features",
+                    "Chance to win up to 4,586 times bet",
+                    "Unique combination of characters and icons",
+                    "Diverse and original design"
                 ],
                 "cons": [
-                    "Medium-high volatility may not appeal to all players",
-                    "Buy Feature can be pricey for some players"
+                    "Less frequent prizes",
+                    "More risky gameplay"
                 ],
-                "meta_title": "Play Superstars Free: Review and Features 2021",
-                "meta_description": "Discover the game Superstars and its exciting features, including a board game, wheel game, and buy feature. Play for free and win big in 2021."
+                "meta_title": "Play Superstars Free | Exciting Features and Unique Design",
+                "meta_description": "Read our review of Superstars, a slot game with exciting features and a unique design. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Superstars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview and Basic Information\n\nSuperstars is a 5-reel, 45-fixed-payline slot game that features a mix of characters and icons from other popular NetEnt slots. The minimum bet per spin is 0.1€, while the highest is 100€. The RTP is 96.08% and the volatility is medium-high.\n\nMinimum Bet and RTP\n\nThe minimum bet you can use per spin in Superstars is 0.1€, while the highest is 100€. The RTP is 96.08% and the volatility is medium-high. This means that the game offers less frequent prizes, but also higher rewards, for those who want a more exciting and risky gameplay.\n\nBonus Game and Special Symbols\n\nSuperstars features a bonus game that can be activated by either Scatter symbols or Dice. The Scatter symbols that activate the Bonus Game transform into random prizes. Meanwhile, the Dice offer multipliers and free rolls that move a token on the board. The main special symbols in the game are the Scatter and the Dice, which can also replace Scatter symbols.\n\nFun and Creative Features\n\nSuperstars offers a variety of exciting features, including a Board Game reminiscent of Monopoly, a Wheel Game, and a Replay Feature that allows the player to replay certain features even if they were not activated. There is also a Final Game feature where prizes are given out on all squares, and a Buy Feature that allows the player to activate the Bonus Game for 150 times their bet.\n\nMaximum Win Potential\n\nIn Superstars, players have the chance to win up to 4,586 times their current bet. With the game's variety of features, including multipliers, special symbols, and the Buy Feature, players have many opportunities to increase their chances of winning big.\n\nGame Theme and Design\n\nThe theme of Superstars is a party featuring characters from other popular NetEnt slots, including Gonzo and Finn. The game also features cute symbols, such as Lady Pig and Brute, as well as a symbol of an eight-sided star. Superstars design shows incredible diversity and originality, offering unique variants of popular special symbols and a rare combination of themes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Superstars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview and Basic Information\n\nSuperstars is a 5-reel, 45-fixed-payline slot game that features a mix of characters and icons from other popular NetEnt slots. The minimum bet per spin is 0.1€, while the highest is 100€. The RTP is 96.08% and the volatility is medium-high.\n\nMinimum Bet and RTP\n\nThe minimum bet you can use per spin in Superstars is 0.1€, while the highest is 100€. The RTP is 96.08% and the volatility is medium-high. This means that the game offers less frequent prizes, but also higher rewards, for those who want a more exciting and risky gameplay.\n\nBonus Game and Special Symbols\n\nSuperstars features a bonus game that can be activated by either Scatter symbols or Dice. The Scatter symbols that activate the Bonus Game transform into random prizes. Meanwhile, the Dice offer multipliers and free rolls that move a token on the board. The main special symbols in the game are the Scatter and the Dice, which can also replace Scatter symbols.\n\nFun and Creative Features\n\nSuperstars offers a variety of exciting features, including a Board Game reminiscent of Monopoly, a Wheel Game, and a Replay Feature that allows the player to replay certain features even if they were not activated. There is also a Final Game feature where prizes are given out on all squares, and a Buy Feature that allows the player to activate the Bonus Game for 150 times their bet.\n\nMaximum Win Potential\n\nIn Superstars, players have the chance to win up to 4,586 times their current bet. With the game's variety of features, including multipliers, special symbols, and the Buy Feature, players have many opportunities to increase their chances of winning big.\n\nGame Theme and Design\n\nThe theme of Superstars is a party featuring characters from other popular NetEnt slots, including Gonzo and Finn. The game also features cute symbols, such as Lady Pig and Brute, as well as a symbol of an eight-sided star. Superstars design shows incredible diversity and originality, offering unique variants of popular special symbols and a rare combination of themes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QHQfcKiTqJlWKIpQsY9Vg90EUGWy",
+                "id": "chatcmpl-7WdKRFuwstNV1v1eDAaw98y4drzZt",
                 "object": "chat.completion",
-                "created": 1686497881,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 613,
-                    "completion_tokens": 131,
-                    "total_tokens": 744
-                },
+                "created": 1688012031,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting bonus game and special symbols\",\n        \"Fun and creative features\",\n        \"High maximum win potential\",\n        \"Diverse and original game design\"\n    ],\n    \"cons\": [\n        \"Medium-high volatility may not appeal to all players\",\n        \"Buy Feature can be pricey for some players\"\n    ],\n    \"meta_title\": \"Play Superstars Free: Review and Features 2021\",\n    \"meta_description\": \"Discover the game Superstars and its exciting features, including a board game, wheel game, and buy feature. Play for free and win big in 2021.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Variety of exciting features\",\n      \"Chance to win up to 4,586 times bet\",\n      \"Unique combination of characters and icons\",\n      \"Diverse and original design\"\n   ],\n   \"cons\": [\n      \"Less frequent prizes\",\n      \"More risky gameplay\"\n   ],\n   \"meta_title\": \"Play Superstars Free | Exciting Features and Unique Design\",\n   \"meta_description\": \"Read our review of Superstars, a slot game with exciting features and a unique design. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 610,
+                    "completion_tokens": 115,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -923,6 +923,29 @@
         }
     ],
     "filename": "game_reviews/translations/superstars.json",
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_1bed53ba-747b-4b06-8c4b-1713aafff347_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e90f660-08eb-42bb-954c-5b90ba1c5ee9_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_1bed53ba-747b-4b06-8c4b-1713aafff347_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_1bed53ba-747b-4b06-8c4b-1713aafff347_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_1bed53ba-747b-4b06-8c4b-1713aafff347_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e90f660-08eb-42bb-954c-5b90ba1c5ee9_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e90f660-08eb-42bb-954c-5b90ba1c5ee9_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e90f660-08eb-42bb-954c-5b90ba1c5ee9_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Superstars (Version 8).webp",
+        "game_reviews/processed_images/Superstars (Version 6).webp",
+        "game_reviews/processed_images/Superstars (Version 7).webp",
+        "game_reviews/processed_images/Superstars (Version 5).webp"
+    ],
+    "slug": "superstars",
+    "name": "Superstars",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/03/superstars_logo-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Superstars Free | Exciting Features and Unique Design' ### Meta set: 'Read our review of Superstars, a slot game with exciting features and a unique design. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

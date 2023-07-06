@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Immersive jungle theme",
+                    "Variety of symbols and features",
                     "Free spins round with multipliers",
-                    "Generous with free spins",
-                    "Several ways to win through combinations, multipliers, and jackpots"
+                    "Potential for big winnings"
                 ],
                 "cons": [
-                    "Slightly below average RTP",
-                    "Limited availability of gorilla Wild symbols"
+                    "Slightly below-average RTP",
+                    "Limited availability of Wild symbol"
                 ],
-                "meta_title": "Play Big Thunder King Strike for Free - Ainsworth Slot Game",
-                "meta_description": "Explore the immersive jungle theme of Big Thunder King Strike by Ainsworth with free spins, multipliers, and jackpots. Play for free and win big!"
+                "meta_title": "Play Big Thunder King Strike Free: Review & Gameplay",
+                "meta_description": "Play Big Thunder King Strike for free and enjoy immersive jungle-themed gameplay with potential for big winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Big Thunder King Strike\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nBig Thunder King Strike by Ainsworth is a slot game that attempts to immerse players in a jungle environment. The symbols of the game include traditional playing cards, a python wrapped around a branch, drums, waterfalls, a golden mask, and a set of tribal weapons. The Wild symbol is the gorilla, and the scatter symbol is the slot machine's logo. The game grid is surrounded by vines that add to the jungle theme. The Wild symbol can only appear on the third, fourth, and fifth reels, while the scatter symbol can trigger the free spins round.\n\nSymbols and theme\n\nThe symbols in Big Thunder King Strike are inspired by the jungle theme. The playing cards are the simplest symbols, while the special ones include a python, drums, waterfalls, a golden mask, and a set of tribal weapons. The gorilla is the Wild symbol while the slot machine's logo is the scatter symbol. The background is set in a jungle, featuring enormous leaves, hidden monkeys, and vines that surround the game grid.\n\nBonus rounds and free spins\n\nBig Thunder King Strike offers its players a free spins round, which is triggered by getting at least three scatter symbols. Players start with 15 free spins, and a sixth reel appears. In this round, the reel will only have one symbol on each reel, all the regular symbols disappear, and Wilds can appear on the first and second reels. The sixth reel hosts multipliers of 3x or 5x, and other scatter symbols. Players are awarded with additional eight free spins each time they land a combination of more than three elements.\n\nSimilar slot games\n\nThere are other jungle-themed slot games similar to Big Thunder King Strike, such as Savage Jungle, Jungle Spirit: Call Of The Wild, and Gorilla Kingdom. Players can choose to try out these games if they enjoyed the jungle environment and the gorilla symbols featured in Big Thunder King Strike.\n\nJackpots and potential winnings\n\nBig Thunder King Strike has an RTP that is slightly below average. However, it is a game that is generous with free spins and offers multiple ways to win through combinations, multipliers, and jackpots. Players will enjoy this game even with a small investment and still have the potential to win big with the numerous free spins offered.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Big Thunder King Strike\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nBig Thunder King Strike by Ainsworth is a slot game that attempts to immerse players in a jungle environment. The symbols of the game include traditional playing cards, a python wrapped around a branch, drums, waterfalls, a golden mask, and a set of tribal weapons. The Wild symbol is the gorilla, and the scatter symbol is the slot machine's logo. The game grid is surrounded by vines that add to the jungle theme. The Wild symbol can only appear on the third, fourth, and fifth reels, while the scatter symbol can trigger the free spins round.\n\nSymbols and theme\n\nThe symbols in Big Thunder King Strike are inspired by the jungle theme. The playing cards are the simplest symbols, while the special ones include a python, drums, waterfalls, a golden mask, and a set of tribal weapons. The gorilla is the Wild symbol while the slot machine's logo is the scatter symbol. The background is set in a jungle, featuring enormous leaves, hidden monkeys, and vines that surround the game grid.\n\nBonus rounds and free spins\n\nBig Thunder King Strike offers its players a free spins round, which is triggered by getting at least three scatter symbols. Players start with 15 free spins, and a sixth reel appears. In this round, the reel will only have one symbol on each reel, all the regular symbols disappear, and Wilds can appear on the first and second reels. The sixth reel hosts multipliers of 3x or 5x, and other scatter symbols. Players are awarded with additional eight free spins each time they land a combination of more than three elements.\n\nSimilar slot games\n\nThere are other jungle-themed slot games similar to Big Thunder King Strike, such as Savage Jungle, Jungle Spirit: Call Of The Wild, and Gorilla Kingdom. Players can choose to try out these games if they enjoyed the jungle environment and the gorilla symbols featured in Big Thunder King Strike.\n\nJackpots and potential winnings\n\nBig Thunder King Strike has an RTP that is slightly below average. However, it is a game that is generous with free spins and offers multiple ways to win through combinations, multipliers, and jackpots. Players will enjoy this game even with a small investment and still have the potential to win big with the numerous free spins offered.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SfADYFABC0mDvftoufSHcR3iU0VE",
+                "id": "chatcmpl-7WOFPMFvSuvOpjhKHrYWzQloKVgAd",
                 "object": "chat.completion",
-                "created": 1687065773,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 137,
-                    "total_tokens": 782
-                },
+                "created": 1687954059,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Immersive jungle theme\",\n        \"Free spins round with multipliers\",\n        \"Generous with free spins\",\n        \"Several ways to win through combinations, multipliers, and jackpots\"\n    ],\n    \"cons\": [\n        \"Slightly below average RTP\",\n        \"Limited availability of gorilla Wild symbols\"\n    ],\n    \"meta_title\": \"Play Big Thunder King Strike for Free - Ainsworth Slot Game\",\n    \"meta_description\": \"Explore the immersive jungle theme of Big Thunder King Strike by Ainsworth with free spins, multipliers, and jackpots. Play for free and win big!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive jungle theme\",\n    \"Variety of symbols and features\",\n    \"Free spins round with multipliers\",\n    \"Potential for big winnings\"\n  ],\n  \"cons\": [\n    \"Slightly below-average RTP\",\n    \"Limited availability of Wild symbol\"\n  ],\n  \"meta_title\": \"Play Big Thunder King Strike Free: Review & Gameplay\",\n  \"meta_description\": \"Play Big Thunder King Strike for free and enjoy immersive jungle-themed gameplay with potential for big winnings.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 642,
+                    "completion_tokens": 108,
+                    "total_tokens": 750
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/big-thunder-king-strike.json",
     "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_2.png",
         "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_3.png",
-        "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_4.png",
         "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_1.png",
-        "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_2.png"
+        "arved__Please_create_a_feature_image_for_Big_Thunder_King_Strik_721b6040-3fe0-4311-a885-5d8e15fc4aca_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Big Thunder King Strike (Version 2).webp",
         "game_reviews/processed_images/Big Thunder King Strike (Version 4).webp",
+        "game_reviews/processed_images/Big Thunder King Strike (Version 2).webp",
         "game_reviews/processed_images/Big Thunder King Strike (Version 3).webp",
         "game_reviews/processed_images/Big Thunder King Strike (Version 1).webp"
-    ]
+    ],
+    "slug": "big-thunder-king-strike",
+    "name": "Big Thunder King Strike",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Big-Thunder-King-Strike-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Big Thunder King Strike Free: Review & Gameplay' ### Meta set: 'Play Big Thunder King Strike for free and enjoy immersive jungle-themed gameplay with potential for big winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

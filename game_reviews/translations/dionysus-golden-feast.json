@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful graphics and sound quality",
-                    "Free Spins with masks and Wild multipliers",
-                    "High maximum payout of 7,500x your bet",
-                    "Efficiently arranged buttons for easy gameplay"
+                    "Free Spins, sticky symbols, and Wild multipliers",
+                    "Visually stunning graphics and symbols",
+                    "Efficient game layout and easy gameplay",
+                    "High maximum payout and decent RTP"
                 ],
                 "cons": [
-                    "High volatility may not be suitable for all players",
-                    "Limited paylines at 15"
+                    "High volatility",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Dionysus Golden Feast for Free: Slot Game Review",
-                "meta_description": "Get a chance to win big with Free Spins, Wild multipliers, and a maximum payout of 7,500x your bet in Dionysus Golden Feast. Play for free today!"
+                "meta_title": "Play Dionysus Golden Feast for Free",
+                "meta_description": "Read our review of Dionysus Golden Feast and play the game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dionysus Golden Feast\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features and Bonuses\n\nDionysus Golden Feast features Free Spins, sticky symbols, and Wild multipliers. The Wild symbol not only replaces all symbols except for the Scatter, but it also pays out as much as the highest-paying symbol on the grid. The Wild also awards a multiplier that varies depending on the number of Wilds that appear on the grid. The Scatter symbol can transform into an adjacent symbol, trigger a Respin, and activate the Free Spins feature when you land both the silver and golden mask on the grid. The Free Spins feature also brings a high number of masks and more Wild multipliers.\n\nGraphics and Symbols\n\nDionysus Golden Feast is a visually stunning slot game set in a beautiful terrace adorned with columns from which grape clusters hang. The color scheme mostly consists of purple, which represents wine. The symbols are well-designed, full of detail, and include playing card symbols, a fruit bowl, harp, cornucopia, as well as Dionysus himself, represented as the highest-paying symbol. The sound quality is also worth mentioning, with relaxing music that soothes during the spins.\n\nGame Layout and Paylines\n\nDionysus Golden Feast features 5 reels, 3 rows, and 15 fixed paylines. To get a winning combination, you must land at least three adjacent symbols starting from the leftmost reel and progressing towards the right. The buttons are arranged efficiently on the screen to make gameplay easy. The minimum bet per spin is €0.10, and the maximum bet is €100.\n\nScatters and Wilds\n\nThe Wild symbol in Dionysus Golden Feast replaces all symbols except for the Scatter and every time it appears at least three times, it pays as much as the highest-paying symbol, Dionysus himself. It also always awards a multiplier that varies in value depending on the number of Wilds that appear on the grid. The Scatter symbol can transform into an adjacent symbol, trigger a Respin, and activate the Free Spins feature when you land both the silver and golden mask on the grid.\n\nMaximum Winnings and RTP\n\nThe maximum payout in Dionysus Golden Feast is 7,500 times your bet, and the theoretical return to player rate is a decent 96.16%. The volatility of this slot game is high, providing players with the chance to win big with the bonus features on offer.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dionysus Golden Feast\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features and Bonuses\n\nDionysus Golden Feast features Free Spins, sticky symbols, and Wild multipliers. The Wild symbol not only replaces all symbols except for the Scatter, but it also pays out as much as the highest-paying symbol on the grid. The Wild also awards a multiplier that varies depending on the number of Wilds that appear on the grid. The Scatter symbol can transform into an adjacent symbol, trigger a Respin, and activate the Free Spins feature when you land both the silver and golden mask on the grid. The Free Spins feature also brings a high number of masks and more Wild multipliers.\n\nGraphics and Symbols\n\nDionysus Golden Feast is a visually stunning slot game set in a beautiful terrace adorned with columns from which grape clusters hang. The color scheme mostly consists of purple, which represents wine. The symbols are well-designed, full of detail, and include playing card symbols, a fruit bowl, harp, cornucopia, as well as Dionysus himself, represented as the highest-paying symbol. The sound quality is also worth mentioning, with relaxing music that soothes during the spins.\n\nGame Layout and Paylines\n\nDionysus Golden Feast features 5 reels, 3 rows, and 15 fixed paylines. To get a winning combination, you must land at least three adjacent symbols starting from the leftmost reel and progressing towards the right. The buttons are arranged efficiently on the screen to make gameplay easy. The minimum bet per spin is €0.10, and the maximum bet is €100.\n\nScatters and Wilds\n\nThe Wild symbol in Dionysus Golden Feast replaces all symbols except for the Scatter and every time it appears at least three times, it pays as much as the highest-paying symbol, Dionysus himself. It also always awards a multiplier that varies in value depending on the number of Wilds that appear on the grid. The Scatter symbol can transform into an adjacent symbol, trigger a Respin, and activate the Free Spins feature when you land both the silver and golden mask on the grid.\n\nMaximum Winnings and RTP\n\nThe maximum payout in Dionysus Golden Feast is 7,500 times your bet, and the theoretical return to player rate is a decent 96.16%. The volatility of this slot game is high, providing players with the chance to win big with the bonus features on offer.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T49NdPYjjmZkYd7UnFijcdUOh8Nf",
+                "id": "chatcmpl-7WRI4NK7smp50RtRdLtAxjtRggpJH",
                 "object": "chat.completion",
-                "created": 1687161821,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 666,
-                    "completion_tokens": 148,
-                    "total_tokens": 814
-                },
+                "created": 1687965756,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautiful graphics and sound quality\",\n        \"Free Spins with masks and Wild multipliers\",\n        \"High maximum payout of 7,500x your bet\",\n        \"Efficiently arranged buttons for easy gameplay\"\n    ],\n    \"cons\": [\n        \"High volatility may not be suitable for all players\",\n        \"Limited paylines at 15\"\n    ],\n    \"meta_title\": \"Play Dionysus Golden Feast for Free: Slot Game Review\",\n    \"meta_description\": \"Get a chance to win big with Free Spins, Wild multipliers, and a maximum payout of 7,500x your bet in Dionysus Golden Feast. Play for free today!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Free Spins, sticky symbols, and Wild multipliers\",\n    \"Visually stunning graphics and symbols\",\n    \"Efficient game layout and easy gameplay\",\n    \"High maximum payout and decent RTP\"\n  ],\n  \"cons\": [\n    \"High volatility\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Dionysus Golden Feast for Free\",\n  \"meta_description\": \"Read our review of Dionysus Golden Feast and play the game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 663,
+                    "completion_tokens": 109,
+                    "total_tokens": 772
+                }
             }
         },
         {
@@ -811,15 +811,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_feature_image_in_cartoon_style_for_the_game_Dio_f8f0431a-76aa-48ab-8192-4a4ce25d6e49_1.png",
-        "arved__Create_a_feature_image_in_cartoon_style_for_the_game_Dio_f8f0431a-76aa-48ab-8192-4a4ce25d6e49_3.png",
         "arved__Create_a_feature_image_in_cartoon_style_for_the_game_Dio_f8f0431a-76aa-48ab-8192-4a4ce25d6e49_2.png",
+        "arved__Create_a_feature_image_in_cartoon_style_for_the_game_Dio_f8f0431a-76aa-48ab-8192-4a4ce25d6e49_3.png",
         "arved__Create_a_feature_image_in_cartoon_style_for_the_game_Dio_f8f0431a-76aa-48ab-8192-4a4ce25d6e49_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dionysus Golden Feast (Version 4).webp",
-        "game_reviews/processed_images/Dionysus Golden Feast (Version 1).webp",
         "game_reviews/processed_images/Dionysus Golden Feast (Version 2).webp",
+        "game_reviews/processed_images/Dionysus Golden Feast (Version 1).webp",
+        "game_reviews/processed_images/Dionysus Golden Feast (Version 4).webp",
         "game_reviews/processed_images/Dionysus Golden Feast (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/dionysus-golden-feast.json"
+    "filename": "game_reviews/translations/dionysus-golden-feast.json",
+    "slug": "dionysus-golden-feast",
+    "name": "Dionysus Golden Feast",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dionysus-Golden-Feast-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dionysus Golden Feast for Free' ### Meta set: 'Read our review of Dionysus Golden Feast and play the game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

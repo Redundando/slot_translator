@@ -654,40 +654,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 96.21%",
-                    "Attractive maximum payout of x1000",
+                    "Good RTP of 96.21%",
+                    "High-paying symbols and maximum payout of x1000 times your bet",
                     "Well-executed ancient Egyptian theme with visually appealing symbols",
-                    "Exciting gambling feature to double or quadruple winnings"
+                    "Special features like 10 free spins and expanding icon"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "Gambling feature can be addictive"
+                    "Gambling feature can be addictive and should be played with caution",
+                    "Limited number of paylines (10)"
                 ],
-                "meta_title": "Play Book of Dead for Free - RTP, Maximum Payout & Gambling Feature",
-                "meta_description": "Book of Dead is an Egyptian-themed online slot game with a high RTP and attractive maximum payout. Play it for free now and enjoy the gambling feature."
+                "meta_title": "Play Book of Dead for Free | Review",
+                "meta_description": "Read our review of Book of Dead, an online slot game with an ancient Egyptian theme. Play for free and enjoy the special features!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nRTP and Paylines of Book of Dead\n\nBook of Dead is a multiline slot game that comes with ten paylines. The game has a good RTP of 96.21% and can be played for a stake that ranges from €0.01 to €100.00 per spin. Additionally, the slot game features high-paying symbols and offers a maximum payout of x1000 times your bet.\n\nSymbols and Theme\n\nBook of Dead is an online slot game that is based on an ancient Egyptian theme. The game's symbols represent ancient artifacts such as pharaohs, burial chambers, scarab beetles, and statues of gods. The game's theme is well-executed, with expertly drawn symbols that visually appeal to players.\n\nSpecial Features and Scatter Symbol\n\nThe Book of Dead slot game features a scatter symbol that is represented by a book symbol. The book symbol triggers the game's main bonus feature, which awards players 10 free spins. Additionally, before the bonus feature starts, one symbol is randomly selected and turned into an expanding icon, covering all positions on the reel if a winning combination is possible. This game also features a gambling feature that gives players a chance to double or quadruple their winnings after every win.\n\nMaximum Payout\n\nThe maximum payout of Book of Dead is very attractive, with the game's multiplier offering x1000 times your bet. Players stand a chance to win heavily, making it one of the popular online slot games out there.\n\nGambling Feature\n\nBook of Dead features a gambling feature that allows players to double or even quadruple their winnings after every win. Once a player wins, the gambling feature is triggered, and the player has a choice of either guessing the next color of the playing cards or the next suit. This feature can be addictive and should be played with caution.\n\nSimilar Slot Games\n\nPlayers who enjoy Book of Dead will also enjoy playing other online slot games with an Egyptian theme. One of the most popular of these games is the Book of Ra, a slot machine produced by Novomatic. It is an attractive option for players who appreciate ancient Egyptian art and culture.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nRTP and Paylines of Book of Dead\n\nBook of Dead is a multiline slot game that comes with ten paylines. The game has a good RTP of 96.21% and can be played for a stake that ranges from €0.01 to €100.00 per spin. Additionally, the slot game features high-paying symbols and offers a maximum payout of x1000 times your bet.\n\nSymbols and Theme\n\nBook of Dead is an online slot game that is based on an ancient Egyptian theme. The game's symbols represent ancient artifacts such as pharaohs, burial chambers, scarab beetles, and statues of gods. The game's theme is well-executed, with expertly drawn symbols that visually appeal to players.\n\nSpecial Features and Scatter Symbol\n\nThe Book of Dead slot game features a scatter symbol that is represented by a book symbol. The book symbol triggers the game's main bonus feature, which awards players 10 free spins. Additionally, before the bonus feature starts, one symbol is randomly selected and turned into an expanding icon, covering all positions on the reel if a winning combination is possible. This game also features a gambling feature that gives players a chance to double or quadruple their winnings after every win.\n\nMaximum Payout\n\nThe maximum payout of Book of Dead is very attractive, with the game's multiplier offering x1000 times your bet. Players stand a chance to win heavily, making it one of the popular online slot games out there.\n\nGambling Feature\n\nBook of Dead features a gambling feature that allows players to double or even quadruple their winnings after every win. Once a player wins, the gambling feature is triggered, and the player has a choice of either guessing the next color of the playing cards or the next suit. This feature can be addictive and should be played with caution.\n\nSimilar Slot Games\n\nPlayers who enjoy Book of Dead will also enjoy playing other online slot games with an Egyptian theme. One of the most popular of these games is the Book of Ra, a slot machine produced by Novomatic. It is an attractive option for players who appreciate ancient Egyptian art and culture.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sj0zOQu6BTLJ3zeZuZgUpoSrq7d9",
+                "id": "chatcmpl-7WOn2MOguRS4UhkNWwnRCHEoSt2Hu",
                 "object": "chat.completion",
-                "created": 1687080577,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 140,
-                    "total_tokens": 744
-                },
+                "created": 1687956144,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"High RTP of 96.21%\",\n      \"Attractive maximum payout of x1000\",\n      \"Well-executed ancient Egyptian theme with visually appealing symbols\",\n      \"Exciting gambling feature to double or quadruple winnings\"\n   ],\n   \"cons\": [\n      \"Limited number of paylines\",\n      \"Gambling feature can be addictive\"\n   ],\n   \"meta_title\": \"Play Book of Dead for Free - RTP, Maximum Payout & Gambling Feature\",\n   \"meta_description\": \"Book of Dead is an Egyptian-themed online slot game with a high RTP and attractive maximum payout. Play it for free now and enjoy the gambling feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Good RTP of 96.21%\",\n    \"High-paying symbols and maximum payout of x1000 times your bet\",\n    \"Well-executed ancient Egyptian theme with visually appealing symbols\",\n    \"Special features like 10 free spins and expanding icon\"\n  ],\n  \"cons\": [\n    \"Gambling feature can be addictive and should be played with caution\",\n    \"Limited number of paylines (10)\"\n  ],\n  \"meta_title\": \"Play Book of Dead for Free | Review\",\n  \"meta_description\": \"Read our review of Book of Dead, an online slot game with an ancient Egyptian theme. Play for free and enjoy the special features!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 601,
+                    "completion_tokens": 142,
+                    "total_tokens": 743
+                }
             }
         },
         {
@@ -888,15 +888,24 @@
     ],
     "filename": "game_reviews/translations/book-of-dead.json",
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_3.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_1.png",
         "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_2.png"
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Dead (Version 3).webp",
-        "game_reviews/processed_images/Book Of Dead (Version 1).webp",
         "game_reviews/processed_images/Book Of Dead (Version 2).webp",
+        "game_reviews/processed_images/Book Of Dead (Version 1).webp",
         "game_reviews/processed_images/Book Of Dead (Version 4).webp"
-    ]
+    ],
+    "slug": "book-of-dead",
+    "name": "Book of Dead",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Dead for Free | Review' ### Meta set: 'Read our review of Book of Dead, an online slot game with an ancient Egyptian theme. Play for free and enjoy the special features!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

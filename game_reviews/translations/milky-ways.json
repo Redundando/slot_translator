@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multiple bonus features including free spins and re-spins",
-                    "Highly accessible without registration",
-                    "Mobile-friendly for on-the-go gaming",
-                    "Generous potential winnings"
+                    "243 ways to win, expands to 3125 in Free Spins Bonus Round",
+                    "Multiple bonus features including wild symbols and multiplier repetitions",
+                    "Highest paying symbol offers a prize worth 2.5 times the bet",
+                    "Available for free play and mobile accessibility"
                 ],
                 "cons": [
-                    "May be too simplistic for experienced players",
-                    "Limited range of betting options"
+                    "Game may be too basic for some players",
+                    "Free Spins round is the main highlight, rest of the gameplay can feel ordinary"
                 ],
-                "meta_title": "Play Milky Ways Free | Review of Nolimit City's Online Slot",
-                "meta_description": "Read our review of Milky Ways, the online slot by Nolimit City. Play for free and discover its bonus features, accessibility, & payout potential."
+                "meta_title": "Play Milky Ways Free: Review of Nolimit City's Online Slot Game",
+                "meta_description": "Read our review of Milky Ways and play for free. Discover bonus features and potential winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Milky Ways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Format and Structure\n\nMilky Ways is a simple online slot developed by Nolimit City. It has 243 ways to win that expands to 3125 in the Free Spins Bonus Round. Players can activate wilds and multiplier repetitions. Betting range from €0.20 up to €100.00 per spin.\n\nBonus Features\n\nMilky Ways has multiple bonus features, including wild symbols that can appear on the three central reels and have a multiplier from 1 to 3 times. The Milky Ways Spins Round is composed of three bonus symbols that work on the central reels; two extra rows are added to the game to give a total of 3125 chances of winning combinations. The Fusion Spin is a re-spin that is activated during the Milky Ways Free Spins bonus. During this bonus, winning symbols are locked in position, and all non-winning symbols are spun again to have the chance to add more symbols to the win.\n\nHighest Paying Symbol\n\nThe red diamond is the most generous symbol in the game, which pays a prize worth 2.5 times the bet and a total final prize worth X5664.\n\nMultiplier Repetitions\n\nMore than one Solar Wild can appear in one spin across the three central reels, and they will be multiplied by each other. In the Free Spins Bonus Round, repetitions are awarded every time the player wins.\n\nAccessibility (free and mobile)\n\nPlayers can play Milky Ways without registration on Slotajava and other online casinos. This game is available on mobile, making it convenient for players to play anywhere and anytime.\n\nDeveloper (Nolimit City)\n\nNolimit City is the developer behind Milky Ways. It is a basic title compared to other games from the company, such as Bonus Bunnies and Punk Rocker. However, this game mixes both classic elements and a touch of modernity without making the gameplay too complex. The game offers generous potential winnings, especially during the Free Spins round.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Milky Ways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Format and Structure\n\nMilky Ways is a simple online slot developed by Nolimit City. It has 243 ways to win that expands to 3125 in the Free Spins Bonus Round. Players can activate wilds and multiplier repetitions. Betting range from €0.20 up to €100.00 per spin.\n\nBonus Features\n\nMilky Ways has multiple bonus features, including wild symbols that can appear on the three central reels and have a multiplier from 1 to 3 times. The Milky Ways Spins Round is composed of three bonus symbols that work on the central reels; two extra rows are added to the game to give a total of 3125 chances of winning combinations. The Fusion Spin is a re-spin that is activated during the Milky Ways Free Spins bonus. During this bonus, winning symbols are locked in position, and all non-winning symbols are spun again to have the chance to add more symbols to the win.\n\nHighest Paying Symbol\n\nThe red diamond is the most generous symbol in the game, which pays a prize worth 2.5 times the bet and a total final prize worth X5664.\n\nMultiplier Repetitions\n\nMore than one Solar Wild can appear in one spin across the three central reels, and they will be multiplied by each other. In the Free Spins Bonus Round, repetitions are awarded every time the player wins.\n\nAccessibility (free and mobile)\n\nPlayers can play Milky Ways without registration on Slotajava and other online casinos. This game is available on mobile, making it convenient for players to play anywhere and anytime.\n\nDeveloper (Nolimit City)\n\nNolimit City is the developer behind Milky Ways. It is a basic title compared to other games from the company, such as Bonus Bunnies and Punk Rocker. However, this game mixes both classic elements and a touch of modernity without making the gameplay too complex. The game offers generous potential winnings, especially during the Free Spins round.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U95Vv7exS9lg8wq5CxqFQ262m2hI",
+                "id": "chatcmpl-7WXiUR7Qak56kcra2NqBKRRazKQZW",
                 "object": "chat.completion",
-                "created": 1687419129,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990458,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"Multiple bonus features including free spins and re-spins\",\n      \"Highly accessible without registration\",\n      \"Mobile-friendly for on-the-go gaming\",\n      \"Generous potential winnings\"\n   ],\n   \"cons\":[\n      \"May be too simplistic for experienced players\",\n      \"Limited range of betting options\"\n   ],\n   \"meta_title\":\"Play Milky Ways Free | Review of Nolimit City's Online Slot\",\n   \"meta_description\":\"Read our review of Milky Ways, the online slot by Nolimit City. Play for free and discover its bonus features, accessibility, & payout potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"243 ways to win, expands to 3125 in Free Spins Bonus Round\",\n    \"Multiple bonus features including wild symbols and multiplier repetitions\",\n    \"Highest paying symbol offers a prize worth 2.5 times the bet\",\n    \"Available for free play and mobile accessibility\"\n  ],\n  \"cons\": [\n    \"Game may be too basic for some players\",\n    \"Free Spins round is the main highlight, rest of the gameplay can feel ordinary\"\n  ],\n  \"meta_title\": \"Play Milky Ways Free: Review of Nolimit City's Online Slot Game\",\n  \"meta_description\": \"Read our review of Milky Ways and play for free. Discover bonus features and potential winnings.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 573,
-                    "completion_tokens": 130,
-                    "total_tokens": 703
+                    "prompt_tokens": 570,
+                    "completion_tokens": 151,
+                    "total_tokens": 721
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/milky-ways.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_cartoon-style_image_that_features_a_happy_M_af38d0a2-23db-4f21-82bc-7725d88f14e2_3.png",
+        "arved__Create_a_fun_cartoon-style_image_that_features_a_happy_M_af38d0a2-23db-4f21-82bc-7725d88f14e2_4.png",
+        "arved__Create_a_fun_cartoon-style_image_that_features_a_happy_M_af38d0a2-23db-4f21-82bc-7725d88f14e2_2.png",
+        "arved__Create_a_fun_cartoon-style_image_that_features_a_happy_M_af38d0a2-23db-4f21-82bc-7725d88f14e2_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Milky Ways (Version 3).webp",
+        "game_reviews/processed_images/Milky Ways (Version 2).webp",
+        "game_reviews/processed_images/Milky Ways (Version 1).webp",
+        "game_reviews/processed_images/Milky Ways (Version 4).webp"
+    ],
+    "slug": "milky-ways",
+    "name": "Milky Ways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Milky-Ways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Milky Ways Free: Review of Nolimit City's Online Slot Game' ### Meta set: 'Read our review of Milky Ways and play for free. Discover bonus features and potential winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

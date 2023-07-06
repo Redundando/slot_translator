@@ -1,11 +1,13 @@
-from urllib.request import Request, urlopen
-import requests
-from bs4 import BeautifulSoup
-import os
-from urllib.parse import urlsplit
 import json
-import unicodedata
+import os
 import re
+from urllib.parse import urlsplit
+from urllib.request import Request, urlopen
+
+import requests
+import unicodedata
+from bs4 import BeautifulSoup
+
 
 def slugify(value, allow_unicode=False):
     value = str(value)
@@ -60,7 +62,7 @@ def download_images(soup: BeautifulSoup) -> []:
     return result
 
 
-def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
+def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/", download_images=False):
     print(f"Retrieving game review {url}")
     review = {}
     soup = load_url(url)
@@ -73,18 +75,21 @@ def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
     else:
         review["studio"] = None
     review["text"] = article.text
-    review["images"] = download_images(article)
-    ft_image = soup.find("img", class_="review__slot-image")
-    review["featured_image"] = download_images(ft_image.parent)
+    if download_images:
+        review["images"] = download_images(article)
+        ft_image = soup.find("img", class_="review__slot-image")
+        review["featured_image"] = download_images(ft_image.parent)
     review["name"] = soup.find("h1").text
     return review
 
+
 def save_game_review(language="it", url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
     review = get_game_review(url)
-    filename = "game_reviews/"+language+"/"+slugify(review["name"])+".json"
+    filename = "game_reviews/" + language + "/" + slugify(review["name"]) + ".json"
     with open(filename, "w", encoding='utf8') as f:
         print(f"Saving {filename}")
         json.dump(review, f, indent=4, ensure_ascii=False)
+
 
 def load_all_game_urls(url="https://www.slotjava.it/sitemap/"):
     soup = load_url(url)
@@ -96,11 +101,13 @@ def load_all_game_urls(url="https://www.slotjava.it/sitemap/"):
             game_urls.append(href)
     return game_urls
 
+
 def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitemap/"):
     game_urls = load_all_game_urls(sitemap)
     for game_url in game_urls:
-        save_game_review(language,game_url)
+        save_game_review(language, game_url)
+
 
 if __name__ == '__main__':
-    #save_all_game_reviews()
+    # save_all_game_reviews()
     pass

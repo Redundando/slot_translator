@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Free online slot game",
-                    "Can be played without registration or download",
-                    "Mobile optimized gameplay",
-                    "Autoplay function available"
+                    "Feline theme with sparkling symbols",
+                    "Free Spins round with multiplier",
+                    "Optimized for mobile play"
                 ],
                 "cons": [
-                    "RTP is lower than average for online slots",
-                    "No bonus game feature"
+                    "RTP of 94.92%",
+                    "Limited number of paylines (30)"
                 ],
-                "meta_title": "Play Kitty Glitter Free - Review of Online Slot Game",
-                "meta_description": "Read our review of Kitty Glitter, the free online slot game with a feline theme. Play now on desktop or mobile for free and enjoy Free Spins with multipliers."
+                "meta_title": "Play Kitty Glitter Slot Game for Free",
+                "meta_description": "Review of Kitty Glitter, a feline-themed slot game with free spins. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Kitty Glitter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nKitty Glitter Slot Game\n\nKitty Glitter from the American provider IGT is a free online slot game with a feline theme. The game is played on a 5-reel, 3-row grid with 30 paylines. It has an RTP of 94.92%. The slot game can be played without registration or download, and it is also optimized for mobile play.\n\nGame Symbols and Winning Combinations\n\nKitty Glitter features symbols like Jack, Ace, Queen, King, and Ten, in addition to the game logo and the bowl full of diamonds. The Wild symbol replaces all other symbols except the Scatter, while the Scatter symbol triggers the Free Spins round with a 3x multiplier. During Free Spins, collecting diamond icons can turn cat symbols into Wilds, leading to more winning combinations.\n\nFree Spins and Multipliers\n\nWhen players land three Scatter symbols on the three central reels, they trigger 15 Free Spins with a 3x multiplier. Free Spins can be reactivated up to a maximum of 225 rounds. During Free Spins, collecting diamond icons can transform cat symbols into Wilds, increasing the chances of winning big.\n\nSoundtrack and Graphics\n\nKitty Glitter's graphics quality is good, with bright colors and sparkling symbols. The game has a soundtrack that resembles the music of New York cabarets with trumpet calls during free spins.\n\nAutoplay and Mobile Optimization\n\nKitty Glitter offers an Auto Play function for uninterrupted gameplay, allowing for up to 50 automatic spins. The game is optimized for mobile play, which means players can enjoy the game on their mobile devices. The mobile version offers the same features and gameplay as the desktop version. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Kitty Glitter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nKitty Glitter Slot Game\n\nKitty Glitter from the American provider IGT is a free online slot game with a feline theme. The game is played on a 5-reel, 3-row grid with 30 paylines. It has an RTP of 94.92%. The slot game can be played without registration or download, and it is also optimized for mobile play.\n\nGame Symbols and Winning Combinations\n\nKitty Glitter features symbols like Jack, Ace, Queen, King, and Ten, in addition to the game logo and the bowl full of diamonds. The Wild symbol replaces all other symbols except the Scatter, while the Scatter symbol triggers the Free Spins round with a 3x multiplier. During Free Spins, collecting diamond icons can turn cat symbols into Wilds, leading to more winning combinations.\n\nFree Spins and Multipliers\n\nWhen players land three Scatter symbols on the three central reels, they trigger 15 Free Spins with a 3x multiplier. Free Spins can be reactivated up to a maximum of 225 rounds. During Free Spins, collecting diamond icons can transform cat symbols into Wilds, increasing the chances of winning big.\n\nSoundtrack and Graphics\n\nKitty Glitter's graphics quality is good, with bright colors and sparkling symbols. The game has a soundtrack that resembles the music of New York cabarets with trumpet calls during free spins.\n\nAutoplay and Mobile Optimization\n\nKitty Glitter offers an Auto Play function for uninterrupted gameplay, allowing for up to 50 automatic spins. The game is optimized for mobile play, which means players can enjoy the game on their mobile devices. The mobile version offers the same features and gameplay as the desktop version. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TyedL4KQCOaR3mwlBw1argkjUOcp",
+                "id": "chatcmpl-7WW0cOgxz5XxvcpsAjsGdWOhMFne6",
                 "object": "chat.completion",
-                "created": 1687379023,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983894,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free online slot game\",\n        \"Can be played without registration or download\",\n        \"Mobile optimized gameplay\",\n        \"Autoplay function available\"\n    ],\n    \"cons\": [\n        \"RTP is lower than average for online slots\",\n        \"No bonus game feature\"\n    ],\n    \"meta_title\": \"Play Kitty Glitter Free - Review of Online Slot Game\",\n    \"meta_description\": \"Read our review of Kitty Glitter, the free online slot game with a feline theme. Play now on desktop or mobile for free and enjoy Free Spins with multipliers.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Free online slot game\",\n    \"Feline theme with sparkling symbols\",\n    \"Free Spins round with multiplier\",\n    \"Optimized for mobile play\"\n  ],\n  \"cons\": [\n    \"RTP of 94.92%\",\n    \"Limited number of paylines (30)\"\n  ],\n  \"meta_title\": \"Play Kitty Glitter Slot Game for Free\",\n  \"meta_description\": \"Review of Kitty Glitter, a feline-themed slot game with free spins. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 527,
-                    "completion_tokens": 127,
-                    "total_tokens": 654
+                    "prompt_tokens": 524,
+                    "completion_tokens": 112,
+                    "total_tokens": 636
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/kitty-glitter.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Kitty_Glitter_online_slot_gam_d5889168-db37-413d-a749-7ea43613e6be_1.png",
+        "arved__Create_a_feature_image_for_Kitty_Glitter_online_slot_gam_d5889168-db37-413d-a749-7ea43613e6be_4.png",
+        "arved__Create_a_feature_image_for_Kitty_Glitter_online_slot_gam_d5889168-db37-413d-a749-7ea43613e6be_2.png",
+        "arved__Create_a_feature_image_for_Kitty_Glitter_online_slot_gam_d5889168-db37-413d-a749-7ea43613e6be_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Kitty Glitter (Version 3).webp",
+        "game_reviews/processed_images/Kitty Glitter (Version 4).webp",
+        "game_reviews/processed_images/Kitty Glitter (Version 1).webp",
+        "game_reviews/processed_images/Kitty Glitter (Version 2).webp"
+    ],
+    "slug": "kitty-glitter",
+    "name": "Kitty Glitter",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Kitty-Glitter-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Kitty Glitter Slot Game for Free' ### Meta set: 'Review of Kitty Glitter, a feline-themed slot game with free spins. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

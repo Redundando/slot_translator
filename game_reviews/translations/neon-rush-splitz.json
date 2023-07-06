@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting Splitz feature with jackpot potential",
-                    "Free Spins feature adds excitement to gameplay",
-                    "Futuristic Tron-inspired setting is visually appealing",
-                    "Demo version available to practice gameplay"
+                    "Futuristic Tron-inspired setting",
+                    "Splitz feature with high win potential",
+                    "Free Spins feature adds excitement",
+                    "Demo version available for practice"
                 ],
                 "cons": [
-                    "Medium-high volatility may not appeal to all players",
-                    "Maximum betting range of 40 € may not satisfy high rollers"
+                    "Medium-high volatility may not be suitable for all players",
+                    "Betting range may not cater to high rollers"
                 ],
-                "meta_title": "Play Neon Rush Splitz Free Slot Game | Exciting Splitz and Free Spins Features",
-                "meta_description": "Read our review of Neon Rush Splitz, a futuristic Tron-inspired slot game with Splitz and Free Spins features. Play for free before wagering real money."
+                "meta_title": "Play Neon Rush Splitz Free - Futuristic Slot Game Review",
+                "meta_description": "Discover the Tron-inspired Neon Rush Splitz slot game. Play for free and explore its features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Neon Rush Splitz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNeon Rush Splitz\n\nNeon Rush Splitz is a slot game developed by Yggdrasil with a Tron-inspired setting, featuring futuristic cities and motorcycles darting across them.\n\nSlot game\n\nThe game has a traditional structure with a five-reel, three-row grid, offering 243 winning ways. It has a minimum betting range of 10 cents and a maximum of 40 €, with a medium-high volatility and a theoretical return rate of 96.30%.\n\nSplitz feature\n\nNeon Rush Splitz sports the typical Splitz functionality of Yggdrasil games. Splitz is a symbol that randomly appears on the reels, revealing between five to ten Jackpot symbols, with a topmost win called the Jackpot Ultra that has a value worth 25,000 times the bet amount. The reel symbols include a few futuristic, abstract designs and a wild symbol that replaces all the other icons in a winning combination when unveiled by the Splitz symbol.\n\nFree Spins feature\n\nThe game's Free Spins feature grants a variable number of free rounds to players, adding more spice to the overall experience.\n\nDemo version\n\nTo maximize your win chances and adapt to the Splitz functionality, it is recommended to practice first with the demo version before wagering real money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Neon Rush Splitz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNeon Rush Splitz\n\nNeon Rush Splitz is a slot game developed by Yggdrasil with a Tron-inspired setting, featuring futuristic cities and motorcycles darting across them.\n\nSlot game\n\nThe game has a traditional structure with a five-reel, three-row grid, offering 243 winning ways. It has a minimum betting range of 10 cents and a maximum of 40 €, with a medium-high volatility and a theoretical return rate of 96.30%.\n\nSplitz feature\n\nNeon Rush Splitz sports the typical Splitz functionality of Yggdrasil games. Splitz is a symbol that randomly appears on the reels, revealing between five to ten Jackpot symbols, with a topmost win called the Jackpot Ultra that has a value worth 25,000 times the bet amount. The reel symbols include a few futuristic, abstract designs and a wild symbol that replaces all the other icons in a winning combination when unveiled by the Splitz symbol.\n\nFree Spins feature\n\nThe game's Free Spins feature grants a variable number of free rounds to players, adding more spice to the overall experience.\n\nDemo version\n\nTo maximize your win chances and adapt to the Splitz functionality, it is recommended to practice first with the demo version before wagering real money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UEnwtFbEjNL51MRHU7CoUmnN6lq4",
+                "id": "chatcmpl-7WYYTemnzADIOF7ECc4KtQpxiFiyl",
                 "object": "chat.completion",
-                "created": 1687441104,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993681,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting Splitz feature with jackpot potential\",\n        \"Free Spins feature adds excitement to gameplay\",\n        \"Futuristic Tron-inspired setting is visually appealing\",\n        \"Demo version available to practice gameplay\"\n    ],\n    \"cons\": [\n        \"Medium-high volatility may not appeal to all players\",\n        \"Maximum betting range of 40 € may not satisfy high rollers\"\n    ],\n    \"meta_title\": \"Play Neon Rush Splitz Free Slot Game | Exciting Splitz and Free Spins Features\",\n    \"meta_description\": \"Read our review of Neon Rush Splitz, a futuristic Tron-inspired slot game with Splitz and Free Spins features. Play for free before wagering real money.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Futuristic Tron-inspired setting\",\n    \"Splitz feature with high win potential\",\n    \"Free Spins feature adds excitement\",\n    \"Demo version available for practice\"\n  ],\n  \"cons\": [\n    \"Medium-high volatility may not be suitable for all players\",\n    \"Betting range may not cater to high rollers\"\n  ],\n  \"meta_title\": \"Play Neon Rush Splitz Free - Futuristic Slot Game Review\",\n  \"meta_description\": \"Discover the Tron-inspired Neon Rush Splitz slot game. Play for free and explore its features.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 439,
-                    "completion_tokens": 154,
-                    "total_tokens": 593
+                    "prompt_tokens": 436,
+                    "completion_tokens": 125,
+                    "total_tokens": 561
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/neon-rush-splitz.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Neon_Rush_Splitz_that__a5ce69e0-1b05-428b-af89-e90463d04bd5_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Neon_Rush_Splitz_that__a5ce69e0-1b05-428b-af89-e90463d04bd5_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Neon_Rush_Splitz_that__a5ce69e0-1b05-428b-af89-e90463d04bd5_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Neon_Rush_Splitz_that__a5ce69e0-1b05-428b-af89-e90463d04bd5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Neon Rush Splitz (Version 2).webp",
+        "game_reviews/processed_images/Neon Rush Splitz (Version 3).webp",
+        "game_reviews/processed_images/Neon Rush Splitz (Version 4).webp",
+        "game_reviews/processed_images/Neon Rush Splitz (Version 1).webp"
+    ],
+    "slug": "neon-rush-splitz",
+    "name": "Neon Rush Splitz",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Neon-Rush-Splitz-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Neon Rush Splitz Free - Futuristic Slot Game Review' ### Meta set: 'Discover the Tron-inspired Neon Rush Splitz slot game. Play for free and explore its features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique crushing feature",
-                    "Wild symbol with increasing multipliers",
-                    "Funny sound effects",
-                    "Colorful and cartoonish graphics"
+                    "Unique crushing feature for more winning opportunities",
+                    "Colorful and cartoonish graphics for a fun gaming experience",
+                    "Wild symbol with increasing multipliers for bigger wins",
+                    "Funny sound effects that add to the game's cheerful tone"
                 ],
                 "cons": [
                     "No background music",
-                    "Theme may not appeal to all players"
+                    "Limited number of pay lines compared to other slot games"
                 ],
-                "meta_title": "Play Fruit Case slot for free | Unique crushing feature",
-                "meta_description": "Read our review of Fruit Case slot and play for free. Unique crushing feature, Wild symbol with increasing multipliers and funny sound effects."
+                "meta_title": "Play Fruit Case Free - Unique Features & Colorful Graphics",
+                "meta_description": "In our review of Fruit Case, discover its unique features and colorful graphics. Play this game for free today!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruit Case\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and unique features\n\nFruit Case is an online slot game with a 5x3 game mechanism and 20 pay lines. The game has a unique feature where symbols involved in a winning combination are crushed, and others fall from above, giving players more winning opportunities. The Fruit Case symbol acts as the Wild symbol and can replace other symbols. The multiplier of the Fruit Case symbol increases from a minimum of x2 to a maximum of x8, depending on the number of concatenated combinations achieved.\n\nGraphics and visual design\n\nFruit Case has colorful and cartoonish graphics, making it a fun and youthful game. The game grid is characterized by various fruit symbols, each with their own unique expressions. The card symbols are printed on the labels of jam jars, adding a nice touch to the game's design. The game's frame is simple but has colorful elements and fonts that resemble gummy candies.\n\nWild symbol and how it works\n\nThe Fruit Case symbol acts as the Wild symbol in the game and can replace other symbols to form winning combinations. The more concatenated wins achieved, the higher the multiplier of the Fruit Case symbol. The multiplier can reach up to x8, providing players with the opportunity to win big.\n\nSound effects and music\n\nFruit Case doesn't have any background music, but it has funny sounds that accompany various combinations during gameplay. The sounds add to the game's overall cheerful and lighthearted tone.\n\nSimilar slots in the online gaming market\n\nThere are many online slots with fruit themes in the market. Some similar slots to Fruit Case include 40 Treasure, 30 Spicy Fruits, and All Fruits. Each game has its unique style and gameplay mechanics that make them appealing to different types of players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruit Case\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and unique features\n\nFruit Case is an online slot game with a 5x3 game mechanism and 20 pay lines. The game has a unique feature where symbols involved in a winning combination are crushed, and others fall from above, giving players more winning opportunities. The Fruit Case symbol acts as the Wild symbol and can replace other symbols. The multiplier of the Fruit Case symbol increases from a minimum of x2 to a maximum of x8, depending on the number of concatenated combinations achieved.\n\nGraphics and visual design\n\nFruit Case has colorful and cartoonish graphics, making it a fun and youthful game. The game grid is characterized by various fruit symbols, each with their own unique expressions. The card symbols are printed on the labels of jam jars, adding a nice touch to the game's design. The game's frame is simple but has colorful elements and fonts that resemble gummy candies.\n\nWild symbol and how it works\n\nThe Fruit Case symbol acts as the Wild symbol in the game and can replace other symbols to form winning combinations. The more concatenated wins achieved, the higher the multiplier of the Fruit Case symbol. The multiplier can reach up to x8, providing players with the opportunity to win big.\n\nSound effects and music\n\nFruit Case doesn't have any background music, but it has funny sounds that accompany various combinations during gameplay. The sounds add to the game's overall cheerful and lighthearted tone.\n\nSimilar slots in the online gaming market\n\nThere are many online slots with fruit themes in the market. Some similar slots to Fruit Case include 40 Treasure, 30 Spicy Fruits, and All Fruits. Each game has its unique style and gameplay mechanics that make them appealing to different types of players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TJcfXsEMQNbAtF1uymcBOSQlz4v2",
+                "id": "chatcmpl-7WTGAm79wayEk1jB1EDFTswAHYnGC",
                 "object": "chat.completion",
-                "created": 1687221297,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 530,
-                    "completion_tokens": 101,
-                    "total_tokens": 631
-                },
+                "created": 1687973326,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n\"Unique crushing feature\",\n\"Wild symbol with increasing multipliers\",\n\"Funny sound effects\",\n\"Colorful and cartoonish graphics\"\n],\n\"cons\": [\n\"No background music\",\n\"Theme may not appeal to all players\"\n],\n\"meta_title\": \"Play Fruit Case slot for free | Unique crushing feature\",\n\"meta_description\": \"Read our review of Fruit Case slot and play for free. Unique crushing feature, Wild symbol with increasing multipliers and funny sound effects.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique crushing feature for more winning opportunities\",\n    \"Colorful and cartoonish graphics for a fun gaming experience\",\n    \"Wild symbol with increasing multipliers for bigger wins\",\n    \"Funny sound effects that add to the game's cheerful tone\"\n  ],\n  \"cons\": [\n    \"No background music\",\n    \"Limited number of pay lines compared to other slot games\"\n  ],\n  \"meta_title\": \"Play Fruit Case Free - Unique Features & Colorful Graphics\",\n  \"meta_description\": \"In our review of Fruit Case, discover its unique features and colorful graphics. Play this game for free today!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 527,
+                    "completion_tokens": 132,
+                    "total_tokens": 659
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruit-case.json"
+    "filename": "game_reviews/translations/fruit-case.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_01f7b135-266a-4948-b7e8-6cef3df33670_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_cc1d3cea-df81-414a-b491-891c696178ef_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_cc1d3cea-df81-414a-b491-891c696178ef_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_01f7b135-266a-4948-b7e8-6cef3df33670_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_cc1d3cea-df81-414a-b491-891c696178ef_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_01f7b135-266a-4948-b7e8-6cef3df33670_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_01f7b135-266a-4948-b7e8-6cef3df33670_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Fruit_Case_that_captur_cc1d3cea-df81-414a-b491-891c696178ef_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruit Case (Version 7).webp",
+        "game_reviews/processed_images/Fruit Case (Version 3).webp",
+        "game_reviews/processed_images/Fruit Case (Version 1).webp",
+        "game_reviews/processed_images/Fruit Case (Version 4).webp",
+        "game_reviews/processed_images/Fruit Case (Version 6).webp",
+        "game_reviews/processed_images/Fruit Case (Version 5).webp",
+        "game_reviews/processed_images/Fruit Case (Version 8).webp",
+        "game_reviews/processed_images/Fruit Case (Version 2).webp"
+    ],
+    "slug": "fruit-case",
+    "name": "Fruit Case",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruit-Case-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruit Case Free - Unique Features & Colorful Graphics' ### Meta set: 'In our review of Fruit Case, discover its unique features and colorful graphics. Play this game for free today!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

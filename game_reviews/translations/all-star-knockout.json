@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Medium-low variance with a potential of up to 4,500 times the bet",
-                    "Random Bonus Feature and 5 Multipliers",
-                    "20 active paylines that pay from left to right",
-                    "Suitable for all types of players with a bet ranging from €0.20 to €400.00"
+                    "Medium-low variance",
+                    "Potential for big rewards",
+                    "Suitable for all types of players",
+                    "Opportunity to play with real money"
                 ],
                 "cons": [
-                    "No Wild symbol",
-                    "Simple gameplay may not be appealing to some players"
+                    "No wild symbol",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play All Star Knockout Free - Exciting medium-low variance fruit slot",
-                "meta_description": "Try All Star Knockout for free with its Random Bonus feature and 5 Multipliers. With a bet range of €0.20 to €400.00, it's suitable for all players."
+                "meta_title": "Play All Star Knockout for Free",
+                "meta_description": "Read our review of All Star Knockout and play this free fruit slot with medium-low variance."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"All Star Knockout\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nAll Star Knockout is a classic free fruit slot with medium-low variance designed by Yggdrasil in cooperation with Northern Lights Gaming. It features 5 reels and 20 active paylines that pay from left to right, with a potential reward of up to 4,500 times the bet and an RTP of 96.09%. The bet ranges from €0.20 to €400.00, which offers players of all levels the opportunity to win big prizes. The game includes a Random Bonus feature, Free Spins, and 5 Multipliers.\n\nDesign and Theme\n\nThe design of All Star Knockout features black reels filled with classic fruit symbols like lemons, cherries, and lucky number 7s. The backdrop includes stars, which add a touch of elegance to the overall layout. The Prize Board under the reels displays the rewards that you can win.\n\nPaylines and RTP\n\nSince All Star Knockout has 20 active paylines that pay from left to right, players have many possibilities to obtain winning combinations. The RTP of 96.09% is above average and ensures that players have a fair chance of winning.\n\nSymbols and Payouts\n\nThe symbols in All Star Knockout are traditional fruit symbols such as cherries, oranges, lemons, plums, and different lucky number 7s colored in blue, white, and red. The KO symbol is the most lucrative icon. If three, four, or five land on a payline, the player receives 1.5, 3, or 5 times the bet, respectively. However, the game does not feature a wild symbol.\n\nVariance and Suitability for Players\n\nAll Star Knockout is a great game for players who love slots with medium-low variance. With a bet ranging from €0.20 to €400.00, the game is suitable for all types of players. Additionally, the game's features, reward potential, and opportunity to play with real money increase its appeal.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"All Star Knockout\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nAll Star Knockout is a classic free fruit slot with medium-low variance designed by Yggdrasil in cooperation with Northern Lights Gaming. It features 5 reels and 20 active paylines that pay from left to right, with a potential reward of up to 4,500 times the bet and an RTP of 96.09%. The bet ranges from €0.20 to €400.00, which offers players of all levels the opportunity to win big prizes. The game includes a Random Bonus feature, Free Spins, and 5 Multipliers.\n\nDesign and Theme\n\nThe design of All Star Knockout features black reels filled with classic fruit symbols like lemons, cherries, and lucky number 7s. The backdrop includes stars, which add a touch of elegance to the overall layout. The Prize Board under the reels displays the rewards that you can win.\n\nPaylines and RTP\n\nSince All Star Knockout has 20 active paylines that pay from left to right, players have many possibilities to obtain winning combinations. The RTP of 96.09% is above average and ensures that players have a fair chance of winning.\n\nSymbols and Payouts\n\nThe symbols in All Star Knockout are traditional fruit symbols such as cherries, oranges, lemons, plums, and different lucky number 7s colored in blue, white, and red. The KO symbol is the most lucrative icon. If three, four, or five land on a payline, the player receives 1.5, 3, or 5 times the bet, respectively. However, the game does not feature a wild symbol.\n\nVariance and Suitability for Players\n\nAll Star Knockout is a great game for players who love slots with medium-low variance. With a bet ranging from €0.20 to €400.00, the game is suitable for all types of players. Additionally, the game's features, reward potential, and opportunity to play with real money increase its appeal.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SVahlvsNUe98Hb1tWjFDoC4qdrXT",
+                "id": "chatcmpl-7WN3O6yBCbAVRJTVzdAuuCwSDFTzA",
                 "object": "chat.completion",
-                "created": 1687028975,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 586,
-                    "completion_tokens": 170,
-                    "total_tokens": 756
-                },
+                "created": 1687949470,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Medium-low variance with a potential of up to 4,500 times the bet\",\n        \"Random Bonus Feature and 5 Multipliers\",\n        \"20 active paylines that pay from left to right\",\n        \"Suitable for all types of players with a bet ranging from €0.20 to €400.00\"\n    ],\n    \"cons\": [\n        \"No Wild symbol\",\n        \"Simple gameplay may not be appealing to some players\"\n    ],\n    \"meta_title\": \"Play All Star Knockout Free - Exciting medium-low variance fruit slot\",\n    \"meta_description\": \"Try All Star Knockout for free with its Random Bonus feature and 5 Multipliers. With a bet range of €0.20 to €400.00, it's suitable for all players.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Medium-low variance\",\n    \"Potential for big rewards\",\n    \"Suitable for all types of players\",\n    \"Opportunity to play with real money\"\n  ],\n  \"cons\": [\n    \"No wild symbol\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play All Star Knockout for Free\",\n  \"meta_description\": \"Read our review of All Star Knockout and play this free fruit slot with medium-low variance.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 583,
+                    "completion_tokens": 103,
+                    "total_tokens": 686
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/all-star-knockout.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_4.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_All_Star_30f83114-d840-4f49-b1a3-a27da95285ba_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/All Star Knockout (Version 4).webp",
-        "game_reviews/processed_images/All Star Knockout (Version 2).webp",
+        "game_reviews/processed_images/All Star Knockout (Version 3).webp",
         "game_reviews/processed_images/All Star Knockout (Version 1).webp",
-        "game_reviews/processed_images/All Star Knockout (Version 3).webp"
-    ]
+        "game_reviews/processed_images/All Star Knockout (Version 2).webp"
+    ],
+    "slug": "all-star-knockout",
+    "name": "All Star Knockout",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/All-Star-Knockout-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play All Star Knockout for Free' ### Meta set: 'Read our review of All Star Knockout and play this free fruit slot with medium-low variance.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Vampire-themed with classic horror symbols",
-                    "Produced by World Match, a reputable software house",
-                    "Simple graphics without unnecessary details",
-                    "Dedicated bonus modes for different gameplay"
+                    "Vampire theme with classic horror literature elements",
+                    "Produced by World Match with a catalog of over 200 titles",
+                    "Simple graphics with clear and simple illustrations",
+                    "Includes special symbols and bonus modes for unique gameplay"
                 ],
                 "cons": [
-                    "Limited variety in graphics and symbols",
-                    "No progressive jackpot available"
+                    "Some players may prefer more detailed graphics",
+                    "Limited availability of vampire-themed slots compared to other themes"
                 ],
-                "meta_title": "Play Night Vampire HD for Free - Online Slot Review",
-                "meta_description": "Read our review of Night Vampire HD, a vampire-themed online slot game with bonus modes, produced by World Match. Play it for free and enjoy the symbols and graphics."
+                "meta_title": "Play Night Vampire HD for Free",
+                "meta_description": "Read our review of Night Vampire HD slot game and play for free. Enjoy the vampire theme and bonus modes."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Night Vampire HD\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNight Vampire HD\n\nNight Vampire HD is an online slot game with a vampire theme created by the developer World Match.\n\nVampire Theme\n\nThe game is set in a gloomy cemetery and includes classic horror literature elements that correspond to symbols, such as garlic, holy water, guns, red gems, a bat, a black horse and the vampire and its bride.\n\nWorld Match\n\nNight Vampire HD was produced by World Match, an Italian software house founded in 2000 that offers a catalog of over 200 titles and 70 different game modes.\n\nSimple Graphics\n\nThe game has a simple but not inadequate graphic component with clear and simple illustrations that include no unnecessary details or multiple shades of color.\n\nSpecial Symbols\n\nThe game includes three special symbols: the Joker symbol which is the Wild symbol that replaces all others, the bat with the Scatter symbol which allows access to the bonus mode by finding at least 5 in a single spin, and the black horse which allows access to a second bonus mode by finding at least 5 of them in a single spin.\n\nBonus Modes\n\nThanks to the presence of the dedicated bonus modes, Night Vampire's gameplay is different from other similar titles.\n\nOther Vampire-Themed Slots\n\nThere are numerous other vampire-themed slots, such as Dracula from NetEnt, which is a relatively new slot and enjoys great attention to detail and animation.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Night Vampire HD\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNight Vampire HD\n\nNight Vampire HD is an online slot game with a vampire theme created by the developer World Match.\n\nVampire Theme\n\nThe game is set in a gloomy cemetery and includes classic horror literature elements that correspond to symbols, such as garlic, holy water, guns, red gems, a bat, a black horse and the vampire and its bride.\n\nWorld Match\n\nNight Vampire HD was produced by World Match, an Italian software house founded in 2000 that offers a catalog of over 200 titles and 70 different game modes.\n\nSimple Graphics\n\nThe game has a simple but not inadequate graphic component with clear and simple illustrations that include no unnecessary details or multiple shades of color.\n\nSpecial Symbols\n\nThe game includes three special symbols: the Joker symbol which is the Wild symbol that replaces all others, the bat with the Scatter symbol which allows access to the bonus mode by finding at least 5 in a single spin, and the black horse which allows access to a second bonus mode by finding at least 5 of them in a single spin.\n\nBonus Modes\n\nThanks to the presence of the dedicated bonus modes, Night Vampire's gameplay is different from other similar titles.\n\nOther Vampire-Themed Slots\n\nThere are numerous other vampire-themed slots, such as Dracula from NetEnt, which is a relatively new slot and enjoys great attention to detail and animation.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGRjPNsUdDUgZiqS0gdR2ffazTaM",
+                "id": "chatcmpl-7WYfvTj4bRiXBhbOmz9XaMMcvVHXB",
                 "object": "chat.completion",
-                "created": 1686494103,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 450,
-                    "completion_tokens": 133,
-                    "total_tokens": 583
-                },
+                "created": 1687994143,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Vampire-themed with classic horror symbols\",\n    \"Produced by World Match, a reputable software house\",\n    \"Simple graphics without unnecessary details\",\n    \"Dedicated bonus modes for different gameplay\"\n  ],\n  \"cons\": [\n    \"Limited variety in graphics and symbols\",\n    \"No progressive jackpot available\"\n  ],\n  \"meta_title\": \"Play Night Vampire HD for Free - Online Slot Review\",\n  \"meta_description\": \"Read our review of Night Vampire HD, a vampire-themed online slot game with bonus modes, produced by World Match. Play it for free and enjoy the symbols and graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Vampire theme with classic horror literature elements\",\n    \"Produced by World Match with a catalog of over 200 titles\",\n    \"Simple graphics with clear and simple illustrations\",\n    \"Includes special symbols and bonus modes for unique gameplay\"\n  ],\n  \"cons\": [\n    \"Some players may prefer more detailed graphics\",\n    \"Limited availability of vampire-themed slots compared to other themes\"\n  ],\n  \"meta_title\": \"Play Night Vampire HD for Free\",\n  \"meta_description\": \"Read our review of Night Vampire HD slot game and play for free. Enjoy the vampire theme and bonus modes.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 447,
+                    "completion_tokens": 130,
+                    "total_tokens": 577
+                }
             }
         },
         {
@@ -962,15 +962,27 @@
     ],
     "filename": "game_reviews/translations/night-vampire-hd.json",
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_d7b77d7b-c5ad-467a-ba15-784e4e564509_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_d7b77d7b-c5ad-467a-ba15-784e4e564509_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_d7b77d7b-c5ad-467a-ba15-784e4e564509_3.png",
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_1.png",
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_2.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_3.png"
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_c2c752c3-64e8-4fd0-ac85-e782c407b258_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_d7b77d7b-c5ad-467a-ba15-784e4e564509_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Night Vampire Hd (Version 6).webp",
+        "game_reviews/processed_images/Night Vampire Hd (Version 5).webp",
+        "game_reviews/processed_images/Night Vampire Hd (Version 3).webp",
         "game_reviews/processed_images/Night Vampire Hd (Version 1).webp",
         "game_reviews/processed_images/Night Vampire Hd (Version 4).webp",
-        "game_reviews/processed_images/Night Vampire Hd (Version 3).webp",
-        "game_reviews/processed_images/Night Vampire Hd (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Night Vampire Hd (Version 2).webp",
+        "game_reviews/processed_images/Night Vampire Hd (Version 7).webp",
+        "game_reviews/processed_images/Night Vampire Hd (Version 8).webp"
+    ],
+    "slug": "night-vampire-hd",
+    "name": "Night Vampire HD",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

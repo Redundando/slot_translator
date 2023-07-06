@@ -725,40 +725,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "243 ways to win offers more chances of winning",
-                    "Two sets of wilds during free spins increases players' chances of winning",
+                    "243 ways to win",
+                    "Farmyard setting and symbols",
                     "Non-progressive jackpot of 2,000 coins",
-                    "Higher than average RTP percentage of 97.22%"
+                    "Free spins and two sets of wilds"
                 ],
                 "cons": [
-                    "Medium-volatility, so wins may not be as big as high-volatility slots",
-                    "Limited variety in symbol designs"
+                    "Medium-volatility slot",
+                    "Limited variety in symbol selection"
                 ],
-                "meta_title": "Play Golden Hen Slot Game for Free - Review",
-                "meta_description": "Read our review of Golden Hen Slot game and play for free. Features medium volatility, 243 ways to win, wild and scatter symbols, free spins, and a non-progressive jackpot."
+                "meta_title": "Play Golden Hen Online Slot Game for Free",
+                "meta_description": "Read our review of Golden Hen, a farmyard-themed slot game with free spins. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Hen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGolden Hen Slot Game\n\nGolden Hen is an online slot game developed by NextGen Gaming that features a farmyard setting with symbol filled reels and up to 243 ways to win on each spin. The game also offers a non-progressive jackpot of 2,000 coins, wild and scatter symbols, free spins and an RTP of 97.22%.\n\n243 Ways to Win\n\nThis 5-reel slot machine from NextGen Gaming has 243 fixed paylines, offering players more chances to win. The game is a medium-volatility slot, so wins are awarded frequently, but they might not be as big as in high-volatility slots.\n\nFarmyard Setting and Symbols\n\nGolden Hen features a farmyard setting with reels that resemble a chicken coop. The game symbols include chicken, chick, standard hen, egg, and feathered dreamcatcher. There are also the typical poker values of 9, 10, J, Q, K and A.\n\nNon-Progressive Jackpot of 2,000 Coins\n\nGolden Hen comes with a non-progressive jackpot of 2,000 coins, which is won when players land 5 of the standard hen symbols on adjacent reels.\n\nWild and Scatter Symbols\n\nThe wild symbol in Golden Hen is the rooster, and it substitutes for all symbols except the scatter. The scatter symbol is the golden chicken, and getting three or more of them across the reels triggers the free spins bonus.\n\nFree Spins and Two Sets of Wilds\n\nGolden Hen's free spins feature is triggered when players land three or more golden chicken symbols. During free spins, both the wild and the scatter symbols are combined into a single icon, and they activate two sets of wilds on the reels, which increases players' chances of winning. The two sets of wilds can award players a 5x multiplier if they land a 5 of a kind payline.\n\nRTP Percentage of 97.22%\n\nGolden Hen has an RTP percentage of 97.22%, which is higher than the average in the online slot game industry. This means that players can expect to receive, on average, $97.22 in winnings for every $100 they wager on this game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Hen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGolden Hen Slot Game\n\nGolden Hen is an online slot game developed by NextGen Gaming that features a farmyard setting with symbol filled reels and up to 243 ways to win on each spin. The game also offers a non-progressive jackpot of 2,000 coins, wild and scatter symbols, free spins and an RTP of 97.22%.\n\n243 Ways to Win\n\nThis 5-reel slot machine from NextGen Gaming has 243 fixed paylines, offering players more chances to win. The game is a medium-volatility slot, so wins are awarded frequently, but they might not be as big as in high-volatility slots.\n\nFarmyard Setting and Symbols\n\nGolden Hen features a farmyard setting with reels that resemble a chicken coop. The game symbols include chicken, chick, standard hen, egg, and feathered dreamcatcher. There are also the typical poker values of 9, 10, J, Q, K and A.\n\nNon-Progressive Jackpot of 2,000 Coins\n\nGolden Hen comes with a non-progressive jackpot of 2,000 coins, which is won when players land 5 of the standard hen symbols on adjacent reels.\n\nWild and Scatter Symbols\n\nThe wild symbol in Golden Hen is the rooster, and it substitutes for all symbols except the scatter. The scatter symbol is the golden chicken, and getting three or more of them across the reels triggers the free spins bonus.\n\nFree Spins and Two Sets of Wilds\n\nGolden Hen's free spins feature is triggered when players land three or more golden chicken symbols. During free spins, both the wild and the scatter symbols are combined into a single icon, and they activate two sets of wilds on the reels, which increases players' chances of winning. The two sets of wilds can award players a 5x multiplier if they land a 5 of a kind payline.\n\nRTP Percentage of 97.22%\n\nGolden Hen has an RTP percentage of 97.22%, which is higher than the average in the online slot game industry. This means that players can expect to receive, on average, $97.22 in winnings for every $100 they wager on this game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TThFECLupSXT2DO007U3JnrxoTNK",
+                "id": "chatcmpl-7WU96v6lbkaHtQWVvHcvB2gjGvdEd",
                 "object": "chat.completion",
-                "created": 1687260021,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 160,
-                    "total_tokens": 783
-                },
+                "created": 1687976732,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"243 ways to win offers more chances of winning\",\n      \"Two sets of wilds during free spins increases players' chances of winning\",\n      \"Non-progressive jackpot of 2,000 coins\",\n      \"Higher than average RTP percentage of 97.22%\"\n   ],\n   \"cons\":[\n      \"Medium-volatility, so wins may not be as big as high-volatility slots\",\n      \"Limited variety in symbol designs\"\n   ],\n   \"meta_title\":\"Play Golden Hen Slot Game for Free - Review\",\n   \"meta_description\":\"Read our review of Golden Hen Slot game and play for free. Features medium volatility, 243 ways to win, wild and scatter symbols, free spins, and a non-progressive jackpot.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"243 ways to win\",\n    \"Farmyard setting and symbols\",\n    \"Non-progressive jackpot of 2,000 coins\",\n    \"Free spins and two sets of wilds\"\n  ],\n  \"cons\": [\n    \"Medium-volatility slot\",\n    \"Limited variety in symbol selection\"\n  ],\n  \"meta_title\": \"Play Golden Hen Online Slot Game for Free\",\n  \"meta_description\": \"Read our review of Golden Hen, a farmyard-themed slot game with free spins. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 620,
+                    "completion_tokens": 114,
+                    "total_tokens": 734
+                }
             }
         },
         {
@@ -957,5 +957,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-hen.json"
+    "filename": "game_reviews/translations/golden-hen.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_cartoon-style_image_for_Golden_Hen_featurin_ccc80044-0895-4b63-b684-9a1510efb387_3.png",
+        "arved__Create_a_fun_cartoon-style_image_for_Golden_Hen_featurin_ccc80044-0895-4b63-b684-9a1510efb387_1.png",
+        "arved__Create_a_fun_cartoon-style_image_for_Golden_Hen_featurin_ccc80044-0895-4b63-b684-9a1510efb387_2.png",
+        "arved__Create_a_fun_cartoon-style_image_for_Golden_Hen_featurin_ccc80044-0895-4b63-b684-9a1510efb387_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Hen (Version 3).webp",
+        "game_reviews/processed_images/Golden Hen (Version 1).webp",
+        "game_reviews/processed_images/Golden Hen (Version 4).webp",
+        "game_reviews/processed_images/Golden Hen (Version 2).webp"
+    ],
+    "slug": "golden-hen",
+    "name": "Golden Hen",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Hen-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Hen Online Slot Game for Free' ### Meta set: 'Read our review of Golden Hen, a farmyard-themed slot game with free spins. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cluster Pays system offers exciting gameplay",
+                    "Exciting cluster pays system for unique gameplay",
                     "High-quality graphics and animations",
                     "Wide range of betting options",
-                    "High maximum jackpot potential"
+                    "High potential jackpot"
                 ],
                 "cons": [
-                    "High volatility can be risky for some players",
-                    "No free spins feature"
+                    "High volatility may not suit all players",
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play Gustav Minebuster for Free - Exciting Cluster Pays Slot",
-                "meta_description": "Read our review of Gustav Minebuster, a high-quality online slot game with cluster pays and high volatility. Play for free and experience the excitement!"
+                "meta_title": "Play Gustav Minebuster for Free - Review and Features",
+                "meta_description": "Discover the exciting gameplay and high potential rewards of Gustav Minebuster. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gustav Minebuster\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nGustav Minebuster is an 8x8-reel slot game with up to 64 symbols. It boasts cascading reels, wild symbols, re-spins, multipliers, and more. One of the key features of this game is its Cluster Pays system. The game uses a cluster system instead of paylines to determine wins, meaning that you need to land a cluster of 5 or more matching symbols to trigger a payout. The game also has an RTP of 95.30%, which is considered fairly high for online slots.\n\nVolatility\n\nGustav Minebuster is a high volatility slot game. This means that the game is designed to pay out big wins, but less frequently. You can expect to experience long runs of spins without wins, punctuated by large payouts or bonus features. As with all high-volatility slot games, Gustav Minebuster is best suited to experienced players who are comfortable with higher risks and higher potential rewards.\n\nGraphics\n\nGustav Minebuster features exceptional graphics and animations, bringing the game's mining theme to life with rich, vibrant colors and detailed graphics. The game's symbols include different types of gems that you might expect to find in a mine, as well as Gustav himself as the wild symbol. The game also has a fitting backing soundtrack that adapts to the different stages of the game.\n\nBet Options\n\nPlayers can place their bets on Gustav Minebuster by using 20 coins, with the option to adjust the coin value to set the desired total bet size. The minimum bet is €0.20, while the maximum bet is €20.00. This wide range of betting options makes Gustav Minebuster a game suited to both casual players and high rollers.\n\nPayouts and Jackpot\n\nGustav Minebuster has a maximum jackpot of 20,000 times your bet or up to €400,000. This potential payout makes Gustav Minebuster a high-risk, high-reward game with enormous potential. Players can increase their chances of winning big by aiming for the game's cluster system and trying to land the game's bonus features. The game offers various features that can increase your payout, including cascading reels, wild symbols, re-spins, multipliers, and the Dynamite Explosive Wins feature.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gustav Minebuster\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nGustav Minebuster is an 8x8-reel slot game with up to 64 symbols. It boasts cascading reels, wild symbols, re-spins, multipliers, and more. One of the key features of this game is its Cluster Pays system. The game uses a cluster system instead of paylines to determine wins, meaning that you need to land a cluster of 5 or more matching symbols to trigger a payout. The game also has an RTP of 95.30%, which is considered fairly high for online slots.\n\nVolatility\n\nGustav Minebuster is a high volatility slot game. This means that the game is designed to pay out big wins, but less frequently. You can expect to experience long runs of spins without wins, punctuated by large payouts or bonus features. As with all high-volatility slot games, Gustav Minebuster is best suited to experienced players who are comfortable with higher risks and higher potential rewards.\n\nGraphics\n\nGustav Minebuster features exceptional graphics and animations, bringing the game's mining theme to life with rich, vibrant colors and detailed graphics. The game's symbols include different types of gems that you might expect to find in a mine, as well as Gustav himself as the wild symbol. The game also has a fitting backing soundtrack that adapts to the different stages of the game.\n\nBet Options\n\nPlayers can place their bets on Gustav Minebuster by using 20 coins, with the option to adjust the coin value to set the desired total bet size. The minimum bet is €0.20, while the maximum bet is €20.00. This wide range of betting options makes Gustav Minebuster a game suited to both casual players and high rollers.\n\nPayouts and Jackpot\n\nGustav Minebuster has a maximum jackpot of 20,000 times your bet or up to €400,000. This potential payout makes Gustav Minebuster a high-risk, high-reward game with enormous potential. Players can increase their chances of winning big by aiming for the game's cluster system and trying to land the game's bonus features. The game offers various features that can increase your payout, including cascading reels, wild symbols, re-spins, multipliers, and the Dynamite Explosive Wins feature.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TnvxyTW7JZJJPCiHVBCcOz8tz0Qv",
+                "id": "chatcmpl-7WUSEitYSoSxp4lJpOFScv57grlCj",
                 "object": "chat.completion",
-                "created": 1687337813,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687977918,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Cluster Pays system offers exciting gameplay\",\n        \"High-quality graphics and animations\",\n        \"Wide range of betting options\",\n        \"High maximum jackpot potential\"\n    ],\n    \"cons\": [\n        \"High volatility can be risky for some players\",\n        \"No free spins feature\"\n    ],\n    \"meta_title\": \"Play Gustav Minebuster for Free - Exciting Cluster Pays Slot\",\n    \"meta_description\": \"Read our review of Gustav Minebuster, a high-quality online slot game with cluster pays and high volatility. Play for free and experience the excitement!\" \n}"
+                            "content": "{ \"pros\": [ \n  \"Exciting cluster pays system for unique gameplay\",\n  \"High-quality graphics and animations\",\n  \"Wide range of betting options\",\n  \"High potential jackpot\"],\n  \"cons\": [\n  \"High volatility may not suit all players\",\n  \"Limited bonus features\"],\n  \"meta_title\": \"Play Gustav Minebuster for Free - Review and Features\",\n  \"meta_description\": \"Discover the exciting gameplay and high potential rewards of Gustav Minebuster. Play for free!\" }"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 647,
-                    "completion_tokens": 124,
-                    "total_tokens": 771
+                    "prompt_tokens": 644,
+                    "completion_tokens": 104,
+                    "total_tokens": 748
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/gustav-minebuster.json",
+    "raw_feature_images": [
+        "arved__Can_you_please_provide_more_information_about_the_visual_9acd5aeb-3818-4870-b406-4809d7bd9fb9_1.png",
+        "arved__Can_you_please_provide_more_information_about_the_visual_9acd5aeb-3818-4870-b406-4809d7bd9fb9_2.png",
+        "arved__Can_you_please_provide_more_information_about_the_visual_9acd5aeb-3818-4870-b406-4809d7bd9fb9_3.png",
+        "arved__Can_you_please_provide_more_information_about_the_visual_9acd5aeb-3818-4870-b406-4809d7bd9fb9_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gustav Minebuster (Version 2).webp",
+        "game_reviews/processed_images/Gustav Minebuster (Version 1).webp",
+        "game_reviews/processed_images/Gustav Minebuster (Version 3).webp",
+        "game_reviews/processed_images/Gustav Minebuster (Version 4).webp"
+    ],
+    "slug": "gustav-minebuster",
+    "name": "Gustav Minebuster",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gustav-Minebuster-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gustav Minebuster for Free - Review and Features' ### Meta set: 'Discover the exciting gameplay and high potential rewards of Gustav Minebuster. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

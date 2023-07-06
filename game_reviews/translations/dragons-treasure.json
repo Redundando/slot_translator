@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "High RTP of 96%",
-                    "Dragon symbol serves as both Wild and Scatter",
-                    "Free spins feature with expanding symbol",
-                    "Players can choose their own strategy"
+                    "Wild and Scatter symbol offers various opportunities",
+                    "Ability to choose symbols during free spins",
+                    "Simple and easy-to-understand gameplay mechanics"
                 ],
                 "cons": [
-                    "Only five winning lines",
-                    "Graphics may appear dated"
+                    "Graphics may appear dated",
+                    "Limited number of winning lines"
                 ],
-                "meta_title": "Play Dragon's Treasure for Free - Slot Game Review",
-                "meta_description": "Discover Dragon's Treasure, a 5x3 slot game with high RTP, wild and scatter symbols, and a free spins feature. Play for free and read our review."
+                "meta_title": "Play Dragon's Treasure for Free - Exciting Gameplay and Features",
+                "meta_description": "Play Dragon's Treasure for free and experience the high RTP, wild and scatter symbols, and thrilling free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon’s Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon's Treasure - Gameplay mechanics and features\n\nDragon's Treasure is a 5x3 slot game with only five winning lines. The RTP of 96% is relatively high compared to the average. The game's most important symbol is the dragon, which is both the Wild symbol and the Scatter symbol. It replaces the other symbols in the game and allows us to access free spins. During the free spins, players have to select a symbol that will expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type. Players can choose to target rarer and more valuable symbols or go for more common but less rich symbols based on their own strategy.\n\nDragon's Treasure - Theme and graphics\n\nDragon's Treasure is set in a desolate forest, depicted by simple graphics with a light yellowish color and small decorations. The symbols range from the playing cards (A, K, Q, J) to characters and objects, such as two knights, the golden hilt of a sword, and the chest containing the dragon's treasure. The game also uses 3D models, but the graphics may appear dated when compared to the 3D models commonly available today.\n\nDragon's Treasure - Symbols and their significance\n\nThe symbols of Dragon's Treasure are divided between playing cards (A, K, Q, J) and more particular symbols represented by two knights, the golden hilt of a sword, and the chest containing the dragon's treasure. Of these symbols, the dragon has the most significance. It is both the Wild symbol that can replace other symbols and the Scatter symbol that allows players to access free spins. During the free spins, a symbol is selected to expand to the whole reel after each spin. Players can choose to target rarer and more valuable symbols or go for more common but less rich ones based on their own strategy.\n\nDragon's Treasure - Wild and Scatter symbols\n\nThe dragon is both the Wild symbol and the Scatter symbol in Dragon's Treasure. As a Wild symbol, it can replace other symbols in the game, and as a Scatter symbol, it allows players to access free spins. During free spins, players have to select a symbol that will expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type.\n\nDragon's Treasure - Free spins and bonus rounds\n\nDragon's Treasure features free spins that are triggered by the Scatter symbol, the dragon. At the beginning of the free spins, a symbol is selected to expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type. Players can choose to target rarer and more valuable symbols or go for more common but less rich ones based on their own strategy.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon’s Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon's Treasure - Gameplay mechanics and features\n\nDragon's Treasure is a 5x3 slot game with only five winning lines. The RTP of 96% is relatively high compared to the average. The game's most important symbol is the dragon, which is both the Wild symbol and the Scatter symbol. It replaces the other symbols in the game and allows us to access free spins. During the free spins, players have to select a symbol that will expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type. Players can choose to target rarer and more valuable symbols or go for more common but less rich symbols based on their own strategy.\n\nDragon's Treasure - Theme and graphics\n\nDragon's Treasure is set in a desolate forest, depicted by simple graphics with a light yellowish color and small decorations. The symbols range from the playing cards (A, K, Q, J) to characters and objects, such as two knights, the golden hilt of a sword, and the chest containing the dragon's treasure. The game also uses 3D models, but the graphics may appear dated when compared to the 3D models commonly available today.\n\nDragon's Treasure - Symbols and their significance\n\nThe symbols of Dragon's Treasure are divided between playing cards (A, K, Q, J) and more particular symbols represented by two knights, the golden hilt of a sword, and the chest containing the dragon's treasure. Of these symbols, the dragon has the most significance. It is both the Wild symbol that can replace other symbols and the Scatter symbol that allows players to access free spins. During the free spins, a symbol is selected to expand to the whole reel after each spin. Players can choose to target rarer and more valuable symbols or go for more common but less rich ones based on their own strategy.\n\nDragon's Treasure - Wild and Scatter symbols\n\nThe dragon is both the Wild symbol and the Scatter symbol in Dragon's Treasure. As a Wild symbol, it can replace other symbols in the game, and as a Scatter symbol, it allows players to access free spins. During free spins, players have to select a symbol that will expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type.\n\nDragon's Treasure - Free spins and bonus rounds\n\nDragon's Treasure features free spins that are triggered by the Scatter symbol, the dragon. At the beginning of the free spins, a symbol is selected to expand to the whole reel after each spin, and the winnings depend on the number of symbols obtained of that type. Players can choose to target rarer and more valuable symbols or go for more common but less rich ones based on their own strategy.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T8RdUvv3uesIOvCoSeIK28piKJHO",
+                "id": "chatcmpl-7WRnuBaz5dbgCIQ9pQ0G7RSSTozSq",
                 "object": "chat.completion",
-                "created": 1687178329,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 732,
-                    "completion_tokens": 127,
-                    "total_tokens": 859
-                },
+                "created": 1687967730,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 96%\",\n        \"Dragon symbol serves as both Wild and Scatter\",\n        \"Free spins feature with expanding symbol\",\n        \"Players can choose their own strategy\"\n    ],\n    \"cons\": [\n        \"Only five winning lines\",\n        \"Graphics may appear dated\"\n    ],\n    \"meta_title\": \"Play Dragon's Treasure for Free - Slot Game Review\",\n    \"meta_description\": \"Discover Dragon's Treasure, a 5x3 slot game with high RTP, wild and scatter symbols, and a free spins feature. Play for free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High RTP of 96%\",\n    \"Wild and Scatter symbol offers various opportunities\",\n    \"Ability to choose symbols during free spins\",\n    \"Simple and easy-to-understand gameplay mechanics\"\n  ],\n  \"cons\": [\n    \"Graphics may appear dated\",\n    \"Limited number of winning lines\"\n  ],\n  \"meta_title\": \"Play Dragon's Treasure for Free - Exciting Gameplay and Features\",\n  \"meta_description\": \"Play Dragon's Treasure for free and experience the high RTP, wild and scatter symbols, and thrilling free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 729,
+                    "completion_tokens": 118,
+                    "total_tokens": 847
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_1.png",
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_2.png",
         "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_3.png",
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_4.png"
+        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_1.png",
+        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_4.png",
+        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Dragons Treasure (Version 3).webp",
-        "game_reviews/processed_images/Dragons Treasure (Version 2).webp",
         "game_reviews/processed_images/Dragons Treasure (Version 4).webp",
-        "game_reviews/processed_images/Dragons Treasure (Version 1).webp"
+        "game_reviews/processed_images/Dragons Treasure (Version 1).webp",
+        "game_reviews/processed_images/Dragons Treasure (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/dragons-treasure.json"
+    "filename": "game_reviews/translations/dragons-treasure.json",
+    "slug": "dragons-treasure",
+    "name": "Dragon’s Treasure",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragons-Treasure-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon's Treasure for Free - Exciting Gameplay and Features' ### Meta set: 'Play Dragon's Treasure for free and experience the high RTP, wild and scatter symbols, and thrilling free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

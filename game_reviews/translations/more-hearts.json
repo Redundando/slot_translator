@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free to play without registration",
-                    "Unique bonus features",
-                    "Additional paylines option to increase chances of winning",
-                    "Popularity among Aristocrat's slot games"
+                    "Wide range of bonus features",
+                    "Unique theme and symbols",
+                    "Option to increase paylines for more chances to win",
+                    "Available to play for free"
                 ],
                 "cons": [
-                    "Limited variety in symbols",
-                    "No progressive jackpot"
+                    "Limited number of free spins in the bonus round",
+                    "Graphics and animations could be more modern"
                 ],
-                "meta_title": "Play More Hearts Slot Game Free - Review & Bonus Features",
-                "meta_description": "Experience More Hearts slot game for free without registration. Read our review of the bonus features and gameplay to play for a chance to win big."
+                "meta_title": "Play More Hearts Slot Online for Free",
+                "meta_description": "Read our review of More Hearts slot game and play for free to experience its unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"More Hearts\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay of More Hearts\n\nThe More Hearts online slot game has 5 reels and 25 paylines, which can be increased to 30 paylines with the +5 option. This feature is also present in the More Chilli slot game by Aristocrat. The game is available without registration and can be played for free.\n\nSymbols\n\nThe symbols in the More Hearts slot game include the standard playing card icons (8, 9, 10, J, Q, K, and Ace), the Scatter symbol (Machine Logo), and several Wild icons, such as the Yellow Rose, Butterflies, Leopards, and Diamond.\n\nBonus Features\n\nThe More Hearts Bonus Round is triggered by landing 3 or more Scatters, which will award 15 free spins. If the extra paylines are selected, the screen will be divided into four parts with two games starting simultaneously. In addition, if 9 hearts are obtained in the free spins rounds in quick succession, four games with free spins are activated.\n\nPaylines\n\nThe More Hearts online slot game has 25 paylines by default, but the player can choose to activate the +5 paylines option to increase the paylines to 30. This feature is recommended as it increases the RTP and gives the player more chances to win.\n\nPopularity\n\nMore Hearts is a popular online slot game developed by Aristocrat. It is also available in land-based casinos and has gained a solid fan base thanks to its unique theme and rewarding bonus features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"More Hearts\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay of More Hearts\n\nThe More Hearts online slot game has 5 reels and 25 paylines, which can be increased to 30 paylines with the +5 option. This feature is also present in the More Chilli slot game by Aristocrat. The game is available without registration and can be played for free.\n\nSymbols\n\nThe symbols in the More Hearts slot game include the standard playing card icons (8, 9, 10, J, Q, K, and Ace), the Scatter symbol (Machine Logo), and several Wild icons, such as the Yellow Rose, Butterflies, Leopards, and Diamond.\n\nBonus Features\n\nThe More Hearts Bonus Round is triggered by landing 3 or more Scatters, which will award 15 free spins. If the extra paylines are selected, the screen will be divided into four parts with two games starting simultaneously. In addition, if 9 hearts are obtained in the free spins rounds in quick succession, four games with free spins are activated.\n\nPaylines\n\nThe More Hearts online slot game has 25 paylines by default, but the player can choose to activate the +5 paylines option to increase the paylines to 30. This feature is recommended as it increases the RTP and gives the player more chances to win.\n\nPopularity\n\nMore Hearts is a popular online slot game developed by Aristocrat. It is also available in land-based casinos and has gained a solid fan base thanks to its unique theme and rewarding bonus features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UCMxx3SYhb4rPRz4TrimUTxOHGGN",
+                "id": "chatcmpl-7WYAZfM2CMpljdiGh2PUy49RRUc4Z",
                 "object": "chat.completion",
-                "created": 1687431743,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992199,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free to play without registration\",\n        \"Unique bonus features\",\n        \"Additional paylines option to increase chances of winning\",\n        \"Popularity among Aristocrat's slot games\"\n    ],\n    \"cons\": [\n        \"Limited variety in symbols\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play More Hearts Slot Game Free - Review & Bonus Features\",\n    \"meta_description\": \"Experience More Hearts slot game for free without registration. Read our review of the bonus features and gameplay to play for a chance to win big.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Wide range of bonus features\",\n    \"Unique theme and symbols\",\n    \"Option to increase paylines for more chances to win\",\n    \"Available to play for free\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins in the bonus round\",\n    \"Graphics and animations could be more modern\"\n  ],\n  \"meta_title\": \"Play More Hearts Slot Online for Free\",\n  \"meta_description\": \"Read our review of More Hearts slot game and play for free to experience its unique features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 479,
-                    "completion_tokens": 120,
-                    "total_tokens": 599
+                    "prompt_tokens": 476,
+                    "completion_tokens": 113,
+                    "total_tokens": 589
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/more-hearts.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_and_exciting_feature_image_in_cartoon_style_6daf9b9f-c89a-4fa9-abe4-e46c643fe124_4.png",
+        "arved__Create_a_fun_and_exciting_feature_image_in_cartoon_style_6daf9b9f-c89a-4fa9-abe4-e46c643fe124_1.png",
+        "arved__Create_a_fun_and_exciting_feature_image_in_cartoon_style_6daf9b9f-c89a-4fa9-abe4-e46c643fe124_3.png",
+        "arved__Create_a_fun_and_exciting_feature_image_in_cartoon_style_6daf9b9f-c89a-4fa9-abe4-e46c643fe124_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/More Hearts (Version 2).webp",
+        "game_reviews/processed_images/More Hearts (Version 3).webp",
+        "game_reviews/processed_images/More Hearts (Version 4).webp",
+        "game_reviews/processed_images/More Hearts (Version 1).webp"
+    ],
+    "slug": "more-hearts",
+    "name": "More Hearts",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/More-Hearts-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play More Hearts Slot Online for Free' ### Meta set: 'Read our review of More Hearts slot game and play for free to experience its unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

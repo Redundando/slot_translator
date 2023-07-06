@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Enchanting ancient Egyptian theme",
-                    "Stunningly detailed graphics and visuals",
-                    "Several bonus features for exciting gameplay",
-                    "Potential for big wins"
+                    "Enchanting design and stunning graphics",
+                    "Exciting bonus features and mini-games",
+                    "High potential payouts",
+                    "Thrilling slot experience"
                 ],
                 "cons": [
-                    "Moderately low RTP at around 95.30%",
-                    "Moderate volatility level"
+                    "Moderately low RTP",
+                    "Moderate volatility"
                 ],
-                "meta_title": "Play Mother of Horus Free - Exciting Ancient Egyptian Slot",
-                "meta_description": "Read our review of Mother of Horus, an exciting online video slot with free play. Enjoy the enchanting ancient Egyptian theme and potential for big wins."
+                "meta_title": "Play Mother of Horus Free - Exciting Gameplay and Stunning Design",
+                "meta_description": "Experience the thrill of Mother of Horus with its enchanting design and exciting gameplay. Play for free now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mother of Horus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nThe gameplay of Mother of Horus is based on ancient Egyptian mythology and features 5 reels, 3 rows, and 20 paylines. The game has two wild symbols, Isis and Nudge Wild as Scarab. The primary feature is the prize bar positioned above the reels and divided into 5 parts, one for each reel, which offers Free Spins, a cash prize, or the Mini Roulette with a jackpot. The game also has a Free Spins round activated by landing Isis on the reel marked with the Free Spins sign.\n\nDesign and Graphics\n\nMother of Horus has an enchanting design, featuring an ancient tomb as the main scene, adorned with hieroglyphics, and torches lining the passageways. The visuals and symbols showcase classic Egyptian architecture and characters such as pyramids, temples, Horus, and Osiris. The game's graphics are stunningly detailed, and the soundtrack is haunting with sounds of the wind blowing through the secret passages.\n\nJackpots and Bonuses\n\nMother of Horus offers several bonus features, including Isis Wilds, Wild Nudge, Free Spins, and the Destiny Roulette mini-game. The Destiny Roulette mini-game is activated by wilds, and players have the chance to win a mini prize of 15x, a lesser one of 35x, a greater one of 100x, and a Grand prize of 500x the bet. The RTP for this game is moderately low at around 95.30%, and the payouts can go up to 2,500 times the bet.\n\nPaytable and Symbols\n\nMother of Horus offers several symbols representing the classic protagonists of Ancient Egyptian slots, including pyramids, temples, Horus, Osiris, and Royals. The game also features two Wild symbols, Isis, and Nudge Wild as Scarab, which replace all other symbols and create winning combinations.\n\nPersonal Opinion and Recommendation\n\nMother of Horus is one of the best games by Red Rake available in virtual libraries of video slots. The game's design is superb, and the creative and exciting features offer players excellent payouts. Although the RTP is somewhat low and the volatility is at the moderate level, the game is still worth giving a shot to those looking for a thrilling slot experience. Overall, Mother of Horus is a game that offers exciting gameplay, stunning design, and potential for big wins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mother of Horus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nThe gameplay of Mother of Horus is based on ancient Egyptian mythology and features 5 reels, 3 rows, and 20 paylines. The game has two wild symbols, Isis and Nudge Wild as Scarab. The primary feature is the prize bar positioned above the reels and divided into 5 parts, one for each reel, which offers Free Spins, a cash prize, or the Mini Roulette with a jackpot. The game also has a Free Spins round activated by landing Isis on the reel marked with the Free Spins sign.\n\nDesign and Graphics\n\nMother of Horus has an enchanting design, featuring an ancient tomb as the main scene, adorned with hieroglyphics, and torches lining the passageways. The visuals and symbols showcase classic Egyptian architecture and characters such as pyramids, temples, Horus, and Osiris. The game's graphics are stunningly detailed, and the soundtrack is haunting with sounds of the wind blowing through the secret passages.\n\nJackpots and Bonuses\n\nMother of Horus offers several bonus features, including Isis Wilds, Wild Nudge, Free Spins, and the Destiny Roulette mini-game. The Destiny Roulette mini-game is activated by wilds, and players have the chance to win a mini prize of 15x, a lesser one of 35x, a greater one of 100x, and a Grand prize of 500x the bet. The RTP for this game is moderately low at around 95.30%, and the payouts can go up to 2,500 times the bet.\n\nPaytable and Symbols\n\nMother of Horus offers several symbols representing the classic protagonists of Ancient Egyptian slots, including pyramids, temples, Horus, Osiris, and Royals. The game also features two Wild symbols, Isis, and Nudge Wild as Scarab, which replace all other symbols and create winning combinations.\n\nPersonal Opinion and Recommendation\n\nMother of Horus is one of the best games by Red Rake available in virtual libraries of video slots. The game's design is superb, and the creative and exciting features offer players excellent payouts. Although the RTP is somewhat low and the volatility is at the moderate level, the game is still worth giving a shot to those looking for a thrilling slot experience. Overall, Mother of Horus is a game that offers exciting gameplay, stunning design, and potential for big wins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UCYZwr6MFpBTN05zNGltVGLrymZB",
+                "id": "chatcmpl-7WYCLH3UZlhD8jODCjU1MlpqySycM",
                 "object": "chat.completion",
-                "created": 1687432463,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992309,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Enchanting ancient Egyptian theme\",\n        \"Stunningly detailed graphics and visuals\",\n        \"Several bonus features for exciting gameplay\",\n        \"Potential for big wins\"\n    ],\n    \"cons\": [\n        \"Moderately low RTP at around 95.30%\",\n        \"Moderate volatility level\"\n    ],\n    \"meta_title\": \"Play Mother of Horus Free - Exciting Ancient Egyptian Slot\",\n    \"meta_description\": \"Read our review of Mother of Horus, an exciting online video slot with free play. Enjoy the enchanting ancient Egyptian theme and potential for big wins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Enchanting design and stunning graphics\",\n    \"Exciting bonus features and mini-games\",\n    \"High potential payouts\",\n    \"Thrilling slot experience\"\n  ],\n  \"cons\": [\n    \"Moderately low RTP\",\n    \"Moderate volatility\"\n  ],\n  \"meta_title\": \"Play Mother of Horus Free - Exciting Gameplay and Stunning Design\",\n  \"meta_description\": \"Experience the thrill of Mother of Horus with its enchanting design and exciting gameplay. Play for free now.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 666,
-                    "completion_tokens": 129,
-                    "total_tokens": 795
+                    "prompt_tokens": 663,
+                    "completion_tokens": 112,
+                    "total_tokens": 775
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mother-of-horus.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mother_o_9500f0ef-1ac7-417c-a87d-9f1d917c0788_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mother_o_9500f0ef-1ac7-417c-a87d-9f1d917c0788_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mother_o_9500f0ef-1ac7-417c-a87d-9f1d917c0788_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mother_o_9500f0ef-1ac7-417c-a87d-9f1d917c0788_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mother Of Horus (Version 2).webp",
+        "game_reviews/processed_images/Mother Of Horus (Version 4).webp",
+        "game_reviews/processed_images/Mother Of Horus (Version 1).webp",
+        "game_reviews/processed_images/Mother Of Horus (Version 3).webp"
+    ],
+    "slug": "mother-of-horus",
+    "name": "Mother of Horus",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mother-Of-Horus-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mother of Horus Free - Exciting Gameplay and Stunning Design' ### Meta set: 'Experience the thrill of Mother of Horus with its enchanting design and exciting gameplay. Play for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

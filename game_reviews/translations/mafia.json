@@ -728,39 +728,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "User-friendly betting system",
-                    "Bet-both-ways option",
-                    "Engaging gambling feature",
-                    "Simple yet engaging graphics"
+                    "Engaging graphics with interesting aesthetic",
+                    "User-friendly betting system for all players",
+                    "Bet-both-ways option for increased winning potential",
+                    "Exciting gambling feature for additional thrills"
                 ],
                 "cons": [
-                    "Lack of bonus features compared to other slots",
-                    "Scatter bonus payout is not very high"
+                    "Limited bonus features compared to other slot games",
+                    "Scatter payout is not very substantial"
                 ],
-                "meta_title": "Play Mafia Free - Novomatic Slot Review",
-                "meta_description": "Read our review of Mafia, a simple yet engaging slot game by Novomatic. Play for free and explore similar games like Chicago Gangsters and The Untouchables."
+                "meta_title": "Play Mafia Slot Game Free - Engaging Graphics & Exciting Features",
+                "meta_description": "Read our review of Mafia, an engaging slot game with exciting features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mafia\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nNovomatic has created Mafia, a simple yet engaging slot game. It features symbols like money bundles, fedoras, dice, guns, sunglasses, diamonds, and bullets, which blend together to create an interesting aesthetic. The scatter symbol, a silver 'M,' complements the other symbols well.\n\nBetting System\n\nThis game has a user-friendly betting system for both novice and experienced slot machine users. You can choose your bet depending on how many of the ten paylines you intend to bet on, how much you want to bet per line up to a maximum of 10, and the credits' value. This simple betting ribbon is located at the bottom of the reels. The minimum bet is one credit, while the maximum bet is 100 credits.\n\nBet Both Ways\n\nOne of the Mafia slot game's most impressive features is the bet-both-ways option. It doesn't matter whether winning symbols appear from left to right on the reels or vice versa; you'll still receive payouts.\n\nScatter Payout\n\nPlayers can earn scatter bonuses by landing three or more scatter symbols, represented by a silver 'M,' anywhere on the reels. While the payoff isn't huge, the explosion animation associated with it adds to the game's excitement.\n\nGambling Feature\n\nThe Mafia online slot game includes just one bonus feature: the gambling feature. This traditional slot game feature allows you to play a simple game of red or black. If you succeed in selecting the correct card in the sequence, your earnings are doubled. You can claim your reward and end the mini-game or risk it all again to double it several times over.\n\nBonus Features\n\nMafia slots have relatively few bonus features compared to other slot games. However, the features provided are enough for players to enjoy the game fully. The betting system, scatter payout, bet-both-ways option, and gambling feature are all engaging and entertaining.\n\nSimilar Games\n\nSuppose you enjoyed playing Mafia slots and would like to explore similar games. In that case, you could try playing the Chicago Gangsters slot game produced by Playson and The Untouchables by Betsson Group. Both games feature the prohibition era and the world of organized crime in Chicago. They provide exciting bonus features that Mafia slots lack but still maintain the simplicity and exciting graphics of Mafia slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mafia\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nNovomatic has created Mafia, a simple yet engaging slot game. It features symbols like money bundles, fedoras, dice, guns, sunglasses, diamonds, and bullets, which blend together to create an interesting aesthetic. The scatter symbol, a silver 'M,' complements the other symbols well.\n\nBetting System\n\nThis game has a user-friendly betting system for both novice and experienced slot machine users. You can choose your bet depending on how many of the ten paylines you intend to bet on, how much you want to bet per line up to a maximum of 10, and the credits' value. This simple betting ribbon is located at the bottom of the reels. The minimum bet is one credit, while the maximum bet is 100 credits.\n\nBet Both Ways\n\nOne of the Mafia slot game's most impressive features is the bet-both-ways option. It doesn't matter whether winning symbols appear from left to right on the reels or vice versa; you'll still receive payouts.\n\nScatter Payout\n\nPlayers can earn scatter bonuses by landing three or more scatter symbols, represented by a silver 'M,' anywhere on the reels. While the payoff isn't huge, the explosion animation associated with it adds to the game's excitement.\n\nGambling Feature\n\nThe Mafia online slot game includes just one bonus feature: the gambling feature. This traditional slot game feature allows you to play a simple game of red or black. If you succeed in selecting the correct card in the sequence, your earnings are doubled. You can claim your reward and end the mini-game or risk it all again to double it several times over.\n\nBonus Features\n\nMafia slots have relatively few bonus features compared to other slot games. However, the features provided are enough for players to enjoy the game fully. The betting system, scatter payout, bet-both-ways option, and gambling feature are all engaging and entertaining.\n\nSimilar Games\n\nSuppose you enjoyed playing Mafia slots and would like to explore similar games. In that case, you could try playing the Chicago Gangsters slot game produced by Playson and The Untouchables by Betsson Group. Both games feature the prohibition era and the world of organized crime in Chicago. They provide exciting bonus features that Mafia slots lack but still maintain the simplicity and exciting graphics of Mafia slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4NhsjjMGhCmPUmuSxZW25g2SuF3",
+                "id": "chatcmpl-7WX01Qi8R02PCpmkuaZewW4TxVPXR",
                 "object": "chat.completion",
-                "created": 1687401037,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987701,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"User-friendly betting system\",\n        \"Bet-both-ways option\",\n        \"Engaging gambling feature\",\n        \"Simple yet engaging graphics\"\n    ],\n    \"cons\": [\n        \"Lack of bonus features compared to other slots\",\n        \"Scatter bonus payout is not very high\"\n    ],\n    \"meta_title\": \"Play Mafia Free - Novomatic Slot Review\",\n    \"meta_description\": \"Read our review of Mafia, a simple yet engaging slot game by Novomatic. Play for free and explore similar games like Chicago Gangsters and The Untouchables.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging graphics with interesting aesthetic\",\n    \"User-friendly betting system for all players\",\n    \"Bet-both-ways option for increased winning potential\",\n    \"Exciting gambling feature for additional thrills\"\n  ],\n  \"cons\": [\n    \"Limited bonus features compared to other slot games\",\n    \"Scatter payout is not very substantial\"\n  ],\n  \"meta_title\": \"Play Mafia Slot Game Free - Engaging Graphics & Exciting Features\",\n  \"meta_description\": \"Read our review of Mafia, an engaging slot game with exciting features. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 641,
+                    "prompt_tokens": 638,
                     "completion_tokens": 125,
-                    "total_tokens": 766
+                    "total_tokens": 763
                 }
             }
         },
@@ -959,5 +959,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mafia.json",
+    "raw_feature_images": [
+        "arved__Please_design_a_cartoon-style_feature_image_of_a_Maya_wa_43263efc-b37b-4401-834d-644851a22ed5_1.png",
+        "arved__Please_design_a_cartoon-style_feature_image_of_a_Maya_wa_43263efc-b37b-4401-834d-644851a22ed5_3.png",
+        "arved__Please_design_a_cartoon-style_feature_image_of_a_Maya_wa_43263efc-b37b-4401-834d-644851a22ed5_2.png",
+        "arved__Please_design_a_cartoon-style_feature_image_of_a_Maya_wa_43263efc-b37b-4401-834d-644851a22ed5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mafia (Version 2).webp",
+        "game_reviews/processed_images/Mafia (Version 4).webp",
+        "game_reviews/processed_images/Mafia (Version 1).webp",
+        "game_reviews/processed_images/Mafia (Version 3).webp"
+    ],
+    "slug": "mafia",
+    "name": "Mafia",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mafia-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mafia Slot Game Free - Engaging Graphics & Exciting Features' ### Meta set: 'Read our review of Mafia, an engaging slot game with exciting features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

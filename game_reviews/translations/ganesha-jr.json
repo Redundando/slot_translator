@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and sound effects",
-                    "Numerous high-value symbols for great rewards",
-                    "50 free spins from the start",
-                    "Entertaining and well-designed"
+                    "High-quality graphics and representations",
+                    "Satisfying sound effects",
+                    "Numerous opportunities to win with special symbols",
+                    "50 free spins for players"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "No bonus game"
+                    "Limited information on specific gameplay features",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Ganesha Jr Free: Impressive Graphics & Exciting Gameplay",
-                "meta_description": "Read our review of Ganesha Jr, an exciting and well-designed online slot game by CQ9 Gaming with impressive graphics and numerous opportunities to win. Play for free!"
+                "meta_title": "Play Ganesha Jr for Free - Exciting Slot Game with Impressive Graphics",
+                "meta_description": "Play Ganesha Jr for free and enjoy high-quality graphics and numerous opportunities to win rewards."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ganesha Jr\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nGanesha Jr is an online slot game by CQ9 Gaming that features a young man and a small elephant covered in jewels standing on a river of gold coins. The game boasts numerous opportunities to win with symbols that resemble Indian cities.\n\nGraphics and Sound effects\n\nThe graphics in Ganesha Jr are top-notch, with high-quality representations of the characters and objects that will leave players feeling like they're watching a movie. The mild soundtrack is not intrusive and won't disturb players during gameplay. There is also a satisfying sound effect when clicking on a significant part of the game, similar to the sound of gold coins, giving players an idea they are close to winning big.\n\nSymbols and Prizes\n\nAs soon as players open the Ganesha Jr slot machine, they will see an incredible array of special symbols and opportunities to win benefits and prizes. The game features numerous high-value symbols that can lead to great rewards for players. In addition, players are offered 50 free spins right from the start, putting them at an advantage to win big prizes.\n\nFree Spins\n\nCQ9 Gaming's Ganesha Jr offers players an impressive 50 free spins right from the start to grant them an advantage in winning big prizes. This feature is a much sought-after feature in slot games, making Ganesha Jr a very attractive gaming platform for those looking for multiple opportunities to win.\n\nOverall Experience\n\nOverall, Ganesha Jr is a well-designed and entertaining online slot game that gives players ample opportunities to win rewards and have a great time. The graphics are impressive, and the sound design is well thought out to ensure that the gaming experience remains enjoyable and not intrusive. If you are looking for a new slot game to play, give Ganesha Jr a try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ganesha Jr\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nGanesha Jr is an online slot game by CQ9 Gaming that features a young man and a small elephant covered in jewels standing on a river of gold coins. The game boasts numerous opportunities to win with symbols that resemble Indian cities.\n\nGraphics and Sound effects\n\nThe graphics in Ganesha Jr are top-notch, with high-quality representations of the characters and objects that will leave players feeling like they're watching a movie. The mild soundtrack is not intrusive and won't disturb players during gameplay. There is also a satisfying sound effect when clicking on a significant part of the game, similar to the sound of gold coins, giving players an idea they are close to winning big.\n\nSymbols and Prizes\n\nAs soon as players open the Ganesha Jr slot machine, they will see an incredible array of special symbols and opportunities to win benefits and prizes. The game features numerous high-value symbols that can lead to great rewards for players. In addition, players are offered 50 free spins right from the start, putting them at an advantage to win big prizes.\n\nFree Spins\n\nCQ9 Gaming's Ganesha Jr offers players an impressive 50 free spins right from the start to grant them an advantage in winning big prizes. This feature is a much sought-after feature in slot games, making Ganesha Jr a very attractive gaming platform for those looking for multiple opportunities to win.\n\nOverall Experience\n\nOverall, Ganesha Jr is a well-designed and entertaining online slot game that gives players ample opportunities to win rewards and have a great time. The graphics are impressive, and the sound design is well thought out to ensure that the gaming experience remains enjoyable and not intrusive. If you are looking for a new slot game to play, give Ganesha Jr a try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TMvfY8aLG0jcaWHSOLl3f3ttI4cw",
+                "id": "chatcmpl-7WTbG9eNkQ3YxlbAwTI6kDIlAvE6v",
                 "object": "chat.completion",
-                "created": 1687234007,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 130,
-                    "total_tokens": 667
-                },
+                "created": 1687974634,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and sound effects\",\n        \"Numerous high-value symbols for great rewards\",\n        \"50 free spins from the start\",\n        \"Entertaining and well-designed\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"No bonus game\"\n    ],\n    \"meta_title\": \"Play Ganesha Jr Free: Impressive Graphics & Exciting Gameplay\",\n    \"meta_description\": \"Read our review of Ganesha Jr, an exciting and well-designed online slot game by CQ9 Gaming with impressive graphics and numerous opportunities to win. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality graphics and representations\",\n    \"Satisfying sound effects\",\n    \"Numerous opportunities to win with special symbols\",\n    \"50 free spins for players\"\n  ],\n  \"cons\": [\n    \"Limited information on specific gameplay features\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Ganesha Jr for Free - Exciting Slot Game with Impressive Graphics\",\n  \"meta_description\": \"Play Ganesha Jr for free and enjoy high-quality graphics and numerous opportunities to win rewards.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 534,
+                    "completion_tokens": 115,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -811,5 +811,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/ganesha-jr.json"
+    "filename": "game_reviews/translations/ganesha-jr.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c278c873-2ae5-4717-aab0-2be7644543a0_4.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c35ea386-63cc-4ecf-91db-aebe93c752fb_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c278c873-2ae5-4717-aab0-2be7644543a0_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c35ea386-63cc-4ecf-91db-aebe93c752fb_4.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c35ea386-63cc-4ecf-91db-aebe93c752fb_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c278c873-2ae5-4717-aab0-2be7644543a0_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c278c873-2ae5-4717-aab0-2be7644543a0_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_feature_image_in_a_ca_c35ea386-63cc-4ecf-91db-aebe93c752fb_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ganesha Jr (Version 3).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 5).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 2).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 7).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 4).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 8).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 1).webp",
+        "game_reviews/processed_images/Ganesha Jr (Version 6).webp"
+    ],
+    "slug": "ganesha-jr",
+    "name": "Ganesha Jr",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ganesha-Jr-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ganesha Jr for Free - Exciting Slot Game with Impressive Graphics' ### Meta set: 'Play Ganesha Jr for free and enjoy high-quality graphics and numerous opportunities to win rewards.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

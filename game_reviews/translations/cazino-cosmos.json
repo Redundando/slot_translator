@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting gameplay features including two unique Free Spins modes",
-                    "High win potential with a maximum payout of 11,821 times your stake",
-                    "Stunning Space/Steampunk visuals and mysterious soundtrack",
-                    "Compatible with desktop, mobile, and tablet devices"
+                    "Stunning visuals and immersive steampunk atmosphere",
+                    "Two main features with unique free spin modes",
+                    "High win potential with up to 11,821 times stake",
+                    "Accessible on desktop, mobile, and tablet devices"
                 ],
                 "cons": [
-                    "Not as high payout potential as its predecessor, Cazino Zeppelin",
-                    "May require a bit of getting used to for players new to slot games"
+                    "Similar theme and features to its predecessor, Cazino Zeppelin",
+                    "Free Spins function could be more innovative"
                 ],
-                "meta_title": "Play Cazino Cosmos Slot Game for Free | Review",
-                "meta_description": "Read our review of Cazino Cosmos, a 5-reel, 20-payline slot game with two unique Free Spins modes and a high win potential of up to 11,821 times your stake. Play for free now."
+                "meta_title": "Play Cazino Cosmos Free - Exciting Steampunk Slot Game",
+                "meta_description": "Read our review of Cazino Cosmos, a visually stunning free slot game with a steampunk theme and immersive gameplay features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cazino Cosmos\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCazino Cosmos Slot Game\n\nCazino Cosmos is a 5-reel, 20-payline slot game from Yggdrasil Gaming that takes place in space and follows the steampunk theme of its predecessor, Cazino Zeppelin.\n\nGameplay Features\n\nCazino Cosmos boasts two main features, the Free Spins function and the Collections Free Spins function. In the Free Spins function, all wilds become sticky, increasing your chances of winning. In the Collections Free Spins function, you can play in one of five different free spin modes, each with unique features such as additional wilds, extra free spins, double-stacked spins, and wild transformations. Completing a collection triggers a unique Free Spins feature with additional benefits.\n\nWin Potential\n\nPlayers have the chance to win up to 11,821 times their stake in Cazino Cosmos. The game offers a variety of ways to win big, including its two main features and collecting wild symbols. Its predecessor, Cazino Zeppelin, offers players the chance to win up to 2,000 times their initial stake.\n\nVisual and Audio Elements\n\nCazino Cosmos is visually stunning and features a space/steampunk atmosphere, with futuristic symbols and characters such as Catman, Hatman, and Wineman. The game's heroine, Stella, serves as the wild symbol. Each reel has its own collectible wild symbols, and completing a collection triggers a unique Free Spins feature with additional wilds, extra free spins, and more. The intricate game window and mysterious soundtrack add to the overall immersive experience.\n\nCompatibility with Devices\n\nCazino Cosmos can be played from 10p to 20 pounds per spin on desktop, mobile, or tablet devices. This makes it accessible to a wide range of players, regardless of their preferred device or location.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cazino Cosmos\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCazino Cosmos Slot Game\n\nCazino Cosmos is a 5-reel, 20-payline slot game from Yggdrasil Gaming that takes place in space and follows the steampunk theme of its predecessor, Cazino Zeppelin.\n\nGameplay Features\n\nCazino Cosmos boasts two main features, the Free Spins function and the Collections Free Spins function. In the Free Spins function, all wilds become sticky, increasing your chances of winning. In the Collections Free Spins function, you can play in one of five different free spin modes, each with unique features such as additional wilds, extra free spins, double-stacked spins, and wild transformations. Completing a collection triggers a unique Free Spins feature with additional benefits.\n\nWin Potential\n\nPlayers have the chance to win up to 11,821 times their stake in Cazino Cosmos. The game offers a variety of ways to win big, including its two main features and collecting wild symbols. Its predecessor, Cazino Zeppelin, offers players the chance to win up to 2,000 times their initial stake.\n\nVisual and Audio Elements\n\nCazino Cosmos is visually stunning and features a space/steampunk atmosphere, with futuristic symbols and characters such as Catman, Hatman, and Wineman. The game's heroine, Stella, serves as the wild symbol. Each reel has its own collectible wild symbols, and completing a collection triggers a unique Free Spins feature with additional wilds, extra free spins, and more. The intricate game window and mysterious soundtrack add to the overall immersive experience.\n\nCompatibility with Devices\n\nCazino Cosmos can be played from 10p to 20 pounds per spin on desktop, mobile, or tablet devices. This makes it accessible to a wide range of players, regardless of their preferred device or location.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SsM8EBPbaW8jV0nNNuBBBYJdCNEe",
+                "id": "chatcmpl-7WPyLTsunOoPmHttmdQGFXHuCAJCp",
                 "object": "chat.completion",
-                "created": 1687116484,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 554,
-                    "completion_tokens": 183,
-                    "total_tokens": 737
-                },
+                "created": 1687960689,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting gameplay features including two unique Free Spins modes\",\n        \"High win potential with a maximum payout of 11,821 times your stake\",\n        \"Stunning Space/Steampunk visuals and mysterious soundtrack\",\n        \"Compatible with desktop, mobile, and tablet devices\"\n    ],\n    \"cons\": [\n        \"Not as high payout potential as its predecessor, Cazino Zeppelin\",\n        \"May require a bit of getting used to for players new to slot games\"\n    ],\n    \"meta_title\": \"Play Cazino Cosmos Slot Game for Free | Review\",\n    \"meta_description\": \"Read our review of Cazino Cosmos, a 5-reel, 20-payline slot game with two unique Free Spins modes and a high win potential of up to 11,821 times your stake. Play for free now.\" \n}"
+                            "content": "{\n\"pros\": [\n\"Stunning visuals and immersive steampunk atmosphere\",\n\"Two main features with unique free spin modes\",\n\"High win potential with up to 11,821 times stake\",\n\"Accessible on desktop, mobile, and tablet devices\"\n],\n\"cons\": [\n\"Similar theme and features to its predecessor, Cazino Zeppelin\",\n\"Free Spins function could be more innovative\"\n],\n\"meta_title\": \"Play Cazino Cosmos Free - Exciting Steampunk Slot Game\",\n\"meta_description\": \"Read our review of Cazino Cosmos, a visually stunning free slot game with a steampunk theme and immersive gameplay features.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 551,
+                    "completion_tokens": 136,
+                    "total_tokens": 687
+                }
             }
         },
         {
@@ -812,10 +812,10 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_3.png",
+        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_1.png",
         "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_2.png",
-        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_4.png",
-        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_1.png"
+        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_3.png",
+        "arved__Create_a_feature_image_for_Cazino_Cosmos_that_captures_t_fb6645b1-c19b-4f5b-9340-ac9b2c0632a8_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cazino Cosmos (Version 3).webp",
@@ -823,5 +823,14 @@
         "game_reviews/processed_images/Cazino Cosmos (Version 4).webp",
         "game_reviews/processed_images/Cazino Cosmos (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/cazino-cosmos.json"
+    "filename": "game_reviews/translations/cazino-cosmos.json",
+    "slug": "cazino-cosmos",
+    "name": "Cazino Cosmos",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cazino-Cosmos-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cazino Cosmos Free - Exciting Steampunk Slot Game' ### Meta set: 'Read our review of Cazino Cosmos, a visually stunning free slot game with a steampunk theme and immersive gameplay features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Visually pleasing design with bright colors",
-                    "Classic structure, perfect for traditional slot lovers",
-                    "Demo version available to play for free",
-                    "'Leave or double' function adds excitement to gameplay"
+                    "Visually pleasing with bright colors and well-defined fruits",
+                    "Classic fruit machine design",
+                    "Autoplay mode available",
+                    "Demo version to play for free"
                 ],
                 "cons": [
                     "Below-average theoretical return to player percentage",
-                    "Limited paylines"
+                    "High volatility"
                 ],
-                "meta_title": "Play Inferno Free - Classic Fruit Machine Review",
-                "meta_description": "Read our review of Inferno, a classic fruit machine from Novomatic with 5 paylines and a high volatility. Play for free and enjoy the traditional design."
+                "meta_title": "Play Inferno Free - Review of The Classic Fruit Machine",
+                "meta_description": "Review of Inferno, a classic fruit machine with a fiery background. Play for free and enjoy the visually pleasing design."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design\n\nInferno, a slot machine produced by Novomatic, is a classic Fruit Machine with traditional colorful fruits and a fiery background. The visuals are visually pleasing, with well-defined fruits and reproduced with very bright colors on the flaming background.\n\nGame Structure\n\nInferno's structure is minimal and classic: five reels, three rows, and five paylines. Bets start at 40 cents per spin. The Autoplay mode is available to spin the reels automatically. Novomatic also offers a demo version to play for free.\n\nGameplay Features\n\nInferno is a high-volatility slot machine with a not very exciting theoretical return to player percentage below average with 95%. The 'leave or double' function is automatically activated in case of any winning combination. A flipped card appears on the screen, and the player has to guess the color. If the bet is correct, the prize is doubled, otherwise, the player loses everything.\n\nPaylines and Symbols\n\nInferno's symbols are represented mostly by fruits - plums, oranges, grapes, lemons, and cherries - which all pay out with at least three symbols on an active payline, starting from left to right. Cherries are an exception as they determine a winning combination even if they appear only twice. The golden star is the highest paying symbol in Inferno, followed by the bell and the bunch of grapes. The Scatter symbol is a jewel-studded crown that pays out when it appears on the reels at least three times, regardless of the position it occupies.\n\nReturn to Player Percentage\n\nInferno has a theoretical return to player percentage of 95%, which is below average. Its high volatility adds excitement to gameplay. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design\n\nInferno, a slot machine produced by Novomatic, is a classic Fruit Machine with traditional colorful fruits and a fiery background. The visuals are visually pleasing, with well-defined fruits and reproduced with very bright colors on the flaming background.\n\nGame Structure\n\nInferno's structure is minimal and classic: five reels, three rows, and five paylines. Bets start at 40 cents per spin. The Autoplay mode is available to spin the reels automatically. Novomatic also offers a demo version to play for free.\n\nGameplay Features\n\nInferno is a high-volatility slot machine with a not very exciting theoretical return to player percentage below average with 95%. The 'leave or double' function is automatically activated in case of any winning combination. A flipped card appears on the screen, and the player has to guess the color. If the bet is correct, the prize is doubled, otherwise, the player loses everything.\n\nPaylines and Symbols\n\nInferno's symbols are represented mostly by fruits - plums, oranges, grapes, lemons, and cherries - which all pay out with at least three symbols on an active payline, starting from left to right. Cherries are an exception as they determine a winning combination even if they appear only twice. The golden star is the highest paying symbol in Inferno, followed by the bell and the bunch of grapes. The Scatter symbol is a jewel-studded crown that pays out when it appears on the reels at least three times, regardless of the position it occupies.\n\nReturn to Player Percentage\n\nInferno has a theoretical return to player percentage of 95%, which is below average. Its high volatility adds excitement to gameplay. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TtLYdU8itrwVzAXLxQrpns62Hy1o",
+                "id": "chatcmpl-7WVESbtJhTthyYlFdxzFMYS2SZVjH",
                 "object": "chat.completion",
-                "created": 1687358620,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980908,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Visually pleasing design with bright colors\",\n        \"Classic structure, perfect for traditional slot lovers\",\n        \"Demo version available to play for free\",\n        \"'Leave or double' function adds excitement to gameplay\"\n    ],\n    \"cons\": [\n        \"Below-average theoretical return to player percentage\",\n        \"Limited paylines\"\n    ],\n    \"meta_title\": \"Play Inferno Free - Classic Fruit Machine Review\",\n    \"meta_description\": \"Read our review of Inferno, a classic fruit machine from Novomatic with 5 paylines and a high volatility. Play for free and enjoy the traditional design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Visually pleasing with bright colors and well-defined fruits\",\n    \"Classic fruit machine design\",\n    \"Autoplay mode available\",\n    \"Demo version to play for free\"\n  ],\n  \"cons\": [\n    \"Below-average theoretical return to player percentage\",\n    \"High volatility\"\n  ],\n  \"meta_title\": \"Play Inferno Free - Review of The Classic Fruit Machine\",\n  \"meta_description\": \"Review of Inferno, a classic fruit machine with a fiery background. Play for free and enjoy the visually pleasing design.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 524,
-                    "completion_tokens": 132,
-                    "total_tokens": 656
+                    "prompt_tokens": 521,
+                    "completion_tokens": 116,
+                    "total_tokens": 637
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/inferno.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Inferno_in_a_cartoon_s_c836f05e-0e9c-4568-96b5-678b03f3c5d1_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Inferno_in_a_cartoon_s_c836f05e-0e9c-4568-96b5-678b03f3c5d1_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Inferno_in_a_cartoon_s_c836f05e-0e9c-4568-96b5-678b03f3c5d1_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Inferno_in_a_cartoon_s_c836f05e-0e9c-4568-96b5-678b03f3c5d1_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Inferno (Version 1).webp",
+        "game_reviews/processed_images/Inferno (Version 4).webp",
+        "game_reviews/processed_images/Inferno (Version 2).webp",
+        "game_reviews/processed_images/Inferno (Version 3).webp"
+    ],
+    "slug": "inferno",
+    "name": "Inferno",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Inferno-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Inferno Free - Review of The Classic Fruit Machine' ### Meta set: 'Review of Inferno, a classic fruit machine with a fiery background. Play for free and enjoy the visually pleasing design.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

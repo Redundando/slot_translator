@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and distinctive characteristics from other games",
-                    "Dynamic and well-crafted graphics",
-                    "Intriguing soundtrack",
-                    "10 payment modes for players to choose from"
+                    "Unique and distinctive gameplay features",
+                    "Exceptional graphics and well-crafted symbols",
+                    "Wide range of payment modes for flexible betting",
+                    "Thrilling and exciting gaming experience"
                 ],
                 "cons": [
-                    "Only 10 payment modes available",
-                    "Theme may not appeal to everyone"
+                    "Average structure",
+                    "Limited number of reels and lines"
                 ],
-                "meta_title": "Play Aliens and Pyramid Free Slot - A Unique and Thrilling Gaming Experience",
-                "meta_description": "Read our review of Aliens and Pyramid slot game. Play for free and enjoy a thrilling and exciting gaming experience with unique graphics and theme."
+                "meta_title": "Play Aliens and Pyramids Slot for Free",
+                "meta_description": "Discover the unique and thrilling gaming experience of Aliens and Pyramids. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aliens and Pyramid\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nAliens and Pyramids has a gameplay system that includes 5 reels, 3 lines, and 10 payment modes. This slot has a rather average structure but it's the unique and distinctive characteristics of this game that set it apart from the rest.\n\nGraphics and symbols\n\nThe graphics of Aliens and Pyramids are dynamic and well-crafted. This slot machine has exceptional graphics that are rarely seen on a website's slot machine. The soundtrack is intriguing and totally appropriate for the gaming scenario. The symbols include ufos, aliens, and ancient Egyptian references, as well as a wild and scatter symbol.\n\nPayment modes\n\nAliens and Pyramids offers 10 payment modes for players to choose from. This range of payment modes gives players flexibility when it comes to betting, making it easier for both high and low rollers to play.\n\nGame theme\n\nThe theme of Aliens and Pyramids is a combination of ufos, aliens and ancient Egypt. This unique theme offers a thrilling and exciting gaming experience to players who enjoy these topics. The game presents the possibility of a collaboration that occurred thousands of years ago, which has always been debated.\n\nOverall experience\n\n5 Men Gaming has once again delivered a masterpiece in terms of originality of the gaming experience and the features it presents with Aliens and Pyramids. The unbeatable graphics and unique theme of this slot machine create a thrilling and exciting gaming experience. Overall, we recommend playing this platform even for just a minute, as you'll never want to pull away.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aliens and Pyramid\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nAliens and Pyramids has a gameplay system that includes 5 reels, 3 lines, and 10 payment modes. This slot has a rather average structure but it's the unique and distinctive characteristics of this game that set it apart from the rest.\n\nGraphics and symbols\n\nThe graphics of Aliens and Pyramids are dynamic and well-crafted. This slot machine has exceptional graphics that are rarely seen on a website's slot machine. The soundtrack is intriguing and totally appropriate for the gaming scenario. The symbols include ufos, aliens, and ancient Egyptian references, as well as a wild and scatter symbol.\n\nPayment modes\n\nAliens and Pyramids offers 10 payment modes for players to choose from. This range of payment modes gives players flexibility when it comes to betting, making it easier for both high and low rollers to play.\n\nGame theme\n\nThe theme of Aliens and Pyramids is a combination of ufos, aliens and ancient Egypt. This unique theme offers a thrilling and exciting gaming experience to players who enjoy these topics. The game presents the possibility of a collaboration that occurred thousands of years ago, which has always been debated.\n\nOverall experience\n\n5 Men Gaming has once again delivered a masterpiece in terms of originality of the gaming experience and the features it presents with Aliens and Pyramids. The unbeatable graphics and unique theme of this slot machine create a thrilling and exciting gaming experience. Overall, we recommend playing this platform even for just a minute, as you'll never want to pull away.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SVIjzJq9T6J21GNzbOsaYTILxW5v",
+                "id": "chatcmpl-7WN1aMnO7vVEUNoAUvL5lp85Di8M7",
                 "object": "chat.completion",
-                "created": 1687027861,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 485,
-                    "completion_tokens": 130,
-                    "total_tokens": 615
-                },
+                "created": 1687949358,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Unique and distinctive characteristics from other games\",\n      \"Dynamic and well-crafted graphics\",\n      \"Intriguing soundtrack\",\n      \"10 payment modes for players to choose from\"\n   ],\n   \"cons\": [\n      \"Only 10 payment modes available\",\n      \"Theme may not appeal to everyone\"\n   ],\n   \"meta_title\": \"Play Aliens and Pyramid Free Slot - A Unique and Thrilling Gaming Experience\",\n   \"meta_description\": \"Read our review of Aliens and Pyramid slot game. Play for free and enjoy a thrilling and exciting gaming experience with unique graphics and theme.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique and distinctive gameplay features\",\n    \"Exceptional graphics and well-crafted symbols\",\n    \"Wide range of payment modes for flexible betting\",\n    \"Thrilling and exciting gaming experience\"\n  ],\n  \"cons\": [\n    \"Average structure\",\n    \"Limited number of reels and lines\"\n  ],\n  \"meta_title\": \"Play Aliens and Pyramids Slot for Free\",\n  \"meta_description\": \"Discover the unique and thrilling gaming experience of Aliens and Pyramids. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 482,
+                    "completion_tokens": 111,
+                    "total_tokens": 593
+                }
             }
         },
         {
@@ -814,14 +814,23 @@
     "filename": "game_reviews/translations/aliens-and-pyramid.json",
     "raw_feature_images": [
         "arved__Prompt_Create_a_feature_image_for_Aliens_and_Pyramids_th_fe75cc69-7ad5-4f0e-8dd3-b0a6e76553ad_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Aliens_and_Pyramids_th_fe75cc69-7ad5-4f0e-8dd3-b0a6e76553ad_4.png",
         "arved__Prompt_Create_a_feature_image_for_Aliens_and_Pyramids_th_fe75cc69-7ad5-4f0e-8dd3-b0a6e76553ad_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Aliens_and_Pyramids_th_fe75cc69-7ad5-4f0e-8dd3-b0a6e76553ad_4.png",
         "arved__Prompt_Create_a_feature_image_for_Aliens_and_Pyramids_th_fe75cc69-7ad5-4f0e-8dd3-b0a6e76553ad_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Aliens And Pyramid (Version 3).webp",
-        "game_reviews/processed_images/Aliens And Pyramid (Version 1).webp",
         "game_reviews/processed_images/Aliens And Pyramid (Version 4).webp",
-        "game_reviews/processed_images/Aliens And Pyramid (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Aliens And Pyramid (Version 1).webp",
+        "game_reviews/processed_images/Aliens And Pyramid (Version 2).webp",
+        "game_reviews/processed_images/Aliens And Pyramid (Version 3).webp"
+    ],
+    "slug": "aliens-and-pyramid",
+    "name": "Aliens and Pyramid",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aliens and Pyramids Slot for Free' ### Meta set: 'Discover the unique and thrilling gaming experience of Aliens and Pyramids. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

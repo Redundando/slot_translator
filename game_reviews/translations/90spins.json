@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Immersive football theme",
                     "6,784 ways to win",
                     "Realistic graphics and gameplay",
-                    "Double wild reels and free spins",
-                    "Football-themed symbols and betting options"
+                    "Unique personal accumulator feature"
                 ],
                 "cons": [
-                    "Limited to football fans",
+                    "Limited betting options",
                     "No progressive jackpot"
                 ],
-                "meta_title": "Play #90 Spins Free - Exciting Football-Themed Slot Game",
-                "meta_description": "Join the football championship with #90 Spins, the exciting game with realistic graphics, double wild reels, and free spins. Play now for free!"
+                "meta_title": "Play #90 Spins Slot Game Free",
+                "meta_description": "Read our review of #90 Spins and play this football-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"#90spins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \n#90 Spins Slot Game\n\nEspresso Games has created #90 Spins, a slot game that celebrates the national sport of Italy and is themed around European football championships. The game provides an entertaining and immersive gaming experience for football fans and others alike.\n\nSix Reels and 6,784 Ways to Win\n\nThe game screen is divided into two halves, each corresponding to a team. Each team has three reels and five rows, totaling six reels. The game offers 6,784 ways to win, with a gameplay system that pays both from left to right and vice versa, double wild reels, free spins, and a final bonus.\n\nRealistic Graphics and Gameplay\n\nEspresso Games is known for its meticulous graphics, and #90 Spins is no exception. The game starts with a walk down the locker room corridor, leading to a green field where players choose their favorite team and make a bet on the result. The graphics are realistic, making #90 Spins look more like a PlayStation game than a slot machine.\n\nFootball-themed Symbols and Betting Options\n\nSymbols on the reels include regular playing cards from 10 to Ace and thematic symbols related to football, including a football shoe, captain's armband, goalkeeper's glove saving the ball, the cup, and the corner flag. Two wild symbols represented by players from opposing teams can cover the entire reel on which they appear. Players can make a prediction on the result and bet on which half the winning spins will concentrate.\n\nPersonal Accumulator and Participation Prize\n\nPlayers who choose a team at the start of the game must maintain that choice for 90 spins. Each regular spin increases the timer by one minute and adds 10% of the bet to the personal accumulator. At the end of the 90 spins, the total accumulated amount is won; otherwise, a participation prize equal to 20% of the bet is awarded.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"#90spins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \n#90 Spins Slot Game\n\nEspresso Games has created #90 Spins, a slot game that celebrates the national sport of Italy and is themed around European football championships. The game provides an entertaining and immersive gaming experience for football fans and others alike.\n\nSix Reels and 6,784 Ways to Win\n\nThe game screen is divided into two halves, each corresponding to a team. Each team has three reels and five rows, totaling six reels. The game offers 6,784 ways to win, with a gameplay system that pays both from left to right and vice versa, double wild reels, free spins, and a final bonus.\n\nRealistic Graphics and Gameplay\n\nEspresso Games is known for its meticulous graphics, and #90 Spins is no exception. The game starts with a walk down the locker room corridor, leading to a green field where players choose their favorite team and make a bet on the result. The graphics are realistic, making #90 Spins look more like a PlayStation game than a slot machine.\n\nFootball-themed Symbols and Betting Options\n\nSymbols on the reels include regular playing cards from 10 to Ace and thematic symbols related to football, including a football shoe, captain's armband, goalkeeper's glove saving the ball, the cup, and the corner flag. Two wild symbols represented by players from opposing teams can cover the entire reel on which they appear. Players can make a prediction on the result and bet on which half the winning spins will concentrate.\n\nPersonal Accumulator and Participation Prize\n\nPlayers who choose a team at the start of the game must maintain that choice for 90 spins. Each regular spin increases the timer by one minute and adds 10% of the bet to the personal accumulator. At the end of the 90 spins, the total accumulated amount is won; otherwise, a participation prize equal to 20% of the bet is awarded.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SNCI67Qph6rEYdCIIdwAJ6xBxAcY",
+                "id": "chatcmpl-7WLJ6hNWuuwgrAr3DRZWQY6gFLxP6",
                 "object": "chat.completion",
-                "created": 1686996710,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 557,
-                    "completion_tokens": 123,
-                    "total_tokens": 680
-                },
+                "created": 1687942756,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"6,784 ways to win\",\n        \"Realistic graphics and gameplay\",\n        \"Double wild reels and free spins\",\n        \"Football-themed symbols and betting options\"\n    ],\n    \"cons\": [\n        \"Limited to football fans\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play #90 Spins Free - Exciting Football-Themed Slot Game\",\n    \"meta_description\": \"Join the football championship with #90 Spins, the exciting game with realistic graphics, double wild reels, and free spins. Play now for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive football theme\",\n    \"6,784 ways to win\",\n    \"Realistic graphics and gameplay\",\n    \"Unique personal accumulator feature\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play #90 Spins Slot Game Free\",\n  \"meta_description\": \"Read our review of #90 Spins and play this football-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 555,
+                    "completion_tokens": 100,
+                    "total_tokens": 655
+                }
             }
         },
         {
@@ -811,15 +811,19 @@
     ],
     "filename": "game_reviews/translations/90spins.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_2.png",
-        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_1.png",
         "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_4.png",
-        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_3.png"
+        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_2.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_3.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_90sp_7404183f-33e6-468e-8818-1182f7e33af4_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/90Spins (Version 3).webp",
         "game_reviews/processed_images/90Spins (Version 1).webp",
         "game_reviews/processed_images/90Spins (Version 4).webp",
-        "game_reviews/processed_images/90Spins (Version 3).webp",
         "game_reviews/processed_images/90Spins (Version 2).webp"
-    ]
+    ],
+    "name": "#90spins",
+    "slug": "90spins",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

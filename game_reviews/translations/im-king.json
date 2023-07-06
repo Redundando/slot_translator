@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Range of bonus features including Wild symbols and free spins",
-                    "Flexible betting range from 0.35 cents up to 350€",
-                    "Visually appealing graphics depicting Chinese empire symbols",
-                    "Opportunity to win significant payouts"
+                    "Opportunity to win significant payouts",
+                    "Range of bonus features (Wild symbols, free spins)",
+                    "Flexible betting range",
+                    "Visually appealing graphics"
                 ],
                 "cons": [
-                    "Music can be a bit annoying",
-                    "No information provided on volatility and RTP"
+                    "Annoying music",
+                    "No information on volatility and RTP"
                 ],
-                "meta_title": "Play Im King Free Slot Game Online | Win Significant Payouts",
-                "meta_description": "Im King is a 5x3 online slot game with Wild symbols, free spins, and bonuses. Play now for free and win significant payouts. No download or registration required."
+                "meta_title": "Play IM KING - Free Online Slot Game",
+                "meta_description": "Read our review of IM KING, a free online slot game with exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"IM KING\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nIm King is a 5x3 online slot game with 35 fixed pay lines. With symbols of Chinese Empire, players can leverage the power of Wild symbols and free spins. The game also offers a bonus game, allowing players to get additional spins added to their ongoing spins.\n\nSymbolism and Graphics\n\nThe game symbols depict the Chinese empire, including gold, beautiful women, and queens. The cards have been re-proposed in an Asian style. The graphics of the game are visually appealing. However, the music could be a bit annoying.\n\nBetting Range\n\nPlayers can bet from a minimum of 0.35 cents up to 350€, giving them flexibility on their betting amounts.\n\nPros and Cons\n\nPros - Im King is an online slot game that offers players the opportunity to win significant payouts. The game provides a range of bonus features, including Wild symbols and free spins. The betting range offers players flexibility in their betting amounts. Cons - The music could be a bit annoying, and there is no information on volatility and RTP.\n\nGame Statistics\n\nThere is no information provided on volatility and RTP. However, players can leverage the power of Wild symbols, and free spins increase the value and the chance of getting important winnings.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"IM KING\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nIm King is a 5x3 online slot game with 35 fixed pay lines. With symbols of Chinese Empire, players can leverage the power of Wild symbols and free spins. The game also offers a bonus game, allowing players to get additional spins added to their ongoing spins.\n\nSymbolism and Graphics\n\nThe game symbols depict the Chinese empire, including gold, beautiful women, and queens. The cards have been re-proposed in an Asian style. The graphics of the game are visually appealing. However, the music could be a bit annoying.\n\nBetting Range\n\nPlayers can bet from a minimum of 0.35 cents up to 350€, giving them flexibility on their betting amounts.\n\nPros and Cons\n\nPros - Im King is an online slot game that offers players the opportunity to win significant payouts. The game provides a range of bonus features, including Wild symbols and free spins. The betting range offers players flexibility in their betting amounts. Cons - The music could be a bit annoying, and there is no information on volatility and RTP.\n\nGame Statistics\n\nThere is no information provided on volatility and RTP. However, players can leverage the power of Wild symbols, and free spins increase the value and the chance of getting important winnings.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tsovh64fSvaaAYdwxYcHAbbl77Qc",
+                "id": "chatcmpl-7WV9wu8kdHQfNAxDrzZS632f2ZK2e",
                 "object": "chat.completion",
-                "created": 1687356597,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980628,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Range of bonus features including Wild symbols and free spins\",\n        \"Flexible betting range from 0.35 cents up to 350€\",\n        \"Visually appealing graphics depicting Chinese empire symbols\",\n        \"Opportunity to win significant payouts\"\n    ],\n    \"cons\": [\n        \"Music can be a bit annoying\",\n        \"No information provided on volatility and RTP\"\n    ],\n    \"meta_title\": \"Play Im King Free Slot Game Online | Win Significant Payouts\",\n    \"meta_description\": \"Im King is a 5x3 online slot game with Wild symbols, free spins, and bonuses. Play now for free and win significant payouts. No download or registration required.\" \n}"
+                            "content": "{\n  \"pros\": [\"Opportunity to win significant payouts\", \"Range of bonus features (Wild symbols, free spins)\", \"Flexible betting range\", \"Visually appealing graphics\"],\n  \"cons\": [\"Annoying music\", \"No information on volatility and RTP\"],\n  \"meta_title\": \"Play IM KING - Free Online Slot Game\",\n  \"meta_description\": \"Read our review of IM KING, a free online slot game with exciting bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 430,
-                    "completion_tokens": 149,
-                    "total_tokens": 579
+                    "prompt_tokens": 427,
+                    "completion_tokens": 94,
+                    "total_tokens": 521
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/im-king.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_6eeb033a-f539-47e8-8a24-1ff5a330602d_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_6eeb033a-f539-47e8-8a24-1ff5a330602d_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_6eeb033a-f539-47e8-8a24-1ff5a330602d_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_6eeb033a-f539-47e8-8a24-1ff5a330602d_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Im King (Version 3).webp",
+        "game_reviews/processed_images/Im King (Version 4).webp",
+        "game_reviews/processed_images/Im King (Version 1).webp",
+        "game_reviews/processed_images/Im King (Version 2).webp"
+    ],
+    "slug": "im-king",
+    "name": "IM KING",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Im-King-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play IM KING - Free Online Slot Game' ### Meta set: 'Read our review of IM KING, a free online slot game with exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

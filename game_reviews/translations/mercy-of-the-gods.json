@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Immersive ancient Egypt theme",
-                    "High volatility with significant payouts",
-                    "Wild symbol increases player's chances of earning large payouts",
-                    "Relaxing background music"
+                    "High volatility and payouts for big wins",
+                    "Immersive Ancient Egypt theme",
+                    "Exciting gameplay mechanics",
+                    "Wild symbol increases chances of big payouts"
                 ],
                 "cons": [
-                    "Significant plays before a win due to high volatility",
-                    "No bonus game or jackpot feature"
+                    "Potentially long runs without a win",
+                    "Limited number of symbols on the game grid"
                 ],
-                "meta_title": "Play Mercy of the Gods for Free - Review and Gameplay Mechanics",
-                "meta_description": "Explore the immersive ancient Egypt theme and exciting gameplay mechanics for free by playing Mercy of the Gods. Review provides pros and cons."
+                "meta_title": "Play Mercy of the Gods Free - Exciting Ancient Egyptian Slot",
+                "meta_description": "Read this review of Mercy of the Gods and play it free. Experience thrilling gameplay and big wins in this Ancient Egyptian themed slot."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mercy of the Gods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nMercy of the Gods is a 5x3 slot game that displays fifteen symbols on each play, with an RTP percentage of 96.64%, which is within the market average. The game's volatility is high, meaning it has a significant number of plays without a win before gaining significant rewards. Players should pay attention to the Wild symbol, which acts as a Joker, replacing all other symbols in the game. When this symbol appears on the game grid, it moves down one position with each spin until it disappears in the lower frame.\n\nAtmosphere and theme\n\nMercy of the Gods is an online slot from NetEnt set in Ancient Egypt, and it could easily be one of the cornerstones in this genre. The game features a golden temple in the background with symbols representing ancient Egyptian culture, such as beetles and the eye of Horus. The classic card letters are also part of the slot's symbols. The music is reminiscent of masterpieces such as 'The Prince of Egypt,' creating a relaxed atmosphere giving players a sober entertainment experience without being bothered by loud sounds.\n\nVolatility\n\nMercy of the Gods has a high volatility, meaning it has a significant number of plays before a win, unlike low volatility slots, which offer frequent wins but at lower payouts. Players that opt for this online slot should be prepared for a potentially long run with multiple plays before reaching a win. However, the high volatility and payouts make it an attractive slot game for those looking for a big score.\n\nSimilar games\n\nSphinx Wild from IGT and Book of Ra Deluxe from Novomatic are two similar slot games to Mercy of the Gods. However, Mercy of the Gods stands out thanks to its immersive theme and exciting gameplay mechanics. For players who have experience in online slot games, Mercy of the Gods is a recommended pick.\n\nWild symbol\n\nThe Wild symbol in Mercy of the Gods acts as a Joker, replacing all other symbols on the game grid. It moves down one position with each spin until it disappears permanently in the lower frame. Players should pay close attention to this feature as it can significantly increase their chances of earning large payouts.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mercy of the Gods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nMercy of the Gods is a 5x3 slot game that displays fifteen symbols on each play, with an RTP percentage of 96.64%, which is within the market average. The game's volatility is high, meaning it has a significant number of plays without a win before gaining significant rewards. Players should pay attention to the Wild symbol, which acts as a Joker, replacing all other symbols in the game. When this symbol appears on the game grid, it moves down one position with each spin until it disappears in the lower frame.\n\nAtmosphere and theme\n\nMercy of the Gods is an online slot from NetEnt set in Ancient Egypt, and it could easily be one of the cornerstones in this genre. The game features a golden temple in the background with symbols representing ancient Egyptian culture, such as beetles and the eye of Horus. The classic card letters are also part of the slot's symbols. The music is reminiscent of masterpieces such as 'The Prince of Egypt,' creating a relaxed atmosphere giving players a sober entertainment experience without being bothered by loud sounds.\n\nVolatility\n\nMercy of the Gods has a high volatility, meaning it has a significant number of plays before a win, unlike low volatility slots, which offer frequent wins but at lower payouts. Players that opt for this online slot should be prepared for a potentially long run with multiple plays before reaching a win. However, the high volatility and payouts make it an attractive slot game for those looking for a big score.\n\nSimilar games\n\nSphinx Wild from IGT and Book of Ra Deluxe from Novomatic are two similar slot games to Mercy of the Gods. However, Mercy of the Gods stands out thanks to its immersive theme and exciting gameplay mechanics. For players who have experience in online slot games, Mercy of the Gods is a recommended pick.\n\nWild symbol\n\nThe Wild symbol in Mercy of the Gods acts as a Joker, replacing all other symbols on the game grid. It moves down one position with each spin until it disappears permanently in the lower frame. Players should pay close attention to this feature as it can significantly increase their chances of earning large payouts.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U8HdVkGPojG526hviimt830OMOZC",
+                "id": "chatcmpl-7WXaeLOD7FYBm5slZPuFw4wzFAuBD",
                 "object": "chat.completion",
-                "created": 1687416037,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989972,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Immersive ancient Egypt theme\",\n    \"High volatility with significant payouts\",\n    \"Wild symbol increases player's chances of earning large payouts\",\n    \"Relaxing background music\"\n  ],\n  \"cons\": [\n    \"Significant plays before a win due to high volatility\",\n    \"No bonus game or jackpot feature\"\n  ],\n  \"meta_title\": \"Play Mercy of the Gods for Free - Review and Gameplay Mechanics\",\n  \"meta_description\": \"Explore the immersive ancient Egypt theme and exciting gameplay mechanics for free by playing Mercy of the Gods. Review provides pros and cons.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High volatility and payouts for big wins\",\n    \"Immersive Ancient Egypt theme\",\n    \"Exciting gameplay mechanics\",\n    \"Wild symbol increases chances of big payouts\"\n  ],\n  \"cons\": [\n    \"Potentially long runs without a win\",\n    \"Limited number of symbols on the game grid\"\n  ],\n  \"meta_title\": \"Play Mercy of the Gods Free - Exciting Ancient Egyptian Slot\",\n  \"meta_description\": \"Read this review of Mercy of the Gods and play it free. Experience thrilling gameplay and big wins in this Ancient Egyptian themed slot.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 613,
-                    "completion_tokens": 128,
-                    "total_tokens": 741
+                    "prompt_tokens": 610,
+                    "completion_tokens": 125,
+                    "total_tokens": 735
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mercy-of-the-gods.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e4e473de-f8b8-42d4-98bc-24fce088d0ae_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e4e473de-f8b8-42d4-98bc-24fce088d0ae_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e4e473de-f8b8-42d4-98bc-24fce088d0ae_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e4e473de-f8b8-42d4-98bc-24fce088d0ae_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mercy Of The Gods (Version 2).webp",
+        "game_reviews/processed_images/Mercy Of The Gods (Version 4).webp",
+        "game_reviews/processed_images/Mercy Of The Gods (Version 1).webp",
+        "game_reviews/processed_images/Mercy Of The Gods (Version 3).webp"
+    ],
+    "slug": "mercy-of-the-gods",
+    "name": "Mercy of the Gods",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mercy-Of-The-Gods-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mercy of the Gods Free - Exciting Ancient Egyptian Slot' ### Meta set: 'Read this review of Mercy of the Gods and play it free. Experience thrilling gameplay and big wins in this Ancient Egyptian themed slot.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

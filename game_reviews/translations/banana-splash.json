@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Simple and easy-to-play game",
-                    "Fun and colorful beachy graphics",
-                    "Nine paylines available for players",
-                    "Low minimum bet per spin"
+                    "Simple and easy to play for beginners",
+                    "Fun and colorful beach theme with tasteful graphics",
+                    "Flexible paylines and adjustable betting options",
+                    "Acceptable RTP and bonus features"
                 ],
                 "cons": [
                     "No special effects or 3D animations",
-                    "Slightly below average return to player percentage"
+                    "Slightly below-average RTP"
                 ],
-                "meta_title": "Play Banana Splash Free - Review of Online Slot Game",
-                "meta_description": "Learn more about Banana Splash - a fun and simple online slot game with colorful graphics. Play Banana Splash for free and enjoy its bonus rounds."
+                "meta_title": "Play Banana Splash for Free - Fun and Flexible Beach-Themed Slot",
+                "meta_description": "Beginner-friendly online slot game with adjustable paylines, fun fruit symbols, and pleasing graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Banana Splash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBanana Splash is a simple and easy to play 5-reel, 3-row online slot game. With nine paylines, gamers can choose to activate one, three, five, seven, or all of them. Players can place a bet on each line starting from one token up to 100 tokens. Banana Splash is an excellent option for beginners who want to learn about online slot games.\n\nGraphics\n\nBanana Splash offers a fun and colorful theme with cartoon-style fruits. The game is set in a beachy atmosphere representing a blue sea. The graphics are reminiscent of old billboards advertising ice cream from the 80s. The game has no special effects or 3D animations, but it still provides pleasing graphics for players to enjoy.\n\nPaylines\n\nBanana Splash has nine paylines, with players having the option to activate one, three, five, seven, or all of them. Players can place a bet on each line starting from one token up to 100 tokens. The minimum bet per spin is 1 token, while the maximum bet is 900 tokens.\n\nSymbols\n\nBanana Splash presents colorful fruit symbols that have been redesigned with summertime beach themes. The slot has six fruit symbols. A pineapple with a lifebuoy, a melon playing bongos, a strawberry doing water skiing, a watermelon sunbathing, an orange with diving gear, and a banana joker symbol. Additionally, there are the numbers and letters referring to playing cards from 9 to Ace. The banana serves as the Wild symbol with a joker function, while the beach cabin is the Scatter symbol.\n\nReturn to Player\n\nThe theoretical return to player (RTP) for Banana Splash stands at 95.79%. This percentage is slightly below average but still an acceptable return for players who enjoy this type of online slot game. With x9 paylines and bonus features triggered by Scatter symbols, Banana Splash provides an overall good gaming experience for players with small budgets.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Banana Splash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBanana Splash is a simple and easy to play 5-reel, 3-row online slot game. With nine paylines, gamers can choose to activate one, three, five, seven, or all of them. Players can place a bet on each line starting from one token up to 100 tokens. Banana Splash is an excellent option for beginners who want to learn about online slot games.\n\nGraphics\n\nBanana Splash offers a fun and colorful theme with cartoon-style fruits. The game is set in a beachy atmosphere representing a blue sea. The graphics are reminiscent of old billboards advertising ice cream from the 80s. The game has no special effects or 3D animations, but it still provides pleasing graphics for players to enjoy.\n\nPaylines\n\nBanana Splash has nine paylines, with players having the option to activate one, three, five, seven, or all of them. Players can place a bet on each line starting from one token up to 100 tokens. The minimum bet per spin is 1 token, while the maximum bet is 900 tokens.\n\nSymbols\n\nBanana Splash presents colorful fruit symbols that have been redesigned with summertime beach themes. The slot has six fruit symbols. A pineapple with a lifebuoy, a melon playing bongos, a strawberry doing water skiing, a watermelon sunbathing, an orange with diving gear, and a banana joker symbol. Additionally, there are the numbers and letters referring to playing cards from 9 to Ace. The banana serves as the Wild symbol with a joker function, while the beach cabin is the Scatter symbol.\n\nReturn to Player\n\nThe theoretical return to player (RTP) for Banana Splash stands at 95.79%. This percentage is slightly below average but still an acceptable return for players who enjoy this type of online slot game. With x9 paylines and bonus features triggered by Scatter symbols, Banana Splash provides an overall good gaming experience for players with small budgets.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SbSLqLUH0KoFyciNDgQUz1A6sZx5",
+                "id": "chatcmpl-7W9NHtcVBSHgfonLR4vdNxw9EN59k",
                 "object": "chat.completion",
-                "created": 1687051521,
+                "created": 1687896887,
                 "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 580,
-                    "completion_tokens": 127,
-                    "total_tokens": 707
-                },
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and easy-to-play game\",\n        \"Fun and colorful beachy graphics\",\n        \"Nine paylines available for players\",\n        \"Low minimum bet per spin\"\n    ],\n    \"cons\": [\n        \"No special effects or 3D animations\",\n        \"Slightly below average return to player percentage\" \n    ],\n    \"meta_title\": \"Play Banana Splash Free - Review of Online Slot Game\",\n    \"meta_description\": \"Learn more about Banana Splash - a fun and simple online slot game with colorful graphics. Play Banana Splash for free and enjoy its bonus rounds.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Simple and easy to play for beginners\",\n        \"Fun and colorful beach theme with tasteful graphics\",\n        \"Flexible paylines and adjustable betting options\",\n        \"Acceptable RTP and bonus features\"\n    ],\n    \"cons\": [\n        \"No special effects or 3D animations\",\n        \"Slightly below-average RTP\"\n    ],\n    \"meta_title\": \"Play Banana Splash for Free - Fun and Flexible Beach-Themed Slot\",\n    \"meta_description\": \"Beginner-friendly online slot game with adjustable paylines, fun fruit symbols, and pleasing graphics.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 580,
+                    "completion_tokens": 123,
+                    "total_tokens": 703
+                }
             }
         },
         {
@@ -814,15 +814,25 @@
     ],
     "filename": "game_reviews/translations/banana-splash.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Banana_Splash_that_features_a_9b7bbf7d-b08f-460c-a5e0-52712ad4a74f_3.png",
         "arved__Create_a_feature_image_for_Banana_Splash_that_features_a_9b7bbf7d-b08f-460c-a5e0-52712ad4a74f_4.png",
         "arved__Create_a_feature_image_for_Banana_Splash_that_features_a_9b7bbf7d-b08f-460c-a5e0-52712ad4a74f_1.png",
+        "arved__Create_a_feature_image_for_Banana_Splash_that_features_a_9b7bbf7d-b08f-460c-a5e0-52712ad4a74f_3.png",
         "arved__Create_a_feature_image_for_Banana_Splash_that_features_a_9b7bbf7d-b08f-460c-a5e0-52712ad4a74f_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Banana Splash (Version 4).webp",
-        "game_reviews/processed_images/Banana Splash (Version 2).webp",
+        "game_reviews/processed_images/Banana Splash (Version 1).webp",
         "game_reviews/processed_images/Banana Splash (Version 3).webp",
-        "game_reviews/processed_images/Banana Splash (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Banana Splash (Version 2).webp"
+    ],
+    "name": "Banana Splash",
+    "assume_published": true,
+    "slug": "banana-splash",
+    "upload_status": "Page not found",
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Banana-Splash-Version-1-300x300.webp",
+    "content_status": "Page already has content",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Banana Splash for Free - Fun and Flexible Beach-Themed Slot' ### Meta set: 'Beginner-friendly online slot game with adjustable paylines, fun fruit symbols, and pleasing graphics.'",
+    "save_status": "Page Saved"
 }

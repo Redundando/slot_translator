@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Faithful adaptation of the Monopoly theme and graphics",
-                    "Attractive betting range from 1 cent to €25",
-                    "High volatility gaming experience with 96% RTP",
-                    "Big Event special feature for massive winnings"
+                    "Faithful adaptation of the iconic board game",
+                    "Simple gameplay with attractive betting range",
+                    "High volatility gaming experience with a 96% RTP",
+                    "Popular symbols with fascinating payouts"
                 ],
                 "cons": [
-                    "Limited number of paylines at 20",
-                    "No progressive jackpot feature"
+                    "Could be more visually engaging",
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play MONOPOLY Big Event Free: Review and Game Guide",
-                "meta_description": "Get ready to play MONOPOLY Big Event for free! Check out our review to learn about the game's special features, symbols, betting range, and RTP."
+                "meta_title": "Play MONOPOLY Big Event Free - Exciting Slot Game",
+                "meta_description": "Play MONOPOLY Big Event for free and experience the excitement of the iconic board game in a slot format."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"MONOPOLY Big Event\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMonopoly Big Event: A Faithful Adaptation of the Iconic Board Game\n\nMonopoly Big Event captures the essence of the iconic board game with its faithful adaptation of the theme and graphics. From the character of Mr. Monopoly to the use of the board game's classic symbols, players will feel right at home with this slot game.\n\nSimple Gameplay with an Attractive Betting Range\n\nThis slot game features a simple gameplay structure with five reels and twenty paylines. The game's real attraction, however, is its betting range that ranges from 1 cent to €25, allowing players to bet as little as 20 cents and as high as €500.\n\nHigh Volatility Gaming Experience with a 96% RTP\n\nMonopoly Big Event promises a high volatility gaming experience with lucrative prizes and payouts. With a 96% RTP, players have a good chance of winning big as they take risks to land winning combinations on the reels.\n\nPopular Symbols with Fascinating Payouts\n\nFrom the Uncle Pennybags Wild and Rich symbols that payout up to 2000 times the bet to the classic symbols of the dog, cat, car, and ship, Monopoly Big Event offers players a fascinating range of symbols to play with. The game also features royal symbols, from 10 to Ace, that can result in lucrative payouts.\n\nBig Event Special Feature for Massive Winnings\n\nOne of the game's standout features is its Big Event special feature that allows players to earn massive winnings. Players can bypass obstacles such as jail and go straight to the big prizes. The game also has a slot logo Wild symbol and Uncle Pennybags behind bars symbol, both of which result in special bonuses and prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"MONOPOLY Big Event\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMonopoly Big Event: A Faithful Adaptation of the Iconic Board Game\n\nMonopoly Big Event captures the essence of the iconic board game with its faithful adaptation of the theme and graphics. From the character of Mr. Monopoly to the use of the board game's classic symbols, players will feel right at home with this slot game.\n\nSimple Gameplay with an Attractive Betting Range\n\nThis slot game features a simple gameplay structure with five reels and twenty paylines. The game's real attraction, however, is its betting range that ranges from 1 cent to €25, allowing players to bet as little as 20 cents and as high as €500.\n\nHigh Volatility Gaming Experience with a 96% RTP\n\nMonopoly Big Event promises a high volatility gaming experience with lucrative prizes and payouts. With a 96% RTP, players have a good chance of winning big as they take risks to land winning combinations on the reels.\n\nPopular Symbols with Fascinating Payouts\n\nFrom the Uncle Pennybags Wild and Rich symbols that payout up to 2000 times the bet to the classic symbols of the dog, cat, car, and ship, Monopoly Big Event offers players a fascinating range of symbols to play with. The game also features royal symbols, from 10 to Ace, that can result in lucrative payouts.\n\nBig Event Special Feature for Massive Winnings\n\nOne of the game's standout features is its Big Event special feature that allows players to earn massive winnings. Players can bypass obstacles such as jail and go straight to the big prizes. The game also has a slot logo Wild symbol and Uncle Pennybags behind bars symbol, both of which result in special bonuses and prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UAtUuuIzQtFlGEQxk2R0HlM6IZut",
+                "id": "chatcmpl-7WXxMZJOtr0vldw87JAE79niEmXUf",
                 "object": "chat.completion",
-                "created": 1687426072,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991380,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Faithful adaptation of the Monopoly theme and graphics\",\n        \"Attractive betting range from 1 cent to €25\",\n        \"High volatility gaming experience with 96% RTP\",\n        \"Big Event special feature for massive winnings\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines at 20\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play MONOPOLY Big Event Free: Review and Game Guide\",\n    \"meta_description\": \"Get ready to play MONOPOLY Big Event for free! Check out our review to learn about the game's special features, symbols, betting range, and RTP.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Faithful adaptation of the iconic board game\",\n    \"Simple gameplay with attractive betting range\",\n    \"High volatility gaming experience with a 96% RTP\",\n    \"Popular symbols with fascinating payouts\"\n  ],\n  \"cons\": [\n    \"Could be more visually engaging\",\n    \"Limited bonus features\"\n  ],\n  \"meta_title\": \"Play MONOPOLY Big Event Free - Exciting Slot Game\",\n  \"meta_description\": \"Play MONOPOLY Big Event for free and experience the excitement of the iconic board game in a slot format.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 520,
-                    "completion_tokens": 146,
-                    "total_tokens": 666
+                    "prompt_tokens": 517,
+                    "completion_tokens": 122,
+                    "total_tokens": 639
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/monopoly-big-event.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_MONOPOLY_Big_Ev_ff7430a3-37c2-45b5-af4a-228d0872daa0_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_MONOPOLY_Big_Ev_ff7430a3-37c2-45b5-af4a-228d0872daa0_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_MONOPOLY_Big_Ev_ff7430a3-37c2-45b5-af4a-228d0872daa0_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_MONOPOLY_Big_Ev_ff7430a3-37c2-45b5-af4a-228d0872daa0_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Monopoly Big Event (Version 1).webp",
+        "game_reviews/processed_images/Monopoly Big Event (Version 2).webp",
+        "game_reviews/processed_images/Monopoly Big Event (Version 4).webp",
+        "game_reviews/processed_images/Monopoly Big Event (Version 3).webp"
+    ],
+    "slug": "monopoly-big-event",
+    "name": "MONOPOLY Big Event",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Monopoly-Big-Event-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play MONOPOLY Big Event Free - Exciting Slot Game' ### Meta set: 'Play MONOPOLY Big Event for free and experience the excitement of the iconic board game in a slot format.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

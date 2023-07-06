@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Generous free spins bonus round with extra functionality and tricks",
-                    "Mystical atmosphere with a variety of symbols related to the Aztec civilization",
-                    "Low volatility, allowing for frequent payouts",
-                    "Demo mode available for new players to practice"
+                    "243 different options for winning combinations",
+                    "Low volatility for frequent payouts",
+                    "Generous free spins bonus round",
+                    "A demo mode available for playing for fun"
                 ],
                 "cons": [
-                    "RTP rate of 94.99% may be lower than some players prefer",
-                    "Wild symbol only appears on reel number 3"
+                    "Limited betting range",
+                    "Availability only through certain casinos"
                 ],
-                "meta_title": "Play Firelight for Free - Find Mystical Treasures on Aztec Reels",
-                "meta_description": "Discover the Aztec civilization and win big with the low-volatility and RTP of Firelight. Play for free, with generous free spins and extra tricks."
+                "meta_title": "Play Firelight Online Slot Game for Free",
+                "meta_description": "Read our review of Firelight, an online slot game offering 243 ways to win. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Firelight\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFirelight is an online slot game with a grid of five reels and no lines, providing players with 243 different options to compose the best winning combination. The game has a low volatility combined with an RTP of 94.99%, which allows for a margin of victory both for experienced players and those approaching the world of online video slots for the first time. Players can bet starting from a minimum of €0.01 up to a maximum of €0.10.\n\nSymbols\n\nFirelight features a variety of symbols that create a mystical atmosphere, such as amulets, warrior statues, drums, magic bracelets, and dream catchers, all related to the Aztec civilization. Additionally, the game includes standard poker cards which can also yield big payouts. The Volcano symbol is the Wild and appears only on reel number 3, replacing all other symbols except the Scatter. Meanwhile, the Phoenix symbol represents the Scatter of the game, and landing three of these symbols grants players from six to twelve free spins, with extra functionality and tricks that increase the chances to win up to the Jackpot.\n\nVolatility/RTP\n\nThe volatility of Firelight is considered low, which means players can expect frequent payouts at smaller amounts. It's coupled with an RTP (Return to Player) rate of 94.99%, enabling players to enjoy a high portion of their bets back over time.\n\nBonuses\n\nFirelight offers a unique and generous free spins bonus round triggered when you land three Phoenix symbols. This will activate up to twelve free spins with extra functionality and tricks that will increase the chances of winning big. Besides, there are welcome bonuses and deposit bonuses available if you want to play with real money. Furthermore, Aristocrat also offers a demo mode for those new to the online gaming world to play for fun without having to deposit any money.\n\nAvailability\n\nFirelight and other Aristocrat online video slots are available through AAMS certified casinos. Players can also easily find and play the game online through several gaming portals that feature this slot game in their collection. If players enjoy mystical-themed slots games, they're sure to enjoy a winning Firelight experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Firelight\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFirelight is an online slot game with a grid of five reels and no lines, providing players with 243 different options to compose the best winning combination. The game has a low volatility combined with an RTP of 94.99%, which allows for a margin of victory both for experienced players and those approaching the world of online video slots for the first time. Players can bet starting from a minimum of €0.01 up to a maximum of €0.10.\n\nSymbols\n\nFirelight features a variety of symbols that create a mystical atmosphere, such as amulets, warrior statues, drums, magic bracelets, and dream catchers, all related to the Aztec civilization. Additionally, the game includes standard poker cards which can also yield big payouts. The Volcano symbol is the Wild and appears only on reel number 3, replacing all other symbols except the Scatter. Meanwhile, the Phoenix symbol represents the Scatter of the game, and landing three of these symbols grants players from six to twelve free spins, with extra functionality and tricks that increase the chances to win up to the Jackpot.\n\nVolatility/RTP\n\nThe volatility of Firelight is considered low, which means players can expect frequent payouts at smaller amounts. It's coupled with an RTP (Return to Player) rate of 94.99%, enabling players to enjoy a high portion of their bets back over time.\n\nBonuses\n\nFirelight offers a unique and generous free spins bonus round triggered when you land three Phoenix symbols. This will activate up to twelve free spins with extra functionality and tricks that will increase the chances of winning big. Besides, there are welcome bonuses and deposit bonuses available if you want to play with real money. Furthermore, Aristocrat also offers a demo mode for those new to the online gaming world to play for fun without having to deposit any money.\n\nAvailability\n\nFirelight and other Aristocrat online video slots are available through AAMS certified casinos. Players can also easily find and play the game online through several gaming portals that feature this slot game in their collection. If players enjoy mystical-themed slots games, they're sure to enjoy a winning Firelight experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TFy61eV5PbSYySbDA2YxjFR5FQgZ",
+                "id": "chatcmpl-7WSnkKOwLjyMClgBWSO0yYvIgVLxx",
                 "object": "chat.completion",
-                "created": 1687207250,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 609,
-                    "completion_tokens": 163,
-                    "total_tokens": 772
-                },
+                "created": 1687971564,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Generous free spins bonus round with extra functionality and tricks\",\n        \"Mystical atmosphere with a variety of symbols related to the Aztec civilization\",\n        \"Low volatility, allowing for frequent payouts\",\n        \"Demo mode available for new players to practice\"\n    ],\n    \"cons\": [\n        \"RTP rate of 94.99% may be lower than some players prefer\",\n        \"Wild symbol only appears on reel number 3\"\n    ],\n    \"meta_title\": \"Play Firelight for Free - Find Mystical Treasures on Aztec Reels\",\n    \"meta_description\": \"Discover the Aztec civilization and win big with the low-volatility and RTP of Firelight. Play for free, with generous free spins and extra tricks.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"243 different options for winning combinations\",\n    \"Low volatility for frequent payouts\",\n    \"Generous free spins bonus round\",\n    \"A demo mode available for playing for fun\"\n  ],\n  \"cons\": [\n    \"Limited betting range\",\n    \"Availability only through certain casinos\"\n  ],\n  \"meta_title\": \"Play Firelight Online Slot Game for Free\",\n  \"meta_description\": \"Read our review of Firelight, an online slot game offering 243 ways to win. Play now for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 606,
+                    "completion_tokens": 112,
+                    "total_tokens": 718
+                }
             }
         },
         {
@@ -809,5 +809,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/firelight.json"
+    "filename": "game_reviews/translations/firelight.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon_style_feature_image_for_the_game_Fireli_7cf39d33-d10b-4e5e-981b-cc3d3264d9c5_4.png",
+        "arved__Create_a_cartoon_style_feature_image_for_the_game_Fireli_7cf39d33-d10b-4e5e-981b-cc3d3264d9c5_1.png",
+        "arved__Create_a_cartoon_style_feature_image_for_the_game_Fireli_7cf39d33-d10b-4e5e-981b-cc3d3264d9c5_2.png",
+        "arved__Create_a_cartoon_style_feature_image_for_the_game_Fireli_7cf39d33-d10b-4e5e-981b-cc3d3264d9c5_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "firelight",
+    "name": "Firelight",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/firelight_thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Firelight Online Slot Game for Free' ### Meta set: 'Read our review of Firelight, an online slot game offering 243 ways to win. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Great vintage-style graphics and design",
-                    "Various bonus features like multipliers, free spins, and wild spins",
-                    "Flexible betting range from 20 cents to €100 per spin",
-                    "Decent payouts with a maximum payout of 2,500 times the bet amount"
+                    "Unique blend of vintage style and modern elements",
+                    "Decent payouts and winning possibilities",
+                    "Various bonus features including multipliers and free spins",
+                    "Well-executed mix of modern and vintage styling"
                 ],
                 "cons": [
-                    "Only five pay lines may not be enough for some players",
-                    "The game may feel too traditional for those seeking modern features"
+                    "Limited number of pay lines",
+                    "Relatively low maximum payout"
                 ],
-                "meta_title": "Play Hit it Hard Free: Review of ELK's Fruit Machine-inspired Slot",
-                "meta_description": "Experience the nostalgia of classic Fruit Machines with Hit it Hard, the online slot game by ELK. Free play review of payouts, features, and design."
+                "meta_title": "Play Hit it Hard for Free - Exciting Vintage-Style Slot Game",
+                "meta_description": "Read our review of Hit it Hard and play this vintage-style slot game for free. Enjoy bonus features and decent payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hit it Hard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nHit it Hard Slot Game Overview\n\nHit it Hard is an online slot game that takes inspiration from the traditional Fruit Machines. Produced by ELK, the software company, this slot game was launched in January 2020. Its overall appearance is a unique blend of vintage style and modern elements that give a nod to the iconic Fruit Machine of the past.\n\nGameplay Features and Special Symbols\n\nHit it Hard is a game that offers three reels and five pay lines, with decent payouts and winning possibilities. The symbols include regular and special ones, along with bonus features that pay tribute to the tradition of classic Fruit Machines. Such features include multipliers, free spins, wild spins, and stacked wilds. The special symbols of the game are a Wild and a Scatter symbol, which can help increase the payout. \n\nBetting Range and Maximum Payout\n\nHit it Hard offers a betting range that is pretty flexible and can accommodate the needs of most players. The minimum bet starts at 20 cents per spin, making it accessible to all, while the maximum bet value is €100 per spin, providing a chance to win significant payouts. The game has medium-high volatility, with a maximum payout of 2,500 times the bet amount, which is relatively impressive.\n\nGraphics and Design\n\nHit it Hard is a well-executed mix of modern and vintage styling that immerses the players in a late millennium game-room atmosphere. The bright colors of neon lights and vintage graphics take the players back to the 90s, while a theme soundtrack accompanies them as they spin the reels, providing an engaging and entertaining gaming experience.\n\nRTP and Overall Gaming Experience\n\nThe theoretical return to the player (RTP) in Hit it Hard is 96.3%, which is in line with the industry average. The game offers decent payouts, various bonus features, flexible betting ranges, and is enjoyable overall, making it a decent slot game for all types of players who are looking for some vintage-style fun.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hit it Hard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nHit it Hard Slot Game Overview\n\nHit it Hard is an online slot game that takes inspiration from the traditional Fruit Machines. Produced by ELK, the software company, this slot game was launched in January 2020. Its overall appearance is a unique blend of vintage style and modern elements that give a nod to the iconic Fruit Machine of the past.\n\nGameplay Features and Special Symbols\n\nHit it Hard is a game that offers three reels and five pay lines, with decent payouts and winning possibilities. The symbols include regular and special ones, along with bonus features that pay tribute to the tradition of classic Fruit Machines. Such features include multipliers, free spins, wild spins, and stacked wilds. The special symbols of the game are a Wild and a Scatter symbol, which can help increase the payout. \n\nBetting Range and Maximum Payout\n\nHit it Hard offers a betting range that is pretty flexible and can accommodate the needs of most players. The minimum bet starts at 20 cents per spin, making it accessible to all, while the maximum bet value is €100 per spin, providing a chance to win significant payouts. The game has medium-high volatility, with a maximum payout of 2,500 times the bet amount, which is relatively impressive.\n\nGraphics and Design\n\nHit it Hard is a well-executed mix of modern and vintage styling that immerses the players in a late millennium game-room atmosphere. The bright colors of neon lights and vintage graphics take the players back to the 90s, while a theme soundtrack accompanies them as they spin the reels, providing an engaging and entertaining gaming experience.\n\nRTP and Overall Gaming Experience\n\nThe theoretical return to the player (RTP) in Hit it Hard is 96.3%, which is in line with the industry average. The game offers decent payouts, various bonus features, flexible betting ranges, and is enjoyable overall, making it a decent slot game for all types of players who are looking for some vintage-style fun.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TqHXyq5obnC0mDtDU41m8TDhQRiZ",
+                "id": "chatcmpl-7WUo8nVhqIPUGi4SjMfwsaM58U0Tm",
                 "object": "chat.completion",
-                "created": 1687346839,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687979276,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Great vintage-style graphics and design\",\n        \"Various bonus features like multipliers, free spins, and wild spins\",\n        \"Flexible betting range from 20 cents to €100 per spin\",\n        \"Decent payouts with a maximum payout of 2,500 times the bet amount\"\n    ],\n    \"cons\": [\n        \"Only five pay lines may not be enough for some players\",\n        \"The game may feel too traditional for those seeking modern features\"\n    ],\n    \"meta_title\": \"Play Hit it Hard Free: Review of ELK's Fruit Machine-inspired Slot\",\n    \"meta_description\": \"Experience the nostalgia of classic Fruit Machines with Hit it Hard, the online slot game by ELK. Free play review of payouts, features, and design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique blend of vintage style and modern elements\",\n    \"Decent payouts and winning possibilities\",\n    \"Various bonus features including multipliers and free spins\",\n    \"Well-executed mix of modern and vintage styling\"\n  ],\n  \"cons\": [\n    \"Limited number of pay lines\",\n    \"Relatively low maximum payout\"\n  ],\n  \"meta_title\": \"Play Hit it Hard for Free - Exciting Vintage-Style Slot Game\",\n  \"meta_description\": \"Read our review of Hit it Hard and play this vintage-style slot game for free. Enjoy bonus features and decent payouts.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 576,
-                    "completion_tokens": 164,
-                    "total_tokens": 740
+                    "prompt_tokens": 573,
+                    "completion_tokens": 128,
+                    "total_tokens": 701
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hit-it-hard.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_the_online_slot_79992438-7eee-4bef-be31-110d234f05f2_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_online_slot_79992438-7eee-4bef-be31-110d234f05f2_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_online_slot_79992438-7eee-4bef-be31-110d234f05f2_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_online_slot_79992438-7eee-4bef-be31-110d234f05f2_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hit It Hard (Version 3).webp",
+        "game_reviews/processed_images/Hit It Hard (Version 4).webp",
+        "game_reviews/processed_images/Hit It Hard (Version 2).webp",
+        "game_reviews/processed_images/Hit It Hard (Version 1).webp"
+    ],
+    "slug": "hit-it-hard",
+    "name": "Hit it Hard",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hit-It-Hard-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hit it Hard for Free - Exciting Vintage-Style Slot Game' ### Meta set: 'Read our review of Hit it Hard and play this vintage-style slot game for free. Enjoy bonus features and decent payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

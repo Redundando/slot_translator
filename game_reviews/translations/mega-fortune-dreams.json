@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multiple opportunities for jackpot prizes",
-                    "Immersive and visually appealing",
-                    "Special Wild and Scatter symbols for respins",
-                    "Exciting bonus round with a wheel of fortune"
+                    "Multiple special symbols and bonus features",
+                    "Visually stunning tropical vacation theme",
+                    "Immersive gameplay with relaxing in-game sounds",
+                    "Opportunities for jackpot prizes"
                 ],
                 "cons": [
                     "Limited number of paylines",
-                    "Requires landing at least three bonus symbols to access the Jackpot round"
+                    "May require a minimum deposit to access the Jackpot round"
                 ],
-                "meta_title": "Play Mega Fortune Dreams for Free - Review",
-                "meta_description": "Read our review of Mega Fortune Dreams, a visually appealing slot with multiple opportunities for jackpot prizes. Play for free and test your luck!"
+                "meta_title": "Play Mega Fortune Dreams | Free Slot Game Review",
+                "meta_description": "Play Mega Fortune Dreams for free and experience an immersive and visually stunning slot game with opportunities for jackpot prizes."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Fortune dreams\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nMega Fortune Dreams is a 5 * 3 grid slot with a limited number of paylines. It has several special functions including the Wild symbol, which replaces normal symbols, and the Scatter symbol, which can trigger a respin by combining with three Wild symbols. The bonus is represented by a wheel of fortune and landing at least three of them can lead us to a Jackpot round with four wheels involved and opportunities for higher rewards.\n\nTheme and graphics\n\nMega Fortune Dreams has a dreamy tropical vacation setting on a luxurious yacht. The slot symbols showcase the idea of wealth with diamonds, handbags, playing cards, expensive wristwatches, champagne bottles, and precious stones. The slot is complemented by the relaxing in-game sounds and music, making it a visually and sonically appealing game.\n\nSpecial symbols and bonuses\n\nAmong the special symbols in Mega Fortune Dreams, the Wild symbol replaces normal symbols while the Scatter symbol can combine with Wild symbols to trigger a respin. The bonus symbol is represented by a wheel of fortune, and a minimum of three symbols can initiate a Jackpot round. There are four wheels of fortune with higher rewards as we advance towards the innermost ring, making the game exciting enough for bigger wins.\n\nComparison to other slot games\n\nMega Fortune Dreams can be compared to other opulent online slots like Microgaming's Golden Goose Genie's Gems or Pharaoh's Secret. However, it offers unique features such as the respin, which needs both Wild and Scatter symbols. Compared to similar games, Mega Fortune Dreams has an immersive experience and can provide numerous winning opportunities with reduced values while aiming for bigger Jackpots.\n\nJackpot prizes and winning potential\n\nMega Fortune Dreams offers several opportunities for jackpot prizes. The game has the potential to change our lives with a minimum deposit by allowing us to participate in the Jackpot round. With four wheels involved and higher rewards as we advance toward the innermost ring, Mega Fortune Dreams ensures the gameplay is exciting enough for its players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Fortune dreams\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nMega Fortune Dreams is a 5 * 3 grid slot with a limited number of paylines. It has several special functions including the Wild symbol, which replaces normal symbols, and the Scatter symbol, which can trigger a respin by combining with three Wild symbols. The bonus is represented by a wheel of fortune and landing at least three of them can lead us to a Jackpot round with four wheels involved and opportunities for higher rewards.\n\nTheme and graphics\n\nMega Fortune Dreams has a dreamy tropical vacation setting on a luxurious yacht. The slot symbols showcase the idea of wealth with diamonds, handbags, playing cards, expensive wristwatches, champagne bottles, and precious stones. The slot is complemented by the relaxing in-game sounds and music, making it a visually and sonically appealing game.\n\nSpecial symbols and bonuses\n\nAmong the special symbols in Mega Fortune Dreams, the Wild symbol replaces normal symbols while the Scatter symbol can combine with Wild symbols to trigger a respin. The bonus symbol is represented by a wheel of fortune, and a minimum of three symbols can initiate a Jackpot round. There are four wheels of fortune with higher rewards as we advance towards the innermost ring, making the game exciting enough for bigger wins.\n\nComparison to other slot games\n\nMega Fortune Dreams can be compared to other opulent online slots like Microgaming's Golden Goose Genie's Gems or Pharaoh's Secret. However, it offers unique features such as the respin, which needs both Wild and Scatter symbols. Compared to similar games, Mega Fortune Dreams has an immersive experience and can provide numerous winning opportunities with reduced values while aiming for bigger Jackpots.\n\nJackpot prizes and winning potential\n\nMega Fortune Dreams offers several opportunities for jackpot prizes. The game has the potential to change our lives with a minimum deposit by allowing us to participate in the Jackpot round. With four wheels involved and higher rewards as we advance toward the innermost ring, Mega Fortune Dreams ensures the gameplay is exciting enough for its players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7cazA9Qih3FVZdXPxsAJ1EuPAvj",
+                "id": "chatcmpl-7WjWETAAJPlLPgR8jzEeJQGvHccTJ",
                 "object": "chat.completion",
-                "created": 1687413492,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1688035826,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Multiple opportunities for jackpot prizes\",\n        \"Immersive and visually appealing\",\n        \"Special Wild and Scatter symbols for respins\",\n        \"Exciting bonus round with a wheel of fortune\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"Requires landing at least three bonus symbols to access the Jackpot round\"\n    ],\n    \"meta_title\": \"Play Mega Fortune Dreams for Free - Review\",\n    \"meta_description\": \"Read our review of Mega Fortune Dreams, a visually appealing slot with multiple opportunities for jackpot prizes. Play for free and test your luck!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Multiple special symbols and bonus features\",\n    \"Visually stunning tropical vacation theme\",\n    \"Immersive gameplay with relaxing in-game sounds\",\n    \"Opportunities for jackpot prizes\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"May require a minimum deposit to access the Jackpot round\"\n  ],\n  \"meta_title\": \"Play Mega Fortune Dreams | Free Slot Game Review\",\n  \"meta_description\": \"Play Mega Fortune Dreams for free and experience an immersive and visually stunning slot game with opportunities for jackpot prizes.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 588,
-                    "completion_tokens": 130,
-                    "total_tokens": 718
+                    "prompt_tokens": 585,
+                    "completion_tokens": 121,
+                    "total_tokens": 706
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-fortune-dreams.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Mega_Fortune_Dreams_Prompt_Cr_02a00a43-c5fa-45d2-82b3-c0b8beb35827_3.png",
+        "arved__Create_a_feature_image_for_Mega_Fortune_Dreams_Prompt_Cr_02a00a43-c5fa-45d2-82b3-c0b8beb35827_4.png",
+        "arved__Create_a_feature_image_for_Mega_Fortune_Dreams_Prompt_Cr_02a00a43-c5fa-45d2-82b3-c0b8beb35827_2.png",
+        "arved__Create_a_feature_image_for_Mega_Fortune_Dreams_Prompt_Cr_02a00a43-c5fa-45d2-82b3-c0b8beb35827_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Fortune Dreams (Version 2).webp",
+        "game_reviews/processed_images/Mega Fortune Dreams (Version 3).webp",
+        "game_reviews/processed_images/Mega Fortune Dreams (Version 4).webp",
+        "game_reviews/processed_images/Mega Fortune Dreams (Version 1).webp"
+    ],
+    "slug": "mega-fortune-dreams",
+    "name": "Mega Fortune dreams",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Fortune-Dreams-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Fortune Dreams | Free Slot Game Review' ### Meta set: 'Play Mega Fortune Dreams for free and experience an immersive and visually stunning slot game with opportunities for jackpot prizes.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

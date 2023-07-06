@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and design",
-                    "Exciting and immersive battle mode",
-                    "Variety of character abilities",
-                    "Strategic gameplay potential"
+                    "Impressive Graphics and Design",
+                    "Symbols and Functions",
+                    "Battle Mode",
+                    "Character Abilities"
                 ],
                 "cons": [
-                    "Symbols not as numerous as other slots",
-                    "May require time to master gameplay strategy"
+                    "Limited symbol variety in base game",
+                    "Requires strategic gameplay"
                 ],
-                "meta_title": "Play Monster Hunter for Free - Impressive Graphics & Exciting Battle Mode",
-                "meta_description": "Experience the unique and immersive gameplay of Monster Hunter with exceptional graphics, character abilities, and strategic potential. Play for free now!"
+                "meta_title": "Play Monster Hunter Free - Exciting and Immersive Slot Game",
+                "meta_description": "Read our review of Monster Hunter, a free online slot game with impressive graphics and strategic gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Monster Hunter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nImpressive Graphics and Design\n\nMonster Hunter features exceptional graphics and design that sets it apart from other online slot games. The battle theme and characters are particularly impressive, with each character having their unique abilities, often similar to video games characters. The animations and sound effects are also fantastic, adding to the game's immersive experience. While the basic structure of the game is familiar, the graphics and design of Monster Hunter make it a unique and exciting gaming experience.\n\nSymbols and Functions\n\nWhile the symbols in Monster Hunter are not as numerous as in other slot machines, they grow significantly in number when you activate the battle mode. The symbols and functions in the game are carefully crafted to include a variety of advantages and benefits, contributing to the game's overall strategy. The battle mode generates three potential outcomes for every action and results in multiple winning combinations, making the game exciting and unpredictable.\n\nBattle Mode\n\nThe real excitement of Monster Hunter comes with the battle mode, which is activated when you align the main character five times. The battle mode is similar to the combat scenarios in popular video games like Pokemon. You get to fight other monsters using scrolls that give you a variety of advantages and benefits, and every action generates three potential outcomes. The battle mode is exciting, fast-paced and adds a unique twist to the overall gameplay. It also provides an opportunity to generate more significant winnings, keeping the player engaged and entertained.\n\nCharacter Abilities\n\nMonster Hunter features a range of unique characters, each with their abilities and strengths. As you progress through the game, you will unlock more characters, each with their unique abilities. The different characters offer an exciting selection of strategic choices, and the right combination of characters can improve your winnings significantly. The character abilities add depth to the gameplay, making it more exciting and unpredictable.\n\nGameplay Strategy\n\nMonster Hunter is all about strategy and making the right choices at the right time. The battle mode generates multiple winning combinations, and the outcome of every action contributes to overall winning potential. Players must be strategic with the characters they choose and the scrolls they use. Understanding each of the characters' unique abilities contributes significantly to winning strategies and overall gameplay experience. Mastering the gameplay strategy of Monster Hunter will significantly increase your chances of winning big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Monster Hunter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nImpressive Graphics and Design\n\nMonster Hunter features exceptional graphics and design that sets it apart from other online slot games. The battle theme and characters are particularly impressive, with each character having their unique abilities, often similar to video games characters. The animations and sound effects are also fantastic, adding to the game's immersive experience. While the basic structure of the game is familiar, the graphics and design of Monster Hunter make it a unique and exciting gaming experience.\n\nSymbols and Functions\n\nWhile the symbols in Monster Hunter are not as numerous as in other slot machines, they grow significantly in number when you activate the battle mode. The symbols and functions in the game are carefully crafted to include a variety of advantages and benefits, contributing to the game's overall strategy. The battle mode generates three potential outcomes for every action and results in multiple winning combinations, making the game exciting and unpredictable.\n\nBattle Mode\n\nThe real excitement of Monster Hunter comes with the battle mode, which is activated when you align the main character five times. The battle mode is similar to the combat scenarios in popular video games like Pokemon. You get to fight other monsters using scrolls that give you a variety of advantages and benefits, and every action generates three potential outcomes. The battle mode is exciting, fast-paced and adds a unique twist to the overall gameplay. It also provides an opportunity to generate more significant winnings, keeping the player engaged and entertained.\n\nCharacter Abilities\n\nMonster Hunter features a range of unique characters, each with their abilities and strengths. As you progress through the game, you will unlock more characters, each with their unique abilities. The different characters offer an exciting selection of strategic choices, and the right combination of characters can improve your winnings significantly. The character abilities add depth to the gameplay, making it more exciting and unpredictable.\n\nGameplay Strategy\n\nMonster Hunter is all about strategy and making the right choices at the right time. The battle mode generates multiple winning combinations, and the outcome of every action contributes to overall winning potential. Players must be strategic with the characters they choose and the scrolls they use. Understanding each of the characters' unique abilities contributes significantly to winning strategies and overall gameplay experience. Mastering the gameplay strategy of Monster Hunter will significantly increase your chances of winning big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UBZVy8AvxztlyFs7e7bepQ5zOv6U",
+                "id": "chatcmpl-7WY3jP1OADc7duVF96Fi5raA6LdeQ",
                 "object": "chat.completion",
-                "created": 1687428677,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991775,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and design\",\n        \"Exciting and immersive battle mode\",\n        \"Variety of character abilities\",\n        \"Strategic gameplay potential\"\n    ],\n    \"cons\": [\n        \"Symbols not as numerous as other slots\",\n        \"May require time to master gameplay strategy\"\n    ],\n    \"meta_title\": \"Play Monster Hunter for Free - Impressive Graphics & Exciting Battle Mode\",\n    \"meta_description\": \"Experience the unique and immersive gameplay of Monster Hunter with exceptional graphics, character abilities, and strategic potential. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive Graphics and Design\",\n    \"Symbols and Functions\",\n    \"Battle Mode\",\n    \"Character Abilities\"\n  ],\n  \"cons\": [\n    \"Limited symbol variety in base game\",\n    \"Requires strategic gameplay\"\n  ],\n  \"meta_title\": \"Play Monster Hunter Free - Exciting and Immersive Slot Game\",\n  \"meta_description\": \"Read our review of Monster Hunter, a free online slot game with impressive graphics and strategic gameplay.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 122,
-                    "total_tokens": 745
+                    "prompt_tokens": 620,
+                    "completion_tokens": 100,
+                    "total_tokens": 720
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/monster-hunter.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Monster_Hunter__f6ff47db-eb10-4f04-88de-53f1856b1bb8_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Monster_Hunter__f6ff47db-eb10-4f04-88de-53f1856b1bb8_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Monster_Hunter__f6ff47db-eb10-4f04-88de-53f1856b1bb8_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Monster_Hunter__f6ff47db-eb10-4f04-88de-53f1856b1bb8_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Monster Hunter (Version 2).webp",
+        "game_reviews/processed_images/Monster Hunter (Version 1).webp",
+        "game_reviews/processed_images/Monster Hunter (Version 4).webp",
+        "game_reviews/processed_images/Monster Hunter (Version 3).webp"
+    ],
+    "slug": "monster-hunter",
+    "name": "Monster Hunter",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Monster-Hunter-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Monster Hunter Free - Exciting and Immersive Slot Game' ### Meta set: 'Read our review of Monster Hunter, a free online slot game with impressive graphics and strategic gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

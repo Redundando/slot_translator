@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique instant lottery gameplay",
-                    "Growing jackpot",
+                    "Unique instant lottery mechanics",
                     "Intuitive and enjoyable for new players",
-                    "Interesting winnings depending on player's luck"
+                    "Interesting winnings depend on player's choices",
+                    "Growing jackpot as player unlocks more pearls"
                 ],
                 "cons": [
-                    "No special features",
-                    "Generic sound that doesn't match the theme"
+                    "Generic sound that could better align with the theme",
+                    "Losing all collected and unredeemed loot if Porcupine Fish is found"
                 ],
-                "meta_title": "Play Lucky Ocean for Free - Unique Instant Lottery Gameplay",
-                "meta_description": "Read our review of Lucky Ocean and play it for free. Unique instant lottery mechanics with a growing jackpot and interesting winnings depending on player's luck."
+                "meta_title": "Play Lucky Ocean and Win Big - Free Online Slot Game",
+                "meta_description": "Play Lucky Ocean, a unique online slot game with growing jackpot. Win big and play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Ocean\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLucky Ocean is a unique online slot machine that offers instant lottery mechanics instead of traditional slot features. The game has 4 reels, 7 lines, and an RTP of 96.2%. The player has to manually choose the position of the lucky symbol and move on to the upper line to unlock a growing jackpot. However, if the player finds the Porcupine Fish instead of the Pearl, they lose the collected and unredeemed loot and have to start over. There are no special features in the game, but it is intuitive and enjoyable for new players.\n\nBonus features\n\n\n\nVisuals and sound\n\nThe Lucky Ocean online slot machine has a fantastic underwater scene with bright colors of the sea and cartoon-style corals. The game grid is positioned in the middle of the scene. However, the sound that accompanies the game adventure is relaxing but generic and could align better with the chosen theme.\n\nPayouts\n\nThe game offers interesting winnings that depend solely on the player's luck and gaming choices. The player can take the risk of increasing the value of the line winnings or cashing out the winnings. However, the winnings will depend solely on the choices made personally. There are no special features, but it is precisely the essence of the game that makes it enjoyable. The jackpot grows as the player progresses through the upper line and unlocks more pearls.\n\nJackpot\n\nLucky Ocean offers a growing jackpot that increases as the player progresses through the upper line and unlocks more pearls. The player can choose to cash out the winnings or take the risk of increasing the value of the line winnings to try and reach the Big Win, however, finding the Porcupine Fish instead of the Pearl results in losing all the collected and unredeemed loot.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Ocean\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLucky Ocean is a unique online slot machine that offers instant lottery mechanics instead of traditional slot features. The game has 4 reels, 7 lines, and an RTP of 96.2%. The player has to manually choose the position of the lucky symbol and move on to the upper line to unlock a growing jackpot. However, if the player finds the Porcupine Fish instead of the Pearl, they lose the collected and unredeemed loot and have to start over. There are no special features in the game, but it is intuitive and enjoyable for new players.\n\nBonus features\n\n\n\nVisuals and sound\n\nThe Lucky Ocean online slot machine has a fantastic underwater scene with bright colors of the sea and cartoon-style corals. The game grid is positioned in the middle of the scene. However, the sound that accompanies the game adventure is relaxing but generic and could align better with the chosen theme.\n\nPayouts\n\nThe game offers interesting winnings that depend solely on the player's luck and gaming choices. The player can take the risk of increasing the value of the line winnings or cashing out the winnings. However, the winnings will depend solely on the choices made personally. There are no special features, but it is precisely the essence of the game that makes it enjoyable. The jackpot grows as the player progresses through the upper line and unlocks more pearls.\n\nJackpot\n\nLucky Ocean offers a growing jackpot that increases as the player progresses through the upper line and unlocks more pearls. The player can choose to cash out the winnings or take the risk of increasing the value of the line winnings to try and reach the Big Win, however, finding the Porcupine Fish instead of the Pearl results in losing all the collected and unredeemed loot.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3TWY9HE6EwlntbnCyyo08iAXhle",
+                "id": "chatcmpl-7WWmVc5iD5GUuaURiB9vwKbJK574b",
                 "object": "chat.completion",
-                "created": 1687397554,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986863,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique instant lottery gameplay\",\n        \"Growing jackpot\",\n        \"Intuitive and enjoyable for new players\",\n        \"Interesting winnings depending on player's luck\"\n    ],\n    \"cons\": [\n        \"No special features\",\n        \"Generic sound that doesn't match the theme\"\n    ],\n    \"meta_title\": \"Play Lucky Ocean for Free - Unique Instant Lottery Gameplay\",\n    \"meta_description\": \"Read our review of Lucky Ocean and play it for free. Unique instant lottery mechanics with a growing jackpot and interesting winnings depending on player's luck.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique instant lottery mechanics\",\n    \"Intuitive and enjoyable for new players\",\n    \"Interesting winnings depend on player's choices\",\n    \"Growing jackpot as player unlocks more pearls\"\n  ],\n  \"cons\": [\n    \"Generic sound that could better align with the theme\",\n    \"Losing all collected and unredeemed loot if Porcupine Fish is found\"\n  ],\n  \"meta_title\": \"Play Lucky Ocean and Win Big - Free Online Slot Game\",\n  \"meta_description\": \"Play Lucky Ocean, a unique online slot game with growing jackpot. Win big and play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 531,
-                    "completion_tokens": 119,
-                    "total_tokens": 650
+                    "prompt_tokens": 528,
+                    "completion_tokens": 129,
+                    "total_tokens": 657
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-ocean.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_engaging_feature__3752174c-a34c-4323-bb0b-e901e83aab08_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_engaging_feature__3752174c-a34c-4323-bb0b-e901e83aab08_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_engaging_feature__3752174c-a34c-4323-bb0b-e901e83aab08_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_engaging_feature__3752174c-a34c-4323-bb0b-e901e83aab08_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Ocean (Version 1).webp",
+        "game_reviews/processed_images/Lucky Ocean (Version 3).webp",
+        "game_reviews/processed_images/Lucky Ocean (Version 4).webp",
+        "game_reviews/processed_images/Lucky Ocean (Version 2).webp"
+    ],
+    "slug": "lucky-ocean",
+    "name": "Lucky Ocean",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Ocean-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Ocean and Win Big - Free Online Slot Game' ### Meta set: 'Play Lucky Ocean, a unique online slot game with growing jackpot. Win big and play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

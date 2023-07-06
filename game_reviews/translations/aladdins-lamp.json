@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exceptional graphics and image quality",
-                    "Well-executed theme and symbols",
-                    "CQ9 Gaming's reputation for graphics",
-                    "Striking genie of the lamp and city backdrop"
+                    "Exceptional Graphics and Image Quality",
+                    "Well-executed Theme and Symbols",
+                    "CQ9 Gaming's Reputation for Graphics",
+                    "Striking Genie and City Backdrop"
                 ],
                 "cons": [
-                    "Limited bottom menu functions",
-                    "No bonus rounds"
+                    "None",
+                    "None"
                 ],
-                "meta_title": "Play Aladdin's Lamp Free Slot Game Review",
-                "meta_description": "Read our review of Aladdin's Lamp, an online slot game by CQ9 Gaming. Play for free and experience exceptional graphics and exciting features."
+                "meta_title": "Play Aladdin’s Lamp Free - Exceptional Graphics & Immersive Theme",
+                "meta_description": "Read our review of Aladdin’s Lamp and play for free with exceptional graphics and immersive theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aladdin’s Lamp\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExceptional Graphics and Image Quality\n\nAladdin’s Lamp by CQ9 Gaming is without a doubt one of the best slot games available in terms of graphics and image quality. The game features a genie of the lamp depicted in a beautiful blue color and a fantastic city backdrop established on another planet. The characters, symbols, and images are well-defined and designed to make the game experience enjoyable and engaging.\n\nTheme and Symbols\n\nThe game revolves around the story of Aladdin's Lamp, and the theme is well-executed with every aspect of the game being related to this world. The symbols and characters include carpets, camels, and elegant characters, all designed to help players win immense wealth as they spin the reels. The overall theme and symbols used in the game give a realistic and immersive experience to the players.\n\nCQ9 Gaming's Reputation for Graphics\n\nCQ9 Gaming is known for the excellent graphics they offer in their games, and Aladdin's Lamp is no exception. The provider's graphics are always top-notch and visually stunning, which makes their slot games stand out in the crowded online gambling industry. The graphics and image quality of Aladdin's Lamp reflect the overall reputation of CQ9 Gaming for providing visually impressive games.\n\nGenie of the lamp and city backdrop\n\nThe genie of the lamp and the city backdrop are the most striking aspects of Aladdin’s Lamp. The genie is depicted in a beautiful blue color with well-defined characters, which complements the fantastic city backdrop that seems to be established on another planet. The houses that stand out on the top corners of the slot machine transport you to another world and give you a sense of magic and awe-inspiring visuals.\n\nFunctions of the Game\n\nAladdin’s Lamp offers various exciting features that make the game enjoyable and engaging for the players. The game has a basic bottom menu that is unique and constant, and the symbols and characters try to combine themselves in the right way to help players win a lot of wealth. The game's functions and symbols are well-designed to ensure that players have a great experience while playing and stand a chance to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aladdin’s Lamp\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExceptional Graphics and Image Quality\n\nAladdin’s Lamp by CQ9 Gaming is without a doubt one of the best slot games available in terms of graphics and image quality. The game features a genie of the lamp depicted in a beautiful blue color and a fantastic city backdrop established on another planet. The characters, symbols, and images are well-defined and designed to make the game experience enjoyable and engaging.\n\nTheme and Symbols\n\nThe game revolves around the story of Aladdin's Lamp, and the theme is well-executed with every aspect of the game being related to this world. The symbols and characters include carpets, camels, and elegant characters, all designed to help players win immense wealth as they spin the reels. The overall theme and symbols used in the game give a realistic and immersive experience to the players.\n\nCQ9 Gaming's Reputation for Graphics\n\nCQ9 Gaming is known for the excellent graphics they offer in their games, and Aladdin's Lamp is no exception. The provider's graphics are always top-notch and visually stunning, which makes their slot games stand out in the crowded online gambling industry. The graphics and image quality of Aladdin's Lamp reflect the overall reputation of CQ9 Gaming for providing visually impressive games.\n\nGenie of the lamp and city backdrop\n\nThe genie of the lamp and the city backdrop are the most striking aspects of Aladdin’s Lamp. The genie is depicted in a beautiful blue color with well-defined characters, which complements the fantastic city backdrop that seems to be established on another planet. The houses that stand out on the top corners of the slot machine transport you to another world and give you a sense of magic and awe-inspiring visuals.\n\nFunctions of the Game\n\nAladdin’s Lamp offers various exciting features that make the game enjoyable and engaging for the players. The game has a basic bottom menu that is unique and constant, and the symbols and characters try to combine themselves in the right way to help players win a lot of wealth. The game's functions and symbols are well-designed to ensure that players have a great experience while playing and stand a chance to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SULRaW3dw6Qn5ezIbudu7sF8D9Og",
+                "id": "chatcmpl-7WLfN4FLCGRGMA2AHp5ADLMTMVA80",
                 "object": "chat.completion",
-                "created": 1687024185,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 603,
-                    "completion_tokens": 124,
-                    "total_tokens": 727
-                },
+                "created": 1687944137,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exceptional graphics and image quality\",\n        \"Well-executed theme and symbols\",\n        \"CQ9 Gaming's reputation for graphics\",\n        \"Striking genie of the lamp and city backdrop\"\n    ],\n    \"cons\": [\n        \"Limited bottom menu functions\",\n        \"No bonus rounds\"\n    ],\n    \"meta_title\": \"Play Aladdin's Lamp Free Slot Game Review\",\n    \"meta_description\": \"Read our review of Aladdin's Lamp, an online slot game by CQ9 Gaming. Play for free and experience exceptional graphics and exciting features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exceptional Graphics and Image Quality\",\n    \"Well-executed Theme and Symbols\",\n    \"CQ9 Gaming's Reputation for Graphics\",\n    \"Striking Genie and City Backdrop\"\n  ],\n  \"cons\": [\n    \"None\",\n    \"None\"\n  ],\n  \"meta_title\": \"Play Aladdin’s Lamp Free - Exceptional Graphics & Immersive Theme\",\n  \"meta_description\": \"Read our review of Aladdin’s Lamp and play for free with exceptional graphics and immersive theme.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 601,
+                    "completion_tokens": 111,
+                    "total_tokens": 712
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/aladdins-lamp.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_1.png",
         "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_4.png"
+        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Aladdins_Lamp_that_cap_8f5c6320-5dbf-47ee-ad0c-6645eb924771_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Aladdins Lamp (Version 3).webp",
-        "game_reviews/processed_images/Aladdins Lamp (Version 1).webp",
+        "game_reviews/processed_images/Aladdins Lamp (Version 4).webp",
         "game_reviews/processed_images/Aladdins Lamp (Version 2).webp",
-        "game_reviews/processed_images/Aladdins Lamp (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Aladdins Lamp (Version 1).webp"
+    ],
+    "slug": "aladdins-lamp",
+    "name": "Aladdin’s Lamp",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aladdins-Lamp-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aladdin’s Lamp Free - Exceptional Graphics & Immersive Theme' ### Meta set: 'Read our review of Aladdin’s Lamp and play for free with exceptional graphics and immersive theme.'",
+    "save_status": "Page Saved",
+    "content_status": "Page already has content"
 }

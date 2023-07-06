@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Attractive fruit-themed game design",
-                    "Exciting bonus features such as free spins and multipliers",
-                    "Gamble option to double winnings",
-                    "Sleek and modern graphics"
+                    "Fruit-themed game with sleek and modern graphics",
+                    "Six reels and three rows for more chances to win",
+                    "Bonus features like free spins and multipliers up to x8",
+                    "Gamble option to double the win"
                 ],
                 "cons": [
-                    "Relatively few rows (only three) and relatively few pay lines (10)",
-                    "Limited number of bonus features compared to some other slots"
+                    "Limited number of special symbols with multipliers",
+                    "Scatter symbol pays less compared to other symbols"
                 ],
-                "meta_title": "Play Lucky Reels for Free - Our Game Review",
-                "meta_description": "Read our comprehensive review of Lucky Reels and play this exciting fruit-themed game for free. Experience exciting bonus features like free spins and multipliers."
+                "meta_title": "Play Lucky Reels for Free - Exciting Fruit-Themed Slot",
+                "meta_description": "Play Lucky Reels for free and enjoy bonus features like free spins and multipliers."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLucky Reels is a fruit-themed game that offers six reels and three rows with gameplay that includes bonus features like free spins and multipliers up to x8. The game also includes a Gamble option where a correct guess will double the win.\n\nPaytable Information\n\nThe paytable can be accessed from the question mark icon in the lower left corner of the page. The most valuable symbol is the Wild which replaces any other symbol and pays 500x on the bet line when they fall on a line. The scatter symbol pays 200x for six matching symbols and the red seven is 250x on the line for six and 100x for five.\n\nGraphics and Theme\n\nLucky Reels is a fruit-themed slot that is not the typical Las Vegas retro slot. The game has a sleek look with a modernist frame enclosing the reel-set with fruit symbols. The center of the reel-set is convex, adding an innovative touch to a recurring theme.\n\nBonus Features\n\nLucky Reels offers the free spins bonus feature which can be triggered by landing three or more diamond symbols. The bonus feature gives players 15 to 30 free spins, depending on the number of diamonds landed, plus a multiplier on the payline bet. The game also offers four special symbols with an attached multiplier on them, ranging from x1 to x8 on the total result of the win.\n\nOther Games by Wazdan\n\nIf you enjoyed Lucky Reels, you may want to try Super Lucky Reels by Wazdan. It features 10x multipliers and the Super Jackpot, which offers exciting opportunities for big wins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLucky Reels is a fruit-themed game that offers six reels and three rows with gameplay that includes bonus features like free spins and multipliers up to x8. The game also includes a Gamble option where a correct guess will double the win.\n\nPaytable Information\n\nThe paytable can be accessed from the question mark icon in the lower left corner of the page. The most valuable symbol is the Wild which replaces any other symbol and pays 500x on the bet line when they fall on a line. The scatter symbol pays 200x for six matching symbols and the red seven is 250x on the line for six and 100x for five.\n\nGraphics and Theme\n\nLucky Reels is a fruit-themed slot that is not the typical Las Vegas retro slot. The game has a sleek look with a modernist frame enclosing the reel-set with fruit symbols. The center of the reel-set is convex, adding an innovative touch to a recurring theme.\n\nBonus Features\n\nLucky Reels offers the free spins bonus feature which can be triggered by landing three or more diamond symbols. The bonus feature gives players 15 to 30 free spins, depending on the number of diamonds landed, plus a multiplier on the payline bet. The game also offers four special symbols with an attached multiplier on them, ranging from x1 to x8 on the total result of the win.\n\nOther Games by Wazdan\n\nIf you enjoyed Lucky Reels, you may want to try Super Lucky Reels by Wazdan. It features 10x multipliers and the Super Jackpot, which offers exciting opportunities for big wins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3WiOEv56alN1H8eINJl52CzE3Ny",
+                "id": "chatcmpl-7WWn453qQIZMj0PwAlh3gfZuLiD5c",
                 "object": "chat.completion",
-                "created": 1687397752,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986898,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Attractive fruit-themed game design\",\n        \"Exciting bonus features such as free spins and multipliers\",\n        \"Gamble option to double winnings\",\n        \"Sleek and modern graphics\"\n    ],\n    \"cons\": [\n        \"Relatively few rows (only three) and relatively few pay lines (10)\",\n        \"Limited number of bonus features compared to some other slots\"\n    ],\n    \"meta_title\": \"Play Lucky Reels for Free - Our Game Review\",\n    \"meta_description\": \"Read our comprehensive review of Lucky Reels and play this exciting fruit-themed game for free. Experience exciting bonus features like free spins and multipliers.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fruit-themed game with sleek and modern graphics\",\n    \"Six reels and three rows for more chances to win\",\n    \"Bonus features like free spins and multipliers up to x8\",\n    \"Gamble option to double the win\"\n  ],\n  \"cons\": [\n    \"Limited number of special symbols with multipliers\",\n    \"Scatter symbol pays less compared to other symbols\"\n  ],\n  \"meta_title\": \"Play Lucky Reels for Free - Exciting Fruit-Themed Slot\",\n  \"meta_description\": \"Play Lucky Reels for free and enjoy bonus features like free spins and multipliers.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 510,
-                    "completion_tokens": 142,
-                    "total_tokens": 652
+                    "prompt_tokens": 507,
+                    "completion_tokens": 133,
+                    "total_tokens": 640
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-reels.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Lucky_Reels_tha_ead8db1f-06d8-41bc-b6c6-7bade12d5766_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lucky_Reels_tha_ead8db1f-06d8-41bc-b6c6-7bade12d5766_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lucky_Reels_tha_ead8db1f-06d8-41bc-b6c6-7bade12d5766_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lucky_Reels_tha_ead8db1f-06d8-41bc-b6c6-7bade12d5766_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Reels (Version 1).webp",
+        "game_reviews/processed_images/Lucky Reels (Version 4).webp",
+        "game_reviews/processed_images/Lucky Reels (Version 3).webp",
+        "game_reviews/processed_images/Lucky Reels (Version 2).webp"
+    ],
+    "slug": "lucky-reels",
+    "name": "Lucky Reels",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Reels-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Reels for Free - Exciting Fruit-Themed Slot' ### Meta set: 'Play Lucky Reels for free and enjoy bonus features like free spins and multipliers.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

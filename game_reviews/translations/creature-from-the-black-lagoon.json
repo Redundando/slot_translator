@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_2.png",
         "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_1.png",
-        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_4.png",
-        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_3.png"
+        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_2.png",
+        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_3.png",
+        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_0283bd5f-00be-41cc-bb94-87912555d250_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Creature From The Black Lagoon (Version 4).webp",
-        "game_reviews/processed_images/Creature From The Black Lagoon (Version 1).webp",
         "game_reviews/processed_images/Creature From The Black Lagoon (Version 3).webp",
+        "game_reviews/processed_images/Creature From The Black Lagoon (Version 1).webp",
+        "game_reviews/processed_images/Creature From The Black Lagoon (Version 4).webp",
         "game_reviews/processed_images/Creature From The Black Lagoon (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/creature-from-the-black-lagoon.json"
+    "filename": "game_reviews/translations/creature-from-the-black-lagoon.json",
+    "slug": "creature-from-the-black-lagoon",
+    "name": "Creature from the Black Lagoon",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Creature-From-The-Black-Lagoon-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Creature from the Black Lagoon for Free - Review' ### Meta set: 'Experience the immersive gameplay and interactive features of Creature from the Black Lagoon slot game. Play for free and win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

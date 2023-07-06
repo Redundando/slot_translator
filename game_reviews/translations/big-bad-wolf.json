@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fairytale theme based on The Three Little Pigs story",
-                    "Immersive graphics and music",
-                    "Standard 5x3 configuration and 25 pay lines",
-                    "Wild symbols, Scatter symbols, and Bonus feature available"
+                    "Exceptional graphics and music",
+                    "Immersive fairytale theme",
+                    "Variety of gameplay features",
+                    "Free Spins and Bonus feature for additional winnings"
                 ],
                 "cons": [
-                    "Lack of progressive jackpot",
-                    "Free Spins feature does not offer a large number of spins"
+                    "Limited number of pay lines",
+                    "May not appeal to players who prefer non-fairytale themes"
                 ],
-                "meta_title": "Play Big Bad Wolf for Free - A Fairytale Themed Slot Game",
-                "meta_description": "Read our review of Big Bad Wolf, an online slot game developed by Quickspin and inspired by The Three Little Pigs story. Play this fairy tale-themed game for free now!"
+                "meta_title": "Play Big Bad Wolf Free and Enjoy Immersive Fairytale Gameplay",
+                "meta_description": "Read our review of Big Bad Wolf slot game and play for free. Experience the immersive fairytale theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Big Bad Wolf\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBig Bad Wolf\n\nBig Bad Wolf is a slot game developed by Quickspin, featuring a fairytale theme based on the famous story of The Three Little Pigs.\n\nSlot Game Review\n\nBig Bad Wolf offers players a standard 5x3 configuration and 25 pay lines to activate or deactivate. The game features Wild symbols, Scatter symbols, a Bonus feature and more. The graphics and music are exceptional, creating an immersive environment for players.\n\nQuickspin\n\nQuickspin is the developer behind Big Bad Wolf. Known for creating immersive online slot games, Quickspin has developed a variety of other games, many of which are themed around fairytales.\n\nFairytale Theme\n\nThe fairytale theme of Big Bad Wolf is based on The Three Little Pigs story, featuring a countryside landscape and the three pigs icons. The game immerses the player in the fairytale story, creating an enjoyable and engaging experience.\n\nGameplay Features\n\nBig Bad Wolf offers a variety of gameplay features. Players can activate or deactivate pay lines at will, and the display on the left side of the screen keeps track of their total credit balance. The game also includes Wild symbols, Scatter symbols, a Bonus feature, and more. The Wild Feature and Scatter offer players Free Spins, while the Bonus feature, called House Demolition, provides players with additional potential winnings.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Big Bad Wolf\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBig Bad Wolf\n\nBig Bad Wolf is a slot game developed by Quickspin, featuring a fairytale theme based on the famous story of The Three Little Pigs.\n\nSlot Game Review\n\nBig Bad Wolf offers players a standard 5x3 configuration and 25 pay lines to activate or deactivate. The game features Wild symbols, Scatter symbols, a Bonus feature and more. The graphics and music are exceptional, creating an immersive environment for players.\n\nQuickspin\n\nQuickspin is the developer behind Big Bad Wolf. Known for creating immersive online slot games, Quickspin has developed a variety of other games, many of which are themed around fairytales.\n\nFairytale Theme\n\nThe fairytale theme of Big Bad Wolf is based on The Three Little Pigs story, featuring a countryside landscape and the three pigs icons. The game immerses the player in the fairytale story, creating an enjoyable and engaging experience.\n\nGameplay Features\n\nBig Bad Wolf offers a variety of gameplay features. Players can activate or deactivate pay lines at will, and the display on the left side of the screen keeps track of their total credit balance. The game also includes Wild symbols, Scatter symbols, a Bonus feature, and more. The Wild Feature and Scatter offer players Free Spins, while the Bonus feature, called House Demolition, provides players with additional potential winnings.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdzBJBljlVrqQDT9U4cLPsYQeqM6",
+                "id": "chatcmpl-7WO6CU54VXYEMQ41JIUiOUlcOK1A3",
                 "object": "chat.completion",
-                "created": 1687061245,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 452,
-                    "completion_tokens": 156,
-                    "total_tokens": 608
-                },
+                "created": 1687953488,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fairytale theme based on The Three Little Pigs story\",\n        \"Immersive graphics and music\",\n        \"Standard 5x3 configuration and 25 pay lines\",\n        \"Wild symbols, Scatter symbols, and Bonus feature available\"\n    ],\n    \"cons\": [\n        \"Lack of progressive jackpot\",\n        \"Free Spins feature does not offer a large number of spins\"\n    ],\n    \"meta_title\": \"Play Big Bad Wolf for Free - A Fairytale Themed Slot Game\",\n    \"meta_description\": \"Read our review of Big Bad Wolf, an online slot game developed by Quickspin and inspired by The Three Little Pigs story. Play this fairy tale-themed game for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exceptional graphics and music\",\n    \"Immersive fairytale theme\",\n    \"Variety of gameplay features\",\n    \"Free Spins and Bonus feature for additional winnings\"\n  ],\n  \"cons\": [\n    \"Limited number of pay lines\",\n    \"May not appeal to players who prefer non-fairytale themes\"\n  ],\n  \"meta_title\": \"Play Big Bad Wolf Free and Enjoy Immersive Fairytale Gameplay\",\n  \"meta_description\": \"Read our review of Big Bad Wolf slot game and play for free. Experience the immersive fairytale theme.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 449,
+                    "completion_tokens": 128,
+                    "total_tokens": 577
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/big-bad-wolf.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Big_Bad_W_544c82b5-b0f0-498a-aa8e-78c845535831_3.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Big_Bad_W_544c82b5-b0f0-498a-aa8e-78c845535831_1.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Big_Bad_W_544c82b5-b0f0-498a-aa8e-78c845535831_3.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Big_Bad_W_544c82b5-b0f0-498a-aa8e-78c845535831_4.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Big_Bad_W_544c82b5-b0f0-498a-aa8e-78c845535831_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Big Bad Wolf (Version 1).webp",
         "game_reviews/processed_images/Big Bad Wolf (Version 2).webp",
         "game_reviews/processed_images/Big Bad Wolf (Version 4).webp",
-        "game_reviews/processed_images/Big Bad Wolf (Version 3).webp",
-        "game_reviews/processed_images/Big Bad Wolf (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Big Bad Wolf (Version 3).webp"
+    ],
+    "slug": "big-bad-wolf",
+    "name": "Big Bad Wolf",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Big-Bad-Wolf-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Big Bad Wolf Free and Enjoy Immersive Fairytale Gameplay' ### Meta set: 'Read our review of Big Bad Wolf slot game and play for free. Experience the immersive fairytale theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

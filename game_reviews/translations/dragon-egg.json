@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Potentially substantial winnings in free spins mode",
-                    "Clear and concise graphics",
-                    "Well-suited sound and music",
-                    "Higher value wins than average"
+                    "Slightly higher value wins than average",
+                    "Simple and clear graphics and symbols",
+                    "Background music fits the game's setting",
+                    "Potential for substantial winnings in free spins mode"
                 ],
                 "cons": [
-                    "Difficult to trigger free spins mode",
-                    "Limited symbol variety"
+                    "Difficult to trigger the free spins mode",
+                    "Limited variety in dragon symbol designs"
                 ],
-                "meta_title": "Play Dragon Egg Free Slot Review | Exciting Free Spins Mode",
-                "meta_description": "Read our review of Dragon Egg, an online slot game with a free spins mode. Enjoy higher value wins than average and clear graphics. Play Dragon Egg for free."
+                "meta_title": "Play Dragon Egg Free Online Slot",
+                "meta_description": "Read our review of Dragon Egg and play this free online slot game with substantial winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Egg\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and symbols\n\nDragon Egg by Tom Horn features a 5x3 grid and 9 paylines that offer slightly higher value wins than average. The game includes simple graphics and symbols, with dragons differentiated by the color of their element. The black dragon serves as the WILD symbol, fully replacing any other symbol except for the golden dragon egg, which is the SCATTER symbol and triggers the free spins mode when three or more appear in a single spin.\n\nTheme and graphics\n\nDragon Egg is set in a cave, with the game grid featuring mainly shades of gray, though the dragon symbols add a touch of color. The graphics are simple and immediate, with a focus on presenting a clear and concise picture. The dragon symbol designs don't stand out for their variety, but they're recognizable. The slot's simplicity aims to avoid confusion and distraction.\n\nSound and music\n\nThe background music for Dragon Egg is reminiscent of Far Eastern sounds, featuring flutes and drums that fit perfectly with the game's setting. The sounds are standard, and there are no notable features.\n\nBonus features (free spins mode)\n\nThe free spins mode in Dragon Egg is triggered by landing three or more golden dragon egg symbols on a single spin. It's difficult to trigger this feature, but the winnings obtained during these spins are potentially substantial and can make the long wait exciting. During the free spins mode, the payout values increase, creating an opportunity for players to make significant wins.\n\nSimilar slots with dragon themes\n\nThe dragon theme is a popular one in the world of online slots. There are many others available, such as Dragon Riches, Dragon's Inferno, and 5 Dragons. Each of these slots offers unique gameplay mechanics and distinguished graphics, so it's worth trying them out to find your favorite among the lot.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Egg\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and symbols\n\nDragon Egg by Tom Horn features a 5x3 grid and 9 paylines that offer slightly higher value wins than average. The game includes simple graphics and symbols, with dragons differentiated by the color of their element. The black dragon serves as the WILD symbol, fully replacing any other symbol except for the golden dragon egg, which is the SCATTER symbol and triggers the free spins mode when three or more appear in a single spin.\n\nTheme and graphics\n\nDragon Egg is set in a cave, with the game grid featuring mainly shades of gray, though the dragon symbols add a touch of color. The graphics are simple and immediate, with a focus on presenting a clear and concise picture. The dragon symbol designs don't stand out for their variety, but they're recognizable. The slot's simplicity aims to avoid confusion and distraction.\n\nSound and music\n\nThe background music for Dragon Egg is reminiscent of Far Eastern sounds, featuring flutes and drums that fit perfectly with the game's setting. The sounds are standard, and there are no notable features.\n\nBonus features (free spins mode)\n\nThe free spins mode in Dragon Egg is triggered by landing three or more golden dragon egg symbols on a single spin. It's difficult to trigger this feature, but the winnings obtained during these spins are potentially substantial and can make the long wait exciting. During the free spins mode, the payout values increase, creating an opportunity for players to make significant wins.\n\nSimilar slots with dragon themes\n\nThe dragon theme is a popular one in the world of online slots. There are many others available, such as Dragon Riches, Dragon's Inferno, and 5 Dragons. Each of these slots offers unique gameplay mechanics and distinguished graphics, so it's worth trying them out to find your favorite among the lot.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T6uWdvslDn651HXVplk8VbUAHptG",
+                "id": "chatcmpl-7WRdZOCK8lYJXaaLKY2aHTX6B7tZl",
                 "object": "chat.completion",
-                "created": 1687172432,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 539,
-                    "completion_tokens": 128,
-                    "total_tokens": 667
-                },
+                "created": 1687967089,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Potentially substantial winnings in free spins mode\",\n        \"Clear and concise graphics\",\n        \"Well-suited sound and music\",\n        \"Higher value wins than average\"\n    ],\n    \"cons\": [\n        \"Difficult to trigger free spins mode\",\n        \"Limited symbol variety\"\n    ],\n    \"meta_title\": \"Play Dragon Egg Free Slot Review | Exciting Free Spins Mode\",\n    \"meta_description\": \"Read our review of Dragon Egg, an online slot game with a free spins mode. Enjoy higher value wins than average and clear graphics. Play Dragon Egg for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Slightly higher value wins than average\",\n    \"Simple and clear graphics and symbols\",\n    \"Background music fits the game's setting\",\n    \"Potential for substantial winnings in free spins mode\"\n  ],\n  \"cons\": [\n    \"Difficult to trigger the free spins mode\",\n    \"Limited variety in dragon symbol designs\"\n  ],\n  \"meta_title\": \"Play Dragon Egg Free Online Slot\",\n  \"meta_description\": \"Read our review of Dragon Egg and play this free online slot game with substantial winnings.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 536,
+                    "completion_tokens": 113,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_4.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_3.png",
         "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_3.png"
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Egg (Version 3).webp",
         "game_reviews/processed_images/Dragon Egg (Version 1).webp",
+        "game_reviews/processed_images/Dragon Egg (Version 4).webp",
         "game_reviews/processed_images/Dragon Egg (Version 2).webp",
-        "game_reviews/processed_images/Dragon Egg (Version 4).webp"
+        "game_reviews/processed_images/Dragon Egg (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/dragon-egg.json"
+    "filename": "game_reviews/translations/dragon-egg.json",
+    "slug": "dragon-egg",
+    "name": "Dragon Egg",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Egg-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Egg Free Online Slot' ### Meta set: 'Read our review of Dragon Egg and play this free online slot game with substantial winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

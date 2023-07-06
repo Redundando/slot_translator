@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and endearing bee-themed design",
-                    "Variety of special bonus symbols and functions",
-                    "Cascading game system for increased chances of winning",
-                    "Autoplay and Turbo functions for smoother gameplay"
+                    "Cascade gameplay mechanics",
+                    "Autoplay and turbo function",
+                    "Fun and endearing theme",
+                    "High-quality graphics"
                 ],
                 "cons": [
-                    "Low maximum bet limit may not appeal to high rollers",
-                    "Limited number of Free Spins compared to some other games"
+                    "Maximum bet limit of 3 €",
+                    "Scatter symbol multiplier function needs to be purchased"
                 ],
-                "meta_title": "Play Bee Hive Bonanza for Free: Review and Features",
-                "meta_description": "Read our review of Bee Hive Bonanza, the bee-themed online slot game with bonus symbols and Free Spins. Try it for free and enjoy the fun design."
+                "meta_title": "Play Bee Hive Bonanza for Free",
+                "meta_description": "Read our review of Bee Hive Bonanza and play this fun online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Bee Hive Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nBee Hive Bonanza has 5 reels and 5 rows in a square-shaped grid, and to win, you need to create combos of at least 6 symbols. The game system is cascade, which means that every time we get a winning combination, the paying symbols disappear and are replaced by others. The minimum bet is 0.10 €, the maximum is 3 €. Among the most interesting functions we find Autoplay and the turbo function, which allows us to speed up the rotation of the reels.\n\nTheme and design\n\nBee Hive Bonanza's theme is bees fused with that of the Middle Ages. Bees are dressed as kings or jesters, and the grid is located within a castle. The symbols look like knightly effigies these plus the loveable cartoon version of these insects make for a fun and endearing game. The high-quality graphics immerse players even further.\n\nBonus symbols\n\nThe Bee symbols can appear associated with other special symbols and activate different functions. The Money Bee feature is activated when the Bee symbols associated with a 1x, 2x, 5x, or 10x multiplier appear on the reels. Bee Hive: the values of all the bees appearing on the reels are added. Multiplier Bee Hive: doubles all the values of the Bee symbols. Adder Bee Hive: increases the values of all the Bee symbols.\n\nScatter symbol\n\nThe honey cup is the Scatter symbol in Bee Hive Bonanza. With 3, 4, or 5, you can respectively activate 10, 15, and 20 Free Spins. Each additional Scatter that appears during the Bonus round is collected to a meter to the left of the grid. Every few Scatter collected corresponds to a multiplier ranging from x2 to x5. This special function can also be purchased.\n\nFree spins\n\nYou can activate Free Spins in Bee Hive Bonanza by landing 3, 4, or 5 Scatter symbols. The number of Free Spins you receive depends on how many Scatters you landed. Each additional Scatter that appears during the Bonus round adds to a meter to the left of the grid. Every few Scatter collected corresponds to a multiplier ranging from x2 to x5. This special function can also be purchased.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Bee Hive Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nBee Hive Bonanza has 5 reels and 5 rows in a square-shaped grid, and to win, you need to create combos of at least 6 symbols. The game system is cascade, which means that every time we get a winning combination, the paying symbols disappear and are replaced by others. The minimum bet is 0.10 €, the maximum is 3 €. Among the most interesting functions we find Autoplay and the turbo function, which allows us to speed up the rotation of the reels.\n\nTheme and design\n\nBee Hive Bonanza's theme is bees fused with that of the Middle Ages. Bees are dressed as kings or jesters, and the grid is located within a castle. The symbols look like knightly effigies these plus the loveable cartoon version of these insects make for a fun and endearing game. The high-quality graphics immerse players even further.\n\nBonus symbols\n\nThe Bee symbols can appear associated with other special symbols and activate different functions. The Money Bee feature is activated when the Bee symbols associated with a 1x, 2x, 5x, or 10x multiplier appear on the reels. Bee Hive: the values of all the bees appearing on the reels are added. Multiplier Bee Hive: doubles all the values of the Bee symbols. Adder Bee Hive: increases the values of all the Bee symbols.\n\nScatter symbol\n\nThe honey cup is the Scatter symbol in Bee Hive Bonanza. With 3, 4, or 5, you can respectively activate 10, 15, and 20 Free Spins. Each additional Scatter that appears during the Bonus round is collected to a meter to the left of the grid. Every few Scatter collected corresponds to a multiplier ranging from x2 to x5. This special function can also be purchased.\n\nFree spins\n\nYou can activate Free Spins in Bee Hive Bonanza by landing 3, 4, or 5 Scatter symbols. The number of Free Spins you receive depends on how many Scatters you landed. Each additional Scatter that appears during the Bonus round adds to a meter to the left of the grid. Every few Scatter collected corresponds to a multiplier ranging from x2 to x5. This special function can also be purchased.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sd4bcuhjM1FfMmwBrfdhxDh4MDQG",
+                "id": "chatcmpl-7WNvXJuG7IHIn46PnPGk97OA6wqGo",
                 "object": "chat.completion",
-                "created": 1687057737,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 646,
-                    "completion_tokens": 147,
-                    "total_tokens": 793
-                },
+                "created": 1687952827,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fun and endearing bee-themed design\",\n        \"Variety of special bonus symbols and functions\",\n        \"Cascading game system for increased chances of winning\",\n        \"Autoplay and Turbo functions for smoother gameplay\"\n    ],\n    \"cons\": [\n        \"Low maximum bet limit may not appeal to high rollers\",\n        \"Limited number of Free Spins compared to some other games\"\n    ],\n    \"meta_title\": \"Play Bee Hive Bonanza for Free: Review and Features\",\n    \"meta_description\": \"Read our review of Bee Hive Bonanza, the bee-themed online slot game with bonus symbols and Free Spins. Try it for free and enjoy the fun design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cascade gameplay mechanics\",\n    \"Autoplay and turbo function\",\n    \"Fun and endearing theme\",\n    \"High-quality graphics\"\n  ],\n  \"cons\": [\n    \"Maximum bet limit of 3 €\",\n    \"Scatter symbol multiplier function needs to be purchased\"\n  ],\n  \"meta_title\": \"Play Bee Hive Bonanza for Free\",\n  \"meta_description\": \"Read our review of Bee Hive Bonanza and play this fun online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 643,
+                    "completion_tokens": 105,
+                    "total_tokens": 748
+                }
             }
         },
         {
@@ -812,14 +812,23 @@
     "filename": "game_reviews/translations/bee-hive-bonanza.json",
     "raw_feature_images": [
         "arved__Prompt_Create_a_feature_image_for_Bee_Hive_Bonanza_that__42332368-1023-41e1-89cc-2b29b1705616_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Bee_Hive_Bonanza_that__42332368-1023-41e1-89cc-2b29b1705616_2.png",
         "arved__Prompt_Create_a_feature_image_for_Bee_Hive_Bonanza_that__42332368-1023-41e1-89cc-2b29b1705616_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Bee_Hive_Bonanza_that__42332368-1023-41e1-89cc-2b29b1705616_2.png",
         "arved__Prompt_Create_a_feature_image_for_Bee_Hive_Bonanza_that__42332368-1023-41e1-89cc-2b29b1705616_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Bee Hive Bonanza (Version 2).webp",
         "game_reviews/processed_images/Bee Hive Bonanza (Version 1).webp",
         "game_reviews/processed_images/Bee Hive Bonanza (Version 3).webp",
-        "game_reviews/processed_images/Bee Hive Bonanza (Version 2).webp",
         "game_reviews/processed_images/Bee Hive Bonanza (Version 4).webp"
-    ]
+    ],
+    "slug": "bee-hive-bonanza",
+    "name": "Bee Hive Bonanza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bee-Hive-Bonanza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Bee Hive Bonanza for Free' ### Meta set: 'Read our review of Bee Hive Bonanza and play this fun online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

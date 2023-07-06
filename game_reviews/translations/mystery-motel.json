@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and suspenseful Hitchcockian theme",
-                    "Special symbols and Free Spins features",
-                    "Bonus round has high Return to Player rate",
-                    "Multiple functions provide thrilling gameplay"
+                    "1,024 ways to win",
+                    "Special symbols with multipliers",
+                    "Creepy graphics and sounds",
+                    "Bonus round with unique features"
                 ],
                 "cons": [
-                    "Free spins purchases lower return rate",
-                    "Limited betting range may not appeal to all players"
+                    "Lower RTP with purchased free spins",
+                    "RTP not guaranteed for individual players"
                 ],
-                "meta_title": "Play Mystery Motel Slot for Free – Features and Review",
-                "meta_description": "Experience the suspenseful gameplay of Mystery Motel slot with its eerie graphics and unique bonus features. Play now for free and learn more in our review."
+                "meta_title": "Play Mystery Motel Free: Review of Gameplay, Symbols, and Bonus Round",
+                "meta_description": "Discover the 5x5 grid, special symbols, and bonus round in this free-play review of Mystery Motel."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystery Motel\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe gameplay of Mystery Motel features a 5x5 grid with 1,024 ways to win and a minimum bet of €0.20 and a maximum of €100. To win, matching symbols must appear on adjacent reels in any position on the grid. There are regular symbols and special symbols, including Wild and Scatter symbols as well as the reception bell symbol that triggers Free Spins.\n\nSpecial Symbols\n\nIn Mystery Motel, special symbols include the Wild symbol in the form of a hand emerging from a suitcase which multiplies your winnings up to 625x. There is also the Scatter symbol represented by tentacles emerging from the machine, which activates a wheel with three levels that can result in multipliers, free spins, or progression to the next level. The reception bell symbol triggers Free Spins, and there are more Wild symbols during this feature for even more multipliers.\n\nGraphics and Sounds\n\nThe graphics and sounds in Mystery Motel are designed to set the tense and creepy mood inspired by the Hitchcockian motif behind this game. The nighttime setting of the motel looms ominously in the background while the music has a haunting theme that is occasionally interrupted by the sound of crows, creating a suspenseful atmosphere for the game.\n\nBonus Round\n\nMystery Motel's Bonus round has an RTP of 97.62%. Purchasing 12 free spins brings the RTP down to 96.13%, and 20 free spins sees an RTP of 96.19%. The special functions that can be purchased give players access to unique bonus features not found in the main game, making it a worthwhile addition for experienced players who are looking for even more excitement in their gameplay.\n\nReturn to Player (RTP)\n\nThe theoretical return to player in Mystery Motel is quite high with 97.62% for the Bonus round. However, that RTP drops to 96.13% when players purchase 12 free spins and 96.19% with 20 free spins. It's important to keep in mind that RTP only indicates the average expected return over a long period and isn't a guarantee of any particular outcome, and results will always vary with each player and session of the game. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystery Motel\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe gameplay of Mystery Motel features a 5x5 grid with 1,024 ways to win and a minimum bet of €0.20 and a maximum of €100. To win, matching symbols must appear on adjacent reels in any position on the grid. There are regular symbols and special symbols, including Wild and Scatter symbols as well as the reception bell symbol that triggers Free Spins.\n\nSpecial Symbols\n\nIn Mystery Motel, special symbols include the Wild symbol in the form of a hand emerging from a suitcase which multiplies your winnings up to 625x. There is also the Scatter symbol represented by tentacles emerging from the machine, which activates a wheel with three levels that can result in multipliers, free spins, or progression to the next level. The reception bell symbol triggers Free Spins, and there are more Wild symbols during this feature for even more multipliers.\n\nGraphics and Sounds\n\nThe graphics and sounds in Mystery Motel are designed to set the tense and creepy mood inspired by the Hitchcockian motif behind this game. The nighttime setting of the motel looms ominously in the background while the music has a haunting theme that is occasionally interrupted by the sound of crows, creating a suspenseful atmosphere for the game.\n\nBonus Round\n\nMystery Motel's Bonus round has an RTP of 97.62%. Purchasing 12 free spins brings the RTP down to 96.13%, and 20 free spins sees an RTP of 96.19%. The special functions that can be purchased give players access to unique bonus features not found in the main game, making it a worthwhile addition for experienced players who are looking for even more excitement in their gameplay.\n\nReturn to Player (RTP)\n\nThe theoretical return to player in Mystery Motel is quite high with 97.62% for the Bonus round. However, that RTP drops to 96.13% when players purchase 12 free spins and 96.19% with 20 free spins. It's important to keep in mind that RTP only indicates the average expected return over a long period and isn't a guarantee of any particular outcome, and results will always vary with each player and session of the game. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDnbhMowoUWkAXoFSH2s4dEiFm62",
+                "id": "chatcmpl-7WYNk4rTcztmnKu899gKgBdEDn5j1",
                 "object": "chat.completion",
-                "created": 1687437239,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993016,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unique and suspenseful Hitchcockian theme\",\n    \"Special symbols and Free Spins features\",\n    \"Bonus round has high Return to Player rate\",\n    \"Multiple functions provide thrilling gameplay\"\n  ],\n  \"cons\": [\n    \"Free spins purchases lower return rate\",\n    \"Limited betting range may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Mystery Motel Slot for Free – Features and Review\",\n  \"meta_description\": \"Experience the suspenseful gameplay of Mystery Motel slot with its eerie graphics and unique bonus features. Play now for free and learn more in our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"1,024 ways to win\",\n    \"Special symbols with multipliers\",\n    \"Creepy graphics and sounds\",\n    \"Bonus round with unique features\"\n  ],\n  \"cons\": [\n    \"Lower RTP with purchased free spins\",\n    \"RTP not guaranteed for individual players\"\n  ],\n  \"meta_title\": \"Play Mystery Motel Free: Review of Gameplay, Symbols, and Bonus Round\",\n  \"meta_description\": \"Discover the 5x5 grid, special symbols, and bonus round in this free-play review of Mystery Motel.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 627,
-                    "completion_tokens": 133,
-                    "total_tokens": 760
+                    "prompt_tokens": 624,
+                    "completion_tokens": 121,
+                    "total_tokens": 745
                 }
             }
         },
@@ -810,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystery-motel.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Mystery_Motel_slot_gam_b43f4ffa-6bce-4515-97fb-da8b70065a14_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Mystery_Motel_slot_gam_b43f4ffa-6bce-4515-97fb-da8b70065a14_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Mystery_Motel_slot_gam_b43f4ffa-6bce-4515-97fb-da8b70065a14_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Mystery_Motel_slot_gam_b43f4ffa-6bce-4515-97fb-da8b70065a14_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystery Motel (Version 3).webp",
+        "game_reviews/processed_images/Mystery Motel (Version 2).webp",
+        "game_reviews/processed_images/Mystery Motel (Version 4).webp",
+        "game_reviews/processed_images/Mystery Motel (Version 1).webp"
+    ],
+    "slug": "mystery-motel",
+    "name": "Mystery Motel",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystery-Motel-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystery Motel Free: Review of Gameplay, Symbols, and Bonus Round' ### Meta set: 'Discover the 5x5 grid, special symbols, and bonus round in this free-play review of Mystery Motel.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

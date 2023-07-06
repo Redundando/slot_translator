@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Familiar characters and symbols from the Ghostbusters franchise",
                     "Improved graphics and attention to detail",
-                    "Random events during gameplay for added excitement",
-                    "Fun and varied gameplay experience"
+                    "Fun and varied gameplay with bonus features",
+                    "Appeal to fans of the Ghostbusters film franchise",
+                    "Intuitive gameplay mechanics"
                 ],
                 "cons": [
-                    "Not significantly different from previous Ghostbusters iterations",
-                    "Competition from other cinema-themed slots"
+                    "Not significantly different from previous iterations",
+                    "Competition from other cinema-themed slot games"
                 ],
-                "meta_title": "Play Ghostbusters Plus Slot for Free - Exciting Gameplay",
-                "meta_description": "Read our review of Ghostbusters Plus and play this exciting slot game for free. Fun gameplay and detailed graphics await fans of the franchise."
+                "meta_title": "Play Ghostbuster Plus for Free",
+                "meta_description": "Read our review of the Ghostbuster Plus slot game and play for free. Enjoy improved graphics and fun gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ghostbuster Plus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGhostbuster Plus slot game overview\n\nGhostbusters Plus from IGT is a slot game that follows Ghostbusters and Ghostbusters Triple Slime in the trilogy of slots inspired by the famous 80s comedy film. It features familiar characters and symbols from the franchise, presented with improved graphics and attention to detail. The game offers players a 5*3 mechanism, special symbols, and random events that can be triggered during gameplay.\n\nGameplay mechanics and design\n\nIGT's Ghostbusters Plus uses a 5*3 mechanism that is intuitive to players familiar with slot games. Bonus features are offered via special symbols and random events during gameplay. The graphics have improved since the previous iterations of the game, with detailed portraits of the four protagonists and notable attention to detail with the ECTO-1 car and other symbols referencing the Ghostbusters film franchise.\n\nBonus features and special symbols\n\nIn addition to special symbols like the demon dog that acts as a bonus guardian, Ghostbusters Plus offers random events that can occur during gameplay, as well as a level of Slimer that can increase over time. Combined with the 5*3 mechanism, these features make for a fun and varied gameplay experience.\n\nAppeal to fans of the film franchise\n\nFans of the Ghostbusters film franchise will appreciate the attention to detail in the graphics and the familiar characters and symbols present in the game. While there are some improvements to graphics in Ghostbusters Plus, the game does not offer much that is significantly different from the previous iterations, making it a good choice for existing fans of the franchise.\n\nCompetition from other cinema-themed slot games\n\nIGT's Ghostbusters Plus is just one of several cinema-themed slots available to players. Others, including games from NetEnt, Microgaming, and Playtech, offer similar gameplay and graphics tied to classic films like Jurassic Park, Top Gun, and Alien. Players looking to explore the genre may find other options in addition to Ghostbusters Plus.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ghostbuster Plus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGhostbuster Plus slot game overview\n\nGhostbusters Plus from IGT is a slot game that follows Ghostbusters and Ghostbusters Triple Slime in the trilogy of slots inspired by the famous 80s comedy film. It features familiar characters and symbols from the franchise, presented with improved graphics and attention to detail. The game offers players a 5*3 mechanism, special symbols, and random events that can be triggered during gameplay.\n\nGameplay mechanics and design\n\nIGT's Ghostbusters Plus uses a 5*3 mechanism that is intuitive to players familiar with slot games. Bonus features are offered via special symbols and random events during gameplay. The graphics have improved since the previous iterations of the game, with detailed portraits of the four protagonists and notable attention to detail with the ECTO-1 car and other symbols referencing the Ghostbusters film franchise.\n\nBonus features and special symbols\n\nIn addition to special symbols like the demon dog that acts as a bonus guardian, Ghostbusters Plus offers random events that can occur during gameplay, as well as a level of Slimer that can increase over time. Combined with the 5*3 mechanism, these features make for a fun and varied gameplay experience.\n\nAppeal to fans of the film franchise\n\nFans of the Ghostbusters film franchise will appreciate the attention to detail in the graphics and the familiar characters and symbols present in the game. While there are some improvements to graphics in Ghostbusters Plus, the game does not offer much that is significantly different from the previous iterations, making it a good choice for existing fans of the franchise.\n\nCompetition from other cinema-themed slot games\n\nIGT's Ghostbusters Plus is just one of several cinema-themed slots available to players. Others, including games from NetEnt, Microgaming, and Playtech, offer similar gameplay and graphics tied to classic films like Jurassic Park, Top Gun, and Alien. Players looking to explore the genre may find other options in addition to Ghostbusters Plus.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TOi6CJLxLmNrSF8NPEE5W3GA49rG",
+                "id": "chatcmpl-7WTnIW2Pu3VX2D9FVWRkSmVVNmAEc",
                 "object": "chat.completion",
-                "created": 1687240854,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 570,
-                    "completion_tokens": 128,
-                    "total_tokens": 698
-                },
+                "created": 1687975380,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"Familiar characters and symbols from the Ghostbusters franchise\",\n      \"Improved graphics and attention to detail\",\n      \"Random events during gameplay for added excitement\",\n      \"Fun and varied gameplay experience\"\n   ],\n   \"cons\":[\n      \"Not significantly different from previous Ghostbusters iterations\",\n      \"Competition from other cinema-themed slots\"\n   ],\n   \"meta_title\":\"Play Ghostbusters Plus Slot for Free - Exciting Gameplay\",\n   \"meta_description\":\"Read our review of Ghostbusters Plus and play this exciting slot game for free. Fun gameplay and detailed graphics await fans of the franchise.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Improved graphics and attention to detail\",\n    \"Fun and varied gameplay with bonus features\",\n    \"Appeal to fans of the Ghostbusters film franchise\",\n    \"Intuitive gameplay mechanics\"\n  ],\n  \"cons\": [\n    \"Not significantly different from previous iterations\",\n    \"Competition from other cinema-themed slot games\"\n  ],\n  \"meta_title\": \"Play Ghostbuster Plus for Free\",\n  \"meta_description\": \"Read our review of the Ghostbuster Plus slot game and play for free. Enjoy improved graphics and fun gameplay.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 567,
+                    "completion_tokens": 118,
+                    "total_tokens": 685
+                }
             }
         },
         {
@@ -812,5 +812,29 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/ghostbuster-plus.json"
+    "filename": "game_reviews/translations/ghostbuster-plus.json",
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_85a81a70-05fc-47ab-8f96-9bf83670a9ab_4.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_60950567-c3c4-49ee-88dc-b67e9fdcc80f_1.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_85a81a70-05fc-47ab-8f96-9bf83670a9ab_1.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_60950567-c3c4-49ee-88dc-b67e9fdcc80f_2.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_60950567-c3c4-49ee-88dc-b67e9fdcc80f_3.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_60950567-c3c4-49ee-88dc-b67e9fdcc80f_4.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_85a81a70-05fc-47ab-8f96-9bf83670a9ab_2.png",
+        "arved__Prompt_Please_create_a_feature_image_in_cartoon_style_fo_85a81a70-05fc-47ab-8f96-9bf83670a9ab_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ghostbuster Plus (Version 3).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 2).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 7).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 5).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 4).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 1).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 8).webp",
+        "game_reviews/processed_images/Ghostbuster Plus (Version 6).webp"
+    ],
+    "slug": "ghostbuster-plus",
+    "name": "Ghostbuster Plus",
+    "assume_published": true,
+    "page_status": "Page not found_"
 }

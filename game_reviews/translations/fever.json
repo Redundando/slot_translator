@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Combines classic mechanics with modern features",
-                    "Appealing to a wider range of users",
-                    "Simple yet enjoyable gameplay",
-                    "Well-executed design and audio"
+                    "Combines classic slot mechanics with modern features",
+                    "Appealing design and audio with disco-style setting",
+                    "Special symbols increase chances of winning",
+                    "Easy to understand gameplay, ideal for novice players"
                 ],
                 "cons": [
-                    "May seem a bit bare",
-                    "Follows classic slot archetypes"
+                    "Game may seem a bit bare",
+                    "Limited variety of symbols"
                 ],
-                "meta_title": "Play Fever for Free - Slot Game Review",
-                "meta_description": "Read our review of Fever by Cristaltec, a slot game that combines classic mechanics with modern features. Play for free and trigger free spins!"
+                "meta_title": "Play Fever for Free - Exciting Slot Game with Modern Features",
+                "meta_description": "Read our review of Fever, a slot game that combines classic mechanics with modern features. Play for free and enjoy the immersive disco-style setting."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fever\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nFever by Cristaltec is a slot game that combines classic slot mechanics with modern slot features. The game has five reels with three symbols each and special symbols that include the Scatter symbol 'Free Spin' and the Wild symbol represented by a diamond. These special symbols make the slot more modern and appealing to a wider range of users. The game also offers 'Free Spins' that can be triggered by finding at least three Scatter symbols in a single play. Overall, Fever has simple yet enjoyable gameplay, making it an ideal option for novice players.\n\nDesign and Audio\n\nFever by Cristaltec has a youthful rhythm and disco-style setting that is catchy and energetic. The game grid is set in the center of a dance floor, and the symbols include classic slot symbols such as fruit, bells, and the number 7. The sound and visual department of Fever is well-executed, with a varied music that comes and goes during the game, creating an immersive experience for the players. Although the game may seem a bit bare, the symbols are represented with the requisite attention to create a quality product.\n\nSpecial Symbols\n\nFever by Cristaltec has two special symbols that make the game more modern and appealing to a wider range of users. The first special symbol is the Scatter symbol 'Free Spin', which can trigger 'Free Spins' when at least three symbols are found in a single play. The second special symbol is the Wild symbol represented by a diamond, which can replace any other symbols in the game to obtain combinations. Overall, the special symbols in Fever make the game more exciting and increase the chances of winning.\n\nSimplicity\n\nFever by Cristaltec makes simplicity its trademark, with a game that is easy to understand and follow. Although the game has modern features such as special symbols, it still follows the archetypes of classic slots with its five reels and three symbols each. The gameplay is straightforward, making it an ideal option for novice players who are just starting to explore the world of online slots.\n\nSimilar Games\n\nIf you are looking for slots that are similar to Fever in terms of color variety, nostalgia, or theme, you can try out NetEnt's Starburst, Novomatic's Mega Joker, and Play'n Go's Banana Rock. These slots have similar features to Fever, such as simple gameplay, special symbols, and classic slot symbols. However, each of these games has its unique elements that make them stand out among the plethora of online slot games available on the market.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fever\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nFever by Cristaltec is a slot game that combines classic slot mechanics with modern slot features. The game has five reels with three symbols each and special symbols that include the Scatter symbol 'Free Spin' and the Wild symbol represented by a diamond. These special symbols make the slot more modern and appealing to a wider range of users. The game also offers 'Free Spins' that can be triggered by finding at least three Scatter symbols in a single play. Overall, Fever has simple yet enjoyable gameplay, making it an ideal option for novice players.\n\nDesign and Audio\n\nFever by Cristaltec has a youthful rhythm and disco-style setting that is catchy and energetic. The game grid is set in the center of a dance floor, and the symbols include classic slot symbols such as fruit, bells, and the number 7. The sound and visual department of Fever is well-executed, with a varied music that comes and goes during the game, creating an immersive experience for the players. Although the game may seem a bit bare, the symbols are represented with the requisite attention to create a quality product.\n\nSpecial Symbols\n\nFever by Cristaltec has two special symbols that make the game more modern and appealing to a wider range of users. The first special symbol is the Scatter symbol 'Free Spin', which can trigger 'Free Spins' when at least three symbols are found in a single play. The second special symbol is the Wild symbol represented by a diamond, which can replace any other symbols in the game to obtain combinations. Overall, the special symbols in Fever make the game more exciting and increase the chances of winning.\n\nSimplicity\n\nFever by Cristaltec makes simplicity its trademark, with a game that is easy to understand and follow. Although the game has modern features such as special symbols, it still follows the archetypes of classic slots with its five reels and three symbols each. The gameplay is straightforward, making it an ideal option for novice players who are just starting to explore the world of online slots.\n\nSimilar Games\n\nIf you are looking for slots that are similar to Fever in terms of color variety, nostalgia, or theme, you can try out NetEnt's Starburst, Novomatic's Mega Joker, and Play'n Go's Banana Rock. These slots have similar features to Fever, such as simple gameplay, special symbols, and classic slot symbols. However, each of these games has its unique elements that make them stand out among the plethora of online slot games available on the market.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEvqvw0r3CkoUELrYW4LoOWC5rGJ",
+                "id": "chatcmpl-7WSfGp70Dl44XXS33R3oFhijXczVg",
                 "object": "chat.completion",
-                "created": 1687203266,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 686,
-                    "completion_tokens": 127,
-                    "total_tokens": 813
-                },
+                "created": 1687971038,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Combines classic mechanics with modern features\", \n        \"Appealing to a wider range of users\", \n        \"Simple yet enjoyable gameplay\", \n        \"Well-executed design and audio\"\n    ],\n    \"cons\": [\n        \"May seem a bit bare\", \n        \"Follows classic slot archetypes\"\n    ],\n    \"meta_title\": \"Play Fever for Free - Slot Game Review\", \n    \"meta_description\": \"Read our review of Fever by Cristaltec, a slot game that combines classic mechanics with modern features. Play for free and trigger free spins!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Combines classic slot mechanics with modern features\",\n    \"Appealing design and audio with disco-style setting\",\n    \"Special symbols increase chances of winning\",\n    \"Easy to understand gameplay, ideal for novice players\"\n  ],\n  \"cons\": [\n    \"Game may seem a bit bare\",\n    \"Limited variety of symbols\"\n  ],\n  \"meta_title\": \"Play Fever for Free - Exciting Slot Game with Modern Features\",\n  \"meta_description\": \"Read our review of Fever, a slot game that combines classic mechanics with modern features. Play for free and enjoy the immersive disco-style setting.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 683,
+                    "completion_tokens": 130,
+                    "total_tokens": 813
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fever.json"
+    "filename": "game_reviews/translations/fever.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Fever_that_captures_the_vibra_9065efe3-d276-4b9d-b526-19c6ca341b94_1.png",
+        "arved__Create_a_feature_image_for_Fever_that_captures_the_vibra_9065efe3-d276-4b9d-b526-19c6ca341b94_3.png",
+        "arved__Create_a_feature_image_for_Fever_that_captures_the_vibra_9065efe3-d276-4b9d-b526-19c6ca341b94_2.png",
+        "arved__Create_a_feature_image_for_Fever_that_captures_the_vibra_9065efe3-d276-4b9d-b526-19c6ca341b94_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fever",
+    "name": "Fever",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Alaska-Fever-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fever for Free - Exciting Slot Game with Modern Features' ### Meta set: 'Read our review of Fever, a slot game that combines classic mechanics with modern features. Play for free and enjoy the immersive disco-style setting.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Intriguing game design and well-balanced paytable",
-                    "Exciting special features to increase chances of winning",
-                    "Unique functions and gameplay structure with four mystical creatures",
-                    "Fair RTP and balanced volatility"
+                    "Unique gameplay structure",
+                    "Exciting special features and animations",
+                    "Fair RTP of 96.16%",
+                    "Balanced paytable with frequent payouts"
                 ],
                 "cons": [
-                    "No progressive jackpots available",
-                    "Limited betting range"
+                    "Limited number of mystical creatures",
+                    "Medium volatility may not appeal to all players"
                 ],
-                "meta_title": "Play Epic Legends for Free - Exciting Features & Unique Gameplay",
-                "meta_description": "Get ready to play Epic Legends for free and experience intrigue game design and unique gameplay features like Scatter balls and giant creatures."
+                "meta_title": "Play Epic Legends for Free",
+                "meta_description": "Discover the exciting gameplay and special features of Epic Legends in this free slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Epic Legends\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEpic Legends delivers an exciting gaming experience with its unique functions and gameplay structure. The base game includes four mystical creatures that play a crucial role in unlocking their features. Additionally, the Wild can substitute for all symbols, increasing your chances of hitting a winning combination. One of the game's highlights is the Scatter Ball, which can randomly appear above the first reel, activate bonuses, and offer free spins. The bonus spins allow for more chances to win, and the giant creatures' appearance in the free spins feature triggers delightful animations that amplify gameplay. The special features and animations are sure to keep you engaged for longer.\n\nRTP and Volatility\n\nEpic Legends features an RTP of 96.16% and medium volatility. These statistics come together to offer players the chance to experience both frequent but moderate payouts and rarer but larger payouts. Players looking for a balanced slot game with a fair RTP will find this online slot machine appealing.\n\nTheme and Design\n\nEpic Legends is set in a futuristic city-like environment and features four mystical creatures. The basic symbols offer lower payouts, while the characters are more rewarding in unlocking their unique features. The game design is intriguing and keeps the players hooked.\n\nSymbols and Paytable\n\nEpic Legend's symbols include four characters, each endowed with unique powers that are unlocked during gamely, and a series of basic symbols. The higher-paying symbols are the Blue, Red, Green, and Gold characters, while the basic symbols offer lower payouts. The paytable is well-balanced, and players can expect frequent, moderate payouts.\n\nSpecial Features and bonuses\n\nEpic Legends offers several special features to increase the player's chances of hitting a big win. The Scatter Ball, which randomly appears above the first reel, activates bonus spins, offering even more opportunities to win. The free spins feature is initiated by the Scatter ball and triggered by the giant creatures' appearance on the screen. Each creature awards a multiplier between 2x and 6x, or a Wild symbol that covers an entire reel. The Blue legend awards Sticky Wilds, while the Red creature has the power to replace all symbols on the second and third reels with a base game symbol. The special features and bonuses add to this slot's entertaining element and give players an opportunity to experience more exciting gameplay.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Epic Legends\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEpic Legends delivers an exciting gaming experience with its unique functions and gameplay structure. The base game includes four mystical creatures that play a crucial role in unlocking their features. Additionally, the Wild can substitute for all symbols, increasing your chances of hitting a winning combination. One of the game's highlights is the Scatter Ball, which can randomly appear above the first reel, activate bonuses, and offer free spins. The bonus spins allow for more chances to win, and the giant creatures' appearance in the free spins feature triggers delightful animations that amplify gameplay. The special features and animations are sure to keep you engaged for longer.\n\nRTP and Volatility\n\nEpic Legends features an RTP of 96.16% and medium volatility. These statistics come together to offer players the chance to experience both frequent but moderate payouts and rarer but larger payouts. Players looking for a balanced slot game with a fair RTP will find this online slot machine appealing.\n\nTheme and Design\n\nEpic Legends is set in a futuristic city-like environment and features four mystical creatures. The basic symbols offer lower payouts, while the characters are more rewarding in unlocking their unique features. The game design is intriguing and keeps the players hooked.\n\nSymbols and Paytable\n\nEpic Legend's symbols include four characters, each endowed with unique powers that are unlocked during gamely, and a series of basic symbols. The higher-paying symbols are the Blue, Red, Green, and Gold characters, while the basic symbols offer lower payouts. The paytable is well-balanced, and players can expect frequent, moderate payouts.\n\nSpecial Features and bonuses\n\nEpic Legends offers several special features to increase the player's chances of hitting a big win. The Scatter Ball, which randomly appears above the first reel, activates bonus spins, offering even more opportunities to win. The free spins feature is initiated by the Scatter ball and triggered by the giant creatures' appearance on the screen. Each creature awards a multiplier between 2x and 6x, or a Wild symbol that covers an entire reel. The Blue legend awards Sticky Wilds, while the Red creature has the power to replace all symbols on the second and third reels with a base game symbol. The special features and bonuses add to this slot's entertaining element and give players an opportunity to experience more exciting gameplay.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCQVdANUkPIo128DQWHlRzSSwgfn",
+                "id": "chatcmpl-7WSMBIQXIickQZDCFBNKrmvTMOnDE",
                 "object": "chat.completion",
-                "created": 1687193635,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 642,
-                    "completion_tokens": 128,
-                    "total_tokens": 770
-                },
+                "created": 1687969855,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Intriguing game design and well-balanced paytable\",\n        \"Exciting special features to increase chances of winning\",\n        \"Unique functions and gameplay structure with four mystical creatures\",\n        \"Fair RTP and balanced volatility\"\n    ],\n    \"cons\": [\n        \"No progressive jackpots available\",\n        \"Limited betting range\"\n    ],\n    \"meta_title\": \"Play Epic Legends for Free - Exciting Features & Unique Gameplay\",\n    \"meta_description\": \"Get ready to play Epic Legends for free and experience intrigue game design and unique gameplay features like Scatter balls and giant creatures.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay structure\",\n    \"Exciting special features and animations\",\n    \"Fair RTP of 96.16%\",\n    \"Balanced paytable with frequent payouts\"\n  ],\n  \"cons\": [\n    \"Limited number of mystical creatures\",\n    \"Medium volatility may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Epic Legends for Free\",\n  \"meta_description\": \"Discover the exciting gameplay and special features of Epic Legends in this free slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 639,
+                    "completion_tokens": 105,
+                    "total_tokens": 744
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/epic-legends.json"
+    "filename": "game_reviews/translations/epic-legends.json",
+    "raw_feature_images": [
+        "arved__Create_a_featured_image_for_Epic_Legends_that_captures_t_f1a2cfe2-be4a-419e-9b87-3fcc2edb8714_2.png",
+        "arved__Create_a_featured_image_for_Epic_Legends_that_captures_t_f1a2cfe2-be4a-419e-9b87-3fcc2edb8714_4.png",
+        "arved__Create_a_featured_image_for_Epic_Legends_that_captures_t_f1a2cfe2-be4a-419e-9b87-3fcc2edb8714_3.png",
+        "arved__Create_a_featured_image_for_Epic_Legends_that_captures_t_f1a2cfe2-be4a-419e-9b87-3fcc2edb8714_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "epic-legends",
+    "name": "Epic Legends",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/epic-legends_logo-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Epic Legends for Free' ### Meta set: 'Discover the exciting gameplay and special features of Epic Legends in this free slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stacked Wilds and Sticky Jokers bring potentially lucrative multipliers",
-                    "Offers four mini-games to keep things fresh",
-                    "Sharp graphics and beautiful animations",
-                    "Wilds offer up to 800x the original bet"
+                    "Classic theme and gameplay",
+                    "Stacked Wilds and respins",
+                    "Four mini games for extra excitement",
+                    "Beautiful animations and graphics"
                 ],
                 "cons": [
-                    "Medium RTP at 94.02%",
-                    "Gameplay is basic and simple"
+                    "Below average RTP at 94.02%",
+                    "Limited winning potential compared to other games"
                 ],
-                "meta_title": "Play Flamin' 7s Slot Game for Free - Review by Experts",
-                "meta_description": "Find out everything you need to know about Flamin' 7s slot game, and play it for free. Review from experts with details on features, RTP, and graphics."
+                "meta_title": "Play Flamin’ 7s for Free",
+                "meta_description": "Discover the classic Flamin’ 7s slot game and play for free. Featuring stacked Wilds and exciting mini games."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Flamin’ 7s\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFlamin' 7s slot game\n\nFlamin’ 7s is a classic themed slot game presented by PariPlay, featuring 3 reels full of symbols and rewarding bonuses. You will find stacked Wilds, respins and up to four mini games to try to increase winnings. Sticky Jokers can also bring multipliers and stick to the reels. The game has a medium volatility and an RTP of 94.02%.\n\nGameplay and features\n\nWinning in Flamin’ 7s is based on the value of each combination formed. The game has a very basic and simple setup, similar to land-based slots. The easiest and most common symbols include Fruits, Bells, lucky number 7s, double and triple BAR icons, and Wild multipliers. Each symbol offers a different payout with the Wilds being the highest, offering up to 800x the original bet. The game offers a few extra functionalities such as mini games and respins to help make the most of your winning spins.\n\nGraphics and design\n\nFlamin’ 7s features a decorative golden frame and reels, with sharp and functional graphics. The animations in the game are beautiful and add to the overall aesthetic. The flames featured in the game animations are particularly well-done and add excitement to the gaming experience.\n\nVolatility and RTP\n\nFlamin’ 7s is a medium volatility slot game with an RTP of 94.02%. This is slightly below the average RTP of the online gambling sector.\n\nWinning potential\n\nFlamin’ 7s offers a few opportunities to win big, with Wilds being the highest paying symbol and offering up to 800x the original bet. Lucky players can win over 1,400 times their total bet with this title! However, the game's limited RTP should be taken into consideration and players should keep this in mind when deciding to play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Flamin’ 7s\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFlamin' 7s slot game\n\nFlamin’ 7s is a classic themed slot game presented by PariPlay, featuring 3 reels full of symbols and rewarding bonuses. You will find stacked Wilds, respins and up to four mini games to try to increase winnings. Sticky Jokers can also bring multipliers and stick to the reels. The game has a medium volatility and an RTP of 94.02%.\n\nGameplay and features\n\nWinning in Flamin’ 7s is based on the value of each combination formed. The game has a very basic and simple setup, similar to land-based slots. The easiest and most common symbols include Fruits, Bells, lucky number 7s, double and triple BAR icons, and Wild multipliers. Each symbol offers a different payout with the Wilds being the highest, offering up to 800x the original bet. The game offers a few extra functionalities such as mini games and respins to help make the most of your winning spins.\n\nGraphics and design\n\nFlamin’ 7s features a decorative golden frame and reels, with sharp and functional graphics. The animations in the game are beautiful and add to the overall aesthetic. The flames featured in the game animations are particularly well-done and add excitement to the gaming experience.\n\nVolatility and RTP\n\nFlamin’ 7s is a medium volatility slot game with an RTP of 94.02%. This is slightly below the average RTP of the online gambling sector.\n\nWinning potential\n\nFlamin’ 7s offers a few opportunities to win big, with Wilds being the highest paying symbol and offering up to 800x the original bet. Lucky players can win over 1,400 times their total bet with this title! However, the game's limited RTP should be taken into consideration and players should keep this in mind when deciding to play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TGPdKS3dDF0MN4wG15WHlDiRcc2O",
+                "id": "chatcmpl-7WSrNhzwYZTkhV9uF31roAEtsn2Uq",
                 "object": "chat.completion",
-                "created": 1687208957,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 562,
-                    "completion_tokens": 151,
-                    "total_tokens": 713
-                },
+                "created": 1687971789,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stacked Wilds and Sticky Jokers bring potentially lucrative multipliers\",\n        \"Offers four mini-games to keep things fresh\",\n        \"Sharp graphics and beautiful animations\",\n        \"Wilds offer up to 800x the original bet\"\n    ],\n    \"cons\": [\n        \"Medium RTP at 94.02%\",\n        \"Gameplay is basic and simple\"\n    ],\n    \"meta_title\": \"Play Flamin' 7s Slot Game for Free - Review by Experts\",\n    \"meta_description\": \"Find out everything you need to know about Flamin' 7s slot game, and play it for free. Review from experts with details on features, RTP, and graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic theme and gameplay\",\n    \"Stacked Wilds and respins\",\n    \"Four mini games for extra excitement\",\n    \"Beautiful animations and graphics\"\n  ],\n  \"cons\": [\n    \"Below average RTP at 94.02%\",\n    \"Limited winning potential compared to other games\"\n  ],\n  \"meta_title\": \"Play Flamin’ 7s for Free\",\n  \"meta_description\": \"Discover the classic Flamin’ 7s slot game and play for free. Featuring stacked Wilds and exciting mini games.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 559,
+                    "completion_tokens": 118,
+                    "total_tokens": 677
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/flamin-7s.json"
+    "filename": "game_reviews/translations/flamin-7s.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Flamin_7s_that__71c2f989-eaef-458c-b70c-c557d1534b9b_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Flamin_7s_that__71c2f989-eaef-458c-b70c-c557d1534b9b_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Flamin_7s_that__71c2f989-eaef-458c-b70c-c557d1534b9b_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Flamin_7s_that__71c2f989-eaef-458c-b70c-c557d1534b9b_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "flamin-7s",
+    "name": "Flamin’ 7s",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/flamin-7s-free-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Flamin’ 7s for Free' ### Meta set: 'Discover the classic Flamin’ 7s slot game and play for free. Featuring stacked Wilds and exciting mini games.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

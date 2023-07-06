@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Classic bar slot machine gameplay",
-                    "Eye-catching graphics with a modern twist",
-                    "Special symbols such as Wilds and Multipliers",
-                    "Developed by award-winning provider Quickspin"
+                    "Refined and eye-catching graphics",
+                    "Special symbols for increased winning chances",
+                    "Similar games available for players to try"
                 ],
                 "cons": [
-                    "Limited bonus features compared to other modern slots",
-                    "Smaller game grid than most video slots"
+                    "Limited game grid (3x3)",
+                    "Lacks unique bonus features"
                 ],
-                "meta_title": "Play Diamond Duke for Free: Quickspin's Classic Bar Slot",
-                "meta_description": "Read our review of Diamond Duke, the classic bar-style online slot by Quickspin. Play for free and win big with Wilds, Multipliers, and more."
+                "meta_title": "Play Diamond Duke Free - Classic Bar Slot Game",
+                "meta_description": "Review of Diamond Duke, a classic bar slot game with refined graphics. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Diamond Duke\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDiamond Duke's gameplay is inspired by classic bar slot machines, complete with a mini-cabinet that occupies the central part of the game interface. The slot features a 3x3 grid, with nine symbols chasing each other on the reels in every single game, special symbols such as Wilds and Multipliers for more chances to win.\n\nGraphics\n\nDiamond Duke's graphics are reminiscent of classic slot machines found in bars, but with a modern twist. The background features a blue color illuminated by casino lights, and the symbols include classic and recognizable images such as cherries, grapes, watermelons, golden bells, and red number sevens. The graphics are refined and eye-catching, without getting lost in too many details.\n\nSpecial Symbols\n\nDiamond Duke features special symbols such as Wilds, which can substitute for other symbols to increase the chances of winning. The Multiplier Wheel symbol, when landed, activates a bonus game where the player spins a wheel to earn a random multiplier value for their winnings. The Diamond Duke symbol is the highest-paying symbol in the game, landing three of them can give the player up to 160x their bet amount.\n\nSimilar Games\n\nDiamond Duke belongs to the bar genre of slots, which has a great offer of similar titles. Players who enjoy Diamond Duke can also try Super Diamond Wild, Sizzling Gems, Seven Highs, and Win Win. All of these slots have classic bar slot machine gameplay and eye-catching graphics.\n\nDeveloper\n\nDiamond Duke is developed by Quickspin, which is a Swedish software provider founded in 2011. Quickspin is a subsidiary of Playtech, one of the largest gambling software developers globally. Quickspin specializes in creating high-quality video slots with innovative gameplay mechanics and outstanding graphics. The company has won multiple awards for their slots, including the EGR B2B Award for Innovation in RNG Casino Software.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Diamond Duke\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDiamond Duke's gameplay is inspired by classic bar slot machines, complete with a mini-cabinet that occupies the central part of the game interface. The slot features a 3x3 grid, with nine symbols chasing each other on the reels in every single game, special symbols such as Wilds and Multipliers for more chances to win.\n\nGraphics\n\nDiamond Duke's graphics are reminiscent of classic slot machines found in bars, but with a modern twist. The background features a blue color illuminated by casino lights, and the symbols include classic and recognizable images such as cherries, grapes, watermelons, golden bells, and red number sevens. The graphics are refined and eye-catching, without getting lost in too many details.\n\nSpecial Symbols\n\nDiamond Duke features special symbols such as Wilds, which can substitute for other symbols to increase the chances of winning. The Multiplier Wheel symbol, when landed, activates a bonus game where the player spins a wheel to earn a random multiplier value for their winnings. The Diamond Duke symbol is the highest-paying symbol in the game, landing three of them can give the player up to 160x their bet amount.\n\nSimilar Games\n\nDiamond Duke belongs to the bar genre of slots, which has a great offer of similar titles. Players who enjoy Diamond Duke can also try Super Diamond Wild, Sizzling Gems, Seven Highs, and Win Win. All of these slots have classic bar slot machine gameplay and eye-catching graphics.\n\nDeveloper\n\nDiamond Duke is developed by Quickspin, which is a Swedish software provider founded in 2011. Quickspin is a subsidiary of Playtech, one of the largest gambling software developers globally. Quickspin specializes in creating high-quality video slots with innovative gameplay mechanics and outstanding graphics. The company has won multiple awards for their slots, including the EGR B2B Award for Innovation in RNG Casino Software.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T3DngjpreNFr2WzayRdqaW1dGqO1",
+                "id": "chatcmpl-7WRDC6yWFZZUrj1ft7ifgJGLR2zQx",
                 "object": "chat.completion",
-                "created": 1687158251,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 553,
-                    "completion_tokens": 133,
-                    "total_tokens": 686
-                },
+                "created": 1687965454,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Classic bar slot machine gameplay\",\n    \"Eye-catching graphics with a modern twist\",\n    \"Special symbols such as Wilds and Multipliers\",\n    \"Developed by award-winning provider Quickspin\"\n],\n\"cons\": [\n    \"Limited bonus features compared to other modern slots\",\n    \"Smaller game grid than most video slots\"\n],\n\"meta_title\": \"Play Diamond Duke for Free: Quickspin's Classic Bar Slot\",\n\"meta_description\": \"Read our review of Diamond Duke, the classic bar-style online slot by Quickspin. Play for free and win big with Wilds, Multipliers, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic bar slot machine gameplay\",\n    \"Refined and eye-catching graphics\",\n    \"Special symbols for increased winning chances\",\n    \"Similar games available for players to try\"\n  ],\n  \"cons\": [\n    \"Limited game grid (3x3)\",\n    \"Lacks unique bonus features\"\n  ],\n  \"meta_title\": \"Play Diamond Duke Free - Classic Bar Slot Game\",\n  \"meta_description\": \"Review of Diamond Duke, a classic bar slot game with refined graphics. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 550,
+                    "completion_tokens": 111,
+                    "total_tokens": 661
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_2.png",
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_4.png",
         "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_1.png",
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_3.png"
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_2.png",
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_3.png",
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Diamond Duke (Version 1).webp",
-        "game_reviews/processed_images/Diamond Duke (Version 4).webp",
         "game_reviews/processed_images/Diamond Duke (Version 3).webp",
-        "game_reviews/processed_images/Diamond Duke (Version 2).webp"
+        "game_reviews/processed_images/Diamond Duke (Version 1).webp",
+        "game_reviews/processed_images/Diamond Duke (Version 2).webp",
+        "game_reviews/processed_images/Diamond Duke (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/diamond-duke.json"
+    "filename": "game_reviews/translations/diamond-duke.json",
+    "slug": "diamond-duke",
+    "name": "Diamond Duke",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Diamond-Duke-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Diamond Duke Free - Classic Bar Slot Game' ### Meta set: 'Review of Diamond Duke, a classic bar slot game with refined graphics. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

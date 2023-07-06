@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique, hand-drawn graphics",
-                    "Rare 28 pay line system",
-                    "Golden Carp wild symbol for more wins",
-                    "Simple and easy-to-use gameplay mechanics"
+                    "Unique hand-drawn graphics",
+                    "Tranquil atmosphere inspired by Chinese folklore",
+                    "Rare 28 pay line system for more winning chances",
+                    "Intuitive gameplay mechanics"
                 ],
                 "cons": [
-                    "Lack of additional bonus features",
-                    "Limited betting range"
+                    "Limited bonus features",
+                    "Lack of progressive jackpot"
                 ],
-                "meta_title": "Play Lucky Fortune Cat for Free - Review of Red Tiger's Slot Game",
-                "meta_description": "Play Lucky Fortune Cat for free and read our review of Red Tiger Gaming's slot game with its unique graphics, 28 pay line system, and intuitive gameplay."
+                "meta_title": "Play Lucky Fortune Cat Free and Enjoy Unique Graphics",
+                "meta_description": "Read our review of Lucky Fortune Cat, a slot game inspired by Chinese folklore. Play for free and enjoy the unique hand-drawn graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Fortune Cat\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSlot game features\n\nLucky Fortune Cat is a slot game from Red Tiger Gaming that features a unique, hand-drawn graphics and tranquil atmosphere inspired by Chinese folklore. The game also offers a rare 28 pay line system, maximizing players' chances for big wins.\n\nUnique graphics\n\nThe attention to detail in Lucky Fortune Cat is exceptional with every object on the reel-set moves and vibrates, creating a dynamic and ever-moving gameplay. The cost-effective symbols include six dice, while the high-paying symbols include a hand-held fan, a koi fish, a bag of coins, and the titular lucky cat.\n\nPay line system\n\nLucky Fortune Cat offers a rare 28 pay line system, giving players more chances to land winning combinations and score big wins. The game also features a Golden Carp wild symbol, which can replace all other symbols to create even more winning combinations.\n\nGameplay mechanics\n\nLucky Fortune Cat offers an intuitive gameplay, allowing players to focus on the reels and winning combinations rather than complicated command buttons. To start playing, simply select your bet using the (+) or (-) buttons, press the spin button, and hope for winning combinations. The game also activates a random respin if landed two or more Fortune Cats, with up to 18x multipliers available for bigger payouts.\n\nBonus features\n\nIn addition to the Golden Carp wild symbol and random respin, Lucky Fortune Cat offers another chance for players to boost their winnings. The game features a unique bonus symbol system, starting with a Bonus symbol that appears on the reels. Once a player lands the Bonus symbol, the Free Spins feature will activate, multiplying all your winnings by three.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Fortune Cat\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSlot game features\n\nLucky Fortune Cat is a slot game from Red Tiger Gaming that features a unique, hand-drawn graphics and tranquil atmosphere inspired by Chinese folklore. The game also offers a rare 28 pay line system, maximizing players' chances for big wins.\n\nUnique graphics\n\nThe attention to detail in Lucky Fortune Cat is exceptional with every object on the reel-set moves and vibrates, creating a dynamic and ever-moving gameplay. The cost-effective symbols include six dice, while the high-paying symbols include a hand-held fan, a koi fish, a bag of coins, and the titular lucky cat.\n\nPay line system\n\nLucky Fortune Cat offers a rare 28 pay line system, giving players more chances to land winning combinations and score big wins. The game also features a Golden Carp wild symbol, which can replace all other symbols to create even more winning combinations.\n\nGameplay mechanics\n\nLucky Fortune Cat offers an intuitive gameplay, allowing players to focus on the reels and winning combinations rather than complicated command buttons. To start playing, simply select your bet using the (+) or (-) buttons, press the spin button, and hope for winning combinations. The game also activates a random respin if landed two or more Fortune Cats, with up to 18x multipliers available for bigger payouts.\n\nBonus features\n\nIn addition to the Golden Carp wild symbol and random respin, Lucky Fortune Cat offers another chance for players to boost their winnings. The game features a unique bonus symbol system, starting with a Bonus symbol that appears on the reels. Once a player lands the Bonus symbol, the Free Spins feature will activate, multiplying all your winnings by three.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U2hFDrtnqr3CUlOXO7SoYyqbbJbN",
+                "id": "chatcmpl-7WWeQeSBSD4Rf5KHgR0pF99QP3yoE",
                 "object": "chat.completion",
-                "created": 1687394561,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986362,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique, hand-drawn graphics\",\n        \"Rare 28 pay line system\",\n        \"Golden Carp wild symbol for more wins\",\n        \"Simple and easy-to-use gameplay mechanics\"\n    ],\n    \"cons\": [\n        \"Lack of additional bonus features\",\n        \"Limited betting range\"\n    ],\n    \"meta_title\": \"Play Lucky Fortune Cat for Free - Review of Red Tiger's Slot Game\",\n    \"meta_description\": \"Play Lucky Fortune Cat for free and read our review of Red Tiger Gaming's slot game with its unique graphics, 28 pay line system, and intuitive gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique hand-drawn graphics\",\n    \"Tranquil atmosphere inspired by Chinese folklore\",\n    \"Rare 28 pay line system for more winning chances\",\n    \"Intuitive gameplay mechanics\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"Lack of progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Lucky Fortune Cat Free and Enjoy Unique Graphics\",\n  \"meta_description\": \"Read our review of Lucky Fortune Cat, a slot game inspired by Chinese folklore. Play for free and enjoy the unique hand-drawn graphics.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 512,
-                    "completion_tokens": 130,
-                    "total_tokens": 642
+                    "prompt_tokens": 509,
+                    "completion_tokens": 120,
+                    "total_tokens": 629
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-fortune-cat.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Fo_73cee8eb-9304-4a55-b8a2-8036bcf0cbe0_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Fo_73cee8eb-9304-4a55-b8a2-8036bcf0cbe0_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Fo_73cee8eb-9304-4a55-b8a2-8036bcf0cbe0_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Fo_73cee8eb-9304-4a55-b8a2-8036bcf0cbe0_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Fortune Cat (Version 3).webp",
+        "game_reviews/processed_images/Lucky Fortune Cat (Version 2).webp",
+        "game_reviews/processed_images/Lucky Fortune Cat (Version 4).webp",
+        "game_reviews/processed_images/Lucky Fortune Cat (Version 1).webp"
+    ],
+    "slug": "lucky-fortune-cat",
+    "name": "Lucky Fortune Cat",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Fortune-Cat-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Fortune Cat Free and Enjoy Unique Graphics' ### Meta set: 'Read our review of Lucky Fortune Cat, a slot game inspired by Chinese folklore. Play for free and enjoy the unique hand-drawn graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Festive visuals and animations",
-                    "Unique Gold Hold & Win Respins feature",
-                    "Autoplay function with win/loss limits",
-                    "Reasonable RTP of 96%"
+                    "Classic grid game with fixed paylines",
+                    "Reasonable RTP of 96%",
+                    "Exciting special features with new grid and counters",
+                    "Festive graphics and animations that enhance the Christmas theme"
                 ],
                 "cons": [
-                    "Limited special symbols in Gold Hold & Win Respins",
-                    "Lack of variety in base game symbols"
+                    "Limited selection of special symbols",
+                    "Medium volatility might not appeal to players looking for high risk/reward"
                 ],
-                "meta_title": "Play Christmas Gold Digger Slot Free | Festive 5x3 Grid Game",
-                "meta_description": "Read our review of Christmas Gold Digger online slot. Play for free with festive graphics, special gold hold feature, and autoplay with win/loss limits."
+                "meta_title": "Play Christmas Gold Digger for Free",
+                "meta_description": "Read our review of Christmas Gold Digger and play this festive slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Christmas Gold Digger\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nChristmas Gold Digger is a classic 5x3 grid game with 20 fixed paylines and a reasonable RTP of 96%. To win, you need to match identical symbols starting from the leftmost reel and proceeding to the right. The volatility is medium.\n\nPaylines\n\nChristmas Gold Digger has 20 fixed paylines that pay out when matching symbols appear consecutively from the leftmost reel to the right.\n\nSpecial Features\n\nThe Gold Hold & Win Respins feature is triggered by five or more Gold Nuggets. This special mode has a brand new grid with four special counters made up of three squares to fill, and three respins available. During respins, only the gold nuggets and special symbols appear on the reels. The special symbols include the Arrow, Dollar, Heart, and Purple Gem. Random modifiers in the base game include Dynamite sticks, pickaxes, and TNT bombs.\n\nVisuals\n\nChristmas Gold Digger features festive graphics and animations that are well-made and will transport you to a gold mine filled with Christmas decorations and snow. The sound contributes to the Christmas ambiance of the game with a typical jingle and a few special effects when bonuses are triggered.\n\nAutoplay\n\nThe Autoplay function allows you to set automatic spins and win or loss limits, beyond which the feature stops.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Christmas Gold Digger\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nChristmas Gold Digger is a classic 5x3 grid game with 20 fixed paylines and a reasonable RTP of 96%. To win, you need to match identical symbols starting from the leftmost reel and proceeding to the right. The volatility is medium.\n\nPaylines\n\nChristmas Gold Digger has 20 fixed paylines that pay out when matching symbols appear consecutively from the leftmost reel to the right.\n\nSpecial Features\n\nThe Gold Hold & Win Respins feature is triggered by five or more Gold Nuggets. This special mode has a brand new grid with four special counters made up of three squares to fill, and three respins available. During respins, only the gold nuggets and special symbols appear on the reels. The special symbols include the Arrow, Dollar, Heart, and Purple Gem. Random modifiers in the base game include Dynamite sticks, pickaxes, and TNT bombs.\n\nVisuals\n\nChristmas Gold Digger features festive graphics and animations that are well-made and will transport you to a gold mine filled with Christmas decorations and snow. The sound contributes to the Christmas ambiance of the game with a typical jingle and a few special effects when bonuses are triggered.\n\nAutoplay\n\nThe Autoplay function allows you to set automatic spins and win or loss limits, beyond which the feature stops.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SuiZKMCV1ebKYjLm5b5hHlpXA1be",
+                "id": "chatcmpl-7WQEjJ95AH2mOpl30BL5ETUBuhoWx",
                 "object": "chat.completion",
-                "created": 1687125563,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 445,
-                    "completion_tokens": 142,
-                    "total_tokens": 587
-                },
+                "created": 1687961705,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Festive visuals and animations\",\n        \"Unique Gold Hold & Win Respins feature\",\n        \"Autoplay function with win/loss limits\",\n        \"Reasonable RTP of 96%\"\n    ],\n    \"cons\": [\n        \"Limited special symbols in Gold Hold & Win Respins\",\n        \"Lack of variety in base game symbols\"\n    ],\n    \"meta_title\": \"Play Christmas Gold Digger Slot Free | Festive 5x3 Grid Game\",\n    \"meta_description\": \"Read our review of Christmas Gold Digger online slot. Play for free with festive graphics, special gold hold feature, and autoplay with win/loss limits.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic grid game with fixed paylines\",\n    \"Reasonable RTP of 96%\",\n    \"Exciting special features with new grid and counters\",\n    \"Festive graphics and animations that enhance the Christmas theme\"\n  ],\n  \"cons\": [\n    \"Limited selection of special symbols\",\n    \"Medium volatility might not appeal to players looking for high risk/reward\"\n  ],\n  \"meta_title\": \"Play Christmas Gold Digger for Free\",\n  \"meta_description\": \"Read our review of Christmas Gold Digger and play this festive slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 442,
+                    "completion_tokens": 123,
+                    "total_tokens": 565
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_1.png",
+        "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_3.png",
         "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_4.png",
-        "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_2.png",
-        "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_3.png"
+        "arved__Dear_DALLE_I_need_a_feature_image_for_the_online_slot_ga_567fe503-7c66-4809-8f8b-0e5cdcb0d191_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Christmas Gold Digger (Version 2).webp",
-        "game_reviews/processed_images/Christmas Gold Digger (Version 4).webp",
+        "game_reviews/processed_images/Christmas Gold Digger (Version 3).webp",
         "game_reviews/processed_images/Christmas Gold Digger (Version 1).webp",
-        "game_reviews/processed_images/Christmas Gold Digger (Version 3).webp"
+        "game_reviews/processed_images/Christmas Gold Digger (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/christmas-gold-digger.json"
+    "filename": "game_reviews/translations/christmas-gold-digger.json",
+    "slug": "christmas-gold-digger",
+    "name": "Christmas Gold Digger",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Christmas-Gold-Digger-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Christmas Gold Digger for Free' ### Meta set: 'Read our review of Christmas Gold Digger and play this festive slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

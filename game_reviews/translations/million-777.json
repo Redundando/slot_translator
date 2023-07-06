@@ -580,38 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Offers various special features and bonuses",
-                    "Provides an enormous grid with winning possibilities of 1,000,000",
-                    "Traditional and classic graphics that evoke nostalgia among players",
-                    "Offers both low-stake and high-stake betting options"
+                    "Classic fruit machine with 6 reels and 10 paylines",
+                    "Multiple special features and bonuses to increase chances of winning",
+                    "Traditional and classic graphics with a nostalgic feel",
+                    "Accessible betting options for all types of players"
                 ],
                 "cons": [
-                    "Not the highest RTP available"
+                    "RTP of 95.3% is not the highest available",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Million 777 for Free - Review of the Online Slot Game",
-                "meta_description": "Read our review of Million 777, a classic fruit machine with exciting special features. Play for free and enjoy the traditional graphics and huge winning possibilities."
+                "meta_title": "Play Million 777 for Free - Classic Fruit Machine with Special Features",
+                "meta_description": "Play Million 777 for free and enjoy a classic fruit machine with special features and bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Million 777\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nMillion 777 is a classic fruit machine with 6 reels and 10 paylines. The winning ways are 1,000,000 and change based on the number of symbols that appear on the grid. To win, you need to obtain a combination of identical symbols on at least three of the six reels, regardless of the payline. You can bet on Million 777 with a minimum bet of €0.20 and a maximum of €50.\n\nSpecial features and bonuses\n\nMillion 777 offers several special features and bonuses that can increase your chances of winning. A counter on the sides of the grid fills up progressively with coins and unlocks the 777 Minigame, a series of spins in which only coins appear, with multiplication values. At the end of the spins, you'll be paid the value of the coins that appeared. There are also various multipliers, from x2 to x10, if the lucky symbols, represented by horseshoes, appear. Finally, you can take advantage of other special functions when you see three or more stacks of banknotes or the golden and silver number 7s on the reels.\n\nGame graphics and visual design\n\nMillion 777 has traditional and classic graphics that are reminiscent of the fruit machine tradition. The symbols include colored fruits, the \"BAR\" signs, the bell, and the number 7. The game grid is enormous and occupies almost the entire screen, providing endless possibilities for winning big. The panels on either side of the grid also correspond to different special features that add to the overall experience. The visual design is simple, yet effective, and offers a nostalgic feel for all players, both nostalgic and non-nostalgic alike.\n\nBetting options and limits\n\nPlayers can bet on Million 777 with a minimum bet of €0.20 and a maximum of €50. This makes it accessible both to low-stakes players and those who prefer higher bets. Additionally, the game's enormous grid and 1,000,000 possible winning ways make it an exciting choice for all types of players.\n\nReturn to player percentage (RTP)\n\nTheoretical return to player or RTP of Million 777 is 95.3%, which is within the average range for slot machines. This means that for every €100 wagered, the game pays out €95.30 over time. While this may not be the highest RTP available, it is still a decent payout percentage that provides players with a fair chance to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Million 777\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nMillion 777 is a classic fruit machine with 6 reels and 10 paylines. The winning ways are 1,000,000 and change based on the number of symbols that appear on the grid. To win, you need to obtain a combination of identical symbols on at least three of the six reels, regardless of the payline. You can bet on Million 777 with a minimum bet of €0.20 and a maximum of €50.\n\nSpecial features and bonuses\n\nMillion 777 offers several special features and bonuses that can increase your chances of winning. A counter on the sides of the grid fills up progressively with coins and unlocks the 777 Minigame, a series of spins in which only coins appear, with multiplication values. At the end of the spins, you'll be paid the value of the coins that appeared. There are also various multipliers, from x2 to x10, if the lucky symbols, represented by horseshoes, appear. Finally, you can take advantage of other special functions when you see three or more stacks of banknotes or the golden and silver number 7s on the reels.\n\nGame graphics and visual design\n\nMillion 777 has traditional and classic graphics that are reminiscent of the fruit machine tradition. The symbols include colored fruits, the \"BAR\" signs, the bell, and the number 7. The game grid is enormous and occupies almost the entire screen, providing endless possibilities for winning big. The panels on either side of the grid also correspond to different special features that add to the overall experience. The visual design is simple, yet effective, and offers a nostalgic feel for all players, both nostalgic and non-nostalgic alike.\n\nBetting options and limits\n\nPlayers can bet on Million 777 with a minimum bet of €0.20 and a maximum of €50. This makes it accessible both to low-stakes players and those who prefer higher bets. Additionally, the game's enormous grid and 1,000,000 possible winning ways make it an exciting choice for all types of players.\n\nReturn to player percentage (RTP)\n\nTheoretical return to player or RTP of Million 777 is 95.3%, which is within the average range for slot machines. This means that for every €100 wagered, the game pays out €95.30 over time. While this may not be the highest RTP available, it is still a decent payout percentage that provides players with a fair chance to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9D1ZyLM37fCn4XFZGF9ZE0wO6zK",
+                "id": "chatcmpl-7WXjbWJiROs1toFRF37S9iiDbnEXc",
                 "object": "chat.completion",
-                "created": 1687419595,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990527,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Offers various special features and bonuses\",\n        \"Provides an enormous grid with winning possibilities of 1,000,000\",\n        \"Traditional and classic graphics that evoke nostalgia among players\",\n        \"Offers both low-stake and high-stake betting options\"\n    ],\n    \"cons\": [\n        \"Not the highest RTP available\"\n    ],\n    \"meta_title\": \"Play Million 777 for Free - Review of the Online Slot Game\",\n    \"meta_description\": \"Read our review of Million 777, a classic fruit machine with exciting special features. Play for free and enjoy the traditional graphics and huge winning possibilities.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic fruit machine with 6 reels and 10 paylines\",\n    \"Multiple special features and bonuses to increase chances of winning\",\n    \"Traditional and classic graphics with a nostalgic feel\",\n    \"Accessible betting options for all types of players\"\n  ],\n  \"cons\": [\n    \"RTP of 95.3% is not the highest available\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Million 777 for Free - Classic Fruit Machine with Special Features\",\n  \"meta_description\": \"Play Million 777 for free and enjoy a classic fruit machine with special features and bonuses.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 688,
-                    "completion_tokens": 134,
-                    "total_tokens": 822
+                    "prompt_tokens": 685,
+                    "completion_tokens": 135,
+                    "total_tokens": 820
                 }
             }
         },
@@ -810,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/million-777.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_d3097f82-8f17-4fde-8caa-12dc22a5a2f4_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_d3097f82-8f17-4fde-8caa-12dc22a5a2f4_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_d3097f82-8f17-4fde-8caa-12dc22a5a2f4_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_d3097f82-8f17-4fde-8caa-12dc22a5a2f4_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Million 777 (Version 4).webp",
+        "game_reviews/processed_images/Million 777 (Version 2).webp",
+        "game_reviews/processed_images/Million 777 (Version 1).webp",
+        "game_reviews/processed_images/Million 777 (Version 3).webp"
+    ],
+    "slug": "million-777",
+    "name": "Million 777",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Million-777-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Million 777 for Free - Classic Fruit Machine with Special Features' ### Meta set: 'Play Million 777 for free and enjoy a classic fruit machine with special features and bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

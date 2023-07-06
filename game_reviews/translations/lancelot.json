@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High-quality graphics and attention to detail.",
-                    "Free spins can be activated with stacked Wild symbols.",
-                    "Autoplay mode allows for automatic plays.",
-                    "Quick bet formula makes it easy to set betting amounts."
+                    "Inspired by the legends of King Arthur and the Knights of the Round Table",
+                    "Players can select the lines and bet amount",
+                    "Autoplay mode and quick bet formula for convenience",
+                    "Can activate up to 50 free spins with stacked Wild symbols"
                 ],
                 "cons": [
-                    "No bonus game available.",
-                    "Sound effects can be a bit lackluster."
+                    "No bonus game",
+                    "Lackluster sound"
                 ],
-                "meta_title": "Play Lancelot slot game for free - review",
-                "meta_description": "Discover the world of King Arthur and the Knights of the Round Table with Lancelot online slot game. Play now for free and enjoy high-quality graphics."
+                "meta_title": "Play Lancelot for Free - A Slot Game Inspired by King Arthur",
+                "meta_description": "Play Lancelot for free and experience the legends of King Arthur and the Knights of the Round Table in this online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lancelot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLancelot is a 5-reel, 40 payline online slot game inspired by the legends of King Arthur and the Knights of the Round Table. Players can select the lines they want to keep active and bet from a minimum of 0.01 up to a maximum of 5€. The autoplay mode allows for automatic plays, and the quick bet formula allows players to set the amount easily, from 0.40 up to a maximum of 200€. The game doesn't offer a bonus game, but free spins can be activated with 2 stacked Wild symbols, up to a maximum of 50 free spins with 5 Wild symbols.\n\nGraphics\n\nLancelot benefits from high-quality graphics and attention to detail. The game takes place in an enchanted forest and features medieval symbols and characters, with Lancelot, Guinevere, and Merlin being the most prominent figures. However, the game's sound is somewhat lackluster.\n\nSymbols\n\nThe symbols in Lancelot draw inspiration from medieval folklore and include weapons and characters from the legendary tales. Guinevere and Lancelot are the Wild symbols and offer higher payouts, alongside Merlin.\n\nBonuses\n\nLancelot doesn't offer a bonus game, which may be disappointing for some players. However, free spins can be activated with 2 stacked Wild symbols, up to a maximum of 50 free spins with 5 Wild symbols.\n\nOverall Experience\n\nLancelot is an enjoyable online slot game that offers a positive gaming experience. However, with no bonus game and lackluster sound, it may not be for everyone. Still, the game's attention to detail and high-quality graphics make it worth a try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lancelot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLancelot is a 5-reel, 40 payline online slot game inspired by the legends of King Arthur and the Knights of the Round Table. Players can select the lines they want to keep active and bet from a minimum of 0.01 up to a maximum of 5€. The autoplay mode allows for automatic plays, and the quick bet formula allows players to set the amount easily, from 0.40 up to a maximum of 200€. The game doesn't offer a bonus game, but free spins can be activated with 2 stacked Wild symbols, up to a maximum of 50 free spins with 5 Wild symbols.\n\nGraphics\n\nLancelot benefits from high-quality graphics and attention to detail. The game takes place in an enchanted forest and features medieval symbols and characters, with Lancelot, Guinevere, and Merlin being the most prominent figures. However, the game's sound is somewhat lackluster.\n\nSymbols\n\nThe symbols in Lancelot draw inspiration from medieval folklore and include weapons and characters from the legendary tales. Guinevere and Lancelot are the Wild symbols and offer higher payouts, alongside Merlin.\n\nBonuses\n\nLancelot doesn't offer a bonus game, which may be disappointing for some players. However, free spins can be activated with 2 stacked Wild symbols, up to a maximum of 50 free spins with 5 Wild symbols.\n\nOverall Experience\n\nLancelot is an enjoyable online slot game that offers a positive gaming experience. However, with no bonus game and lackluster sound, it may not be for everyone. Still, the game's attention to detail and high-quality graphics make it worth a try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TzxKzDMShWVCTonm8oiKXYWXYPh0",
+                "id": "chatcmpl-7WWCdexjdkhDpxgFHSn3XHyXuxfAs",
                 "object": "chat.completion",
-                "created": 1687384026,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984639,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"High-quality graphics and attention to detail.\",\n    \"Free spins can be activated with stacked Wild symbols.\",\n    \"Autoplay mode allows for automatic plays.\",\n    \"Quick bet formula makes it easy to set betting amounts.\"\n],\n\"cons\": [\n    \"No bonus game available.\",\n    \"Sound effects can be a bit lackluster.\"\n],\n\"meta_title\": \"Play Lancelot slot game for free - review\",\n\"meta_description\": \"Discover the world of King Arthur and the Knights of the Round Table with Lancelot online slot game. Play now for free and enjoy high-quality graphics.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Inspired by the legends of King Arthur and the Knights of the Round Table\",\n      \"Players can select the lines and bet amount\",\n      \"Autoplay mode and quick bet formula for convenience\",\n      \"Can activate up to 50 free spins with stacked Wild symbols\"\n   ],\n   \"cons\": [\n      \"No bonus game\",\n      \"Lackluster sound\"\n   ],\n   \"meta_title\": \"Play Lancelot for Free - A Slot Game Inspired by King Arthur\",\n   \"meta_description\": \"Play Lancelot for free and experience the legends of King Arthur and the Knights of the Round Table in this online slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 522,
-                    "completion_tokens": 130,
-                    "total_tokens": 652
+                    "prompt_tokens": 519,
+                    "completion_tokens": 140,
+                    "total_tokens": 659
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lancelot.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_3151a091-9c85-4b09-be29-874a34220461_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_3151a091-9c85-4b09-be29-874a34220461_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_3151a091-9c85-4b09-be29-874a34220461_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_3151a091-9c85-4b09-be29-874a34220461_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lancelot (Version 4).webp",
+        "game_reviews/processed_images/Lancelot (Version 1).webp",
+        "game_reviews/processed_images/Lancelot (Version 2).webp",
+        "game_reviews/processed_images/Lancelot (Version 3).webp"
+    ],
+    "slug": "lancelot",
+    "name": "Lancelot",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lancelot-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lancelot for Free - A Slot Game Inspired by King Arthur' ### Meta set: 'Play Lancelot for free and experience the legends of King Arthur and the Knights of the Round Table in this online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

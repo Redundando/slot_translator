@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Colorful and funny graphics.",
-                    "Three jackpots of different values.",
-                    "Reference to Chinese New year theme.",
-                    "Celebration of Chinese culture."
+                    "Gameplay with a Wild symbol and bonus mode",
+                    "Colorful and funny graphics",
+                    "Three jackpots of different values",
+                    "Celebrates Chinese New Year and Chinese culture"
                 ],
                 "cons": [
-                    "Difficult to hit jackpots.",
-                    "Limited symbol variety."
+                    "Difficulty in obtaining the jackpots",
+                    "Highly used oriental theme in the online slot game industry"
                 ],
-                "meta_title": "Play Money Mouse Slot Free | Chinese New Year Theme",
-                "meta_description": "Money Mouse by Pragmatic Play celebrates Chinese New Year with colorful graphics, 3 jackpots, and references to Chinese culture. Play for free."
+                "meta_title": "Play Money Mouse Free - Review of Pragmatic Play's Slot Game",
+                "meta_description": "Review of Money Mouse by Pragmatic Play - gameplay, graphics, jackpots, and Chinese New Year theme. Play free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Money Mouse\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMoney Mouse by Pragmatic Play is a 5x3 slot game with 15 symbols shown at each play. The game features a Wild symbol in the form of a rat that can replace any other symbol in play. The golden tree symbol is the key to reaching the bonus mode of the game. Money Mouse also offers three jackpots of different values at the top of the screen that are naturally the goal of all players, although they are difficult to obtain.\n\nGraphics\n\nMoney Mouse is a colorful and funny slot game that incorporates typical ancient Chinese buildings made of red and gold wood as the game grid. The symbols scrolling on the reels are clear references to Chinese New Year, such as fireworks, the head of the dancing dragon, and the drums, but there are also classic symbols of playing cards (A, K, Q, and J) together with trees of ancient coins and mandarins. The background music is a typical oriental melody that captures the lively atmosphere of Chinese New Year.\n\nJackpots\n\nMoney Mouse offers three jackpots of different values that can be won during gameplay. While players aim to hit these jackpots, they are particularly difficult to obtain.\n\nChinese New Year Theme\n\nMoney Mouse by Pragmatic Play is a slot game that celebrates the Year of the Rat in the Chinese zodiac. The game features symbols that reference Chinese New Year, such as fireworks, the head of the dancing dragon, and trees of ancient coins and mandarins. The cute and smiling rat offers players a gold ingot as a sign of good luck. The game captures the lively and joyous atmosphere of Chinese New Year and celebrates the culture of the Chinese people.\n\nOriental-themed Games\n\nThe oriental theme is widely used in the world of online slot games, and in particular, Chinese culture is a popular theme. Slot games with similar themes to Money Mouse include 5 Fortune Dragons, Amazing Thailand, and Ancient China. The majority of slots with a dragon in their title also share this theme. There is a great choice of oriental-themed games available for those who want to explore this culture further.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Money Mouse\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMoney Mouse by Pragmatic Play is a 5x3 slot game with 15 symbols shown at each play. The game features a Wild symbol in the form of a rat that can replace any other symbol in play. The golden tree symbol is the key to reaching the bonus mode of the game. Money Mouse also offers three jackpots of different values at the top of the screen that are naturally the goal of all players, although they are difficult to obtain.\n\nGraphics\n\nMoney Mouse is a colorful and funny slot game that incorporates typical ancient Chinese buildings made of red and gold wood as the game grid. The symbols scrolling on the reels are clear references to Chinese New Year, such as fireworks, the head of the dancing dragon, and the drums, but there are also classic symbols of playing cards (A, K, Q, and J) together with trees of ancient coins and mandarins. The background music is a typical oriental melody that captures the lively atmosphere of Chinese New Year.\n\nJackpots\n\nMoney Mouse offers three jackpots of different values that can be won during gameplay. While players aim to hit these jackpots, they are particularly difficult to obtain.\n\nChinese New Year Theme\n\nMoney Mouse by Pragmatic Play is a slot game that celebrates the Year of the Rat in the Chinese zodiac. The game features symbols that reference Chinese New Year, such as fireworks, the head of the dancing dragon, and trees of ancient coins and mandarins. The cute and smiling rat offers players a gold ingot as a sign of good luck. The game captures the lively and joyous atmosphere of Chinese New Year and celebrates the culture of the Chinese people.\n\nOriental-themed Games\n\nThe oriental theme is widely used in the world of online slot games, and in particular, Chinese culture is a popular theme. Slot games with similar themes to Money Mouse include 5 Fortune Dragons, Amazing Thailand, and Ancient China. The majority of slots with a dragon in their title also share this theme. There is a great choice of oriental-themed games available for those who want to explore this culture further.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UAItfcUhDcnn1bUfGJ9qUriUSuxj",
+                "id": "chatcmpl-7WXsr0EDqWMTG5I5IiBEcQAtYgxOA",
                 "object": "chat.completion",
-                "created": 1687423803,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991101,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Colorful and funny graphics.\",\n        \"Three jackpots of different values.\",\n        \"Reference to Chinese New year theme.\",\n        \"Celebration of Chinese culture.\"\n    ],\n    \"cons\": [\n        \"Difficult to hit jackpots.\",\n        \"Limited symbol variety.\"\n    ],\n    \"meta_title\": \"Play Money Mouse Slot Free | Chinese New Year Theme\",\n    \"meta_description\": \"Money Mouse by Pragmatic Play celebrates Chinese New Year with colorful graphics, 3 jackpots, and references to Chinese culture. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Gameplay with a Wild symbol and bonus mode\",\n    \"Colorful and funny graphics\",\n    \"Three jackpots of different values\",\n    \"Celebrates Chinese New Year and Chinese culture\"\n  ],\n  \"cons\": [\n    \"Difficulty in obtaining the jackpots\",\n    \"Highly used oriental theme in the online slot game industry\"\n  ],\n  \"meta_title\": \"Play Money Mouse Free - Review of Pragmatic Play's Slot Game\",\n  \"meta_description\": \"Review of Money Mouse by Pragmatic Play - gameplay, graphics, jackpots, and Chinese New Year theme. Play free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 608,
-                    "completion_tokens": 123,
-                    "total_tokens": 731
+                    "prompt_tokens": 605,
+                    "completion_tokens": 137,
+                    "total_tokens": 742
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/money-mouse.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Money_Mouse_that_captu_254c1511-fc2b-4bc2-a2c4-611cacd4e5e4_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Money_Mouse_that_captu_254c1511-fc2b-4bc2-a2c4-611cacd4e5e4_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Money_Mouse_that_captu_254c1511-fc2b-4bc2-a2c4-611cacd4e5e4_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Money_Mouse_that_captu_254c1511-fc2b-4bc2-a2c4-611cacd4e5e4_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Money Mouse (Version 3).webp",
+        "game_reviews/processed_images/Money Mouse (Version 4).webp",
+        "game_reviews/processed_images/Money Mouse (Version 2).webp",
+        "game_reviews/processed_images/Money Mouse (Version 1).webp"
+    ],
+    "slug": "money-mouse",
+    "name": "Money Mouse",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Money-Mouse-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Money Mouse Free - Review of Pragmatic Play's Slot Game' ### Meta set: 'Review of Money Mouse by Pragmatic Play - gameplay, graphics, jackpots, and Chinese New Year theme. Play free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

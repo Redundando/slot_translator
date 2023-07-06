@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and unique theme featuring Cornelius the cat",
-                    "Gameplay includes multiple special symbols and features",
-                    "Wide bet range accommodating players with different bankrolls",
-                    "Available on desktop and mobile devices"
+                    "Interesting gameplay features and mechanics",
+                    "Wide bet range for different types of players",
+                    "Special symbols and bonuses enhance the game experience",
+                    "Playable on desktop and mobile devices"
                 ],
                 "cons": [
-                    "Free Spins bonus game is relatively standard",
-                    "Not the highest RTP value compared to other slot games"
+                    "Limited number of high-paying symbols",
+                    "Limited number of special symbols"
                 ],
-                "meta_title": "Play Cornelius Slot Game for Free | Unique Features & Symbols",
-                "meta_description": "Join Cornelius the cat and play this NetEnt slot game for free. Featuring Cash Drop symbol, Free Spins bonus, and unique symbols. Available on desktop and mobile."
+                "meta_title": "Play Cornelius Free | Review of NetEnt's Slot Game",
+                "meta_description": "Read our review of Cornelius, a slot game by NetEnt. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cornelius\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nCornelius by NetEnt is a slot game with a 5x4 grid and 1024 ways to win, featuring Cornelius the orange tabby cat who rewards every treat with cash prizes. Players can bet a minimum of €0.20 and up to a maximum of €400 per spin. To win, players must match adjacent symbols starting from the leftmost reel and proceeding towards the right. The game has medium volatility and an RTP value of 96.04%. Players can enjoy the game in Play for Fun mode to familiarize themselves before playing with real money.\n\nBet range and RTP value\n\nThe minimum bet for Cornelius is €0.20 and the maximum bet is €400 per spin. The game has a medium volatility and an RTP value of 96.04%.\n\nSymbols and their values\n\nSymbols in Cornelius include classic playing card symbols from 10 to ace, along with higher-paying symbols like a fish-shaped toy, a milk jar, a little box, and Cornelius himself, who is also the highest-paying symbol. The Scatter symbol is a jar of cookies, and landing 3 or more of these symbols triggers the Free Spins bonus game. The Cash Drop symbol is a plate of cookies, paying out from 0.25 to 3 times the bet in the base game. When three Cash Drop symbols land on the reels, the Cash Drop feature is activated. Other special symbols include the Up symbol that moves Cash Drop symbols and multipliers up by one row, a Golden Up symbol that moves symbols to the top row for free, an Adder symbol that increases the value of symbols at the end of the bonus game, and a Multiplier symbol that multiplies the value of Cash Drop symbols and multipliers. \n\nSpecial game features and bonuses\n\nThe Cash Drop feature in Cornelius is triggered when three Cash Drop symbols appear on the reels, paying out every time they appear and dropping down by one row on each spin. The Counter on the right is set to three and gets reset every time a new Cash Drop symbol appears. The game's Free Spins bonus is triggered by landing three or more Scatter symbols, awarding players with a predetermined number of free spins with a chance to win extra cash prizes. Other special symbols can appear during the Free Spins bonus game which can help increase the value of the symbols and multipliers.\n\nAvailability on different devices\n\nCornelius by NetEnt is available on both desktop and mobile devices, including tablets and smartphones.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cornelius\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nCornelius by NetEnt is a slot game with a 5x4 grid and 1024 ways to win, featuring Cornelius the orange tabby cat who rewards every treat with cash prizes. Players can bet a minimum of €0.20 and up to a maximum of €400 per spin. To win, players must match adjacent symbols starting from the leftmost reel and proceeding towards the right. The game has medium volatility and an RTP value of 96.04%. Players can enjoy the game in Play for Fun mode to familiarize themselves before playing with real money.\n\nBet range and RTP value\n\nThe minimum bet for Cornelius is €0.20 and the maximum bet is €400 per spin. The game has a medium volatility and an RTP value of 96.04%.\n\nSymbols and their values\n\nSymbols in Cornelius include classic playing card symbols from 10 to ace, along with higher-paying symbols like a fish-shaped toy, a milk jar, a little box, and Cornelius himself, who is also the highest-paying symbol. The Scatter symbol is a jar of cookies, and landing 3 or more of these symbols triggers the Free Spins bonus game. The Cash Drop symbol is a plate of cookies, paying out from 0.25 to 3 times the bet in the base game. When three Cash Drop symbols land on the reels, the Cash Drop feature is activated. Other special symbols include the Up symbol that moves Cash Drop symbols and multipliers up by one row, a Golden Up symbol that moves symbols to the top row for free, an Adder symbol that increases the value of symbols at the end of the bonus game, and a Multiplier symbol that multiplies the value of Cash Drop symbols and multipliers. \n\nSpecial game features and bonuses\n\nThe Cash Drop feature in Cornelius is triggered when three Cash Drop symbols appear on the reels, paying out every time they appear and dropping down by one row on each spin. The Counter on the right is set to three and gets reset every time a new Cash Drop symbol appears. The game's Free Spins bonus is triggered by landing three or more Scatter symbols, awarding players with a predetermined number of free spins with a chance to win extra cash prizes. Other special symbols can appear during the Free Spins bonus game which can help increase the value of the symbols and multipliers.\n\nAvailability on different devices\n\nCornelius by NetEnt is available on both desktop and mobile devices, including tablets and smartphones.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sx8Bag0iiCpMNGy1X4l6rlMmju1t",
+                "id": "chatcmpl-7WQWvK5YPUrMmN3KDG8Y4dFbSnED1",
                 "object": "chat.completion",
-                "created": 1687134839,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 687,
-                    "completion_tokens": 146,
-                    "total_tokens": 833
-                },
+                "created": 1687962833,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Fun and unique theme featuring Cornelius the cat\",\n      \"Gameplay includes multiple special symbols and features\",\n      \"Wide bet range accommodating players with different bankrolls\",\n      \"Available on desktop and mobile devices\"\n   ],\n   \"cons\": [\n      \"Free Spins bonus game is relatively standard\",\n      \"Not the highest RTP value compared to other slot games\"\n   ],\n   \"meta_title\": \"Play Cornelius Slot Game for Free | Unique Features & Symbols\",\n   \"meta_description\": \"Join Cornelius the cat and play this NetEnt slot game for free. Featuring Cash Drop symbol, Free Spins bonus, and unique symbols. Available on desktop and mobile.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Interesting gameplay features and mechanics\",\n    \"Wide bet range for different types of players\",\n    \"Special symbols and bonuses enhance the game experience\",\n    \"Playable on desktop and mobile devices\"\n  ],\n  \"cons\": [\n    \"Limited number of high-paying symbols\",\n    \"Limited number of special symbols\"\n  ],\n  \"meta_title\": \"Play Cornelius Free | Review of NetEnt's Slot Game\",\n  \"meta_description\": \"Read our review of Cornelius, a slot game by NetEnt. Play for free and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 684,
+                    "completion_tokens": 119,
+                    "total_tokens": 803
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_showcasing_Corneliu_97b95b1d-0d33-4777-a229-f0fbce00b9f0_1.png",
         "arved__Create_a_cartoon-style_feature_image_showcasing_Corneliu_97b95b1d-0d33-4777-a229-f0fbce00b9f0_4.png",
+        "arved__Create_a_cartoon-style_feature_image_showcasing_Corneliu_97b95b1d-0d33-4777-a229-f0fbce00b9f0_1.png",
         "arved__Create_a_cartoon-style_feature_image_showcasing_Corneliu_97b95b1d-0d33-4777-a229-f0fbce00b9f0_3.png",
         "arved__Create_a_cartoon-style_feature_image_showcasing_Corneliu_97b95b1d-0d33-4777-a229-f0fbce00b9f0_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cornelius (Version 1).webp",
-        "game_reviews/processed_images/Cornelius (Version 4).webp",
+        "game_reviews/processed_images/Cornelius (Version 2).webp",
         "game_reviews/processed_images/Cornelius (Version 3).webp",
-        "game_reviews/processed_images/Cornelius (Version 2).webp"
+        "game_reviews/processed_images/Cornelius (Version 4).webp",
+        "game_reviews/processed_images/Cornelius (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cornelius.json"
+    "filename": "game_reviews/translations/cornelius.json",
+    "slug": "cornelius",
+    "name": "Cornelius",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cornelius-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cornelius Free | Review of NetEnt's Slot Game' ### Meta set: 'Read our review of Cornelius, a slot game by NetEnt. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

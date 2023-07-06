@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "2 wild symbols for increased win potential",
-                    "Free spin bonus round with additional wilds",
-                    "Beautiful graphics showcasing the northern lights",
-                    "Consistent payouts with 30 active paylines"
+                    "Simple but rewarding gameplay with 5 reels and 30 active paylines",
+                    "Two wild symbols and a bonus round with the potential to fill the game grid with wilds",
+                    "Maximum win potential of 736 times your bet",
+                    "Attractive graphics and animations with a unique northern lights theme"
                 ],
                 "cons": [
-                    "Maximum win potential may not be very high",
-                    "Average RTP rate in the market"
+                    "Average RTP rate of 96.08%",
+                    "Doesn't offer massive payouts"
                 ],
-                "meta_title": "Play Aurora Slot for Free - Review of Aurora Online Slot",
-                "meta_description": "Discover Aurora, a beautiful online slot game with 5 reels and 30 paylines. Play for free and find out about its gameplay, graphics, and bonuses."
+                "meta_title": "Play Aurora Slot Free - Exciting Gameplay and Stunning Visuals",
+                "meta_description": "Read our review of Aurora slot and discover the rewarding gameplay and stunning visuals. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aurora\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nAurora offers players a simple but rewarding gameplay with 5 reels and 30 active paylines, which is useful for generating winnings that may not be very high on a single spin, but ensure a good consistency in payouts. The game has two wild symbols, the W logo which replaces all icons in the game, and the troll which gives access to the free spins if it completely fills reel number 3. The bonus round can fill the game grid with wilds to increase the value of the prize.\n\nMaximum win potential\n\nAurora offers a maximum win of 736 times your bet, making it an attractive option for players who are looking for a touch of luck and light!\n\nGraphics and animations\n\nThe graphics accompanying the game are interesting, bringing a rich color and beauty to the backdrop. The northern lights are showcased through a unique narrative style, making it an attractive visual experience for players. The game symbols include the W logo, the troll, the Aurora slot logo, and the letters/figures of the cards.\n\nNumber of reels and active paylines\n\nAurora has 5 reels and 30 active paylines, ensuring a good consistency in payouts for players.\n\nRTP and overall performance\n\nAurora has an RTP rate of 96.08%, which is average in the online gambling market. It’s a simple title that doesn't offer massive payouts, but it’s a fun game that can keep players entertained during their gaming sessions, especially novice players who may appreciate its interesting features and visuals. The game has good performance and animations, making it an attractive option for both experienced and novice players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aurora\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nAurora offers players a simple but rewarding gameplay with 5 reels and 30 active paylines, which is useful for generating winnings that may not be very high on a single spin, but ensure a good consistency in payouts. The game has two wild symbols, the W logo which replaces all icons in the game, and the troll which gives access to the free spins if it completely fills reel number 3. The bonus round can fill the game grid with wilds to increase the value of the prize.\n\nMaximum win potential\n\nAurora offers a maximum win of 736 times your bet, making it an attractive option for players who are looking for a touch of luck and light!\n\nGraphics and animations\n\nThe graphics accompanying the game are interesting, bringing a rich color and beauty to the backdrop. The northern lights are showcased through a unique narrative style, making it an attractive visual experience for players. The game symbols include the W logo, the troll, the Aurora slot logo, and the letters/figures of the cards.\n\nNumber of reels and active paylines\n\nAurora has 5 reels and 30 active paylines, ensuring a good consistency in payouts for players.\n\nRTP and overall performance\n\nAurora has an RTP rate of 96.08%, which is average in the online gambling market. It’s a simple title that doesn't offer massive payouts, but it’s a fun game that can keep players entertained during their gaming sessions, especially novice players who may appreciate its interesting features and visuals. The game has good performance and animations, making it an attractive option for both experienced and novice players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SZzW6mlc0U0f8gj3uW4DaUaZtkvJ",
+                "id": "chatcmpl-7WNZw1Ql29sYGDp8mdL2Ac3htBgbX",
                 "object": "chat.completion",
-                "created": 1687045890,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 507,
-                    "completion_tokens": 125,
-                    "total_tokens": 632
-                },
+                "created": 1687951488,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"2 wild symbols for increased win potential\", \"Free spin bonus round with additional wilds\", \"Beautiful graphics showcasing the northern lights\", \"Consistent payouts with 30 active paylines\"],\n    \"cons\": [\"Maximum win potential may not be very high\", \"Average RTP rate in the market\"],\n    \"meta_title\": \"Play Aurora Slot for Free - Review of Aurora Online Slot\",\n    \"meta_description\": \"Discover Aurora, a beautiful online slot game with 5 reels and 30 paylines. Play for free and find out about its gameplay, graphics, and bonuses.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple but rewarding gameplay with 5 reels and 30 active paylines\",\n    \"Two wild symbols and a bonus round with the potential to fill the game grid with wilds\",\n    \"Maximum win potential of 736 times your bet\",\n    \"Attractive graphics and animations with a unique northern lights theme\"\n  ],\n  \"cons\": [\n    \"Average RTP rate of 96.08%\",\n    \"Doesn't offer massive payouts\"\n  ],\n  \"meta_title\": \"Play Aurora Slot Free - Exciting Gameplay and Stunning Visuals\",\n  \"meta_description\": \"Read our review of Aurora slot and discover the rewarding gameplay and stunning visuals. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 504,
+                    "completion_tokens": 145,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/aurora.json",
     "raw_feature_images": [
-        "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_4.png",
         "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_1.png",
         "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_3.png",
-        "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_2.png"
+        "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_2.png",
+        "arved__Prompt_Please_create_a_feature_image_that_fits_the_Auror_1a853932-6918-48b1-8331-aa7f931e4964_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Aurora (Version 2).webp",
         "game_reviews/processed_images/Aurora (Version 4).webp",
-        "game_reviews/processed_images/Aurora (Version 1).webp",
-        "game_reviews/processed_images/Aurora (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Aurora (Version 3).webp",
+        "game_reviews/processed_images/Aurora (Version 1).webp"
+    ],
+    "slug": "aurora",
+    "name": "Aurora",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aurora-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aurora Slot Free - Exciting Gameplay and Stunning Visuals' ### Meta set: 'Read our review of Aurora slot and discover the rewarding gameplay and stunning visuals. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

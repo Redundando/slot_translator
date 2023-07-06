@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fantastic graphics that perfectly reflect the game's magical theme",
+                    "Fantastic graphics that perfectly reflect the magical theme",
                     "Variety of features that make the game enjoyable to play",
-                    "Fully responsive on any operating system making it highly compatible for all players",
-                    "Free spins and bonus symbols bring more winning opportunities"
+                    "Smooth compatibility on all devices and operating systems",
+                    "Free spins with bonus symbols that expand and offer more winning opportunities"
                 ],
                 "cons": [
-                    "Limited number of free spins offered",
-                    "Gameplay can be too simplistic for some players"
+                    "Limited number of bonus features",
+                    "Lack of progressive jackpot"
                 ],
-                "meta_title": "Play Magic of the Ring Deluxe Free | Review & Rating",
-                "meta_description": "Read our comprehensive review of Magic of the Ring Deluxe online slot game. Play for free and learn all about the game's features and bonuses."
+                "meta_title": "Play Magic of the Ring Deluxe Free - Review & Features",
+                "meta_description": "Discover the magic in Magic of the Ring Deluxe. Play for free and enjoy exciting features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic of the Ring Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nThe graphics in Magic of the Ring Deluxe are fantastic and perfectly reflect the magical theme of the game. The game's visuals work impeccably on all devices such as desktop or mobile devices.\n\nFeatures\n\nMagic of the Ring Deluxe offers a variety of features that make the game very enjoyable to play. The game has a scatter symbol that doubles up as a wild symbol, which can help players to create more winning combinations. By landing three or more scatters, the players can trigger ten free spins with an expansive bonus symbol that can bring even more rewards. The game also incorporates Wazdan features such as Volatility Levels, allowing players to fine-tune their experience.\n\nCompatibility\n\nMagic of the Ring Deluxe runs smoothly on all devices, from desktops to smartphones and tablets. The game is fully responsive on any operating system making it highly compatible for all players.\n\nFree Spins\n\nLanding at least three scatter symbols during the game gives the players ten free spins. During these free spins, players have the chance to encounter a randomly selected bonus symbol that can expand to fill the whole reel and pay out in any position, bringing more winning opportunities.\n\nBonus Symbol\n\nThe bonus symbol is selected randomly during the free spins round in Magic of the Ring Deluxe. Once the bonus symbol is selected, it can expand to fill the whole reel and payout in any position on the active paylines, bringing even more opportunities to win big.\n\nWazdan Features\n\nMagic of the Ring Deluxe introduces a set of Wazdan features, including Volatility Levels that allow players to manage their winnings and adjust the game's frequency and amount of prizes. The game also features Ultra Lite Mode, Big Screen Mode, and Ultra Fast Mode, allowing players to customize their gaming experience to their personal taste and style.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic of the Ring Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics\n\nThe graphics in Magic of the Ring Deluxe are fantastic and perfectly reflect the magical theme of the game. The game's visuals work impeccably on all devices such as desktop or mobile devices.\n\nFeatures\n\nMagic of the Ring Deluxe offers a variety of features that make the game very enjoyable to play. The game has a scatter symbol that doubles up as a wild symbol, which can help players to create more winning combinations. By landing three or more scatters, the players can trigger ten free spins with an expansive bonus symbol that can bring even more rewards. The game also incorporates Wazdan features such as Volatility Levels, allowing players to fine-tune their experience.\n\nCompatibility\n\nMagic of the Ring Deluxe runs smoothly on all devices, from desktops to smartphones and tablets. The game is fully responsive on any operating system making it highly compatible for all players.\n\nFree Spins\n\nLanding at least three scatter symbols during the game gives the players ten free spins. During these free spins, players have the chance to encounter a randomly selected bonus symbol that can expand to fill the whole reel and pay out in any position, bringing more winning opportunities.\n\nBonus Symbol\n\nThe bonus symbol is selected randomly during the free spins round in Magic of the Ring Deluxe. Once the bonus symbol is selected, it can expand to fill the whole reel and payout in any position on the active paylines, bringing even more opportunities to win big.\n\nWazdan Features\n\nMagic of the Ring Deluxe introduces a set of Wazdan features, including Volatility Levels that allow players to manage their winnings and adjust the game's frequency and amount of prizes. The game also features Ultra Lite Mode, Big Screen Mode, and Ultra Fast Mode, allowing players to customize their gaming experience to their personal taste and style.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4lhyRtEddqi286lkn2xcs6nD7qI",
+                "id": "chatcmpl-7WX3xCfmL1A1Vc4KNttas6PNqstBy",
                 "object": "chat.completion",
-                "created": 1687402525,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987945,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fantastic graphics that perfectly reflect the game's magical theme\",\n        \"Variety of features that make the game enjoyable to play\",\n        \"Fully responsive on any operating system making it highly compatible for all players\",\n        \"Free spins and bonus symbols bring more winning opportunities\"\n    ],\n    \"cons\": [\n        \"Limited number of free spins offered\",\n        \"Gameplay can be too simplistic for some players\"\n    ],\n    \"meta_title\": \"Play Magic of the Ring Deluxe Free | Review & Rating\",\n    \"meta_description\": \"Read our comprehensive review of Magic of the Ring Deluxe online slot game. Play for free and learn all about the game's features and bonuses.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fantastic graphics that perfectly reflect the magical theme\",\n    \"Variety of features that make the game enjoyable to play\",\n    \"Smooth compatibility on all devices and operating systems\",\n    \"Free spins with bonus symbols that expand and offer more winning opportunities\"\n  ],\n  \"cons\": [\n    \"Limited number of bonus features\",\n    \"Lack of progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Magic of the Ring Deluxe Free - Review & Features\",\n  \"meta_description\": \"Discover the magic in Magic of the Ring Deluxe. Play for free and enjoy exciting features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 146,
-                    "total_tokens": 683
+                    "prompt_tokens": 534,
+                    "completion_tokens": 126,
+                    "total_tokens": 660
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-of-the-ring-deluxe.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Magic_of_the_Ri_294062b3-6655-4f2a-bc8c-3d94eee2f7d3_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Magic_of_the_Ri_294062b3-6655-4f2a-bc8c-3d94eee2f7d3_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Magic_of_the_Ri_294062b3-6655-4f2a-bc8c-3d94eee2f7d3_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Magic_of_the_Ri_294062b3-6655-4f2a-bc8c-3d94eee2f7d3_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Of The Ring Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Magic Of The Ring Deluxe (Version 3).webp",
+        "game_reviews/processed_images/Magic Of The Ring Deluxe (Version 4).webp",
+        "game_reviews/processed_images/Magic Of The Ring Deluxe (Version 2).webp"
+    ],
+    "slug": "magic-of-the-ring-deluxe",
+    "name": "Magic of the Ring Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Of-The-Ring-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic of the Ring Deluxe Free - Review & Features' ### Meta set: 'Discover the magic in Magic of the Ring Deluxe. Play for free and enjoy exciting features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

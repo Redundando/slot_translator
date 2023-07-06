@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Easy-to-understand gameplay and medium volatility",
-                    "Visually stunning graphics and symbols",
-                    "Unique appeal in the Asian-themed slot category",
-                    "Access to bonus mode with cat and dragon symbols"
+                    "Easy to understand gameplay mechanics",
+                    "Medium volatility for a good number of wins",
+                    "Coins falling from the Lucky Tree for additional wins",
+                    "Visually stunning graphics and symbols"
                 ],
                 "cons": [
-                    "Sound department could be improved",
-                    "Lucky Tree feature blocks automatic spins"
+                    "Automatic spins are blocked during the coin falling feature",
+                    "Sound department could be improved"
                 ],
-                "meta_title": "Play Lucky Tree for Free - A Unique Asian-Themed Slot",
-                "meta_description": "Explore the nuanced theme of Asian culture while playing Lucky Tree, an online slot with visually stunning graphics and bonus modes. Play for free now."
+                "meta_title": "Play Lucky Tree Free - Exciting Asian-themed Slot Game",
+                "meta_description": "Read our review of Lucky Tree, a visually stunning Asian-themed slot game with free play."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Tree\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and RTP\n\nLucky Tree features a 5x3 game screen with 15 symbols on each spin, medium volatility, and an RTP of 96%. The slot's gameplay is easy to understand without a large initial investment, and players can expect a good number of wins without waiting too long.\n\nLucky Tree special functions\n\nCoins fall from the Lucky Tree from time to time, covering certain symbols and providing the possibility of additional wins. However, this feature blocks automatic spins. The cat symbol is a scatter symbol that allows access to the bonus mode, while the dragon symbol is a wild symbol that can replace any other normal symbol in the game.\n\nCat and dragon symbols as bonus modes\n\nThe cat symbol is a scatter symbol that activates the bonus mode, allowing the player to choose between three lucky red boxes to uncover free spins or instant credit prizes. The dragon symbol is a wild symbol that can replace any other normal symbol in the game and can appear during the free spins bonus round, helping players build winning combinations.\n\nVisually stunning graphics and symbols\n\nLucky Tree features visually stunning graphics and symbols, including the game's namesake, the tree of coins. The game screen is rich in colors, and the symbols are colorful and interesting. However, the sound department of the game could be improved, with a musical loop that is not uniform and sounds that do not fit well with the atmosphere of the game.\n\nUnique appeal in the Asian-themed slot category\n\nWhile there are many Asian-themed slots available online, Lucky Tree's use of the lucky tree as a central theme and its inclusion of cat and dragon symbols as bonus modes set it apart from similar titles such as Tree of Fortune by iSoftbet, Tree of Riches by Pragmatic Play, and China River by Bally. Lucky Tree's unique charm and appeal make it a worthwhile addition to any slot player's collection who enjoys exploring the different nuances of Asian culture in online gaming.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Tree\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and RTP\n\nLucky Tree features a 5x3 game screen with 15 symbols on each spin, medium volatility, and an RTP of 96%. The slot's gameplay is easy to understand without a large initial investment, and players can expect a good number of wins without waiting too long.\n\nLucky Tree special functions\n\nCoins fall from the Lucky Tree from time to time, covering certain symbols and providing the possibility of additional wins. However, this feature blocks automatic spins. The cat symbol is a scatter symbol that allows access to the bonus mode, while the dragon symbol is a wild symbol that can replace any other normal symbol in the game.\n\nCat and dragon symbols as bonus modes\n\nThe cat symbol is a scatter symbol that activates the bonus mode, allowing the player to choose between three lucky red boxes to uncover free spins or instant credit prizes. The dragon symbol is a wild symbol that can replace any other normal symbol in the game and can appear during the free spins bonus round, helping players build winning combinations.\n\nVisually stunning graphics and symbols\n\nLucky Tree features visually stunning graphics and symbols, including the game's namesake, the tree of coins. The game screen is rich in colors, and the symbols are colorful and interesting. However, the sound department of the game could be improved, with a musical loop that is not uniform and sounds that do not fit well with the atmosphere of the game.\n\nUnique appeal in the Asian-themed slot category\n\nWhile there are many Asian-themed slots available online, Lucky Tree's use of the lucky tree as a central theme and its inclusion of cat and dragon symbols as bonus modes set it apart from similar titles such as Tree of Fortune by iSoftbet, Tree of Riches by Pragmatic Play, and China River by Bally. Lucky Tree's unique charm and appeal make it a worthwhile addition to any slot player's collection who enjoys exploring the different nuances of Asian culture in online gaming.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3nO0p5rTYctjaJB5gD6zkVA2a04",
+                "id": "chatcmpl-7WWpRJJ5zaZKs7ElEr3DlQPmuJTXr",
                 "object": "chat.completion",
-                "created": 1687398786,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987045,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Easy-to-understand gameplay and medium volatility\",\n        \"Visually stunning graphics and symbols\",\n        \"Unique appeal in the Asian-themed slot category\",\n        \"Access to bonus mode with cat and dragon symbols\"\n    ],\n    \"cons\": [\n        \"Sound department could be improved\",\n        \"Lucky Tree feature blocks automatic spins\"\n    ],\n    \"meta_title\": \"Play Lucky Tree for Free - A Unique Asian-Themed Slot\",\n    \"meta_description\": \"Explore the nuanced theme of Asian culture while playing Lucky Tree, an online slot with visually stunning graphics and bonus modes. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Easy to understand gameplay mechanics\",\n    \"Medium volatility for a good number of wins\",\n    \"Coins falling from the Lucky Tree for additional wins\",\n    \"Visually stunning graphics and symbols\"\n  ],\n  \"cons\": [\n    \"Automatic spins are blocked during the coin falling feature\",\n    \"Sound department could be improved\"\n  ],\n  \"meta_title\": \"Play Lucky Tree Free - Exciting Asian-themed Slot Game\",\n  \"meta_description\": \"Read our review of Lucky Tree, a visually stunning Asian-themed slot game with free play.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 570,
-                    "completion_tokens": 132,
-                    "total_tokens": 702
+                    "prompt_tokens": 567,
+                    "completion_tokens": 120,
+                    "total_tokens": 687
                 }
             }
         },
@@ -810,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-tree.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_th_1f79ac61-c22f-483b-85a2-bd59840a33a8_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_th_1f79ac61-c22f-483b-85a2-bd59840a33a8_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_th_1f79ac61-c22f-483b-85a2-bd59840a33a8_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_th_1f79ac61-c22f-483b-85a2-bd59840a33a8_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Tree (Version 4).webp",
+        "game_reviews/processed_images/Lucky Tree (Version 3).webp",
+        "game_reviews/processed_images/Lucky Tree (Version 2).webp",
+        "game_reviews/processed_images/Lucky Tree (Version 1).webp"
+    ],
+    "slug": "lucky-tree",
+    "name": "Lucky Tree",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Tree-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Tree Free - Exciting Asian-themed Slot Game' ### Meta set: 'Read our review of Lucky Tree, a visually stunning Asian-themed slot game with free play.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

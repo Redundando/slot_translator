@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Lightning Respins feature for increased pay lines",
-                    "Special symbols represent elements of Greek mythology",
-                    "Stunning visuals and graphics",
-                    "Chance to play for free with Scatter symbol"
+                    "Regular structure with 60 pay lines and 5 reels",
+                    "Lightning Respins feature with up to 100 pay lines",
+                    "Chance to win free spins with Scatter symbol",
+                    "Stunning visuals and graphics with Greek mythology theme"
                 ],
                 "cons": [
-                    "Limited variety of special features",
-                    "Limited appeal to non-Greek mythology fans"
+                    "Limited variety in special symbols",
+                    "May not appeal to players not interested in Greek mythology"
                 ],
-                "meta_title": "Play Kronos Unleashed for Free - Review of WMS Slot Game",
-                "meta_description": "Immerse yourself in the world of Greek mythology with Kronos Unleashed, an enjoyable and visually stunning slot game by WMS. Play for free and explore special features including Lightning Respins and Scatter symbols."
+                "meta_title": "Play Kronos Unleashed Free - Review of WMS Slot Game",
+                "meta_description": "Read our review of Kronos Unleashed and play this WMS slot game for free with Greek mythology theme and special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Kronos Unleashed\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and structure\n\nKronos Unleashed by WMS has a regular structure, with 60 pay lines and 5 reels. However, players who collect six Cronus symbols of the same color can activate the Lightning Respins feature which expands the matrix to a maximum of 100 pay lines leading to an increased possibility of winning.\n\nSpecial features (Lightning Respins and Scatter symbol)\n\nThe special symbols in Kronos Unleashed are the lion, throne, temples, winged Pegasus, and Cronus himself of different colors. The temple represents the Wild symbol, while the Cronus function both as the trigger for the Lightning Respins feature and the Scatter symbol. If the Scatter symbol appears three times simultaneously, the player can spin the reels thrice for free, giving them a chance to earn without using their gaming credit.\n\nGreek mythology theme\n\nKronos Unleashed immerses the players into the world of Greek mythology and revolves around Cronus, the Titan king. With its stunning visuals and graphics, players can experience the mythical setting of Mount Othrys where the Titans went to war against the Olympian gods. The background features a burning Greek city while the reels are adorned with the iconic symbols of this era.\n\nComparison to other WMS slot games\n\nZeus by WMS is another slot game that captures the essence of Greek mythology. Zeus is a classic amongst slot machines and is one of the most popular in Las Vegas. In Zeus, players play to enrich Zeus, the eternal foe of the hero of Kronos Unleashed, Cronus.\n\nOverall appeal and recommendation\n\nKronos Unleashed is a great slot machine for fans of Greek mythology, and it provides a significant opportunity for players to win money. The stunning visuals and graphics combined with the special features such as Lightning Respins and Scatter symbols make it an enjoyable game. The comparison to Zeus, another popular WMS slot game, provides players with more options if they are looking to explore the world of Greek mythology through slot machines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Kronos Unleashed\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and structure\n\nKronos Unleashed by WMS has a regular structure, with 60 pay lines and 5 reels. However, players who collect six Cronus symbols of the same color can activate the Lightning Respins feature which expands the matrix to a maximum of 100 pay lines leading to an increased possibility of winning.\n\nSpecial features (Lightning Respins and Scatter symbol)\n\nThe special symbols in Kronos Unleashed are the lion, throne, temples, winged Pegasus, and Cronus himself of different colors. The temple represents the Wild symbol, while the Cronus function both as the trigger for the Lightning Respins feature and the Scatter symbol. If the Scatter symbol appears three times simultaneously, the player can spin the reels thrice for free, giving them a chance to earn without using their gaming credit.\n\nGreek mythology theme\n\nKronos Unleashed immerses the players into the world of Greek mythology and revolves around Cronus, the Titan king. With its stunning visuals and graphics, players can experience the mythical setting of Mount Othrys where the Titans went to war against the Olympian gods. The background features a burning Greek city while the reels are adorned with the iconic symbols of this era.\n\nComparison to other WMS slot games\n\nZeus by WMS is another slot game that captures the essence of Greek mythology. Zeus is a classic amongst slot machines and is one of the most popular in Las Vegas. In Zeus, players play to enrich Zeus, the eternal foe of the hero of Kronos Unleashed, Cronus.\n\nOverall appeal and recommendation\n\nKronos Unleashed is a great slot machine for fans of Greek mythology, and it provides a significant opportunity for players to win money. The stunning visuals and graphics combined with the special features such as Lightning Respins and Scatter symbols make it an enjoyable game. The comparison to Zeus, another popular WMS slot game, provides players with more options if they are looking to explore the world of Greek mythology through slot machines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TzJVE4jQJQoaxnLb1aWXVDc0IBG3",
+                "id": "chatcmpl-7WW6WzcksRAyQu7BAsVY3Ukd1StLU",
                 "object": "chat.completion",
-                "created": 1687381557,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984260,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Lightning Respins feature for increased pay lines\",\n        \"Special symbols represent elements of Greek mythology\",\n        \"Stunning visuals and graphics\",\n        \"Chance to play for free with Scatter symbol\"\n    ],\n    \"cons\": [\n        \"Limited variety of special features\",\n        \"Limited appeal to non-Greek mythology fans\"\n    ],\n    \"meta_title\": \"Play Kronos Unleashed for Free - Review of WMS Slot Game\",\n    \"meta_description\": \"Immerse yourself in the world of Greek mythology with Kronos Unleashed, an enjoyable and visually stunning slot game by WMS. Play for free and explore special features including Lightning Respins and Scatter symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Regular structure with 60 pay lines and 5 reels\",\n    \"Lightning Respins feature with up to 100 pay lines\",\n    \"Chance to win free spins with Scatter symbol\",\n    \"Stunning visuals and graphics with Greek mythology theme\"\n  ],\n  \"cons\": [\n    \"Limited variety in special symbols\",\n    \"May not appeal to players not interested in Greek mythology\"\n  ],\n  \"meta_title\": \"Play Kronos Unleashed Free - Review of WMS Slot Game\",\n  \"meta_description\": \"Read our review of Kronos Unleashed and play this WMS slot game for free with Greek mythology theme and special features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 591,
-                    "completion_tokens": 149,
-                    "total_tokens": 740
+                    "prompt_tokens": 588,
+                    "completion_tokens": 143,
+                    "total_tokens": 731
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/kronos-unleashed.json",
+    "raw_feature_images": [
+        "arved__Create_a_compelling_feature_image_for_Kronos_Unleashed_t_dd03da0e-ee57-485f-9c64-8c0bf9459228_2.png",
+        "arved__Create_a_compelling_feature_image_for_Kronos_Unleashed_t_dd03da0e-ee57-485f-9c64-8c0bf9459228_3.png",
+        "arved__Create_a_compelling_feature_image_for_Kronos_Unleashed_t_dd03da0e-ee57-485f-9c64-8c0bf9459228_1.png",
+        "arved__Create_a_compelling_feature_image_for_Kronos_Unleashed_t_dd03da0e-ee57-485f-9c64-8c0bf9459228_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Kronos Unleashed (Version 2).webp",
+        "game_reviews/processed_images/Kronos Unleashed (Version 3).webp",
+        "game_reviews/processed_images/Kronos Unleashed (Version 1).webp",
+        "game_reviews/processed_images/Kronos Unleashed (Version 4).webp"
+    ],
+    "slug": "kronos-unleashed",
+    "name": "Kronos Unleashed",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Kronos-Unleashed-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Kronos Unleashed Free - Review of WMS Slot Game' ### Meta set: 'Read our review of Kronos Unleashed and play this WMS slot game for free with Greek mythology theme and special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

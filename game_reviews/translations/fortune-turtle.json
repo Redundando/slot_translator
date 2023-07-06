@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multi-cascade function increases chances of winning.",
-                    "Free spins bonus adds excitement to gameplay.",
-                    "Magical and airy feel due to the removal of matrix borders.",
-                    "Suitable for those who want to bet a little more."
+                    "Unique oriental theme with a focus on the good fortune of a turtle",
+                    "Magical and airy feel created by the removal of the borders of the matrix",
+                    "Exciting multi-cascade function that increases chances of winning",
+                    "Free spins bonus with a gold coin symbol and coin counter"
                 ],
                 "cons": [
-                    "Graphics are very generic.",
-                    "Minimum bet is relatively high."
+                    "Generic graphics compared to other oriental-themed slot games",
+                    "High minimum bet of 0.50 euros"
                 ],
-                "meta_title": "Play Fortune Turtle Free: Slot Game Review",
-                "meta_description": "Read our Fortune Turtle slot game review and play for free. Multi-cascade wins and free spins create excitement. Bet a little more on this oriental-themed game."
+                "meta_title": "Play Fortune Turtle Free: Review of Genesis Gaming's Oriental Slot Game",
+                "meta_description": "Play the oriental-themed Fortune Turtle slot game for free and experience its unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fortune Turtle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Fortune Turtle slot game\n\nFortune Turtle is a real money slot game with an oriental theme by Genesis Gaming. The game features 5 reels, the borders of which have been removed, giving the feeling that every symbol on the reels floats in mid-air. The game benefits from a multi-cascade function and a free spins bonus.\n\nOriental theme and graphics\n\nWhile the game attempts to renew what is known about oriental-themed slot games by focusing on the good fortune of a turtle, its graphics are still very generic. The game is set in a Japanese garden and features familiar symbols such as bamboo shoots, bonsai trees, and card deck symbols. However, the removal of the borders of the matrix and the multi-cascade feature give the game a magical and airy feel.\n\nMulti-cascade function\n\nThe multi-cascade function of Fortune Turtle is triggered after every successful cascade win, where an additional symbol becomes wild. The more victories you get, the more other symbols will turn into wilds, thereby increasing your chances of winning. Returns can be incredible, but the function requires passing two rows of combinations before the additional extras take effect.\n\nFree spins bonus\n\nThe free spins bonus in Fortune Turtle is triggered by collecting three or more scatters. During this spin, a new gold coin symbol will be added to the third reel, as well as a coin counter, which will fill up every time the coin appears. When the coin counter reaches three, two free spins will be awarded.\n\nBetting options\n\nBets in Fortune Turtle can be adjusted to bet between 5 and 50 euros per shot. The minimum bet is relatively high at 0.50, making the game suitable for those who want to bet a little more. The maximum bet is not the highest available.\n\nSimilar titles from the same manufacturer\n\nGenesis Gaming offers many similar oriental-themed slot games such as \n\nTarget audience for the game\n\nFortune Turtle is a real money slot game suitable for those who enjoy the oriental theme and are willing to bet a little more. The average bet on the game is quite high overall.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fortune Turtle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Fortune Turtle slot game\n\nFortune Turtle is a real money slot game with an oriental theme by Genesis Gaming. The game features 5 reels, the borders of which have been removed, giving the feeling that every symbol on the reels floats in mid-air. The game benefits from a multi-cascade function and a free spins bonus.\n\nOriental theme and graphics\n\nWhile the game attempts to renew what is known about oriental-themed slot games by focusing on the good fortune of a turtle, its graphics are still very generic. The game is set in a Japanese garden and features familiar symbols such as bamboo shoots, bonsai trees, and card deck symbols. However, the removal of the borders of the matrix and the multi-cascade feature give the game a magical and airy feel.\n\nMulti-cascade function\n\nThe multi-cascade function of Fortune Turtle is triggered after every successful cascade win, where an additional symbol becomes wild. The more victories you get, the more other symbols will turn into wilds, thereby increasing your chances of winning. Returns can be incredible, but the function requires passing two rows of combinations before the additional extras take effect.\n\nFree spins bonus\n\nThe free spins bonus in Fortune Turtle is triggered by collecting three or more scatters. During this spin, a new gold coin symbol will be added to the third reel, as well as a coin counter, which will fill up every time the coin appears. When the coin counter reaches three, two free spins will be awarded.\n\nBetting options\n\nBets in Fortune Turtle can be adjusted to bet between 5 and 50 euros per shot. The minimum bet is relatively high at 0.50, making the game suitable for those who want to bet a little more. The maximum bet is not the highest available.\n\nSimilar titles from the same manufacturer\n\nGenesis Gaming offers many similar oriental-themed slot games such as \n\nTarget audience for the game\n\nFortune Turtle is a real money slot game suitable for those who enjoy the oriental theme and are willing to bet a little more. The average bet on the game is quite high overall.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TIKD1YobJO4Jq1KeIlWxCpJAgrWB",
+                "id": "chatcmpl-7WT5xh4RVjGF7YukmcX9CInj8rfdI",
                 "object": "chat.completion",
-                "created": 1687216309,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 602,
-                    "completion_tokens": 137,
-                    "total_tokens": 739
-                },
+                "created": 1687972693,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Multi-cascade function increases chances of winning.\",\n        \"Free spins bonus adds excitement to gameplay.\",\n        \"Magical and airy feel due to the removal of matrix borders.\",\n        \"Suitable for those who want to bet a little more.\"\n    ],\n    \"cons\": [\n        \"Graphics are very generic.\",\n        \"Minimum bet is relatively high.\"\n    ],\n    \"meta_title\": \"Play Fortune Turtle Free: Slot Game Review\",\n    \"meta_description\": \"Read our Fortune Turtle slot game review and play for free. Multi-cascade wins and free spins create excitement. Bet a little more on this oriental-themed game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique oriental theme with a focus on the good fortune of a turtle\",\n    \"Magical and airy feel created by the removal of the borders of the matrix\",\n    \"Exciting multi-cascade function that increases chances of winning\",\n    \"Free spins bonus with a gold coin symbol and coin counter\"\n  ],\n  \"cons\": [\n    \"Generic graphics compared to other oriental-themed slot games\",\n    \"High minimum bet of 0.50 euros\"\n  ],\n  \"meta_title\": \"Play Fortune Turtle Free: Review of Genesis Gaming's Oriental Slot Game\",\n  \"meta_description\": \"Play the oriental-themed Fortune Turtle slot game for free and experience its unique features.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 599,
+                    "completion_tokens": 149,
+                    "total_tokens": 748
+                }
             }
         },
         {
@@ -960,5 +960,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fortune-turtle.json"
+    "filename": "game_reviews/translations/fortune-turtle.json",
+    "raw_feature_images": [
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_04d7e953-dc04-4037-baf1-ac6f0090e7fb_4.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_04d7e953-dc04-4037-baf1-ac6f0090e7fb_1.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_04d7e953-dc04-4037-baf1-ac6f0090e7fb_2.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_04d7e953-dc04-4037-baf1-ac6f0090e7fb_3.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_522a5fed-d04e-4961-90a3-177f0ac95a07_4.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_522a5fed-d04e-4961-90a3-177f0ac95a07_1.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_522a5fed-d04e-4961-90a3-177f0ac95a07_3.png",
+        "arved__Create_a_featured_image_that_captures_the_spirit_of_Fort_522a5fed-d04e-4961-90a3-177f0ac95a07_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fortune Turtle (Version 8).webp",
+        "game_reviews/processed_images/Fortune Turtle (Version 7).webp",
+        "game_reviews/processed_images/Fortune Turtle (Version 5).webp",
+        "game_reviews/processed_images/Fortune Turtle (Version 6).webp"
+    ],
+    "slug": "fortune-turtle",
+    "name": "Fortune Turtle",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fortune-Turtle-Version-7-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fortune Turtle Free: Review of Genesis Gaming's Oriental Slot Game' ### Meta set: 'Play the oriental-themed Fortune Turtle slot game for free and experience its unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

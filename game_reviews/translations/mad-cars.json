@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Affordable minimum bet at € 0.10",
-                    "Includes special symbols for high-value winnings",
-                    "Offers a Mad Bonus Feature as a high-paying car race",
+                    "Unique post-apocalyptic theme",
+                    "Elongated game grid with 50 fixed pay lines",
+                    "Special symbols for high-value winnings",
                     "Playable on all devices"
                 ],
                 "cons": [
-                    "No Jokers or Scatters for free spins",
-                    "Medium volatility may not appeal to those seeking high-risk games"
+                    "No free spin feature",
+                    "Limited number of bonus features"
                 ],
-                "meta_title": "Play Mad Cars for Free - Review & Game Breakdown",
-                "meta_description": "Read our expert review of Mad Cars, a post-apocalyptic online slot game. Play for free and discover the game's winning potential, bonus features, and more."
+                "meta_title": "Play Mad Cars Slot Free - Unique Post-Apocalyptic Game",
+                "meta_description": "Read our review of Mad Cars, a unique post-apocalyptic themed slot game. Play for free on all devices."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mad Cars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Mechanics\n\nMad Cars is a post-apocalyptic themed online slot game with a grid set on an abandoned industrial site with rusted iron scaffolding and large pipes now out of use. The game grid has an elongated shape, featuring 5 reels, 6 rows, and 50 fixed pay lines. To win, it is necessary to align at least three identical symbols starting from the left reel and proceeding towards the right. Players can set their minimum bet at € 0.10, and automatic spins are available both from a minimum of 5 and up to 100. The game features medium volatility and an RTP equal to 96.39%.\n\nSpecial Symbols and Bonus Features\n\nMad Cars features 8 basic symbols - the cone, the wrench, the steering wheel, and the dice - of low value and 4 protagonists of high value. In addition to the regular symbols, several special symbols can land that allow for high-value winnings. These include Instant Prize Car Symbol, Scatter Car Symbol, Multiplier Symbols, Gas Symbol, Multiplier & Gas Combo Symbol, and Survivor Symbol. There are no Jokers or Scatters that give free spins in this game; these are guaranteed by some conditions related to the Car Bonus. The Mad Bonus Feature, which is a car race, offers a very high sum for the winner.\n\nWinning Potential and Volatility\n\nPlayers can set their minimum bet at € 0.10, which is an affordable cost that allows for playing without breaking the bank. The game features medium volatility and an RTP equal to 96.39%. During regular play, special symbols can land that allow for high-value winnings. The Mad Bonus Feature, which is a car race, offers a very high sum for the winner.\n\nPlayable Devices and Accessibility\n\nMad Cars slot game is available on all devices. Players can access it on smartphones, tablets, and desktops, offering the same experience across any device.\n\nTheme and Graphics\n\nMad Cars is a post-apocalyptic themed game that's inspired by the Mad Max movie series. The graphics resemble cartoon style, with brightly colored characters in contrast with the opaque environment. The game grid is set in an abandoned industrial site with rusted iron scaffolding and large pipes now out of use, while the soundtrack is a perfect mix of metallic and industrial sounds that perfectly complements the game's overall look and feel.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mad Cars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Mechanics\n\nMad Cars is a post-apocalyptic themed online slot game with a grid set on an abandoned industrial site with rusted iron scaffolding and large pipes now out of use. The game grid has an elongated shape, featuring 5 reels, 6 rows, and 50 fixed pay lines. To win, it is necessary to align at least three identical symbols starting from the left reel and proceeding towards the right. Players can set their minimum bet at € 0.10, and automatic spins are available both from a minimum of 5 and up to 100. The game features medium volatility and an RTP equal to 96.39%.\n\nSpecial Symbols and Bonus Features\n\nMad Cars features 8 basic symbols - the cone, the wrench, the steering wheel, and the dice - of low value and 4 protagonists of high value. In addition to the regular symbols, several special symbols can land that allow for high-value winnings. These include Instant Prize Car Symbol, Scatter Car Symbol, Multiplier Symbols, Gas Symbol, Multiplier & Gas Combo Symbol, and Survivor Symbol. There are no Jokers or Scatters that give free spins in this game; these are guaranteed by some conditions related to the Car Bonus. The Mad Bonus Feature, which is a car race, offers a very high sum for the winner.\n\nWinning Potential and Volatility\n\nPlayers can set their minimum bet at € 0.10, which is an affordable cost that allows for playing without breaking the bank. The game features medium volatility and an RTP equal to 96.39%. During regular play, special symbols can land that allow for high-value winnings. The Mad Bonus Feature, which is a car race, offers a very high sum for the winner.\n\nPlayable Devices and Accessibility\n\nMad Cars slot game is available on all devices. Players can access it on smartphones, tablets, and desktops, offering the same experience across any device.\n\nTheme and Graphics\n\nMad Cars is a post-apocalyptic themed game that's inspired by the Mad Max movie series. The graphics resemble cartoon style, with brightly colored characters in contrast with the opaque environment. The game grid is set in an abandoned industrial site with rusted iron scaffolding and large pipes now out of use, while the soundtrack is a perfect mix of metallic and industrial sounds that perfectly complements the game's overall look and feel.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4CNxKIFNCpEEky1nnzoLBffqmC0",
+                "id": "chatcmpl-7WWtJoCUNMArxfr3psJjBMEZmYawg",
                 "object": "chat.completion",
-                "created": 1687400335,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987285,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Affordable minimum bet at € 0.10\",\n      \"Includes special symbols for high-value winnings\",\n      \"Offers a Mad Bonus Feature as a high-paying car race\",\n      \"Playable on all devices\"\n   ],\n   \"cons\": [\n      \"No Jokers or Scatters for free spins\",\n      \"Medium volatility may not appeal to those seeking high-risk games\"\n   ],\n   \"meta_title\": \"Play Mad Cars for Free - Review & Game Breakdown\",\n   \"meta_description\": \"Read our expert review of Mad Cars, a post-apocalyptic online slot game. Play for free and discover the game's winning potential, bonus features, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique post-apocalyptic theme\",\n    \"Elongated game grid with 50 fixed pay lines\",\n    \"Special symbols for high-value winnings\",\n    \"Playable on all devices\"\n  ],\n  \"cons\": [\n    \"No free spin feature\",\n    \"Limited number of bonus features\"\n  ],\n  \"meta_title\": \"Play Mad Cars Slot Free - Unique Post-Apocalyptic Game\",\n  \"meta_description\": \"Read our review of Mad Cars, a unique post-apocalyptic themed slot game. Play for free on all devices.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 655,
-                    "completion_tokens": 145,
-                    "total_tokens": 800
+                    "prompt_tokens": 652,
+                    "completion_tokens": 118,
+                    "total_tokens": 770
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mad-cars.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Mad_Cars_that_fe_ee62324e-b4cd-4e21-bee2-1a89da193dfa_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Mad_Cars_that_fe_ee62324e-b4cd-4e21-bee2-1a89da193dfa_2.png",
+        "arved__Create_a_feature_image_fitting_the_game_Mad_Cars_that_fe_ee62324e-b4cd-4e21-bee2-1a89da193dfa_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Mad_Cars_that_fe_ee62324e-b4cd-4e21-bee2-1a89da193dfa_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mad Cars (Version 4).webp",
+        "game_reviews/processed_images/Mad Cars (Version 2).webp",
+        "game_reviews/processed_images/Mad Cars (Version 1).webp",
+        "game_reviews/processed_images/Mad Cars (Version 3).webp"
+    ],
+    "slug": "mad-cars",
+    "name": "Mad Cars",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mad-Cars-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mad Cars Slot Free - Unique Post-Apocalyptic Game' ### Meta set: 'Read our review of Mad Cars, a unique post-apocalyptic themed slot game. Play for free on all devices.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

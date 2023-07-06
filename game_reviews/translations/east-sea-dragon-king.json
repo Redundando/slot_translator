@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cluster payouts provide more chances to win",
-                    "High volatility adds excitement to gameplay",
-                    "Expanding wilds and respins feature increase chances of winning big",
-                    "Beautifully designed symbols and graphics"
+                    "Cluster payouts for more winning opportunities",
+                    "Expanding wilds and respins for dynamic gameplay",
+                    "High volatility for thrilling gaming experience",
+                    "Opportunity to win up to 6,000 times the total bet"
                 ],
                 "cons": [
-                    "High volatility can be risky for inexperienced players",
-                    "Not as many features as other NetEnt games"
+                    "High volatility may not suit all players",
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play East Sea Dragon King for Free | Review and Gameplay",
-                "meta_description": "Get a chance to win up to 6,000 times your bet with East Sea Dragon King. Play for free and learn about its features in our comprehensive review."
+                "meta_title": "Play East Sea Dragon King for Free",
+                "meta_description": "Read our review of East Sea Dragon King slot game and play for free. Discover its features and winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"East Sea Dragon King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEast Sea Dragon King is a slot game with 5 reels and cluster payouts. This feature allows players to earn wins by getting 5 or more matching symbols in adjacent positions. The game offers an RTP of 96.23% and can be played from €0.10 up to €200 on all devices. The game is highly volatile, so players should be careful. The main features include expanding wilds, respins, and wins that can reach 1,000 times the bet per round.\n\nSymbol Design and Rewards\n\nSymbols in the game include bronze, silver, and gold coins, pearl shells, ancient scrolls, gold ingots, jade dragons, and the Wild symbol, which is the Eastern Sea Dragon King. The most rewarding symbol is the Jade Dragon, and getting 15 of them will award players 1,000 times their bet.\n\nWinning Potential\n\nEast Sea Dragon King offers an opportunity to win up to 6,000 times the total bet. The game is highly volatile with an RTP of 96.23%. The game's Respins and Expanding Wilds features make the gameplay dynamic and entertaining. Players need to pay attention to these features as they offer generous wins that can reach 1,000 times the bet per round.\n\nRTP\n\nEast Sea Dragon King offers an RTP of 96.23%.\n\nOverall Impression\n\nEast Sea Dragon King is a beautifully designed slot game that will attract players who are into Asian and cartoon themes. The game is simpler than other NetEnt titles offered but represents one of their few games with high volatility and excellent payouts. Players can enjoy the game in both demo and real money mode, taking advantage of the bonuses and promotions offered by certified AAMS casinos.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"East Sea Dragon King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEast Sea Dragon King is a slot game with 5 reels and cluster payouts. This feature allows players to earn wins by getting 5 or more matching symbols in adjacent positions. The game offers an RTP of 96.23% and can be played from €0.10 up to €200 on all devices. The game is highly volatile, so players should be careful. The main features include expanding wilds, respins, and wins that can reach 1,000 times the bet per round.\n\nSymbol Design and Rewards\n\nSymbols in the game include bronze, silver, and gold coins, pearl shells, ancient scrolls, gold ingots, jade dragons, and the Wild symbol, which is the Eastern Sea Dragon King. The most rewarding symbol is the Jade Dragon, and getting 15 of them will award players 1,000 times their bet.\n\nWinning Potential\n\nEast Sea Dragon King offers an opportunity to win up to 6,000 times the total bet. The game is highly volatile with an RTP of 96.23%. The game's Respins and Expanding Wilds features make the gameplay dynamic and entertaining. Players need to pay attention to these features as they offer generous wins that can reach 1,000 times the bet per round.\n\nRTP\n\nEast Sea Dragon King offers an RTP of 96.23%.\n\nOverall Impression\n\nEast Sea Dragon King is a beautifully designed slot game that will attract players who are into Asian and cartoon themes. The game is simpler than other NetEnt titles offered but represents one of their few games with high volatility and excellent payouts. Players can enjoy the game in both demo and real money mode, taking advantage of the bonuses and promotions offered by certified AAMS casinos.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TAQCXs1rfkEBk2yTNlWy0IUtnBht",
+                "id": "chatcmpl-7WRyyDgVebYnvp4mLimtL0Yu81CHS",
                 "object": "chat.completion",
-                "created": 1687185928,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 531,
-                    "completion_tokens": 142,
-                    "total_tokens": 673
-                },
+                "created": 1687968416,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Cluster payouts provide more chances to win\",\n      \"High volatility adds excitement to gameplay\",\n      \"Expanding wilds and respins feature increase chances of winning big\",\n      \"Beautifully designed symbols and graphics\"\n   ],\n   \"cons\": [\n      \"High volatility can be risky for inexperienced players\",\n      \"Not as many features as other NetEnt games\"\n   ],\n   \"meta_title\": \"Play East Sea Dragon King for Free | Review and Gameplay\",\n   \"meta_description\": \"Get a chance to win up to 6,000 times your bet with East Sea Dragon King. Play for free and learn about its features in our comprehensive review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cluster payouts for more winning opportunities\",\n    \"Expanding wilds and respins for dynamic gameplay\",\n    \"High volatility for thrilling gaming experience\",\n    \"Opportunity to win up to 6,000 times the total bet\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit all players\",\n    \"Limited bonus features\"\n  ],\n  \"meta_title\": \"Play East Sea Dragon King for Free\",\n  \"meta_description\": \"Read our review of East Sea Dragon King slot game and play for free. Discover its features and winning potential.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 528,
+                    "completion_tokens": 123,
+                    "total_tokens": 651
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/east-sea-dragon-king.json"
+    "filename": "game_reviews/translations/east-sea-dragon-king.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_game_East_Sea_Dragon_King_a5f6eb29-1aa0-4519-920b-5fbc49b63949_4.png",
+        "arved__Create_a_feature_image_for_the_game_East_Sea_Dragon_King_a5f6eb29-1aa0-4519-920b-5fbc49b63949_2.png",
+        "arved__Create_a_feature_image_for_the_game_East_Sea_Dragon_King_a5f6eb29-1aa0-4519-920b-5fbc49b63949_1.png",
+        "arved__Create_a_feature_image_for_the_game_East_Sea_Dragon_King_a5f6eb29-1aa0-4519-920b-5fbc49b63949_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "east-sea-dragon-king",
+    "name": "East Sea Dragon King",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/east-sea-dragon-king_thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play East Sea Dragon King for Free' ### Meta set: 'Read our review of East Sea Dragon King slot game and play for free. Discover its features and winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

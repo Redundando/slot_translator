@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Immersive design with an Egyptian theme",
+                    "Noteworthy design with an immersive ancient Egypt theme",
                     "Interesting free spins feature",
                     "Excellent RTP of 97%",
-                    "Classic gameplay mechanics"
+                    "Attractive nighttime sky and background setting"
                 ],
                 "cons": [
-                    "Risk of falling into banality due to the simplicity of gameplay",
-                    "Lack of other bonus features"
+                    "Risk of gameplay sinking into banality",
+                    "Lack of additional bonus features"
                 ],
-                "meta_title": "Play Amun’s Book Free - Review of Zeusplay's Egyptian-themed Slot",
-                "meta_description": "Discover the immersive design, gameplay mechanics, and features of Amun’s Book, a classic Egyptian-themed slot game with a free spins feature and an excellent RTP of 97% - play now for free!"
+                "meta_title": "Play Amun’s Book for Free - Review of the Immersive Slot",
+                "meta_description": "Read our review of Amun’s Book, a slot with an immersive ancient Egypt theme. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Amun’s Book\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDesign and Theme\n\nThe design of Amun's Book is noteworthy, with the background setting situated amidst the ruins of a temple or pyramid. The nighttime sky adds to the slot's air of mystery, with torches revealing the presence of a sarcophagus and statues of a cat and a dog. The playing grid is set amidst stone columns, with Egyptian-themed symbols such as scarabs, idols, pharaoh masks, and the Wild symbol, the book of Amun. While the explorer is present on the grid, unlike in other slots similar to Amun's Book, the explorer does not appear as a protagonist and therefore has little impact.\n\nGameplay Mechanics\n\nThe gameplay of Amun's Book is simple and classic, typical of many other Zeusplay slots. Some may appreciate the simplicity, but it risks making the theme sink into banality. The slot does offer an interesting free spins feature, where finding 3 or more scatters triggers the book of Amun to reveal a random symbol. The next 10 free spins will then see that symbol win in every position. The excellent RTP of 97% is also worth noting.\n\nBonus Features\n\nThe sole bonus feature in Amun's Book is the free spins feature, triggered by finding 3 or more scatters. The book of Amun will reveal a random symbol, and the next 10 free spins will see that symbol win in every position.\n\nJackpot Potential\n\nThere is no mention of a progressive jackpot or significant payouts in Amun's Book. However, the game offers an excellent RTP of 97%, which can be attractive to players.\n\nOverall Impression\n\nAmun's Book by Zeusplay is one of the many slots that use ancient Egypt as its theme. While the design of the game is immersive, it risks falling into a state of banality due to the simplicity of the gameplay. The free spins feature offers some excitement, but aside from that, there are no other bonus features in the game. Nevertheless, the game's exceptional RTP of 97% can be alluring to players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Amun’s Book\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDesign and Theme\n\nThe design of Amun's Book is noteworthy, with the background setting situated amidst the ruins of a temple or pyramid. The nighttime sky adds to the slot's air of mystery, with torches revealing the presence of a sarcophagus and statues of a cat and a dog. The playing grid is set amidst stone columns, with Egyptian-themed symbols such as scarabs, idols, pharaoh masks, and the Wild symbol, the book of Amun. While the explorer is present on the grid, unlike in other slots similar to Amun's Book, the explorer does not appear as a protagonist and therefore has little impact.\n\nGameplay Mechanics\n\nThe gameplay of Amun's Book is simple and classic, typical of many other Zeusplay slots. Some may appreciate the simplicity, but it risks making the theme sink into banality. The slot does offer an interesting free spins feature, where finding 3 or more scatters triggers the book of Amun to reveal a random symbol. The next 10 free spins will then see that symbol win in every position. The excellent RTP of 97% is also worth noting.\n\nBonus Features\n\nThe sole bonus feature in Amun's Book is the free spins feature, triggered by finding 3 or more scatters. The book of Amun will reveal a random symbol, and the next 10 free spins will see that symbol win in every position.\n\nJackpot Potential\n\nThere is no mention of a progressive jackpot or significant payouts in Amun's Book. However, the game offers an excellent RTP of 97%, which can be attractive to players.\n\nOverall Impression\n\nAmun's Book by Zeusplay is one of the many slots that use ancient Egypt as its theme. While the design of the game is immersive, it risks falling into a state of banality due to the simplicity of the gameplay. The free spins feature offers some excitement, but aside from that, there are no other bonus features in the game. Nevertheless, the game's exceptional RTP of 97% can be alluring to players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SWkzzVu7krjGWnX7OAEgVtwNTwgx",
+                "id": "chatcmpl-7WNB7e7HuDAzIcxEi0fX1f2zBrxJ1",
                 "object": "chat.completion",
-                "created": 1687033457,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 595,
-                    "completion_tokens": 143,
-                    "total_tokens": 738
-                },
+                "created": 1687949949,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Immersive design with an Egyptian theme\",\n        \"Interesting free spins feature\",\n        \"Excellent RTP of 97%\",\n        \"Classic gameplay mechanics\"\n    ],\n    \"cons\": [\n        \"Risk of falling into banality due to the simplicity of gameplay\",\n        \"Lack of other bonus features\"\n    ],\n    \"meta_title\": \"Play Amun’s Book Free - Review of Zeusplay's Egyptian-themed Slot\",\n    \"meta_description\": \"Discover the immersive design, gameplay mechanics, and features of Amun’s Book, a classic Egyptian-themed slot game with a free spins feature and an excellent RTP of 97% - play now for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Noteworthy design with an immersive ancient Egypt theme\",\n    \"Interesting free spins feature\",\n    \"Excellent RTP of 97%\",\n    \"Attractive nighttime sky and background setting\"\n  ],\n  \"cons\": [\n    \"Risk of gameplay sinking into banality\",\n    \"Lack of additional bonus features\"\n  ],\n  \"meta_title\": \"Play Amun’s Book for Free - Review of the Immersive Slot\",\n  \"meta_description\": \"Read our review of Amun’s Book, a slot with an immersive ancient Egypt theme. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 592,
+                    "completion_tokens": 123,
+                    "total_tokens": 715
+                }
             }
         },
         {
@@ -820,9 +820,18 @@
         "arved__Prompt_Create_a_cartoon-style_feature_image_that_will_gr_f3c6c6ed-a4b3-49f1-9290-c07134af8e6f_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Amuns Book (Version 4).webp",
+        "game_reviews/processed_images/Amuns Book (Version 3).webp",
         "game_reviews/processed_images/Amuns Book (Version 2).webp",
-        "game_reviews/processed_images/Amuns Book (Version 1).webp",
-        "game_reviews/processed_images/Amuns Book (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Amuns Book (Version 4).webp",
+        "game_reviews/processed_images/Amuns Book (Version 1).webp"
+    ],
+    "slug": "amuns-book",
+    "name": "Amun’s Book",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Amuns-Book-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Amun’s Book for Free - Review of the Immersive Slot' ### Meta set: 'Read our review of Amun’s Book, a slot with an immersive ancient Egypt theme. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

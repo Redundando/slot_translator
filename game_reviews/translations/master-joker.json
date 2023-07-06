@@ -577,39 +577,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stylish and modern design with refreshing fruit theme",
-                    "High RTP with a chance to win up to €1,000,000",
-                    "Multiplayer Wheel hidden feature with 2x to 100x multiplier potential",
-                    "Accessible on mobile, tablet and desktop devices"
+                    "Simple gameplay with one payline and high RTP",
+                    "Impressive graphics and vibrant colors",
+                    "Exciting Multiplayer Wheel and Wild Symbol features",
+                    "Chance to win up to 10,000 times the bet"
                 ],
                 "cons": [
-                    "Limited special features compared to other online slots",
-                    "Only one payline to bet on"
+                    "Master Joker has few features compared to other slots"
                 ],
-                "meta_title": "Play Master Joker Free | Review of Pragmatic Play Slot Game",
-                "meta_description": "Read our review of Master Joker, an online slot game by Pragmatic Play. Play it for free or real money and activate the Multiplayer Wheel feature."
+                "meta_title": "Play Master Joker Free - Exciting Slot Game with Impressive Graphics",
+                "meta_description": "Read our review of Master Joker, a visually stunning slot game with multiplayer and Wild Symbol features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Master Joker\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nMaster Joker has a simple gameplay with only one payline to bet on and five reels featuring winning symbols such as traditional fruits and special icons, including Gold Bars and Lucky 7. Starting at €0.01, players can place bets up to €100.00. The slot has a high RTP and the potential to win up to 10,000 times the bet, which is equivalent to €1,000,000.00. \n\nVisual Design\n\nMaster Joker offers impressive graphics and vibrant colors that add a refreshing touch to the classic fruit theme. With all its elements, the game is visually stunning, featuring brilliant artwork and a modern design.\n\nSpecial Features\n\nAlthough Master Joker has few features compared to other slots, it provides enough to make fantastic winning combinations. The game has two exciting features: the Multiplayer Wheel and the Wild Symbol. The Multiplayer Wheel is a hidden feature behind the reels which can be activated every time a player lands the Joker on the third reel, turning it into a Wild symbol. This feature allows players to activate multipliers ranging from 2x to 100x, increasing winnings up to 10,000x. Additionally, players can reactivate the Multiplayer Wheel every time the Joker is included in a winning combination. The Wild Symbol helps players form winning combinations and can appear from left to right, right to left, or even in the center.\n\nWinning Opportunities\n\nMaster Joker offers players the chance to win up to 10,000 times their bet, which is an incredible €1,000,000.00. With a high RTP and a Multiplayer feature offering multipliers ranging from 2x to 100x, players have the potential for significant winnings.\n\nAvailability and Accessibility\n\nMaster Joker is one of the free slot games developed by Pragmatic Play and can be played at the best casinos supporting the Pragmatic Play titles. Players can start by testing the game for free in demo mode or switch to real money betting to take advantage of the Multiplayer option. The game is accessible on mobile devices, tablets, and desktops, making it easy for players to enjoy the game from anywhere.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Master Joker\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nMaster Joker has a simple gameplay with only one payline to bet on and five reels featuring winning symbols such as traditional fruits and special icons, including Gold Bars and Lucky 7. Starting at €0.01, players can place bets up to €100.00. The slot has a high RTP and the potential to win up to 10,000 times the bet, which is equivalent to €1,000,000.00. \n\nVisual Design\n\nMaster Joker offers impressive graphics and vibrant colors that add a refreshing touch to the classic fruit theme. With all its elements, the game is visually stunning, featuring brilliant artwork and a modern design.\n\nSpecial Features\n\nAlthough Master Joker has few features compared to other slots, it provides enough to make fantastic winning combinations. The game has two exciting features: the Multiplayer Wheel and the Wild Symbol. The Multiplayer Wheel is a hidden feature behind the reels which can be activated every time a player lands the Joker on the third reel, turning it into a Wild symbol. This feature allows players to activate multipliers ranging from 2x to 100x, increasing winnings up to 10,000x. Additionally, players can reactivate the Multiplayer Wheel every time the Joker is included in a winning combination. The Wild Symbol helps players form winning combinations and can appear from left to right, right to left, or even in the center.\n\nWinning Opportunities\n\nMaster Joker offers players the chance to win up to 10,000 times their bet, which is an incredible €1,000,000.00. With a high RTP and a Multiplayer feature offering multipliers ranging from 2x to 100x, players have the potential for significant winnings.\n\nAvailability and Accessibility\n\nMaster Joker is one of the free slot games developed by Pragmatic Play and can be played at the best casinos supporting the Pragmatic Play titles. Players can start by testing the game for free in demo mode or switch to real money betting to take advantage of the Multiplayer option. The game is accessible on mobile devices, tablets, and desktops, making it easy for players to enjoy the game from anywhere.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5zoIbC1PFADyjhSla1g55nDFUWC",
+                "id": "chatcmpl-7WXEytp90ySBG5LbJBTHB2FjjsqBa",
                 "object": "chat.completion",
-                "created": 1687407244,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988628,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stylish and modern design with refreshing fruit theme\",\n        \"High RTP with a chance to win up to €1,000,000\",\n        \"Multiplayer Wheel hidden feature with 2x to 100x multiplier potential\",\n        \"Accessible on mobile, tablet and desktop devices\"\n    ],\n    \"cons\": [\n        \"Limited special features compared to other online slots\",\n        \"Only one payline to bet on\"\n    ],\n    \"meta_title\": \"Play Master Joker Free | Review of Pragmatic Play Slot Game\",\n    \"meta_description\": \"Read our review of Master Joker, an online slot game by Pragmatic Play. Play it for free or real money and activate the Multiplayer Wheel feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay with one payline and high RTP\",\n    \"Impressive graphics and vibrant colors\",\n    \"Exciting Multiplayer Wheel and Wild Symbol features\",\n    \"Chance to win up to 10,000 times the bet\"\n  ],\n  \"cons\": [\n    \"Master Joker has few features compared to other slots\"\n  ],\n  \"meta_title\": \"Play Master Joker Free - Exciting Slot Game with Impressive Graphics\",\n  \"meta_description\": \"Read our review of Master Joker, a visually stunning slot game with multiplayer and Wild Symbol features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 614,
-                    "completion_tokens": 157,
-                    "total_tokens": 771
+                    "prompt_tokens": 611,
+                    "completion_tokens": 122,
+                    "total_tokens": 733
                 }
             }
         },
@@ -808,5 +807,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/master-joker.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_game_667725bf-6222-4f4c-afda-9e4be87aa7b9_4.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_game_667725bf-6222-4f4c-afda-9e4be87aa7b9_3.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_game_667725bf-6222-4f4c-afda-9e4be87aa7b9_1.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_game_667725bf-6222-4f4c-afda-9e4be87aa7b9_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Master Joker (Version 3).webp",
+        "game_reviews/processed_images/Master Joker (Version 1).webp",
+        "game_reviews/processed_images/Master Joker (Version 2).webp",
+        "game_reviews/processed_images/Master Joker (Version 4).webp"
+    ],
+    "slug": "master-joker",
+    "name": "Master Joker",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Master-Joker-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Master Joker Free - Exciting Slot Game with Impressive Graphics' ### Meta set: 'Read our review of Master Joker, a visually stunning slot game with multiplayer and Wild Symbol features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

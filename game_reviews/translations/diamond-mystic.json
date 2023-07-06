@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Flexible betting range starting from €0.01 to a maximum of €2.00",
-                    "Minimal bets with decent payouts",
-                    "Visually appealing graphics with a simple design",
-                    "Fast-paced gameplay"
+                    "Unique gameplay mechanics resembling a scratch-off ticket or lotto game",
+                    "Decent payouts with minimal bets, starting from €0.01",
+                    "Flexible betting range from €0.01 to €2.00",
+                    "Simple yet visually appealing graphics"
                 ],
                 "cons": [
-                    "Lacks additional features in the game's internal menu",
-                    "No Return to Player percentage information available"
+                    "Lack of additional features in the internal menu",
+                    "No inclusion of Return to Player percentage"
                 ],
-                "meta_title": "Play Diamond Mystic Free - Scratch-Off Style Slot Game",
-                "meta_description": "Experience the excitement of Diamond Mystic - a scratch-off style slot game with flexible betting options and minimal bets. Play for free today!"
+                "meta_title": "Play Diamond Mystic Free - Unique Lotto-Style Slot Game",
+                "meta_description": "Play Diamond Mystic for free and experience a unique lotto-style slot game with decent payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Diamond Mystic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nDiamond Mystic operates more like a scratch-off ticket or lotto game than a traditional slot machine. It features a series of 12 numbers with an additional six numbers in the box on the left. Bets range from a minimum of €0.01 to a maximum of €2.00. If any of the player's numbers match the game's numbers, they win a prize. There's also an option for automatic spins starting from 10 to a maximum of 100.\n\nPayouts and Rewards\n\nDiamond Mystic offers decent payouts with minimal bets, starting from a minimum of €0.01. If one of the player's numbers matches one of the game's numbers, they receive the initial bet back (€0.01) with additional payouts following as follows - two matching numbers triples the payout, three matching numbers awards €0.60, four matching numbers earn €1.60, five matching numbers get you €10, and six matching numbers pay out €600. With the max bet of €2.00, players can potentially win up to €120,000.\n\nBetting Options\n\nDiamond Mystic offers a flexible betting range, starting from a minimum of €0.01 to a maximum of €2.00. It's an affordable game, especially for those who want to spin multiple times without breaking the bank. The Autoplay function is also available for those who prefer a more hands-off approach to gameplay.\n\nGame Graphics and Design\n\nDiamond Mystic's graphics are simple yet visually appealing. The game has a black and blue gradient background with an empty game grid in the center. At the bottom of the screen, there's a bar displaying the value of the player's bet, along with plus and minus buttons to increase or decrease their wager. Other game features include the option to turn off the music, access to the payout chart, and the option to return to the main screen. There's a simple melody mixed with electronic sounds and a flute playing in the background.\n\nTarget Audience\n\nDiamond Mystic is ideal for experienced gamblers who want a change from traditional slot machines and enjoy scratch-off tickets and lotto games. The game's speed of gameplay is one of its major selling points. However, the game's internal menu could use more features to provide a better playing experience, such as including the Return to Player percentage. Overall, Diamond Mystic is a highly recommended game for those looking for something fresh, new, and exciting.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Diamond Mystic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nDiamond Mystic operates more like a scratch-off ticket or lotto game than a traditional slot machine. It features a series of 12 numbers with an additional six numbers in the box on the left. Bets range from a minimum of €0.01 to a maximum of €2.00. If any of the player's numbers match the game's numbers, they win a prize. There's also an option for automatic spins starting from 10 to a maximum of 100.\n\nPayouts and Rewards\n\nDiamond Mystic offers decent payouts with minimal bets, starting from a minimum of €0.01. If one of the player's numbers matches one of the game's numbers, they receive the initial bet back (€0.01) with additional payouts following as follows - two matching numbers triples the payout, three matching numbers awards €0.60, four matching numbers earn €1.60, five matching numbers get you €10, and six matching numbers pay out €600. With the max bet of €2.00, players can potentially win up to €120,000.\n\nBetting Options\n\nDiamond Mystic offers a flexible betting range, starting from a minimum of €0.01 to a maximum of €2.00. It's an affordable game, especially for those who want to spin multiple times without breaking the bank. The Autoplay function is also available for those who prefer a more hands-off approach to gameplay.\n\nGame Graphics and Design\n\nDiamond Mystic's graphics are simple yet visually appealing. The game has a black and blue gradient background with an empty game grid in the center. At the bottom of the screen, there's a bar displaying the value of the player's bet, along with plus and minus buttons to increase or decrease their wager. Other game features include the option to turn off the music, access to the payout chart, and the option to return to the main screen. There's a simple melody mixed with electronic sounds and a flute playing in the background.\n\nTarget Audience\n\nDiamond Mystic is ideal for experienced gamblers who want a change from traditional slot machines and enjoy scratch-off tickets and lotto games. The game's speed of gameplay is one of its major selling points. However, the game's internal menu could use more features to provide a better playing experience, such as including the Return to Player percentage. Overall, Diamond Mystic is a highly recommended game for those looking for something fresh, new, and exciting.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T3WNixP2Ga5J5UkavhZu2fzbJMz5",
+                "id": "chatcmpl-7WREIua95ZAbTpLn2Uzi3gjLmU5EQ",
                 "object": "chat.completion",
-                "created": 1687159403,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 671,
-                    "completion_tokens": 136,
-                    "total_tokens": 807
-                },
+                "created": 1687965522,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Flexible betting range starting from €0.01 to a maximum of €2.00\",\n        \"Minimal bets with decent payouts\",\n        \"Visually appealing graphics with a simple design\",\n        \"Fast-paced gameplay\"\n    ],\n    \"cons\": [\n        \"Lacks additional features in the game's internal menu\",\n        \"No Return to Player percentage information available\"\n    ],\n    \"meta_title\": \"Play Diamond Mystic Free - Scratch-Off Style Slot Game\",\n    \"meta_description\": \"Experience the excitement of Diamond Mystic - a scratch-off style slot game with flexible betting options and minimal bets. Play for free today!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics resembling a scratch-off ticket or lotto game\",\n    \"Decent payouts with minimal bets, starting from €0.01\",\n    \"Flexible betting range from €0.01 to €2.00\",\n    \"Simple yet visually appealing graphics\"\n  ],\n  \"cons\": [\n    \"Lack of additional features in the internal menu\",\n    \"No inclusion of Return to Player percentage\"\n  ],\n  \"meta_title\": \"Play Diamond Mystic Free - Unique Lotto-Style Slot Game\",\n  \"meta_description\": \"Play Diamond Mystic for free and experience a unique lotto-style slot game with decent payouts.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 668,
+                    "completion_tokens": 136,
+                    "total_tokens": 804
+                }
             }
         },
         {
@@ -820,9 +820,18 @@
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Diamond Mystic (Version 4).webp",
-        "game_reviews/processed_images/Diamond Mystic (Version 1).webp",
+        "game_reviews/processed_images/Diamond Mystic (Version 3).webp",
         "game_reviews/processed_images/Diamond Mystic (Version 2).webp",
-        "game_reviews/processed_images/Diamond Mystic (Version 3).webp"
+        "game_reviews/processed_images/Diamond Mystic (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/diamond-mystic.json"
+    "filename": "game_reviews/translations/diamond-mystic.json",
+    "slug": "diamond-mystic",
+    "name": "Diamond Mystic",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Diamond-Mystic-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Diamond Mystic Free - Unique Lotto-Style Slot Game' ### Meta set: 'Play Diamond Mystic for free and experience a unique lotto-style slot game with decent payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

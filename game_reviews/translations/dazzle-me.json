@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_4.png",
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_2.png",
         "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_3.png",
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_1.png"
+        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_2.png",
+        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_1.png",
+        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dazzle Me (Version 3).webp",
-        "game_reviews/processed_images/Dazzle Me (Version 2).webp",
         "game_reviews/processed_images/Dazzle Me (Version 1).webp",
-        "game_reviews/processed_images/Dazzle Me (Version 4).webp"
+        "game_reviews/processed_images/Dazzle Me (Version 3).webp",
+        "game_reviews/processed_images/Dazzle Me (Version 4).webp",
+        "game_reviews/processed_images/Dazzle Me (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/dazzle-me.json"
+    "filename": "game_reviews/translations/dazzle-me.json",
+    "slug": "dazzle-me",
+    "name": "Dazzle Me",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dazzle-Me-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dazzle Me Free - Unique Gameplay with Dazzling Wilds and Twin Reels' ### Meta set: 'Dazzle Me is a unique online slot machine that offers Dazzling Wilds and Twin Reels features. Try it for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

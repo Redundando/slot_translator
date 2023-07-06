@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic Egyptian theme",
-                    "Variety of paylines",
+                    "Classic slot game with 40 paylines",
+                    "Various Egyptian-themed symbols",
                     "Free spins bonus feature",
-                    "Gamble feature for doubling winnings"
+                    "Gamble feature to double winnings"
                 ],
                 "cons": [
-                    "Limited bonus features compared to other games",
-                    "High variance gameplay may not suit all players"
+                    "Limited bonus features",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Treasures of the Pyramids for Free - Review",
-                "meta_description": "Read our review of Treasures of the Pyramids, a popular Egyptian-themed slot game. Play for free and enjoy the classic theme and free spins bonus feature."
+                "meta_title": "Play Treasures of the Pyramids Free",
+                "meta_description": "Read our review of Treasures of the Pyramids and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Treasures of the Pyramids\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nTreasures of the Pyramids is a five-reel and 40 payline classic slot game from IGT. The betting system is based on tokens, and players must set the value of their tokens before starting to play. Players can bet on 1, 10, 20, 30, or all 40 paylines and select from 1 to 10 tokens per line.\n\nPaylines\n\nTreasures of the Pyramids has 40 paylines for players to bet on. Players can select the number of paylines they want to bet on, from 1 to all 40 paylines.\n\nSymbols\n\nThe symbols in Treasures of the Pyramids reference the culture of ancient Egypt and include various types of jewelry, pyramids, the Ankh or Ansata cross, the right eye of the falcon god Horus, and hieroglyphic style letters and numbers corresponding to the poker cards from 9 to Ace. The black panther is the Wild symbol, and the Scatter symbol takes the form of an imposing pyramid.\n\nBonus Features\n\nThe only bonus feature in Treasures of the Pyramids is free spins triggered by the Scatter symbol. Players can win up to 100 free spins depending on the number of Scatter symbols that appear on the reels. There is also a Gamble feature that allows players to double their winnings by guessing the color of a face-down card.\n\nOther Similar Games\n\nBook of Ra is another Egyptian-themed slot game that is popular among experienced gamblers. It is available in various versions such as the Deluxe and the 6. It also features the Sphinx and gives players the chance to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Treasures of the Pyramids\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nTreasures of the Pyramids is a five-reel and 40 payline classic slot game from IGT. The betting system is based on tokens, and players must set the value of their tokens before starting to play. Players can bet on 1, 10, 20, 30, or all 40 paylines and select from 1 to 10 tokens per line.\n\nPaylines\n\nTreasures of the Pyramids has 40 paylines for players to bet on. Players can select the number of paylines they want to bet on, from 1 to all 40 paylines.\n\nSymbols\n\nThe symbols in Treasures of the Pyramids reference the culture of ancient Egypt and include various types of jewelry, pyramids, the Ankh or Ansata cross, the right eye of the falcon god Horus, and hieroglyphic style letters and numbers corresponding to the poker cards from 9 to Ace. The black panther is the Wild symbol, and the Scatter symbol takes the form of an imposing pyramid.\n\nBonus Features\n\nThe only bonus feature in Treasures of the Pyramids is free spins triggered by the Scatter symbol. Players can win up to 100 free spins depending on the number of Scatter symbols that appear on the reels. There is also a Gamble feature that allows players to double their winnings by guessing the color of a face-down card.\n\nOther Similar Games\n\nBook of Ra is another Egyptian-themed slot game that is popular among experienced gamblers. It is available in various versions such as the Deluxe and the 6. It also features the Sphinx and gives players the chance to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGAtG09iHOislTeLb7QXvOECCWl6",
+                "id": "chatcmpl-7WfZ6XXCxiMd152T4Ln78LOxq7q0R",
                 "object": "chat.completion",
-                "created": 1686493059,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 515,
-                    "completion_tokens": 125,
-                    "total_tokens": 640
-                },
+                "created": 1688020628,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Classic Egyptian theme\",\n    \"Variety of paylines\",\n    \"Free spins bonus feature\",\n    \"Gamble feature for doubling winnings\"\n  ],\n  \"cons\": [\n    \"Limited bonus features compared to other games\",\n    \"High variance gameplay may not suit all players\"\n  ],\n  \"meta_title\": \"Play Treasures of the Pyramids for Free - Review\",\n  \"meta_description\": \"Read our review of Treasures of the Pyramids, a popular Egyptian-themed slot game. Play for free and enjoy the classic theme and free spins bonus feature.\" \n}"
+                            "content": "{\n  \"pros\": [\"Classic slot game with 40 paylines\", \"Various Egyptian-themed symbols\", \"Free spins bonus feature\", \"Gamble feature to double winnings\"],\n  \"cons\": [\"Limited bonus features\", \"No progressive jackpot\"],\n  \"meta_title\": \"Play Treasures of the Pyramids Free\",\n  \"meta_description\": \"Read our review of Treasures of the Pyramids and play for free.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 512,
+                    "completion_tokens": 88,
+                    "total_tokens": 600
+                }
             }
         },
         {
@@ -813,6 +813,24 @@
         }
     ],
     "filename": "game_reviews/translations/treasures-of-the-pyramids.json",
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_f8838c6e-bf80-405d-8965-c2dd1caae37c_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_f8838c6e-bf80-405d-8965-c2dd1caae37c_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_4249fb2d-4617-4165-9384-28d16f4164c4_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_4249fb2d-4617-4165-9384-28d16f4164c4_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_f8838c6e-bf80-405d-8965-c2dd1caae37c_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_4249fb2d-4617-4165-9384-28d16f4164c4_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_4249fb2d-4617-4165-9384-28d16f4164c4_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Treasures_of_the_Pyram_f8838c6e-bf80-405d-8965-c2dd1caae37c_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Treasures Of The Pyramids (Version 7).webp",
+        "game_reviews/processed_images/Treasures Of The Pyramids (Version 8).webp",
+        "game_reviews/processed_images/Treasures Of The Pyramids (Version 6).webp",
+        "game_reviews/processed_images/Treasures Of The Pyramids (Version 5).webp"
+    ],
+    "slug": "treasures-of-the-pyramids",
+    "name": "Treasures of the Pyramids",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

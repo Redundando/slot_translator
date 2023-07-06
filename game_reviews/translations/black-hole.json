@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique gameplay structure with six fluorescent capsules on the right-hand side of the screen",
-                    "Impressive graphics and modern space theme with traditional fruit machine symbols",
-                    "Theoretical return to player for this game is between 95.25% to 96.55%",
-                    "Distinctive feature with the black hole icon that swallows all the symbols"
+                    "Unique gameplay structure with fluorescent capsules",
+                    "Impeccable graphics with a contrast between old-style symbols and a modern space theme",
+                    "Variety of fruit machine symbols including stars, bells, and number sevens",
+                    "Distinctive black hole feature that sets the game apart"
                 ],
                 "cons": [
                     "Limited betting options with a maximum bet of ten coins",
-                    "No bonus rounds or free spins"
+                    "Lack of variety in the game grid symbols"
                 ],
-                "meta_title": "Play Black Hole Slot for Free - Unique Gameplay & Impressive Graphics",
-                "meta_description": "Read our review of Black Hole slot game with its unique gameplay structure, impressive graphics, and distinctive black hole feature. Play for free now."
+                "meta_title": "Play Black Hole - Free Slot Game Review",
+                "meta_description": "Discover Black Hole, a unique slot game with a distinctive black hole feature. Play for free and experience the space adventure."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Black Hole\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Structure\n\nBlack Hole has a unique gameplay structure with six fluorescent capsules on the right-hand side of the screen. The game grid features five reels and three rows with an array of traditional fruit machine symbols such as various fruits, stars, bells, and number sevens. The maximum bet is ten coins, and the automatic mode is available. Theoretical return to player for this game is between 95.25% to 96.55%, which is satisfying and in line with most slot games.\n\nGraphics\n\nThe graphics in Black Hole are impeccable, and the contrast between the old-style fruit machine symbols and the hyper-technological space-themed background is well-executed. The galactic explosions in space give players a feel of modernity, while the fruit symbols recall a classic arcade game feel. The slot game's left-hand side features the game grid, and the bottom features the setting buttons.\n\nSymbols & Betting\n\nBlack Hole uses fruit machine symbols such as various fruits, stars, bells, and number sevens. The least profitable icons include watermelons and cherries, which award a prize equal to fifty times the bet, while the ones that pay the most are represented by the red number seven and strawberries, earning players 1,000 times their betting value for a combination of five. The maximum bet is ten coins, and the automatic mode is available.\n\nBlack Hole Feature\n\nThe black hole feature is the most distinctive feature of Black Hole. When the black hole icon appears, it 'swallows' all the other symbols on the reels, resetting the game. This feature is unique and sets Black Hole apart from other slot games.\n\nSimilar Games\n\nIf you like the space theme of Black Hole, there are several similar slot games that you can explore. For example, The Space Slot Adventure by Rabcat, Interstellar by Bede Gaming, and Space Wars, which features alien beasts among the protagonists. These games offer a fantastic space adventure, much like Black Hole.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Black Hole\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Structure\n\nBlack Hole has a unique gameplay structure with six fluorescent capsules on the right-hand side of the screen. The game grid features five reels and three rows with an array of traditional fruit machine symbols such as various fruits, stars, bells, and number sevens. The maximum bet is ten coins, and the automatic mode is available. Theoretical return to player for this game is between 95.25% to 96.55%, which is satisfying and in line with most slot games.\n\nGraphics\n\nThe graphics in Black Hole are impeccable, and the contrast between the old-style fruit machine symbols and the hyper-technological space-themed background is well-executed. The galactic explosions in space give players a feel of modernity, while the fruit symbols recall a classic arcade game feel. The slot game's left-hand side features the game grid, and the bottom features the setting buttons.\n\nSymbols & Betting\n\nBlack Hole uses fruit machine symbols such as various fruits, stars, bells, and number sevens. The least profitable icons include watermelons and cherries, which award a prize equal to fifty times the bet, while the ones that pay the most are represented by the red number seven and strawberries, earning players 1,000 times their betting value for a combination of five. The maximum bet is ten coins, and the automatic mode is available.\n\nBlack Hole Feature\n\nThe black hole feature is the most distinctive feature of Black Hole. When the black hole icon appears, it 'swallows' all the other symbols on the reels, resetting the game. This feature is unique and sets Black Hole apart from other slot games.\n\nSimilar Games\n\nIf you like the space theme of Black Hole, there are several similar slot games that you can explore. For example, The Space Slot Adventure by Rabcat, Interstellar by Bede Gaming, and Space Wars, which features alien beasts among the protagonists. These games offer a fantastic space adventure, much like Black Hole.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SfzGxiUpmtWuMsbGbwrkH4auIfpO",
+                "id": "chatcmpl-7WOQDJUlOfXKSvszowEcEy6cVubzj",
                 "object": "chat.completion",
-                "created": 1687068938,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 574,
-                    "completion_tokens": 167,
-                    "total_tokens": 741
-                },
+                "created": 1687954729,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unique gameplay structure with six fluorescent capsules on the right-hand side of the screen\",\n    \"Impressive graphics and modern space theme with traditional fruit machine symbols\",\n    \"Theoretical return to player for this game is between 95.25% to 96.55%\",\n    \"Distinctive feature with the black hole icon that swallows all the symbols\"\n  ],\n  \"cons\": [\n    \"Limited betting options with a maximum bet of ten coins\",\n    \"No bonus rounds or free spins\"\n  ],\n  \"meta_title\": \"Play Black Hole Slot for Free - Unique Gameplay & Impressive Graphics\",\n  \"meta_description\": \"Read our review of Black Hole slot game with its unique gameplay structure, impressive graphics, and distinctive black hole feature. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay structure with fluorescent capsules\",\n    \"Impeccable graphics with a contrast between old-style symbols and a modern space theme\",\n    \"Variety of fruit machine symbols including stars, bells, and number sevens\",\n    \"Distinctive black hole feature that sets the game apart\"\n  ],\n  \"cons\": [\n    \"Limited betting options with a maximum bet of ten coins\",\n    \"Lack of variety in the game grid symbols\"\n  ],\n  \"meta_title\": \"Play Black Hole - Free Slot Game Review\",\n  \"meta_description\": \"Discover Black Hole, a unique slot game with a distinctive black hole feature. Play for free and experience the space adventure.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 571,
+                    "completion_tokens": 147,
+                    "total_tokens": 718
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "filename": "game_reviews/translations/black-hole.json",
     "raw_feature_images": [
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e55858cd-6e2d-478a-8139-1c85a4c51a90_1.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e55858cd-6e2d-478a-8139-1c85a4c51a90_3.png",
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e55858cd-6e2d-478a-8139-1c85a4c51a90_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e55858cd-6e2d-478a-8139-1c85a4c51a90_3.png",
         "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_e55858cd-6e2d-478a-8139-1c85a4c51a90_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Black Hole (Version 4).webp",
         "game_reviews/processed_images/Black Hole (Version 1).webp",
+        "game_reviews/processed_images/Black Hole (Version 2).webp",
         "game_reviews/processed_images/Black Hole (Version 3).webp",
-        "game_reviews/processed_images/Black Hole (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Black Hole (Version 4).webp"
+    ],
+    "slug": "black-hole",
+    "name": "Black Hole",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Black-Hole-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Black Hole - Free Slot Game Review' ### Meta set: 'Discover Black Hole, a unique slot game with a distinctive black hole feature. Play for free and experience the space adventure.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

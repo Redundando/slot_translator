@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Smooth gameplay experience",
-                    "High-quality graphics with Irish theme",
-                    "Free Spins mode with Sticky and Lucky Coins mechanics",
-                    "Wild symbol that creates more winning combinations"
+                    "High-quality graphics with a cartoonish style",
+                    "Fascinating Irish theme",
+                    "20 paylines and a 5x4 grid for gameplay",
+                    "Jackpot with a maximum win of 1,000 times the bet placed"
                 ],
                 "cons": [
-                    "Limited number of paylines (20)",
-                    "Jackpot maximum win may not be high enough for some players"
+                    "Limited appearance of additional Scatter symbols in the Free Spins mode",
+                    "Sticky Coins and Lucky Coins mechanics may be confusing for some players"
                 ],
-                "meta_title": "Play Ellen's Fortune Free Slot Game - Review 2021",
-                "meta_description": "Read our review of Ellen's Fortune, a free online slot game with high-quality graphics, low volatility, and an RTP of 96%. Play for free and enjoy the Sticky and Lucky Coins mechanics."
+                "meta_title": "Play Ellen's Fortune Free: High-Quality Slot Game with Irish Theme",
+                "meta_description": "Read a review of Ellen's Fortune, a high-quality slot game with an Irish theme. Play for free and experience the thrilling gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ellen’s Fortune\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEllen's Fortune slot game features and gameplay experience\n\nEllen's Fortune is a high-quality slot game developed by Evoplay with a perfect Irish theme. The graphics are of high definition and have a cartoonish style that doesn't detract from the overall gaming experience. Players will enjoy playing with 20 paylines and a 5x4 grid in a fascinating forest full of fortune. The game has an RTP of 96% with low volatility. It also has a jackpot that offers a maximum win of 1,000 times the bet placed.\n\nFree Spins mode and its mechanics\n\nThe Free Spins mode in Ellen's Fortune is activated when a player lands three Scatters on the game grid during various spins. Once activated, additional Scatter symbols cannot appear. The game also has Sticky Coins, which randomly appear on the second and fourth reels during the base game. Sticky Coins create Sticky Wilds, thus generating winning combinations. Finally, the game has Lucky Coins that are received only in Free Spin mode.\n\nSticky Coins and Lucky Coins mechanics\n\nEllen's Fortune has two types of coins, Sticky Coins, and Lucky Coins. Sticky Coins randomly appear on the second and fourth reels during the base game. They create Sticky Wilds, and Ellen performs an animation when they hit. Lucky Coins, however, are received only during the Free Spin mode.\n\nWild symbol and its function\n\nEllen's Fortune has a Wild symbol that has the power to replace all the other regular symbols, creating more winning combinations. It can appear on any reel in the base game and the Free Spin mode, during which the game has a specific symbol for it.\n\nRTP and volatility\n\nThe RTP of Ellen's Fortune is 96% with low volatility. It is an excellent choice for gamers who enjoy playing for longer periods without the fear of losing their money too fast.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ellen’s Fortune\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEllen's Fortune slot game features and gameplay experience\n\nEllen's Fortune is a high-quality slot game developed by Evoplay with a perfect Irish theme. The graphics are of high definition and have a cartoonish style that doesn't detract from the overall gaming experience. Players will enjoy playing with 20 paylines and a 5x4 grid in a fascinating forest full of fortune. The game has an RTP of 96% with low volatility. It also has a jackpot that offers a maximum win of 1,000 times the bet placed.\n\nFree Spins mode and its mechanics\n\nThe Free Spins mode in Ellen's Fortune is activated when a player lands three Scatters on the game grid during various spins. Once activated, additional Scatter symbols cannot appear. The game also has Sticky Coins, which randomly appear on the second and fourth reels during the base game. Sticky Coins create Sticky Wilds, thus generating winning combinations. Finally, the game has Lucky Coins that are received only in Free Spin mode.\n\nSticky Coins and Lucky Coins mechanics\n\nEllen's Fortune has two types of coins, Sticky Coins, and Lucky Coins. Sticky Coins randomly appear on the second and fourth reels during the base game. They create Sticky Wilds, and Ellen performs an animation when they hit. Lucky Coins, however, are received only during the Free Spin mode.\n\nWild symbol and its function\n\nEllen's Fortune has a Wild symbol that has the power to replace all the other regular symbols, creating more winning combinations. It can appear on any reel in the base game and the Free Spin mode, during which the game has a specific symbol for it.\n\nRTP and volatility\n\nThe RTP of Ellen's Fortune is 96% with low volatility. It is an excellent choice for gamers who enjoy playing for longer periods without the fear of losing their money too fast.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TQN8oQznQ4S5HHWi3P0oXvPwrSkT",
+                "id": "chatcmpl-7WSDBYYFGCH7DUj2CSqBkLC6lgzZI",
                 "object": "chat.completion",
-                "created": 1687247242,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 146,
-                    "total_tokens": 698
-                },
+                "created": 1687969297,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Smooth gameplay experience\",\n        \"High-quality graphics with Irish theme\",\n        \"Free Spins mode with Sticky and Lucky Coins mechanics\",\n        \"Wild symbol that creates more winning combinations\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines (20)\",\n        \"Jackpot maximum win may not be high enough for some players\"\n    ],\n    \"meta_title\": \"Play Ellen's Fortune Free Slot Game - Review 2021\",\n    \"meta_description\": \"Read our review of Ellen's Fortune, a free online slot game with high-quality graphics, low volatility, and an RTP of 96%. Play for free and enjoy the Sticky and Lucky Coins mechanics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality graphics with a cartoonish style\",\n    \"Fascinating Irish theme\",\n    \"20 paylines and a 5x4 grid for gameplay\",\n    \"Jackpot with a maximum win of 1,000 times the bet placed\"\n  ],\n  \"cons\": [\n    \"Limited appearance of additional Scatter symbols in the Free Spins mode\",\n    \"Sticky Coins and Lucky Coins mechanics may be confusing for some players\"\n  ],\n  \"meta_title\": \"Play Ellen's Fortune Free: High-Quality Slot Game with Irish Theme\",\n  \"meta_description\": \"Read a review of Ellen's Fortune, a high-quality slot game with an Irish theme. Play for free and experience the thrilling gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 549,
+                    "completion_tokens": 154,
+                    "total_tokens": 703
+                }
             }
         },
         {
@@ -812,5 +812,16 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/ellens-fortune.json"
+    "filename": "game_reviews/translations/ellens-fortune.json",
+    "raw_feature_images": [],
+    "processed_feature_images": [],
+    "slug": "ellens-fortune",
+    "name": "Ellen’s Fortune",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bill-Teds-Excellent-Adventure-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ellen's Fortune Free: High-Quality Slot Game with Irish Theme' ### Meta set: 'Read a review of Ellen's Fortune, a high-quality slot game with an Irish theme. Play for free and experience the thrilling gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

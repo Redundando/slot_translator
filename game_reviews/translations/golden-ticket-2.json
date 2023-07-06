@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cascading symbols and multipliers boost winning potential",
-                    "Engaging circus-themed graphics and design",
-                    "Impressive RTP of 96.5%",
-                    "4 bonus features, including the chance to win 50x your bet"
+                    "Impressive graphics and design",
+                    "Engaging gameplay features",
+                    "Multiple bonus features",
+                    "High RTP of 96.5%"
                 ],
                 "cons": [
-                    "Only one bonus round can be activated per spin",
-                    "Some players may find the circus theme overwhelming"
+                    "Limited theme appeal",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Golden Ticket 2 Free | Impressive RTP & Bonus Features",
-                "meta_description": "Join the circus in Golden Ticket 2 by Play N Go. Cascading symbols & 4 bonus features provide ample winning potential. Play for free at our site."
+                "meta_title": "Play Golden Ticket 2 for Free - Exciting Circus-themed Slot",
+                "meta_description": "Read our review of Golden Ticket 2 and play for free. Enjoy circus-themed fun and exciting features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Ticket 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nGolden Ticket 2 by Play N Go is a circus-themed slot game that features a 5x5 reel grid and cascading symbols. Players can rack up consecutive wins and increase their final multiplier value thanks to the game's cascading symbols. The game also offers free spin rounds and wild functions that can help players boost their payouts.\n\nGraphics and design\n\nThe graphics and design of Golden Ticket 2 are impressive. The game is modern, intuitive, and easy to play, with bright colors and engaging graphics that capture the attention of players from the first minute. The symbols include classic circus props such as knives, targets, and clowns. The Ringmaster symbol holds the highest value, followed by the knife thrower and the clown. The Wild symbol represents the tent.\n\nBonus features\n\nGolden Ticket 2 has 4 bonus features that players can unlock. The cascading symbols feature increases multipliers, which can combine with wild multipliers and free spin rounds. If players clear an entire bonus row, they can activate a combination of free spins and multipliers. 5 spins with a 3x multiplier, 7 spins with a 2x multiplier, or 9 spins with a 1x multiplier, depending on the number of rows cleared. If players clear the entire grid of symbols, they can win a prize equal to 50x their bet.\n\nWinning potential\n\nGolden Ticket 2 provides an opportunity for players to potentially win 20,578 times their bet. The cascading symbols feature, multipliers, and bonus rounds all add to the game's winning potential. To achieve the highest payouts, it's ideal to have luck on your side and take advantage of the multipliers that can skyrocket your wins to the stars.\n\nRTP\n\nGolden Ticket 2 has an impressive RTP of 96.5%, well above the standard for online slot machines. This means that players have a good chance of seeing returns on their bets in the long term. Coupled with the game's multiple bonus features and high-value multipliers, this makes for an exciting and potentially lucrative gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Ticket 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nGolden Ticket 2 by Play N Go is a circus-themed slot game that features a 5x5 reel grid and cascading symbols. Players can rack up consecutive wins and increase their final multiplier value thanks to the game's cascading symbols. The game also offers free spin rounds and wild functions that can help players boost their payouts.\n\nGraphics and design\n\nThe graphics and design of Golden Ticket 2 are impressive. The game is modern, intuitive, and easy to play, with bright colors and engaging graphics that capture the attention of players from the first minute. The symbols include classic circus props such as knives, targets, and clowns. The Ringmaster symbol holds the highest value, followed by the knife thrower and the clown. The Wild symbol represents the tent.\n\nBonus features\n\nGolden Ticket 2 has 4 bonus features that players can unlock. The cascading symbols feature increases multipliers, which can combine with wild multipliers and free spin rounds. If players clear an entire bonus row, they can activate a combination of free spins and multipliers. 5 spins with a 3x multiplier, 7 spins with a 2x multiplier, or 9 spins with a 1x multiplier, depending on the number of rows cleared. If players clear the entire grid of symbols, they can win a prize equal to 50x their bet.\n\nWinning potential\n\nGolden Ticket 2 provides an opportunity for players to potentially win 20,578 times their bet. The cascading symbols feature, multipliers, and bonus rounds all add to the game's winning potential. To achieve the highest payouts, it's ideal to have luck on your side and take advantage of the multipliers that can skyrocket your wins to the stars.\n\nRTP\n\nGolden Ticket 2 has an impressive RTP of 96.5%, well above the standard for online slot machines. This means that players have a good chance of seeing returns on their bets in the long term. Coupled with the game's multiple bonus features and high-value multipliers, this makes for an exciting and potentially lucrative gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TUEilroS63iAYYc5JmKD4U6AMGIF",
+                "id": "chatcmpl-7WUCCFCyalfPfiSkq7zasGQVf9r2r",
                 "object": "chat.completion",
-                "created": 1687262096,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 151,
-                    "total_tokens": 755
-                },
+                "created": 1687976924,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Cascading symbols and multipliers boost winning potential\",\n        \"Engaging circus-themed graphics and design\",\n        \"Impressive RTP of 96.5%\",\n        \"4 bonus features, including the chance to win 50x your bet\"\n    ],\n    \"cons\": [\n        \"Only one bonus round can be activated per spin\",\n        \"Some players may find the circus theme overwhelming\"\n    ],\n    \"meta_title\": \"Play Golden Ticket 2 Free | Impressive RTP & Bonus Features\",\n    \"meta_description\": \"Join the circus in Golden Ticket 2 by Play N Go. Cascading symbols & 4 bonus features provide ample winning potential. Play for free at our site.\" \n}"
+                            "content": "{\n   \"pros\":[\n      \"Impressive graphics and design\",\n      \"Engaging gameplay features\",\n      \"Multiple bonus features\",\n      \"High RTP of 96.5%\"\n   ],\n   \"cons\":[\n      \"Limited theme appeal\",\n      \"No progressive jackpot feature\"\n   ],\n   \"meta_title\":\"Play Golden Ticket 2 for Free - Exciting Circus-themed Slot\",\n   \"meta_description\":\"Read our review of Golden Ticket 2 and play for free. Enjoy circus-themed fun and exciting features.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 601,
+                    "completion_tokens": 107,
+                    "total_tokens": 708
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-ticket-2.json"
+    "filename": "game_reviews/translations/golden-ticket-2.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Golden_Ticket_2_that_highligh_906d0f2c-e915-4c3f-8402-821135422beb_2.png",
+        "arved__Create_a_feature_image_for_Golden_Ticket_2_that_highligh_906d0f2c-e915-4c3f-8402-821135422beb_4.png",
+        "arved__Create_a_feature_image_for_Golden_Ticket_2_that_highligh_906d0f2c-e915-4c3f-8402-821135422beb_1.png",
+        "arved__Create_a_feature_image_for_Golden_Ticket_2_that_highligh_906d0f2c-e915-4c3f-8402-821135422beb_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Ticket 2 (Version 3).webp",
+        "game_reviews/processed_images/Golden Ticket 2 (Version 2).webp",
+        "game_reviews/processed_images/Golden Ticket 2 (Version 1).webp",
+        "game_reviews/processed_images/Golden Ticket 2 (Version 4).webp"
+    ],
+    "slug": "golden-ticket-2",
+    "name": "Golden Ticket 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Ticket-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Ticket 2 for Free - Exciting Circus-themed Slot' ### Meta set: 'Read our review of Golden Ticket 2 and play for free. Enjoy circus-themed fun and exciting features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "40 paylines and special display format for unique gameplay",
-                    "Expanding symbols and free bonus spins for increased winnings",
-                    "Minimalistic graphics with a focus on Egyptian symbols",
-                    "96% RTP for a good payout perspective"
+                    "Unique display format of 4x5",
+                    "Expanding symbols and free bonus spins",
+                    "Minimalistic graphics with themed symbols",
+                    "High RTP of around 96%"
                 ],
                 "cons": [
-                    "Limited variety in symbols and graphics",
-                    "Not a significant departure from other Egyptian-themed slot games"
+                    "Limited variety of bonus features",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Sphinx Wild Free: Features, Bonuses, and Payouts",
-                "meta_description": "Discover Sphinx Wild, an ancient Egyptian-themed online slot game with expanding wilds, free spins, and a 96% RTP. Play for free and see if you can win big."
+                "meta_title": "Play Sphinx Wild for Free",
+                "meta_description": "Discover the features and gameplay of Sphinx Wild in this free play review."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Sphinx Wild\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nThe Sphinx Wild slot game features 40 paylines in a special display format of 4x5. In addition to the game's wild symbols, the Sphinx Wild slot also features scatter symbols, expanding symbols, and free bonus spins.\n\nPaylines and display format\n\nSphinx Wild has 40 paylines and a display format of 4x5, making for a unique playing experience.\n\nGraphics and slot symbols\n\nThe graphics of the Sphinx Wild slot adhere to a minimal style that includes symbols such as the pharaoh's sarcophagus, pyramids, fans, sacred objects, amulets, jewelry, and the eye of Ra.\n\nFree bonus spins and expanding symbols\n\nThe expanding wild is the true protagonist of the game, while the free bonus spins offer up to 60 free spins with a x1 multiplier or 14 free spins with a x5 multiplier.\n\nRTP percentage and payout perspective\n\nThe Sphinx Wild slot's Return to Player (RTP) percentage is around 96%, making it undoubtedly interesting from a payout perspective.\n\nAvailability for free play without registration\n\nYou can play Sphinx Wild for free on SlotJava, as well as on hundreds of other slots, all without registering and without downloading any software.\n\nComparison and recommendation with other similar slot games\n\nIf you like slots dedicated to ancient Egypt or the search for their treasures, then Sphinx Wild is a good choice. Alternatively, you might also enjoy the Book of Ra slot game available in a deluxe version on AAMS online casinos. It is worth remembering that you can play the Book of Ra for free on our site, without registration.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Sphinx Wild\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nThe Sphinx Wild slot game features 40 paylines in a special display format of 4x5. In addition to the game's wild symbols, the Sphinx Wild slot also features scatter symbols, expanding symbols, and free bonus spins.\n\nPaylines and display format\n\nSphinx Wild has 40 paylines and a display format of 4x5, making for a unique playing experience.\n\nGraphics and slot symbols\n\nThe graphics of the Sphinx Wild slot adhere to a minimal style that includes symbols such as the pharaoh's sarcophagus, pyramids, fans, sacred objects, amulets, jewelry, and the eye of Ra.\n\nFree bonus spins and expanding symbols\n\nThe expanding wild is the true protagonist of the game, while the free bonus spins offer up to 60 free spins with a x1 multiplier or 14 free spins with a x5 multiplier.\n\nRTP percentage and payout perspective\n\nThe Sphinx Wild slot's Return to Player (RTP) percentage is around 96%, making it undoubtedly interesting from a payout perspective.\n\nAvailability for free play without registration\n\nYou can play Sphinx Wild for free on SlotJava, as well as on hundreds of other slots, all without registering and without downloading any software.\n\nComparison and recommendation with other similar slot games\n\nIf you like slots dedicated to ancient Egypt or the search for their treasures, then Sphinx Wild is a good choice. Alternatively, you might also enjoy the Book of Ra slot game available in a deluxe version on AAMS online casinos. It is worth remembering that you can play the Book of Ra for free on our site, without registration.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QFbnyhDyIfJRro8bm9i5gqm9Bu6l",
+                "id": "chatcmpl-7WcQ6VNcufBSBPPRcCb5yqxoVKqlk",
                 "object": "chat.completion",
-                "created": 1686490883,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 503,
-                    "completion_tokens": 153,
-                    "total_tokens": 656
-                },
+                "created": 1688008538,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"40 paylines and special display format for unique gameplay\",\n        \"Expanding symbols and free bonus spins for increased winnings\",\n        \"Minimalistic graphics with a focus on Egyptian symbols\",\n        \"96% RTP for a good payout perspective\"\n    ],\n    \"cons\": [\n        \"Limited variety in symbols and graphics\",\n        \"Not a significant departure from other Egyptian-themed slot games\"\n    ],\n    \"meta_title\": \"Play Sphinx Wild Free: Features, Bonuses, and Payouts\",\n    \"meta_description\": \"Discover Sphinx Wild, an ancient Egyptian-themed online slot game with expanding wilds, free spins, and a 96% RTP. Play for free and see if you can win big.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique display format of 4x5\",\n    \"Expanding symbols and free bonus spins\",\n    \"Minimalistic graphics with themed symbols\",\n    \"High RTP of around 96%\"\n  ],\n  \"cons\": [\n    \"Limited variety of bonus features\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Sphinx Wild for Free\",\n  \"meta_description\": \"Discover the features and gameplay of Sphinx Wild in this free play review.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 500,
+                    "completion_tokens": 102,
+                    "total_tokens": 602
+                }
             }
         },
         {
@@ -961,6 +961,24 @@
         }
     ],
     "filename": "game_reviews/translations/sphinx-wild.json",
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_1fe1e8d4-ed88-43cd-b02f-c64e149a603f_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_1fe1e8d4-ed88-43cd-b02f-c64e149a603f_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7896a7c7-dd61-4801-a2c1-b95555095386_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7896a7c7-dd61-4801-a2c1-b95555095386_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7896a7c7-dd61-4801-a2c1-b95555095386_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_1fe1e8d4-ed88-43cd-b02f-c64e149a603f_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_1fe1e8d4-ed88-43cd-b02f-c64e149a603f_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7896a7c7-dd61-4801-a2c1-b95555095386_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Sphinx Wild (Version 6).webp",
+        "game_reviews/processed_images/Sphinx Wild (Version 8).webp",
+        "game_reviews/processed_images/Sphinx Wild (Version 7).webp",
+        "game_reviews/processed_images/Sphinx Wild (Version 5).webp"
+    ],
+    "slug": "sphinx-wild",
+    "name": "Sphinx Wild",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay, suitable for different types of players",
-                    "Book of the Sphinx symbol, high payout of up to 4000 times initial bet",
-                    "Thematic symbols and simple graphics add to the game's appeal",
-                    "Gamble feature adds a layer of excitement to the game"
+                    "Engaging gameplay with a simple interface",
+                    "High-quality graphics and smooth animations",
+                    "Exciting Gamble feature for adrenaline junkies",
+                    "Suitable for players of all budgets"
                 ],
                 "cons": [
-                    "Graphics may be too basic for some players",
-                    "Maximum bet of €200 may not be high enough for high rollers"
+                    "Basic graphics may not appeal to everyone",
+                    "Gamble feature can result in total loss of winnings"
                 ],
-                "meta_title": "Play Book of the Sphinx for Free – Review & Bonus Offers",
-                "meta_description": "Read our review of Book of the Sphinx online slot game. Play for free and discover bonus offers. Suitable for all players. Try your luck now!"
+                "meta_title": "Play Book of the Sphinx Free | Exciting Egyptian Themed Slot Game",
+                "meta_description": "Experience the adventure of Ancient Egypt with Book of the Sphinx. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of the Sphinx\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of the Sphinx slot game\n\nBook of the Sphinx is a slot game developed by Spielo that is based on the theme of Ancient Egypt. It is a 5-reel, 20-payline slot machine that allows for a maximum bet of €200. The game has a simple gameplay and graphics that are well done, albeit basic. However, the slot is capable of engaging both old and new players alike.\n\nGameplay and symbols\n\nBook of the Sphinx features both regular symbols and thematic symbols. The lower value symbols include poker cards, while the higher value symbols consist of Egyptian tablets with hieroglyphics, the deity Anobi, the Ankh, the golden scarab, and the pharaoh's sarcophagus, which has the highest payout of up to 2500 times the initial bet. The true protagonist of the game is the Book of the Sphinx symbol, which serves as both wild and scatter, allowing for the completion of a winning combination and access to free spins, up to a maximum of 30. It is also the highest paying symbol, with the value of the prize amounting to a remarkable 4000 times the initial bet if it appears on all five reels.\n\nImportance of Book of the Sphinx symbol\n\nThe Book of the Sphinx symbol plays a vital role in the game. As Wild, it replaces all other symbols to complete a win, as Scatter, it allows access to free spins, and as a special symbol, it has the highest payout of up to 4000 times the initial bet if it appears on all five reels. It is a symbol that provides players with the best chance of winning big and is one that players should keep an eye out for.\n\nGamble feature\n\nBook of the Sphinx comes with a Gamble feature that is suited for players who enjoy adrenaline rushes. After a win of any amount, a face-down playing card appears on the screen, and players have to guess its color. If the guess is correct, the win will be doubled, while an incorrect guess will result in a total loss of the win.\n\nSuitability for all players\n\nBook of the Sphinx is a game that is suitable for both players who appreciate the playful aspect of slots and do not like to invest large sums and for bolder players who like to make substantial bets in an attempt to win big. The wide range of bets ensures that all players can enjoy the game, regardless of their bankroll.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of the Sphinx\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBook of the Sphinx slot game\n\nBook of the Sphinx is a slot game developed by Spielo that is based on the theme of Ancient Egypt. It is a 5-reel, 20-payline slot machine that allows for a maximum bet of €200. The game has a simple gameplay and graphics that are well done, albeit basic. However, the slot is capable of engaging both old and new players alike.\n\nGameplay and symbols\n\nBook of the Sphinx features both regular symbols and thematic symbols. The lower value symbols include poker cards, while the higher value symbols consist of Egyptian tablets with hieroglyphics, the deity Anobi, the Ankh, the golden scarab, and the pharaoh's sarcophagus, which has the highest payout of up to 2500 times the initial bet. The true protagonist of the game is the Book of the Sphinx symbol, which serves as both wild and scatter, allowing for the completion of a winning combination and access to free spins, up to a maximum of 30. It is also the highest paying symbol, with the value of the prize amounting to a remarkable 4000 times the initial bet if it appears on all five reels.\n\nImportance of Book of the Sphinx symbol\n\nThe Book of the Sphinx symbol plays a vital role in the game. As Wild, it replaces all other symbols to complete a win, as Scatter, it allows access to free spins, and as a special symbol, it has the highest payout of up to 4000 times the initial bet if it appears on all five reels. It is a symbol that provides players with the best chance of winning big and is one that players should keep an eye out for.\n\nGamble feature\n\nBook of the Sphinx comes with a Gamble feature that is suited for players who enjoy adrenaline rushes. After a win of any amount, a face-down playing card appears on the screen, and players have to guess its color. If the guess is correct, the win will be doubled, while an incorrect guess will result in a total loss of the win.\n\nSuitability for all players\n\nBook of the Sphinx is a game that is suitable for both players who appreciate the playful aspect of slots and do not like to invest large sums and for bolder players who like to make substantial bets in an attempt to win big. The wide range of bets ensures that all players can enjoy the game, regardless of their bankroll.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SlEQSf9Wlweg4yX89p3GuxDBdH3R",
+                "id": "chatcmpl-7WPCStl35VM68x301d72Gl827aOff",
                 "object": "chat.completion",
-                "created": 1687089098,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 669,
-                    "completion_tokens": 162,
-                    "total_tokens": 831
-                },
+                "created": 1687957720,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging gameplay, suitable for different types of players\",\n        \"Book of the Sphinx symbol, high payout of up to 4000 times initial bet\",\n        \"Thematic symbols and simple graphics add to the game's appeal\",\n        \"Gamble feature adds a layer of excitement to the game\"\n    ],\n    \"cons\": [\n        \"Graphics may be too basic for some players\",\n        \"Maximum bet of €200 may not be high enough for high rollers\"\n    ],\n    \"meta_title\": \"Play Book of the Sphinx for Free – Review & Bonus Offers\",\n    \"meta_description\": \"Read our review of Book of the Sphinx online slot game. Play for free and discover bonus offers. Suitable for all players. Try your luck now!\" \n}"
+                            "content": "{\n\"pros\": [\n\"Engaging gameplay with a simple interface\",\n\"High-quality graphics and smooth animations\",\n\"Exciting Gamble feature for adrenaline junkies\",\n\"Suitable for players of all budgets\"\n],\n\"cons\": [\n\"Basic graphics may not appeal to everyone\",\n\"Gamble feature can result in total loss of winnings\"\n],\n\"meta_title\": \"Play Book of the Sphinx Free | Exciting Egyptian Themed Slot Game\",\n\"meta_description\": \"Experience the adventure of Ancient Egypt with Book of the Sphinx. Play for free and win big!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 666,
+                    "completion_tokens": 115,
+                    "total_tokens": 781
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_4.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_2.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_1.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_3.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_4.png"
+        "arved__Please_create_a_cartoon-style_feature_image_for_Book_of__2d24a1d8-c39a-43dc-b642-82e472d2333a_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Book Of The Sphinx (Version 2).webp",
         "game_reviews/processed_images/Book Of The Sphinx (Version 4).webp",
-        "game_reviews/processed_images/Book Of The Sphinx (Version 1).webp",
         "game_reviews/processed_images/Book Of The Sphinx (Version 3).webp",
-        "game_reviews/processed_images/Book Of The Sphinx (Version 2).webp"
+        "game_reviews/processed_images/Book Of The Sphinx (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/book-of-the-sphinx.json"
+    "filename": "game_reviews/translations/book-of-the-sphinx.json",
+    "slug": "book-of-the-sphinx",
+    "name": "Book of the Sphinx",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Book-Of-The-Sphinx-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of the Sphinx Free | Exciting Egyptian Themed Slot Game' ### Meta set: 'Experience the adventure of Ancient Egypt with Book of the Sphinx. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Pleasant musical component with electronic sounds and flutes",
-                    "Symbols and paylines are clearly visible and straightforward",
-                    "Autoplay feature allows for a more hands-off approach to playing slots",
-                    "Higher bet amounts increase chances of winning and potential winnings"
+                    "Classic fruit-themed slot game",
+                    "Pleasant musical component",
+                    "Autoplay feature for convenient gameplay",
+                    "Clear and straightforward symbols and paylines"
                 ],
                 "cons": [
-                    "Bare internal menu lacks information on volatility and RTP",
-                    "Limited number of paylines (only 5)"
+                    "Limited information in the internal menu",
+                    "Lack of volatility and RTP details"
                 ],
-                "meta_title": "Play Fetching Fruits for Free - A Classic 5x3 Fruit-Themed Slot",
-                "meta_description": "Explore this classic 5x3 fruit-themed slot, Fetching Fruits by NewAge Games. Enjoy pleasant music and high-level symbols with win potential. Play for free now!"
+                "meta_title": "Play Fetching Fruits Free - Classic Fruit-Themed Slot Game",
+                "meta_description": "Read our review of Fetching Fruits and play this classic fruit-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fetching Fruits\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nFetching Fruits by NewAge Games is a classic 5×3 fruit-themed slot game with a black screen background that gives way to the purple color of the reels. The paylines are indicated on either side of the grid, and at the bottom, players can find the Start button, the Autoplay feature, the bet adjuster, the button to make the maximum bet, the amount of instant and total winnings, and icons to turn off the music, access the internal menu and return to the initial screen. The musical component is pleasant, with a motif of electronic sounds and flutes and some special effects on occasion of wins.\n\nSymbols and Paylines\n\nFetching Fruits has nine symbols, divided into low-level ones that pay less and high-level ones that offer significant rewards. The low-level symbols include cherries, lemons, and the numbers 9 and 10. The high-level symbols include plum, watermelon, orange, and bell. Winning combinations develop from the first reel on the left moving to the right. There are five fixed paylines, and players win by combining 3 to 5 identical symbols. The minimum bet is €0.05, and the maximum bet is €10. The more players bet, the more chances they have of winning, with increasing winnings as the initial bet increases.\n\nBetting Options\n\nIn Fetching Fruits, players can choose their bet amount from €0.05, €0.10, €0.20, €0.50, €1, €2.50, €5, and €10. The minimum bet is €0.05, and the maximum bet is €10. The higher the bet, the higher the winnings, with a chance of hitting dizzying sums. Winning combinations develop from the first reel on the left moving to the right.\n\nAutoplay Feature\n\nFetching Fruits offers an Autoplay feature that allows players to select between 10 and 100 automatic spins, with win or loss limits that, when reached, return the game to manual mode. This feature is useful for those who prefer a more hands-off approach to playing slots.\n\nMenu and Information\n\nFetching Fruits has a bare internal menu that may not be very useful for all players. It lacks information on volatility and RTP. However, the symbols and paylines are clearly visible and straightforward, making it easy for players to understand the game. Clickable icons on the screen allow players to turn off the music, access the internal menu, and return to the initial screen.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fetching Fruits\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nFetching Fruits by NewAge Games is a classic 5×3 fruit-themed slot game with a black screen background that gives way to the purple color of the reels. The paylines are indicated on either side of the grid, and at the bottom, players can find the Start button, the Autoplay feature, the bet adjuster, the button to make the maximum bet, the amount of instant and total winnings, and icons to turn off the music, access the internal menu and return to the initial screen. The musical component is pleasant, with a motif of electronic sounds and flutes and some special effects on occasion of wins.\n\nSymbols and Paylines\n\nFetching Fruits has nine symbols, divided into low-level ones that pay less and high-level ones that offer significant rewards. The low-level symbols include cherries, lemons, and the numbers 9 and 10. The high-level symbols include plum, watermelon, orange, and bell. Winning combinations develop from the first reel on the left moving to the right. There are five fixed paylines, and players win by combining 3 to 5 identical symbols. The minimum bet is €0.05, and the maximum bet is €10. The more players bet, the more chances they have of winning, with increasing winnings as the initial bet increases.\n\nBetting Options\n\nIn Fetching Fruits, players can choose their bet amount from €0.05, €0.10, €0.20, €0.50, €1, €2.50, €5, and €10. The minimum bet is €0.05, and the maximum bet is €10. The higher the bet, the higher the winnings, with a chance of hitting dizzying sums. Winning combinations develop from the first reel on the left moving to the right.\n\nAutoplay Feature\n\nFetching Fruits offers an Autoplay feature that allows players to select between 10 and 100 automatic spins, with win or loss limits that, when reached, return the game to manual mode. This feature is useful for those who prefer a more hands-off approach to playing slots.\n\nMenu and Information\n\nFetching Fruits has a bare internal menu that may not be very useful for all players. It lacks information on volatility and RTP. However, the symbols and paylines are clearly visible and straightforward, making it easy for players to understand the game. Clickable icons on the screen allow players to turn off the music, access the internal menu, and return to the initial screen.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEpV8EExXxw17rqpoXGWnj6WUnWs",
+                "id": "chatcmpl-7WSeaiIydHVipIwhSxwGPvUr5qx2L",
                 "object": "chat.completion",
-                "created": 1687202873,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 690,
-                    "completion_tokens": 165,
-                    "total_tokens": 855
-                },
+                "created": 1687970996,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Pleasant musical component with electronic sounds and flutes\",\n        \"Symbols and paylines are clearly visible and straightforward\",\n        \"Autoplay feature allows for a more hands-off approach to playing slots\",\n        \"Higher bet amounts increase chances of winning and potential winnings\"\n    ],\n    \"cons\": [\n        \"Bare internal menu lacks information on volatility and RTP\",\n        \"Limited number of paylines (only 5)\"\n    ],\n    \"meta_title\": \"Play Fetching Fruits for Free - A Classic 5x3 Fruit-Themed Slot\",\n    \"meta_description\": \"Explore this classic 5x3 fruit-themed slot, Fetching Fruits by NewAge Games. Enjoy pleasant music and high-level symbols with win potential. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic fruit-themed slot game\",\n    \"Pleasant musical component\",\n    \"Autoplay feature for convenient gameplay\",\n    \"Clear and straightforward symbols and paylines\"\n  ],\n  \"cons\": [\n    \"Limited information in the internal menu\",\n    \"Lack of volatility and RTP details\"\n  ],\n  \"meta_title\": \"Play Fetching Fruits Free - Classic Fruit-Themed Slot Game\",\n  \"meta_description\": \"Read our review of Fetching Fruits and play this classic fruit-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 687,
+                    "completion_tokens": 116,
+                    "total_tokens": 803
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fetching-fruits.json"
+    "filename": "game_reviews/translations/fetching-fruits.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Fetching_Fru_970654dd-8470-449a-a16e-2d5cfc0ae428_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Fetching_Fru_970654dd-8470-449a-a16e-2d5cfc0ae428_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Fetching_Fru_970654dd-8470-449a-a16e-2d5cfc0ae428_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Fetching_Fru_970654dd-8470-449a-a16e-2d5cfc0ae428_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fetching-fruits",
+    "name": "Fetching Fruits",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fetching-fruits_featured-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fetching Fruits Free - Classic Fruit-Themed Slot Game' ### Meta set: 'Read our review of Fetching Fruits and play this classic fruit-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

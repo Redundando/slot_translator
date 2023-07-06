@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Simple and easy-to-understand gameplay",
-                    "40 fixed pay lines",
-                    "Appealing to both beginners and high rollers",
-                    "Sleek graphics with well-defined symbols"
+                    "Wide range of betting options",
+                    "Sleek graphics with well-defined symbols",
+                    "Ability to double winnings"
                 ],
                 "cons": [
                     "Low RTP compared to other slot machines",
                     "Limited sound effects"
                 ],
-                "meta_title": "Play Golden 7s for free - Review of Gameplay, Paylines, RTP, and More",
-                "meta_description": "Discover Golden 7s, a slot game with 40 paylines and appealing betting ranges for both beginners and high rollers. Play for free and read our review."
+                "meta_title": "Play Golden 7s Free - Exciting Slot Game",
+                "meta_description": "Play Golden 7s for free and experience simple gameplay, sleek graphics, and the chance to double your winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden 7s\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGolden 7s offers a simple and easy-to-understand gameplay with a classic grid of 5 reels and 4 rows. The Start button, Settings wheel, Betting level, and other buttons (Bet and Cash out) are located at the sides of the screen and only appear between spins. Players can select automatic spins from a minimum of 5 to a maximum of 100 by holding down the Start button. The slot machine also offers the option to activate Turbo and Left-Handed Game from the settings.\n\nPay lines and Betting\n\nThere are 40 fixed pay lines in Golden 7s, and the minimum total bet accepted is €0.20, while the maximum is €80. This wide range of bets makes it appealing to both beginners and players with greater risk preferences. Note that to activate automatic spins, players must input the win or loss limits beyond which the spins will stop.\n\nGraphics and Sound Effects\n\nThe graphics of Golden 7s are sleek, with well-defined symbols popping against the completely black background. The sound effects are not particularly extensive, only accompanied by a background music running alongside the mechanical sounds of the spinning reels.\n\nSymbols and Payouts\n\nAll winning combinations in Golden 7s require at least 3 identical symbols, and only those from left to right are winning, except for the special symbol that can appear in any position. The symbols with the lowest value are the cherries, lemon, and orange, followed by plum, grape clusters, watermelon, and the red 7. The highest-paying symbol overall is the star, which results in a win of €500 for 5 identical symbols. The golden 7 rewards with €4, taking into account the minimum stake placed. The wild symbol of the slot serves as the wild card and replaces all the numbers except for the star. Players can double their winnings progressively by clicking on the pile of amounts that appear when they press the Bet button.\n\nRTP\n\nThe RTP of Golden 7s is 94%, which may be considered low compared to other slot machines. However, it is important to remember that this is a theoretical figure that affects only large numbers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden 7s\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGolden 7s offers a simple and easy-to-understand gameplay with a classic grid of 5 reels and 4 rows. The Start button, Settings wheel, Betting level, and other buttons (Bet and Cash out) are located at the sides of the screen and only appear between spins. Players can select automatic spins from a minimum of 5 to a maximum of 100 by holding down the Start button. The slot machine also offers the option to activate Turbo and Left-Handed Game from the settings.\n\nPay lines and Betting\n\nThere are 40 fixed pay lines in Golden 7s, and the minimum total bet accepted is €0.20, while the maximum is €80. This wide range of bets makes it appealing to both beginners and players with greater risk preferences. Note that to activate automatic spins, players must input the win or loss limits beyond which the spins will stop.\n\nGraphics and Sound Effects\n\nThe graphics of Golden 7s are sleek, with well-defined symbols popping against the completely black background. The sound effects are not particularly extensive, only accompanied by a background music running alongside the mechanical sounds of the spinning reels.\n\nSymbols and Payouts\n\nAll winning combinations in Golden 7s require at least 3 identical symbols, and only those from left to right are winning, except for the special symbol that can appear in any position. The symbols with the lowest value are the cherries, lemon, and orange, followed by plum, grape clusters, watermelon, and the red 7. The highest-paying symbol overall is the star, which results in a win of €500 for 5 identical symbols. The golden 7 rewards with €4, taking into account the minimum stake placed. The wild symbol of the slot serves as the wild card and replaces all the numbers except for the star. Players can double their winnings progressively by clicking on the pile of amounts that appear when they press the Bet button.\n\nRTP\n\nThe RTP of Golden 7s is 94%, which may be considered low compared to other slot machines. However, it is important to remember that this is a theoretical figure that affects only large numbers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TSc9DiqwoIHG8lx2rENTIYqgygZD",
+                "id": "chatcmpl-7WU2JZmsCLqMV09d84TvnBsDTHKVk",
                 "object": "chat.completion",
-                "created": 1687255861,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 616,
-                    "completion_tokens": 138,
-                    "total_tokens": 754
-                },
+                "created": 1687976311,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and easy-to-understand gameplay\",\n        \"40 fixed pay lines\",\n        \"Appealing to both beginners and high rollers\",\n        \"Sleek graphics with well-defined symbols\"\n    ],\n    \"cons\": [\n        \"Low RTP compared to other slot machines\",\n        \"Limited sound effects\"\n    ],\n    \"meta_title\": \"Play Golden 7s for free - Review of Gameplay, Paylines, RTP, and More\",\n    \"meta_description\": \"Discover Golden 7s, a slot game with 40 paylines and appealing betting ranges for both beginners and high rollers. Play for free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and easy-to-understand gameplay\",\n    \"Wide range of betting options\",\n    \"Sleek graphics with well-defined symbols\",\n    \"Ability to double winnings\"\n  ],\n  \"cons\": [\n    \"Low RTP compared to other slot machines\",\n    \"Limited sound effects\"\n  ],\n  \"meta_title\": \"Play Golden 7s Free - Exciting Slot Game\",\n  \"meta_description\": \"Play Golden 7s for free and experience simple gameplay, sleek graphics, and the chance to double your winnings.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 613,
+                    "completion_tokens": 116,
+                    "total_tokens": 729
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-7s.json"
+    "filename": "game_reviews/translations/golden-7s.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Golden_7s_in_a__abdd825e-a0c0-492d-8b94-e2db12536dca_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Golden_7s_in_a__abdd825e-a0c0-492d-8b94-e2db12536dca_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Golden_7s_in_a__abdd825e-a0c0-492d-8b94-e2db12536dca_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Golden_7s_in_a__abdd825e-a0c0-492d-8b94-e2db12536dca_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden 7S (Version 4).webp",
+        "game_reviews/processed_images/Golden 7S (Version 1).webp",
+        "game_reviews/processed_images/Golden 7S (Version 2).webp",
+        "game_reviews/processed_images/Golden 7S (Version 3).webp"
+    ],
+    "slug": "golden-7s",
+    "name": "Golden 7s",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-7S-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden 7s Free - Exciting Slot Game' ### Meta set: 'Play Golden 7s for free and experience simple gameplay, sleek graphics, and the chance to double your winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Up to 15,625 ways to win",
-                    "Potential jackpot of 10,000 times the bet",
-                    "Wild symbol behaves as an expandable symbol during free spins",
-                    "Thematic symbols related to Ancient Egypt culture"
+                    "Megaways gaming system adds excitement to gameplay",
+                    "Impressive winning potential with up to 10,000x bet",
+                    "High-quality graphics and modernized design",
+                    "Free spins feature with expandable Wild symbol for big wins"
                 ],
                 "cons": [
-                    "No bonus games outside of free spins",
-                    "Non-themed regular symbols have low payout"
+                    "Limited extra features beyond the free spins",
+                    "Theme of Ancient Egypt may feel overused for some players"
                 ],
-                "meta_title": "Play Eye of Horus Megaways Free: A Modernized Ancient Egypt Slot",
-                "meta_description": "Read our review of Eye of Horus Megaways and play it for free. Experience the modern version of an Ancient Egypt slot with up to 15,625 ways to win."
+                "meta_title": "Play Eye of Horus Megaways for Free - Review",
+                "meta_description": "Find out all about Eye of Horus Megaways and play for free. Review of gameplay, features, and winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Eye of Horus Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEye of Horus Megaways is a modernized version of the historic slot Eye of Horus, featuring six reels, five lines, and 15,625 different ways to win. Wins are obtained with a combination of at least three identical symbols on adjacent reels from left to right. The game has a fairly articulated gameplay, made special by the recent Megaways gaming system.\n\nTheme and Design\n\nThe slot's theme is Ancient Egypt, a commonly used theme in the world of slot machines. Blueprint has maintained the style and images of the previous version, updating them, and making them more modern. The graphic department's focus is mainly on the new slot's gameplay mode.\n\nWinning Potential and Jackpots\n\nPlayers can win up to 10,000 times the bet with Eye of Horus Megaways. The Wild symbol (the Eye of Horus) during free spins behaves as an expandable symbol on all six reels, determining the most substantial wins. The Scatter symbol gives free spins and also multipliers for winnings up to one hundred times the initial bet.\n\nSymbols and Paytable\n\nPlayers can check the paytable for the value of all symbols in advance. Non-themed regular symbols include playing card symbols from J to Ace, which determine a maximum win equal to 0.4 times the initial bet. Thematic symbols related to the culture of Ancient Egypt include the Ankh cross, the sacred blue scarab, the falcon, the god Anubi, and of course, the Eye of Horus, which is also the game's Wild and can substitute for all other symbols to complete winning combinations.\n\nFree Spins Feature\n\nThe game's only extra feature is the free spins. Players can activate 12 free spins if three to six Scatters (the golden temple) appear on the reels, and more (up to five) will be awarded each time the Wild symbol appears during the free spins. The Wild symbol behaves as an expandable symbol on all six reels, determining the most substantial wins, up to a jackpot of 10,000 times the bet!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Eye of Horus Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nEye of Horus Megaways is a modernized version of the historic slot Eye of Horus, featuring six reels, five lines, and 15,625 different ways to win. Wins are obtained with a combination of at least three identical symbols on adjacent reels from left to right. The game has a fairly articulated gameplay, made special by the recent Megaways gaming system.\n\nTheme and Design\n\nThe slot's theme is Ancient Egypt, a commonly used theme in the world of slot machines. Blueprint has maintained the style and images of the previous version, updating them, and making them more modern. The graphic department's focus is mainly on the new slot's gameplay mode.\n\nWinning Potential and Jackpots\n\nPlayers can win up to 10,000 times the bet with Eye of Horus Megaways. The Wild symbol (the Eye of Horus) during free spins behaves as an expandable symbol on all six reels, determining the most substantial wins. The Scatter symbol gives free spins and also multipliers for winnings up to one hundred times the initial bet.\n\nSymbols and Paytable\n\nPlayers can check the paytable for the value of all symbols in advance. Non-themed regular symbols include playing card symbols from J to Ace, which determine a maximum win equal to 0.4 times the initial bet. Thematic symbols related to the culture of Ancient Egypt include the Ankh cross, the sacred blue scarab, the falcon, the god Anubi, and of course, the Eye of Horus, which is also the game's Wild and can substitute for all other symbols to complete winning combinations.\n\nFree Spins Feature\n\nThe game's only extra feature is the free spins. Players can activate 12 free spins if three to six Scatters (the golden temple) appear on the reels, and more (up to five) will be awarded each time the Wild symbol appears during the free spins. The Wild symbol behaves as an expandable symbol on all six reels, determining the most substantial wins, up to a jackpot of 10,000 times the bet!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TDbDEkbC6ztaMgiisLO1ee2tXEJx",
+                "id": "chatcmpl-7WSVNs1dM0p1MUkVJowew0uzIAGnv",
                 "object": "chat.completion",
-                "created": 1687198143,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 602,
-                    "completion_tokens": 152,
-                    "total_tokens": 754
-                },
+                "created": 1687970425,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Up to 15,625 ways to win\",\n        \"Potential jackpot of 10,000 times the bet\",\n        \"Wild symbol behaves as an expandable symbol during free spins\",\n        \"Thematic symbols related to Ancient Egypt culture\"\n    ],\n    \"cons\": [\n        \"No bonus games outside of free spins\",\n        \"Non-themed regular symbols have low payout\"\n    ],\n    \"meta_title\": \"Play Eye of Horus Megaways Free: A Modernized Ancient Egypt Slot\",\n    \"meta_description\": \"Read our review of Eye of Horus Megaways and play it for free. Experience the modern version of an Ancient Egypt slot with up to 15,625 ways to win.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Megaways gaming system adds excitement to gameplay\",\n    \"Impressive winning potential with up to 10,000x bet\",\n    \"High-quality graphics and modernized design\",\n    \"Free spins feature with expandable Wild symbol for big wins\"\n  ],\n  \"cons\": [\n    \"Limited extra features beyond the free spins\",\n    \"Theme of Ancient Egypt may feel overused for some players\"\n  ],\n  \"meta_title\": \"Play Eye of Horus Megaways for Free - Review\",\n  \"meta_description\": \"Find out all about Eye of Horus Megaways and play for free. Review of gameplay, features, and winning potential.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 599,
+                    "completion_tokens": 141,
+                    "total_tokens": 740
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/eye-of-horus-megaways.json"
+    "filename": "game_reviews/translations/eye-of-horus-megaways.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Eye_of_Horus_Megaways__fa2a07ea-e548-4508-b66d-cdcba385bb82_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Eye_of_Horus_Megaways__fa2a07ea-e548-4508-b66d-cdcba385bb82_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Eye_of_Horus_Megaways__fa2a07ea-e548-4508-b66d-cdcba385bb82_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Eye_of_Horus_Megaways__fa2a07ea-e548-4508-b66d-cdcba385bb82_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "eye-of-horus-megaways",
+    "name": "Eye of Horus Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/eye-of-horus-megaways_gratis-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Eye of Horus Megaways for Free - Review' ### Meta set: 'Find out all about Eye of Horus Megaways and play for free. Review of gameplay, features, and winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Mexican-themed with typical elements and colors",
-                    "Good illustrations that add to the gaming experience",
-                    "Features a Wild and a Scatter symbol",
-                    "Medium volatile with an RTP of 95.08%"
+                    "Authentic Mexican theme",
+                    "Beautiful illustrations",
+                    "Exciting gameplay mechanics",
+                    "Chance to win random prizes"
                 ],
                 "cons": [
-                    "Low-value winnings could lead to an unnoticed drop in the game's balance",
-                    "Melody could be overshadowed by pronounced sound effects"
+                    "Low-value winnings",
+                    "Pronounced sound effects"
                 ],
-                "meta_title": "Play La Messicana Slot for Free - Review 2021",
-                "meta_description": "Read our honest review of La Messicana by Cristaltec. Play this Mexican-themed slot for free, including pros and cons and similar slots suggestions."
+                "meta_title": "Play La Messicana for Free - Exciting Mexican Slot Game",
+                "meta_description": "Read our review of La Messicana and play this exciting Mexican-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"La Messicana\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme\n\nLa Messicana by Cristaltec is a slot game inspired by the dias de los muertos festival celebrated in Mexico. The game is filled with typical Mexican elements and colors reproduced in dark blue and purple tones.\n\nGraphics and Sound\n\nLa Messicana features illustrations that add to the gaming experience without detracting from it. The game is set at night, and the symbols and background reproduce the colors typical of the festival of the dead. The game is accompanied by a melody that is overshadowed by pronounced sound effects.\n\nGameplay\n\nLa Messicana is of the 5x3 type, and its RTP of 95.08% is medium volatile. During gameplay, players should keep an eye on their winnings, as they could be of low value and lead to an unnoticed drop in their game balance. The game features a Moon symbol, which is the Wild, and can replace all other regular symbols. The La Messicana title symbol is the Scatter, and finding at least three will allow players to choose one of five colored skulls to reveal a random win.\n\nSymbols and Features\n\nLa Messicana features symbols that allude to the festival of the dead, such as candles and face painting, as well as other typically Mexican elements like the guitar of the mariachi. The game's Wild symbol is the Moon, while the La Messicana title symbol is the Scatter. By finding at least three scatter symbols, players can choose one of five colored skulls that will reveal a random win.\n\nSimilar Slots\n\nFor those who enjoy Mexican-themed games, Sweet Chilli Electric Cash is another option besides La Messicana. Additionally, for those who prefer gameplay mechanics similar to La Messicana, Cristaltec offers slots such as Incas Return, Fever, Ork, and Malice.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"La Messicana\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme\n\nLa Messicana by Cristaltec is a slot game inspired by the dias de los muertos festival celebrated in Mexico. The game is filled with typical Mexican elements and colors reproduced in dark blue and purple tones.\n\nGraphics and Sound\n\nLa Messicana features illustrations that add to the gaming experience without detracting from it. The game is set at night, and the symbols and background reproduce the colors typical of the festival of the dead. The game is accompanied by a melody that is overshadowed by pronounced sound effects.\n\nGameplay\n\nLa Messicana is of the 5x3 type, and its RTP of 95.08% is medium volatile. During gameplay, players should keep an eye on their winnings, as they could be of low value and lead to an unnoticed drop in their game balance. The game features a Moon symbol, which is the Wild, and can replace all other regular symbols. The La Messicana title symbol is the Scatter, and finding at least three will allow players to choose one of five colored skulls to reveal a random win.\n\nSymbols and Features\n\nLa Messicana features symbols that allude to the festival of the dead, such as candles and face painting, as well as other typically Mexican elements like the guitar of the mariachi. The game's Wild symbol is the Moon, while the La Messicana title symbol is the Scatter. By finding at least three scatter symbols, players can choose one of five colored skulls that will reveal a random win.\n\nSimilar Slots\n\nFor those who enjoy Mexican-themed games, Sweet Chilli Electric Cash is another option besides La Messicana. Additionally, for those who prefer gameplay mechanics similar to La Messicana, Cristaltec offers slots such as Incas Return, Fever, Ork, and Malice.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tzej6PDSmXCdw3aqgP8rlK1dPcP0",
+                "id": "chatcmpl-7WW9YsCDo7ez6rsTEcExXtLIkA65Y",
                 "object": "chat.completion",
-                "created": 1687382873,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984448,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Mexican-themed with typical elements and colors\",\n        \"Good illustrations that add to the gaming experience\",\n        \"Features a Wild and a Scatter symbol\",\n        \"Medium volatile with an RTP of 95.08%\"\n    ],\n    \"cons\": [\n        \"Low-value winnings could lead to an unnoticed drop in the game's balance\",\n        \"Melody could be overshadowed by pronounced sound effects\"\n    ],\n    \"meta_title\": \"Play La Messicana Slot for Free - Review 2021\",\n    \"meta_description\": \"Read our honest review of La Messicana by Cristaltec. Play this Mexican-themed slot for free, including pros and cons and similar slots suggestions.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Authentic Mexican theme\",\n    \"Beautiful illustrations\",\n    \"Exciting gameplay mechanics\",\n    \"Chance to win random prizes\"\n  ],\n  \"cons\": [\n    \"Low-value winnings\",\n    \"Pronounced sound effects\"\n  ],\n  \"meta_title\": \"Play La Messicana for Free - Exciting Mexican Slot Game\",\n  \"meta_description\": \"Read our review of La Messicana and play this exciting Mexican-themed slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 534,
-                    "completion_tokens": 148,
-                    "total_tokens": 682
+                    "prompt_tokens": 531,
+                    "completion_tokens": 101,
+                    "total_tokens": 632
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/la-messicana.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_La_Messicana_th_41de505f-763c-4a4e-9fca-58d0e47b102a_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_La_Messicana_th_41de505f-763c-4a4e-9fca-58d0e47b102a_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_La_Messicana_th_41de505f-763c-4a4e-9fca-58d0e47b102a_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_La_Messicana_th_41de505f-763c-4a4e-9fca-58d0e47b102a_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/La Messicana (Version 2).webp",
+        "game_reviews/processed_images/La Messicana (Version 3).webp",
+        "game_reviews/processed_images/La Messicana (Version 4).webp",
+        "game_reviews/processed_images/La Messicana (Version 1).webp"
+    ],
+    "slug": "la-messicana",
+    "name": "La Messicana",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/La-Messicana-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play La Messicana for Free - Exciting Mexican Slot Game' ### Meta set: 'Read our review of La Messicana and play this exciting Mexican-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

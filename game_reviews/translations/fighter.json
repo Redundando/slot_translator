@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Easy to learn and play",
+                    "Ability to bet and withdraw winnings at your own discretion",
                     "Instant rewards",
-                    "Offers a unique and engaging gameplay experience",
-                    "Simple, minimalist graphics"
+                    "Unique gameplay that appeals to different types of players",
+                    "Opportunity to steal the jackpot from opponents"
                 ],
                 "cons": [
-                    "No traditional bonuses such as free spins or wild symbols",
-                    "Fixed RTP of 95% is average in the market"
+                    "Lack of traditional bonuses like free spins or wild symbols",
+                    "Simple graphics with minimal visual elements"
                 ],
-                "meta_title": "Play Fighter Slot for Free - A Unique Slot Experience",
-                "meta_description": "Read our review of Fighter slot game. Play for free and enjoy a unique gameplay experience with instant rewards and a chance to win the jackpot."
+                "meta_title": "Play Fighter - Free Online Slot Game",
+                "meta_description": "Read our review of Fighter, a free online slot game with unique gameplay and instant rewards."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fighter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFighter is a slot game that doesn't require any direct interaction, but it allows you to bet as and when you want, with the possibility of deciding when to withdraw your winnings. It's not a classic traditional slot, but it could appeal to and attract different types of players. With this slottery, you can bet and receive instant rewards. You just need to figure out how and when to bet on your plane and observe its flight path until its landing. However, try to avoid obstacles and unpleasant high-altitude limitations. The gameplay is like a timed race that only the most patient can win.\n\nRTP\n\nFighter has a fixed RTP of 95%, which is around average in the online slot games market.\n\nBonuses\n\nThere are no traditional bonuses in Fighter, such as free spins or wild symbols. However, there is a fuel bonus that can award players with 20%, 40%, or 60% extra winnings if the plane stays in the air until refueling. Additionally, if a player manages to be the absolute best, they can steal the jackpot from their opponents.\n\nGraphics\n\nThe graphics in Fighter are simple, with a control computer interface from which to apply bets and possible withdrawals. The plane's flight path is depicted, but there are few other visual elements. The design is minimalistic and straightforward, without excess or unnecessary animations.\n\nFeatures\n\nFighter does not have any traditional slot game features, such as wild symbols, scatters, or free spins. Instead, the game offers players the chance to bet at any time and to try to increase their winnings with the offered multipliers. Players can also check other players' bets and decide how and how long to stay active in the gameplay. The game is not focused on luck alone, as players must avoid obstacles and high-altitude limitations to keep their plane from exploding.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fighter\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFighter is a slot game that doesn't require any direct interaction, but it allows you to bet as and when you want, with the possibility of deciding when to withdraw your winnings. It's not a classic traditional slot, but it could appeal to and attract different types of players. With this slottery, you can bet and receive instant rewards. You just need to figure out how and when to bet on your plane and observe its flight path until its landing. However, try to avoid obstacles and unpleasant high-altitude limitations. The gameplay is like a timed race that only the most patient can win.\n\nRTP\n\nFighter has a fixed RTP of 95%, which is around average in the online slot games market.\n\nBonuses\n\nThere are no traditional bonuses in Fighter, such as free spins or wild symbols. However, there is a fuel bonus that can award players with 20%, 40%, or 60% extra winnings if the plane stays in the air until refueling. Additionally, if a player manages to be the absolute best, they can steal the jackpot from their opponents.\n\nGraphics\n\nThe graphics in Fighter are simple, with a control computer interface from which to apply bets and possible withdrawals. The plane's flight path is depicted, but there are few other visual elements. The design is minimalistic and straightforward, without excess or unnecessary animations.\n\nFeatures\n\nFighter does not have any traditional slot game features, such as wild symbols, scatters, or free spins. Instead, the game offers players the chance to bet at any time and to try to increase their winnings with the offered multipliers. Players can also check other players' bets and decide how and how long to stay active in the gameplay. The game is not focused on luck alone, as players must avoid obstacles and high-altitude limitations to keep their plane from exploding.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TF0ZrwtSWbkIaLMLqvUpjq0plyHM",
+                "id": "chatcmpl-7WSfycH1xMbkMC9WaiOI1zpvm528T",
                 "object": "chat.completion",
-                "created": 1687203559,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 126,
-                    "total_tokens": 678
-                },
+                "created": 1687971082,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Easy to learn and play\",\n        \"Instant rewards\",\n        \"Offers a unique and engaging gameplay experience\",\n        \"Simple, minimalist graphics\"\n    ],\n    \"cons\": [\n        \"No traditional bonuses such as free spins or wild symbols\",\n        \"Fixed RTP of 95% is average in the market\"\n    ],\n    \"meta_title\": \"Play Fighter Slot for Free - A Unique Slot Experience\",\n    \"meta_description\": \"Read our review of Fighter slot game. Play for free and enjoy a unique gameplay experience with instant rewards and a chance to win the jackpot.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Ability to bet and withdraw winnings at your own discretion\",\n    \"Instant rewards\",\n    \"Unique gameplay that appeals to different types of players\",\n    \"Opportunity to steal the jackpot from opponents\"\n  ],\n  \"cons\": [\n    \"Lack of traditional bonuses like free spins or wild symbols\",\n    \"Simple graphics with minimal visual elements\"\n  ],\n  \"meta_title\": \"Play Fighter - Free Online Slot Game\",\n  \"meta_description\": \"Read our review of Fighter, a free online slot game with unique gameplay and instant rewards.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 549,
+                    "completion_tokens": 119,
+                    "total_tokens": 668
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fighter.json"
+    "filename": "game_reviews/translations/fighter.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Fighter_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Fighter_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Fighter_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Fighter_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fighter",
+    "name": "Fighter",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Street-Fighter-2-World-Warrior-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fighter - Free Online Slot Game' ### Meta set: 'Read our review of Fighter, a free online slot game with unique gameplay and instant rewards.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

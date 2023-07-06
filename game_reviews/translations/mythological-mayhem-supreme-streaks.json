@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative graphics and animations",
-                    "Exciting bonus stages",
-                    "Immersion into Ancient Greece",
-                    "117,649 ways to win"
+                    "Engaging mythological theme",
+                    "Innovative gameplay features",
+                    "Impressive graphics and animations",
+                    "Exciting bonus stages"
                 ],
                 "cons": [
-                    "RTP is slightly below industry average",
-                    "Limited range of symbols"
+                    "RTP slightly below average",
+                    "Limited number of worlds"
                 ],
-                "meta_title": "Play Mythological Mayhem Supreme Streaks Free - Review",
-                "meta_description": "Read our review of Mythological Mayhem Supreme Streaks, an online slot game with innovative graphics, exciting bonus stages, and 117,649 ways to win. Play for free here."
+                "meta_title": "Play Mythological Mayhem Supreme Streaks for Free",
+                "meta_description": "Experience ancient Greece with this thrilling online slot game. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mythological Mayhem Supreme Streaks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMythological theme\n\nMythological Mayhem Supreme Streaks takes players on a thrilling journey to ancient Greece, with a range of symbols which include gods, monsters and mythological creatures from Greek mythology.\n\nGameplay features\n\nThis online slot game offers players 6 reels and 4 lines where symbols alternate to recreate the times of the past. The game includes cascading symbols and consecutive wins that lead to an increasing potential that is rich in emotions. The game also features multiple worlds, including the Elysian Plains, the Depths of Tartarus, the sea of Poseidon and the Heavens of Olympus.\n\nGraphics and animation\n\nThe graphics on Mythological Mayhem are innovative, yet maintain a fairly standard image of ancient Greece. The animations on the reels are surprising, thanks to the cascading symbols and consecutive wins, which lead to a rich potential in both emotions and rewards. The game's theme is perfectly crafted, immersing players into Ancient Greece and giving them an exciting experience.\n\nBonus stages\n\nDuring the base game, players can take advantage of the figure of Apollo to advance to the next step. This function takes players into the world with the flames of Tartarus. At this point, a line on the grid increases and there are new symbols that include Hades and the Minotaur. In this phase, winning symbols cascade and the player is taken on a further journey to the deep sea. In this case, there are extra remunerative symbols such as Medusa and Poseidon. If additional wins are obtained, players can finally reach Mount Olympus, where they have 117,649 ways to win.\n\nWinning potential\n\nThe game offers a positive winning structure, with opportunities for players to win up to 10,000 times their bet. The RTP for the game is set at 94.8%, which is slightly below the industry average.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mythological Mayhem Supreme Streaks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMythological theme\n\nMythological Mayhem Supreme Streaks takes players on a thrilling journey to ancient Greece, with a range of symbols which include gods, monsters and mythological creatures from Greek mythology.\n\nGameplay features\n\nThis online slot game offers players 6 reels and 4 lines where symbols alternate to recreate the times of the past. The game includes cascading symbols and consecutive wins that lead to an increasing potential that is rich in emotions. The game also features multiple worlds, including the Elysian Plains, the Depths of Tartarus, the sea of Poseidon and the Heavens of Olympus.\n\nGraphics and animation\n\nThe graphics on Mythological Mayhem are innovative, yet maintain a fairly standard image of ancient Greece. The animations on the reels are surprising, thanks to the cascading symbols and consecutive wins, which lead to a rich potential in both emotions and rewards. The game's theme is perfectly crafted, immersing players into Ancient Greece and giving them an exciting experience.\n\nBonus stages\n\nDuring the base game, players can take advantage of the figure of Apollo to advance to the next step. This function takes players into the world with the flames of Tartarus. At this point, a line on the grid increases and there are new symbols that include Hades and the Minotaur. In this phase, winning symbols cascade and the player is taken on a further journey to the deep sea. In this case, there are extra remunerative symbols such as Medusa and Poseidon. If additional wins are obtained, players can finally reach Mount Olympus, where they have 117,649 ways to win.\n\nWinning potential\n\nThe game offers a positive winning structure, with opportunities for players to win up to 10,000 times their bet. The RTP for the game is set at 94.8%, which is slightly below the industry average.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UEQ6bVAXfvVj6chp9GAxiLIXCe6s",
+                "id": "chatcmpl-7WYUJTLO4FKaTxPnEcPFJf2jU3RKm",
                 "object": "chat.completion",
-                "created": 1687439626,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993423,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Innovative graphics and animations\",\n    \"Exciting bonus stages\",\n    \"Immersion into Ancient Greece\",\n    \"117,649 ways to win\"\n  ],\n  \"cons\": [\n    \"RTP is slightly below industry average\",\n    \"Limited range of symbols\"\n  ],\n  \"meta_title\": \"Play Mythological Mayhem Supreme Streaks Free - Review\",\n  \"meta_description\": \"Read our review of Mythological Mayhem Supreme Streaks, an online slot game with innovative graphics, exciting bonus stages, and 117,649 ways to win. Play for free here.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging mythological theme\",\n    \"Innovative gameplay features\",\n    \"Impressive graphics and animations\",\n    \"Exciting bonus stages\"\n  ],\n  \"cons\": [\n    \"RTP slightly below average\",\n    \"Limited number of worlds\"\n  ],\n  \"meta_title\": \"Play Mythological Mayhem Supreme Streaks for Free\",\n  \"meta_description\": \"Experience ancient Greece with this thrilling online slot game. Play for free and win big!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 561,
-                    "completion_tokens": 132,
-                    "total_tokens": 693
+                    "prompt_tokens": 558,
+                    "completion_tokens": 104,
+                    "total_tokens": 662
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mythological-mayhem-supreme-streaks.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_the_game_Mythological__f188edbf-a8f7-4065-ba2e-0055fd6c574f_1.png",
+        "arved__Please_create_a_feature_image_for_the_game_Mythological__f188edbf-a8f7-4065-ba2e-0055fd6c574f_2.png",
+        "arved__Please_create_a_feature_image_for_the_game_Mythological__f188edbf-a8f7-4065-ba2e-0055fd6c574f_4.png",
+        "arved__Please_create_a_feature_image_for_the_game_Mythological__f188edbf-a8f7-4065-ba2e-0055fd6c574f_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mythological Mayhem Supreme Streaks (Version 4).webp",
+        "game_reviews/processed_images/Mythological Mayhem Supreme Streaks (Version 3).webp",
+        "game_reviews/processed_images/Mythological Mayhem Supreme Streaks (Version 2).webp",
+        "game_reviews/processed_images/Mythological Mayhem Supreme Streaks (Version 1).webp"
+    ],
+    "slug": "mythological-mayhem-supreme-streaks",
+    "name": "Mythological Mayhem Supreme Streaks",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mythological-Mayhem-Supreme-Streaks-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mythological Mayhem Supreme Streaks for Free' ### Meta set: 'Experience ancient Greece with this thrilling online slot game. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

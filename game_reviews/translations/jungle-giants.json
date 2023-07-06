@@ -582,37 +582,37 @@
                 "pros": [
                     "Unique gameplay mechanics",
                     "Stunning graphics design",
-                    "Immersive sound design",
+                    "Impressive sound design",
                     "Numerous winning opportunities"
                 ],
                 "cons": [
                     "Results may vary",
-                    "Limited range of animal symbols"
+                    "Limited number of free spins"
                 ],
-                "meta_title": "Play Jungle Giants Free - A Unique Online Slot Game",
-                "meta_description": "Read our review of Jungle Giants, a unique online slot game with stunning graphics, immersive sound, and numerous winning opportunities. Play free now."
+                "meta_title": "Play Jungle Giants Free - Unique Gameplay & Stunning Graphics",
+                "meta_description": "Read our review of Jungle Giants and play this unique online slot for free. Experience stunning graphics and numerous winning opportunities."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jungle Giants\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nJungle Giants is a unique online slot that sets itself apart from others with its gameplay mechanics. Unlike typical 5x3-slot games, Jungle Giants is a 1(3)1x3 game. This means that the first and fifth reels move independently, while the three central reels move in unison. These reels feature a single figure that occupies all nine symbols, giving you the chance to win big and access the free spins. Jungle Giants has fifty pay lines that provide a highly rewarding and entertaining gaming experience.\n\nGraphics Design\n\nThe graphics in Jungle Giants are stunning. The background, which also functions as the game's frame, features a temple with various elephant statues (one of the most valuable symbols in the game), and the reel grid has different animals including buffalo, elephant, gorilla, and rhinoceros. All are represented with some kind of headdress, indicating their nobility in the animal kingdom.\n\nSound Design\n\nThe sound design in Jungle Giants is equally impressive. The various levels of sound such as calming background music and tribal drum sounds immerse you into the setting. This combination of sound and graphics creates a highly immersive gameplay experience.\n\nWinning Opportunities\n\nJungle Giants provides players with numerous winning opportunities. In our experience, we have obtained interesting winnings several times and have accessed the free spins twice in just a few rounds. This, combined with the game's fifty pay lines, provides a highly rewarding gaming experience. However, there is no guarantee that players will replicate these results, but the dynamic gameplay ensures that even unlucky rounds are still enjoyable.\n\nSimilar Games\n\nIf you enjoy the animal theme, there are many other game titles that you could try, such as Mega Moolah, Raging Rhino, Gorilla, Cats and Cash, Foxin Wins, Buffalo Blitz, and many others. The online slot world offers a wide range of titles based on this popular theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jungle Giants\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nJungle Giants is a unique online slot that sets itself apart from others with its gameplay mechanics. Unlike typical 5x3-slot games, Jungle Giants is a 1(3)1x3 game. This means that the first and fifth reels move independently, while the three central reels move in unison. These reels feature a single figure that occupies all nine symbols, giving you the chance to win big and access the free spins. Jungle Giants has fifty pay lines that provide a highly rewarding and entertaining gaming experience.\n\nGraphics Design\n\nThe graphics in Jungle Giants are stunning. The background, which also functions as the game's frame, features a temple with various elephant statues (one of the most valuable symbols in the game), and the reel grid has different animals including buffalo, elephant, gorilla, and rhinoceros. All are represented with some kind of headdress, indicating their nobility in the animal kingdom.\n\nSound Design\n\nThe sound design in Jungle Giants is equally impressive. The various levels of sound such as calming background music and tribal drum sounds immerse you into the setting. This combination of sound and graphics creates a highly immersive gameplay experience.\n\nWinning Opportunities\n\nJungle Giants provides players with numerous winning opportunities. In our experience, we have obtained interesting winnings several times and have accessed the free spins twice in just a few rounds. This, combined with the game's fifty pay lines, provides a highly rewarding gaming experience. However, there is no guarantee that players will replicate these results, but the dynamic gameplay ensures that even unlucky rounds are still enjoyable.\n\nSimilar Games\n\nIf you enjoy the animal theme, there are many other game titles that you could try, such as Mega Moolah, Raging Rhino, Gorilla, Cats and Cash, Foxin Wins, Buffalo Blitz, and many others. The online slot world offers a wide range of titles based on this popular theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tx57oawB8ZrozKnvBJcU8GSIZXuI",
+                "id": "chatcmpl-7WVm6HDTDPJgpqSwAGEpcwPuWcqDX",
                 "object": "chat.completion",
-                "created": 1687372977,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982994,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gameplay mechanics\",\n        \"Stunning graphics design\",\n        \"Immersive sound design\",\n        \"Numerous winning opportunities\"\n    ],\n    \"cons\": [\n        \"Results may vary\",\n        \"Limited range of animal symbols\"\n    ],\n    \"meta_title\": \"Play Jungle Giants Free - A Unique Online Slot Game\",\n    \"meta_description\": \"Read our review of Jungle Giants, a unique online slot game with stunning graphics, immersive sound, and numerous winning opportunities. Play free now.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Unique gameplay mechanics\",\n        \"Stunning graphics design\",\n        \"Impressive sound design\",\n        \"Numerous winning opportunities\"\n    ],\n    \"cons\": [\n        \"Results may vary\",\n        \"Limited number of free spins\"\n    ],\n    \"meta_title\": \"Play Jungle Giants Free - Unique Gameplay & Stunning Graphics\",\n    \"meta_description\": \"Read our review of Jungle Giants and play this unique online slot for free. Experience stunning graphics and numerous winning opportunities.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 563,
-                    "completion_tokens": 111,
-                    "total_tokens": 674
+                    "prompt_tokens": 560,
+                    "completion_tokens": 104,
+                    "total_tokens": 664
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jungle-giants.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Jungle_Giants_that_fea_5eb21bd8-54b1-4bd4-b158-8156309638fa_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Jungle_Giants_that_fea_5eb21bd8-54b1-4bd4-b158-8156309638fa_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Jungle_Giants_that_fea_5eb21bd8-54b1-4bd4-b158-8156309638fa_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Jungle_Giants_that_fea_5eb21bd8-54b1-4bd4-b158-8156309638fa_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jungle Giants (Version 1).webp",
+        "game_reviews/processed_images/Jungle Giants (Version 4).webp",
+        "game_reviews/processed_images/Jungle Giants (Version 2).webp",
+        "game_reviews/processed_images/Jungle Giants (Version 3).webp"
+    ],
+    "slug": "jungle-giants",
+    "name": "Jungle Giants",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jungle-Giants-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jungle Giants Free - Unique Gameplay & Stunning Graphics' ### Meta set: 'Read our review of Jungle Giants and play this unique online slot for free. Experience stunning graphics and numerous winning opportunities.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

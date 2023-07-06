@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "720 paylines for increased volatility",
-                    "Winning combinations from both left to right and right to left",
-                    "Special symbols and free spin mode with up to 260 spins",
-                    "Unique prism-like structure and dreamy Hawaiian setting"
+                    "Unique prism-like structure with 720 paylines",
+                    "Special symbols and free spin mode",
+                    "Visually appealing graphics and symbols",
+                    "Winning combinations from left to right and right to left"
                 ],
                 "cons": [
-                    "Tribal soundtrack might not fit the dreamy atmosphere",
-                    "Limited number of special symbols"
+                    "Playful sound design may not match the game's atmosphere",
+                    "Not the only Hawaiian-themed slot available"
                 ],
-                "meta_title": "Play Fire Opals Slot for Free - Review and Ratings",
-                "meta_description": "Explore Fire Opals online slot and play for free with bonus rounds, wilds, and free spins. Read a full review and ratings, compare to other Hawaiian-themed slots."
+                "meta_title": "Play Fire Opals for Free - A Mystical Slot Game",
+                "meta_description": "Read our review of Fire Opals, a mystical slot game set in Hawaii. Play it for free and enjoy its unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fire Opals\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFire Opals gameplay and features\n\nFire Opals is a mystical slot game set in Hawaii that offers a unique prism-like structure with 19 symbols and 720 paylines. The game has a few special symbols such as the wild, which replaces all regular symbols, the opals that trigger the free spin mode, and the scatter which can pay up to 100 times your bet. One unique feature of Fire Opals is that it has winning combinations from both left to right and right to left.\n\nGraphics and sound design\n\nThe graphics of Fire Opals depict a dreamy Hawaiian landscape with stunning settings, active volcanoes, and fiery-haired goddesses. The game's colors, illustrations, and symbols are visually appealing and add to the overall magical atmosphere. The sound design of Fire Opals features a tribal soundtrack, which is catchy and enjoyable but arguably a little too playful compared to the slot's dreamy atmosphere.\n\nPaylines and winning combinations\n\nFire Opals features a prism-like structure with 19 symbols and 720 paylines, allowing for an increased number of combinations and volatility. The game offers winning combinations both from left to right and right to left, which is a pleasant innovation compared to the more traditional slots with only one reading direction.\n\nSpecial symbols and free spin mode\n\nFire Opals features special symbols such as the wild, which replaces all regular symbols, the opals that trigger the free spin mode, and the scatter which can pay up to 100 times your bet. The game's free spin mode is triggered when three red opals appear on the reels. This feature can give players up to 260 free spins and can be retriggered up to four times.\n\nComparison to other Hawaiian-themed slots\n\nWhile Hawaiian themed slots are not uncommon, Fire Opals distinguishes itself with its unique prism-like structure and its dreamlike and mystical setting. Noteworthy Hawaiian-themed slots include Aloha! Cluster Pays by NetEnt, Big Kahuna by Microgaming, and Aloha Party by EGT. Each of these titles is unique and worth exploring.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fire Opals\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFire Opals gameplay and features\n\nFire Opals is a mystical slot game set in Hawaii that offers a unique prism-like structure with 19 symbols and 720 paylines. The game has a few special symbols such as the wild, which replaces all regular symbols, the opals that trigger the free spin mode, and the scatter which can pay up to 100 times your bet. One unique feature of Fire Opals is that it has winning combinations from both left to right and right to left.\n\nGraphics and sound design\n\nThe graphics of Fire Opals depict a dreamy Hawaiian landscape with stunning settings, active volcanoes, and fiery-haired goddesses. The game's colors, illustrations, and symbols are visually appealing and add to the overall magical atmosphere. The sound design of Fire Opals features a tribal soundtrack, which is catchy and enjoyable but arguably a little too playful compared to the slot's dreamy atmosphere.\n\nPaylines and winning combinations\n\nFire Opals features a prism-like structure with 19 symbols and 720 paylines, allowing for an increased number of combinations and volatility. The game offers winning combinations both from left to right and right to left, which is a pleasant innovation compared to the more traditional slots with only one reading direction.\n\nSpecial symbols and free spin mode\n\nFire Opals features special symbols such as the wild, which replaces all regular symbols, the opals that trigger the free spin mode, and the scatter which can pay up to 100 times your bet. The game's free spin mode is triggered when three red opals appear on the reels. This feature can give players up to 260 free spins and can be retriggered up to four times.\n\nComparison to other Hawaiian-themed slots\n\nWhile Hawaiian themed slots are not uncommon, Fire Opals distinguishes itself with its unique prism-like structure and its dreamlike and mystical setting. Noteworthy Hawaiian-themed slots include Aloha! Cluster Pays by NetEnt, Big Kahuna by Microgaming, and Aloha Party by EGT. Each of these titles is unique and worth exploring.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TFVbqQ63LYVfiIyc8rmFuTLyhl4c",
+                "id": "chatcmpl-7WSk18hYcLvIQ4pt6fvHq35z4iIRF",
                 "object": "chat.completion",
-                "created": 1687205483,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 150,
-                    "total_tokens": 742
-                },
+                "created": 1687971333,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"720 paylines for increased volatility\",\n        \"Winning combinations from both left to right and right to left\",\n        \"Special symbols and free spin mode with up to 260 spins\",\n        \"Unique prism-like structure and dreamy Hawaiian setting\"\n    ],\n    \"cons\": [\n        \"Tribal soundtrack might not fit the dreamy atmosphere\",\n        \"Limited number of special symbols\"\n    ],\n    \"meta_title\": \"Play Fire Opals Slot for Free - Review and Ratings\",\n    \"meta_description\": \"Explore Fire Opals online slot and play for free with bonus rounds, wilds, and free spins. Read a full review and ratings, compare to other Hawaiian-themed slots.\"  \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique prism-like structure with 720 paylines\",\n    \"Special symbols and free spin mode\",\n    \"Visually appealing graphics and symbols\",\n    \"Winning combinations from left to right and right to left\"\n  ],\n  \"cons\": [\n    \"Playful sound design may not match the game's atmosphere\",\n    \"Not the only Hawaiian-themed slot available\"\n  ],\n  \"meta_title\": \"Play Fire Opals for Free - A Mystical Slot Game\",\n  \"meta_description\": \"Read our review of Fire Opals, a mystical slot game set in Hawaii. Play it for free and enjoy its unique features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 589,
+                    "completion_tokens": 136,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fire-opals.json"
+    "filename": "game_reviews/translations/fire-opals.json",
+    "raw_feature_images": [
+        "arved__Create_a_Feature_Image_Prompt_DALLE_please_create_a_feat_de40fd52-80e9-429d-8370-6a84e5752cc7_3.png",
+        "arved__Create_a_Feature_Image_Prompt_DALLE_please_create_a_feat_de40fd52-80e9-429d-8370-6a84e5752cc7_2.png",
+        "arved__Create_a_Feature_Image_Prompt_DALLE_please_create_a_feat_de40fd52-80e9-429d-8370-6a84e5752cc7_1.png",
+        "arved__Create_a_Feature_Image_Prompt_DALLE_please_create_a_feat_de40fd52-80e9-429d-8370-6a84e5752cc7_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fire-opals",
+    "name": "Fire Opals",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fire-opals_gratis-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fire Opals for Free - A Mystical Slot Game' ### Meta set: 'Read our review of Fire Opals, a mystical slot game set in Hawaii. Play it for free and enjoy its unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

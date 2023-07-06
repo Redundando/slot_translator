@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Eye-catching graphics with intricate designs",
-                    "Three bonus features with substantial wins",
-                    "Free spins with up to a 25x multiplier",
-                    "Suitable for new players"
+                    "Dreamlike theme and attractive graphics",
+                    "Three bonus features for substantial wins",
+                    "Free spins with up to 25x multiplier",
+                    "Fascinating symbols and captivating designs"
                 ],
                 "cons": [
                     "Not the most favorable RTP",
-                    "May not be challenging enough for experienced players"
+                    "Limited appeal to experienced players"
                 ],
-                "meta_title": "Play Lunaris Free: Enchanting Slot with 3 Bonus Features",
-                "meta_description": "Discover the dreamlike world of Lunaris, an online slot game with 3 bonus features and free spins. Play for free and experience its magical atmosphere."
+                "meta_title": "Play Lunaris Free - Exciting Online Slot Game",
+                "meta_description": "Read our review of Lunaris, a dreamlike slot game with 100 paylines. Play for free and win big with the bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lunaris\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nLunaris is an online slot game developed by WMS that features a dreamlike theme and 100 paylines. The game incorporates 10 reels and offers three bonus features that can result in substantial wins. Additionally, the game offers standard free spins with a 10x multiplier per bet.\n\nBonus Features\n\nLunaris offers players three bonus features, including the Mystery bonus that can result in a win value equal to 25 times the bet placed. Additionally, the game offers free spins bonuses that are activated when players land between 3 and 6 caterpillar symbols. With the caterpillar bonuses, players can win up to 25 free spins with a 25x multiplier. Lastly, the game features a Wild symbol represented by the moon's face that can substitute other symbols except for the Mystery and Bonus symbol.\n\nFree Spins\n\nPlayers can trigger the free spins bonus by landing between 3 and 6 caterpillar symbols. Depending on how many caterpillar symbols are landed, players will receive between 8 to 25 free spins with a 2x to 25x multiplier. Free spins can also be retriggered, providing even more opportunities for players to win substantial sums of money.\n\nSymbols and Graphics\n\nLunaris features a fairy-tale-like atmosphere, with mysterious symbols and magical creatures that create lucky combinations. The game offers several fascinating symbols, including diamonds, playing cards, and various creatures such as caterpillars and mesmerizing butterflies. The graphics are eye-catching, with vibrant colors and intricate designs that are sure to captivate players.\n\nTarget Audience\n\nLunaris is an excellent game for new players who are looking to familiarize themselves with virtual slots. The game offers attractive graphics and several bonus features that will keep players engaged and entertained. Although the game may not have the most favorable RTP, the wins emitted are still significant enough to keep players engaged. Overall, Lunaris is an excellent game for those who prefer less challenging titles and are looking for a unique and fascinating gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lunaris\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nLunaris is an online slot game developed by WMS that features a dreamlike theme and 100 paylines. The game incorporates 10 reels and offers three bonus features that can result in substantial wins. Additionally, the game offers standard free spins with a 10x multiplier per bet.\n\nBonus Features\n\nLunaris offers players three bonus features, including the Mystery bonus that can result in a win value equal to 25 times the bet placed. Additionally, the game offers free spins bonuses that are activated when players land between 3 and 6 caterpillar symbols. With the caterpillar bonuses, players can win up to 25 free spins with a 25x multiplier. Lastly, the game features a Wild symbol represented by the moon's face that can substitute other symbols except for the Mystery and Bonus symbol.\n\nFree Spins\n\nPlayers can trigger the free spins bonus by landing between 3 and 6 caterpillar symbols. Depending on how many caterpillar symbols are landed, players will receive between 8 to 25 free spins with a 2x to 25x multiplier. Free spins can also be retriggered, providing even more opportunities for players to win substantial sums of money.\n\nSymbols and Graphics\n\nLunaris features a fairy-tale-like atmosphere, with mysterious symbols and magical creatures that create lucky combinations. The game offers several fascinating symbols, including diamonds, playing cards, and various creatures such as caterpillars and mesmerizing butterflies. The graphics are eye-catching, with vibrant colors and intricate designs that are sure to captivate players.\n\nTarget Audience\n\nLunaris is an excellent game for new players who are looking to familiarize themselves with virtual slots. The game offers attractive graphics and several bonus features that will keep players engaged and entertained. Although the game may not have the most favorable RTP, the wins emitted are still significant enough to keep players engaged. Overall, Lunaris is an excellent game for those who prefer less challenging titles and are looking for a unique and fascinating gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U45E7qCC5Umr5IIITyfqGvbjdvu2",
+                "id": "chatcmpl-7WWsAF89RIUHTq2SeivXH9ZMIkAZJ",
                 "object": "chat.completion",
-                "created": 1687399892,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987214,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Eye-catching graphics with intricate designs\",\n        \"Three bonus features with substantial wins\",\n        \"Free spins with up to a 25x multiplier\",\n        \"Suitable for new players\"\n    ],\n    \"cons\": [\n        \"Not the most favorable RTP\",\n        \"May not be challenging enough for experienced players\"\n    ],\n    \"meta_title\": \"Play Lunaris Free: Enchanting Slot with 3 Bonus Features\",\n    \"meta_description\": \"Discover the dreamlike world of Lunaris, an online slot game with 3 bonus features and free spins. Play for free and experience its magical atmosphere.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Dreamlike theme and attractive graphics\",\n    \"Three bonus features for substantial wins\",\n    \"Free spins with up to 25x multiplier\",\n    \"Fascinating symbols and captivating designs\"\n  ],\n  \"cons\": [\n    \"Not the most favorable RTP\",\n    \"Limited appeal to experienced players\"\n  ],\n  \"meta_title\": \"Play Lunaris Free - Exciting Online Slot Game\",\n  \"meta_description\": \"Read our review of Lunaris, a dreamlike slot game with 100 paylines. Play for free and win big with the bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 585,
-                    "completion_tokens": 134,
-                    "total_tokens": 719
+                    "prompt_tokens": 582,
+                    "completion_tokens": 125,
+                    "total_tokens": 707
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lunaris.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_that_captures_the_essence_of_Lunaris_a_u_cedcc822-9835-4abd-83c7-6b8c100f6795_1.png",
+        "arved__Create_an_image_that_captures_the_essence_of_Lunaris_a_u_cedcc822-9835-4abd-83c7-6b8c100f6795_2.png",
+        "arved__Create_an_image_that_captures_the_essence_of_Lunaris_a_u_cedcc822-9835-4abd-83c7-6b8c100f6795_4.png",
+        "arved__Create_an_image_that_captures_the_essence_of_Lunaris_a_u_cedcc822-9835-4abd-83c7-6b8c100f6795_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lunaris (Version 1).webp",
+        "game_reviews/processed_images/Lunaris (Version 4).webp",
+        "game_reviews/processed_images/Lunaris (Version 3).webp",
+        "game_reviews/processed_images/Lunaris (Version 2).webp"
+    ],
+    "slug": "lunaris",
+    "name": "Lunaris",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lunaris-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lunaris Free - Exciting Online Slot Game' ### Meta set: 'Read our review of Lunaris, a dreamlike slot game with 100 paylines. Play for free and win big with the bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

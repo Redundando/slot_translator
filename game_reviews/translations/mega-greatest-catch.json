@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High-definition graphics with relaxing sound.",
-                    "Fishing and Dynamite features offer exciting gameplay.",
-                    "Autoplay and Turbo functions for faster play.",
-                    "Medium volatility for a wide range of players."
+                    "High-definition graphics",
+                    "Relaxing sound",
+                    "Exciting bonus features",
+                    "Wide compatibility"
                 ],
                 "cons": [
-                    "Only 12 fixed paylines.",
-                    "Minimum bet starts at €0.10, which may be too high for some players."
+                    "Limited number of paylines",
+                    "Limited betting range"
                 ],
-                "meta_title": "Play Mega Greatest Catch Free - Exciting Slot with Fishing and Dynamite Features",
-                "meta_description": "Read our review of Mega Greatest Catch, an HTML 5 online slot with medium volatility, high-definition graphics, and fishing and dynamite features. Play now for free."
+                "meta_title": "Play Mega Greatest Catch Free Slot Game",
+                "meta_description": "Read our review of Mega Greatest Catch and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Greatest Catch\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMega Greatest Catch is a 5-reel, 4-row slot game with 12 fixed paylines. Players must make combinations of at least three identical symbols from left to right to get a win. The game has Autoplay and Turbo functions for faster play. The minimum bet starts at €0.10 and can go up to a maximum of €10. The game has a medium volatility, making it appealing to a wide range of players.\n\nGraphics and Sound\n\nThe graphics of Mega Greatest Catch are high-definition, and the game is divided into two screens. The top half shows our protagonist on his boat, while the bottom half is dedicated to the seabed with the game grid, plants and rocks. The sound is relaxing and adds to the overall gameplay experience.\n\nSymbols and Paylines\n\nThe game has both thematic and non-thematic symbols, with high and low values. The highest-paying symbols include the blue fish, backpack, frog, hat and boot. The lowest-paying symbols comprise playing cards from ten to ace, called \"royals.\" The fisherman is the game's Wild symbol and replaces any symbol except special ones. The red fish is the Scatter symbol and can trigger up to 20 free spins depending on the number of symbols landed. During free spins, the Fishing feature is activated when the blue fish appears alongside at least one Wild. Every Wild symbol collects the multiplier associated with the fish, and from the fourth Wild onward, players receive more free spins with an increased multiplier. The Dynamite feature is activated after each losing spin with a Wild but no fish, triggering 3 to 6 symbols that explode and are replaced by new ones.\n\nRTP and Volatility\n\nMega Greatest Catch has a theoretical return to player (RTP) of 96%, which is above average. The game has a medium volatility, which means players can expect a good balance between frequency of wins and size of the sums obtained.\n\nCompatibility\n\nMega Greatest Catch is based on HTML 5 technology, making it compatible with desktop and mobile devices.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Greatest Catch\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMega Greatest Catch is a 5-reel, 4-row slot game with 12 fixed paylines. Players must make combinations of at least three identical symbols from left to right to get a win. The game has Autoplay and Turbo functions for faster play. The minimum bet starts at €0.10 and can go up to a maximum of €10. The game has a medium volatility, making it appealing to a wide range of players.\n\nGraphics and Sound\n\nThe graphics of Mega Greatest Catch are high-definition, and the game is divided into two screens. The top half shows our protagonist on his boat, while the bottom half is dedicated to the seabed with the game grid, plants and rocks. The sound is relaxing and adds to the overall gameplay experience.\n\nSymbols and Paylines\n\nThe game has both thematic and non-thematic symbols, with high and low values. The highest-paying symbols include the blue fish, backpack, frog, hat and boot. The lowest-paying symbols comprise playing cards from ten to ace, called \"royals.\" The fisherman is the game's Wild symbol and replaces any symbol except special ones. The red fish is the Scatter symbol and can trigger up to 20 free spins depending on the number of symbols landed. During free spins, the Fishing feature is activated when the blue fish appears alongside at least one Wild. Every Wild symbol collects the multiplier associated with the fish, and from the fourth Wild onward, players receive more free spins with an increased multiplier. The Dynamite feature is activated after each losing spin with a Wild but no fish, triggering 3 to 6 symbols that explode and are replaced by new ones.\n\nRTP and Volatility\n\nMega Greatest Catch has a theoretical return to player (RTP) of 96%, which is above average. The game has a medium volatility, which means players can expect a good balance between frequency of wins and size of the sums obtained.\n\nCompatibility\n\nMega Greatest Catch is based on HTML 5 technology, making it compatible with desktop and mobile devices.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7gBX0gfOvnI2fBp6eF3b3l3oTHw",
+                "id": "chatcmpl-7WXVVHbkzqnWZ8V9VZCRzmmrnFjuu",
                 "object": "chat.completion",
-                "created": 1687413715,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989653,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High-definition graphics with relaxing sound.\",\n        \"Fishing and Dynamite features offer exciting gameplay.\",\n        \"Autoplay and Turbo functions for faster play.\",\n        \"Medium volatility for a wide range of players.\"\n    ],\n    \"cons\": [\n        \"Only 12 fixed paylines.\",\n        \"Minimum bet starts at €0.10, which may be too high for some players.\"\n    ],\n    \"meta_title\": \"Play Mega Greatest Catch Free - Exciting Slot with Fishing and Dynamite Features\",\n    \"meta_description\": \"Read our review of Mega Greatest Catch, an HTML 5 online slot with medium volatility, high-definition graphics, and fishing and dynamite features. Play now for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-definition graphics\",\n    \"Relaxing sound\",\n    \"Exciting bonus features\",\n    \"Wide compatibility\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Limited betting range\"\n  ],\n  \"meta_title\": \"Play Mega Greatest Catch Free Slot Game\",\n  \"meta_description\": \"Read our review of Mega Greatest Catch and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 594,
-                    "completion_tokens": 152,
-                    "total_tokens": 746
+                    "prompt_tokens": 591,
+                    "completion_tokens": 92,
+                    "total_tokens": 683
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-greatest-catch.json",
+    "raw_feature_images": [
+        "arved__Create_an_engaging_feature_image_for_Mega_Greatest_Catch_81997c16-411b-4b29-9a23-8c7a1cb4ca3a_3.png",
+        "arved__Create_an_engaging_feature_image_for_Mega_Greatest_Catch_81997c16-411b-4b29-9a23-8c7a1cb4ca3a_2.png",
+        "arved__Create_an_engaging_feature_image_for_Mega_Greatest_Catch_81997c16-411b-4b29-9a23-8c7a1cb4ca3a_1.png",
+        "arved__Create_an_engaging_feature_image_for_Mega_Greatest_Catch_81997c16-411b-4b29-9a23-8c7a1cb4ca3a_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Greatest Catch (Version 2).webp",
+        "game_reviews/processed_images/Mega Greatest Catch (Version 4).webp",
+        "game_reviews/processed_images/Mega Greatest Catch (Version 1).webp",
+        "game_reviews/processed_images/Mega Greatest Catch (Version 3).webp"
+    ],
+    "slug": "mega-greatest-catch",
+    "name": "Mega Greatest Catch",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Greatest-Catch-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Greatest Catch Free Slot Game' ### Meta set: 'Read our review of Mega Greatest Catch and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -654,39 +654,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Land Wilds help complete winning paylines",
-                    "Scatter Symbols trigger up to 30 free spins with x3 multiplier",
-                    "Customizable gameplay with unique features",
-                    "Impressive graphics transport players to a magnificent universe"
+                    "Packed with special features including Land Wilds and Scatter Symbols",
+                    "Customizable gameplay through Wazdan's unique features",
+                    "Variety of features to accommodate different player preferences",
+                    "Impressive graphics that transport you to a magnificent universe"
                 ],
                 "cons": [
-                    "Limited in-game bonus features",
-                    "No progressive jackpot"
+                    "Limited options for players who prefer medium volatility",
+                    "Not a wide variety of games with the same theme"
                 ],
-                "meta_title": "Play Magic Stars 6 free slot - RTP at 96.5% - Review",
-                "meta_description": "Read our review of Magic Stars 6, an online slot game by Wazdan. Play for free with RTP at 96.5%. Customize gameplay, impressive graphics, and more."
+                "meta_title": "Play Magic Stars 6 Free | Exciting Features and Impressive Graphics",
+                "meta_description": "Play Magic Stars 6 for free and enjoy its special features and impressive graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Stars 6\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSpecial Features of Magic Stars 6\n\nMagic Stars 6 is packed with special features, including Land Wilds which help complete winning paylines by replacing other symbols. It also boasts Scatter Symbols that trigger up to 30 free spins during which every win is multiplied by x3.\n\nCustomizable Gameplay Through Wazdan's Unique Features\n\nWazdan's online slots, including Magic Stars 6, offer unique features that give players the ability to customize their gameplay. Players can choose between frequent but small wins, less frequent but bigger wins, or a mix of both with the slot's volatility levels. Additionally, players can increase the size of the reels with the Big Screen mode, spin the reels at lightning speed with Ultra Fast mode, and reduce loading time with Ultra Lite mode.\n\nVariety of Features to Accommodate Different Player Preferences\n\nWazdan's slots are designed to accommodate the preferences of all players. The Volatility Levels feature allows players to choose between high and low volatility, depending on their style of play. The double-screen mode keeps the paytable on the screen while spinning the reels, making it easier for new players to remember the paytable and which symbols they should be looking for. Finally, the energy saving mode and Ultra Lite mode accommodate players with internet issues or low battery by extending battery life and reducing game loading time.\n\nImpressive Graphics in Magic Stars 6\n\nMagic Stars 6 boasts impressive graphics that transport you to a magnificent universe. The colorful symbols, advanced HTML5 technology used in the game, and special features make playing this slot a pure pleasure.\n\nOther Slot Games with Similar Themes from Wazdan\n\nWazdan has created other slot games with the same theme as Magic Stars 6. Magic Stars 3 is a great alternative. It boasts an RTP of 96.5%, and players can expect to make a lot of easy money with this slot game.\n\nRTP of Magic Stars 3, Another Slot Game from Wazdan\n\nMagic Stars 3, another slot game from Wazdan, boasts an impressive RTP of 96.5%, meaning players can expect to make a lot of easy money with this slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Stars 6\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSpecial Features of Magic Stars 6\n\nMagic Stars 6 is packed with special features, including Land Wilds which help complete winning paylines by replacing other symbols. It also boasts Scatter Symbols that trigger up to 30 free spins during which every win is multiplied by x3.\n\nCustomizable Gameplay Through Wazdan's Unique Features\n\nWazdan's online slots, including Magic Stars 6, offer unique features that give players the ability to customize their gameplay. Players can choose between frequent but small wins, less frequent but bigger wins, or a mix of both with the slot's volatility levels. Additionally, players can increase the size of the reels with the Big Screen mode, spin the reels at lightning speed with Ultra Fast mode, and reduce loading time with Ultra Lite mode.\n\nVariety of Features to Accommodate Different Player Preferences\n\nWazdan's slots are designed to accommodate the preferences of all players. The Volatility Levels feature allows players to choose between high and low volatility, depending on their style of play. The double-screen mode keeps the paytable on the screen while spinning the reels, making it easier for new players to remember the paytable and which symbols they should be looking for. Finally, the energy saving mode and Ultra Lite mode accommodate players with internet issues or low battery by extending battery life and reducing game loading time.\n\nImpressive Graphics in Magic Stars 6\n\nMagic Stars 6 boasts impressive graphics that transport you to a magnificent universe. The colorful symbols, advanced HTML5 technology used in the game, and special features make playing this slot a pure pleasure.\n\nOther Slot Games with Similar Themes from Wazdan\n\nWazdan has created other slot games with the same theme as Magic Stars 6. Magic Stars 3 is a great alternative. It boasts an RTP of 96.5%, and players can expect to make a lot of easy money with this slot game.\n\nRTP of Magic Stars 3, Another Slot Game from Wazdan\n\nMagic Stars 3, another slot game from Wazdan, boasts an impressive RTP of 96.5%, meaning players can expect to make a lot of easy money with this slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U53TFqhvhyMDYS91rRHYK1UDVVsc",
+                "id": "chatcmpl-7WX6lEpdW7CWV5EriF27Q6yr6PVPf",
                 "object": "chat.completion",
-                "created": 1687403627,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988119,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Land Wilds help complete winning paylines\",\n        \"Scatter Symbols trigger up to 30 free spins with x3 multiplier\",\n        \"Customizable gameplay with unique features\",\n        \"Impressive graphics transport players to a magnificent universe\"\n    ],\n    \"cons\": [\n        \"Limited in-game bonus features\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Magic Stars 6 free slot - RTP at 96.5% - Review\",\n    \"meta_description\": \"Read our review of Magic Stars 6, an online slot game by Wazdan. Play for free with RTP at 96.5%. Customize gameplay, impressive graphics, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Packed with special features including Land Wilds and Scatter Symbols\",\n    \"Customizable gameplay through Wazdan's unique features\",\n    \"Variety of features to accommodate different player preferences\",\n    \"Impressive graphics that transport you to a magnificent universe\"\n  ],\n  \"cons\": [\n    \"Limited options for players who prefer medium volatility\",\n    \"Not a wide variety of games with the same theme\"\n  ],\n  \"meta_title\": \"Play Magic Stars 6 Free | Exciting Features and Impressive Graphics\",\n  \"meta_description\": \"Play Magic Stars 6 for free and enjoy its special features and impressive graphics.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 616,
-                    "completion_tokens": 149,
-                    "total_tokens": 765
+                    "prompt_tokens": 613,
+                    "completion_tokens": 137,
+                    "total_tokens": 750
                 }
             }
         },
@@ -885,5 +885,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-stars-6.json",
+    "raw_feature_images": [
+        "arved__Prompt_Can_you_create_a_feature_image_for_Magic_Stars_6__f24d1652-217e-4b26-a655-6f8d723f1a7e_3.png",
+        "arved__Prompt_Can_you_create_a_feature_image_for_Magic_Stars_6__f24d1652-217e-4b26-a655-6f8d723f1a7e_2.png",
+        "arved__Prompt_Can_you_create_a_feature_image_for_Magic_Stars_6__f24d1652-217e-4b26-a655-6f8d723f1a7e_4.png",
+        "arved__Prompt_Can_you_create_a_feature_image_for_Magic_Stars_6__f24d1652-217e-4b26-a655-6f8d723f1a7e_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Stars 6 (Version 4).webp",
+        "game_reviews/processed_images/Magic Stars 6 (Version 2).webp",
+        "game_reviews/processed_images/Magic Stars 6 (Version 3).webp",
+        "game_reviews/processed_images/Magic Stars 6 (Version 1).webp"
+    ],
+    "slug": "magic-stars-6",
+    "name": "Magic Stars 6",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Stars-6-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Stars 6 Free | Exciting Features and Impressive Graphics' ### Meta set: 'Play Magic Stars 6 for free and enjoy its special features and impressive graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

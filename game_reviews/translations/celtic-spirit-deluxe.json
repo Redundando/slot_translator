@@ -616,40 +616,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging graphics in Celtic-inspired theme",
+                    "Engaging graphics with Celtic-inspired theme",
                     "Simple and straightforward gameplay",
-                    "Free spins and additional multipliers as special features",
-                    "Frequent but not very significant winnings"
+                    "Special features like free spins and additional multipliers",
+                    "Frequent winnings with average RTP and low volatility"
                 ],
                 "cons": [
-                    "Sound effects can be overwhelming",
-                    "Only one special feature"
+                    "Sound effects may be overwhelming",
+                    "Limited special features beyond free spins and multipliers"
                 ],
-                "meta_title": "Play Celtic Spirit Deluxe for Free - Exciting Nature-Themed Slot!",
-                "meta_description": "Immerse yourself in Celtic-inspired graphics with frequent winnings and free spins. Play Celtic Spirit Deluxe for free and experience the magic of nature."
+                "meta_title": "Play Celtic Spirit Deluxe Free",
+                "meta_description": "Experience nature's harmony with Celtic Spirit Deluxe. Play for free and enjoy engaging graphics and frequent winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Celtic Spirit Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCeltic Spirit Deluxe Takes You on a Journey Through Nature\n\nCeltic Spirit Deluxe is a slot machine game that immerses players in nature's harmony. The slot's theme draws from the Celtic culture, with players getting a chance to interact with its inhabitants and the Celtic-inspired playing cards.\n\nGraphics - Celtic Style Combined with a Realistic Execution\n\nCeltic Spirit Deluxe's graphics are not only attractive but also engaging. The background of the Meadow, encircled by snow-capped mountains, serves to heighten the slot's Celtic-inspired graphics with the wolf, deer, and the forest spirit figuring among other symbols. However, the sound effects, especially the frenzy accompanying the bonus mode, may be a little too much.\n\nGameplay - Simple and Straightforward\n\nCeltic Spirit Deluxe's gameplay is somewhat simple and easy to understand. The slot machine has only one special feature- the free spins- triggered on three bonus symbols on the last three reels. You will receive six free spins, which can be increased, depending on performance.\n\nSpecial Features - Free Spins &amp; Additional Multipliers\n\nCeltic Spirit Deluxe's Special Features include free spins triggered by three bonus symbols on the first, third, and fifth reels, leading to the appearance of a mini-reel at the top of the grid. During free spins, the mini-reel contains additional free spins or multipliers, increasing your chances of winning significantly.\n\nPayouts - Perfectly Average RTP with Low Volatility\n\nCeltic Spirit Deluxe has an RTP percentage of 96.01%, which is average, with a lower volatility rate, which ensures frequent winnings, albeit not very significant.\n\nTheme - Interact with the Inhabitants of Nature\n\nCeltic Spirit Deluxe's theme revolves around nature and the Celtic culture. You will encounter various symbols that represent nature, including a wolf, deer, and forest spirit. Additionally, the Celtic-inspired playing cards give the slot a unique touch.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Celtic Spirit Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCeltic Spirit Deluxe Takes You on a Journey Through Nature\n\nCeltic Spirit Deluxe is a slot machine game that immerses players in nature's harmony. The slot's theme draws from the Celtic culture, with players getting a chance to interact with its inhabitants and the Celtic-inspired playing cards.\n\nGraphics - Celtic Style Combined with a Realistic Execution\n\nCeltic Spirit Deluxe's graphics are not only attractive but also engaging. The background of the Meadow, encircled by snow-capped mountains, serves to heighten the slot's Celtic-inspired graphics with the wolf, deer, and the forest spirit figuring among other symbols. However, the sound effects, especially the frenzy accompanying the bonus mode, may be a little too much.\n\nGameplay - Simple and Straightforward\n\nCeltic Spirit Deluxe's gameplay is somewhat simple and easy to understand. The slot machine has only one special feature- the free spins- triggered on three bonus symbols on the last three reels. You will receive six free spins, which can be increased, depending on performance.\n\nSpecial Features - Free Spins &amp; Additional Multipliers\n\nCeltic Spirit Deluxe's Special Features include free spins triggered by three bonus symbols on the first, third, and fifth reels, leading to the appearance of a mini-reel at the top of the grid. During free spins, the mini-reel contains additional free spins or multipliers, increasing your chances of winning significantly.\n\nPayouts - Perfectly Average RTP with Low Volatility\n\nCeltic Spirit Deluxe has an RTP percentage of 96.01%, which is average, with a lower volatility rate, which ensures frequent winnings, albeit not very significant.\n\nTheme - Interact with the Inhabitants of Nature\n\nCeltic Spirit Deluxe's theme revolves around nature and the Celtic culture. You will encounter various symbols that represent nature, including a wolf, deer, and forest spirit. Additionally, the Celtic-inspired playing cards give the slot a unique touch.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SsmxT98kL9JnXRJLPo8W9bQtF2kA",
+                "id": "chatcmpl-7WQ1N0Qx7X5iifNGtJaLZSZdbZylw",
                 "object": "chat.completion",
-                "created": 1687118147,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 577,
-                    "completion_tokens": 126,
-                    "total_tokens": 703
-                },
+                "created": 1687960877,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging graphics in Celtic-inspired theme\",\n        \"Simple and straightforward gameplay\",\n        \"Free spins and additional multipliers as special features\",\n        \"Frequent but not very significant winnings\"\n    ],\n    \"cons\": [\n        \"Sound effects can be overwhelming\",\n        \"Only one special feature\"\n    ],\n    \"meta_title\": \"Play Celtic Spirit Deluxe for Free - Exciting Nature-Themed Slot!\",\n    \"meta_description\": \"Immerse yourself in Celtic-inspired graphics with frequent winnings and free spins. Play Celtic Spirit Deluxe for free and experience the magic of nature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging graphics with Celtic-inspired theme\",\n    \"Simple and straightforward gameplay\",\n    \"Special features like free spins and additional multipliers\",\n    \"Frequent winnings with average RTP and low volatility\"\n  ],\n  \"cons\": [\n    \"Sound effects may be overwhelming\",\n    \"Limited special features beyond free spins and multipliers\"\n  ],\n  \"meta_title\": \"Play Celtic Spirit Deluxe Free\",\n  \"meta_description\": \"Experience nature's harmony with Celtic Spirit Deluxe. Play for free and enjoy engaging graphics and frequent winnings.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 574,
+                    "completion_tokens": 116,
+                    "total_tokens": 690
+                }
             }
         },
         {
@@ -849,16 +849,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_4.png",
         "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_3.png",
-        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_2.png",
-        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_1.png"
+        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_4.png",
+        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_1.png",
+        "arved__Prompt_Design_a_feature_image_for_Celtic_Spirit_Deluxe_t_a9fe3d2a-678a-4347-ae95-c8c3b6f2bb74_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Celtic Spirit Deluxe (Version 3).webp",
-        "game_reviews/processed_images/Celtic Spirit Deluxe (Version 4).webp",
         "game_reviews/processed_images/Celtic Spirit Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Celtic Spirit Deluxe (Version 4).webp",
         "game_reviews/processed_images/Celtic Spirit Deluxe (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/celtic-spirit-deluxe.json"
+    "filename": "game_reviews/translations/celtic-spirit-deluxe.json",
+    "slug": "celtic-spirit-deluxe",
+    "name": "Celtic Spirit Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Celtic-Spirit-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Celtic Spirit Deluxe Free' ### Meta set: 'Experience nature's harmony with Celtic Spirit Deluxe. Play for free and enjoy engaging graphics and frequent winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Impressive 4,096 ways to win",
-                    "Stunning graphics and unusual theme",
-                    "Bonus features including spreading wilds and free spins",
-                    "Maximum win potential of up to 74,400x"
+                    "Stunning graphics with clean lines",
+                    "Creative and unusual ancient Greek theme",
+                    "High RTP of 96.62%"
                 ],
                 "cons": [
-                    "Free spins can be difficult to trigger",
-                    "Soundtrack may not be to everyone's taste"
+                    "Limited number of bonus features",
+                    "Soundtrack may not appeal to all players"
                 ],
-                "meta_title": "Play Medusa – Fortune & Glory Slot for Free – Review",
-                "meta_description": "Read our review of Medusa – Fortune & Glory slot, with impressive gameplay features, stunning graphics, and bonus features. Play now for free."
+                "meta_title": "Play Medusa - Fortune & Glory Free | Review",
+                "meta_description": "Read our review of Medusa - Fortune & Glory and play for free. Discover its impressive features and high RTP."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Medusa – Fortune and Glory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMedusa: Fortune & Glory features 6 reels, 4 rows, and an impressive 4,096 ways to win. The provider has also included some extra features with wilds, 2 different free spin modes, 20x multipliers, and high variance.\n\nGraphics and Theme\n\nThe graphics in Medusa: Fortune & Glory are stunning with clean lines and an unusual feel thanks to the creative flair of the provider. The ancient Greek theme is represented by a temple with the heads of snakes and is truly fascinating. The slot symbols include stone symbols from A to 10, legendary creatures such as Pegasus, and the Minotaur - the luckiest symbol that can award up to 10 times your bet. The soundtrack is anything but ancient but still very catchy.\n\nBonus Features\n\nMedusa: Fortune & Glory offers Spreading Wilds where 1, 2, or 3 wilds can be distributed on the relevant reels and Free Spins triggered by placing the Bonus symbol at least 3 or 4 times on the game board, which allows you to release 5 or 10 times your bet. During the free spin phase, you can enjoy moments of action that can turn into a rich treasure to take home.\n\nWinning Potential\n\nMedusa: Fortune & Glory has a maximum win of up to 74,400x and it manages to guarantee many low wins at a good pace: virtually 1 in 3 spins can win you something. During the free spins, you have a chance to win big if you can take advantage of the multipliers.\n\nRTP\n\nMedusa: Fortune & Glory has an RTP of 96.62%, which is above the average percentage of many online slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Medusa – Fortune and Glory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMedusa: Fortune & Glory features 6 reels, 4 rows, and an impressive 4,096 ways to win. The provider has also included some extra features with wilds, 2 different free spin modes, 20x multipliers, and high variance.\n\nGraphics and Theme\n\nThe graphics in Medusa: Fortune & Glory are stunning with clean lines and an unusual feel thanks to the creative flair of the provider. The ancient Greek theme is represented by a temple with the heads of snakes and is truly fascinating. The slot symbols include stone symbols from A to 10, legendary creatures such as Pegasus, and the Minotaur - the luckiest symbol that can award up to 10 times your bet. The soundtrack is anything but ancient but still very catchy.\n\nBonus Features\n\nMedusa: Fortune & Glory offers Spreading Wilds where 1, 2, or 3 wilds can be distributed on the relevant reels and Free Spins triggered by placing the Bonus symbol at least 3 or 4 times on the game board, which allows you to release 5 or 10 times your bet. During the free spin phase, you can enjoy moments of action that can turn into a rich treasure to take home.\n\nWinning Potential\n\nMedusa: Fortune & Glory has a maximum win of up to 74,400x and it manages to guarantee many low wins at a good pace: virtually 1 in 3 spins can win you something. During the free spins, you have a chance to win big if you can take advantage of the multipliers.\n\nRTP\n\nMedusa: Fortune & Glory has an RTP of 96.62%, which is above the average percentage of many online slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7KaoeuScvXZzWhEL8SfIoOZbbKW",
+                "id": "chatcmpl-7WXSAPEwvqFBfYHjjuIUfKAoJWjIV",
                 "object": "chat.completion",
-                "created": 1687412376,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989446,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive 4,096 ways to win\",\n        \"Stunning graphics and unusual theme\",\n        \"Bonus features including spreading wilds and free spins\",\n        \"Maximum win potential of up to 74,400x\"\n    ],\n    \"cons\": [\n        \"Free spins can be difficult to trigger\",\n        \"Soundtrack may not be to everyone's taste\"\n    ],\n    \"meta_title\": \"Play Medusa – Fortune & Glory Slot for Free – Review\",\n    \"meta_description\": \"Read our review of Medusa – Fortune & Glory slot, with impressive gameplay features, stunning graphics, and bonus features. Play now for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive 4,096 ways to win\",\n    \"Stunning graphics with clean lines\",\n    \"Creative and unusual ancient Greek theme\",\n    \"High RTP of 96.62%\"\n  ],\n  \"cons\": [\n    \"Limited number of bonus features\",\n    \"Soundtrack may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Medusa - Fortune & Glory Free | Review\",\n  \"meta_description\": \"Read our review of Medusa - Fortune & Glory and play for free. Discover its impressive features and high RTP.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 533,
-                    "completion_tokens": 141,
-                    "total_tokens": 674
+                    "prompt_tokens": 530,
+                    "completion_tokens": 122,
+                    "total_tokens": 652
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/medusa-fortune-and-glory.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Medusa_Fortune_and_Glory_that_37316b37-f952-44c1-b676-a3dc344bc427_3.png",
+        "arved__Create_a_feature_image_for_Medusa_Fortune_and_Glory_that_37316b37-f952-44c1-b676-a3dc344bc427_1.png",
+        "arved__Create_a_feature_image_for_Medusa_Fortune_and_Glory_that_37316b37-f952-44c1-b676-a3dc344bc427_2.png",
+        "arved__Create_a_feature_image_for_Medusa_Fortune_and_Glory_that_37316b37-f952-44c1-b676-a3dc344bc427_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Medusa Fortune And Glory (Version 2).webp",
+        "game_reviews/processed_images/Medusa Fortune And Glory (Version 1).webp",
+        "game_reviews/processed_images/Medusa Fortune And Glory (Version 3).webp",
+        "game_reviews/processed_images/Medusa Fortune And Glory (Version 4).webp"
+    ],
+    "slug": "medusa-fortune-and-glory",
+    "name": "Medusa – Fortune and Glory",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/07/medusa-fortune-and-glory-social-300x169.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Medusa - Fortune & Glory Free | Review' ### Meta set: 'Read our review of Medusa - Fortune & Glory and play for free. Discover its impressive features and high RTP.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

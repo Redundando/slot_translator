@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Exciting free spin feature with up to 200 spins",
-                    "3x multiplier in the free spin feature",
-                    "Wild symbols can produce up to a 6x multiplier",
-                    "RTP of 96%"
+                    "Cartoon-style graphics and soothing jungle atmosphere",
+                    "Medium volatility for regular wins",
+                    "Multiple symbols and bonuses for increased chances of winning"
                 ],
                 "cons": [
-                    "Only 10 paylines",
-                    "Medium level of volatility might not appeal to high rollers"
+                    "Limited number of paylines (10)",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Ape's Dynasty for Free - Review and Bonus Features",
-                "meta_description": "Read our review of Ape's Dynasty, an online slot game featuring a free spin bonus and up to 200 spins. Play now for free and unlock various bonuses!"
+                "meta_title": "Play Ape’s Dynasty for Free",
+                "meta_description": "Read our review of Ape’s Dynasty and play for free with up to 200 free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ape’s Dynasty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBonus Games and Features\n\nApe's Dynasty comes with an exciting free spin feature that can be activated by landing three Scatter symbols. You can initially receive up to 25 free spins, which can be reactivated to a maximum of 200 spins. During the round, all winnings are multiplied by 3x. If there are Wild symbols in a combination, it can produce a 6x multiplier.\n\nGraphics and Features of the Slot\n\nApe's Dynasty is designed with a cartoon style and a soothing atmosphere depicting the jungle. The game features a 5x3 layout alongside 10 paylines providing a host of symbols, including green parrots, snakes, tigers, monkeys, and playing cards. The forest animal symbols offer payouts of up to 75 times, while playing cards provide payouts of 25 times.\n\nFree Spins Feature\n\nThe free spins feature in Ape's Dynasty is a highlight that can be activated when three Scatter symbols land anywhere on the reels. Initially, players receive 25 free spins, and this can be reactivated to a maximum of 200 spins. The feature applies a 3x multiplier to all winnings, and if there are Wild symbols in a combination, it can produce up to a 6x multiplier.\n\nRTP and Volatility\n\nApe's Dynasty comes with a medium level of volatility and an RTP of 96%, which is considered in line with the industry average. This means that the game offers decent payouts, neither too high nor too low, and you can expect wins regularly.\n\nSymbols and Winnings\n\nApe's Dynasty features various symbols embodying animals, including tigers, monkeys, snakes, and parrots, alongside classic playing cards. The forest animal symbols can offer payouts of up to 75 times, while playing cards provide payouts of 25 times. Players can increase their chances of winning by landing Wilds and Scatter symbols that can unlock various bonuses.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ape’s Dynasty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBonus Games and Features\n\nApe's Dynasty comes with an exciting free spin feature that can be activated by landing three Scatter symbols. You can initially receive up to 25 free spins, which can be reactivated to a maximum of 200 spins. During the round, all winnings are multiplied by 3x. If there are Wild symbols in a combination, it can produce a 6x multiplier.\n\nGraphics and Features of the Slot\n\nApe's Dynasty is designed with a cartoon style and a soothing atmosphere depicting the jungle. The game features a 5x3 layout alongside 10 paylines providing a host of symbols, including green parrots, snakes, tigers, monkeys, and playing cards. The forest animal symbols offer payouts of up to 75 times, while playing cards provide payouts of 25 times.\n\nFree Spins Feature\n\nThe free spins feature in Ape's Dynasty is a highlight that can be activated when three Scatter symbols land anywhere on the reels. Initially, players receive 25 free spins, and this can be reactivated to a maximum of 200 spins. The feature applies a 3x multiplier to all winnings, and if there are Wild symbols in a combination, it can produce up to a 6x multiplier.\n\nRTP and Volatility\n\nApe's Dynasty comes with a medium level of volatility and an RTP of 96%, which is considered in line with the industry average. This means that the game offers decent payouts, neither too high nor too low, and you can expect wins regularly.\n\nSymbols and Winnings\n\nApe's Dynasty features various symbols embodying animals, including tigers, monkeys, snakes, and parrots, alongside classic playing cards. The forest animal symbols can offer payouts of up to 75 times, while playing cards provide payouts of 25 times. Players can increase their chances of winning by landing Wilds and Scatter symbols that can unlock various bonuses.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXYHg2w4bgW53XVQN1BAJDszHrs5",
+                "id": "chatcmpl-7WNJt4HFMLGQqj9zL8VY7iBNcpVsV",
                 "object": "chat.completion",
-                "created": 1687036513,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 566,
-                    "completion_tokens": 145,
-                    "total_tokens": 711
-                },
+                "created": 1687950493,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting free spin feature with up to 200 spins\",\n        \"3x multiplier in the free spin feature\",\n        \"Wild symbols can produce up to a 6x multiplier\",\n        \"RTP of 96%\"\n    ],\n    \"cons\": [\n        \"Only 10 paylines\",\n        \"Medium level of volatility might not appeal to high rollers\"\n    ],\n    \"meta_title\": \"Play Ape's Dynasty for Free - Review and Bonus Features\",\n    \"meta_description\": \"Read our review of Ape's Dynasty, an online slot game featuring a free spin bonus and up to 200 spins. Play now for free and unlock various bonuses!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting free spin feature with up to 200 spins\",\n    \"Cartoon-style graphics and soothing jungle atmosphere\",\n    \"Medium volatility for regular wins\",\n    \"Multiple symbols and bonuses for increased chances of winning\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (10)\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Ape’s Dynasty for Free\",\n  \"meta_description\": \"Read our review of Ape’s Dynasty and play for free with up to 200 free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 563,
+                    "completion_tokens": 118,
+                    "total_tokens": 681
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/apes-dynasty.json",
     "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_1.png",
         "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_3.png",
         "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_1.png"
+        "arved__Create_a_cartoon-style_feature_image_for_Apes_Dynasty_th_bfbbb3b8-08ed-4991-8ba4-53e702323c13_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Apes Dynasty (Version 2).webp",
         "game_reviews/processed_images/Apes Dynasty (Version 4).webp",
         "game_reviews/processed_images/Apes Dynasty (Version 1).webp",
+        "game_reviews/processed_images/Apes Dynasty (Version 2).webp",
         "game_reviews/processed_images/Apes Dynasty (Version 3).webp"
-    ]
+    ],
+    "slug": "apes-dynasty",
+    "name": "Ape’s Dynasty",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Apes-Dynasty-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ape’s Dynasty for Free' ### Meta set: 'Read our review of Ape’s Dynasty and play for free with up to 200 free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

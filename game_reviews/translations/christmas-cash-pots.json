@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Festive Christmas theme with immersive graphics and sound effects",
-                    "Wide betting range for all types of players",
-                    "Above-average RTP of 96.5%",
-                    "Bonus feature with the potential to win up to 50x your bet"
+                    "Festive Christmas theme with immersive snowy landscapes",
+                    "Wide betting range, accessible to all types of players",
+                    "Above average theoretical return to player (RTP) of 96.5%",
+                    "Exciting bonus feature with the potential to collect up to 50x your bet"
                 ],
                 "cons": [
-                    "Limited number of paylines at 10",
+                    "Limited number of paylines with only 10 available",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Christmas Cash Pots Free | Festive Slot Game",
-                "meta_description": "Get into the holiday spirit and play Christmas Cash Pots for free. Review of the immersive festive slot game with a bonus feature and high RTP."
+                "meta_title": "Play Christmas Cash Pots Free - Festive Slot Game Review",
+                "meta_description": "Play Christmas Cash Pots for free and enjoy an immersive festive gaming experience with exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Christmas Cash Pots\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nChristmas Cash Pots, produced by Inspired, is an online slot game based on a festive Christmas theme. The game takes place on the backdrop of snowy landscapes, surrounded by the sparkling lights of the northern lights, creating an immersive gaming experience. The game symbols are all related to Christmas, including Santa Claus, an elf, and a reindeer.\n\nGameplay Structure and Features\n\nChristmas Cash Pots has a traditional game structure of five reels and three rows, offering 10 paylines. The betting range is wide, ranging from 10 cents to 100€ per spin, making it accessible to all types of players. The theoretical return to player (RTP) is 96.5%, above the industry average. The game features include free spins, wild symbols, and a special Christmas Cash Pot symbol that unlocks the Cash Collector Bonus feature.\n\nSymbols and Payouts\n\nThe game symbols in Christmas Cash Pots are Christmas-themed and colorful. There are four lower-value symbols in different colored gift packages, a Christmas tree, a stocking, a sack full of gifts, Santa Claus, an elf, and a reindeer. The Christmas Cash Pot symbol has the highest payout of €200 for a combination of five symbols on a payline.\n\nSpecial Christmas Cash Pot Symbol and Bonus Feature\n\nThe Christmas Cash Pot symbol is the key to unlocking the game's bonus feature. If you land three or more symbols on the reels, the Cash Collector Bonus feature is triggered. The feature includes a pick-and-click game where you can collect up to 50x your bet with every pick. The Christmas Cash Pot symbol also has the highest payout in the game, paying out €200 for a combination of five symbols on a payline.\n\nOverall Gaming Experience and Satisfaction\n\nChristmas Cash Pots is an excellent online slot game that offers a unique and festive gaming experience. The graphics and sound effects are well-designed, creating an immersive atmosphere that will make you feel like you're celebrating Christmas. The special Christmas Cash Pot symbol and bonus feature provide the game with added excitement and rewards, making it a joy to play. Overall, this game is suitable for players of all levels and will undoubtedly satisfy your craving for excitement and rewards during the holiday season.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Christmas Cash Pots\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nChristmas Cash Pots, produced by Inspired, is an online slot game based on a festive Christmas theme. The game takes place on the backdrop of snowy landscapes, surrounded by the sparkling lights of the northern lights, creating an immersive gaming experience. The game symbols are all related to Christmas, including Santa Claus, an elf, and a reindeer.\n\nGameplay Structure and Features\n\nChristmas Cash Pots has a traditional game structure of five reels and three rows, offering 10 paylines. The betting range is wide, ranging from 10 cents to 100€ per spin, making it accessible to all types of players. The theoretical return to player (RTP) is 96.5%, above the industry average. The game features include free spins, wild symbols, and a special Christmas Cash Pot symbol that unlocks the Cash Collector Bonus feature.\n\nSymbols and Payouts\n\nThe game symbols in Christmas Cash Pots are Christmas-themed and colorful. There are four lower-value symbols in different colored gift packages, a Christmas tree, a stocking, a sack full of gifts, Santa Claus, an elf, and a reindeer. The Christmas Cash Pot symbol has the highest payout of €200 for a combination of five symbols on a payline.\n\nSpecial Christmas Cash Pot Symbol and Bonus Feature\n\nThe Christmas Cash Pot symbol is the key to unlocking the game's bonus feature. If you land three or more symbols on the reels, the Cash Collector Bonus feature is triggered. The feature includes a pick-and-click game where you can collect up to 50x your bet with every pick. The Christmas Cash Pot symbol also has the highest payout in the game, paying out €200 for a combination of five symbols on a payline.\n\nOverall Gaming Experience and Satisfaction\n\nChristmas Cash Pots is an excellent online slot game that offers a unique and festive gaming experience. The graphics and sound effects are well-designed, creating an immersive atmosphere that will make you feel like you're celebrating Christmas. The special Christmas Cash Pot symbol and bonus feature provide the game with added excitement and rewards, making it a joy to play. Overall, this game is suitable for players of all levels and will undoubtedly satisfy your craving for excitement and rewards during the holiday season.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SuXxg5hKmaMHvC3Bpx4IK4wTXruK",
+                "id": "chatcmpl-7WQDT1GbE7m9wx98zFESkVZu2vKlV",
                 "object": "chat.completion",
-                "created": 1687124905,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 629,
-                    "completion_tokens": 142,
-                    "total_tokens": 771
-                },
+                "created": 1687961627,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Festive Christmas theme with immersive graphics and sound effects\",\n        \"Wide betting range for all types of players\",\n        \"Above-average RTP of 96.5%\",\n        \"Bonus feature with the potential to win up to 50x your bet\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines at 10\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Christmas Cash Pots Free | Festive Slot Game\",\n    \"meta_description\": \"Get into the holiday spirit and play Christmas Cash Pots for free. Review of the immersive festive slot game with a bonus feature and high RTP.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Festive Christmas theme with immersive snowy landscapes\",\n    \"Wide betting range, accessible to all types of players\",\n    \"Above average theoretical return to player (RTP) of 96.5%\",\n    \"Exciting bonus feature with the potential to collect up to 50x your bet\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines with only 10 available\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Christmas Cash Pots Free - Festive Slot Game Review\",\n  \"meta_description\": \"Play Christmas Cash Pots for free and enjoy an immersive festive gaming experience with exciting bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 626,
+                    "completion_tokens": 143,
+                    "total_tokens": 769
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_3.png",
         "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_4.png"
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Chr_771cc948-96ec-415f-9a96-94659f74c029_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Christmas Cash Pots (Version 4).webp",
         "game_reviews/processed_images/Christmas Cash Pots (Version 2).webp",
         "game_reviews/processed_images/Christmas Cash Pots (Version 1).webp",
-        "game_reviews/processed_images/Christmas Cash Pots (Version 4).webp",
         "game_reviews/processed_images/Christmas Cash Pots (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/christmas-cash-pots.json"
+    "filename": "game_reviews/translations/christmas-cash-pots.json",
+    "slug": "christmas-cash-pots",
+    "name": "Christmas Cash Pots",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Christmas-Cash-Pots-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Christmas Cash Pots Free - Festive Slot Game Review' ### Meta set: 'Play Christmas Cash Pots for free and enjoy an immersive festive gaming experience with exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

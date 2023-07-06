@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Avalanche gameplay system offers multiple chances to win",
-                    "Colossal Symbols can cover up to 9 positions on the reels",
-                    "Bonus Wheel awards cash prizes and free spins",
-                    "High-paying slot game with wins of up to 2,000 times your bet"
+                    "Immersive Norse mythology theme",
+                    "Avalanche gameplay system for multiple chances to win",
+                    "Colossal Symbols that cover up to 9 positions on the reels",
+                    "Bonus Wheel with cash prizes and free spins"
                 ],
                 "cons": [
-                    "Limited paylines compared to some other slot games",
-                    "Bonus Wheel feature only triggered by landing symbol on last three reels"
+                    "Limited betting options",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Asgardian Stones Slot Game for Free - A NetEnt Journey to Norse Mythology",
-                "meta_description": "Read our review of Asgardian Stones Slot Game. Play for free and journey into Norse mythology with cascading symbols, bonus wheel and high-paying wins."
+                "meta_title": "Play Asgardian Stones and Win Big - Free Slot Game",
+                "meta_description": "Experience the immersive Norse mythology of Asgardian Stones and play for free to win big."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Asgardian Stones\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAsgardian Stones Slot Game Overview\n\nAsgardian Stones by NetEnt is a 5-reel and 20-payline slot game that takes players on a journey into Norse mythology. The game can be played on mobile devices and offers varying betting options, from bets as low as 20 cents to as high as 200 euros.\n\nGameplay and Features\n\nAsgardian Stones features an Avalanche gameplay system, allowing players multiple chances to win in a single spin. The cascading symbols remain 'locked' on the reels for the next spin if they don't result in a win. The game also features Colossal Symbols that can cover up to 9 positions on the reels and Bonus Wheel that awards cash prizes and free spins.\n\nBonus Wheel Feature\n\nThe Bonus Wheel is Asgardian Stone's main attraction, offering players a Wheel of Fortune-style feature where they can win cash prizes and up to 15 free spins. During the free spins, players can benefit from the cascading symbols that remain 'locked' on the reels for the next spin if they do not result in a win. The Bonus Wheel can be triggered by landing the Bonus Wheel symbol on the last three reels of a spin.\n\nSymbols and Paytable\n\nThe symbols in Asgardian Stones are themed around Norse mythology, with stone faces representing the higher-paying symbols, while numbers and letters of playing cards make up the lower-paying symbols. The Wild symbol is represented by a simple 'W,' and the Scatter symbol is replaced by the Bonus Wheel symbol.\n\nWinning Potential\n\nAsgardian Stones offers wins of up to 2,000 times your bet, making it a high-paying slot game. With varying betting options and multiple chances to win within a single spin, Asgardian Stones offers players an immersive and entertaining gameplay experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Asgardian Stones\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAsgardian Stones Slot Game Overview\n\nAsgardian Stones by NetEnt is a 5-reel and 20-payline slot game that takes players on a journey into Norse mythology. The game can be played on mobile devices and offers varying betting options, from bets as low as 20 cents to as high as 200 euros.\n\nGameplay and Features\n\nAsgardian Stones features an Avalanche gameplay system, allowing players multiple chances to win in a single spin. The cascading symbols remain 'locked' on the reels for the next spin if they don't result in a win. The game also features Colossal Symbols that can cover up to 9 positions on the reels and Bonus Wheel that awards cash prizes and free spins.\n\nBonus Wheel Feature\n\nThe Bonus Wheel is Asgardian Stone's main attraction, offering players a Wheel of Fortune-style feature where they can win cash prizes and up to 15 free spins. During the free spins, players can benefit from the cascading symbols that remain 'locked' on the reels for the next spin if they do not result in a win. The Bonus Wheel can be triggered by landing the Bonus Wheel symbol on the last three reels of a spin.\n\nSymbols and Paytable\n\nThe symbols in Asgardian Stones are themed around Norse mythology, with stone faces representing the higher-paying symbols, while numbers and letters of playing cards make up the lower-paying symbols. The Wild symbol is represented by a simple 'W,' and the Scatter symbol is replaced by the Bonus Wheel symbol.\n\nWinning Potential\n\nAsgardian Stones offers wins of up to 2,000 times your bet, making it a high-paying slot game. With varying betting options and multiple chances to win within a single spin, Asgardian Stones offers players an immersive and entertaining gameplay experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SYvfG9wWPiLFK2PfwiZNNIEyeBzy",
+                "id": "chatcmpl-7WNTHdWV71oorhFgKJpq26ho1Vm1d",
                 "object": "chat.completion",
-                "created": 1687041807,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 545,
-                    "completion_tokens": 165,
-                    "total_tokens": 710
-                },
+                "created": 1687951075,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Avalanche gameplay system offers multiple chances to win\",\n        \"Colossal Symbols can cover up to 9 positions on the reels\",\n        \"Bonus Wheel awards cash prizes and free spins\",\n        \"High-paying slot game with wins of up to 2,000 times your bet\"\n    ],\n    \"cons\": [\n        \"Limited paylines compared to some other slot games\",\n        \"Bonus Wheel feature only triggered by landing symbol on last three reels\"\n    ],\n    \"meta_title\": \"Play Asgardian Stones Slot Game for Free - A NetEnt Journey to Norse Mythology\",\n    \"meta_description\": \"Read our review of Asgardian Stones Slot Game. Play for free and journey into Norse mythology with cascading symbols, bonus wheel and high-paying wins.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive Norse mythology theme\",\n    \"Avalanche gameplay system for multiple chances to win\",\n    \"Colossal Symbols that cover up to 9 positions on the reels\",\n    \"Bonus Wheel with cash prizes and free spins\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Asgardian Stones and Win Big - Free Slot Game\",\n  \"meta_description\": \"Experience the immersive Norse mythology of Asgardian Stones and play for free to win big.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 542,
+                    "completion_tokens": 121,
+                    "total_tokens": 663
+                }
             }
         },
         {
@@ -820,9 +820,18 @@
         "arved__Create_an_eye-catching_feature_image_for_Asgardian_Stone_385c55fd-5eea-4725-8e5f-f6ff44ebdffd_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Asgardian Stones (Version 1).webp",
-        "game_reviews/processed_images/Asgardian Stones (Version 3).webp",
         "game_reviews/processed_images/Asgardian Stones (Version 2).webp",
-        "game_reviews/processed_images/Asgardian Stones (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Asgardian Stones (Version 4).webp",
+        "game_reviews/processed_images/Asgardian Stones (Version 3).webp",
+        "game_reviews/processed_images/Asgardian Stones (Version 1).webp"
+    ],
+    "slug": "asgardian-stones",
+    "name": "Asgardian Stones",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Asgardian-Stones-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Asgardian Stones and Win Big - Free Slot Game' ### Meta set: 'Experience the immersive Norse mythology of Asgardian Stones and play for free to win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

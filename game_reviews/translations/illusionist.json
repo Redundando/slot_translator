@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High winning potential - up to 5,000 times the bet amount",
-                    "Stacked Wilds for better chances of winning",
-                    "Free spins triggered by stacked Wilds",
-                    "Engaging aesthetics and animations"
+                    "Game offers stacked Wilds and free spins for increased chances of winning",
+                    "Basic design with a vintage aesthetic adds to the overall charm",
+                    "High winning potential with a prize worth up to 5,000 times the bet amount",
+                    "Symbols relevant to the theme enhance the immersive experience"
                 ],
                 "cons": [
-                    "Basic design could be more modern",
-                    "Limited number of paylines"
+                    "Limited number of paylines may be disappointing for some players",
+                    "Graphics and animations could be more visually appealing"
                 ],
-                "meta_title": "Play Illusionist Free: Review and Top Tips",
-                "meta_description": "Learn how to play Illusionist for free. Read our review and find out about features, payouts, and symbols. Play now on major online casino sites."
+                "meta_title": "Play Illusionist Free | Review of Illusionist Slot Game",
+                "meta_description": "Read our review of Illusionist, a slot game with stacked Wilds and free spins. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Illusionist\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nIllusionist is a simple slot game with five reels, three rows, and nine paylines. The game has a maximum bet of 900 coins and a minimum bet of one coin per line. The slot machine offers stacked Wilds and free spins to increase the player's chance of winning.\n\nDesign and aesthetics\n\nIllusionist has a basic design with a vintage aesthetic. The game grid is framed by a fiery red curtain, and the symbols on the reels stand out against it. The pay lines are on the sides of the grid, while the game buttons are at the bottom. The lively icon animations and the fascinating magician on the initial screen make the gaming experience more engaging.\n\nPayouts and winnings\n\nThe Illusionist slot machine has a high winning potential, with the possibility of a prize worth as much as 5,000 times the bet amount. The game offers a special feature of stacked Wilds that replace other icons to complete winning combinations and free spins triggered by stacked Wilds on the first or fifth reel.\n\nSymbols and their relevance to the theme\n\nThe symbols in Illusionist include the usual playing cards and thematic symbols, such as a white dove, a rabbit coming out of a hat, hands performing a card trick, and the face of the illusionist himself. The illusionist pays the most and allows you to win the highest jackpot. The sparkling white gloves represent the Wild symbol of the game.\n\nBet sizes and paylines\n\nThe maximum bet on Illusionist is 900 coins, while the minimum bet is one coin per line. The game has nine pay lines. Novomatic software house offers the opportunity to try this slot machine in demo version before betting real money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Illusionist\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nIllusionist is a simple slot game with five reels, three rows, and nine paylines. The game has a maximum bet of 900 coins and a minimum bet of one coin per line. The slot machine offers stacked Wilds and free spins to increase the player's chance of winning.\n\nDesign and aesthetics\n\nIllusionist has a basic design with a vintage aesthetic. The game grid is framed by a fiery red curtain, and the symbols on the reels stand out against it. The pay lines are on the sides of the grid, while the game buttons are at the bottom. The lively icon animations and the fascinating magician on the initial screen make the gaming experience more engaging.\n\nPayouts and winnings\n\nThe Illusionist slot machine has a high winning potential, with the possibility of a prize worth as much as 5,000 times the bet amount. The game offers a special feature of stacked Wilds that replace other icons to complete winning combinations and free spins triggered by stacked Wilds on the first or fifth reel.\n\nSymbols and their relevance to the theme\n\nThe symbols in Illusionist include the usual playing cards and thematic symbols, such as a white dove, a rabbit coming out of a hat, hands performing a card trick, and the face of the illusionist himself. The illusionist pays the most and allows you to win the highest jackpot. The sparkling white gloves represent the Wild symbol of the game.\n\nBet sizes and paylines\n\nThe maximum bet on Illusionist is 900 coins, while the minimum bet is one coin per line. The game has nine pay lines. Novomatic software house offers the opportunity to try this slot machine in demo version before betting real money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QH0ZdDdT5V9ALiYBzjWBDqzzeGJs",
+                "id": "chatcmpl-7WV8nADSJpIyI455bpuBe10us8MBG",
                 "object": "chat.completion",
-                "created": 1686496263,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 525,
-                    "completion_tokens": 137,
-                    "total_tokens": 662
-                },
+                "created": 1687980557,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\":[\n        \"High winning potential - up to 5,000 times the bet amount\",\n        \"Stacked Wilds for better chances of winning\",\n        \"Free spins triggered by stacked Wilds\",\n        \"Engaging aesthetics and animations\"\n    ],\n    \"cons\":[\n        \"Basic design could be more modern\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Illusionist Free: Review and Top Tips\",\n    \"meta_description\": \"Learn how to play Illusionist for free. Read our review and find out about features, payouts, and symbols. Play now on major online casino sites.\"    \n}"
+                            "content": "{\n  \"pros\": [\n    \"Game offers stacked Wilds and free spins for increased chances of winning\",\n    \"Basic design with a vintage aesthetic adds to the overall charm\",\n    \"High winning potential with a prize worth up to 5,000 times the bet amount\",\n    \"Symbols relevant to the theme enhance the immersive experience\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines may be disappointing for some players\",\n    \"Graphics and animations could be more visually appealing\"\n  ],\n  \"meta_title\": \"Play Illusionist Free | Review of Illusionist Slot Game\",\n  \"meta_description\": \"Read our review of Illusionist, a slot game with stacked Wilds and free spins. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 522,
+                    "completion_tokens": 153,
+                    "total_tokens": 675
+                }
             }
         },
         {
@@ -811,15 +811,32 @@
     ],
     "filename": "game_reviews/translations/illusionist.json",
     "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_499e7c23-30c8-4914-a9fc-f57f1aeccf87_2.png",
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_499e7c23-30c8-4914-a9fc-f57f1aeccf87_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_3.png",
         "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_4.png",
-        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_2.png",
         "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_1.png",
-        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_3.png"
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_499e7c23-30c8-4914-a9fc-f57f1aeccf87_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_499e7c23-30c8-4914-a9fc-f57f1aeccf87_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_slot_game_Illusion_12e5f203-f4a9-4992-91da-8e00e15f56ea_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Illusionist (Version 7).webp",
+        "game_reviews/processed_images/Illusionist (Version 5).webp",
+        "game_reviews/processed_images/Illusionist (Version 4).webp",
         "game_reviews/processed_images/Illusionist (Version 1).webp",
+        "game_reviews/processed_images/Illusionist (Version 6).webp",
         "game_reviews/processed_images/Illusionist (Version 3).webp",
         "game_reviews/processed_images/Illusionist (Version 2).webp",
-        "game_reviews/processed_images/Illusionist (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Illusionist (Version 8).webp"
+    ],
+    "slug": "illusionist",
+    "name": "Illusionist",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Illusionist-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Illusionist Free | Review of Illusionist Slot Game' ### Meta set: 'Read our review of Illusionist, a slot game with stacked Wilds and free spins. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

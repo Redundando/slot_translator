@@ -692,40 +692,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Wide range of betting options",
-                    "Free spin bonus round with additional twists",
-                    "High-profit symbols, including 3x wild icons",
-                    "Captivating Brazilian theme with great graphics"
+                    "Captures iconic aspects of Brazil",
+                    "Wilds and great in-game features",
+                    "Access to respins and free spins",
+                    "Profitable symbols and high cash prizes"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "Default RTP slightly lower than average"
+                    "Limited number of paylines",
+                    "May not appeal to players who don't enjoy the Brazilian theme"
                 ],
-                "meta_title": "Play Brazilian Beauty Free: Captivating Brazilian Slot",
-                "meta_description": "Read our review of Brazilian Beauty, an online slot game with a captivating Brazilian theme. Play for free and enjoy bonus features like free spins."
+                "meta_title": "Play Brazilian Beauty Slot Game for Free",
+                "meta_description": "Experience the beauty of Brazil and play Brazilian Beauty slot game for free. Enjoy wilds, respins, and free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Brazilian Beauty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nReview: Brazilian Beauty\n\nBrazilian Beauty is an online slot game designed to capture many of the iconic aspects of Brazil, with wilds and great in-game features.\n\nGame Features\n\nBrazilian Beauty is a 5-reel, 30 payline slot machine that can be played from 30 cents to 150 euros per spin on all devices.\n\nBrazilian Beauty Bonus\n\nThe Brazilian Beauty Bonus is where you can access a respin feature and a free spins feature - the latter giving you up to 40 free spins and cash prizes up to 300 times your bet!\n\nHigh-Profit Symbols\n\nProfitable symbols include the 3x wild icons, which triple your earnings every time they participate in a win, and blazing sun tokens, which act as a kind of Scatter.\n\nFree Spin Bonus Round\n\nThe special bonus round includes some twists to help you earn even more prizes, such as recovering additional free spins. Free spins max out at 40, with an opportunity for bonus cash prizes.\n\nSimilar Slot Game\n\nIf you like the Brazilian theme, it is worth trying Samba Carnival, a slot machine produced by Play 'n Go, with 5 reels, 15 paylines, and many colorful crazy features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Brazilian Beauty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nReview: Brazilian Beauty\n\nBrazilian Beauty is an online slot game designed to capture many of the iconic aspects of Brazil, with wilds and great in-game features.\n\nGame Features\n\nBrazilian Beauty is a 5-reel, 30 payline slot machine that can be played from 30 cents to 150 euros per spin on all devices.\n\nBrazilian Beauty Bonus\n\nThe Brazilian Beauty Bonus is where you can access a respin feature and a free spins feature - the latter giving you up to 40 free spins and cash prizes up to 300 times your bet!\n\nHigh-Profit Symbols\n\nProfitable symbols include the 3x wild icons, which triple your earnings every time they participate in a win, and blazing sun tokens, which act as a kind of Scatter.\n\nFree Spin Bonus Round\n\nThe special bonus round includes some twists to help you earn even more prizes, such as recovering additional free spins. Free spins max out at 40, with an opportunity for bonus cash prizes.\n\nSimilar Slot Game\n\nIf you like the Brazilian theme, it is worth trying Samba Carnival, a slot machine produced by Play 'n Go, with 5 reels, 15 paylines, and many colorful crazy features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SmVBusiiDof6hy0qouRG7nbEkzhD",
+                "id": "chatcmpl-7WPLIsPkSg2URMsvtjKMew000YxN4",
                 "object": "chat.completion",
-                "created": 1687093981,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 423,
-                    "completion_tokens": 124,
-                    "total_tokens": 547
-                },
+                "created": 1687958268,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Wide range of betting options\",\n        \"Free spin bonus round with additional twists\",\n        \"High-profit symbols, including 3x wild icons\",\n        \"Captivating Brazilian theme with great graphics\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"Default RTP slightly lower than average\"\n    ],\n    \"meta_title\": \"Play Brazilian Beauty Free: Captivating Brazilian Slot\",\n    \"meta_description\": \"Read our review of Brazilian Beauty, an online slot game with a captivating Brazilian theme. Play for free and enjoy bonus features like free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Captures iconic aspects of Brazil\",\n    \"Wilds and great in-game features\",\n    \"Access to respins and free spins\",\n    \"Profitable symbols and high cash prizes\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"May not appeal to players who don't enjoy the Brazilian theme\"\n  ],\n  \"meta_title\": \"Play Brazilian Beauty Slot Game for Free\",\n  \"meta_description\": \"Experience the beauty of Brazil and play Brazilian Beauty slot game for free. Enjoy wilds, respins, and free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 420,
+                    "completion_tokens": 124,
+                    "total_tokens": 544
+                }
             }
         },
         {
@@ -927,14 +927,23 @@
     "raw_feature_images": [
         "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_3.png",
         "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_4.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_2.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_1.png"
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_7960f8e4-3eb4-42a2-b5f0-210299df09df_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Brazilian Beauty (Version 4).webp",
         "game_reviews/processed_images/Brazilian Beauty (Version 2).webp",
-        "game_reviews/processed_images/Brazilian Beauty (Version 1).webp",
-        "game_reviews/processed_images/Brazilian Beauty (Version 3).webp"
+        "game_reviews/processed_images/Brazilian Beauty (Version 4).webp",
+        "game_reviews/processed_images/Brazilian Beauty (Version 3).webp",
+        "game_reviews/processed_images/Brazilian Beauty (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/brazilian-beauty.json"
+    "filename": "game_reviews/translations/brazilian-beauty.json",
+    "slug": "brazilian-beauty",
+    "name": "Brazilian Beauty",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Brazilian-Beauty-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Brazilian Beauty Slot Game for Free' ### Meta set: 'Experience the beauty of Brazil and play Brazilian Beauty slot game for free. Enjoy wilds, respins, and free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

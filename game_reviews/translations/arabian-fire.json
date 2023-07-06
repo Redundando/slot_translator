@@ -580,40 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multiple jackpot opportunities",
+                    "Jackpot opportunities",
                     "Loaded with Loot function",
-                    "Stunning visual design",
-                    "Potential for big wins"
+                    "Visual design",
+                    "Number of paylines"
                 ],
                 "cons": [
-                    "Only 10 paylines",
-                    "Limited themes"
+                    "None"
                 ],
-                "meta_title": "Play Arabian Fire for Free - Unique and Exotic Slot Experience",
-                "meta_description": "Read our review of Arabian Fire, the slot game with multiple jackpot opportunities, stunning visual design, and the chance to trigger the Loaded with Loot function. Play for free!"
+                "meta_title": "Play Arabian Fire for Free",
+                "meta_description": "Read our review of Arabian Fire, a slot game with jackpot opportunities and stunning visual design. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Arabian Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot opportunities\n\nArabian Fire offers several jackpot opportunities, including the Minor Jackpot, the Major Jackpot, and the Grand Bonus, which can award you a whopping 30,000 credits if you manage to fill all ten spots on the special wheel.\n\nLoaded with Loot function\n\nTrigger the Loaded with Loot function by getting five golden spheres in a row, and you'll receive four free spins. From there, you can accumulate symbols on the right-side wheel, with the chance to win one of the jackpots (Minor, Major, or Grand).\n\nVisual design\n\nArabian Fire's graphics transport you to the Arabian desert, with vibrant colors and intricate designs. The background features a fiery phoenix, while the symbols include letters from American Poker, stars, flowers, and beautiful women. The heart symbols, in particular, are quite romantic.\n\nNumber of paylines\n\nArabian Fire has 10 paylines. While this may seem low compared to other slots, the potential for big wins makes up for it.\n\nOverall player experience\n\nArabian Fire provides a unique and exotic gaming experience for those looking for something different. With stunning graphics, multiple jackpot opportunities, and the chance to trigger the Loaded with Loot function, this slot provides ample opportunities for big wins. While the number of paylines is lower than some other games, the potential for big payouts more than makes up for it.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Arabian Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot opportunities\n\nArabian Fire offers several jackpot opportunities, including the Minor Jackpot, the Major Jackpot, and the Grand Bonus, which can award you a whopping 30,000 credits if you manage to fill all ten spots on the special wheel.\n\nLoaded with Loot function\n\nTrigger the Loaded with Loot function by getting five golden spheres in a row, and you'll receive four free spins. From there, you can accumulate symbols on the right-side wheel, with the chance to win one of the jackpots (Minor, Major, or Grand).\n\nVisual design\n\nArabian Fire's graphics transport you to the Arabian desert, with vibrant colors and intricate designs. The background features a fiery phoenix, while the symbols include letters from American Poker, stars, flowers, and beautiful women. The heart symbols, in particular, are quite romantic.\n\nNumber of paylines\n\nArabian Fire has 10 paylines. While this may seem low compared to other slots, the potential for big wins makes up for it.\n\nOverall player experience\n\nArabian Fire provides a unique and exotic gaming experience for those looking for something different. With stunning graphics, multiple jackpot opportunities, and the chance to trigger the Loaded with Loot function, this slot provides ample opportunities for big wins. While the number of paylines is lower than some other games, the potential for big payouts more than makes up for it.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXtqJT6EbEjTmPfLjLHjca7J3byH",
+                "id": "chatcmpl-7WNMEBrS4YtYzkHm7Fm5NoEjrSwpO",
                 "object": "chat.completion",
-                "created": 1687037850,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 461,
-                    "completion_tokens": 117,
-                    "total_tokens": 578
-                },
+                "created": 1687950638,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Multiple jackpot opportunities\",\n        \"Loaded with Loot function\",\n        \"Stunning visual design\",\n        \"Potential for big wins\"\n    ],\n    \"cons\": [\n        \"Only 10 paylines\",\n        \"Limited themes\"\n    ],\n    \"meta_title\": \"Play Arabian Fire for Free - Unique and Exotic Slot Experience\",\n    \"meta_description\": \"Read our review of Arabian Fire, the slot game with multiple jackpot opportunities, stunning visual design, and the chance to trigger the Loaded with Loot function. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Jackpot opportunities\",\n    \"Loaded with Loot function\",\n    \"Visual design\",\n    \"Number of paylines\"\n  ],\n  \"cons\": [\n    \"None\"\n  ],\n  \"meta_title\": \"Play Arabian Fire for Free\",\n  \"meta_description\": \"Read our review of Arabian Fire, a slot game with jackpot opportunities and stunning visual design. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 458,
+                    "completion_tokens": 86,
+                    "total_tokens": 544
+                }
             }
         },
         {
@@ -815,14 +814,23 @@
     "filename": "game_reviews/translations/arabian-fire.json",
     "raw_feature_images": [
         "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_2.png",
         "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_3.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_2.png"
+        "arved__Create_a_cartoon-style_feature_image_for_Arabian_Fire_sl_75d8d392-2f1e-4053-9d73-72af80433eb6_3.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Arabian Fire (Version 1).webp",
         "game_reviews/processed_images/Arabian Fire (Version 2).webp",
-        "game_reviews/processed_images/Arabian Fire (Version 4).webp",
         "game_reviews/processed_images/Arabian Fire (Version 3).webp",
-        "game_reviews/processed_images/Arabian Fire (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Arabian Fire (Version 4).webp"
+    ],
+    "slug": "arabian-fire",
+    "name": "Arabian Fire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Arabian-Fire-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Arabian Fire for Free' ### Meta set: 'Read our review of Arabian Fire, a slot game with jackpot opportunities and stunning visual design. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

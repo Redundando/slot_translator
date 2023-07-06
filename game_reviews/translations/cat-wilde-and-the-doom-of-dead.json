@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Expanding wilds on all reels",
-                    "Free spins feature with a special expanding symbol",
-                    "High-quality graphics and design",
-                    "Payouts of up to 5,000x your stake per spin"
+                    "Free spins feature with special expanding symbol",
+                    "Payouts of up to 5,000x stake per spin",
+                    "Excellent design and high-quality graphics"
                 ],
                 "cons": [
-                    "High volatility may not be suited for all players",
-                    "Only 10 paylines may not be enough for some players"
+                    "High volatility may not be suited for low variance slot players",
+                    "Limited wagering options"
                 ],
-                "meta_title": "Play Cat Wilde and the Doom of Dead Free | Review",
-                "meta_description": "Experience ancient Egypt with Cat Wilde and the Doom of Dead slot game by Play N Go for free. Read our review for game features, design, and gameplay."
+                "meta_title": "Play Cat Wilde and the Doom of Dead for Free",
+                "meta_description": "Read our review of Cat Wilde and the Doom of Dead, a highly volatile slot game with expanding wilds and free spins. Play for free now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cat Wilde and the Doom of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nCat Wilde and the Doom of Dead is a 5-reel, 10-payline slot game by Play N Go that features expanding wilds on all reels and a free spins feature with a randomly chosen special expanding symbol that can result in non-adjacent wins. Payouts of up to 5,000x your stake per spin are possible, making it a highly volatile game worth trying.\n\nGame Design\n\nThe game features excellent design and high-quality graphics, with huge pillars in the background and symbols like a compass, scarabs, Anubis, and Cat Wilde herself. The Eye of Ra symbol acts as the wild and expands to give wild reels, transforming into the Egyptian pharaohs Ramses, Thutmose, Amenhotep, and Hatsheput.\n\nGameplay\n\nTo start your adventure in ancient Egypt, you can select your bet per spin using the bar at the bottom center of the screen. With clear instructions and easy-to-use buttons, you'll have no trouble getting started. The game is played with 5 reels, 3 rows, and 10 fixed paylines, with winnings requiring matching symbols on a payline starting from reel 1.\n\nVolatility\n\nCat Wilde and the Doom of Dead is a highly volatile slot game with a rating of 10 out of 10, making big wins rare but potentially lucrative. As such, it may not be suited for those who prefer lower variance slots.\n\nWagering Options\n\nPlayers can play Cat Wilde and the Doom of Dead for as little as 10 cents per spin or up to €100 per spin. Those looking for similar slot games with high payout potential may also want to check out Play N Go's Aztec Idols or Book of Dead starring Rich Wilde.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cat Wilde and the Doom of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nCat Wilde and the Doom of Dead is a 5-reel, 10-payline slot game by Play N Go that features expanding wilds on all reels and a free spins feature with a randomly chosen special expanding symbol that can result in non-adjacent wins. Payouts of up to 5,000x your stake per spin are possible, making it a highly volatile game worth trying.\n\nGame Design\n\nThe game features excellent design and high-quality graphics, with huge pillars in the background and symbols like a compass, scarabs, Anubis, and Cat Wilde herself. The Eye of Ra symbol acts as the wild and expands to give wild reels, transforming into the Egyptian pharaohs Ramses, Thutmose, Amenhotep, and Hatsheput.\n\nGameplay\n\nTo start your adventure in ancient Egypt, you can select your bet per spin using the bar at the bottom center of the screen. With clear instructions and easy-to-use buttons, you'll have no trouble getting started. The game is played with 5 reels, 3 rows, and 10 fixed paylines, with winnings requiring matching symbols on a payline starting from reel 1.\n\nVolatility\n\nCat Wilde and the Doom of Dead is a highly volatile slot game with a rating of 10 out of 10, making big wins rare but potentially lucrative. As such, it may not be suited for those who prefer lower variance slots.\n\nWagering Options\n\nPlayers can play Cat Wilde and the Doom of Dead for as little as 10 cents per spin or up to €100 per spin. Those looking for similar slot games with high payout potential may also want to check out Play N Go's Aztec Idols or Book of Dead starring Rich Wilde.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Srs24GLznkbSwvgNrLdwCq2WQ25Y",
+                "id": "chatcmpl-7WPv6AgFL1jsj7FkHSZfMbB7EyMP2",
                 "object": "chat.completion",
-                "created": 1687114618,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 539,
-                    "completion_tokens": 148,
-                    "total_tokens": 687
-                },
+                "created": 1687960488,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Expanding wilds on all reels\",\n    \"Free spins feature with a special expanding symbol\",\n    \"High-quality graphics and design\",\n    \"Payouts of up to 5,000x your stake per spin\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suited for all players\",\n    \"Only 10 paylines may not be enough for some players\"\n  ],\n  \"meta_title\": \"Play Cat Wilde and the Doom of Dead Free | Review\",\n  \"meta_description\": \"Experience ancient Egypt with Cat Wilde and the Doom of Dead slot game by Play N Go for free. Read our review for game features, design, and gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Expanding wilds on all reels\",\n    \"Free spins feature with special expanding symbol\",\n    \"Payouts of up to 5,000x stake per spin\",\n    \"Excellent design and high-quality graphics\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suited for low variance slot players\",\n    \"Limited wagering options\"\n  ],\n  \"meta_title\": \"Play Cat Wilde and the Doom of Dead for Free\",\n  \"meta_description\": \"Read our review of Cat Wilde and the Doom of Dead, a highly volatile slot game with expanding wilds and free spins. Play for free now.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 536,
+                    "completion_tokens": 137,
+                    "total_tokens": 673
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Cat_Wild_9b56af9b-e1aa-4ad6-83ed-3e8a3346f62f_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Cat_Wild_9b56af9b-e1aa-4ad6-83ed-3e8a3346f62f_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Cat_Wild_9b56af9b-e1aa-4ad6-83ed-3e8a3346f62f_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Cat_Wild_9b56af9b-e1aa-4ad6-83ed-3e8a3346f62f_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Cat_Wild_9b56af9b-e1aa-4ad6-83ed-3e8a3346f62f_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 1).webp",
-        "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 2).webp",
+        "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 3).webp",
         "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 4).webp",
-        "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 3).webp"
+        "game_reviews/processed_images/Cat Wilde And The Doom Of Dead (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/cat-wilde-and-the-doom-of-dead.json"
+    "filename": "game_reviews/translations/cat-wilde-and-the-doom-of-dead.json",
+    "slug": "cat-wilde-and-the-doom-of-dead",
+    "name": "Cat Wilde and the Doom of Dead",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cat-Wilde-And-The-Doom-Of-Dead-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cat Wilde and the Doom of Dead for Free' ### Meta set: 'Read our review of Cat Wilde and the Doom of Dead, a highly volatile slot game with expanding wilds and free spins. Play for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

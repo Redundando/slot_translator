@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Easy game mechanics and well-designed test mode",
-                    "Immeasurable opportunities to win and lucrative bonus modes",
-                    "Beautiful symbol design and immersive fortune teller theme",
-                    "Unique and diverse theme compared to other virtual slot machines"
+                    "Easy gameplay mechanics and user-friendly interface",
+                    "Abundant opportunities to win and exciting bonus modes",
+                    "Beautiful symbol design and immersive theme",
+                    "Unique and diverse from other slot machines"
                 ],
                 "cons": [
-                    "Limited number of pay lines compared to other slot games",
-                    "Absence of progressive jackpot"
+                    "Limited number of pay lines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Fortune Tellers Charm Free - Exciting Magic & Fortune Theme",
-                "meta_description": "Try your fortune with Fortune Tellers Charm, a free slot game by Leander Games, featuring a beautiful fortune teller theme and diverse game mechanics."
+                "meta_title": "Play Fortune Tellers Charm Free: Review of Leander Games Slot",
+                "meta_description": "Play Fortune Tellers Charm for free and enjoy an immersive gaming experience. Review of Leander Games slot."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fortune Tellers Charm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and ease of use\n\nFortune Tellers Charm has five game reels, more than a few pay lines, and a well-designed slot machine test mode. This makes it easy for beginners to understand the basic functions of the game and involve them right away in the gaming experience.\n\nOpportunities to win and bonus modes\n\nFortune Tellers Charm offers an immeasurable amount of opportunities to win. In specific bonus modes, you can get up to 500 times the value of your bet, and in normal mode up to 75 times your wager. The pay lines are really many and it is quite easy to align the right symbols.\n\nSymbol design and immersion\n\nFortune Tellers Charm has a beautiful, charming fortune teller as its main character who will lead you into the world of magic, cards, and smoke. In addition to the innovative symbols on this theme, the virtual slot machine in question respects all the traditions of the case: the figures of the playing cards are always present as symbols.\n\nUnique and diverse theme\n\nFortune Tellers Charm is completely unrelated to all the other virtual slot machines offered by Leander Games, making it a unique and diverse theme. The slot machine is based on fortune and magic, a combination that can generate a lot of wealth for those who venture into this gaming experience.\n\nOverall experience and player appeal\n\nFortune Tellers Charm by Leander Games offers an exciting and immersive gaming experience with an attractive chance of winning. The game mechanics are easy to understand, making it an ideal choice for both beginners and experienced players. The unique and diverse theme makes it stand out from other virtual slot machines. Overall, Fortune Tellers Charm is a title that everyone should try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fortune Tellers Charm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and ease of use\n\nFortune Tellers Charm has five game reels, more than a few pay lines, and a well-designed slot machine test mode. This makes it easy for beginners to understand the basic functions of the game and involve them right away in the gaming experience.\n\nOpportunities to win and bonus modes\n\nFortune Tellers Charm offers an immeasurable amount of opportunities to win. In specific bonus modes, you can get up to 500 times the value of your bet, and in normal mode up to 75 times your wager. The pay lines are really many and it is quite easy to align the right symbols.\n\nSymbol design and immersion\n\nFortune Tellers Charm has a beautiful, charming fortune teller as its main character who will lead you into the world of magic, cards, and smoke. In addition to the innovative symbols on this theme, the virtual slot machine in question respects all the traditions of the case: the figures of the playing cards are always present as symbols.\n\nUnique and diverse theme\n\nFortune Tellers Charm is completely unrelated to all the other virtual slot machines offered by Leander Games, making it a unique and diverse theme. The slot machine is based on fortune and magic, a combination that can generate a lot of wealth for those who venture into this gaming experience.\n\nOverall experience and player appeal\n\nFortune Tellers Charm by Leander Games offers an exciting and immersive gaming experience with an attractive chance of winning. The game mechanics are easy to understand, making it an ideal choice for both beginners and experienced players. The unique and diverse theme makes it stand out from other virtual slot machines. Overall, Fortune Tellers Charm is a title that everyone should try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TIEHdfKEYnLnxQMxr6Nq15GzSHj0",
+                "id": "chatcmpl-7WT5GmMISYAZuWko7ZvzukhtHNuZQ",
                 "object": "chat.completion",
-                "created": 1687215941,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 525,
-                    "completion_tokens": 144,
-                    "total_tokens": 669
-                },
+                "created": 1687972650,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Easy game mechanics and well-designed test mode\",\n        \"Immeasurable opportunities to win and lucrative bonus modes\",\n        \"Beautiful symbol design and immersive fortune teller theme\",\n        \"Unique and diverse theme compared to other virtual slot machines\"\n    ],\n    \"cons\": [\n        \"Limited number of pay lines compared to other slot games\",\n        \"Absence of progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Fortune Tellers Charm Free - Exciting Magic & Fortune Theme\",\n    \"meta_description\": \"Try your fortune with Fortune Tellers Charm, a free slot game by Leander Games, featuring a beautiful fortune teller theme and diverse game mechanics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Easy gameplay mechanics and user-friendly interface\",\n    \"Abundant opportunities to win and exciting bonus modes\",\n    \"Beautiful symbol design and immersive theme\",\n    \"Unique and diverse from other slot machines\"\n  ],\n  \"cons\": [\n    \"Limited number of pay lines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Fortune Tellers Charm Free: Review of Leander Games Slot\",\n  \"meta_description\": \"Play Fortune Tellers Charm for free and enjoy an immersive gaming experience. Review of Leander Games slot.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 522,
+                    "completion_tokens": 121,
+                    "total_tokens": 643
+                }
             }
         },
         {
@@ -812,5 +812,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fortune-tellers-charm.json"
+    "filename": "game_reviews/translations/fortune-tellers-charm.json",
+    "raw_feature_images": [
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_294e806c-cf7e-4e3f-aca3-5b1aec5110ce_3.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_294e806c-cf7e-4e3f-aca3-5b1aec5110ce_4.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_c22ca9c9-880c-4f55-a6ed-50a6f85f155d_1.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_c22ca9c9-880c-4f55-a6ed-50a6f85f155d_2.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_294e806c-cf7e-4e3f-aca3-5b1aec5110ce_1.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_c22ca9c9-880c-4f55-a6ed-50a6f85f155d_4.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_294e806c-cf7e-4e3f-aca3-5b1aec5110ce_2.png",
+        "arved__Prompt_Design_an_eye-catching_feature_image_for_the_game_c22ca9c9-880c-4f55-a6ed-50a6f85f155d_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fortune Tellers Charm (Version 7).webp",
+        "game_reviews/processed_images/Fortune Tellers Charm (Version 6).webp",
+        "game_reviews/processed_images/Fortune Tellers Charm (Version 5).webp",
+        "game_reviews/processed_images/Fortune Tellers Charm (Version 8).webp"
+    ],
+    "slug": "fortune-tellers-charm",
+    "name": "Fortune Tellers Charm",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fortune-Tellers-Charm-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fortune Tellers Charm Free: Review of Leander Games Slot' ### Meta set: 'Play Fortune Tellers Charm for free and enjoy an immersive gaming experience. Review of Leander Games slot.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

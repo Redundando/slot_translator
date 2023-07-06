@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Numerous bonus features",
-                    "Chance to win big payouts",
-                    "Free to play",
+                    "Multiple bonus features for increased excitement",
+                    "Free spins triggered by landing bonus symbols",
+                    "Unique and nostalgic anime theme",
                     "Fantastic graphics and animations"
                 ],
                 "cons": [
-                    "Moderately volatile game",
-                    "Limited betting range"
+                    "Moderately volatile gameplay",
+                    "Limited betting limits"
                 ],
-                "meta_title": "Play Daltanious Free: Review of a Superhero Slot Game",
-                "meta_description": "Discover Daltanious, a Japanese superhero-themed slot game offering numerous bonus features and big payouts. Play for free and read our review."
+                "meta_title": "Play Daltanious - Free Slot Game Review",
+                "meta_description": "Discover the exciting gameplay and unique anime theme of Daltanious in this free slot game review."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Daltanious\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nDaltanious is a simple slot game that offers players a shot at big payouts with its 20 paylines. The game's symbols include letters, numbers, and iconic characters and elements from the anime series. The slot machine boasts numerous bonus features, with some symbols serving as wilds or triggering free spins. For instance, the Wild Symbol, acting as a joker, helps create winning combinations resulting in prizes of up to 2,000 coins. Meanwhile, three Bonus Symbols, when landing in any positions on the reels, awards the player ten free spins at the same bet as the valid last bet.\n\nSymbols and Payouts\n\nDaltanious features classic alphanumeric symbols such as A, K, Q, J, and 10 as base symbols, while the highest-paying characters include Dani Hibari, the alien in purple, Kento Tate, and the supreme Kloppen symbol. The lion robot, Beralios, serves as the Wild, and the mega robot Daltanious is the Scatter. Players have the chance to win up to 750x their bet for a combination of five of the highest-paying characters or symbols.\n\nCoin Sizes and Betting Limits\n\nPlaying Daltanious online is a unique gaming experience. The game is available online for free, and players can bet on coin sizes between one cent and 1.25 euros up to a maximum of 25 euros per spin.\n\nRTP (Return to Player)\n\nDaltanious has an RTP of 93.21%, making it a moderately volatile game. Learning the game's tricks and bonus features can positively impact players' chances of hitting big wins.\n\nTheme and Design\n\nDaltanious is a superhero-themed slot game inspired by a Japanese anime TV series and brings players a chance to immerse themselves in a nostalgic atmosphere. The game's unique cartoonish design is typical of the era, and the various symbols, including robots battling with laser beams and missiles, cyborgs, and aliens, are all iconic elements from the anime series. The graphics and animations are fantastic and complement the game's theme exceptionally well.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Daltanious\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nDaltanious is a simple slot game that offers players a shot at big payouts with its 20 paylines. The game's symbols include letters, numbers, and iconic characters and elements from the anime series. The slot machine boasts numerous bonus features, with some symbols serving as wilds or triggering free spins. For instance, the Wild Symbol, acting as a joker, helps create winning combinations resulting in prizes of up to 2,000 coins. Meanwhile, three Bonus Symbols, when landing in any positions on the reels, awards the player ten free spins at the same bet as the valid last bet.\n\nSymbols and Payouts\n\nDaltanious features classic alphanumeric symbols such as A, K, Q, J, and 10 as base symbols, while the highest-paying characters include Dani Hibari, the alien in purple, Kento Tate, and the supreme Kloppen symbol. The lion robot, Beralios, serves as the Wild, and the mega robot Daltanious is the Scatter. Players have the chance to win up to 750x their bet for a combination of five of the highest-paying characters or symbols.\n\nCoin Sizes and Betting Limits\n\nPlaying Daltanious online is a unique gaming experience. The game is available online for free, and players can bet on coin sizes between one cent and 1.25 euros up to a maximum of 25 euros per spin.\n\nRTP (Return to Player)\n\nDaltanious has an RTP of 93.21%, making it a moderately volatile game. Learning the game's tricks and bonus features can positively impact players' chances of hitting big wins.\n\nTheme and Design\n\nDaltanious is a superhero-themed slot game inspired by a Japanese anime TV series and brings players a chance to immerse themselves in a nostalgic atmosphere. The game's unique cartoonish design is typical of the era, and the various symbols, including robots battling with laser beams and missiles, cyborgs, and aliens, are all iconic elements from the anime series. The graphics and animations are fantastic and complement the game's theme exceptionally well.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T0IEuY4J0oxp9zZ6SK2Ftq2Xu9bM",
+                "id": "chatcmpl-7WQue1emPhlYM17ToCovtBSENlR4R",
                 "object": "chat.completion",
-                "created": 1687146994,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 608,
-                    "completion_tokens": 102,
-                    "total_tokens": 710
-                },
+                "created": 1687964304,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Numerous bonus features\", \"Chance to win big payouts\", \"Free to play\", \"Fantastic graphics and animations\"],\n    \"cons\": [\"Moderately volatile game\", \"Limited betting range\"],\n    \"meta_title\": \"Play Daltanious Free: Review of a Superhero Slot Game\",\n    \"meta_description\": \"Discover Daltanious, a Japanese superhero-themed slot game offering numerous bonus features and big payouts. Play for free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Multiple bonus features for increased excitement\",\n    \"Free spins triggered by landing bonus symbols\",\n    \"Unique and nostalgic anime theme\",\n    \"Fantastic graphics and animations\"\n  ],\n  \"cons\": [\n    \"Moderately volatile gameplay\",\n    \"Limited betting limits\"\n  ],\n  \"meta_title\": \"Play Daltanious - Free Slot Game Review\",\n  \"meta_description\": \"Discover the exciting gameplay and unique anime theme of Daltanious in this free slot game review.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 605,
+                    "completion_tokens": 107,
+                    "total_tokens": 712
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_4.png",
         "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_4.png"
+        "arved__Prompt_Create_a_feature_image_for_Daltanious_that_featur_012eca8b-197a-42f4-a165-7a1c0737fc97_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Daltanious (Version 1).webp",
-        "game_reviews/processed_images/Daltanious (Version 2).webp",
         "game_reviews/processed_images/Daltanious (Version 3).webp",
+        "game_reviews/processed_images/Daltanious (Version 2).webp",
         "game_reviews/processed_images/Daltanious (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/daltanious.json"
+    "filename": "game_reviews/translations/daltanious.json",
+    "slug": "daltanious",
+    "name": "Daltanious",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Daltanious-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Daltanious - Free Slot Game Review' ### Meta set: 'Discover the exciting gameplay and unique anime theme of Daltanious in this free slot game review.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

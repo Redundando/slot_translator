@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and game symbols",
-                    "Bonus round of free spins with variations",
-                    "Smooth gameplay and vibrant design",
-                    "Suitable for casual players and experienced gamblers"
+                    "High-quality graphics and game symbols",
+                    "Well-designed and executed theme of deities",
+                    "Stunning visuals and atmospheric music",
+                    "Bonus round of free spins with variations"
                 ],
                 "cons": [
-                    "Low variance may not offer big winnings",
-                    "Free spins cannot be reactivated"
+                    "Bonus round cannot be reactivated",
+                    "High winnings are rare"
                 ],
-                "meta_title": "Play Day and Night Free Slot Game - Review 2021",
-                "meta_description": "Play Day and Night, an ancient Egyptian-themed slot game with stunning graphics and free spins. Read our review to learn more and play for free."
+                "meta_title": "Play Day and Night Free - Exciting Slot Game with Stunning Graphics",
+                "meta_description": "Read our review of Day and Night, an exciting slot game with stunning graphics. Play for free and enjoy the bonus round!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Day and Night\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and game symbols\n\nThe graphics of Day and Night are of the highest level. The design of the game is pleasant and the fight between the two deities is well thought out and executed. The graphics are stunning, with the representation of Ra in orange color, majestic with spread and waving wings while the sun shines behind him. And of course, contrast it with the grace of night, of darkness for a magical effect that is enriched with the luminous moon. The gameplay includes lower symbols of Jacks, Queens, Kings, and Aces, which then join the richer icons such as the scarab, the staff, and the eye of Horus. The music played in Egyptian style with sharp sound effects enhances the atmosphere.\n\nSpecial Features\n\nDay and Night offers a bonus round of free spins with variations. At the moment one of the two parts dominates over the other and on all reels, you can unlock 10 free spins to use immediately, but they cannot be reactivated. In the case of Ra, you will have from 1 to 24 additional randomly added Wild symbols on each spin; for Bastet instead, the Wilds reactivate and become fixed when they land.\n\nGameplay and design\n\nDay and Night offers 20 pay lines that can actually double to 40. There is a bonus round that pays frequently even if it never releases too high winnings. Casual players and experienced gamblers will both appreciate the game's design and can enjoy the music played in Egyptian style with sharp sound effects. The gameplay is smooth and the graphics are stunning.\n\nSuitability for players\n\nThis machine is suitable for all casual players, but it also intrigues experienced gamblers whom we recommend giving it at least a chance. It is a slot game with a vibrant and stunning look and offers a bonus round of free spins with variations. Players who appreciate ancient Egyptian-themed slots will enjoy Day and Night.\n\nRTP and variance\n\nDay and Night has an RTP of 96.38% and a low variance that will make you win many small victories, but for the big ones, you will have to wait.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Day and Night\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and game symbols\n\nThe graphics of Day and Night are of the highest level. The design of the game is pleasant and the fight between the two deities is well thought out and executed. The graphics are stunning, with the representation of Ra in orange color, majestic with spread and waving wings while the sun shines behind him. And of course, contrast it with the grace of night, of darkness for a magical effect that is enriched with the luminous moon. The gameplay includes lower symbols of Jacks, Queens, Kings, and Aces, which then join the richer icons such as the scarab, the staff, and the eye of Horus. The music played in Egyptian style with sharp sound effects enhances the atmosphere.\n\nSpecial Features\n\nDay and Night offers a bonus round of free spins with variations. At the moment one of the two parts dominates over the other and on all reels, you can unlock 10 free spins to use immediately, but they cannot be reactivated. In the case of Ra, you will have from 1 to 24 additional randomly added Wild symbols on each spin; for Bastet instead, the Wilds reactivate and become fixed when they land.\n\nGameplay and design\n\nDay and Night offers 20 pay lines that can actually double to 40. There is a bonus round that pays frequently even if it never releases too high winnings. Casual players and experienced gamblers will both appreciate the game's design and can enjoy the music played in Egyptian style with sharp sound effects. The gameplay is smooth and the graphics are stunning.\n\nSuitability for players\n\nThis machine is suitable for all casual players, but it also intrigues experienced gamblers whom we recommend giving it at least a chance. It is a slot game with a vibrant and stunning look and offers a bonus round of free spins with variations. Players who appreciate ancient Egyptian-themed slots will enjoy Day and Night.\n\nRTP and variance\n\nDay and Night has an RTP of 96.38% and a low variance that will make you win many small victories, but for the big ones, you will have to wait.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T0z2J5sSkolF1HOd6JaSafVQohDN",
+                "id": "chatcmpl-7WQzeCOFo0ZqNiwDkRTQhmi5UwuNS",
                 "object": "chat.completion",
-                "created": 1687149648,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 601,
-                    "completion_tokens": 130,
-                    "total_tokens": 731
-                },
+                "created": 1687964614,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and game symbols\",\n        \"Bonus round of free spins with variations\",\n        \"Smooth gameplay and vibrant design\",\n        \"Suitable for casual players and experienced gamblers\"\n    ],\n    \"cons\": [\n        \"Low variance may not offer big winnings\",\n        \"Free spins cannot be reactivated\"\n    ],\n    \"meta_title\": \"Play Day and Night Free Slot Game - Review 2021\",\n    \"meta_description\": \"Play Day and Night, an ancient Egyptian-themed slot game with stunning graphics and free spins. Read our review to learn more and play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality graphics and game symbols\",\n    \"Well-designed and executed theme of deities\",\n    \"Stunning visuals and atmospheric music\",\n    \"Bonus round of free spins with variations\"\n  ],\n  \"cons\": [\n    \"Bonus round cannot be reactivated\",\n    \"High winnings are rare\"\n  ],\n  \"meta_title\": \"Play Day and Night Free - Exciting Slot Game with Stunning Graphics\",\n  \"meta_description\": \"Read our review of Day and Night, an exciting slot game with stunning graphics. Play for free and enjoy the bonus round!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 598,
+                    "completion_tokens": 124,
+                    "total_tokens": 722
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_2.png",
         "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_4.png",
         "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_2.png"
+        "arved__Create_a_feature_image_fitting_the_game_Day_and_Night_Pl_488c20bf-f166-432b-9b95-bcf1c6fff536_4.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Day And Night (Version 3).webp",
         "game_reviews/processed_images/Day And Night (Version 1).webp",
-        "game_reviews/processed_images/Day And Night (Version 2).webp",
         "game_reviews/processed_images/Day And Night (Version 4).webp",
-        "game_reviews/processed_images/Day And Night (Version 3).webp"
+        "game_reviews/processed_images/Day And Night (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/day-and-night.json"
+    "filename": "game_reviews/translations/day-and-night.json",
+    "slug": "day-and-night",
+    "name": "Day and Night",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Day-And-Night-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Day and Night Free - Exciting Slot Game with Stunning Graphics' ### Meta set: 'Read our review of Day and Night, an exciting slot game with stunning graphics. Play for free and enjoy the bonus round!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

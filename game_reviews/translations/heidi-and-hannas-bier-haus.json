@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Interesting bonus rounds and features",
                     "Humorous and entertaining graphics",
-                    "Suitable for players of all skill levels",
-                    "High RTP of 96.15%"
+                    "Impressive return to player (RTP) rate of 96.15%",
+                    "Wide range of bonus rounds and special features",
+                    "Suitable for players of all skill levels"
                 ],
                 "cons": [
-                    "Limited maximum bet of 180 euros",
-                    "May not appeal to players looking for more traditional slots"
+                    "Limited number of paylines (up to 50)",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Heidi and Hanna's Bier Haus for Free - A Fun Oktoberfest Slot",
-                "meta_description": "Read our review of Heidi and Hanna's Bier Haus, a fun and entertaining online slot game set in Oktoberfest. Play for free and enjoy bonus rounds and special features."
+                "meta_title": "Play Heidi and Hanna’s Bier Haus for Free",
+                "meta_description": "Read our review of Heidi and Hanna’s Bier Haus slot game and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Heidi and Hanna’s Bier Haus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Features\n\nHeidi and Hanna’s Bier Haus is a slot game with 6 reels and up to 50 paylines. It features Beer Stein as the Wild symbol that can assist in forming winning combinations. The Scatter symbol is represented by Heidi and Hanna, which can trigger up to 10 free spins by appearing in multiple positions on the screen at the same time.\n\nTheme and Graphics\n\nHeidi and Hanna’s Bier Haus is set in the context of Oktoberfest, a popular beer festival in Germany. The game offers cartoonish graphics that adds a touch of humor and entertaining effect to the gameplay. Additionally, the audio track provides the typical sound of toasts and chat that serves to complete the festivity atmosphere.\n\nBet Limits and Payouts\n\nThe minimum bet a player can make in Heidi and Hanna’s Bier Haus is 0.15 cents, while the maximum bet can reach up to 180 euros. The return to the player (RTP) is impressive, at 96.15%, which can be very appealing for gambling enthusiasts looking to increase their chances of winning.\n\nTarget Audience and Appeal\n\nHeidi and Hanna’s Bier Haus is a light-hearted online slot game. This title is suitable for players of all skill levels, from beginners to experts. The game offers an interesting package that aims to entertain players by offering a unique experience on the reels. It is most appealing to players seeking a fun and entertaining gaming experience that departs from traditional slots.\n\nOverall Opinion and Recommendation\n\nHeidi and Hanna’s Bier Haus is a slot game that allows players to relive the atmosphere of the Oktoberfest and celebrate the joy of life through the characters of two charming German waitresses. The game mechanics features a wide range of bonus rounds and special features that add to the excitement. The game is highly recommended to players looking for a light and entertaining experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Heidi and Hanna’s Bier Haus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Features\n\nHeidi and Hanna’s Bier Haus is a slot game with 6 reels and up to 50 paylines. It features Beer Stein as the Wild symbol that can assist in forming winning combinations. The Scatter symbol is represented by Heidi and Hanna, which can trigger up to 10 free spins by appearing in multiple positions on the screen at the same time.\n\nTheme and Graphics\n\nHeidi and Hanna’s Bier Haus is set in the context of Oktoberfest, a popular beer festival in Germany. The game offers cartoonish graphics that adds a touch of humor and entertaining effect to the gameplay. Additionally, the audio track provides the typical sound of toasts and chat that serves to complete the festivity atmosphere.\n\nBet Limits and Payouts\n\nThe minimum bet a player can make in Heidi and Hanna’s Bier Haus is 0.15 cents, while the maximum bet can reach up to 180 euros. The return to the player (RTP) is impressive, at 96.15%, which can be very appealing for gambling enthusiasts looking to increase their chances of winning.\n\nTarget Audience and Appeal\n\nHeidi and Hanna’s Bier Haus is a light-hearted online slot game. This title is suitable for players of all skill levels, from beginners to experts. The game offers an interesting package that aims to entertain players by offering a unique experience on the reels. It is most appealing to players seeking a fun and entertaining gaming experience that departs from traditional slots.\n\nOverall Opinion and Recommendation\n\nHeidi and Hanna’s Bier Haus is a slot game that allows players to relive the atmosphere of the Oktoberfest and celebrate the joy of life through the characters of two charming German waitresses. The game mechanics features a wide range of bonus rounds and special features that add to the excitement. The game is highly recommended to players looking for a light and entertaining experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TpRoGk2APHLVRZDTkVSakVB5hIwT",
+                "id": "chatcmpl-7WUgkK49Udku0CfSHblb5CfbEJppH",
                 "object": "chat.completion",
-                "created": 1687343632,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978818,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Interesting bonus rounds and features\",\n        \"Humorous and entertaining graphics\",\n        \"Suitable for players of all skill levels\",\n        \"High RTP of 96.15%\"\n    ],\n    \"cons\": [\n        \"Limited maximum bet of 180 euros\",\n        \"May not appeal to players looking for more traditional slots\"\n    ],\n    \"meta_title\": \"Play Heidi and Hanna's Bier Haus for Free - A Fun Oktoberfest Slot\",\n    \"meta_description\": \"Read our review of Heidi and Hanna's Bier Haus, a fun and entertaining online slot game set in Oktoberfest. Play for free and enjoy bonus rounds and special features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Humorous and entertaining graphics\",\n    \"Impressive return to player (RTP) rate of 96.15%\",\n    \"Wide range of bonus rounds and special features\",\n    \"Suitable for players of all skill levels\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (up to 50)\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Heidi and Hanna’s Bier Haus for Free\",\n  \"meta_description\": \"Read our review of Heidi and Hanna’s Bier Haus slot game and play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 563,
-                    "completion_tokens": 142,
-                    "total_tokens": 705
+                    "prompt_tokens": 560,
+                    "completion_tokens": 126,
+                    "total_tokens": 686
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/heidi-and-hannas-bier-haus.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Heidi_and_Hanna_a9dc3095-5952-452c-9c99-d1c60f46c5f5_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Heidi_and_Hanna_a9dc3095-5952-452c-9c99-d1c60f46c5f5_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Heidi_and_Hanna_a9dc3095-5952-452c-9c99-d1c60f46c5f5_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Heidi_and_Hanna_a9dc3095-5952-452c-9c99-d1c60f46c5f5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Heidi And Hannas Bier Haus (Version 3).webp",
+        "game_reviews/processed_images/Heidi And Hannas Bier Haus (Version 4).webp",
+        "game_reviews/processed_images/Heidi And Hannas Bier Haus (Version 2).webp",
+        "game_reviews/processed_images/Heidi And Hannas Bier Haus (Version 1).webp"
+    ],
+    "slug": "heidi-and-hannas-bier-haus",
+    "name": "Heidi and Hanna’s Bier Haus",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Heidi-And-Hannas-Bier-Haus-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Heidi and Hanna’s Bier Haus for Free' ### Meta set: 'Read our review of Heidi and Hanna’s Bier Haus slot game and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

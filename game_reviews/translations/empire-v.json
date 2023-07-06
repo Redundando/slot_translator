@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging vampire theme and symbols",
-                    "Medium volatility with a simple 5x3 grid and 10 paylines",
-                    "Special symbols, including Wild and Scatter",
-                    "Bonus mode with free spins rounds"
+                    "Well-executed vampire theme with immersive design and sound effects",
+                    "Simple and enjoyable gameplay experience with a 5x3 grid and 10 paylines",
+                    "Medium volatility offers a good balance between wins and payouts",
+                    "Bonus mode with free spins rounds for increased chances of winning"
                 ],
                 "cons": [
-                    "Limited number of paylines compared to other online slot games",
-                    "No significant innovation or unique features"
+                    "Limited variety of bonus features",
+                    "Lacks innovative gameplay mechanics"
                 ],
-                "meta_title": "Play Empire V Free: Review of Novomatic's Online Slot Game",
-                "meta_description": "Empire V is a vampire-themed online slot game by Novomatic with 10 paylines, special symbols, and a bonus mode with free spins rounds. Play free and read our review."
+                "meta_title": "Play Empire V Free - Online Slot Review",
+                "meta_description": "Play Empire V for free and read our review of this online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Empire V\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEmpire V Online Slot Game\n\nEmpire V is an online slot game developed by Novomatic, one of the most popular providers in the iGaming industry. The game's theme is centered around vampires, immortality, and the allure of danger. It is played on a 5x3 grid and features 10 paylines.\n\nVampire Theme and Symbols\n\nEmpire V's vampire theme is well-executed with the design, sound effects, and symbols. The game grid is set in a nocturnal forest, which adds an eerie feeling to the gameplay. The symbols include wolves, bats, vampires, and classic card suits, with hearts being the most significant. The suit of the cards perfectly suits the vampire theme. \n\nGameplay Features: Medium Volatility and 5x3 Grid with 10 Paylines\n\nEmpire V's gameplay is well-suited for players with a moderate budget and experience with online slots. The game has medium volatility, which means that it offers a decent balance between frequent wins and good payouts. The 5x3 grid and 10 paylines make for a simple and enjoyable gaming experience for both seasoned and novice players.\n\nSpecial Symbols: Wild and Scatter\n\nEmpire V features two special symbols: the Wild symbol and the Scatter symbol. The Wild symbol replaces all ordinary symbols, allowing players to potentially achieve higher value wins. The castle, a symbol of the vampires, represents the Scatter symbol. If players find three castles, they can access the bonus mode with free spins rounds. Both symbols are easy to spot and understand, which enhances the game's simplicity.\n\nBonus Mode with Free Spins\n\nEmpire V's bonus mode is triggered by finding three Scatters, represented by the castle symbol. Players are rewarded with free spins rounds, which increase the chances of hitting a significant win. The bonus mode is straightforward, which makes it easy for players to enjoy and understand.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Empire V\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEmpire V Online Slot Game\n\nEmpire V is an online slot game developed by Novomatic, one of the most popular providers in the iGaming industry. The game's theme is centered around vampires, immortality, and the allure of danger. It is played on a 5x3 grid and features 10 paylines.\n\nVampire Theme and Symbols\n\nEmpire V's vampire theme is well-executed with the design, sound effects, and symbols. The game grid is set in a nocturnal forest, which adds an eerie feeling to the gameplay. The symbols include wolves, bats, vampires, and classic card suits, with hearts being the most significant. The suit of the cards perfectly suits the vampire theme. \n\nGameplay Features: Medium Volatility and 5x3 Grid with 10 Paylines\n\nEmpire V's gameplay is well-suited for players with a moderate budget and experience with online slots. The game has medium volatility, which means that it offers a decent balance between frequent wins and good payouts. The 5x3 grid and 10 paylines make for a simple and enjoyable gaming experience for both seasoned and novice players.\n\nSpecial Symbols: Wild and Scatter\n\nEmpire V features two special symbols: the Wild symbol and the Scatter symbol. The Wild symbol replaces all ordinary symbols, allowing players to potentially achieve higher value wins. The castle, a symbol of the vampires, represents the Scatter symbol. If players find three castles, they can access the bonus mode with free spins rounds. Both symbols are easy to spot and understand, which enhances the game's simplicity.\n\nBonus Mode with Free Spins\n\nEmpire V's bonus mode is triggered by finding three Scatters, represented by the castle symbol. Players are rewarded with free spins rounds, which increase the chances of hitting a significant win. The bonus mode is straightforward, which makes it easy for players to enjoy and understand.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TR7eR8W9rbC4chmYWEKmNjKlLIVM",
+                "id": "chatcmpl-7WSIJrqHPHDj4CNIAXv5W4nlNG1nV",
                 "object": "chat.completion",
-                "created": 1687250126,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 563,
-                    "completion_tokens": 151,
-                    "total_tokens": 714
-                },
+                "created": 1687969615,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging vampire theme and symbols\",\n        \"Medium volatility with a simple 5x3 grid and 10 paylines\",\n        \"Special symbols, including Wild and Scatter\",\n        \"Bonus mode with free spins rounds\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines compared to other online slot games\",\n        \"No significant innovation or unique features\"\n    ],\n    \"meta_title\": \"Play Empire V Free: Review of Novomatic's Online Slot Game\",\n    \"meta_description\": \"Empire V is a vampire-themed online slot game by Novomatic with 10 paylines, special symbols, and a bonus mode with free spins rounds. Play free and read our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-executed vampire theme with immersive design and sound effects\",\n    \"Simple and enjoyable gameplay experience with a 5x3 grid and 10 paylines\",\n    \"Medium volatility offers a good balance between wins and payouts\",\n    \"Bonus mode with free spins rounds for increased chances of winning\"\n  ],\n  \"cons\": [\n    \"Limited variety of bonus features\",\n    \"Lacks innovative gameplay mechanics\"\n  ],\n  \"meta_title\": \"Play Empire V Free - Online Slot Review\",\n  \"meta_description\": \"Play Empire V for free and read our review of this online slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 560,
+                    "completion_tokens": 130,
+                    "total_tokens": 690
+                }
             }
         },
         {
@@ -812,5 +812,16 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/empire-v.json"
+    "filename": "game_reviews/translations/empire-v.json",
+    "raw_feature_images": [],
+    "processed_feature_images": [],
+    "slug": "empire-v",
+    "name": "Empire V",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/empire-v_featured-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Empire V Free - Online Slot Review' ### Meta set: 'Play Empire V for free and read our review of this online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

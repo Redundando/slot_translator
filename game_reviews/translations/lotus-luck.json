@@ -580,39 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Good compromise between win value and frequency of combinations",
-                    "Detailed and well-designed graphics and symbols",
-                    "1,024 ways to win with medium volatility and 95.62% RTP",
-                    "Relaxing gameplay with option for turbo mode and automatic spins"
+                    "1,024 ways to win",
+                    "Good compromise between value of wins and frequency of winning combinations",
+                    "Detailed graphics and design",
+                    "Relaxing gameplay with no crashes or slowdowns"
                 ],
                 "cons": [
-                    "Payment table lacks fluidity with no scrolling bar",
-                    "Limited number of themed symbols"
+                    "Lack of fluidity in payment table scrolling"
                 ],
-                "meta_title": "Play Lotus Luck Free: Detailed Review & Pros and Cons",
-                "meta_description": "Discover the gameplay, features, and symbols of Lotus Luck online slot and find out what we like and don't like. Play for free and enjoy relaxing gameplay."
+                "meta_title": "Play Lotus Luck Free - Review of Gameplay, Graphics, and More",
+                "meta_description": "Play Lotus Luck for free and enjoy its relaxing gameplay, detailed graphics, and 1,024 ways to win."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lotus Luck\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLotus Luck is a classic 5 reel, 4 row slot game offering 1,024 ways to win with a minimum 2 adjacent, identical symbol requirement. The game has a good compromise between the value of wins and frequency of winning combinations, with a 95.62% RTP value and medium volatility. In addition, players can opt for turbo mode and set 5 to 1,000 automatic spins or infinity.\n\nDesign and Graphics\n\nLotus Luck's graphics are incredibly detailed, with no detail overlooked. Set in India, the game has a royal palace surrounded by clear water in the background with mystical music contributing to a relaxing gameplay. The golden reels frame the board, and the symbols have been created with an exceptional level of detail.\n\nVolatility and RTP\n\nLotus Luck has medium volatility and an RTP value of 95.62%, which is a good compromise between the value of wins and frequency of winning combinations. The game has a classic 5 reel, 4 row layout with 1,024 ways to win. The game also features an option to set up to 5 to 1,000 automatic spins or infinity and also has a turbo function mode.\n\nSymbol Variety and Value\n\nLotus Luck has a variety of symbols, including Royal Flush cards from 10 to Ace. Winning combinations for these cards need at least three adjacent, identical symbols. The game also has a range of themed symbols that require at least two identical adjacent symbols to form a winning combination. The themed symbols include a candle, a plate of food, a lotus flower, a vase filled with gold coins, and a headdress. The game also has a wild symbol represented by an owl that can substitute for all symbols except the scatter, and a scatter, represented by a queen, that can earn up to 16 free spins.\n\nUser Experience\n\nLotus Luck's gameplay is very relaxing, free from too many animations or complicated rules. The game runs smoothly, requiring no additional CPU power, and has not caused any crashes or slowdowns during spins. One downside is the lack of fluidity when viewing the payment table, which lacks a scrolling bar, making scrolling through the entire page an issue. Overall the game’s simple gameplay, careful work on the graphics, and smooth play make it a premium and enjoyable game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lotus Luck\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLotus Luck is a classic 5 reel, 4 row slot game offering 1,024 ways to win with a minimum 2 adjacent, identical symbol requirement. The game has a good compromise between the value of wins and frequency of winning combinations, with a 95.62% RTP value and medium volatility. In addition, players can opt for turbo mode and set 5 to 1,000 automatic spins or infinity.\n\nDesign and Graphics\n\nLotus Luck's graphics are incredibly detailed, with no detail overlooked. Set in India, the game has a royal palace surrounded by clear water in the background with mystical music contributing to a relaxing gameplay. The golden reels frame the board, and the symbols have been created with an exceptional level of detail.\n\nVolatility and RTP\n\nLotus Luck has medium volatility and an RTP value of 95.62%, which is a good compromise between the value of wins and frequency of winning combinations. The game has a classic 5 reel, 4 row layout with 1,024 ways to win. The game also features an option to set up to 5 to 1,000 automatic spins or infinity and also has a turbo function mode.\n\nSymbol Variety and Value\n\nLotus Luck has a variety of symbols, including Royal Flush cards from 10 to Ace. Winning combinations for these cards need at least three adjacent, identical symbols. The game also has a range of themed symbols that require at least two identical adjacent symbols to form a winning combination. The themed symbols include a candle, a plate of food, a lotus flower, a vase filled with gold coins, and a headdress. The game also has a wild symbol represented by an owl that can substitute for all symbols except the scatter, and a scatter, represented by a queen, that can earn up to 16 free spins.\n\nUser Experience\n\nLotus Luck's gameplay is very relaxing, free from too many animations or complicated rules. The game runs smoothly, requiring no additional CPU power, and has not caused any crashes or slowdowns during spins. One downside is the lack of fluidity when viewing the payment table, which lacks a scrolling bar, making scrolling through the entire page an issue. Overall the game’s simple gameplay, careful work on the graphics, and smooth play make it a premium and enjoyable game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U2AVVQVV5dMgn1ybvGNhQSAXtSpr",
+                "id": "chatcmpl-7WWZGFD1aqUFTPWHfmwLDHwadI1Ql",
                 "object": "chat.completion",
-                "created": 1687392531,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986042,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Good compromise between win value and frequency of combinations\",\n        \"Detailed and well-designed graphics and symbols\",\n        \"1,024 ways to win with medium volatility and 95.62% RTP\",\n        \"Relaxing gameplay with option for turbo mode and automatic spins\"\n    ],\n    \"cons\": [\n        \"Payment table lacks fluidity with no scrolling bar\",\n        \"Limited number of themed symbols\"\n    ],\n    \"meta_title\": \"Play Lotus Luck Free: Detailed Review & Pros and Cons\",\n    \"meta_description\": \"Discover the gameplay, features, and symbols of Lotus Luck online slot and find out what we like and don't like. Play for free and enjoy relaxing gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"1,024 ways to win\",\n    \"Good compromise between value of wins and frequency of winning combinations\",\n    \"Detailed graphics and design\",\n    \"Relaxing gameplay with no crashes or slowdowns\"\n  ],\n  \"cons\": [\n    \"Lack of fluidity in payment table scrolling\"\n  ],\n  \"meta_title\": \"Play Lotus Luck Free - Review of Gameplay, Graphics, and More\",\n  \"meta_description\": \"Play Lotus Luck for free and enjoy its relaxing gameplay, detailed graphics, and 1,024 ways to win.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 650,
-                    "completion_tokens": 150,
-                    "total_tokens": 800
+                    "prompt_tokens": 647,
+                    "completion_tokens": 121,
+                    "total_tokens": 768
                 }
             }
         },
@@ -811,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lotus-luck.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_fits_the_game_Lotus_Luck_in__2882cf26-9100-4c32-80e9-98bdbf7736f5_3.png",
+        "arved__Create_a_feature_image_that_fits_the_game_Lotus_Luck_in__2882cf26-9100-4c32-80e9-98bdbf7736f5_4.png",
+        "arved__Create_a_feature_image_that_fits_the_game_Lotus_Luck_in__2882cf26-9100-4c32-80e9-98bdbf7736f5_2.png",
+        "arved__Create_a_feature_image_that_fits_the_game_Lotus_Luck_in__2882cf26-9100-4c32-80e9-98bdbf7736f5_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lotus Luck (Version 4).webp",
+        "game_reviews/processed_images/Lotus Luck (Version 1).webp",
+        "game_reviews/processed_images/Lotus Luck (Version 2).webp",
+        "game_reviews/processed_images/Lotus Luck (Version 3).webp"
+    ],
+    "slug": "lotus-luck",
+    "name": "Lotus Luck",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lotus-Luck-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lotus Luck Free - Review of Gameplay, Graphics, and More' ### Meta set: 'Play Lotus Luck for free and enjoy its relaxing gameplay, detailed graphics, and 1,024 ways to win.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Affordable game with low betting requirement",
-                    "Regular payouts for a fun experience",
-                    "Autoplay option for convenience",
-                    "Amusing monster designs"
+                    "Simple yet fun gameplay",
+                    "Affordable betting requirement",
+                    "Wild symbol for increased winning potential",
+                    "Autoplay option for convenience"
                 ],
                 "cons": [
-                    "Small maximum payout",
-                    "Lack of 3D animations or special effects"
+                    "Small payouts",
+                    "Lack of 3D animations or unique special effects"
                 ],
-                "meta_title": "Play Monster Madness Free - Pros and Cons of the Online Slot",
-                "meta_description": "Read our review of Monster Madness and discover the pros and cons of the game. Play for free and enjoy affordable entertainment with regular payouts."
+                "meta_title": "Play Monster Madness Free | Exciting Slot Game Review",
+                "meta_description": "Play Monster Madness free and read our review of this fun and affordable online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Monster Madness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMonster Madness is a simple yet fun game, having three reels and eight paylines. The low betting requirement makes it an affordable game for people who seek entertainment rather than large winnings. It has a Wild symbol which replaces all the other symbols except the Scatter.\n\nSymbols\n\nThe symbols of Monster Madness are monsters of different colours with different values. The orange monster has the highest value, going up to 24 times the wager if it appears on all three reels, while the little blue monster has the lowest value, paying only three times the stake even if it is present on all the reels.\n\nPayouts\n\nThe payouts of Monster Madness are quite small but regular. The maximum payout that a player can get is 60 times the stake. This slot is suitable for players who are looking for smaller wins and a fun experience rather than high payouts.\n\nAutoplay\n\nMonster Madness has an Autoplay option which allows players to play automatically after setting the game. This feature is very helpful for those who do not want to click the Spin button each time the reels have stopped rolling.\n\nDesign\n\nThe game is set in a futuristic town with tall buildings and a smoky sky. The monsters are well-designed and give the game an amusing air. The graphics in Monster Madness lack 3D animations or unique special effects, but the game is well-crafted and appealing nonetheless.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Monster Madness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMonster Madness is a simple yet fun game, having three reels and eight paylines. The low betting requirement makes it an affordable game for people who seek entertainment rather than large winnings. It has a Wild symbol which replaces all the other symbols except the Scatter.\n\nSymbols\n\nThe symbols of Monster Madness are monsters of different colours with different values. The orange monster has the highest value, going up to 24 times the wager if it appears on all three reels, while the little blue monster has the lowest value, paying only three times the stake even if it is present on all the reels.\n\nPayouts\n\nThe payouts of Monster Madness are quite small but regular. The maximum payout that a player can get is 60 times the stake. This slot is suitable for players who are looking for smaller wins and a fun experience rather than high payouts.\n\nAutoplay\n\nMonster Madness has an Autoplay option which allows players to play automatically after setting the game. This feature is very helpful for those who do not want to click the Spin button each time the reels have stopped rolling.\n\nDesign\n\nThe game is set in a futuristic town with tall buildings and a smoky sky. The monsters are well-designed and give the game an amusing air. The graphics in Monster Madness lack 3D animations or unique special effects, but the game is well-crafted and appealing nonetheless.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UBcOiDPHKyFKEBbui7eG13pQLjn7",
+                "id": "chatcmpl-7WY4KGTmy1EAvFu4N57UnafUd3pxb",
                 "object": "chat.completion",
-                "created": 1687428856,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991812,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Affordable game with low betting requirement\",\n        \"Regular payouts for a fun experience\",\n        \"Autoplay option for convenience\",\n        \"Amusing monster designs\"\n    ],\n    \"cons\": [\n        \"Small maximum payout\",\n        \"Lack of 3D animations or special effects\"\n    ],\n    \"meta_title\": \"Play Monster Madness Free - Pros and Cons of the Online Slot\",\n    \"meta_description\": \"Read our review of Monster Madness and discover the pros and cons of the game. Play for free and enjoy affordable entertainment with regular payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple yet fun gameplay\",\n    \"Affordable betting requirement\",\n    \"Wild symbol for increased winning potential\",\n    \"Autoplay option for convenience\"\n  ],\n  \"cons\": [\n    \"Small payouts\",\n    \"Lack of 3D animations or unique special effects\"\n  ],\n  \"meta_title\": \"Play Monster Madness Free | Exciting Slot Game Review\",\n  \"meta_description\": \"Play Monster Madness free and read our review of this fun and affordable online slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 452,
-                    "completion_tokens": 123,
-                    "total_tokens": 575
+                    "prompt_tokens": 449,
+                    "completion_tokens": 107,
+                    "total_tokens": 556
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/monster-madness.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Monster__66f5015f-b950-464b-866e-9a1710644982_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Monster__66f5015f-b950-464b-866e-9a1710644982_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Monster__66f5015f-b950-464b-866e-9a1710644982_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Monster__66f5015f-b950-464b-866e-9a1710644982_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Monster Madness (Version 1).webp",
+        "game_reviews/processed_images/Monster Madness (Version 4).webp",
+        "game_reviews/processed_images/Monster Madness (Version 2).webp",
+        "game_reviews/processed_images/Monster Madness (Version 3).webp"
+    ],
+    "slug": "monster-madness",
+    "name": "Monster Madness",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Monster-Madness-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Monster Madness Free | Exciting Slot Game Review' ### Meta set: 'Play Monster Madness free and read our review of this fun and affordable online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

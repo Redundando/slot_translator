@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High-quality graphics and smooth animations",
-                    "Special free spins feature with expandable special symbols",
-                    "Wide betting range between 10 cents and 100€",
-                    "High jackpot of 25,000 times the bet"
+                    "Exciting gameplay with high volatility",
+                    "Special free spins bonus round",
+                    "Stunning graphics and smooth animations",
+                    "Wide betting range and high jackpot"
                 ],
                 "cons": [
-                    "High volatility may not appeal to all players",
-                    "Limited variety of themed symbols"
+                    "High volatility may not suit all players",
+                    "No additional bonus features apart from free spins"
                 ],
-                "meta_title": "Play Legacy of Dead Free Today - See Our Review",
-                "meta_description": "Discover Legacy of Dead, the exciting Egyptian-themed slot game with high volatility and a special free spins bonus feature. Play for free today."
+                "meta_title": "Play Legacy of Dead Free - Exciting Egyptian-themed Slot Game",
+                "meta_description": "Read our review of Legacy of Dead and play this exciting Egyptian-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Legacy of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLegacy of Dead is an Egyptian-themed slot machine with high volatility that guarantees an exciting gaming experience. The game features a special free spins bonus round, triggered by the Wild/Scatter symbol on the reels. Players can also obtain up to nine expandable special symbols, leading to new winning combinations and possibilities to reach the maximum payout of 25,000 times the bet.\n\nGraphics and Animation\n\nThe graphics of Legacy of Dead are excellent and of high quality, making the game visually pleasing to play. The images are stunning and the animations are smooth, providing players with an exciting gaming experience.\n\nBetting Range and Jackpot\n\nThe betting range for Legacy of Dead is relatively wide, allowing players to wager between 10 cents and 100 €. The game offers a high jackpot of 25,000 times the bet and a theoretical return to player (RTP) rate of 96.58%, making it an appealing choice for players looking for big payouts.\n\nSymbols and Free Spins\n\nLegacy of Dead features several regular and special symbols, including playing card royals and themed symbols such as Horus, Pharaoh, Anubis, and Tutankhamun. The burial chamber symbol serves as both a Wild and Scatter symbol and can trigger the special free spins feature, which rewards players with ten free spins and a payout of 2, 20 or 200 times the bet. The free spins feature also allows players to obtain up to nine expandable special symbols, leading to even greater winning opportunities.\n\nVolatility and Winnings\n\nLegacy of Dead has high volatility, meaning that winning may not be easy, but when players do win, they have the chance to win big. The game offers a maximum payout of 25,000 times the bet, which combined with the betting range and RTP rate of 96.58%, makes it a potentially lucrative game for players seeking high payouts.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Legacy of Dead\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLegacy of Dead is an Egyptian-themed slot machine with high volatility that guarantees an exciting gaming experience. The game features a special free spins bonus round, triggered by the Wild/Scatter symbol on the reels. Players can also obtain up to nine expandable special symbols, leading to new winning combinations and possibilities to reach the maximum payout of 25,000 times the bet.\n\nGraphics and Animation\n\nThe graphics of Legacy of Dead are excellent and of high quality, making the game visually pleasing to play. The images are stunning and the animations are smooth, providing players with an exciting gaming experience.\n\nBetting Range and Jackpot\n\nThe betting range for Legacy of Dead is relatively wide, allowing players to wager between 10 cents and 100 €. The game offers a high jackpot of 25,000 times the bet and a theoretical return to player (RTP) rate of 96.58%, making it an appealing choice for players looking for big payouts.\n\nSymbols and Free Spins\n\nLegacy of Dead features several regular and special symbols, including playing card royals and themed symbols such as Horus, Pharaoh, Anubis, and Tutankhamun. The burial chamber symbol serves as both a Wild and Scatter symbol and can trigger the special free spins feature, which rewards players with ten free spins and a payout of 2, 20 or 200 times the bet. The free spins feature also allows players to obtain up to nine expandable special symbols, leading to even greater winning opportunities.\n\nVolatility and Winnings\n\nLegacy of Dead has high volatility, meaning that winning may not be easy, but when players do win, they have the chance to win big. The game offers a maximum payout of 25,000 times the bet, which combined with the betting range and RTP rate of 96.58%, makes it a potentially lucrative game for players seeking high payouts.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U0GdpvgXoW9b0e81LzEbuUjedLWG",
+                "id": "chatcmpl-7WWGDemUo1BwstfuBa0hEZStfQiAB",
                 "object": "chat.completion",
-                "created": 1687385223,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984861,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High-quality graphics and smooth animations\",\n        \"Special free spins feature with expandable special symbols\",\n        \"Wide betting range between 10 cents and 100€\",\n        \"High jackpot of 25,000 times the bet\"\n    ],\n    \"cons\": [\n        \"High volatility may not appeal to all players\",\n        \"Limited variety of themed symbols\"\n    ],\n    \"meta_title\": \"Play Legacy of Dead Free Today - See Our Review\",\n    \"meta_description\": \"Discover Legacy of Dead, the exciting Egyptian-themed slot game with high volatility and a special free spins bonus feature. Play for free today.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with high volatility\",\n    \"Special free spins bonus round\",\n    \"Stunning graphics and smooth animations\",\n    \"Wide betting range and high jackpot\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit all players\",\n    \"No additional bonus features apart from free spins\"\n  ],\n  \"meta_title\": \"Play Legacy of Dead Free - Exciting Egyptian-themed Slot Game\",\n  \"meta_description\": \"Read our review of Legacy of Dead and play this exciting Egyptian-themed slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 562,
-                    "completion_tokens": 135,
-                    "total_tokens": 697
+                    "prompt_tokens": 559,
+                    "completion_tokens": 116,
+                    "total_tokens": 675
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/legacy-of-dead.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Legacy_of_Dead__de9b359c-c22b-4651-8412-43f492974eb5_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Legacy_of_Dead__de9b359c-c22b-4651-8412-43f492974eb5_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Legacy_of_Dead__de9b359c-c22b-4651-8412-43f492974eb5_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Legacy_of_Dead__de9b359c-c22b-4651-8412-43f492974eb5_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Legacy Of Dead (Version 1).webp",
+        "game_reviews/processed_images/Legacy Of Dead (Version 3).webp",
+        "game_reviews/processed_images/Legacy Of Dead (Version 4).webp",
+        "game_reviews/processed_images/Legacy Of Dead (Version 2).webp"
+    ],
+    "slug": "legacy-of-dead",
+    "name": "Legacy of Dead",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Legacy-Of-Dead-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Legacy of Dead Free - Exciting Egyptian-themed Slot Game' ### Meta set: 'Read our review of Legacy of Dead and play this exciting Egyptian-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

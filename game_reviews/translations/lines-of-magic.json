@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Simple but engaging gameplay",
+                    "Engaging gameplay experience",
                     "Visually pleasing design",
-                    "Maximum win amount of 5,000 times bet",
-                    "Mysterious soundtrack perfectly fitting the theme"
+                    "High maximum win amount",
+                    "Mystical theme and soundtrack"
                 ],
                 "cons": [
-                    "Lacks innovative features",
-                    "No elaborate animations"
+                    "Lacks animations",
+                    "Not innovative"
                 ],
-                "meta_title": "Play Lines of Magic for Free - A Mysterious Lab Slot Game",
-                "meta_description": "Experience simple yet engaging gameplay in Lines of Magic, a visually pleasing slot game set in a mysterious laboratory. Play for free and win up to 5,000 times your bet."
+                "meta_title": "Play Lines of Magic for Free",
+                "meta_description": "Read our review of Lines of Magic and play this engaging slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lines of Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nLines of Magic by Felix Gaming is a 5-reel, 20-payline slot game set in a mysterious laboratory. The game features Royal cards, colored gems, lucky number 7, and a powerful Wizard symbol, which pays up to 750 times your bet. The ultimate goal is to land 5 books of witchcraft, which can award you with 5,000 times your bet. The game offers an RTP of 95.92%.\n\nGame Features\n\nLines of Magic offers a simple but engaging gameplay experience. The game comes with a basic gameplay structure and no elaborate features. Players can set their bets and activate the paylines to make winning combinations from left to right. You can trigger special spins where the prizes become more substantial by gaining enough power. The game also offers a bonus feature of 10 free spins with a 2x multiplier.\n\nMaximum Win Amount\n\nThe maximum win amount in Lines of Magic is 5,000 times your bet, which can be won by landing 5 books of witchcraft symbols.\n\nGraphics and Soundtrack\n\nLines of Magic offers a visually pleasing slot game set in a mysterious laboratory. The game's design is simple but engaging, featuring powerful symbols like the Wizard and books of witchcraft. However, the game lacks animations and innovative features. The soundtrack is mysterious and determined, perfectly complementing the mystical theme of the game.\n\nInnovation Level\n\nLines of Magic is not particularly innovative, offering a classic slot game experience without any sophisticated features. The game is perfect for players who appreciate simple and engaging gameplay mechanics. If you prefer slot games with elaborate animations and bonus features, Lines of Magic might not be the best option for you.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lines of Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nLines of Magic by Felix Gaming is a 5-reel, 20-payline slot game set in a mysterious laboratory. The game features Royal cards, colored gems, lucky number 7, and a powerful Wizard symbol, which pays up to 750 times your bet. The ultimate goal is to land 5 books of witchcraft, which can award you with 5,000 times your bet. The game offers an RTP of 95.92%.\n\nGame Features\n\nLines of Magic offers a simple but engaging gameplay experience. The game comes with a basic gameplay structure and no elaborate features. Players can set their bets and activate the paylines to make winning combinations from left to right. You can trigger special spins where the prizes become more substantial by gaining enough power. The game also offers a bonus feature of 10 free spins with a 2x multiplier.\n\nMaximum Win Amount\n\nThe maximum win amount in Lines of Magic is 5,000 times your bet, which can be won by landing 5 books of witchcraft symbols.\n\nGraphics and Soundtrack\n\nLines of Magic offers a visually pleasing slot game set in a mysterious laboratory. The game's design is simple but engaging, featuring powerful symbols like the Wizard and books of witchcraft. However, the game lacks animations and innovative features. The soundtrack is mysterious and determined, perfectly complementing the mystical theme of the game.\n\nInnovation Level\n\nLines of Magic is not particularly innovative, offering a classic slot game experience without any sophisticated features. The game is perfect for players who appreciate simple and engaging gameplay mechanics. If you prefer slot games with elaborate animations and bonus features, Lines of Magic might not be the best option for you.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U1QHPIOx8opuD7QzZRQ68TqtYZVA",
+                "id": "chatcmpl-7WWQzaE8B3QV8fRXrtv30McI2zbLd",
                 "object": "chat.completion",
-                "created": 1687389665,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985529,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Simple but engaging gameplay\", \"Visually pleasing design\", \"Maximum win amount of 5,000 times bet\", \"Mysterious soundtrack perfectly fitting the theme\"],\n    \"cons\": [\"Lacks innovative features\", \"No elaborate animations\"],\n    \"meta_title\": \"Play Lines of Magic for Free - A Mysterious Lab Slot Game\",\n    \"meta_description\": \"Experience simple yet engaging gameplay in Lines of Magic, a visually pleasing slot game set in a mysterious laboratory. Play for free and win up to 5,000 times your bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging gameplay experience\",\n    \"Visually pleasing design\",\n    \"High maximum win amount\",\n    \"Mystical theme and soundtrack\"\n  ],\n  \"cons\": [\n    \"Lacks animations\",\n    \"Not innovative\"\n  ],\n  \"meta_title\": \"Play Lines of Magic for Free\",\n  \"meta_description\": \"Read our review of Lines of Magic and play this engaging slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 519,
-                    "completion_tokens": 118,
-                    "total_tokens": 637
+                    "prompt_tokens": 516,
+                    "completion_tokens": 93,
+                    "total_tokens": 609
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lines-of-magic.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Lines_of_Magic_game_DALLE_ple_77a463a1-abff-4c03-8783-2a8709a9e3c8_4.png",
+        "arved__Create_a_feature_image_for_Lines_of_Magic_game_DALLE_ple_77a463a1-abff-4c03-8783-2a8709a9e3c8_2.png",
+        "arved__Create_a_feature_image_for_Lines_of_Magic_game_DALLE_ple_77a463a1-abff-4c03-8783-2a8709a9e3c8_3.png",
+        "arved__Create_a_feature_image_for_Lines_of_Magic_game_DALLE_ple_77a463a1-abff-4c03-8783-2a8709a9e3c8_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lines Of Magic (Version 3).webp",
+        "game_reviews/processed_images/Lines Of Magic (Version 2).webp",
+        "game_reviews/processed_images/Lines Of Magic (Version 1).webp",
+        "game_reviews/processed_images/Lines Of Magic (Version 4).webp"
+    ],
+    "slug": "lines-of-magic",
+    "name": "Lines of Magic",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lines-Of-Magic-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lines of Magic for Free' ### Meta set: 'Read our review of Lines of Magic and play this engaging slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

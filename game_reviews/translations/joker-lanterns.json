@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Halloween theme with classic and modern elements",
+                    "Classic Halloween theme with a festive and spooky feel",
+                    "Variety of symbols that blend classic and modern elements",
                     "Modern game grid with six reels and four horizontal lines",
-                    "Free spins mode with rich multipliers and bonus spins",
-                    "Special symbols that contribute to the excitement of the game"
+                    "Free spins mode with rich multipliers and additional spins"
                 ],
                 "cons": [
-                    "May be too spooky for some players",
-                    "Limited variety of symbols compared to other modern slot games"
+                    "Limited availability of special symbols and jackpots",
+                    "May not appeal to players looking for a completely modern slot game"
                 ],
-                "meta_title": "Play Joker Lanterns Free - A Spooky and Festive Slot Game",
-                "meta_description": "Read our review of Joker Lanterns, a classic Halloween-themed slot game with a modern twist. Play for free and win big prizes with special symbols."
+                "meta_title": "Play Joker Lanterns Free - Classic Halloween Slot Game",
+                "meta_description": "Read our review of Joker Lanterns, a classic-themed slot game with a modern twist. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker Lanterns\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme\n\nJoker Lanterns is a classic Halloween-themed slot game that combines nostalgia with modernity. The game has a festive and spooky feel, with symbols such as pumpkins, fruit, bells, and the famous number 7.\n\nSlot Symbols\n\nJoker Lanterns features a variety of symbols that blend classic and modern elements. The game grid displays 24 symbols, including traditional fruit symbols as well as special symbols such as the jester pumpkin. The upper part of the interface also includes jackpots and other special symbols that contribute to the excitement of the game.\n\nGame Grid\n\nJoker Lanterns uses a modern game grid with six reels and four horizontal lines. This allows for more varied gameplay compared to classic slots. The game also features scatter symbols that activate the free spins mode and allow players to access rich multipliers and increase the number of available spins thanks to stars. Players can still access the jackpot during this mode.\n\nFree Spins Mode\n\nJoker Lanterns has a free spins mode that is activated by scatter symbols. During this mode, players can access rich multipliers and increase the number of available spins thanks to stars. Finding three cumulative symbols will result in an additional three spins, prolonging the bonus mode. Players can still access the jackpot during this mode, giving them the chance to win big prizes.\n\nUnique Features\n\nJoker Lanterns is a classic-themed slot game with a modern twist. Its unique features include a modern game grid with six reels, scatter symbols that activate the free spins mode, and special symbols that contribute to the excitement of the game. The game also features jackpots and other unique symbols that increase the chances of winning big prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker Lanterns\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme\n\nJoker Lanterns is a classic Halloween-themed slot game that combines nostalgia with modernity. The game has a festive and spooky feel, with symbols such as pumpkins, fruit, bells, and the famous number 7.\n\nSlot Symbols\n\nJoker Lanterns features a variety of symbols that blend classic and modern elements. The game grid displays 24 symbols, including traditional fruit symbols as well as special symbols such as the jester pumpkin. The upper part of the interface also includes jackpots and other special symbols that contribute to the excitement of the game.\n\nGame Grid\n\nJoker Lanterns uses a modern game grid with six reels and four horizontal lines. This allows for more varied gameplay compared to classic slots. The game also features scatter symbols that activate the free spins mode and allow players to access rich multipliers and increase the number of available spins thanks to stars. Players can still access the jackpot during this mode.\n\nFree Spins Mode\n\nJoker Lanterns has a free spins mode that is activated by scatter symbols. During this mode, players can access rich multipliers and increase the number of available spins thanks to stars. Finding three cumulative symbols will result in an additional three spins, prolonging the bonus mode. Players can still access the jackpot during this mode, giving them the chance to win big prizes.\n\nUnique Features\n\nJoker Lanterns is a classic-themed slot game with a modern twist. Its unique features include a modern game grid with six reels, scatter symbols that activate the free spins mode, and special symbols that contribute to the excitement of the game. The game also features jackpots and other unique symbols that increase the chances of winning big prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tw5GxfE6upxwUSmCDuMe3mJWEDoL",
+                "id": "chatcmpl-7WVcpJXvCM9AAys3nJu4bN20Ti2jO",
                 "object": "chat.completion",
-                "created": 1687369142,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982419,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Halloween theme with classic and modern elements\",\n        \"Modern game grid with six reels and four horizontal lines\",\n        \"Free spins mode with rich multipliers and bonus spins\",\n        \"Special symbols that contribute to the excitement of the game\"\n    ],\n    \"cons\": [\n        \"May be too spooky for some players\",\n        \"Limited variety of symbols compared to other modern slot games\"\n    ],\n    \"meta_title\": \"Play Joker Lanterns Free - A Spooky and Festive Slot Game\",\n    \"meta_description\": \"Read our review of Joker Lanterns, a classic Halloween-themed slot game with a modern twist. Play for free and win big prizes with special symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic Halloween theme with a festive and spooky feel\",\n    \"Variety of symbols that blend classic and modern elements\",\n    \"Modern game grid with six reels and four horizontal lines\",\n    \"Free spins mode with rich multipliers and additional spins\"\n  ],\n  \"cons\": [\n    \"Limited availability of special symbols and jackpots\",\n    \"May not appeal to players looking for a completely modern slot game\"\n  ],\n  \"meta_title\": \"Play Joker Lanterns Free - Classic Halloween Slot Game\",\n  \"meta_description\": \"Read our review of Joker Lanterns, a classic-themed slot game with a modern twist. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 517,
-                    "completion_tokens": 148,
-                    "total_tokens": 665
+                    "prompt_tokens": 514,
+                    "completion_tokens": 140,
+                    "total_tokens": 654
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/joker-lanterns.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_d35f3709-4a47-4e32-ac05-d96a12fbd0b3_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_d35f3709-4a47-4e32-ac05-d96a12fbd0b3_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_d35f3709-4a47-4e32-ac05-d96a12fbd0b3_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_d35f3709-4a47-4e32-ac05-d96a12fbd0b3_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Joker Lanterns (Version 2).webp",
+        "game_reviews/processed_images/Joker Lanterns (Version 3).webp",
+        "game_reviews/processed_images/Joker Lanterns (Version 1).webp",
+        "game_reviews/processed_images/Joker Lanterns (Version 4).webp"
+    ],
+    "slug": "joker-lanterns",
+    "name": "Joker Lanterns",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Joker-Lanterns-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker Lanterns Free - Classic Halloween Slot Game' ### Meta set: 'Read our review of Joker Lanterns, a classic-themed slot game with a modern twist. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

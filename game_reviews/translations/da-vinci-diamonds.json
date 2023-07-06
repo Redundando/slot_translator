@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cascading Spin mechanism",
-                    "Visually stunning graphics and artwork",
-                    "Lucrative winning combinations and payouts",
-                    "Free Spins Bonus with up to 300 free spins"
+                    "Tumbling Reels feature increases winning opportunities",
+                    "Visually stunning graphics featuring da Vinci's masterpieces",
+                    "Lucrative winning combinations and high payout values",
+                    "Chance to win up to 300 free spins"
                 ],
                 "cons": [
-                    "High minimum bet of €1 per line",
-                    "Limited betting range"
+                    "Minimum bet of €1 may be high for some players",
+                    "Limited variety of bonus features"
                 ],
-                "meta_title": "Play Da Vinci Diamonds for Free - Slot Game Review",
-                "meta_description": "Read our review of Da Vinci Diamonds slot game and play for free. Enjoy visually stunning graphics and artwork, lucrative winning combinations and a chance to win up to 300 free spins."
+                "meta_title": "Play Da Vinci Diamonds Slot Free",
+                "meta_description": "Read our review of Da Vinci Diamonds slot and play for free. Discover its features and winning opportunities."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Da Vinci Diamonds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features and Mechanics\n\nThe Da Vinci Diamonds slot machine has 5 reels, 20 paylines, and a cascading Spin mechanism known as Tumbling Reels. The minimum bet is €1 and the maximum is €100 per line. Players can enjoy the game's Wild and Scatter symbols, which can trigger bonus features and increase winning opportunities.\n\nArtwork and Graphics\n\nThe Da Vinci Diamonds slot machine's graphics and artwork are visually stunning, featuring reproductions of Leonardo da Vinci's greatest masterpieces and precious stones. The game's background is based on the famous painting of Mona Lisa. The slot's interface is easy to navigate and displays players' balance, game settings and accumulated winnings.\n\nWinning Combinations and Payouts\n\nDa Vinci Diamonds slot machine offers many lucrative winning combinations with different payouts. Symbols such as the Mona Lisa, the Lady with an Ermine and the Musicians are high-paying symbols. Precious stones such as amber, emerald and ruby also have significant payout values ranging from 80 to 100 times the bet. The Da Vinci Diamonds icon pays out a significant amount of 5000 times the amount you have bet.\n\nFree Spins Bonus and Chance to Win up to 300 Free Spins\n\nThe Scatter symbol is the word \"Bonus\" enclosed in a golden frame. Three Scatter symbols appearing on the same line activate the Free Spins Bonus feature. Players can receive a minimum of six free spins with a chance to re-trigger the feature up to 300 free spins. Progressive cascading reels can be activated during free spins, increasing the chances to hit big payouts.\n\nSimilarity to Other Artwork-Themed Slots\n\nThe Da Vinci Diamonds slot machine is of high quality, and art lovers will certainly like other artwork-themed slots such as Van Gogh slot by Relax Gaming. Van Gogh slot offers an immersive experience in the world of the famous painter and features a similar payout system to Da Vinci Diamonds.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Da Vinci Diamonds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features and Mechanics\n\nThe Da Vinci Diamonds slot machine has 5 reels, 20 paylines, and a cascading Spin mechanism known as Tumbling Reels. The minimum bet is €1 and the maximum is €100 per line. Players can enjoy the game's Wild and Scatter symbols, which can trigger bonus features and increase winning opportunities.\n\nArtwork and Graphics\n\nThe Da Vinci Diamonds slot machine's graphics and artwork are visually stunning, featuring reproductions of Leonardo da Vinci's greatest masterpieces and precious stones. The game's background is based on the famous painting of Mona Lisa. The slot's interface is easy to navigate and displays players' balance, game settings and accumulated winnings.\n\nWinning Combinations and Payouts\n\nDa Vinci Diamonds slot machine offers many lucrative winning combinations with different payouts. Symbols such as the Mona Lisa, the Lady with an Ermine and the Musicians are high-paying symbols. Precious stones such as amber, emerald and ruby also have significant payout values ranging from 80 to 100 times the bet. The Da Vinci Diamonds icon pays out a significant amount of 5000 times the amount you have bet.\n\nFree Spins Bonus and Chance to Win up to 300 Free Spins\n\nThe Scatter symbol is the word \"Bonus\" enclosed in a golden frame. Three Scatter symbols appearing on the same line activate the Free Spins Bonus feature. Players can receive a minimum of six free spins with a chance to re-trigger the feature up to 300 free spins. Progressive cascading reels can be activated during free spins, increasing the chances to hit big payouts.\n\nSimilarity to Other Artwork-Themed Slots\n\nThe Da Vinci Diamonds slot machine is of high quality, and art lovers will certainly like other artwork-themed slots such as Van Gogh slot by Relax Gaming. Van Gogh slot offers an immersive experience in the world of the famous painter and features a similar payout system to Da Vinci Diamonds.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SztvesLEMSyHuq58RLZDtu6DoDGg",
+                "id": "chatcmpl-7WQrvMOBipsjnh8sggssIvKejLXBw",
                 "object": "chat.completion",
-                "created": 1687145487,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 568,
-                    "completion_tokens": 135,
-                    "total_tokens": 703
-                },
+                "created": 1687964135,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Cascading Spin mechanism\",\n      \"Visually stunning graphics and artwork\",\n      \"Lucrative winning combinations and payouts\",\n      \"Free Spins Bonus with up to 300 free spins\"\n   ],\n   \"cons\": [\n      \"High minimum bet of €1 per line\",\n      \"Limited betting range\"\n   ],\n   \"meta_title\": \"Play Da Vinci Diamonds for Free - Slot Game Review\",\n   \"meta_description\": \"Read our review of Da Vinci Diamonds slot game and play for free. Enjoy visually stunning graphics and artwork, lucrative winning combinations and a chance to win up to 300 free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Tumbling Reels feature increases winning opportunities\",\n    \"Visually stunning graphics featuring da Vinci's masterpieces\",\n    \"Lucrative winning combinations and high payout values\",\n    \"Chance to win up to 300 free spins\"\n  ],\n  \"cons\": [\n    \"Minimum bet of €1 may be high for some players\",\n    \"Limited variety of bonus features\"\n  ],\n  \"meta_title\": \"Play Da Vinci Diamonds Slot Free\",\n  \"meta_description\": \"Read our review of Da Vinci Diamonds slot and play for free. Discover its features and winning opportunities.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 565,
+                    "completion_tokens": 126,
+                    "total_tokens": 691
+                }
             }
         },
         {
@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Da_Vinci_Diamonds_that_incorp_9f478b40-c416-4e56-970e-161a10933cfc_3.png",
         "arved__Create_a_feature_image_for_Da_Vinci_Diamonds_that_incorp_9f478b40-c416-4e56-970e-161a10933cfc_2.png",
         "arved__Create_a_feature_image_for_Da_Vinci_Diamonds_that_incorp_9f478b40-c416-4e56-970e-161a10933cfc_1.png",
-        "arved__Create_a_feature_image_for_Da_Vinci_Diamonds_that_incorp_9f478b40-c416-4e56-970e-161a10933cfc_3.png",
         "arved__Create_a_feature_image_for_Da_Vinci_Diamonds_that_incorp_9f478b40-c416-4e56-970e-161a10933cfc_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Da Vinci Diamonds (Version 3).webp",
+        "game_reviews/processed_images/Da Vinci Diamonds (Version 2).webp",
         "game_reviews/processed_images/Da Vinci Diamonds (Version 4).webp",
-        "game_reviews/processed_images/Da Vinci Diamonds (Version 1).webp",
-        "game_reviews/processed_images/Da Vinci Diamonds (Version 2).webp"
+        "game_reviews/processed_images/Da Vinci Diamonds (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/da-vinci-diamonds.json"
+    "filename": "game_reviews/translations/da-vinci-diamonds.json",
+    "slug": "da-vinci-diamonds",
+    "name": "Da Vinci Diamonds",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Da-Vinci-Diamonds-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Da Vinci Diamonds Slot Free' ### Meta set: 'Read our review of Da Vinci Diamonds slot and play for free. Discover its features and winning opportunities.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

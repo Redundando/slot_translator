@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative cluster mechanism creates fun gameplay",
-                    "Visually appealing",
-                    "Unique special features",
-                    "Compatible with all devices"
+                    "Cluster mechanism creates exciting gameplay",
+                    "Cascading effect can lead to new wins",
+                    "Detailed graphics and design",
+                    "Special features add depth to gameplay"
                 ],
                 "cons": [
-                    "High volatility may not be suitable for all players",
-                    "Limited direct reference to theme"
+                    "Wins may not be frequent due to high volatility",
+                    "Limited direct reference to the game's theme"
                 ],
-                "meta_title": "Play Dragons Clusterbuster for Free | Slot Game Review",
-                "meta_description": "Discover the innovative cluster mechanism and unique special features of Dragons Clusterbuster. Play for free and try your luck with this high volatility slot game."
+                "meta_title": "Play Dragons Clusterbuster Free: Review and Gameplay",
+                "meta_description": "Read our review of Dragons Clusterbuster and play this exciting slot game for free. Discover special features and high volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragons Clusterbuster\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nDragons Clusterbuster uses a cluster mechanism to generate winning combinations. The game grid is 9x9, and at least five identical adjacent symbols generate a cluster. The system works by cascading; thus, winning combinations disappear, and the cascading effect can lead to new wins. The game features Autoplay and Turbo functions to speed up gameplay. The game has high volatility, so wins may not be frequent, but when they occur, they are substantial.\n\nVisual Design\n\nThe game's theme is centered around dragons, with the main colors being gold, silver, and copper, green, and blue. Aside from the dragon's scaly skin visible on the game grid's sides, there is no direct reference to the game's theme. The game's graphics are highly detailed, as we would expect from a Red Tiger slot game.\n\nSpecial Features\n\nDragons Clusterbuster has a central 3x3 square on the game grid, where eggs with corresponding eyes are located. Each eye has a unique function that can be unlocked by removing the surrounding symbols around the egg. The blue eye removes low-value symbols, creating a cascading effect that can generate higher wins. The green eye randomly replaces different base symbols with Wilds. The purple eye randomly strikes a number of symbols with lightning, turning them into multipliers. The last function is Free Spins, where eight tiles around the egg are removed, and ten free spins are awarded.\n\nVolatility\n\nDragons Clusterbuster has high volatility, meaning wins may not happen often, but when they do, they are substantial. The game's RTP value is 96%, which is the average for most slot games.\n\nCompatibility\n\nDragons Clusterbuster is compatible with every device, including smartphones, desktops, and tablets.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragons Clusterbuster\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nDragons Clusterbuster uses a cluster mechanism to generate winning combinations. The game grid is 9x9, and at least five identical adjacent symbols generate a cluster. The system works by cascading; thus, winning combinations disappear, and the cascading effect can lead to new wins. The game features Autoplay and Turbo functions to speed up gameplay. The game has high volatility, so wins may not be frequent, but when they occur, they are substantial.\n\nVisual Design\n\nThe game's theme is centered around dragons, with the main colors being gold, silver, and copper, green, and blue. Aside from the dragon's scaly skin visible on the game grid's sides, there is no direct reference to the game's theme. The game's graphics are highly detailed, as we would expect from a Red Tiger slot game.\n\nSpecial Features\n\nDragons Clusterbuster has a central 3x3 square on the game grid, where eggs with corresponding eyes are located. Each eye has a unique function that can be unlocked by removing the surrounding symbols around the egg. The blue eye removes low-value symbols, creating a cascading effect that can generate higher wins. The green eye randomly replaces different base symbols with Wilds. The purple eye randomly strikes a number of symbols with lightning, turning them into multipliers. The last function is Free Spins, where eight tiles around the egg are removed, and ten free spins are awarded.\n\nVolatility\n\nDragons Clusterbuster has high volatility, meaning wins may not happen often, but when they do, they are substantial. The game's RTP value is 96%, which is the average for most slot games.\n\nCompatibility\n\nDragons Clusterbuster is compatible with every device, including smartphones, desktops, and tablets.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QKxGkPYiBVbczuvMo9Nt7LKrurA2",
+                "id": "chatcmpl-7WRoWnTZZ8ABiAa1Da1Ac958gMq3u",
                 "object": "chat.completion",
-                "created": 1686511434,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 119,
-                    "total_tokens": 656
-                },
+                "created": 1687967768,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative cluster mechanism creates fun gameplay\",\n        \"Visually appealing\",\n        \"Unique special features\",\n        \"Compatible with all devices\"\n    ],\n    \"cons\": [\n        \"High volatility may not be suitable for all players\",\n        \"Limited direct reference to theme\"\n    ],\n    \"meta_title\": \"Play Dragons Clusterbuster for Free | Slot Game Review\",\n    \"meta_description\": \"Discover the innovative cluster mechanism and unique special features of Dragons Clusterbuster. Play for free and try your luck with this high volatility slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cluster mechanism creates exciting gameplay\",\n    \"Cascading effect can lead to new wins\",\n    \"Detailed graphics and design\",\n    \"Special features add depth to gameplay\"\n  ],\n  \"cons\": [\n    \"Wins may not be frequent due to high volatility\",\n    \"Limited direct reference to the game's theme\"\n  ],\n  \"meta_title\": \"Play Dragons Clusterbuster Free: Review and Gameplay\",\n  \"meta_description\": \"Read our review of Dragons Clusterbuster and play this exciting slot game for free. Discover special features and high volatility.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 534,
+                    "completion_tokens": 122,
+                    "total_tokens": 656
+                }
             }
         },
         {
@@ -811,14 +811,19 @@
     ],
     "raw_feature_images": [
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_4.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_3.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Dragons__b9f747ff-0b51-43a9-9046-606d116df5f3_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragons Clusterbuster (Version 4).webp",
         "game_reviews/processed_images/Dragons Clusterbuster (Version 3).webp",
+        "game_reviews/processed_images/Dragons Clusterbuster (Version 4).webp",
         "game_reviews/processed_images/Dragons Clusterbuster (Version 1).webp",
         "game_reviews/processed_images/Dragons Clusterbuster (Version 2).webp"
-    ]
+    ],
+    "filename": "game_reviews/translations/dragons-clusterbuster.json",
+    "slug": "dragons-clusterbuster",
+    "name": "Dragons Clusterbuster",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

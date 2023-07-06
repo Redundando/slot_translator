@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting free spins mode with jackpots",
-                    "Attractive maximum payout of €500,000",
-                    "Appealing 96.17% return to player (RTP)",
-                    "Moderate volatility for balanced gameplay"
+                    "Captivating oriental theme with four animal characters",
+                    "243 ways to win and moderate volatility for steady prizes",
+                    "Four jackpots and maximum payout of €500,000",
+                    "Above-average theoretical RTP of 96.17%"
                 ],
                 "cons": [
-                    "No interactive bonus game",
-                    "Theme may not suit all players"
+                    "Requires patience for more valuable prizes",
+                    "Limited variety in symbols apart from animal characters"
                 ],
-                "meta_title": "Play Beast of Wealth Slot - Free Play Included",
-                "meta_description": "Read our review of Beast of Wealth by Play'N'Go. Play this slot for free and enjoy exciting features, including jackpots and an RTP of 96.17%"
+                "meta_title": "Play Beast of Wealth Free - Captivating Oriental Slot Game",
+                "meta_description": "Play Beast of Wealth for free and experience a captivating oriental slot game with four animal characters."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beast of Wealth\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeast of Wealth Overview\n\nBeast of Wealth is a captivating slot game by Play'N'Go, carrying an oriental theme with four animals (the phoenix, dragon, tiger, and turtle) as its main characters. The game features five reels, three rows, and 243 ways to win, with bets ranging from €0.10 to €100. The slot's moderate volatility provides ample opportunities to win small, steady prizes, and for more valuable prizes, a bit of patience is required. The game also comes with four jackpots: Minor, Grand, Major, and Mini, with a maximum payout of €500,000. The theoretical RTP is an excellent 96.17%, slightly above average.\n\nSymbols and Payouts\n\nThe symbols featured on the reels of Beast of Wealth include numbers and letters representing playing cards from 9 to Ace, representing the lower value symbols. The four main symbols in the game are represented by animals - the tiger, turtle, phoenix, and dragon, with the dragon being the highest-paying icon. The game's special symbols are the Wild and Scatter symbols. The Wild symbol represented by a Gong, substitutes for all symbols, while the Scatter symbol is the Ying Yang, which awards free spins and the opportunity to win jackpots.\n\nWild and Scatter Symbols\n\nThe Wild symbol in Beast of Wealth is represented by a Gong, which acts as a substitute for all other symbols. The Scatter symbol in the game is the Ying Yang, which activates the free spins mode when three or more appear on the reels. The free spins mode provides players with the opportunity to trigger jackpots during the gameplay, making it one of the most exciting features of the game.\n\nJackpots and Maximum Payout\n\nBeast of Wealth provides four jackpots: Minor, Grand, Major, and Mini. The jackpots can be won during the game's free spins mode, which is activated by landing three or more Scatter symbols. The slot's maximum payout is an impressive €500,000, making it an incredibly lucrative game to play.\n\nReturn to Player (RTP)\n\nThe theoretical RTP of Beast of Wealth is 96.17%, which is slightly above average and quite appealing. The game's moderate volatility makes it an excellent choice for players who enjoy a balanced experience of winning small prizes, with occasional higher payouts available during the free spins mode and jackpot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beast of Wealth\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeast of Wealth Overview\n\nBeast of Wealth is a captivating slot game by Play'N'Go, carrying an oriental theme with four animals (the phoenix, dragon, tiger, and turtle) as its main characters. The game features five reels, three rows, and 243 ways to win, with bets ranging from €0.10 to €100. The slot's moderate volatility provides ample opportunities to win small, steady prizes, and for more valuable prizes, a bit of patience is required. The game also comes with four jackpots: Minor, Grand, Major, and Mini, with a maximum payout of €500,000. The theoretical RTP is an excellent 96.17%, slightly above average.\n\nSymbols and Payouts\n\nThe symbols featured on the reels of Beast of Wealth include numbers and letters representing playing cards from 9 to Ace, representing the lower value symbols. The four main symbols in the game are represented by animals - the tiger, turtle, phoenix, and dragon, with the dragon being the highest-paying icon. The game's special symbols are the Wild and Scatter symbols. The Wild symbol represented by a Gong, substitutes for all symbols, while the Scatter symbol is the Ying Yang, which awards free spins and the opportunity to win jackpots.\n\nWild and Scatter Symbols\n\nThe Wild symbol in Beast of Wealth is represented by a Gong, which acts as a substitute for all other symbols. The Scatter symbol in the game is the Ying Yang, which activates the free spins mode when three or more appear on the reels. The free spins mode provides players with the opportunity to trigger jackpots during the gameplay, making it one of the most exciting features of the game.\n\nJackpots and Maximum Payout\n\nBeast of Wealth provides four jackpots: Minor, Grand, Major, and Mini. The jackpots can be won during the game's free spins mode, which is activated by landing three or more Scatter symbols. The slot's maximum payout is an impressive €500,000, making it an incredibly lucrative game to play.\n\nReturn to Player (RTP)\n\nThe theoretical RTP of Beast of Wealth is 96.17%, which is slightly above average and quite appealing. The game's moderate volatility makes it an excellent choice for players who enjoy a balanced experience of winning small prizes, with occasional higher payouts available during the free spins mode and jackpot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7ScaiZYxhwU3tNXXrNEzvRZqv9Vzx",
+                "id": "chatcmpl-7WNrPahfTqX73B8CVrxSGr7x8jbcA",
                 "object": "chat.completion",
-                "created": 1687055884,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 663,
-                    "completion_tokens": 142,
-                    "total_tokens": 805
-                },
+                "created": 1687952571,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting free spins mode with jackpots\",\n        \"Attractive maximum payout of €500,000\",\n        \"Appealing 96.17% return to player (RTP)\",\n        \"Moderate volatility for balanced gameplay\"\n    ],\n    \"cons\": [\n        \"No interactive bonus game\",\n        \"Theme may not suit all players\"\n    ],\n    \"meta_title\": \"Play Beast of Wealth Slot - Free Play Included\",\n    \"meta_description\": \"Read our review of Beast of Wealth by Play'N'Go. Play this slot for free and enjoy exciting features, including jackpots and an RTP of 96.17%\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Captivating oriental theme with four animal characters\",\n    \"243 ways to win and moderate volatility for steady prizes\",\n    \"Four jackpots and maximum payout of €500,000\",\n    \"Above-average theoretical RTP of 96.17%\"\n  ],\n  \"cons\": [\n    \"Requires patience for more valuable prizes\",\n    \"Limited variety in symbols apart from animal characters\"\n  ],\n  \"meta_title\": \"Play Beast of Wealth Free - Captivating Oriental Slot Game\",\n  \"meta_description\": \"Play Beast of Wealth for free and experience a captivating oriental slot game with four animal characters.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 660,
+                    "completion_tokens": 132,
+                    "total_tokens": 792
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/beast-of-wealth.json",
     "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_3.png",
         "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_2.png",
         "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_1.png",
-        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_4.png",
-        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_3.png"
+        "arved__Prompt_Create_a_cartoon-style_image_featuring_a_happy_Ma_052b003f-8dce-446e-8c96-2e35942efcf5_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Beast Of Wealth (Version 4).webp",
-        "game_reviews/processed_images/Beast Of Wealth (Version 2).webp",
         "game_reviews/processed_images/Beast Of Wealth (Version 3).webp",
+        "game_reviews/processed_images/Beast Of Wealth (Version 2).webp",
+        "game_reviews/processed_images/Beast Of Wealth (Version 4).webp",
         "game_reviews/processed_images/Beast Of Wealth (Version 1).webp"
-    ]
+    ],
+    "slug": "beast-of-wealth",
+    "name": "Beast of Wealth",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beast of Wealth Free - Captivating Oriental Slot Game' ### Meta set: 'Play Beast of Wealth for free and experience a captivating oriental slot game with four animal characters.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

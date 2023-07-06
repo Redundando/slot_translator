@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting bonus feature with high multipliers",
-                    "Stunning graphics and immersive theme",
-                    "High RTP value of 96.73%",
-                    "Cluster mechanic offers different ways to win"
+                    "Clustered gameplay mechanics",
+                    "Exciting Bonus Boost function",
+                    "High variability and RTP",
+                    "Visually stunning and immersive theme"
                 ],
                 "cons": [
-                    "Must use a minimum of 15 tokens to spin reels",
-                    "No progressive jackpot feature"
+                    "Minimum token requirement is relatively high",
+                    "Limited number of base symbols"
                 ],
-                "meta_title": "Play Candy Tower for Free - Exciting Cluster Slot Game",
-                "meta_description": "Read our review of Candy Tower, a visually stunning cluster game with a high RTP. Play now for free and activate the exciting Bonus Boost feature."
+                "meta_title": "Play Candy Tower Free - Exciting Clustered Slot Game",
+                "meta_description": "Read our review of Candy Tower, a visually stunning and rewarding slot game. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Candy Tower\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nCandy Tower is a clustered game where you win by collecting at least seven identical symbols vertically or horizontally. The game has a 6x5 grid, and the value of the token is variable, with a minimum of €0.01. You must use a minimum of 15 tokens to spin the reels.\n\nSymbols and Features\n\nThe base symbols in Candy Tower are four different shaped candies: a purple star, yellow triangle, green hexagon, blue square, and red heart. The Wild symbol is a joker that appears on specific reels and helps to create winning combinations. The Scatter symbol awards free spins and can be reactivated. Depending on the number of clusters you collect, a tower of candy is built up to a maximum of 5 layers activating the Bonus Boost function, featuring expanding Wilds, movable Wilds, and multipliers of up to x888, potentially doubling your wins.\n\nBonus Functions\n\nCandy Tower has an exciting Bonus Boost function, activated by collecting clusters of symbols. The bonus features expanding Wilds, movable Wilds, and multipliers up to x888, which can double your wins. The Scatter symbol also awards free spins with a minimum of 10 to a maximum of 250, and this function can be reactivated.\n\nVariability and RTP\n\nCandy Tower has high variability with an RTP value of 96.73%. The game's mascot keeps track of the number of symbols collected to activate the bonus games. With each spin, you can collect between 7 and 30 symbols.\n\nVisuals and Theme\n\nCandy Tower is a visually stunning game that takes you on a journey through a candy-filled world of cakes, ice creams, and sweets. The graphics feature natural landscapes with mouth-watering fruits and chocolates. The game's mascot cheers on wins on the left-hand side of the playing grid, and candy icons serve as counters. It's an immersive and rewarding slot experience that will leave you feeling like you're in a delicious treat world.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Candy Tower\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nCandy Tower is a clustered game where you win by collecting at least seven identical symbols vertically or horizontally. The game has a 6x5 grid, and the value of the token is variable, with a minimum of €0.01. You must use a minimum of 15 tokens to spin the reels.\n\nSymbols and Features\n\nThe base symbols in Candy Tower are four different shaped candies: a purple star, yellow triangle, green hexagon, blue square, and red heart. The Wild symbol is a joker that appears on specific reels and helps to create winning combinations. The Scatter symbol awards free spins and can be reactivated. Depending on the number of clusters you collect, a tower of candy is built up to a maximum of 5 layers activating the Bonus Boost function, featuring expanding Wilds, movable Wilds, and multipliers of up to x888, potentially doubling your wins.\n\nBonus Functions\n\nCandy Tower has an exciting Bonus Boost function, activated by collecting clusters of symbols. The bonus features expanding Wilds, movable Wilds, and multipliers up to x888, which can double your wins. The Scatter symbol also awards free spins with a minimum of 10 to a maximum of 250, and this function can be reactivated.\n\nVariability and RTP\n\nCandy Tower has high variability with an RTP value of 96.73%. The game's mascot keeps track of the number of symbols collected to activate the bonus games. With each spin, you can collect between 7 and 30 symbols.\n\nVisuals and Theme\n\nCandy Tower is a visually stunning game that takes you on a journey through a candy-filled world of cakes, ice creams, and sweets. The graphics feature natural landscapes with mouth-watering fruits and chocolates. The game's mascot cheers on wins on the left-hand side of the playing grid, and candy icons serve as counters. It's an immersive and rewarding slot experience that will leave you feeling like you're in a delicious treat world.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SppQvoEYDaWrjJcq6KiJRAa42gvK",
+                "id": "chatcmpl-7WPgCRtCYdRiaU4oJ9ilfcPp5IOhg",
                 "object": "chat.completion",
-                "created": 1687106768,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 582,
-                    "completion_tokens": 133,
-                    "total_tokens": 715
-                },
+                "created": 1687959564,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting bonus feature with high multipliers\",\n        \"Stunning graphics and immersive theme\",\n        \"High RTP value of 96.73%\",\n        \"Cluster mechanic offers different ways to win\"\n    ],\n    \"cons\": [\n        \"Must use a minimum of 15 tokens to spin reels\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Candy Tower for Free - Exciting Cluster Slot Game\",\n    \"meta_description\": \"Read our review of Candy Tower, a visually stunning cluster game with a high RTP. Play now for free and activate the exciting Bonus Boost feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Clustered gameplay mechanics\",\n    \"Exciting Bonus Boost function\",\n    \"High variability and RTP\",\n    \"Visually stunning and immersive theme\"\n  ],\n  \"cons\": [\n    \"Minimum token requirement is relatively high\",\n    \"Limited number of base symbols\"\n  ],\n  \"meta_title\": \"Play Candy Tower Free - Exciting Clustered Slot Game\",\n  \"meta_description\": \"Read our review of Candy Tower, a visually stunning and rewarding slot game. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 579,
+                    "completion_tokens": 108,
+                    "total_tokens": 687
+                }
             }
         },
         {
@@ -813,16 +813,33 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_1.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_06a72764-04b6-4885-96fe-153334d04f40_3.png",
         "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_4.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_3.png"
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_06a72764-04b6-4885-96fe-153334d04f40_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_06a72764-04b6-4885-96fe-153334d04f40_4.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_51fa381f-66e7-4e2c-9f68-3c37f198502d_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_06a72764-04b6-4885-96fe-153334d04f40_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Candy Tower (Version 1).webp",
         "game_reviews/processed_images/Candy Tower (Version 3).webp",
-        "game_reviews/processed_images/Candy Tower (Version 4).webp",
-        "game_reviews/processed_images/Candy Tower (Version 2).webp"
+        "game_reviews/processed_images/Candy Tower (Version 7).webp",
+        "game_reviews/processed_images/Candy Tower (Version 6).webp",
+        "game_reviews/processed_images/Candy Tower (Version 2).webp",
+        "game_reviews/processed_images/Candy Tower (Version 8).webp",
+        "game_reviews/processed_images/Candy Tower (Version 5).webp",
+        "game_reviews/processed_images/Candy Tower (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/candy-tower.json"
+    "filename": "game_reviews/translations/candy-tower.json",
+    "slug": "candy-tower",
+    "name": "Candy Tower",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Candy-Tower-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Candy Tower Free - Exciting Clustered Slot Game' ### Meta set: 'Read our review of Candy Tower, a visually stunning and rewarding slot game. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

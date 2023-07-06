@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic Egyptian aesthetic",
-                    "Interesting free spins round",
-                    "High-paying wild symbol",
-                    "Simple gameplay mechanics"
+                    "Engaging gameplay with standard features and free spins",
+                    "Interesting theme based on ancient Egyptian mythology",
+                    "Classic Egyptian aesthetic with effective graphics",
+                    "High maximum payout of up to 1,000 times your bet"
                 ],
                 "cons": [
-                    "Average RTP",
-                    "Relatively high volatility"
+                    "Average RTP of 95.87%",
+                    "Relatively high volatility may result in less frequent big wins"
                 ],
-                "meta_title": "Play Book of Anunnaki for Free - Expert Slot Game Review",
-                "meta_description": "Explore the secrets of ancient Egypt in Book of Anunnaki. Read our expert review, play for free, and learn about the game's theme, bonus features, payout, and more."
+                "meta_title": "Play Book of Anunnaki Free - Ancient Egyptian Slot Game",
+                "meta_description": "Read our review of Book of Anunnaki and play this ancient Egyptian-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Anunnaki\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nBook of Anunnaki is a 5-reel, 3-row video slot with 10 paylines. The game's theme is based on ancient Egyptian mythology, where players must hunt for treasures in a mysterious tomb. The magical book symbol acts as the wild and substitutes for all other symbols in the game. This game also features standard features, free spins, and an expanding wild.\n\nTheme and storyline\n\nBook of Anunnaki transports players to the world of ancient Egypt, where they are tasked with uncovering the secrets of a mysterious book. This game is based on the mythology of the ancient civilization, with symbols such as statues and the Anubis eye. The game has a classic Egyptian aesthetic, with a deliberately simplistic gameplay on a standard 5x3 layout.\n\nGraphics and visual design\n\nBook of Anunnaki has a classic Egyptian aesthetic, with symbols that represent the ancient civilization. The game's graphics are simple, but they're effective at conveying the game's theme. The layout features a desert background with a pyramid and temple in the distance. The symbols include the magical book as the wild, which substitutes for all other symbols and pays up to 1,000 times your bet for five on the reels. \n\nPayout and Return to Player (RTP)\n\nThe RTP for Book of Anunnaki is 95.87%, which is average in comparison to other online slots. The game has a relatively high volatility, with a rating of 4 out of 5. Therefore, the maximum payout is rare, and players need to activate the free spins bonus round to have a chance to win big. The symbol payouts range from 10 to 1,000 times your bet.\n\nBonus features and free spins\n\nThe game's most interesting bonus feature is the free spins round, which is triggered by landing three or more scatter symbols on the reels. Players receive 15 free spins and can select a special symbol that will expand until the end of the extra spins. If three more scatters are found during this round, players can reactivate another 15 free spins and change the special symbol. There is no limit to the number of spins received.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Anunnaki\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nBook of Anunnaki is a 5-reel, 3-row video slot with 10 paylines. The game's theme is based on ancient Egyptian mythology, where players must hunt for treasures in a mysterious tomb. The magical book symbol acts as the wild and substitutes for all other symbols in the game. This game also features standard features, free spins, and an expanding wild.\n\nTheme and storyline\n\nBook of Anunnaki transports players to the world of ancient Egypt, where they are tasked with uncovering the secrets of a mysterious book. This game is based on the mythology of the ancient civilization, with symbols such as statues and the Anubis eye. The game has a classic Egyptian aesthetic, with a deliberately simplistic gameplay on a standard 5x3 layout.\n\nGraphics and visual design\n\nBook of Anunnaki has a classic Egyptian aesthetic, with symbols that represent the ancient civilization. The game's graphics are simple, but they're effective at conveying the game's theme. The layout features a desert background with a pyramid and temple in the distance. The symbols include the magical book as the wild, which substitutes for all other symbols and pays up to 1,000 times your bet for five on the reels. \n\nPayout and Return to Player (RTP)\n\nThe RTP for Book of Anunnaki is 95.87%, which is average in comparison to other online slots. The game has a relatively high volatility, with a rating of 4 out of 5. Therefore, the maximum payout is rare, and players need to activate the free spins bonus round to have a chance to win big. The symbol payouts range from 10 to 1,000 times your bet.\n\nBonus features and free spins\n\nThe game's most interesting bonus feature is the free spins round, which is triggered by landing three or more scatter symbols on the reels. Players receive 15 free spins and can select a special symbol that will expand until the end of the extra spins. If three more scatters are found during this round, players can reactivate another 15 free spins and change the special symbol. There is no limit to the number of spins received.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SiXDpX025CuAjchSNFSEmCDV5gkR",
+                "id": "chatcmpl-7WOiuFZJswHS27Xhy31PRSyJWxbkx",
                 "object": "chat.completion",
-                "created": 1687078731,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 622,
-                    "completion_tokens": 108,
-                    "total_tokens": 730
-                },
+                "created": 1687955888,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Classic Egyptian aesthetic\", \"Interesting free spins round\", \"High-paying wild symbol\", \"Simple gameplay mechanics\"],\n    \"cons\": [\"Average RTP\", \"Relatively high volatility\"],\n    \"meta_title\": \"Play Book of Anunnaki for Free - Expert Slot Game Review\",\n    \"meta_description\": \"Explore the secrets of ancient Egypt in Book of Anunnaki. Read our expert review, play for free, and learn about the game's theme, bonus features, payout, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging gameplay with standard features and free spins\",\n    \"Interesting theme based on ancient Egyptian mythology\",\n    \"Classic Egyptian aesthetic with effective graphics\",\n    \"High maximum payout of up to 1,000 times your bet\"\n  ],\n  \"cons\": [\n    \"Average RTP of 95.87%\",\n    \"Relatively high volatility may result in less frequent big wins\"\n  ],\n  \"meta_title\": \"Play Book of Anunnaki Free - Ancient Egyptian Slot Game\",\n  \"meta_description\": \"Read our review of Book of Anunnaki and play this ancient Egyptian-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 619,
+                    "completion_tokens": 133,
+                    "total_tokens": 752
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "filename": "game_reviews/translations/book-of-anunnaki.json",
     "raw_feature_images": [
         "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_3.png",
+        "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_4.png",
         "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_1.png",
-        "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_2.png",
-        "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_4.png"
+        "arved__Create_a_feature_image_that_will_catch_the_attention_of__6db068b8-40bd-43d6-889b-ee078b521a32_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Anunnaki (Version 3).webp",
         "game_reviews/processed_images/Book Of Anunnaki (Version 1).webp",
         "game_reviews/processed_images/Book Of Anunnaki (Version 4).webp",
+        "game_reviews/processed_images/Book Of Anunnaki (Version 3).webp",
         "game_reviews/processed_images/Book Of Anunnaki (Version 2).webp"
-    ]
+    ],
+    "slug": "book-of-anunnaki",
+    "name": "Book of Anunnaki",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Anunnaki Free - Ancient Egyptian Slot Game' ### Meta set: 'Read our review of Book of Anunnaki and play this ancient Egyptian-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

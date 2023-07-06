@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Lasting Activated Wilds feature",
-                    "Cavalier and triumphant musical background",
-                    "High volatility and RTP",
-                    "Free spins bonus feature"
+                    "Traditional slot machine with classic gameplay",
+                    "Lasting Activated Wilds feature adds excitement",
+                    "High volatility for potential big wins",
+                    "Profitable RTP of 96%"
                 ],
                 "cons": [
-                    "Simple design and graphics",
-                    "Limited betting range"
+                    "Limited number of free spins",
+                    "Graphics and design could be more visually appealing"
                 ],
-                "meta_title": "Play Joker Riches 2 for Free - Slot Game Review",
-                "meta_description": "Read our review of Joker Riches 2, a profitable slot game with high volatility and RTP. Play for free and activate Lasting Activated Wilds and free spins."
+                "meta_title": "Play Joker Riches 2 for Free - Traditional Slot Machine",
+                "meta_description": "Play Joker Riches 2 for free and enjoy the traditional slot machine experience with exciting bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker Riches 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonuses\n\nJoker Riches 2 is a traditional slot machine with five reels and three rows with fixed paylines of 20. The game offers a betting range from a minimum of 1 credit to a maximum of 1,000 credits per line. You can set up to 100 automatic spins from the Autoplay button with loss and win limits. The game has high volatility and an RTP of 96%. The Lasting Activated Wilds feature, which activates by landing Wilds, occurs on the fifth reel with one or multiple sticks of the same color occupying space on the rosette to the left of the game grid. This feature activates the Wild symbol represented by the Joker with the word “Wild” on the collar. It replaces all symbols except the Scatter.\n\nGraphics and Design\n\nJoker Riches 2 offers a simple design and graphics with the castle on a hill as the background and two banners framing the game grid. The Wilds occupy space on the left banner, while the lower part of the interface shows balance, winnings, and bet values. The game offers a cavalier musical background with sounds of trumpets and choirs on significant wins, accompanied by gold coins.\n\nVolatility and RTP\n\nThe game has high volatility and an RTP of 96%, making it a profitable slot to consider playing.\n\nPaylines and symbol hierarchy\n\nThe game features nine basic symbols, divided into value from lowest to highest. The basic symbols include playing cards J, K, Q, three Jokers in different colors, and the prince, queen, and king symbols that provide the highest winnings. The Wild symbol is represented by the Joker with the word “Wild” on the collar and appears on the fifth reel. The Scatter symbol is the spades symbol with the Bonus inscription.\n\nWilds, Scatters, and Bonus features\n\nTo activate the Wild symbol, one must activate the Lasting Activated Wilds feature by landing Wilds on the fifth reel. It replaces all symbols except the Scatter symbol. The Scatter symbol is the spades symbol with the Bonus inscription, and if three appear, the grid relocates inside the castle, and players receive seven free spins during which all Jokers become Wild.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker Riches 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonuses\n\nJoker Riches 2 is a traditional slot machine with five reels and three rows with fixed paylines of 20. The game offers a betting range from a minimum of 1 credit to a maximum of 1,000 credits per line. You can set up to 100 automatic spins from the Autoplay button with loss and win limits. The game has high volatility and an RTP of 96%. The Lasting Activated Wilds feature, which activates by landing Wilds, occurs on the fifth reel with one or multiple sticks of the same color occupying space on the rosette to the left of the game grid. This feature activates the Wild symbol represented by the Joker with the word “Wild” on the collar. It replaces all symbols except the Scatter.\n\nGraphics and Design\n\nJoker Riches 2 offers a simple design and graphics with the castle on a hill as the background and two banners framing the game grid. The Wilds occupy space on the left banner, while the lower part of the interface shows balance, winnings, and bet values. The game offers a cavalier musical background with sounds of trumpets and choirs on significant wins, accompanied by gold coins.\n\nVolatility and RTP\n\nThe game has high volatility and an RTP of 96%, making it a profitable slot to consider playing.\n\nPaylines and symbol hierarchy\n\nThe game features nine basic symbols, divided into value from lowest to highest. The basic symbols include playing cards J, K, Q, three Jokers in different colors, and the prince, queen, and king symbols that provide the highest winnings. The Wild symbol is represented by the Joker with the word “Wild” on the collar and appears on the fifth reel. The Scatter symbol is the spades symbol with the Bonus inscription.\n\nWilds, Scatters, and Bonus features\n\nTo activate the Wild symbol, one must activate the Lasting Activated Wilds feature by landing Wilds on the fifth reel. It replaces all symbols except the Scatter symbol. The Scatter symbol is the spades symbol with the Bonus inscription, and if three appear, the grid relocates inside the castle, and players receive seven free spins during which all Jokers become Wild.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwJyL0rs6HxjFwfqEjvkY66GNGGv",
+                "id": "chatcmpl-7WVfASKGqwXAx7Em6QcDPBZ8QKadM",
                 "object": "chat.completion",
-                "created": 1687370054,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982564,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Lasting Activated Wilds feature\",\n    \"Cavalier and triumphant musical background\",\n    \"High volatility and RTP\",\n    \"Free spins bonus feature\"\n  ],\n  \"cons\": [\n    \"Simple design and graphics\",\n    \"Limited betting range\"\n  ],\n  \"meta_title\": \"Play Joker Riches 2 for Free - Slot Game Review\",\n  \"meta_description\": \"Read our review of Joker Riches 2, a profitable slot game with high volatility and RTP. Play for free and activate Lasting Activated Wilds and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Traditional slot machine with classic gameplay\",\n    \"Lasting Activated Wilds feature adds excitement\",\n    \"High volatility for potential big wins\",\n    \"Profitable RTP of 96%\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins\",\n    \"Graphics and design could be more visually appealing\"\n  ],\n  \"meta_title\": \"Play Joker Riches 2 for Free - Traditional Slot Machine\",\n  \"meta_description\": \"Play Joker Riches 2 for free and enjoy the traditional slot machine experience with exciting bonuses.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 630,
-                    "completion_tokens": 126,
-                    "total_tokens": 756
+                    "prompt_tokens": 627,
+                    "completion_tokens": 119,
+                    "total_tokens": 746
                 }
             }
         },
@@ -815,5 +815,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/joker-riches-2.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_9b717b89-7765-40e0-ad65-27b67f6153d7_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_9b717b89-7765-40e0-ad65-27b67f6153d7_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_9b717b89-7765-40e0-ad65-27b67f6153d7_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_9b717b89-7765-40e0-ad65-27b67f6153d7_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Joker Riches 2 (Version 4).webp",
+        "game_reviews/processed_images/Joker Riches 2 (Version 2).webp",
+        "game_reviews/processed_images/Joker Riches 2 (Version 1).webp",
+        "game_reviews/processed_images/Joker Riches 2 (Version 3).webp"
+    ],
+    "slug": "joker-riches-2",
+    "name": "Joker Riches 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Joker-Riches-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker Riches 2 for Free - Traditional Slot Machine' ### Meta set: 'Play Joker Riches 2 for free and enjoy the traditional slot machine experience with exciting bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

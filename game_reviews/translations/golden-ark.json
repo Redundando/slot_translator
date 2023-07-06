@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting Gamble feature",
-                    "Free spins triggered by Book of Ra symbol",
-                    "Autoplay function available",
-                    "Visually appealing Egyptian theme"
+                    "Exciting Gamble feature for more chances to win",
+                    "Free spins feature can be triggered for up to 10 free spins",
+                    "Autoplay function for convenient gameplay",
+                    "Similar games with ancient civilization theme available"
                 ],
                 "cons": [
-                    "Limited paylines",
-                    "No progressive jackpot"
+                    "Risk of losing winnings with the Gamble feature",
+                    "Limited number of paylines compared to some other slot games"
                 ],
-                "meta_title": "Play Golden Ark Free: Review of Egyptian-Themed Slot Game",
-                "meta_description": "Discover the exciting features of Golden Ark, an Egyptian-themed slot game with free spins and gamble feature. Play for free and read our unbiased review."
+                "meta_title": "Play Golden Ark for Free - Exciting Egyptian-Themed Slot Game",
+                "meta_description": "Play Golden Ark for free and experience the thrill of ancient Egypt in this exciting slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Ark\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGolden Ark is an Egyptian-themed slot game with 5 reels and 10 paylines, with a minimum bet of €0.10 and a maximum bet of €100. The game follows the usual format of slot games where players need to land winning combinations of symbols in the correct order on a payline to win. The Autoplay function is also available for players who prefer to watch the game play out automatically.\n\nSymbols\n\nThe symbols in Golden Ark are all related to ancient Egypt and include bronze warriors, a book, the eye of Horus, and other golden objects, as well as the typical playing card symbols from 9 to Ace. The Scatter symbol is the mythical Book of Ra, serving as both a scatter and a wild. It substitutes for all other symbols on a single payline and can trigger up to 10 free spins when three or more appear on the reels.\n\nSpecial Features\n\nGolden Ark has an exciting Gamble feature where players can choose to gamble their winnings. By guessing the color of a face-down card correctly, they can double their winnings, but if they guess incorrectly, they lose everything. The game also has a free spins feature triggered by the Book of Ra symbol, where players can win up to 10 free spins.\n\nBetting\n\nThe minimum bet in Golden Ark is €0.10, while the maximum is €100. Players can adjust their bet using the options provided and can also use the Autoplay function to play automatically. It's important for players to set their bet according to their budget before playing.\n\nSimilar Games\n\nFor fans of the ancient civilization theme, Golden Ark is an excellent choice. Similar games include the popular Book of Ra and its spin-off Book of Maya, which are also set in ancient civilizations. These games offer similar gameplay and features, but with different themes and symbols.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Ark\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGolden Ark is an Egyptian-themed slot game with 5 reels and 10 paylines, with a minimum bet of €0.10 and a maximum bet of €100. The game follows the usual format of slot games where players need to land winning combinations of symbols in the correct order on a payline to win. The Autoplay function is also available for players who prefer to watch the game play out automatically.\n\nSymbols\n\nThe symbols in Golden Ark are all related to ancient Egypt and include bronze warriors, a book, the eye of Horus, and other golden objects, as well as the typical playing card symbols from 9 to Ace. The Scatter symbol is the mythical Book of Ra, serving as both a scatter and a wild. It substitutes for all other symbols on a single payline and can trigger up to 10 free spins when three or more appear on the reels.\n\nSpecial Features\n\nGolden Ark has an exciting Gamble feature where players can choose to gamble their winnings. By guessing the color of a face-down card correctly, they can double their winnings, but if they guess incorrectly, they lose everything. The game also has a free spins feature triggered by the Book of Ra symbol, where players can win up to 10 free spins.\n\nBetting\n\nThe minimum bet in Golden Ark is €0.10, while the maximum is €100. Players can adjust their bet using the options provided and can also use the Autoplay function to play automatically. It's important for players to set their bet according to their budget before playing.\n\nSimilar Games\n\nFor fans of the ancient civilization theme, Golden Ark is an excellent choice. Similar games include the popular Book of Ra and its spin-off Book of Maya, which are also set in ancient civilizations. These games offer similar gameplay and features, but with different themes and symbols.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGsl2N0rN6mfDss3rNPwpzMVK2hd",
+                "id": "chatcmpl-7WU2xEnIQyj38NvSTa5WDO7L86pJt",
                 "object": "chat.completion",
-                "created": 1686495779,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 548,
-                    "completion_tokens": 106,
-                    "total_tokens": 654
-                },
+                "created": 1687976351,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Exciting Gamble feature\", \"Free spins triggered by Book of Ra symbol\", \"Autoplay function available\", \"Visually appealing Egyptian theme\"],\n    \"cons\": [\"Limited paylines\", \"No progressive jackpot\"],\n    \"meta_title\": \"Play Golden Ark Free: Review of Egyptian-Themed Slot Game\",\n    \"meta_description\": \"Discover the exciting features of Golden Ark, an Egyptian-themed slot game with free spins and gamble feature. Play for free and read our unbiased review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting Gamble feature for more chances to win\",\n    \"Free spins feature can be triggered for up to 10 free spins\",\n    \"Autoplay function for convenient gameplay\",\n    \"Similar games with ancient civilization theme available\"\n  ],\n  \"cons\": [\n    \"Risk of losing winnings with the Gamble feature\",\n    \"Limited number of paylines compared to some other slot games\"\n  ],\n  \"meta_title\": \"Play Golden Ark for Free - Exciting Egyptian-Themed Slot Game\",\n  \"meta_description\": \"Play Golden Ark for free and experience the thrill of ancient Egypt in this exciting slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 545,
+                    "completion_tokens": 135,
+                    "total_tokens": 680
+                }
             }
         },
         {
@@ -815,15 +815,27 @@
     ],
     "filename": "game_reviews/translations/golden-ark.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_3.png",
         "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_2666c358-469f-411e-9e41-b4d5ecc2ffef_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_2666c358-469f-411e-9e41-b4d5ecc2ffef_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_2666c358-469f-411e-9e41-b4d5ecc2ffef_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_2666c358-469f-411e-9e41-b4d5ecc2ffef_1.png",
         "arved__Prompt_Create_a_feature_image_for_Golden_Ark_that_captur_e5b27cbc-6916-4ffa-b6a3-f5eda64d3c3d_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Golden Ark (Version 1).webp",
         "game_reviews/processed_images/Golden Ark (Version 3).webp",
+        "game_reviews/processed_images/Golden Ark (Version 4).webp",
+        "game_reviews/processed_images/Golden Ark (Version 6).webp",
+        "game_reviews/processed_images/Golden Ark (Version 1).webp",
+        "game_reviews/processed_images/Golden Ark (Version 8).webp",
+        "game_reviews/processed_images/Golden Ark (Version 7).webp",
         "game_reviews/processed_images/Golden Ark (Version 2).webp",
-        "game_reviews/processed_images/Golden Ark (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Golden Ark (Version 5).webp"
+    ],
+    "slug": "golden-ark",
+    "name": "Golden Ark",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

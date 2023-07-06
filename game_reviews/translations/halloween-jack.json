@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique Wild symbol that awards free spins",
-                    "Great graphics with attention to detail",
-                    "Easy to get free spins",
-                    "Atmospheric theme inspired by the horror genre"
+                    "Detailed graphics and atmospheric visuals",
+                    "Unique Wild symbol with free spins",
+                    "Easy to trigger free spins compared to other slots",
+                    "Engaging theme inspired by horror and Halloween"
                 ],
                 "cons": [
-                    "Limited bonus features",
-                    "Low maximum bet"
+                    "Limited bonus features beyond free spins",
+                    "May not appeal to players who are not fans of horror genre"
                 ],
-                "meta_title": "Play Halloween Jack Slot for Free | Review",
-                "meta_description": "Read our review of Halloween Jack slot game. Play for free with unique Wild symbol, great graphics, and easy free spins. Inspired by the horror genre."
+                "meta_title": "Play Halloween Jack - Free Slot Game Review",
+                "meta_description": "Read our review of Halloween Jack slot game and play it for free. Experience horror-themed slots with unique wild symbols and easy free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Halloween Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nHalloween Jack is a 5x3 slot machine with twenty paylines and an RTP of around 96%. The game includes symbols and archetypes from the horror genre, including Scatter and Wild symbols.\n\nVisuals\n\nNetEnt has paid great attention to detail in the graphics of Halloween Jack. The music and visuals create a gloomy and atmospheric atmosphere, with symbols inspired by horror archetypes. Even the playing card symbols have been revised, with hands emerging from below ready to drag them into the abyss.\n\nMechanics\n\nHalloween Jack includes common mechanics found in other online slots, such as a 5x3 mechanism showing fifteen symbols at each play and twenty paylines. The game has a unique Wild symbol represented by the Halloween pumpkin, which awards free spins and moves to the left until it disappears beyond the left edge of the game screen. It's easier to get free spins compared to other slots. The chest symbol is the Scatter symbol that allows players to access the mode with free spins.\n\nBonuses\n\nThe free spins mode is the game's primary bonus feature. Players can win free spins by landing the chest Scatter symbol, while the Wild symbol creates respins with progressive multipliers. During these respins, players can earn more Wild symbols and increase the number of free spins.\n\nTheme\n\nHalloween Jack is inspired by the horror genre and specifically the Halloween holiday. The symbols and visuals of the game include archetypes such as vampires, demonic horses, and Jack o'Lanterns. The music and visuals create a gloomy and atmospheric atmosphere for players to immerse themselves in the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Halloween Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nHalloween Jack is a 5x3 slot machine with twenty paylines and an RTP of around 96%. The game includes symbols and archetypes from the horror genre, including Scatter and Wild symbols.\n\nVisuals\n\nNetEnt has paid great attention to detail in the graphics of Halloween Jack. The music and visuals create a gloomy and atmospheric atmosphere, with symbols inspired by horror archetypes. Even the playing card symbols have been revised, with hands emerging from below ready to drag them into the abyss.\n\nMechanics\n\nHalloween Jack includes common mechanics found in other online slots, such as a 5x3 mechanism showing fifteen symbols at each play and twenty paylines. The game has a unique Wild symbol represented by the Halloween pumpkin, which awards free spins and moves to the left until it disappears beyond the left edge of the game screen. It's easier to get free spins compared to other slots. The chest symbol is the Scatter symbol that allows players to access the mode with free spins.\n\nBonuses\n\nThe free spins mode is the game's primary bonus feature. Players can win free spins by landing the chest Scatter symbol, while the Wild symbol creates respins with progressive multipliers. During these respins, players can earn more Wild symbols and increase the number of free spins.\n\nTheme\n\nHalloween Jack is inspired by the horror genre and specifically the Halloween holiday. The symbols and visuals of the game include archetypes such as vampires, demonic horses, and Jack o'Lanterns. The music and visuals create a gloomy and atmospheric atmosphere for players to immerse themselves in the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7ToTeDyfHCruZ41erc6l9GKKAfKQC",
+                "id": "chatcmpl-7WUWyB78pAV8w1HrMO5GD4EGjBrzJ",
                 "object": "chat.completion",
-                "created": 1687339902,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978212,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unique Wild symbol that awards free spins\",\n    \"Great graphics with attention to detail\",\n    \"Easy to get free spins\",\n    \"Atmospheric theme inspired by the horror genre\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"Low maximum bet\"\n  ],\n  \"meta_title\": \"Play Halloween Jack Slot for Free | Review\",\n  \"meta_description\": \"Read our review of Halloween Jack slot game. Play for free with unique Wild symbol, great graphics, and easy free spins. Inspired by the horror genre.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Detailed graphics and atmospheric visuals\",\n    \"Unique Wild symbol with free spins\",\n    \"Easy to trigger free spins compared to other slots\",\n    \"Engaging theme inspired by horror and Halloween\"\n  ],\n  \"cons\": [\n    \"Limited bonus features beyond free spins\",\n    \"May not appeal to players who are not fans of horror genre\"\n  ],\n  \"meta_title\": \"Play Halloween Jack - Free Slot Game Review\",\n  \"meta_description\": \"Read our review of Halloween Jack slot game and play it for free. Experience horror-themed slots with unique wild symbols and easy free spins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 503,
-                    "completion_tokens": 121,
-                    "total_tokens": 624
+                    "prompt_tokens": 500,
+                    "completion_tokens": 129,
+                    "total_tokens": 629
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/halloween-jack.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_image_for_Halloween_Jack_t_e2561288-966b-44ac-ad24-40d60f95f67f_2.png",
+        "arved__Prompt_Create_a_cartoon-style_image_for_Halloween_Jack_t_e2561288-966b-44ac-ad24-40d60f95f67f_3.png",
+        "arved__Prompt_Create_a_cartoon-style_image_for_Halloween_Jack_t_e2561288-966b-44ac-ad24-40d60f95f67f_1.png",
+        "arved__Prompt_Create_a_cartoon-style_image_for_Halloween_Jack_t_e2561288-966b-44ac-ad24-40d60f95f67f_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Halloween Jack (Version 2).webp",
+        "game_reviews/processed_images/Halloween Jack (Version 4).webp",
+        "game_reviews/processed_images/Halloween Jack (Version 1).webp",
+        "game_reviews/processed_images/Halloween Jack (Version 3).webp"
+    ],
+    "slug": "halloween-jack",
+    "name": "Halloween Jack",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Halloween-Jack-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Halloween Jack - Free Slot Game Review' ### Meta set: 'Read our review of Halloween Jack slot game and play it for free. Experience horror-themed slots with unique wild symbols and easy free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

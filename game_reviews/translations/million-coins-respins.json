@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Offers six jackpot prizes with high payouts",
-                    "Manual Respin feature can lead to big wins",
-                    "Simple and easy-to-understand gameplay",
-                    "Traditional fruit machine style appeals to classic slot fans"
+                    "Traditional fruit machine style",
+                    "Six jackpot prizes",
+                    "Manual Respin feature for big wins",
+                    "Classic slot gaming experience"
                 ],
                 "cons": [
                     "Lacks free spins and cash games",
-                    "Chances of winning big with Respin feature are lower"
+                    "Lower chances of winning with Respin feature"
                 ],
-                "meta_title": "Play Million Coins Respin for Free - Classic Frut Machine Style",
-                "meta_description": "Read our review of Million Coins Respin, a classic fruit machine style slot game from iSoftBet. Play for free and win big with six jackpot prizes and a Respin feature."
+                "meta_title": "Play Million Coins Respins Free - Classic Slot Gameplay",
+                "meta_description": "Read our review of Million Coins Respins and play for free. Experience classic slot gaming with six jackpot prizes and a Respin feature."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Million Coins Respins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and rules\n\nMillion Coins Respin is a 5-reel, 3-row slot game with 20 paylines. It features traditional symbols such as 7s, BARs, and cherries with the addition of 10s and 0s symbols to trigger special prizes for the jackpot. There are no free spins or cash games available in this game, but it offers a manual Respin feature that can potentially lead to big wins.\n\nSymbols and paytable\n\nThe Million Wild symbol is the most profitable in the game, paying up to 50,000 coins for a line of five. The Fortune symbol is another high-paying symbol, offering a maximum payout of 10,000 coins. The remaining symbols are classic 7s, BARs, and cherries, with payouts ranging from 500 to 5,000 coins. A mixed combination of BAR symbols offers a small prize of 25-100 coins. The 10, 0, and 00 symbols activate the six jackpot prizes, with the highest payout being 100,000 coins.\n\nJackpot prizes\n\nMillion Coins Respin offers six jackpot prizes that can be triggered by collecting the 10, 0, and 00 symbols on any payline. The prizes range from 10 coins to a maximum of 100,000 coins.\n\nRespin feature\n\nThe Respin feature in Million Coins Respin allows players to choose one of the five reels and manually reposition it on a particular reel. This can potentially lead to big wins, but the chances of winning are lower.\n\nOverall review\n\nMillion Coins Respin is a traditional fruit machine style slot game from iSoftBet. While it lacks free spins and cash games, it has six jackpot prizes and a manual Respin feature that can potentially lead to big rewards. The Million Wild and Fortune symbols offer the highest payouts, while the classic 7s, BARs, and cherries provide smaller payouts. Overall, Million Coins Respin offers a classic slot gaming experience for those who prefer a more traditional approach.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Million Coins Respins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and rules\n\nMillion Coins Respin is a 5-reel, 3-row slot game with 20 paylines. It features traditional symbols such as 7s, BARs, and cherries with the addition of 10s and 0s symbols to trigger special prizes for the jackpot. There are no free spins or cash games available in this game, but it offers a manual Respin feature that can potentially lead to big wins.\n\nSymbols and paytable\n\nThe Million Wild symbol is the most profitable in the game, paying up to 50,000 coins for a line of five. The Fortune symbol is another high-paying symbol, offering a maximum payout of 10,000 coins. The remaining symbols are classic 7s, BARs, and cherries, with payouts ranging from 500 to 5,000 coins. A mixed combination of BAR symbols offers a small prize of 25-100 coins. The 10, 0, and 00 symbols activate the six jackpot prizes, with the highest payout being 100,000 coins.\n\nJackpot prizes\n\nMillion Coins Respin offers six jackpot prizes that can be triggered by collecting the 10, 0, and 00 symbols on any payline. The prizes range from 10 coins to a maximum of 100,000 coins.\n\nRespin feature\n\nThe Respin feature in Million Coins Respin allows players to choose one of the five reels and manually reposition it on a particular reel. This can potentially lead to big wins, but the chances of winning are lower.\n\nOverall review\n\nMillion Coins Respin is a traditional fruit machine style slot game from iSoftBet. While it lacks free spins and cash games, it has six jackpot prizes and a manual Respin feature that can potentially lead to big rewards. The Million Wild and Fortune symbols offer the highest payouts, while the classic 7s, BARs, and cherries provide smaller payouts. Overall, Million Coins Respin offers a classic slot gaming experience for those who prefer a more traditional approach.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9H1WrV0FHQmSsvafB1uzi1phXje",
+                "id": "chatcmpl-7WXkDRurzOQWxL0Mz8VqDaKK2cI6O",
                 "object": "chat.completion",
-                "created": 1687419843,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990565,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Offers six jackpot prizes with high payouts\",\n        \"Manual Respin feature can lead to big wins\",\n        \"Simple and easy-to-understand gameplay\",\n        \"Traditional fruit machine style appeals to classic slot fans\"\n    ],\n    \"cons\": [\n        \"Lacks free spins and cash games\",\n        \"Chances of winning big with Respin feature are lower\"\n    ],\n    \"meta_title\": \"Play Million Coins Respin for Free - Classic Frut Machine Style\",\n    \"meta_description\": \"Read our review of Million Coins Respin, a classic fruit machine style slot game from iSoftBet. Play for free and win big with six jackpot prizes and a Respin feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Traditional fruit machine style\",\n    \"Six jackpot prizes\",\n    \"Manual Respin feature for big wins\",\n    \"Classic slot gaming experience\"\n  ],\n  \"cons\": [\n    \"Lacks free spins and cash games\",\n    \"Lower chances of winning with Respin feature\"\n  ],\n  \"meta_title\": \"Play Million Coins Respins Free - Classic Slot Gameplay\",\n  \"meta_description\": \"Read our review of Million Coins Respins and play for free. Experience classic slot gaming with six jackpot prizes and a Respin feature.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 597,
-                    "completion_tokens": 149,
-                    "total_tokens": 746
+                    "prompt_tokens": 594,
+                    "completion_tokens": 118,
+                    "total_tokens": 712
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/million-coins-respins.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_eye-catching_cart_f46e542f-cc25-4302-bb13-ab700b237e7d_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_eye-catching_cart_f46e542f-cc25-4302-bb13-ab700b237e7d_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_eye-catching_cart_f46e542f-cc25-4302-bb13-ab700b237e7d_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_and_eye-catching_cart_f46e542f-cc25-4302-bb13-ab700b237e7d_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Million Coins Respins (Version 4).webp",
+        "game_reviews/processed_images/Million Coins Respins (Version 2).webp",
+        "game_reviews/processed_images/Million Coins Respins (Version 1).webp",
+        "game_reviews/processed_images/Million Coins Respins (Version 3).webp"
+    ],
+    "slug": "million-coins-respins",
+    "name": "Million Coins Respins",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Million-Coins-Respins-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Million Coins Respins Free - Classic Slot Gameplay' ### Meta set: 'Read our review of Million Coins Respins and play for free. Experience classic slot gaming with six jackpot prizes and a Respin feature.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

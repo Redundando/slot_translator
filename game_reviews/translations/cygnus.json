@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "A unique 'Avalanche' system with up to 262,144 ways to win",
-                    "High-value symbol payouts, interesting multipliers",
-                    "Fairly regular wins with substantial amounts with an RTP of 96.1%",
-                    "Innovative and unique game design by reputable developer ELK Studios"
+                    "Unique 'Avalanche' system with up to 262,144 ways to win",
+                    "High value symbol payouts",
+                    "Interesting multipliers",
+                    "Reputable developer with innovative game designs"
                 ],
                 "cons": [
-                    "High volatility rating may not be suitable for players who prefer frequent wins",
-                    "Limited number of symbols and lack of bonus features may not be appealing to some players"
+                    "Infrequent wins due to high volatility",
+                    "Limited variety in symbol designs"
                 ],
-                "meta_title": "Play Cygnus Free Slot Game Online | ELK Studios",
-                "meta_description": "Read our review of Cygnus by ELK Studios and play this unique online slot game for free. Featuring up to 262,144 ways to win and a high volatility rating."
+                "meta_title": "Play Cygnus - Free Online Slot Game",
+                "meta_description": "Discover the unique gameplay and high volatility of Cygnus. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cygnus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nCygnus features a unique 'Avalanche' system that increases the number of rows on each reel, with up to 262,144 ways to win. The game has 6 reels and 4 rows at the start, which can increase to 8 rows per reel. Winning combinations are created by aligning 3 or more symbols on adjacent reels from the first reel on the left.\n\nPayouts and symbols\n\nThe number 7 symbol is the highest value symbol, paying out 30 times the bet when it appears on all six reels. Other symbols include four types of gems with low values, an ibis, a camel, and a cat, which have fairly high payouts. The game also features interesting multipliers displayed on the right pillar.\n\nVolatility rating and RTP\n\nCygnus has a high volatility rating of 8/10, meaning wins are infrequent but can be substantial. The game has an RTP (return to player) of 96.1% with a 23% success rate, indicating that players can expect fairly regular wins with substantial amounts.\n\nTheme and design elements\n\nCygnus combines Ancient Egyptian and space themes, with the game grid placed in front of the entrance of a pyramid and framed by palm trees and a constellation in the night sky. The game features six reels positioned between two pillars, adding to the unique design elements.\n\nDeveloper information\n\nCygnus is developed by ELK Studios, a reputable provider in the online slot game industry. ELK Studios is known for their innovative and unique game designs, as seen in Cygnus.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cygnus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nCygnus features a unique 'Avalanche' system that increases the number of rows on each reel, with up to 262,144 ways to win. The game has 6 reels and 4 rows at the start, which can increase to 8 rows per reel. Winning combinations are created by aligning 3 or more symbols on adjacent reels from the first reel on the left.\n\nPayouts and symbols\n\nThe number 7 symbol is the highest value symbol, paying out 30 times the bet when it appears on all six reels. Other symbols include four types of gems with low values, an ibis, a camel, and a cat, which have fairly high payouts. The game also features interesting multipliers displayed on the right pillar.\n\nVolatility rating and RTP\n\nCygnus has a high volatility rating of 8/10, meaning wins are infrequent but can be substantial. The game has an RTP (return to player) of 96.1% with a 23% success rate, indicating that players can expect fairly regular wins with substantial amounts.\n\nTheme and design elements\n\nCygnus combines Ancient Egyptian and space themes, with the game grid placed in front of the entrance of a pyramid and framed by palm trees and a constellation in the night sky. The game features six reels positioned between two pillars, adding to the unique design elements.\n\nDeveloper information\n\nCygnus is developed by ELK Studios, a reputable provider in the online slot game industry. ELK Studios is known for their innovative and unique game designs, as seen in Cygnus.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SzdstDuie2e0xzpdJ8SGC1zt5Lq1",
+                "id": "chatcmpl-7WQpvjogE686Qp69Wz22ntzdSoupZ",
                 "object": "chat.completion",
-                "created": 1687144492,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 503,
-                    "completion_tokens": 181,
-                    "total_tokens": 684
-                },
+                "created": 1687964011,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"A unique 'Avalanche' system with up to 262,144 ways to win\",\n    \"High-value symbol payouts, interesting multipliers\",\n    \"Fairly regular wins with substantial amounts with an RTP of 96.1%\",\n    \"Innovative and unique game design by reputable developer ELK Studios\"\n  ],\n  \"cons\": [\n    \"High volatility rating may not be suitable for players who prefer frequent wins\",\n    \"Limited number of symbols and lack of bonus features may not be appealing to some players\"\n  ],\n  \"meta_title\": \"Play Cygnus Free Slot Game Online | ELK Studios\",\n  \"meta_description\": \"Read our review of Cygnus by ELK Studios and play this unique online slot game for free. Featuring up to 262,144 ways to win and a high volatility rating.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique 'Avalanche' system with up to 262,144 ways to win\",\n    \"High value symbol payouts\",\n    \"Interesting multipliers\",\n    \"Reputable developer with innovative game designs\"\n  ],\n  \"cons\": [\n    \"Infrequent wins due to high volatility\",\n    \"Limited variety in symbol designs\"\n  ],\n  \"meta_title\": \"Play Cygnus - Free Online Slot Game\",\n  \"meta_description\": \"Discover the unique gameplay and high volatility of Cygnus. Play for free and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 500,
+                    "completion_tokens": 120,
+                    "total_tokens": 620
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_2.png",
         "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_1.png",
         "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_4.png",
-        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_3.png"
+        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_3.png",
+        "arved__Create_an_eye-catching_cartoon-style_feature_image_for_C_cf55e0ef-1268-4652-a3e1-481ed4b1d3d3_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cygnus (Version 3).webp",
-        "game_reviews/processed_images/Cygnus (Version 4).webp",
         "game_reviews/processed_images/Cygnus (Version 2).webp",
+        "game_reviews/processed_images/Cygnus (Version 4).webp",
         "game_reviews/processed_images/Cygnus (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cygnus.json"
+    "filename": "game_reviews/translations/cygnus.json",
+    "slug": "cygnus",
+    "name": "Cygnus",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cygnus-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cygnus - Free Online Slot Game' ### Meta set: 'Discover the unique gameplay and high volatility of Cygnus. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

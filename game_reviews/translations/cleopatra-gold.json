@@ -1110,15 +1110,19 @@
     ],
     "filename": "game_reviews/translations/cleopatra-gold.json",
     "raw_feature_images": [
-        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_1.png",
+        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_4.png",
         "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_2.png",
-        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_3.png",
-        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_4.png"
+        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_1.png",
+        "arved__Please_create_a_feature_image_for_Cleopatra_Gold_that_sh_dd7f3b24-0b41-45a6-b8a7-4453df154bd2_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cleopatra Gold (Version 1).webp",
         "game_reviews/processed_images/Cleopatra Gold (Version 4).webp",
+        "game_reviews/processed_images/Cleopatra Gold (Version 1).webp",
         "game_reviews/processed_images/Cleopatra Gold (Version 3).webp",
         "game_reviews/processed_images/Cleopatra Gold (Version 2).webp"
-    ]
+    ],
+    "slug": "cleopatra-gold",
+    "name": "Cleopatra Gold",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

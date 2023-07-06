@@ -582,38 +582,38 @@
                 "pros": [
                     "Beautiful graphics and 3D animations",
                     "Exciting bonuses and features",
-                    "High percentage of return to the player",
-                    "Well-developed game and software"
+                    "Attention to detail in symbols and graphics",
+                    "High return to player percentage"
                 ],
                 "cons": [
-                    "Limited free spins",
-                    "Limited pay lines"
+                    "Limited number of free spins",
+                    "Limited reactivation of free spins"
                 ],
-                "meta_title": "Play Captain Jack Slot Free - Exciting Pirate-themed Slot Game",
-                "meta_description": "Read our review of Captain Jack and play this pirate-themed slot free. Enjoy special features and bonuses for an excellent gaming experience."
+                "meta_title": "Play Captain Jack Free - Exciting Pirate Themed Slot",
+                "meta_description": "Read our review of Captain Jack and play the pirate themed slot for free. Enjoy beautiful graphics and exciting bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Captain Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\nThe gameplay experience of Captain Jack is positive. Players will enjoy the beautiful graphics, 3D animations, and a pirate themed set-up with 5 reels and 20 pay lines. It includes many figures and special symbols such as a flag complete with a Skull, a Sword, an Anchor, a Chest, a Cannon, and a Helm.\n\nBonuses and Features\n\nCaptain Jack has some exciting bonuses and features to offer players. The wildcard is represented by the Treasure Chest that can help players obtain lucky combinations. The Scatter symbol is represented by the Flag with the Skull, which can activate free spins or offer multipliers compared to the standard bet. The game also comes with a bonus game that allows players to multiply the bets made to increase the final prize. Players have to position at least three symbols of the Map on reels 2, 3, and 4 to participate in the treasure hunt.\n\nSymbols and Graphics\n\nThe symbols and graphics of Captain Jack are simple yet beautiful, with attention to detail, and the game offers 3D animations. The pirate themed slot has symbols such as a flag with a Skull, a Sword, an Anchor, a Chest, a Cannon, and a Helm. The wild symbol is the Treasure Chest, and the Scatter symbol is the Flag with the Skull. \n\nReturn to Player Percentage\n\nCaptain Jack has a high percentage of return to the player, which is 96.35% in winnings. With a minimum bet of 0.02 cents and a maximum of 20 euros, players can use one coin per pay line. The default bet is set at €0.2, and the game has 20 pay lines. Players can get up to three free spins, which can be reactivated up to 20 times.\n\nSoftware and Developer\n\nTuko, an Italian software house, produces the Captain Jack online slot game. It's a curious title that takes a pirate theme and develops a series of bonuses and features that will attract numerous players. The game is well developed, and players are ensured an excellent gaming experience. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Captain Jack\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\nThe gameplay experience of Captain Jack is positive. Players will enjoy the beautiful graphics, 3D animations, and a pirate themed set-up with 5 reels and 20 pay lines. It includes many figures and special symbols such as a flag complete with a Skull, a Sword, an Anchor, a Chest, a Cannon, and a Helm.\n\nBonuses and Features\n\nCaptain Jack has some exciting bonuses and features to offer players. The wildcard is represented by the Treasure Chest that can help players obtain lucky combinations. The Scatter symbol is represented by the Flag with the Skull, which can activate free spins or offer multipliers compared to the standard bet. The game also comes with a bonus game that allows players to multiply the bets made to increase the final prize. Players have to position at least three symbols of the Map on reels 2, 3, and 4 to participate in the treasure hunt.\n\nSymbols and Graphics\n\nThe symbols and graphics of Captain Jack are simple yet beautiful, with attention to detail, and the game offers 3D animations. The pirate themed slot has symbols such as a flag with a Skull, a Sword, an Anchor, a Chest, a Cannon, and a Helm. The wild symbol is the Treasure Chest, and the Scatter symbol is the Flag with the Skull. \n\nReturn to Player Percentage\n\nCaptain Jack has a high percentage of return to the player, which is 96.35% in winnings. With a minimum bet of 0.02 cents and a maximum of 20 euros, players can use one coin per pay line. The default bet is set at €0.2, and the game has 20 pay lines. Players can get up to three free spins, which can be reactivated up to 20 times.\n\nSoftware and Developer\n\nTuko, an Italian software house, produces the Captain Jack online slot game. It's a curious title that takes a pirate theme and develops a series of bonuses and features that will attract numerous players. The game is well developed, and players are ensured an excellent gaming experience. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SqHpdBQzd3E8fRdyZeRVHjbYIgU5",
+                "id": "chatcmpl-7WPjZSCwZywGdO7rRUeHgEdgWL0zN",
                 "object": "chat.completion",
-                "created": 1687108529,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 596,
-                    "completion_tokens": 117,
-                    "total_tokens": 713
-                },
+                "created": 1687959773,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautiful graphics and 3D animations\",\n        \"Exciting bonuses and features\",\n        \"High percentage of return to the player\",\n        \"Well-developed game and software\"\n    ],\n    \"cons\": [\n        \"Limited free spins\",\n        \"Limited pay lines\"\n    ],\n    \"meta_title\": \"Play Captain Jack Slot Free - Exciting Pirate-themed Slot Game\",\n    \"meta_description\": \"Read our review of Captain Jack and play this pirate-themed slot free. Enjoy special features and bonuses for an excellent gaming experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful graphics and 3D animations\",\n    \"Exciting bonuses and features\",\n    \"Attention to detail in symbols and graphics\",\n    \"High return to player percentage\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins\",\n    \"Limited reactivation of free spins\"\n  ],\n  \"meta_title\": \"Play Captain Jack Free - Exciting Pirate Themed Slot\",\n  \"meta_description\": \"Read our review of Captain Jack and play the pirate themed slot for free. Enjoy beautiful graphics and exciting bonuses.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 593,
+                    "completion_tokens": 116,
+                    "total_tokens": 709
+                }
             }
         },
         {
@@ -815,14 +815,23 @@
     "raw_feature_images": [
         "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_4.png",
         "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_2.png",
-        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_1.png",
-        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_3.png"
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_online_slot_game_C_fa9a1cc6-5015-46d2-bf69-bdacd0d084ed_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Captain Jack (Version 2).webp",
         "game_reviews/processed_images/Captain Jack (Version 1).webp",
         "game_reviews/processed_images/Captain Jack (Version 4).webp",
-        "game_reviews/processed_images/Captain Jack (Version 3).webp",
-        "game_reviews/processed_images/Captain Jack (Version 2).webp"
+        "game_reviews/processed_images/Captain Jack (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/captain-jack.json"
+    "filename": "game_reviews/translations/captain-jack.json",
+    "slug": "captain-jack",
+    "name": "Captain Jack",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Captain-Jack-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Captain Jack Free - Exciting Pirate Themed Slot' ### Meta set: 'Read our review of Captain Jack and play the pirate themed slot for free. Enjoy beautiful graphics and exciting bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

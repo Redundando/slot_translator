@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Two exciting bonus modes for players to enjoy",
                     "Impressive graphics and tropical feel",
-                    "High RTP of 97.39% for increased chances of winning",
-                    "Accessible win multipliers through Cash Spins mode"
+                    "Two bonus modes for added excitement",
+                    "High RTP of 97.39%",
+                    "Great choice for tropical and pirate-themed slot fans"
                 ],
                 "cons": [
-                    "High volatility may lead to many unsuccessful games",
-                    "Limited appeal to those not interested in tropical themes"
+                    "High volatility may result in unsuccessful games",
+                    "Limited appeal for players who prefer different themes"
                 ],
-                "meta_title": "Play Maui Millions Free - Review of Online Slot Game",
-                "meta_description": "Read our review of Maui Millions online slot game and play for free. With a high RTP of 97.39%, players can enjoy exciting bonus modes for bigger wins."
+                "meta_title": "Play Maui Millions Free - Exciting Tropical Slot Game",
+                "meta_description": "Read our review of Maui Millions, an online slot game with impressive graphics. Play for free and enjoy the tropical feel."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Maui Millions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nMaui Millions is an online slot game developed by Kalamba Games with a game layout with five reels and three horizontal lines, which dissociates from the 6*4 layout often proposed by Kalamba Games. The slot has an RTP (Return to Player) of 97.39%, with a rather high volatility, and 243 winning lines.\n\nBonus Modes\n\nMaui Millions offers two bonus modes, the first one is activated when you find at least three Scatter symbols, represented by palm trees. During this mode, players will benefit from more multipliers on winnings, and the possibility of unlocking additional free spins. The second bonus mode, called 'Cash Spins,' involves a game grid filled with only symbols, each with a win and a multiplier on the final win. This mode provides access to truly extraordinary wins.\n\nGraphics and Music\n\nMaui Millions has impressive graphics and offers a colorful, tropical feel with an interface adorned with bright colors, flowers, sandals, coconut, guitars, drums, and more. The sound follows suit, with a light music accompanying the games that blends well with the game's visuals.\n\nComparisons to Similar Games\n\nFor those who enjoy staying on a tropical atoll and on the sea, Maui Millions is a great choice. Those who are fans of pirate-themed slots like Boom Pirates by Foxium or Pirates Charm by Quickspin will also find Maui Millions enjoyable. Fans of Merkur Gaming will appreciate Tropical Heat's tropical aesthetic.\n\nReturn to Player (RTP)\n\nWith an RTP of 97.39%, Maui Millions offers players a high chance of winning. However, with a rather high volatility, players may experience many unsuccessful games before receiving a large payout.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Maui Millions\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nMaui Millions is an online slot game developed by Kalamba Games with a game layout with five reels and three horizontal lines, which dissociates from the 6*4 layout often proposed by Kalamba Games. The slot has an RTP (Return to Player) of 97.39%, with a rather high volatility, and 243 winning lines.\n\nBonus Modes\n\nMaui Millions offers two bonus modes, the first one is activated when you find at least three Scatter symbols, represented by palm trees. During this mode, players will benefit from more multipliers on winnings, and the possibility of unlocking additional free spins. The second bonus mode, called 'Cash Spins,' involves a game grid filled with only symbols, each with a win and a multiplier on the final win. This mode provides access to truly extraordinary wins.\n\nGraphics and Music\n\nMaui Millions has impressive graphics and offers a colorful, tropical feel with an interface adorned with bright colors, flowers, sandals, coconut, guitars, drums, and more. The sound follows suit, with a light music accompanying the games that blends well with the game's visuals.\n\nComparisons to Similar Games\n\nFor those who enjoy staying on a tropical atoll and on the sea, Maui Millions is a great choice. Those who are fans of pirate-themed slots like Boom Pirates by Foxium or Pirates Charm by Quickspin will also find Maui Millions enjoyable. Fans of Merkur Gaming will appreciate Tropical Heat's tropical aesthetic.\n\nReturn to Player (RTP)\n\nWith an RTP of 97.39%, Maui Millions offers players a high chance of winning. However, with a rather high volatility, players may experience many unsuccessful games before receiving a large payout.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U62dmeBFfttF8XcbGHJNHtyunZAT",
+                "id": "chatcmpl-7WXFZGGtr6SWLaAcmQ3acEbskR6nE",
                 "object": "chat.completion",
-                "created": 1687407419,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988665,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Two exciting bonus modes for players to enjoy\",\n        \"Impressive graphics and tropical feel\",\n        \"High RTP of 97.39% for increased chances of winning\",\n        \"Accessible win multipliers through Cash Spins mode\"\n    ],\n    \"cons\": [\n        \"High volatility may lead to many unsuccessful games\",\n        \"Limited appeal to those not interested in tropical themes\"\n    ],\n    \"meta_title\": \"Play Maui Millions Free - Review of Online Slot Game\",\n    \"meta_description\": \"Read our review of Maui Millions online slot game and play for free. With a high RTP of 97.39%, players can enjoy exciting bonus modes for bigger wins.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Impressive graphics and tropical feel\",\n      \"Two bonus modes for added excitement\",\n      \"High RTP of 97.39%\",\n      \"Great choice for tropical and pirate-themed slot fans\"\n   ],\n   \"cons\": [\n      \"High volatility may result in unsuccessful games\",\n      \"Limited appeal for players who prefer different themes\"\n   ],\n   \"meta_title\": \"Play Maui Millions Free - Exciting Tropical Slot Game\",\n   \"meta_description\": \"Read our review of Maui Millions, an online slot game with impressive graphics. Play for free and enjoy the tropical feel.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 520,
-                    "completion_tokens": 146,
-                    "total_tokens": 666
+                    "prompt_tokens": 517,
+                    "completion_tokens": 125,
+                    "total_tokens": 642
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/maui-millions.json",
+    "raw_feature_images": [
+        "arved__For_the_feature_image_of_Maui_Millions_we_suggest_a_cart_9c8e920b-4434-4e15-b933-e2f21dcb5dfc_3.png",
+        "arved__For_the_feature_image_of_Maui_Millions_we_suggest_a_cart_9c8e920b-4434-4e15-b933-e2f21dcb5dfc_4.png",
+        "arved__For_the_feature_image_of_Maui_Millions_we_suggest_a_cart_9c8e920b-4434-4e15-b933-e2f21dcb5dfc_1.png",
+        "arved__For_the_feature_image_of_Maui_Millions_we_suggest_a_cart_9c8e920b-4434-4e15-b933-e2f21dcb5dfc_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Maui Millions (Version 1).webp",
+        "game_reviews/processed_images/Maui Millions (Version 4).webp",
+        "game_reviews/processed_images/Maui Millions (Version 3).webp",
+        "game_reviews/processed_images/Maui Millions (Version 2).webp"
+    ],
+    "slug": "maui-millions",
+    "name": "Maui Millions",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Maui-Millions-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Maui Millions Free - Exciting Tropical Slot Game' ### Meta set: 'Read our review of Maui Millions, an online slot game with impressive graphics. Play for free and enjoy the tropical feel.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

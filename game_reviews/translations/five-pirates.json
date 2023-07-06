@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "1,024 ways to win",
+                    "1,024 different ways to win",
                     "Multiple bonus features",
-                    "Exciting pirate atmosphere",
-                    "High-volatility potential wins"
+                    "Thrilling pirate theme",
+                    "High jackpot and potential winnings"
                 ],
                 "cons": [
                     "Graphics could be better",
-                    "No progressive jackpot"
+                    "Limited free spin options"
                 ],
-                "meta_title": "Play Five Pirates Online Slot for Free - Review 2021",
-                "meta_description": "Read our Five Pirates slot game review for 2021. Play for free and enjoy 1,024 ways to win and multiple bonus features on desktop and mobile."
+                "meta_title": "Play Five Pirates - Free Online Slot Game",
+                "meta_description": "Read our review of Five Pirates and play this thrilling pirate-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Five Pirates\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFive Pirates has 5 reels, 4 rows and 1,024 different ways to win, making it a thrilling video slot machine. The game has many bonus features, including five different free spin options.\n\nSymbol design and significance\n\nThe game features pirate-themed playing cards (A, K, Q, J, 10, and 9), treasure maps, chests, parrots, cannons, and gold doubloons. The male pirate is the wild symbol and the female pirate is the scatter symbol. The female pirate can trigger 2, 5, 8, or 40 times your bet when appearing 2, 3, 4, or 5 times on a payline.\n\nBonus features\n\nFive Pirates has several bonus features. If you get 2, 3, or 4 female pirate symbols in a row from left to right on the reels, the Hold N Spin feature is triggered. Then, you'll have a chance to trigger the Pirate Barrel Bonus feature, where you will select one of five pirates, each offering different free spin/multiplier options. Then, climb to the top of the rigging to unlock the maximum number of free spins and the highest multiplier.\n\nPirate theme and atmosphere\n\nFive Pirates captures the sense of romance and adventure that comes with life on the high seas. The game's reels are set on a bright blue sea with rippling waves, while a golden sunset offers a soothing contrast.\n\nJackpot and potential winnings\n\nFive Pirates offers a jackpot of 200,000 credits up for grabs. This is a high-volatility offering with maximum wins of 5,000x your stake on every free spin!\n\nComparison to other pirate-themed games\n\nWhile Five Pirates may not have the best graphics, it is still a top-performing slot machine when it comes to gameplay. If you enjoy the pirate-themed theme, Novomatic's Red Lady is also a highly volatile choice.\n\nGame developer, Lightning Box\n\nFive Pirates is developed by Lightning Box Games. The game is playable on desktop, mobile, and tablet devices (including iOS and Android) from 0.40 to 50€ per spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Five Pirates\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFive Pirates has 5 reels, 4 rows and 1,024 different ways to win, making it a thrilling video slot machine. The game has many bonus features, including five different free spin options.\n\nSymbol design and significance\n\nThe game features pirate-themed playing cards (A, K, Q, J, 10, and 9), treasure maps, chests, parrots, cannons, and gold doubloons. The male pirate is the wild symbol and the female pirate is the scatter symbol. The female pirate can trigger 2, 5, 8, or 40 times your bet when appearing 2, 3, 4, or 5 times on a payline.\n\nBonus features\n\nFive Pirates has several bonus features. If you get 2, 3, or 4 female pirate symbols in a row from left to right on the reels, the Hold N Spin feature is triggered. Then, you'll have a chance to trigger the Pirate Barrel Bonus feature, where you will select one of five pirates, each offering different free spin/multiplier options. Then, climb to the top of the rigging to unlock the maximum number of free spins and the highest multiplier.\n\nPirate theme and atmosphere\n\nFive Pirates captures the sense of romance and adventure that comes with life on the high seas. The game's reels are set on a bright blue sea with rippling waves, while a golden sunset offers a soothing contrast.\n\nJackpot and potential winnings\n\nFive Pirates offers a jackpot of 200,000 credits up for grabs. This is a high-volatility offering with maximum wins of 5,000x your stake on every free spin!\n\nComparison to other pirate-themed games\n\nWhile Five Pirates may not have the best graphics, it is still a top-performing slot machine when it comes to gameplay. If you enjoy the pirate-themed theme, Novomatic's Red Lady is also a highly volatile choice.\n\nGame developer, Lightning Box\n\nFive Pirates is developed by Lightning Box Games. The game is playable on desktop, mobile, and tablet devices (including iOS and Android) from 0.40 to 50€ per spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TGGl1tcjOQXv6GmtpDI2NJn5R4CH",
+                "id": "chatcmpl-7WSq6ounjDdskeIpD9WsA1UuThyO1",
                 "object": "chat.completion",
-                "created": 1687208407,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 618,
-                    "completion_tokens": 108,
-                    "total_tokens": 726
-                },
+                "created": 1687971710,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"1,024 ways to win\", \"Multiple bonus features\", \"Exciting pirate atmosphere\", \"High-volatility potential wins\"],\n    \"cons\": [\"Graphics could be better\", \"No progressive jackpot\"],\n    \"meta_title\": \"Play Five Pirates Online Slot for Free - Review 2021\",\n    \"meta_description\": \"Read our Five Pirates slot game review for 2021. Play for free and enjoy 1,024 ways to win and multiple bonus features on desktop and mobile.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"1,024 different ways to win\",\n    \"Multiple bonus features\",\n    \"Thrilling pirate theme\",\n    \"High jackpot and potential winnings\"\n  ],\n  \"cons\": [\n    \"Graphics could be better\",\n    \"Limited free spin options\"\n  ],\n  \"meta_title\": \"Play Five Pirates - Free Online Slot Game\",\n  \"meta_description\": \"Read our review of Five Pirates and play this thrilling pirate-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 615,
+                    "completion_tokens": 100,
+                    "total_tokens": 715
+                }
             }
         },
         {
@@ -960,5 +960,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/five-pirates.json"
+    "filename": "game_reviews/translations/five-pirates.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_onli_0be14eb4-36ca-42bf-a8ef-5a74bc290754_1.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_onli_0be14eb4-36ca-42bf-a8ef-5a74bc290754_3.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_onli_0be14eb4-36ca-42bf-a8ef-5a74bc290754_4.png",
+        "arved__Prompt_Create_an_eye-catching_feature_image_for_the_onli_0be14eb4-36ca-42bf-a8ef-5a74bc290754_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "five-pirates",
+    "name": "Five Pirates",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/five-pirates_new-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Five Pirates - Free Online Slot Game' ### Meta set: 'Read our review of Five Pirates and play this thrilling pirate-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Megaways gameplay system with a high number of ways to win",
-                    "Tumbling Reels feature for potential multiple consecutive wins",
-                    "Free spins feature with applied multiplier",
-                    "Immersion in the ancient Egyptian theme"
+                    "Megaways gameplay system offers unlimited ways to win",
+                    "Tumbling Reels feature can lead to multiple consecutive wins",
+                    "Free spins feature with increasing multipliers",
+                    "Exciting and potentially lucrative gameplay experience"
                 ],
                 "cons": [
                     "No traditional cascading reels feature",
-                    "Graphics not particularly groundbreaking"
+                    "Graphics are not groundbreaking"
                 ],
-                "meta_title": "Play Legend of Cleopatra Megaways for Free | Review",
-                "meta_description": "Read our review of Legend of Cleopatra Megaways and play for free. Features include Megaways gameplay, Tumbling Reels, and free spins with multiplier."
+                "meta_title": "Play Legend of Cleopatra Megaways for Free",
+                "meta_description": "Read our review of Legend of Cleopatra Megaways and play this game for free. Experience unlimited ways to win and exciting gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Legend of Cleopatra Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMegaways gameplay system\n\nOne of the key features of Legend of Cleopatra Megaways is the Megaways gameplay system, which offers an unprecedented number of ways to win. Players can potentially find themselves with combinations ranging from 324 to 200,704, determined randomly before each spin sequence. The grid itself is made up of six reels and up to eight rows, with an additional reel covering four positions from reel 2 to 5.\n\nTumbling Reels feature\n\nWhile there is no traditional cascading reels feature in Legend of Cleopatra Megaways, the game does offer Tumbling Reels. This means that after a winning combination is achieved, the symbols involved disappear, leaving gaps on the reels which are then replaced with new symbols that fall from above. If this results in a new winning combination, the process is repeated, potentially leading to multiple consecutive wins in a single spin.\n\nFree spins feature\n\nRather than using Scatter symbols to trigger free spins, Legend of Cleopatra Megaways uses a pyramid symbol. Players need to land at least four of these in order to activate the free spins feature, with the number of spins awarded increasing with the number of pyramids landed. During free spins, a multiplier is applied to any successive wins that occur thanks to the Tumbling Reels feature.\n\nNumber of ways to win\n\nWith its Megaways system, Legend of Cleopatra Megaways offers players a potentially massive number of ways to win. The exact number is determined randomly before each spin sequence, but can range from 324 to 200,704. This, combined with the Tumbling Reels feature and the possibility of multiplying wins during free spins, can make for an exciting and lucrative gameplay experience.\n\nGraphics and theme\n\nWhile the graphics of Legend of Cleopatra Megaways aren't particularly groundbreaking, they are fitting for the game's ancient Egyptian theme. The background showing the pyramids against a nighttime sky is atmospheric, and the reels themselves are depicted as if drawn on a papyrus scroll. The game's symbols, while familiar to fans of Egyptian-themed slots, are well-drawn and help to immerse players in the setting.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Legend of Cleopatra Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMegaways gameplay system\n\nOne of the key features of Legend of Cleopatra Megaways is the Megaways gameplay system, which offers an unprecedented number of ways to win. Players can potentially find themselves with combinations ranging from 324 to 200,704, determined randomly before each spin sequence. The grid itself is made up of six reels and up to eight rows, with an additional reel covering four positions from reel 2 to 5.\n\nTumbling Reels feature\n\nWhile there is no traditional cascading reels feature in Legend of Cleopatra Megaways, the game does offer Tumbling Reels. This means that after a winning combination is achieved, the symbols involved disappear, leaving gaps on the reels which are then replaced with new symbols that fall from above. If this results in a new winning combination, the process is repeated, potentially leading to multiple consecutive wins in a single spin.\n\nFree spins feature\n\nRather than using Scatter symbols to trigger free spins, Legend of Cleopatra Megaways uses a pyramid symbol. Players need to land at least four of these in order to activate the free spins feature, with the number of spins awarded increasing with the number of pyramids landed. During free spins, a multiplier is applied to any successive wins that occur thanks to the Tumbling Reels feature.\n\nNumber of ways to win\n\nWith its Megaways system, Legend of Cleopatra Megaways offers players a potentially massive number of ways to win. The exact number is determined randomly before each spin sequence, but can range from 324 to 200,704. This, combined with the Tumbling Reels feature and the possibility of multiplying wins during free spins, can make for an exciting and lucrative gameplay experience.\n\nGraphics and theme\n\nWhile the graphics of Legend of Cleopatra Megaways aren't particularly groundbreaking, they are fitting for the game's ancient Egyptian theme. The background showing the pyramids against a nighttime sky is atmospheric, and the reels themselves are depicted as if drawn on a papyrus scroll. The game's symbols, while familiar to fans of Egyptian-themed slots, are well-drawn and help to immerse players in the setting.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U0YVVj8Juq1UOagvl3LrNnbLlkCv",
+                "id": "chatcmpl-7WWI3TSHjrIUFaTVaXe0M0mAKyqgK",
                 "object": "chat.completion",
-                "created": 1687386331,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984975,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Megaways gameplay system with a high number of ways to win\",\n        \"Tumbling Reels feature for potential multiple consecutive wins\",\n        \"Free spins feature with applied multiplier\",\n        \"Immersion in the ancient Egyptian theme\"\n    ],\n    \"cons\": [\n        \"No traditional cascading reels feature\",\n        \"Graphics not particularly groundbreaking\"\n    ],\n    \"meta_title\": \"Play Legend of Cleopatra Megaways for Free | Review\",\n    \"meta_description\": \"Read our review of Legend of Cleopatra Megaways and play for free. Features include Megaways gameplay, Tumbling Reels, and free spins with multiplier.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Megaways gameplay system offers unlimited ways to win\",\n    \"Tumbling Reels feature can lead to multiple consecutive wins\",\n    \"Free spins feature with increasing multipliers\",\n    \"Exciting and potentially lucrative gameplay experience\"\n  ],\n  \"cons\": [\n    \"No traditional cascading reels feature\",\n    \"Graphics are not groundbreaking\"\n  ],\n  \"meta_title\": \"Play Legend of Cleopatra Megaways for Free\",\n  \"meta_description\": \"Read our review of Legend of Cleopatra Megaways and play this game for free. Experience unlimited ways to win and exciting gameplay.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 614,
-                    "completion_tokens": 139,
-                    "total_tokens": 753
+                    "prompt_tokens": 611,
+                    "completion_tokens": 129,
+                    "total_tokens": 740
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/legend-of-cleopatra-megaways.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Legen_97b7e19b-9655-45aa-823a-b1caae77c5b5_3.png",
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Legen_97b7e19b-9655-45aa-823a-b1caae77c5b5_4.png",
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Legen_97b7e19b-9655-45aa-823a-b1caae77c5b5_2.png",
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Legen_97b7e19b-9655-45aa-823a-b1caae77c5b5_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Legend Of Cleopatra Megaways (Version 4).webp",
+        "game_reviews/processed_images/Legend Of Cleopatra Megaways (Version 2).webp",
+        "game_reviews/processed_images/Legend Of Cleopatra Megaways (Version 1).webp",
+        "game_reviews/processed_images/Legend Of Cleopatra Megaways (Version 3).webp"
+    ],
+    "slug": "legend-of-cleopatra-megaways",
+    "name": "Legend of Cleopatra Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Legend-Of-Cleopatra-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Legend of Cleopatra Megaways for Free' ### Meta set: 'Read our review of Legend of Cleopatra Megaways and play this game for free. Experience unlimited ways to win and exciting gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

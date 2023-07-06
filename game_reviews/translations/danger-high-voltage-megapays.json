@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Four progressive jackpots",
-                    "Exciting gameplay with expanding Wilds and multipliers",
-                    "Well-designed and unique aesthetic inspired by a famous song",
-                    "Mobile friendly and available to play for free"
+                    "Progressive jackpots",
+                    "Exciting gameplay features",
+                    "High volatility for big prizes",
+                    "Well-made design and soundtrack"
                 ],
                 "cons": [
-                    "High volatility may require patience to win big prizes",
-                    "RTP is lower than some other slots"
+                    "Patience required to win big",
+                    "Limited bonus game options"
                 ],
-                "meta_title": "Play Danger High Voltage Megapays for Free - Exciting Features and Jackpots",
-                "meta_description": "Experience thrilling gameplay with progressive jackpots, expanding Wilds, and a unique design when you play Danger High Voltage Megapays for free."
+                "meta_title": "Play Danger High Voltage Megapays for Free",
+                "meta_description": "Read our review of Danger High Voltage Megapays and play for free on your mobile device."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Danger High Voltage Megapays\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nProgressive Jackpots\n\nDanger High Voltage Megapays offers four progressive jackpots chosen with a random symbol. Gradually raising your bet can increase your chances of winning, although it is not certain that the jackpot will be activated. When a Megapays symbol is chosen, the reels start spinning and if you position Megapays on the grid, they will remain fixed until you increase the level of your jackpot. Your chances of winning the jackpot abruptly stop as soon as you make a spin without symbols.\n\nGameplay Features\n\nThis slot presents a 6x4 grid and 4096 ways to win. It has an RTP of 96.39% and high volatility, which means that patience is required to win big prizes. In the base game, two Wild symbols can land on reels 2, 3, 4, and 5, and they can expand to cover the entire reel. One of the Wild symbols carries an x6 multiplier. Finding 3 Scatters can trigger a bonus game. During the bonus game, you can choose between 7 free spins with one fixed Wild or 15 spins with an expanding Wild that has a random multiplier of up to x66. Both options can give you up to 1000 times your bet.\n\nVolatility and RTP\n\nDanger High Voltage Megapays has high volatility, which means that it requires patience to win big prizes. The RTP of this slot is 96.39%.\n\nDesign and Soundtrack\n\nDanger High Voltage Megapays presents an original idea inspired by the famous song of the same name released in 2002. It has a well-made aesthetic and an environment that recalls a disco in the background. The soundtrack will make you want to dance. The slot also features Scatter symbols. Finding them on the reels will reward you with the call of Fire in the Disco. Thematically, the slot is designed for all enthusiasts and a treat to play.\n\nMobile Compatibility\n\nYou can play Danger High Voltage Megapays on your mobile device for free in For Fun mode. This feature allows you to test the slot before investing real money to play with any device, making it a mobile-friendly game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Danger High Voltage Megapays\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nProgressive Jackpots\n\nDanger High Voltage Megapays offers four progressive jackpots chosen with a random symbol. Gradually raising your bet can increase your chances of winning, although it is not certain that the jackpot will be activated. When a Megapays symbol is chosen, the reels start spinning and if you position Megapays on the grid, they will remain fixed until you increase the level of your jackpot. Your chances of winning the jackpot abruptly stop as soon as you make a spin without symbols.\n\nGameplay Features\n\nThis slot presents a 6x4 grid and 4096 ways to win. It has an RTP of 96.39% and high volatility, which means that patience is required to win big prizes. In the base game, two Wild symbols can land on reels 2, 3, 4, and 5, and they can expand to cover the entire reel. One of the Wild symbols carries an x6 multiplier. Finding 3 Scatters can trigger a bonus game. During the bonus game, you can choose between 7 free spins with one fixed Wild or 15 spins with an expanding Wild that has a random multiplier of up to x66. Both options can give you up to 1000 times your bet.\n\nVolatility and RTP\n\nDanger High Voltage Megapays has high volatility, which means that it requires patience to win big prizes. The RTP of this slot is 96.39%.\n\nDesign and Soundtrack\n\nDanger High Voltage Megapays presents an original idea inspired by the famous song of the same name released in 2002. It has a well-made aesthetic and an environment that recalls a disco in the background. The soundtrack will make you want to dance. The slot also features Scatter symbols. Finding them on the reels will reward you with the call of Fire in the Disco. Thematically, the slot is designed for all enthusiasts and a treat to play.\n\nMobile Compatibility\n\nYou can play Danger High Voltage Megapays on your mobile device for free in For Fun mode. This feature allows you to test the slot before investing real money to play with any device, making it a mobile-friendly game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T0YYGOVqVZDUVocCFrdwkSruoBKg",
+                "id": "chatcmpl-7WQwTM3TK1YMz6ZSl8RFAEur6BIfP",
                 "object": "chat.completion",
-                "created": 1687148006,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 619,
-                    "completion_tokens": 145,
-                    "total_tokens": 764
-                },
+                "created": 1687964417,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Four progressive jackpots\",\n        \"Exciting gameplay with expanding Wilds and multipliers\",\n        \"Well-designed and unique aesthetic inspired by a famous song\",\n        \"Mobile friendly and available to play for free\"\n    ],\n    \"cons\": [\n        \"High volatility may require patience to win big prizes\",\n        \"RTP is lower than some other slots\"\n    ],\n    \"meta_title\": \"Play Danger High Voltage Megapays for Free - Exciting Features and Jackpots\",\n    \"meta_description\": \"Experience thrilling gameplay with progressive jackpots, expanding Wilds, and a unique design when you play Danger High Voltage Megapays for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Progressive jackpots\",\n    \"Exciting gameplay features\",\n    \"High volatility for big prizes\",\n    \"Well-made design and soundtrack\"\n  ],\n  \"cons\": [\n    \"Patience required to win big\",\n    \"Limited bonus game options\"\n  ],\n  \"meta_title\": \"Play Danger High Voltage Megapays for Free\",\n  \"meta_description\": \"Read our review of Danger High Voltage Megapays and play for free on your mobile device.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 616,
+                    "completion_tokens": 105,
+                    "total_tokens": 721
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_1.png",
         "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_3.png",
         "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_1.png"
+        "arved__Create_a_cartoon-style_feature_image_for_Danger_High_Vol_cafa5cad-4a9d-4e9b-833c-937dd89ce58b_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Danger High Voltage Megapays (Version 4).webp",
-        "game_reviews/processed_images/Danger High Voltage Megapays (Version 2).webp",
+        "game_reviews/processed_images/Danger High Voltage Megapays (Version 1).webp",
         "game_reviews/processed_images/Danger High Voltage Megapays (Version 3).webp",
-        "game_reviews/processed_images/Danger High Voltage Megapays (Version 1).webp"
+        "game_reviews/processed_images/Danger High Voltage Megapays (Version 2).webp",
+        "game_reviews/processed_images/Danger High Voltage Megapays (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/danger-high-voltage-megapays.json"
+    "filename": "game_reviews/translations/danger-high-voltage-megapays.json",
+    "slug": "danger-high-voltage-megapays",
+    "name": "Danger High Voltage Megapays",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Danger-High-Voltage-Megapays-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Danger High Voltage Megapays for Free' ### Meta set: 'Read our review of Danger High Voltage Megapays and play for free on your mobile device.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

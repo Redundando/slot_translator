@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Optimized for mobile play on both iOS and Android devices",
-                    "Increased theoretical return to the player compared to its predecessor",
-                    "Offers additional chances to win compared to previous version",
-                    "Caters to high rollers with a maximum bet of 400 coins"
+                    "Optimized for mobile devices",
+                    "Increased RTP compared to predecessor",
+                    "Smooth gameplay with additional chances to win",
+                    "Engaging Medieval theme"
                 ],
                 "cons": [
-                    "Graphics are not particularly convincing",
+                    "Graphics not particularly convincing",
                     "No notable 3D animations or special effects"
                 ],
-                "meta_title": "Play Golden Knight II for Free - Detailed Slot Review",
-                "meta_description": "Read a detailed review of Golden Knight II, an online slot game set in the Medieval era, and play it for free. Find out what we like and don't like about this game."
+                "meta_title": "Play Golden Knight II for Free",
+                "meta_description": "Read our review of Golden Knight II and play for free. Find out about its gameplay, graphics, and RTP."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Knight II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Graphics\n\nThe graphics of Golden Knight II are similar to its predecessor and are considered to be not particularly convincing. High 5 Games has opted for dry and linear graphics, with no notable 3D animations or special effects.\n\nMobile Optimization\n\nGolden Knight II has been optimized to be played not just on desktop devices but also on mobile devices, both iOS and Android. The slot has an HTML5 format, so the game remains smooth and defined, no matter the screen size.\n\nReturn to Player (RTP)\n\nGolden Knight II has an increased theoretical return to the player (RTP) compared to its predecessor. It has gone from 95% to 96.5%, making it more attractive to players. The volatility remains the same, with an average level.\n\nGameplay\n\nGolden Knight II features a five-reel, four-row layout with 40 pay lines. Players can place bets ranging from one coin to a maximum of 400, catering to high rollers. The gameplay is similar to the previous version, but some additional chances to win have been added.\n\nTheme Comparison\n\nGolden Knight II's theme is set in the Medieval era, featuring a countryside landscape with the peaks of a castle. The slot is similar to other slots with the same Medieval theme, such as Medieval Money by IGT software, which offers players an epic battle between knights on five reels and 100 pay lines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Knight II\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Graphics\n\nThe graphics of Golden Knight II are similar to its predecessor and are considered to be not particularly convincing. High 5 Games has opted for dry and linear graphics, with no notable 3D animations or special effects.\n\nMobile Optimization\n\nGolden Knight II has been optimized to be played not just on desktop devices but also on mobile devices, both iOS and Android. The slot has an HTML5 format, so the game remains smooth and defined, no matter the screen size.\n\nReturn to Player (RTP)\n\nGolden Knight II has an increased theoretical return to the player (RTP) compared to its predecessor. It has gone from 95% to 96.5%, making it more attractive to players. The volatility remains the same, with an average level.\n\nGameplay\n\nGolden Knight II features a five-reel, four-row layout with 40 pay lines. Players can place bets ranging from one coin to a maximum of 400, catering to high rollers. The gameplay is similar to the previous version, but some additional chances to win have been added.\n\nTheme Comparison\n\nGolden Knight II's theme is set in the Medieval era, featuring a countryside landscape with the peaks of a castle. The slot is similar to other slots with the same Medieval theme, such as Medieval Money by IGT software, which offers players an epic battle between knights on five reels and 100 pay lines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TTyCZymEW0tqLz1GjZaKINEkBm2m",
+                "id": "chatcmpl-7WUAIY2KuSE5WhZm3QN2Qww2sHGqQ",
                 "object": "chat.completion",
-                "created": 1687261072,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 458,
-                    "completion_tokens": 154,
-                    "total_tokens": 612
-                },
+                "created": 1687976806,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Optimized for mobile play on both iOS and Android devices\",\n        \"Increased theoretical return to the player compared to its predecessor\",\n        \"Offers additional chances to win compared to previous version\",\n        \"Caters to high rollers with a maximum bet of 400 coins\"\n    ],\n    \"cons\": [\n        \"Graphics are not particularly convincing\",\n        \"No notable 3D animations or special effects\"\n    ],\n    \"meta_title\": \"Play Golden Knight II for Free - Detailed Slot Review\",\n    \"meta_description\": \"Read a detailed review of Golden Knight II, an online slot game set in the Medieval era, and play it for free. Find out what we like and don't like about this game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Optimized for mobile devices\",\n    \"Increased RTP compared to predecessor\",\n    \"Smooth gameplay with additional chances to win\",\n    \"Engaging Medieval theme\"\n  ],\n  \"cons\": [\n    \"Graphics not particularly convincing\",\n    \"No notable 3D animations or special effects\"\n  ],\n  \"meta_title\": \"Play Golden Knight II for Free\",\n  \"meta_description\": \"Read our review of Golden Knight II and play for free. Find out about its gameplay, graphics, and RTP.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 455,
+                    "completion_tokens": 111,
+                    "total_tokens": 566
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-knight-ii.json"
+    "filename": "game_reviews/translations/golden-knight-ii.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Golden_Knight_II_that__b06e23d8-94d1-4eab-95a3-aac54163b316_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Knight_II_that__b06e23d8-94d1-4eab-95a3-aac54163b316_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Knight_II_that__b06e23d8-94d1-4eab-95a3-aac54163b316_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Golden_Knight_II_that__b06e23d8-94d1-4eab-95a3-aac54163b316_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Knight Ii (Version 1).webp",
+        "game_reviews/processed_images/Golden Knight Ii (Version 4).webp",
+        "game_reviews/processed_images/Golden Knight Ii (Version 2).webp",
+        "game_reviews/processed_images/Golden Knight Ii (Version 3).webp"
+    ],
+    "slug": "golden-knight-ii",
+    "name": "Golden Knight II",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Knight-Ii-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Knight II for Free' ### Meta set: 'Read our review of Golden Knight II and play for free. Find out about its gameplay, graphics, and RTP.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

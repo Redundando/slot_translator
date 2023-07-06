@@ -616,39 +616,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Miami nightlife theme and exclusive neon-lit cocktail icons",
-                    "Exciting multiplier mode that offers up to 60X multiplier",
-                    "Free spin round where Multiplier symbols are progressively added",
-                    "Broad range of betting levels that offers an excellent chance of winning"
+                    "Exciting multiplier feature with up to 60X multiplier",
+                    "Free spin round with progressively added multipliers",
+                    "Variety of symbols inspired by Miami nightlife",
+                    "Decent RTP of 96.30% and high volatility for lucrative payouts"
                 ],
                 "cons": [
-                    "Limited number of symbols on the 4x4 slot grid",
-                    "No progressive jackpot"
+                    "Limited number of paylines",
+                    "Only available in online casinos powered by Hacksaw Gaming"
                 ],
-                "meta_title": "Play Miami Multiplier Free - Exciting Miami nightlife theme with up to 60X multiplier",
-                "meta_description": "Experience the electrifying Miami nightlife as you play Miami Multiplier for free. Win up to 5,000 times your bet with up to 60X multiplier. Try it now!"
+                "meta_title": "Play Miami Multiplier Free - Review of Exciting Online Slot Game",
+                "meta_description": "Read our review of Miami Multiplier, a captivating online slot game with an exciting Miami nightlife theme. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Miami Multiplier\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMiami Multiplier Review\n\nMiami Multiplier is a captivating online slot game developed by Hacksaw Gaming. It features an exciting Miami nightlife theme, with exclusive neon-lit cocktail icons, dolphins, stars, watermelons, ice cream cones, and palm trees.\n\nMultiplier Feature\n\nMiami Multiplier's main feature is its exciting multiplier mode. Set on a 4x4 grid, the game allows you to progressively add multipliers during free rotation mode, scaling up to 60X. The maximum win you can achieve is 5000X.\n\nFree Spins\n\nMiami Multiplier's free spins function activates with at least three Free Spin symbols. During the free spin round, all Multiplier symbols are progressively added, offering up to 60X multiplier. Every X symbol added to the counter, and every win derived from the multiplier you have progressively accumulated during your spins.\n\nSymbol Importance\n\nThe X symbol is of great importance in Miami Multiplier. It multiplies the incoming win by the currently displayed multiplier. There are other symbols such as dolphins, stars, watermelons, ice cream cones, and palm trees that you can get in combinations to win big prizes. The Miami Beach promenade inspired all these symbols, giving you an electrifying gaming experience.\n\nGame Statistics\n\nMiami Multiplier has an RTP of 96.30%, which is pretty decent. The predetermined Hit Frequency is about 32.88%, making the game an excellent choice for risk-takers. The slot has a volatility of 4 out of 5, meaning that payouts are pretty lucrative. The maximum amount you can bet is €100, while the minimum amount is €0.2. You can win up to 5,000 times your bet.\n\nBetting Levels\n\nMiami Multiplier offers a broad range of betting levels. You can choose to bet as little as €0.2 or as much as €100. The game also provides excellent chances of winning, with a maximum payout of 5,000 times your bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Miami Multiplier\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMiami Multiplier Review\n\nMiami Multiplier is a captivating online slot game developed by Hacksaw Gaming. It features an exciting Miami nightlife theme, with exclusive neon-lit cocktail icons, dolphins, stars, watermelons, ice cream cones, and palm trees.\n\nMultiplier Feature\n\nMiami Multiplier's main feature is its exciting multiplier mode. Set on a 4x4 grid, the game allows you to progressively add multipliers during free rotation mode, scaling up to 60X. The maximum win you can achieve is 5000X.\n\nFree Spins\n\nMiami Multiplier's free spins function activates with at least three Free Spin symbols. During the free spin round, all Multiplier symbols are progressively added, offering up to 60X multiplier. Every X symbol added to the counter, and every win derived from the multiplier you have progressively accumulated during your spins.\n\nSymbol Importance\n\nThe X symbol is of great importance in Miami Multiplier. It multiplies the incoming win by the currently displayed multiplier. There are other symbols such as dolphins, stars, watermelons, ice cream cones, and palm trees that you can get in combinations to win big prizes. The Miami Beach promenade inspired all these symbols, giving you an electrifying gaming experience.\n\nGame Statistics\n\nMiami Multiplier has an RTP of 96.30%, which is pretty decent. The predetermined Hit Frequency is about 32.88%, making the game an excellent choice for risk-takers. The slot has a volatility of 4 out of 5, meaning that payouts are pretty lucrative. The maximum amount you can bet is €100, while the minimum amount is €0.2. You can win up to 5,000 times your bet.\n\nBetting Levels\n\nMiami Multiplier offers a broad range of betting levels. You can choose to bet as little as €0.2 or as much as €100. The game also provides excellent chances of winning, with a maximum payout of 5,000 times your bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U8VeLMCpoVdItiMwVZPIs79DrNUS",
+                "id": "chatcmpl-7WXd1zu4uJwC2Vb4INkzYpXduBHia",
                 "object": "chat.completion",
-                "created": 1687416906,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990119,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Miami nightlife theme and exclusive neon-lit cocktail icons\",\n        \"Exciting multiplier mode that offers up to 60X multiplier\",\n        \"Free spin round where Multiplier symbols are progressively added\",\n        \"Broad range of betting levels that offers an excellent chance of winning\"\n    ],\n    \"cons\": [\n        \"Limited number of symbols on the 4x4 slot grid\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Miami Multiplier Free - Exciting Miami nightlife theme with up to 60X multiplier\",\n    \"meta_description\": \"Experience the electrifying Miami nightlife as you play Miami Multiplier for free. Win up to 5,000 times your bet with up to 60X multiplier. Try it now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting multiplier feature with up to 60X multiplier\",\n    \"Free spin round with progressively added multipliers\",\n    \"Variety of symbols inspired by Miami nightlife\",\n    \"Decent RTP of 96.30% and high volatility for lucrative payouts\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Only available in online casinos powered by Hacksaw Gaming\"\n  ],\n  \"meta_title\": \"Play Miami Multiplier Free - Review of Exciting Online Slot Game\",\n  \"meta_description\": \"Read our review of Miami Multiplier, a captivating online slot game with an exciting Miami nightlife theme. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 582,
-                    "completion_tokens": 163,
-                    "total_tokens": 745
+                    "prompt_tokens": 579,
+                    "completion_tokens": 143,
+                    "total_tokens": 722
                 }
             }
         },
@@ -847,5 +847,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/miami-multiplier.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Miami_Multiplier_that_feature_4683ed1d-8f14-4ab7-a9d7-baba4834d6fd_3.png",
+        "arved__Create_a_feature_image_for_Miami_Multiplier_that_feature_4683ed1d-8f14-4ab7-a9d7-baba4834d6fd_2.png",
+        "arved__Create_a_feature_image_for_Miami_Multiplier_that_feature_4683ed1d-8f14-4ab7-a9d7-baba4834d6fd_1.png",
+        "arved__Create_a_feature_image_for_Miami_Multiplier_that_feature_4683ed1d-8f14-4ab7-a9d7-baba4834d6fd_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Miami Multiplier (Version 2).webp",
+        "game_reviews/processed_images/Miami Multiplier (Version 3).webp",
+        "game_reviews/processed_images/Miami Multiplier (Version 4).webp",
+        "game_reviews/processed_images/Miami Multiplier (Version 1).webp"
+    ],
+    "slug": "miami-multiplier",
+    "name": "Miami Multiplier",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Miami-Multiplier-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Miami Multiplier Free - Review of Exciting Online Slot Game' ### Meta set: 'Read our review of Miami Multiplier, a captivating online slot game with an exciting Miami nightlife theme. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

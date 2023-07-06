@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Enchanting, detailed graphics",
-                    "Free spins feature",
-                    "Cascading reels",
-                    "Playable on desktop and mobile"
+                    "Traditional structure with 5 reels and 25 paylines",
+                    "Free spins and cascading reels add excitement to gameplay",
+                    "Enchanting and detailed graphics create a magical atmosphere",
+                    "Available on both desktop and mobile devices"
                 ],
                 "cons": [
-                    "No scatter symbol",
-                    "Limited bonus features"
+                    "Limited variety of bonus features",
+                    "No scatter symbol in the game"
                 ],
-                "meta_title": "Play Crystal Forest HD for Free - WMS Online Slot Review",
-                "meta_description": "Get familiar with the tricks and features of WMS slot game Crystal Forest HD. Play for free and enjoy enchanting graphics and cascading reels."
+                "meta_title": "Play Crystal Forest HD Free - Exciting Slot Game Review",
+                "meta_description": "Read our review of Crystal Forest HD, a slot game with free spins and enchanting graphics. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crystal Forest HD\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nCrystal Forest HD is a slot game from WMS with a traditional basic structure of five reels, three rows and 25 paylines. The coin value ranges from 1 cent to 5 euros and the paylines are fixed, making the total range of bets from €0.25 to €125. This slot game features free spins, cascading reels, stacked wilds, and symbols that rain.\n\nVisual Design\n\nCrystal Forest HD presents a magical world of fairytales with enchanting and attention-to-detail graphics using blue as a background that highlights the symbols and images populating the reels. Players will be mesmerized by the company of fairies, unicorns, butterflies, ladybugs, among others in the magical enchanted forest theme of the game.\n\nCompatibility\n\nCrystal Forest HD is available on desktop computers and mobile devices with both Android and iOS operating systems. The game can be played with decent loading speed even without a fast internet connection.\n\nBonus Features\n\nCrystal Forest HD offers cascading reels in which symbols from a winning combination are cleared off the reels to be replaced by new ones cascading down, and this goes on until no more winning combinations are formed. The Wild symbol is represented by a waterfall and offers 7 to 50 free spins. The gnome serves as the wild symbol to replace other symbols to complete a winning combination. Although there is no scatter symbol, the jackpot symbol pays the highest win when it appears on all five reels.\n\nGambling Options\n\nCrystal Forest HD has a minimum bet of €0.25 and a maximum bet of €125. The highest win possible on this slot game is 3,750 coins. Players can also enjoy the game in Play for Fun mode to get familiar with the game's features and tricks before betting their real money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crystal Forest HD\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nCrystal Forest HD is a slot game from WMS with a traditional basic structure of five reels, three rows and 25 paylines. The coin value ranges from 1 cent to 5 euros and the paylines are fixed, making the total range of bets from €0.25 to €125. This slot game features free spins, cascading reels, stacked wilds, and symbols that rain.\n\nVisual Design\n\nCrystal Forest HD presents a magical world of fairytales with enchanting and attention-to-detail graphics using blue as a background that highlights the symbols and images populating the reels. Players will be mesmerized by the company of fairies, unicorns, butterflies, ladybugs, among others in the magical enchanted forest theme of the game.\n\nCompatibility\n\nCrystal Forest HD is available on desktop computers and mobile devices with both Android and iOS operating systems. The game can be played with decent loading speed even without a fast internet connection.\n\nBonus Features\n\nCrystal Forest HD offers cascading reels in which symbols from a winning combination are cleared off the reels to be replaced by new ones cascading down, and this goes on until no more winning combinations are formed. The Wild symbol is represented by a waterfall and offers 7 to 50 free spins. The gnome serves as the wild symbol to replace other symbols to complete a winning combination. Although there is no scatter symbol, the jackpot symbol pays the highest win when it appears on all five reels.\n\nGambling Options\n\nCrystal Forest HD has a minimum bet of €0.25 and a maximum bet of €125. The highest win possible on this slot game is 3,750 coins. Players can also enjoy the game in Play for Fun mode to get familiar with the game's features and tricks before betting their real money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SyapeoxOVbfNd0oGjy8WcaSZGcJx",
+                "id": "chatcmpl-7WQhY04vsABcuqqHTTibJfpoPvDyU",
                 "object": "chat.completion",
-                "created": 1687140459,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 538,
-                    "completion_tokens": 114,
-                    "total_tokens": 652
-                },
+                "created": 1687963492,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Enchanting, detailed graphics\",\n        \"Free spins feature\",\n        \"Cascading reels\",\n        \"Playable on desktop and mobile\"\n    ],\n    \"cons\": [\n        \"No scatter symbol\",\n        \"Limited bonus features\"\n    ],\n    \"meta_title\": \"Play Crystal Forest HD for Free - WMS Online Slot Review\",\n    \"meta_description\": \"Get familiar with the tricks and features of WMS slot game Crystal Forest HD. Play for free and enjoy enchanting graphics and cascading reels.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Traditional structure with 5 reels and 25 paylines\",\n    \"Free spins and cascading reels add excitement to gameplay\",\n    \"Enchanting and detailed graphics create a magical atmosphere\",\n    \"Available on both desktop and mobile devices\"\n  ],\n  \"cons\": [\n    \"Limited variety of bonus features\",\n    \"No scatter symbol in the game\"\n  ],\n  \"meta_title\": \"Play Crystal Forest HD Free - Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Crystal Forest HD, a slot game with free spins and enchanting graphics. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 535,
+                    "completion_tokens": 131,
+                    "total_tokens": 666
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_3.png",
-        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_2.png",
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_4.png",
         "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_1.png",
-        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_4.png"
+        "arved__Dear_DALLE_I_need_you_to_create_a_feature_image_for_the__eae2b22e-7949-4a32-8e77-da91cde41612_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Crystal Forest Hd (Version 2).webp",
-        "game_reviews/processed_images/Crystal Forest Hd (Version 3).webp",
+        "game_reviews/processed_images/Crystal Forest Hd (Version 1).webp",
         "game_reviews/processed_images/Crystal Forest Hd (Version 4).webp",
-        "game_reviews/processed_images/Crystal Forest Hd (Version 1).webp"
+        "game_reviews/processed_images/Crystal Forest Hd (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/crystal-forest-hd.json"
+    "filename": "game_reviews/translations/crystal-forest-hd.json",
+    "slug": "crystal-forest-hd",
+    "name": "Crystal Forest HD",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crystal-Forest-Hd-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crystal Forest HD Free - Exciting Slot Game Review' ### Meta set: 'Read our review of Crystal Forest HD, a slot game with free spins and enchanting graphics. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

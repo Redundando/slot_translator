@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique roll-and-move board game-style gameplay",
-                    "Colorful and calming Asian-inspired design",
-                    "Lucrative RTP and high-level multipliers",
-                    "Engaging special functions and bonuses"
+                    "Unique roll-and-move gameplay style",
+                    "Cute and fun design with a lively Asian forest background",
+                    "Speed Booster and Bonus Game functions add excitement and rewards",
+                    "Potential for high winnings with an RTP of 96.06%"
                 ],
                 "cons": [
-                    "Adjusting bets resets progression",
+                    "Adjusting bets resets progress",
                     "Limited number of special functions"
                 ],
-                "meta_title": "Play Mysteries of the East for free",
-                "meta_description": "Discover a unique roll-and-move board game-style gameplay with special functions and bonuses, all while playing for free in Mysteries of the East."
+                "meta_title": "Play Mysteries of the East for Free - Unique Roll-and-Move Slot Game",
+                "meta_description": "Play Mysteries of the East for free and experience unique roll-and-move gameplay and high rewards."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mysteries of the East\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay style\n\nMysteries of the East is a unique, roll-and-move slot game that takes inspiration from classic board games like Snakes and Ladders. Players roll dice to progress along a path, with various squares representing different steps and paths to follow. The heroine's movements are dictated by the roll of the dice, providing a unique and immersive gameplay experience.\n\nDesign and atmosphere\n\nThe game's design is cute, simple, and fun, with a colorful, lively Asian forest background that provides a sense of great calm. The board game-style layout offers a refreshing break from more traditional online slot games, with various squares representing different steps and paths to follow. Players can adjust their bets at any time, but doing so will reset their progress, so be careful!\n\nFunctions: Speed Booster and Bonus Game\n\nMysteries of the East offers two main special functions. With the Speed Booster function, the main character encounters a square marked with the symbol of a fox. All points earned with the dice are consequently doubled until the function is disabled. Alternatively, if Keiko reaches the gate, the Bonus Game function is activated, and you're transported to a mini-game with three chests. Choose one, and you'll receive whatever prize is contained inside. The rewards increase with each chest you open.\n\nRewards and progression\n\nMysteries of the East has an RTP of 96.06%, making it a potentially lucrative online slot game. The jackpot features high-level multipliers, offering players the potential for significant winnings. The game also features a unique progression system, with players moving along a predetermined path to discover various rewards and bonuses along the way. Be careful when adjusting your bets, however, as doing so will reset your progress!\n\nOverall experience\n\nMysteries of the East is a refreshing and engaging online slot game that offers a unique gameplay experience. The game's board game-style layout, along with its fun functions and potential for high rewards, makes it a must-try for experienced and novice gamblers alike. Whether you're looking for something new or simply want to take a break from traditional online slot games, Mysteries of the East is definitely worth checking out!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mysteries of the East\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay style\n\nMysteries of the East is a unique, roll-and-move slot game that takes inspiration from classic board games like Snakes and Ladders. Players roll dice to progress along a path, with various squares representing different steps and paths to follow. The heroine's movements are dictated by the roll of the dice, providing a unique and immersive gameplay experience.\n\nDesign and atmosphere\n\nThe game's design is cute, simple, and fun, with a colorful, lively Asian forest background that provides a sense of great calm. The board game-style layout offers a refreshing break from more traditional online slot games, with various squares representing different steps and paths to follow. Players can adjust their bets at any time, but doing so will reset their progress, so be careful!\n\nFunctions: Speed Booster and Bonus Game\n\nMysteries of the East offers two main special functions. With the Speed Booster function, the main character encounters a square marked with the symbol of a fox. All points earned with the dice are consequently doubled until the function is disabled. Alternatively, if Keiko reaches the gate, the Bonus Game function is activated, and you're transported to a mini-game with three chests. Choose one, and you'll receive whatever prize is contained inside. The rewards increase with each chest you open.\n\nRewards and progression\n\nMysteries of the East has an RTP of 96.06%, making it a potentially lucrative online slot game. The jackpot features high-level multipliers, offering players the potential for significant winnings. The game also features a unique progression system, with players moving along a predetermined path to discover various rewards and bonuses along the way. Be careful when adjusting your bets, however, as doing so will reset your progress!\n\nOverall experience\n\nMysteries of the East is a refreshing and engaging online slot game that offers a unique gameplay experience. The game's board game-style layout, along with its fun functions and potential for high rewards, makes it a must-try for experienced and novice gamblers alike. Whether you're looking for something new or simply want to take a break from traditional online slot games, Mysteries of the East is definitely worth checking out!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDPEnkZLLg8FsvqVW1jVGd2mvP58",
+                "id": "chatcmpl-7WYK81E2wldQWuYgiNyBsSbJULT8j",
                 "object": "chat.completion",
-                "created": 1687435728,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992792,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"Unique roll-and-move board game-style gameplay\",\n      \"Colorful and calming Asian-inspired design\",\n      \"Lucrative RTP and high-level multipliers\",\n      \"Engaging special functions and bonuses\"\n   ],\n   \"cons\":[\n      \"Adjusting bets resets progression\",\n      \"Limited number of special functions\"\n   ],\n   \"meta_title\":\"Play Mysteries of the East for free\",\n   \"meta_description\":\"Discover a unique roll-and-move board game-style gameplay with special functions and bonuses, all while playing for free in Mysteries of the East.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique roll-and-move gameplay style\",\n    \"Cute and fun design with a lively Asian forest background\",\n    \"Speed Booster and Bonus Game functions add excitement and rewards\",\n    \"Potential for high winnings with an RTP of 96.06%\"\n  ],\n  \"cons\": [\n    \"Adjusting bets resets progress\",\n    \"Limited number of special functions\"\n  ],\n  \"meta_title\": \"Play Mysteries of the East for Free - Unique Roll-and-Move Slot Game\",\n  \"meta_description\": \"Play Mysteries of the East for free and experience unique roll-and-move gameplay and high rewards.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 617,
-                    "completion_tokens": 123,
-                    "total_tokens": 740
+                    "prompt_tokens": 614,
+                    "completion_tokens": 132,
+                    "total_tokens": 746
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mysteries-of-the-east.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Mys_d56fc924-ccd1-42fd-abbe-0a255397e494_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Mys_d56fc924-ccd1-42fd-abbe-0a255397e494_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Mys_d56fc924-ccd1-42fd-abbe-0a255397e494_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Mys_d56fc924-ccd1-42fd-abbe-0a255397e494_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mysteries Of The East (Version 3).webp",
+        "game_reviews/processed_images/Mysteries Of The East (Version 4).webp",
+        "game_reviews/processed_images/Mysteries Of The East (Version 2).webp",
+        "game_reviews/processed_images/Mysteries Of The East (Version 1).webp"
+    ],
+    "slug": "mysteries-of-the-east",
+    "name": "Mysteries of the East",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mysteries-Of-The-East-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mysteries of the East for Free - Unique Roll-and-Move Slot Game' ### Meta set: 'Play Mysteries of the East for free and experience unique roll-and-move gameplay and high rewards.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

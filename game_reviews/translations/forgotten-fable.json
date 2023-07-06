@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics",
-                    "Creative fantasy theme",
-                    "Generous winning Potential",
-                    "Exciting special features"
+                    "Impeccable graphics and stunning design",
+                    "Unique fantasy theme featuring legendary villains",
+                    "Special features with multipliers and free spins",
+                    "High winning potential with up to 1,270 times the bet"
                 ],
                 "cons": [
                     "Medium volatility may not appeal to all players",
-                    "Limited number of paylines"
+                    "Limited availability on some online casinos"
                 ],
-                "meta_title": "Play Forgotten Fable for Free - Stunning Graphics & Exciting Features",
-                "meta_description": "Discover the Forgotten Fable slot game with its unique fantasy theme, stunning graphics, and exciting special features. Play for free and win big!"
+                "meta_title": "Play Forgotten Fable Free: Stunning Graphics and Big Wins",
+                "meta_description": "Experience the unique fantasy theme and high winning potential of Forgotten Fable. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Forgotten Fable\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nForgotten Fable is a 5x3 reel slot game with 15 paylines, featuring impeccable graphics and a fantasy theme. Players have the opportunity to win up to 1,270 times the bet during the base game. The game also includes two special Wild symbols, the Skull and the Sun, which can replace any symbol and activate dark and flame runes leading to free spins and multipliers.\n\nSpecial Features\n\nThe golden egg symbol complements the Wilds by creating new combinations, and when a winning spin is obtained, an animation leads to the appearance of a magic chest that can bring up to 5 multipliers. Multipliers for free spins can go from 4x to 12x, giving players the chance to earn big wins. Forgotten Fable also features no-multiplier Flameland spins with higher base values for combinations.\n\nTheme\n\nForgotten Fable is a fantasy-themed online slot game that showcases the provider's unique and creative design style. The graphics are stunning, and the game's theme is inspired by legendary villains such as Baba Yaga, Koschei the Immortal, Vodyanoy, Leshy, and Gorynych, which makes it stand out from other games in the market.\n\nGraphics\n\nForgotten Fable boasts some of the most stunning graphics ever seen in an online slot game. The villains are created artfully by the provider, and the appearance of dragons and the Royals will keep players entertained and engaged for hours. These fantastic graphics make the game visually appealing and give a unique look that sets it apart from other fantasy-themed slot games.\n\nWinning Potential\n\nForgotten Fable has an RTP of 96% and medium volatility. The game's potential winnings can reach up to 1,270 times the bet during the base game. With special features like multipliers and free spins, players have a better chance of earning more significant rewards. Overall, Forgotten Fable is a worthwhile game for experienced gamblers who are looking for exciting gameplay and the potential for big wins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Forgotten Fable\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nForgotten Fable is a 5x3 reel slot game with 15 paylines, featuring impeccable graphics and a fantasy theme. Players have the opportunity to win up to 1,270 times the bet during the base game. The game also includes two special Wild symbols, the Skull and the Sun, which can replace any symbol and activate dark and flame runes leading to free spins and multipliers.\n\nSpecial Features\n\nThe golden egg symbol complements the Wilds by creating new combinations, and when a winning spin is obtained, an animation leads to the appearance of a magic chest that can bring up to 5 multipliers. Multipliers for free spins can go from 4x to 12x, giving players the chance to earn big wins. Forgotten Fable also features no-multiplier Flameland spins with higher base values for combinations.\n\nTheme\n\nForgotten Fable is a fantasy-themed online slot game that showcases the provider's unique and creative design style. The graphics are stunning, and the game's theme is inspired by legendary villains such as Baba Yaga, Koschei the Immortal, Vodyanoy, Leshy, and Gorynych, which makes it stand out from other games in the market.\n\nGraphics\n\nForgotten Fable boasts some of the most stunning graphics ever seen in an online slot game. The villains are created artfully by the provider, and the appearance of dragons and the Royals will keep players entertained and engaged for hours. These fantastic graphics make the game visually appealing and give a unique look that sets it apart from other fantasy-themed slot games.\n\nWinning Potential\n\nForgotten Fable has an RTP of 96% and medium volatility. The game's potential winnings can reach up to 1,270 times the bet during the base game. With special features like multipliers and free spins, players have a better chance of earning more significant rewards. Overall, Forgotten Fable is a worthwhile game for experienced gamblers who are looking for exciting gameplay and the potential for big wins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7THZv7LgDvpGg6uOl1thiJ0OuRY7g",
+                "id": "chatcmpl-7WSzcPx4dqubUA2q80HtT8rENrJih",
                 "object": "chat.completion",
-                "created": 1687213439,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 589,
-                    "completion_tokens": 105,
-                    "total_tokens": 694
-                },
+                "created": 1687972300,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Stunning graphics\", \"Creative fantasy theme\", \"Generous winning Potential\", \"Exciting special features\"],\n    \"cons\": [\"Medium volatility may not appeal to all players\", \"Limited number of paylines\"],\n    \"meta_title\": \"Play Forgotten Fable for Free - Stunning Graphics & Exciting Features\",\n    \"meta_description\": \"Discover the Forgotten Fable slot game with its unique fantasy theme, stunning graphics, and exciting special features. Play for free and win big!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impeccable graphics and stunning design\",\n    \"Unique fantasy theme featuring legendary villains\",\n    \"Special features with multipliers and free spins\",\n    \"High winning potential with up to 1,270 times the bet\"\n  ],\n  \"cons\": [\n    \"Medium volatility may not appeal to all players\",\n    \"Limited availability on some online casinos\"\n  ],\n  \"meta_title\": \"Play Forgotten Fable Free: Stunning Graphics and Big Wins\",\n  \"meta_description\": \"Experience the unique fantasy theme and high winning potential of Forgotten Fable. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 586,
+                    "completion_tokens": 127,
+                    "total_tokens": 713
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/forgotten-fable.json"
+    "filename": "game_reviews/translations/forgotten-fable.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_275c76fd-87b7-4fbe-9a76-fc3e156c8625_4.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_275c76fd-87b7-4fbe-9a76-fc3e156c8625_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_275c76fd-87b7-4fbe-9a76-fc3e156c8625_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_275c76fd-87b7-4fbe-9a76-fc3e156c8625_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "forgotten-fable",
+    "name": "Forgotten Fable",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/forgotten-fable-logo-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Forgotten Fable Free: Stunning Graphics and Big Wins' ### Meta set: 'Experience the unique fantasy theme and high winning potential of Forgotten Fable. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

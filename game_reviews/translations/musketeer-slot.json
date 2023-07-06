@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding Wilds and Sticky Wilds",
-                    "Free Spins feature with Random Multipliers",
-                    "Story-based game inspired by Alexandre Dumas' novel",
-                    "Playable on ADM licensed online casinos"
+                    "Inspired by Alexandre Dumas' famous novel",
+                    "Expanding Wilds and Free Spins feature",
+                    "Random Multiplier for increased winnings",
+                    "Available to play in demo mode"
                 ],
                 "cons": [
-                    "Low-paying standard card symbols",
-                    "No progressive jackpot"
+                    "Limited number of paylines",
+                    "May not appeal to players unfamiliar with the novel"
                 ],
-                "meta_title": "Play Musketeer Slot for Free: Game Review 2021",
-                "meta_description": "Read our expert review of Musketeer Slot by iSoftBet and play for free. Discover the game's features and winning potential, and find ADM licensed casinos to play for real money."
+                "meta_title": "Play Musketeer Slot Free - Exciting Slot Game Inspired by Alexandre Dumas' Novel",
+                "meta_description": "Read our review of Musketeer Slot, inspired by Alexandre Dumas' novel. Play for free and win big with expanding wilds and free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Musketeer Slot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMusketeer Slot Overview\n\nMusketeer Slot is a 5-reel, 20-payline slot game by iSoftBet that is inspired by Alexandre Dumas' famous novel of the same name. It features Porthos, Athos, and Aramis as the daring Musketeers and offers players a chance to win big with its expanding Wilds, Free Spins, and Random Multiplier features.\n\nGame Features and Symbols\n\nThe Musketeer Slot game has a purple background and features the standard card symbols from Ace to 10, along with a pistol and a crossbow, and the symbols of the 3 Musketeers which offer payouts of up to 1,000 times the line bet. The Castle symbol is the Wild, which can appear on any reel and replace everything except the Scatter. During the base game, it can expand to fill the entire reel, and during the Free Spins feature, it transforms into an extended Sticky Wild. The mysterious Masked Lady is the Scatter and activates the Free Spins feature when three or more of them land anywhere on the reels.\n\nFree Spins and Expanding Wilds\n\nIf three or more Scatter symbols land anywhere on the reels, the Free Spins feature is triggered. Players can win up to 20 free spins during this feature, and every time a Wild lands, it will expand and become frozen in that same position for the rest of the free spins. This is known as the extended Sticky Wild feature.\n\nRandom Multipliers and Winning Potential\n\nDuring the Free Spins feature, players can also benefit from a random multiplier that can increase their winnings from 2 up to 10 times. With a maximum bet of €100.00, players have the potential to win big with the Musketeer Slot.\n\nTarget Audience and Playing Options\n\nThe Musketeer Slot is ideal for fans of Alexandre Dumas' novel and players who enjoy story-based slot games. The game can be played with a minimum bet of €0.20 per spin and a maximum bet of €100.00 per spin. It is available in demo mode for players who want to try it out before playing with real money and can be played directly from ADM licensed online casinos.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Musketeer Slot\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMusketeer Slot Overview\n\nMusketeer Slot is a 5-reel, 20-payline slot game by iSoftBet that is inspired by Alexandre Dumas' famous novel of the same name. It features Porthos, Athos, and Aramis as the daring Musketeers and offers players a chance to win big with its expanding Wilds, Free Spins, and Random Multiplier features.\n\nGame Features and Symbols\n\nThe Musketeer Slot game has a purple background and features the standard card symbols from Ace to 10, along with a pistol and a crossbow, and the symbols of the 3 Musketeers which offer payouts of up to 1,000 times the line bet. The Castle symbol is the Wild, which can appear on any reel and replace everything except the Scatter. During the base game, it can expand to fill the entire reel, and during the Free Spins feature, it transforms into an extended Sticky Wild. The mysterious Masked Lady is the Scatter and activates the Free Spins feature when three or more of them land anywhere on the reels.\n\nFree Spins and Expanding Wilds\n\nIf three or more Scatter symbols land anywhere on the reels, the Free Spins feature is triggered. Players can win up to 20 free spins during this feature, and every time a Wild lands, it will expand and become frozen in that same position for the rest of the free spins. This is known as the extended Sticky Wild feature.\n\nRandom Multipliers and Winning Potential\n\nDuring the Free Spins feature, players can also benefit from a random multiplier that can increase their winnings from 2 up to 10 times. With a maximum bet of €100.00, players have the potential to win big with the Musketeer Slot.\n\nTarget Audience and Playing Options\n\nThe Musketeer Slot is ideal for fans of Alexandre Dumas' novel and players who enjoy story-based slot games. The game can be played with a minimum bet of €0.20 per spin and a maximum bet of €100.00 per spin. It is available in demo mode for players who want to try it out before playing with real money and can be played directly from ADM licensed online casinos.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UD9sY3e2BKnm1Yxl1t2sVzd4D7aB",
+                "id": "chatcmpl-7WYHk4VkT8VyVZqXKstdBfDiFk4ti",
                 "object": "chat.completion",
-                "created": 1687434776,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992644,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding Wilds and Sticky Wilds\",\n        \"Free Spins feature with Random Multipliers\",\n        \"Story-based game inspired by Alexandre Dumas' novel\",\n        \"Playable on ADM licensed online casinos\"\n    ],\n    \"cons\": [\n        \"Low-paying standard card symbols\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Musketeer Slot for Free: Game Review 2021\",\n    \"meta_description\": \"Read our expert review of Musketeer Slot by iSoftBet and play for free. Discover the game's features and winning potential, and find ADM licensed casinos to play for real money.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Inspired by Alexandre Dumas' famous novel\",\n    \"Expanding Wilds and Free Spins feature\",\n    \"Random Multiplier for increased winnings\",\n    \"Available to play in demo mode\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"May not appeal to players unfamiliar with the novel\"\n  ],\n  \"meta_title\": \"Play Musketeer Slot Free - Exciting Slot Game Inspired by Alexandre Dumas' Novel\",\n  \"meta_description\": \"Read our review of Musketeer Slot, inspired by Alexandre Dumas' novel. Play for free and win big with expanding wilds and free spins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 631,
-                    "completion_tokens": 140,
-                    "total_tokens": 771
+                    "prompt_tokens": 628,
+                    "completion_tokens": 141,
+                    "total_tokens": 769
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/musketeer-slot.json",
+    "raw_feature_images": [
+        "arved__Create_a_fun_and_exciting_cartoon-style_feature_image_to_af5b358c-6267-453e-aa9b-14a6171a1f8d_2.png",
+        "arved__Create_a_fun_and_exciting_cartoon-style_feature_image_to_af5b358c-6267-453e-aa9b-14a6171a1f8d_3.png",
+        "arved__Create_a_fun_and_exciting_cartoon-style_feature_image_to_af5b358c-6267-453e-aa9b-14a6171a1f8d_4.png",
+        "arved__Create_a_fun_and_exciting_cartoon-style_feature_image_to_af5b358c-6267-453e-aa9b-14a6171a1f8d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Musketeer Slot (Version 4).webp",
+        "game_reviews/processed_images/Musketeer Slot (Version 1).webp",
+        "game_reviews/processed_images/Musketeer Slot (Version 3).webp",
+        "game_reviews/processed_images/Musketeer Slot (Version 2).webp"
+    ],
+    "slug": "musketeer-slot",
+    "name": "Musketeer Slot",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Musketeer-Slot-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Musketeer Slot Free - Exciting Slot Game Inspired by Alexandre Dumas' Novel' ### Meta set: 'Read our review of Musketeer Slot, inspired by Alexandre Dumas' novel. Play for free and win big with expanding wilds and free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging adventure storyline",
-                    "Great graphics and sound effects",
-                    "Flexible betting options",
-                    "Special features and symbols"
+                    "Engaging storyline",
+                    "Pleasing design",
+                    "Exciting special features",
+                    "Accessible betting options"
                 ],
                 "cons": [
-                    "Limited special functions",
-                    "May not suit players who prefer simpler games"
+                    "Frequently used theme",
+                    "Limited number of pay lines"
                 ],
-                "meta_title": "Play Mystery of Eldorado for Free - Review & Ratings",
-                "meta_description": "Explore online slot game Mystery of Eldorado with great graphics, features, and flexible betting options. Play this game for free and enjoy the adventure."
+                "meta_title": "Play Mystery of Eldorado Free Slot - Review",
+                "meta_description": "Play Mystery of Eldorado for free with this review. Discover Mayan treasures and enjoy engaging gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystery of Eldorado\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview\n\nMystery of Eldorado slot game takes you on an adventure to South America in the early 20th century. The game is produced by Endorphina and has 10 pay lines with a 3x5 display. It aims to uncover ancient treasures of the Mayans and is complete with symbols, special features, and a scatter and wild symbols that make it an exciting game.\n\nDesign and Colors\n\nMystery of Eldorado offers a pleasing design that does not overuse special effects. It features softer character traits with a \"hand-drawn\" style that blends well with the muted colors. The sound effects work well with the graphics, and the Eldorado and Wild writings add originality to the game, despite being a frequently used theme in the slot industry.\n\nSpecial symbols and features\n\nMystery of Eldorado features a map with the word Eldorado that acts as both a scatter and a wild symbol. It can replace all the other symbols in the game to create winning combinations, and it pays each time it appears in two or more points scattered on the display. The game has one special function - free spins, which are activated by displaying three or more Eldorado symbols. During the free spins, additional free spins can be won, and a symbol is drawn that can expand up to three boxes on the reel where it appears.\n\nRTP percentage and betting options\n\nMystery of Eldorado has an RTP percentage of approximately 96%. The minimum bet is €0.01, while the maximum is €100 per spin. Players can choose their betting options according to their preferences and budget, making the game accessible to all players.\n\nTarget audience and recommendations\n\nIf you enjoy online slot games about Mayan treasures, Mystery of Eldorado is an excellent choice. It offers an adventure that is engaging and thrilling, with its special features, symbols, and a promising RTP percentage. We recommend this game to players who appreciate a good storyline and graphics. Other slot games that revolve around Mayan treasures, which may interest you, include Mayan Temple Revenge (Capecod), Maya Gold (IGT), Mayana (QuickSpin), Mayan Magic (GTech), and Pyramid of the Sun (GTech).\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystery of Eldorado\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview\n\nMystery of Eldorado slot game takes you on an adventure to South America in the early 20th century. The game is produced by Endorphina and has 10 pay lines with a 3x5 display. It aims to uncover ancient treasures of the Mayans and is complete with symbols, special features, and a scatter and wild symbols that make it an exciting game.\n\nDesign and Colors\n\nMystery of Eldorado offers a pleasing design that does not overuse special effects. It features softer character traits with a \"hand-drawn\" style that blends well with the muted colors. The sound effects work well with the graphics, and the Eldorado and Wild writings add originality to the game, despite being a frequently used theme in the slot industry.\n\nSpecial symbols and features\n\nMystery of Eldorado features a map with the word Eldorado that acts as both a scatter and a wild symbol. It can replace all the other symbols in the game to create winning combinations, and it pays each time it appears in two or more points scattered on the display. The game has one special function - free spins, which are activated by displaying three or more Eldorado symbols. During the free spins, additional free spins can be won, and a symbol is drawn that can expand up to three boxes on the reel where it appears.\n\nRTP percentage and betting options\n\nMystery of Eldorado has an RTP percentage of approximately 96%. The minimum bet is €0.01, while the maximum is €100 per spin. Players can choose their betting options according to their preferences and budget, making the game accessible to all players.\n\nTarget audience and recommendations\n\nIf you enjoy online slot games about Mayan treasures, Mystery of Eldorado is an excellent choice. It offers an adventure that is engaging and thrilling, with its special features, symbols, and a promising RTP percentage. We recommend this game to players who appreciate a good storyline and graphics. Other slot games that revolve around Mayan treasures, which may interest you, include Mayan Temple Revenge (Capecod), Maya Gold (IGT), Mayana (QuickSpin), Mayan Magic (GTech), and Pyramid of the Sun (GTech).\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDrUQQ6dgQHlr0q3ldyI1QQRtXIL",
+                "id": "chatcmpl-7WYONpW8CI2JVVRbGtsOKCGOjynfb",
                 "object": "chat.completion",
-                "created": 1687437480,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993055,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging adventure storyline\",\n        \"Great graphics and sound effects\",\n        \"Flexible betting options\",\n        \"Special features and symbols\"\n    ],\n    \"cons\": [\n        \"Limited special functions\",\n        \"May not suit players who prefer simpler games\"\n    ],\n    \"meta_title\": \"Play Mystery of Eldorado for Free - Review & Ratings\",\n    \"meta_description\": \"Explore online slot game Mystery of Eldorado with great graphics, features, and flexible betting options. Play this game for free and enjoy the adventure.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging storyline\",\n    \"Pleasing design\",\n    \"Exciting special features\",\n    \"Accessible betting options\"\n  ],\n  \"cons\": [\n    \"Frequently used theme\",\n    \"Limited number of pay lines\"\n  ],\n  \"meta_title\": \"Play Mystery of Eldorado Free Slot - Review\",\n  \"meta_description\": \"Play Mystery of Eldorado for free with this review. Discover Mayan treasures and enjoy engaging gameplay.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 626,
-                    "completion_tokens": 116,
-                    "total_tokens": 742
+                    "prompt_tokens": 623,
+                    "completion_tokens": 99,
+                    "total_tokens": 722
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystery-of-eldorado.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Myst_6a84744a-8e26-442e-9823-7e3b8b657c97_2.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Myst_6a84744a-8e26-442e-9823-7e3b8b657c97_4.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Myst_6a84744a-8e26-442e-9823-7e3b8b657c97_3.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Myst_6a84744a-8e26-442e-9823-7e3b8b657c97_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystery Of Eldorado (Version 4).webp",
+        "game_reviews/processed_images/Mystery Of Eldorado (Version 1).webp",
+        "game_reviews/processed_images/Mystery Of Eldorado (Version 3).webp",
+        "game_reviews/processed_images/Mystery Of Eldorado (Version 2).webp"
+    ],
+    "slug": "mystery-of-eldorado",
+    "name": "Mystery of Eldorado",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystery-Of-Eldorado-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystery of Eldorado Free Slot - Review' ### Meta set: 'Play Mystery of Eldorado for free with this review. Discover Mayan treasures and enjoy engaging gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

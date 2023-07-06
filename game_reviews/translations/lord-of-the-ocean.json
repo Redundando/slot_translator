@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exceptional visual quality",
-                    "Wide range of betting options",
-                    "Free spins and gamble features",
-                    "Suitable for players of all levels"
+                    "Exceptional visual design with 3D animations",
+                    "Immersive and captivating gaming experience",
+                    "Free spins feature triggered by Scatter symbol",
+                    "Wide range of betting options"
                 ],
                 "cons": [
-                    "Average RTP",
-                    "Medium volatility"
+                    "Average RTP of 95.1%",
+                    "Payouts never reach huge amounts"
                 ],
-                "meta_title": "Play Lord of the Ocean for Free: Review & Features (2021)",
-                "meta_description": "Read our review of Lord of the Ocean, a classic slot game with free spins and a wide range of betting options. Play for free and enjoy great graphics."
+                "meta_title": "Play Lord of the Ocean Free: Review of Gameplay Features",
+                "meta_description": "Explore the gameplay features of Lord of the Ocean and play for free. Discover the pros and cons of this popular online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lord of the Ocean\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLord of the Ocean has 5 reels and 10 paylines. The minimum bet is 1 cent, and the maximum bet is 30 euros. The game has an RTP of 95.1% and a medium volatility. The gameplay is traditional with special features such as the free spins feature triggered by the Scatter symbol and the gamble feature.\n\nVisual Design and Theme\n\nThe visual quality of Lord of the Ocean is exceptional with 3D animations that create an immersive and captivating gaming experience. The game is set in the depths of the ocean, with symbols such as Poseidon, treasure-filled chests, and precious amulets.\n\nPayout and Volatility\n\nLord of the Ocean has an RTP of 95.1%, which is average for online slots. The game has a medium volatility, which means that while payouts are quite frequent, they will never reach huge amounts. The highest paying symbol is Poseidon, and the Scatter symbol activates the free spins feature and multiplies winnings.\n\nBetting Options\n\nLord of the Ocean has a wide range of betting options, starting from a minimum bet of 1 cent up to a maximum of 30 euros. This makes it suitable for both beginners and experienced players who prefer to place larger bets.\n\nSuitability for Players\n\nLord of the Ocean is a classic slot game with great graphics and special features that make it enjoyable for players of all levels. The game's medium volatility and wide range of betting options make it suitable for both casual players and those seeking higher payouts.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lord of the Ocean\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLord of the Ocean has 5 reels and 10 paylines. The minimum bet is 1 cent, and the maximum bet is 30 euros. The game has an RTP of 95.1% and a medium volatility. The gameplay is traditional with special features such as the free spins feature triggered by the Scatter symbol and the gamble feature.\n\nVisual Design and Theme\n\nThe visual quality of Lord of the Ocean is exceptional with 3D animations that create an immersive and captivating gaming experience. The game is set in the depths of the ocean, with symbols such as Poseidon, treasure-filled chests, and precious amulets.\n\nPayout and Volatility\n\nLord of the Ocean has an RTP of 95.1%, which is average for online slots. The game has a medium volatility, which means that while payouts are quite frequent, they will never reach huge amounts. The highest paying symbol is Poseidon, and the Scatter symbol activates the free spins feature and multiplies winnings.\n\nBetting Options\n\nLord of the Ocean has a wide range of betting options, starting from a minimum bet of 1 cent up to a maximum of 30 euros. This makes it suitable for both beginners and experienced players who prefer to place larger bets.\n\nSuitability for Players\n\nLord of the Ocean is a classic slot game with great graphics and special features that make it enjoyable for players of all levels. The game's medium volatility and wide range of betting options make it suitable for both casual players and those seeking higher payouts.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGcnHFjllDcveYYTwZWHh5vriHRH",
+                "id": "chatcmpl-7WWWlabn8dMOxfoe1355CSllH99Tr",
                 "object": "chat.completion",
-                "created": 1686494789,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 487,
-                    "completion_tokens": 120,
-                    "total_tokens": 607
-                },
+                "created": 1687985887,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exceptional visual quality\",\n        \"Wide range of betting options\",\n        \"Free spins and gamble features\",\n        \"Suitable for players of all levels\"\n    ],\n    \"cons\": [\n        \"Average RTP\",\n        \"Medium volatility\"\n    ],\n    \"meta_title\": \"Play Lord of the Ocean for Free: Review & Features (2021)\",\n    \"meta_description\": \"Read our review of Lord of the Ocean, a classic slot game with free spins and a wide range of betting options. Play for free and enjoy great graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exceptional visual design with 3D animations\",\n    \"Immersive and captivating gaming experience\",\n    \"Free spins feature triggered by Scatter symbol\",\n    \"Wide range of betting options\"\n  ],\n  \"cons\": [\n    \"Average RTP of 95.1%\",\n    \"Payouts never reach huge amounts\"\n  ],\n  \"meta_title\": \"Play Lord of the Ocean Free: Review of Gameplay Features\",\n  \"meta_description\": \"Explore the gameplay features of Lord of the Ocean and play for free. Discover the pros and cons of this popular online slot game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 484,
+                    "completion_tokens": 127,
+                    "total_tokens": 611
+                }
             }
         },
         {
@@ -814,15 +814,32 @@
     ],
     "filename": "game_reviews/translations/lord-of-the-ocean.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ee699a8d-0376-4ca7-8ff6-fc9f48e55c6b_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ee699a8d-0376-4ca7-8ff6-fc9f48e55c6b_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_2.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ee699a8d-0376-4ca7-8ff6-fc9f48e55c6b_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_8c4ff6cb-fc6b-4654-825e-8c589e81e257_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ee699a8d-0376-4ca7-8ff6-fc9f48e55c6b_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Lord Of The Ocean (Version 4).webp",
-        "game_reviews/processed_images/Lord Of The Ocean (Version 1).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 5).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 8).webp",
         "game_reviews/processed_images/Lord Of The Ocean (Version 3).webp",
-        "game_reviews/processed_images/Lord Of The Ocean (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Lord Of The Ocean (Version 2).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 6).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 4).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 7).webp",
+        "game_reviews/processed_images/Lord Of The Ocean (Version 1).webp"
+    ],
+    "slug": "lord-of-the-ocean",
+    "name": "Lord of the Ocean",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lord-Of-The-Ocean-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lord of the Ocean Free: Review of Gameplay Features' ### Meta set: 'Explore the gameplay features of Lord of the Ocean and play for free. Discover the pros and cons of this popular online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Unique game grid with 5 reels",
-                    "Special features: respins, scatters, Wilds",
+                    "Special features: Respins, scatters, Wilds",
                     "Nods to the movie theme in the design",
                     "Fun and exciting gameplay"
                 ],
                 "cons": [
-                    "May not appeal to those unfamiliar with the movie",
-                    "Low maximum win potential"
+                    "None",
+                    "None"
                 ],
-                "meta_title": "Play Jumanji for Free - Exciting Slot Game Review",
-                "meta_description": "Enjoy the exciting gameplay of the Jumanji slot game for free with our comprehensive review. Learn about the game's unique features, nods to the movie, and more."
+                "meta_title": "Play Jumanji Slot Game Free",
+                "meta_description": "Read our review of Jumanji slot game and learn where to play it for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jumanji\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJumanji slot game\n\nJumanji is a slot game by NetEnt that is based on the beloved movie of the same name. The developers have created a game that perfectly matches the chosen theme with the right amount of references and echoes.\n\nUnique game grid with 5 reels\n\nJumanji has a game grid that is different from most online slots. It has five reels, but the number of symbols each of them shows varies among them. The first and last reel show three symbols, the second and fourth show four, and the central reel shows five, which means that 19 symbols are shown instead of the usual 15.\n\nSpecial features: Respins, scatters, Wilds\n\nJumanji has numerous special features, from the symbols themselves, such as the game box as a scatter symbol and the word 'Wild' as the Wild symbol, to functions such as climbing plants that block specific symbols and assign Respins. With 36 winning lines, players can expect a gameplay that is always varied and entertaining.\n\nNods to the movie theme in the design\n\nJumanji has various nods to the movie in its design, such as the game grid contained within the game path, like a haunted goose game, and some references to the feature film frame the game, such as the monkeys in the kitchen or the plants grown inside the Parrish residence. The symbols that are arranged in the various combinations are the animals that appear in the course of the film (pelican, crocodile, rhinoceros, and lion) and the letters of the playing cards depicted with the same font as the title itself.\n\nFun and exciting gameplay\n\nJust like in the original Jumanji, players cannot know what to expect from this slot during their plays, which allows them to have a gameplay that is always varied and entertaining. The music that accompanies the game is a more rhythmic and musical version of the percussion expected in a game of this type. Overall, Jumanji offers a fun and exciting gameplay experience that will keep players coming back for more.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jumanji\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJumanji slot game\n\nJumanji is a slot game by NetEnt that is based on the beloved movie of the same name. The developers have created a game that perfectly matches the chosen theme with the right amount of references and echoes.\n\nUnique game grid with 5 reels\n\nJumanji has a game grid that is different from most online slots. It has five reels, but the number of symbols each of them shows varies among them. The first and last reel show three symbols, the second and fourth show four, and the central reel shows five, which means that 19 symbols are shown instead of the usual 15.\n\nSpecial features: Respins, scatters, Wilds\n\nJumanji has numerous special features, from the symbols themselves, such as the game box as a scatter symbol and the word 'Wild' as the Wild symbol, to functions such as climbing plants that block specific symbols and assign Respins. With 36 winning lines, players can expect a gameplay that is always varied and entertaining.\n\nNods to the movie theme in the design\n\nJumanji has various nods to the movie in its design, such as the game grid contained within the game path, like a haunted goose game, and some references to the feature film frame the game, such as the monkeys in the kitchen or the plants grown inside the Parrish residence. The symbols that are arranged in the various combinations are the animals that appear in the course of the film (pelican, crocodile, rhinoceros, and lion) and the letters of the playing cards depicted with the same font as the title itself.\n\nFun and exciting gameplay\n\nJust like in the original Jumanji, players cannot know what to expect from this slot during their plays, which allows them to have a gameplay that is always varied and entertaining. The music that accompanies the game is a more rhythmic and musical version of the percussion expected in a game of this type. Overall, Jumanji offers a fun and exciting gameplay experience that will keep players coming back for more.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwuSXgK3h0kQZEJDlbA8YQD1VJvs",
+                "id": "chatcmpl-7WVkQiAV85KpibhZd5AGSBJfRNYaL",
                 "object": "chat.completion",
-                "created": 1687372316,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982890,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique game grid with 5 reels\",\n        \"Special features: respins, scatters, Wilds\",\n        \"Nods to the movie theme in the design\",\n        \"Fun and exciting gameplay\"\n    ],\n    \"cons\": [\n        \"May not appeal to those unfamiliar with the movie\",\n        \"Low maximum win potential\"\n    ],\n    \"meta_title\": \"Play Jumanji for Free - Exciting Slot Game Review\",\n    \"meta_description\": \"Enjoy the exciting gameplay of the Jumanji slot game for free with our comprehensive review. Learn about the game's unique features, nods to the movie, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique game grid with 5 reels\",\n    \"Special features: Respins, scatters, Wilds\",\n    \"Nods to the movie theme in the design\",\n    \"Fun and exciting gameplay\"\n  ],\n  \"cons\": [\n    \"None\",\n    \"None\"\n  ],\n  \"meta_title\": \"Play Jumanji Slot Game Free\",\n  \"meta_description\": \"Read our review of Jumanji slot game and learn where to play it for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 139,
-                    "total_tokens": 731
+                    "prompt_tokens": 589,
+                    "completion_tokens": 106,
+                    "total_tokens": 695
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jumanji.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_Create_a_live_18b919ea-d8d3-45a7-b996-8f7c3dc98349_3.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_Create_a_live_18b919ea-d8d3-45a7-b996-8f7c3dc98349_1.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_Create_a_live_18b919ea-d8d3-45a7-b996-8f7c3dc98349_4.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_Create_a_live_18b919ea-d8d3-45a7-b996-8f7c3dc98349_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jumanji (Version 1).webp",
+        "game_reviews/processed_images/Jumanji (Version 4).webp",
+        "game_reviews/processed_images/Jumanji (Version 3).webp",
+        "game_reviews/processed_images/Jumanji (Version 2).webp"
+    ],
+    "slug": "jumanji",
+    "name": "Jumanji",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jumanji-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jumanji Slot Game Free' ### Meta set: 'Read our review of Jumanji slot game and learn where to play it for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

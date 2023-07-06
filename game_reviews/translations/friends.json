@@ -580,40 +580,42 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High variance perfect for thrill-seekers",
-                    "Stacked symbols showcasing iconic moments",
-                    "Feature bet option offering juicy rewards",
-                    "Two bonus rounds and a jackpot for big wins"
+                    "What we like about Friends slot game:",
+                    "High variance for an exciting gameplay",
+                    "Stacked symbols representing iconic moments from the show",
+                    "Feature bet option with various bonus rounds and juicy rewards",
+                    "Access to free spins with potential for huge payouts"
                 ],
                 "cons": [
-                    "May not appeal to those unfamiliar with the show",
-                    "No progressive jackpot"
+                    "What we don't like about Friends slot game:",
+                    "Only two bonus rounds available",
+                    "Limited maximum bet amount"
                 ],
-                "meta_title": "Play Friends Slot Game for Free - Exciting Bonus Rounds",
-                "meta_description": "Try Friends slot game for free with its exciting bonus rounds and high variance. Win big and enjoy your favorite characters with Friends online slot."
+                "meta_title": "Play Friends Slot Game Free - Exciting Gameplay & Juicy Rewards",
+                "meta_description": "Read our review of Friends slot game. Discover exciting gameplay and juicy rewards. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Friends\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe Friends slot game is a 5x4 slot that boasts 40 fixed paylines. It has a high variance, which makes it perfect for those who love a thrill. It includes stacked symbols that showcase the iconic moments in the show. The feature bet option offers players the chance to trigger various bonus rounds, providing juicy rewards. In addition to the base game, Friends features two bonus rounds and a jackpot for players to try their luck and win big. Players can also access free spins with the opportunity to delete huge payouts.\n\nDevelopment Studio\n\nThe Friends slot game was created by WMS Gaming, who has been around since 1943. The company has a reputation for providing quality games. WMS's team of developers has been successful in coming up with the best slots in the market. With its extensive experience, the company took on the Friends brand in slot gaming, offering fans of the sitcom a chance to win money while enjoying their favorite characters.\n\nMaximum Bet\n\nThe minimum stake is 0.50 euros, while the maximum is 100 euros per spin. Thus, the game is suitable for players of all levels. The high rollers can place larger bets, enabling them to win enormous rewards. With the Friends slot game, gamers can choose a strategy that works well for them, being high or low rollers.\n\nJackpot Wilds\n\nThe jackpot wilds in Friends are incredibly lucrative. It's possible to win an impressive amount of up to 100,000.00 euros if players can get a full stack of jackpot wilds on reels 2, 3, and 4. These jackpot wilds substitute all symbols except for the bonus and jackpot wilds. In conjunction with other bonus rounds, jackpot wilds boost the potential for huge payouts in Friends.\n\nBonus Rounds\n\nThe Friends slot game provides two bonus rounds. The Thanksgivings Bonus round awards ten free spins with a 3x multiplier. It also turns the duck, guitar, cup, and Central Perk symbols into wilds. Meanwhile, the Wedding Bonus round also awards ten free spins with persistent wilds that remain in place for the whole duration of the feature. During both bonus rounds, players have the opportunity to access significant payouts. Moreover, some regular symbols turn into wilds, boosting the potential for giant rewards.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Friends\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe Friends slot game is a 5x4 slot that boasts 40 fixed paylines. It has a high variance, which makes it perfect for those who love a thrill. It includes stacked symbols that showcase the iconic moments in the show. The feature bet option offers players the chance to trigger various bonus rounds, providing juicy rewards. In addition to the base game, Friends features two bonus rounds and a jackpot for players to try their luck and win big. Players can also access free spins with the opportunity to delete huge payouts.\n\nDevelopment Studio\n\nThe Friends slot game was created by WMS Gaming, who has been around since 1943. The company has a reputation for providing quality games. WMS's team of developers has been successful in coming up with the best slots in the market. With its extensive experience, the company took on the Friends brand in slot gaming, offering fans of the sitcom a chance to win money while enjoying their favorite characters.\n\nMaximum Bet\n\nThe minimum stake is 0.50 euros, while the maximum is 100 euros per spin. Thus, the game is suitable for players of all levels. The high rollers can place larger bets, enabling them to win enormous rewards. With the Friends slot game, gamers can choose a strategy that works well for them, being high or low rollers.\n\nJackpot Wilds\n\nThe jackpot wilds in Friends are incredibly lucrative. It's possible to win an impressive amount of up to 100,000.00 euros if players can get a full stack of jackpot wilds on reels 2, 3, and 4. These jackpot wilds substitute all symbols except for the bonus and jackpot wilds. In conjunction with other bonus rounds, jackpot wilds boost the potential for huge payouts in Friends.\n\nBonus Rounds\n\nThe Friends slot game provides two bonus rounds. The Thanksgivings Bonus round awards ten free spins with a 3x multiplier. It also turns the duck, guitar, cup, and Central Perk symbols into wilds. Meanwhile, the Wedding Bonus round also awards ten free spins with persistent wilds that remain in place for the whole duration of the feature. During both bonus rounds, players have the opportunity to access significant payouts. Moreover, some regular symbols turn into wilds, boosting the potential for giant rewards.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TJDjyxtB1zRZguWyy3TB8Rh2gc94",
+                "id": "chatcmpl-7WTDIQlaUGbEfon3OYyaweUGDMhOI",
                 "object": "chat.completion",
-                "created": 1687219751,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 643,
-                    "completion_tokens": 128,
-                    "total_tokens": 771
-                },
+                "created": 1687973148,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High variance perfect for thrill-seekers\",\n        \"Stacked symbols showcasing iconic moments\",\n        \"Feature bet option offering juicy rewards\",\n        \"Two bonus rounds and a jackpot for big wins\"\n    ],\n    \"cons\": [\n        \"May not appeal to those unfamiliar with the show\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Friends Slot Game for Free - Exciting Bonus Rounds\",\n    \"meta_description\": \"Try Friends slot game for free with its exciting bonus rounds and high variance. Win big and enjoy your favorite characters with Friends online slot.\" \n}"
+                            "content": "{\n\"pros\": [\n\"What we like about Friends slot game:\",\n\"High variance for an exciting gameplay\",\n\"Stacked symbols representing iconic moments from the show\",\n\"Feature bet option with various bonus rounds and juicy rewards\",\n\"Access to free spins with potential for huge payouts\"\n],\n\"cons\": [\n\"What we don't like about Friends slot game:\",\n\"Only two bonus rounds available\",\n\"Limited maximum bet amount\"\n],\n\"meta_title\": \"Play Friends Slot Game Free - Exciting Gameplay & Juicy Rewards\",\n\"meta_description\": \"Read our review of Friends slot game. Discover exciting gameplay and juicy rewards. Play for free!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 640,
+                    "completion_tokens": 130,
+                    "total_tokens": 770
+                }
             }
         },
         {
@@ -812,5 +814,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/friends.json"
+    "filename": "game_reviews/translations/friends.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_5f1622c0-46b4-4bf0-81d9-4230eb810b8f_1.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_ce0900a3-f5ff-4d8a-9791-3bc9d1b3dd4a_4.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_5f1622c0-46b4-4bf0-81d9-4230eb810b8f_3.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_ce0900a3-f5ff-4d8a-9791-3bc9d1b3dd4a_3.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_ce0900a3-f5ff-4d8a-9791-3bc9d1b3dd4a_1.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_5f1622c0-46b4-4bf0-81d9-4230eb810b8f_4.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_5f1622c0-46b4-4bf0-81d9-4230eb810b8f_2.png",
+        "arved__Create_a_feature_image_for_the_Friends_slot_game_that_ca_ce0900a3-f5ff-4d8a-9791-3bc9d1b3dd4a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Friends (Version 5).webp",
+        "game_reviews/processed_images/Friends (Version 2).webp",
+        "game_reviews/processed_images/Friends (Version 4).webp",
+        "game_reviews/processed_images/Friends (Version 6).webp",
+        "game_reviews/processed_images/Friends (Version 1).webp",
+        "game_reviews/processed_images/Friends (Version 8).webp",
+        "game_reviews/processed_images/Friends (Version 3).webp",
+        "game_reviews/processed_images/Friends (Version 7).webp"
+    ],
+    "slug": "friends",
+    "name": "Friends",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Friends-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Friends Slot Game Free - Exciting Gameplay & Juicy Rewards' ### Meta set: 'Read our review of Friends slot game. Discover exciting gameplay and juicy rewards. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

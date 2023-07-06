@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and eerie atmosphere",
-                    "Variety of bonuses and game modes to increase winning potential",
-                    "Engaging gameplay with spooky symbols and characters",
-                    "Large winning potential with multiple ways to win"
+                    "Stunning visuals and eerie atmosphere",
+                    "Huge variety of bonuses and games",
+                    "Impressive graphics and design",
+                    "Multiple game modes for more entertainment"
                 ],
                 "cons": [
-                    "May be too scary for some players",
-                    "Limited availability in some regions"
+                    "Limited information about RTP (Return to Player)",
+                    "Not available for mobile devices"
                 ],
-                "meta_title": "Play Ghost Castle Free - Review of Cristaltec's Slot Game 2021",
-                "meta_description": "Check out our review of Ghost Castle by Cristaltec, an online slot game with an eerie setting, spooky symbols, and a variety of game modes. Play free and win big!"
+                "meta_title": "Play Ghost Castle for Free - Thrilling Slot Game",
+                "meta_description": "Review of Ghost Castle - Play this thrilling slot game for free and enjoy stunning visuals and exciting gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ghost Castle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nGhost Castle is an online slot game developed by Cristaltec, one of the leaders in the Italian online gambling industry. The game offers players stunning visuals, an eerie atmosphere, and a huge variety of bonuses and games that increase winning potential.\n\nGraphics and Immersion\n\nGhost Castle immerses players in an eerie atmosphere that is reminiscent of the best horror films. The graphics and design of the game are impressive, with spooky symbols that add to the immersive experience. The setting of the game is a spooky castle and barren trees, where ghosts, vampires, and other frightening images appear on the reels.\n\nSymbols and Functionality\n\nGhost Castle offers regular symbols that provide payouts based on where they appear on the reels. The special symbols, such as the wild symbol and the scatter symbol, add to the excitement of the game and provide many opportunities to win. The game also offers various gaming modes, such as the Ghost Castle Mode and the Cursed Pumpkins Mode, that provide players with even more options for entertainment and winning potential.\n\nGame Modes\n\nGhost Castle by Cristaltec offers several game modes that provide even more options for entertainment and winning potential. The Ghost Castle Mode and the Cursed Pumpkins Mode are two modes that players enjoy. In the Ghost Castle Mode, the castle's ghosts take over the screen and provide players with additional prizes, while in the Cursed Pumpkins Mode, a pumpkin symbol appears on the reels and generates bonus payouts. These game modes create a unique and engaging atmosphere.\n\nWinning Potential\n\nOne of the primary reasons why players enjoy Ghost Castle is because it offers a large winning potential. The game has several features, such as various symbols and game modes, that help players win more. The scatter symbol offers players various bonuses and provides the opportunity to spin for free, while the wild symbol serves as a joker, providing extra opportunities to win. Other symbols, such as the 2x symbol, can help players double their winnings. All these features create many opportunities for players to win big while enjoying a thrilling game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ghost Castle\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nGhost Castle is an online slot game developed by Cristaltec, one of the leaders in the Italian online gambling industry. The game offers players stunning visuals, an eerie atmosphere, and a huge variety of bonuses and games that increase winning potential.\n\nGraphics and Immersion\n\nGhost Castle immerses players in an eerie atmosphere that is reminiscent of the best horror films. The graphics and design of the game are impressive, with spooky symbols that add to the immersive experience. The setting of the game is a spooky castle and barren trees, where ghosts, vampires, and other frightening images appear on the reels.\n\nSymbols and Functionality\n\nGhost Castle offers regular symbols that provide payouts based on where they appear on the reels. The special symbols, such as the wild symbol and the scatter symbol, add to the excitement of the game and provide many opportunities to win. The game also offers various gaming modes, such as the Ghost Castle Mode and the Cursed Pumpkins Mode, that provide players with even more options for entertainment and winning potential.\n\nGame Modes\n\nGhost Castle by Cristaltec offers several game modes that provide even more options for entertainment and winning potential. The Ghost Castle Mode and the Cursed Pumpkins Mode are two modes that players enjoy. In the Ghost Castle Mode, the castle's ghosts take over the screen and provide players with additional prizes, while in the Cursed Pumpkins Mode, a pumpkin symbol appears on the reels and generates bonus payouts. These game modes create a unique and engaging atmosphere.\n\nWinning Potential\n\nOne of the primary reasons why players enjoy Ghost Castle is because it offers a large winning potential. The game has several features, such as various symbols and game modes, that help players win more. The scatter symbol offers players various bonuses and provides the opportunity to spin for free, while the wild symbol serves as a joker, providing extra opportunities to win. Other symbols, such as the 2x symbol, can help players double their winnings. All these features create many opportunities for players to win big while enjoying a thrilling game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TOKZWCcDyYrR7Sbdl4zSnXVoLLOU",
+                "id": "chatcmpl-7WTkwYGxRGjqjk8pU1fq2AfzaL7TM",
                 "object": "chat.completion",
-                "created": 1687239395,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 589,
-                    "completion_tokens": 147,
-                    "total_tokens": 736
-                },
+                "created": 1687975234,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and eerie atmosphere\",\n        \"Variety of bonuses and game modes to increase winning potential\",\n        \"Engaging gameplay with spooky symbols and characters\",\n        \"Large winning potential with multiple ways to win\"\n    ],\n    \"cons\": [\n        \"May be too scary for some players\",\n        \"Limited availability in some regions\"\n    ],\n    \"meta_title\": \"Play Ghost Castle Free - Review of Cristaltec's Slot Game 2021\",\n    \"meta_description\": \"Check out our review of Ghost Castle by Cristaltec, an online slot game with an eerie setting, spooky symbols, and a variety of game modes. Play free and win big!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning visuals and eerie atmosphere\",\n    \"Huge variety of bonuses and games\",\n    \"Impressive graphics and design\",\n    \"Multiple game modes for more entertainment\"\n  ],\n  \"cons\": [\n    \"Limited information about RTP (Return to Player)\",\n    \"Not available for mobile devices\"\n  ],\n  \"meta_title\": \"Play Ghost Castle for Free - Thrilling Slot Game\",\n  \"meta_description\": \"Review of Ghost Castle - Play this thrilling slot game for free and enjoy stunning visuals and exciting gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 586,
+                    "completion_tokens": 115,
+                    "total_tokens": 701
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/ghost-castle.json"
+    "filename": "game_reviews/translations/ghost-castle.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__a116175f-c1e5-439f-bd89-07247494260c_3.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__2a8ab9f8-3f01-4443-ae0a-e8e80a64bc38_2.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__2a8ab9f8-3f01-4443-ae0a-e8e80a64bc38_3.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__2a8ab9f8-3f01-4443-ae0a-e8e80a64bc38_1.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__a116175f-c1e5-439f-bd89-07247494260c_2.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__a116175f-c1e5-439f-bd89-07247494260c_1.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__2a8ab9f8-3f01-4443-ae0a-e8e80a64bc38_4.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_the__a116175f-c1e5-439f-bd89-07247494260c_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ghost Castle (Version 7).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 3).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 1).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 6).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 8).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 4).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 2).webp",
+        "game_reviews/processed_images/Ghost Castle (Version 5).webp"
+    ],
+    "slug": "ghost-castle",
+    "name": "Ghost Castle",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ghost-Castle-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ghost Castle for Free - Thrilling Slot Game' ### Meta set: 'Review of Ghost Castle - Play this thrilling slot game for free and enjoy stunning visuals and exciting gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Customization options for coin value and winning lines",
-                    "Gold and purple color scheme",
-                    "Simple and modern symbols",
-                    "Two special symbols (Wild and Scatter)"
+                    "Customization options for winning lines and coin value",
+                    "Captivating atmospheric music",
+                    "Modern and visually appealing symbols",
+                    "Bonus mode with random winnings"
                 ],
                 "cons": [
                     "Limited number of winning lines",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Money Pig Free Slot Game | Review",
-                "meta_description": "Read our expert review of Money Pig, an online slot game by Capecod. Play for free and enjoy bonus features, gold and purple colors, and modern symbols."
+                "meta_title": "Play Money Pig for Free - Online Slot Game Review",
+                "meta_description": "Read our review of Money Pig, a captivating online slot game with customization options. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Money Pig\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoney Pig Slot Game\n\nMoney Pig is an online slot game developed by Capecod, revolving around the theme of wealth and pigs. The game has five reels with three horizontal lines and fifteen symbols displayed at each game. The graphics of the game are gold and purple, representing opulence, and the symbols depict faces of wealth, including diamond, pig token, banknotes, and ring, and playing cards symbols (A, K, Q, J).\n\nGameplay Features\n\nThe game offers customization options to players in terms of the number of winning lines and coin value. The minimum coin value is 1 and the maximum value is 150, whereas the maximum number of winning lines is 15. The slot has two special symbols- the piggy bank piglet acts as a Wild symbol and can substitute for all other symbols except the other special symbol. On the other hand, the title of the slot, Money Pig appears as a Scatter symbol. The Scatter symbol can give access to the bonus mode, where the player needs to select a gem and receives a random winning associated with it.\n\nAesthetics and Symbols\n\nMoney Pig has simple and captivating atmospheric music that does not become annoying during the game. The symbols are represented as neon signs and have a modern look in line with the theme. The piggy bank piglet and the title of the slot, Money Pig, are the two special symbols of the game. The gold and purple color scheme does not strain the eyes during gameplay.\n\nSpecial Symbols\n\nMoney Pig has two special symbols, a Wild symbol and a Scatter symbol. The piggy bank piglet is a Wild symbol and can replace all symbols except the other special symbol. On the other hand, the title of the slot, Money Pig, appears as a Scatter symbol. This symbol can give access to the bonus mode, where the player needs to select a gem and receives a random winning associated with it.\n\nComparison to Similar Games\n\nFor players interested in other titles developed by Capecod, Bomber Fruit Slot is recommended for a classic fruit-themed game. Additionally, The Bounty Pirates by Capecod offers an extra level of excitement during gameplay. Lastly, for players interested in a slot game similar to Money Pig, Smash The Pig by G2 Spielo is recommended as it has a similar theme of piggy banks.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Money Pig\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoney Pig Slot Game\n\nMoney Pig is an online slot game developed by Capecod, revolving around the theme of wealth and pigs. The game has five reels with three horizontal lines and fifteen symbols displayed at each game. The graphics of the game are gold and purple, representing opulence, and the symbols depict faces of wealth, including diamond, pig token, banknotes, and ring, and playing cards symbols (A, K, Q, J).\n\nGameplay Features\n\nThe game offers customization options to players in terms of the number of winning lines and coin value. The minimum coin value is 1 and the maximum value is 150, whereas the maximum number of winning lines is 15. The slot has two special symbols- the piggy bank piglet acts as a Wild symbol and can substitute for all other symbols except the other special symbol. On the other hand, the title of the slot, Money Pig appears as a Scatter symbol. The Scatter symbol can give access to the bonus mode, where the player needs to select a gem and receives a random winning associated with it.\n\nAesthetics and Symbols\n\nMoney Pig has simple and captivating atmospheric music that does not become annoying during the game. The symbols are represented as neon signs and have a modern look in line with the theme. The piggy bank piglet and the title of the slot, Money Pig, are the two special symbols of the game. The gold and purple color scheme does not strain the eyes during gameplay.\n\nSpecial Symbols\n\nMoney Pig has two special symbols, a Wild symbol and a Scatter symbol. The piggy bank piglet is a Wild symbol and can replace all symbols except the other special symbol. On the other hand, the title of the slot, Money Pig, appears as a Scatter symbol. This symbol can give access to the bonus mode, where the player needs to select a gem and receives a random winning associated with it.\n\nComparison to Similar Games\n\nFor players interested in other titles developed by Capecod, Bomber Fruit Slot is recommended for a classic fruit-themed game. Additionally, The Bounty Pirates by Capecod offers an extra level of excitement during gameplay. Lastly, for players interested in a slot game similar to Money Pig, Smash The Pig by G2 Spielo is recommended as it has a similar theme of piggy banks.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UAMUAsEXDH3PBKGNBrkVq7le7PxZ",
+                "id": "chatcmpl-7WXtXRgcUc2H1MnJNY2Moz2Eqyqok",
                 "object": "chat.completion",
-                "created": 1687424026,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991143,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Customization options for coin value and winning lines\",\n        \"Gold and purple color scheme\",\n        \"Simple and modern symbols\",\n        \"Two special symbols (Wild and Scatter)\"\n    ],\n    \"cons\": [\n        \"Limited number of winning lines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Money Pig Free Slot Game | Review\",\n    \"meta_description\": \"Read our expert review of Money Pig, an online slot game by Capecod. Play for free and enjoy bonus features, gold and purple colors, and modern symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Customization options for winning lines and coin value\",\n    \"Captivating atmospheric music\",\n    \"Modern and visually appealing symbols\",\n    \"Bonus mode with random winnings\"\n  ],\n  \"cons\": [\n    \"Limited number of winning lines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Money Pig for Free - Online Slot Game Review\",\n  \"meta_description\": \"Read our review of Money Pig, a captivating online slot game with customization options. Play for free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 125,
-                    "total_tokens": 770
+                    "prompt_tokens": 642,
+                    "completion_tokens": 111,
+                    "total_tokens": 753
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/money-pig.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_in_cartoon_style_featuring_a_happy_Maya__c046464d-550c-42f4-9daa-0feb1b1dee55_2.png",
+        "arved__Create_an_image_in_cartoon_style_featuring_a_happy_Maya__c046464d-550c-42f4-9daa-0feb1b1dee55_3.png",
+        "arved__Create_an_image_in_cartoon_style_featuring_a_happy_Maya__c046464d-550c-42f4-9daa-0feb1b1dee55_4.png",
+        "arved__Create_an_image_in_cartoon_style_featuring_a_happy_Maya__c046464d-550c-42f4-9daa-0feb1b1dee55_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Money Pig (Version 2).webp",
+        "game_reviews/processed_images/Money Pig (Version 1).webp",
+        "game_reviews/processed_images/Money Pig (Version 3).webp",
+        "game_reviews/processed_images/Money Pig (Version 4).webp"
+    ],
+    "slug": "money-pig",
+    "name": "Money Pig",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Money-Pig-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Money Pig for Free - Online Slot Game Review' ### Meta set: 'Read our review of Money Pig, a captivating online slot game with customization options. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

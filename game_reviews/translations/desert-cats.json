@@ -777,16 +777,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_2.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_3.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Desert Cats (Version 4).webp",
-        "game_reviews/processed_images/Desert Cats (Version 2).webp",
         "game_reviews/processed_images/Desert Cats (Version 3).webp",
-        "game_reviews/processed_images/Desert Cats (Version 1).webp"
+        "game_reviews/processed_images/Desert Cats (Version 1).webp",
+        "game_reviews/processed_images/Desert Cats (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/desert-cats.json"
+    "filename": "game_reviews/translations/desert-cats.json",
+    "slug": "desert-cats",
+    "name": "Desert Cats",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Desert-Cats-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Desert Cats for Free - A Review of Ancient Egyptian Slot Game' ### Meta set: 'Read our review of the slot game Desert Cats with an Ancient Egyptian theme, featuring two Wild symbols and a Jackpot. Play for free here.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

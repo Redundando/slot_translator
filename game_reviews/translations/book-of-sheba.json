@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Numerous paylines for more winning opportunities",
-                    "Exciting Ancient Egypt theme",
-                    "Engaging sound design and atmospheric music",
-                    "Immersion in the game through falling symbols and animations"
+                    "Numerous wins in a single round",
+                    "Unique falling symbols feature",
+                    "Interesting Ancient Egypt theme",
+                    "Immersive sound design"
                 ],
                 "cons": [
                     "Animations could be improved",
-                    "Competition with many other Ancient Egypt-themed slots"
+                    "Competitive market with similar Ancient Egypt-themed slots"
                 ],
-                "meta_title": "Play Book of Sheba Online for Free - Exciting Ancient Egypt Theme",
-                "meta_description": "Read our review of Book of Sheba, an online slot game with exciting Ancient Egypt theme, numerous paylines, and immersive sound design. Play for free now!"
+                "meta_title": "Play Book of Sheba - Free Online Slot Game",
+                "meta_description": "Experience the riches of Ancient Egypt in Book of Sheba. Play this free slot game now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book Of Sheba\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBook of Sheba from Betixon has a grid of type 5*3, with five reels that show 3 symbols each. The involved symbols disappear every time a winning combination is obtained, to leave space for other symbols falling from above. In this way, it is possible to obtain numerous wins in a single round, also thanks to the 243 paylines. The cat, which is a Scatter symbol that allows you to reach the bonus mode, and the book, which serves as a Wild symbol capable of replacing any other symbol in the game.\n\nTheme\n\nBetixon's Book of Sheba is an online slot game that explores the well-known and beloved theme of Ancient Egypt. The game encompasses various aspects of the civilization, including pyramids, hieroglyphs, deities, and emphasizes the goddess Bastet, represented by a superheroine-like figure at the center of the narrative.\n\nAnimations\n\nThe animations of Book of Sheba don't match the levels of some of the most successful slot games. Still, the superheroine-inspired character and the fire of the torches manage to give an identity to the game. From the falling symbols to the death animations, there's enough motion for the game to feel alive.\n\nMusic\n\nThe entire game is surrounded by a dark atmospheric music that makes players feel like they're in danger but also close to an exciting discovery. The sound design enriches the game experience with specific sound effects each time a payline is filled and when the bonus round is reached, making it very immersive.\n\nCompetition\n\nBook of Sheba is one of the many slots inspired by Ancient Egypt's theme. Other titles you may enjoy are Egyptian Experience by Novomatic, Mysterious Egypt by Pragmatic Play, and Mistress of Egypt by IGT. These slots generally focus on one of the many faces of this world: Cleopatra, Tutankhamun, the Pyramids, the Deities, and much more.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book Of Sheba\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBook of Sheba from Betixon has a grid of type 5*3, with five reels that show 3 symbols each. The involved symbols disappear every time a winning combination is obtained, to leave space for other symbols falling from above. In this way, it is possible to obtain numerous wins in a single round, also thanks to the 243 paylines. The cat, which is a Scatter symbol that allows you to reach the bonus mode, and the book, which serves as a Wild symbol capable of replacing any other symbol in the game.\n\nTheme\n\nBetixon's Book of Sheba is an online slot game that explores the well-known and beloved theme of Ancient Egypt. The game encompasses various aspects of the civilization, including pyramids, hieroglyphs, deities, and emphasizes the goddess Bastet, represented by a superheroine-like figure at the center of the narrative.\n\nAnimations\n\nThe animations of Book of Sheba don't match the levels of some of the most successful slot games. Still, the superheroine-inspired character and the fire of the torches manage to give an identity to the game. From the falling symbols to the death animations, there's enough motion for the game to feel alive.\n\nMusic\n\nThe entire game is surrounded by a dark atmospheric music that makes players feel like they're in danger but also close to an exciting discovery. The sound design enriches the game experience with specific sound effects each time a payline is filled and when the bonus round is reached, making it very immersive.\n\nCompetition\n\nBook of Sheba is one of the many slots inspired by Ancient Egypt's theme. Other titles you may enjoy are Egyptian Experience by Novomatic, Mysterious Egypt by Pragmatic Play, and Mistress of Egypt by IGT. These slots generally focus on one of the many faces of this world: Cleopatra, Tutankhamun, the Pyramids, the Deities, and much more.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SkkUCrgYz34b3TnZZoC87x6byi5j",
+                "id": "chatcmpl-7WP90SZVLnIrbNfWSyxXq2RKY0fEv",
                 "object": "chat.completion",
-                "created": 1687087242,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 574,
-                    "completion_tokens": 127,
-                    "total_tokens": 701
-                },
+                "created": 1687957506,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Numerous paylines for more winning opportunities\", \"Exciting Ancient Egypt theme\", \"Engaging sound design and atmospheric music\", \"Immersion in the game through falling symbols and animations\"],\n    \"cons\": [\"Animations could be improved\", \"Competition with many other Ancient Egypt-themed slots\"],\n    \"meta_title\": \"Play Book of Sheba Online for Free - Exciting Ancient Egypt Theme\",\n    \"meta_description\": \"Read our review of Book of Sheba, an online slot game with exciting Ancient Egypt theme, numerous paylines, and immersive sound design. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Numerous wins in a single round\",\n    \"Unique falling symbols feature\",\n    \"Interesting Ancient Egypt theme\",\n    \"Immersive sound design\"\n  ],\n  \"cons\": [\n    \"Animations could be improved\",\n    \"Competitive market with similar Ancient Egypt-themed slots\"\n  ],\n  \"meta_title\": \"Play Book of Sheba - Free Online Slot Game\",\n  \"meta_description\": \"Experience the riches of Ancient Egypt in Book of Sheba. Play this free slot game now.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 571,
+                    "completion_tokens": 110,
+                    "total_tokens": 681
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/book-of-sheba.json",
     "raw_feature_images": [
-        "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_2.png",
+        "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_1.png",
         "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_4.png",
         "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_3.png",
-        "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_1.png"
+        "arved__Create_a_Feature_Image_Prompt_Design_an_eye-catching_car_04ec3f8c-78e0-486f-a6db-3a14fc23058e_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Sheba (Version 2).webp",
         "game_reviews/processed_images/Book Of Sheba (Version 3).webp",
-        "game_reviews/processed_images/Book Of Sheba (Version 4).webp",
-        "game_reviews/processed_images/Book Of Sheba (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Book Of Sheba (Version 1).webp",
+        "game_reviews/processed_images/Book Of Sheba (Version 4).webp"
+    ],
+    "slug": "book-of-sheba",
+    "name": "Book of Sheba",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Book-Of-Sheba-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Sheba - Free Online Slot Game' ### Meta set: 'Experience the riches of Ancient Egypt in Book of Sheba. Play this free slot game now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

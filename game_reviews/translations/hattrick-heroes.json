@@ -580,39 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "25 paylines with left-to-right and right-to-left payouts",
-                    "Choose your team from a selection of national squads",
-                    "Team selection feature offers unique modifiers to enhance gameplay",
-                    "Recommended for both seasoned gamblers and casual players"
+                    "25 paylines that pay both left-to-right and right-to-left",
+                    "RTP of 95.36%, inline with industry standards",
+                    "Ability to choose national teams for immersive gameplay",
+                    "Team selection feature enhances gameplay and keeps things interesting"
                 ],
                 "cons": [
-                    "May not appeal to those who are not fans of soccer",
-                    "No progressive jackpot feature"
+                    "No specific cons mentioned in the review"
                 ],
-                "meta_title": "Play Hattrick Heroes Free Slot Game | Exciting Team Selection Feature",
-                "meta_description": "Experience the fast-paced world of soccer with Hattrick Heroes. Choose your team and play this exciting slot game with unique modifiers for free."
+                "meta_title": "Play Hattrick Heroes - Free Slot Game",
+                "meta_description": "Play Hattrick Heroes, a free slot game with 25 paylines and unique team selection feature."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hattrick Heroes\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nHattrick Heroes offers 25 paylines that pay both left-to-right and right-to-left, giving players more opportunities to win big. With an RTP of 95.36%, this game falls in line with industry standards, providing plenty of excitement for seasoned gamblers or those looking for a fun new way to pass the time.\n\nTheme and Immersion\n\nImmerse yourself in the fast-paced world of international soccer with Hattrick Heroes, a sport-themed slot game from Jade Rabbit Studio. With the ability to choose your team from a selection of national squads, including France, the UK, Sweden, and Italy, you'll feel like you're right in the middle of the action.\n\nTeam Selection Feature\n\nThe team selection feature is the star of the show in Hattrick Heroes. Each national team offers unique modifiers that enhance gameplay and keep things interesting for longer. Whether you're a seasoned gambler or just looking for a fun new way to pass the time, Hattrick Heroes is a great choice.\n\nOther recommended soccer-themed slot games\n\nIf you're looking for other soccer-themed slot games to try, check out Knockout Football Rush, Football Mania Deluxe, Football: Champion Cup, and Foxin’ Wins Football Fever. Each offers a unique take on the world of sports and promises hours of fun.\n\nTarget Audience\n\nHattrick Heroes is a great choice for both seasoned gamblers and those looking for a fun new way to pass the time. With its 25 paylines, team selection feature, and RTP of 95.36%, this game provides plenty of excitement and opportunities to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hattrick Heroes\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nHattrick Heroes offers 25 paylines that pay both left-to-right and right-to-left, giving players more opportunities to win big. With an RTP of 95.36%, this game falls in line with industry standards, providing plenty of excitement for seasoned gamblers or those looking for a fun new way to pass the time.\n\nTheme and Immersion\n\nImmerse yourself in the fast-paced world of international soccer with Hattrick Heroes, a sport-themed slot game from Jade Rabbit Studio. With the ability to choose your team from a selection of national squads, including France, the UK, Sweden, and Italy, you'll feel like you're right in the middle of the action.\n\nTeam Selection Feature\n\nThe team selection feature is the star of the show in Hattrick Heroes. Each national team offers unique modifiers that enhance gameplay and keep things interesting for longer. Whether you're a seasoned gambler or just looking for a fun new way to pass the time, Hattrick Heroes is a great choice.\n\nOther recommended soccer-themed slot games\n\nIf you're looking for other soccer-themed slot games to try, check out Knockout Football Rush, Football Mania Deluxe, Football: Champion Cup, and Foxin’ Wins Football Fever. Each offers a unique take on the world of sports and promises hours of fun.\n\nTarget Audience\n\nHattrick Heroes is a great choice for both seasoned gamblers and those looking for a fun new way to pass the time. With its 25 paylines, team selection feature, and RTP of 95.36%, this game provides plenty of excitement and opportunities to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tp6gRZtyxnL8jYc2WIM9lfk4vOPU",
+                "id": "chatcmpl-7WUdEfDTg2DjmEBiWR1ItWmLGkhaD",
                 "object": "chat.completion",
-                "created": 1687342322,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978600,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"25 paylines with left-to-right and right-to-left payouts\",\n        \"Choose your team from a selection of national squads\",\n        \"Team selection feature offers unique modifiers to enhance gameplay\",\n        \"Recommended for both seasoned gamblers and casual players\"\n    ],\n    \"cons\": [\n        \"May not appeal to those who are not fans of soccer\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Hattrick Heroes Free Slot Game | Exciting Team Selection Feature\",\n    \"meta_description\": \"Experience the fast-paced world of soccer with Hattrick Heroes. Choose your team and play this exciting slot game with unique modifiers for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"25 paylines that pay both left-to-right and right-to-left\",\n    \"RTP of 95.36%, inline with industry standards\",\n    \"Ability to choose national teams for immersive gameplay\",\n    \"Team selection feature enhances gameplay and keeps things interesting\"\n  ],\n  \"cons\": [\n    \"No specific cons mentioned in the review\"\n  ],\n  \"meta_title\": \"Play Hattrick Heroes - Free Slot Game\",\n  \"meta_description\": \"Play Hattrick Heroes, a free slot game with 25 paylines and unique team selection feature.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 509,
-                    "completion_tokens": 145,
-                    "total_tokens": 654
+                    "prompt_tokens": 506,
+                    "completion_tokens": 124,
+                    "total_tokens": 630
                 }
             }
         },
@@ -811,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hattrick-heroes.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Hattrick_Heroes_f77c82b8-388e-4c56-ac05-6520507359cc_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Hattrick_Heroes_f77c82b8-388e-4c56-ac05-6520507359cc_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Hattrick_Heroes_f77c82b8-388e-4c56-ac05-6520507359cc_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Hattrick_Heroes_f77c82b8-388e-4c56-ac05-6520507359cc_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hattrick Heroes (Version 4).webp",
+        "game_reviews/processed_images/Hattrick Heroes (Version 3).webp",
+        "game_reviews/processed_images/Hattrick Heroes (Version 2).webp",
+        "game_reviews/processed_images/Hattrick Heroes (Version 1).webp"
+    ],
+    "slug": "hattrick-heroes",
+    "name": "Hattrick Heroes",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hattrick-Heroes-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hattrick Heroes - Free Slot Game' ### Meta set: 'Play Hattrick Heroes, a free slot game with 25 paylines and unique team selection feature.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and colorful ice cream-themed aesthetic",
-                    "Low minimum bet of 0.10 virtual coins",
-                    "Autoplay function available for faster plays",
-                    "High maximum win of 10,017x the bet"
+                    "Unique gameplay with number-based mechanics",
+                    "Multiple winning combinations",
+                    "Autoplay function for convenience",
+                    "High maximum win potential"
                 ],
                 "cons": [
-                    "No special symbols like Scatters or Wilds",
-                    "High volatility may not suit all players"
+                    "Lack of special symbols like Scatters or Wilds",
+                    "High volatility may not be suitable for all players"
                 ],
-                "meta_title": "Play Candy Dreams: Bingo for Free | Review",
-                "meta_description": "Read our review of Candy Dreams: Bingo, a fun and colorful ice cream-themed bingo game. Play for free and experience high volatility for high payouts."
+                "meta_title": "Play Candy Dreams: Bingo for Free",
+                "meta_description": "Read our review of Candy Dreams: Bingo and play for free on any device."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Candy Dreams: Bingo\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nCandy Dreams: Bingo is a number-based game played on a container that can hold 25 numbers. The game does not have reels and rows. The basic bet is 0.10 virtual coins, and all combinations that develop horizontally, vertically, and diagonally are considered winning. The version illustrated in the review is for demonstration purposes only and does not involve real money. The Autoplay function can be employed for automatic spins from 10 to 100. Limits can be set to stop the game when exceeded. The theoretical return to the player (RTP) is 95.85%.\n\nWinning Combinations\n\nA combo of at least 5 symbols is necessary to win. The symbols appear as ice creams, and they replace the corresponding numbers in the 25-number main grid and the 40-number square on the right-hand side. The highest multiplier is applied to the first combinations formed, visible in the right-hand square. The multipliers available are 25x, 100x, 250x, and up to a maximum of 10,000x.\n\nGame Features and Special Symbols\n\nCandy Dreams: Bingo does not have special symbols like Scatters or Wilds. The game only features ice cream-themed symbols that form the winning combinations.\n\nRTP and Maximum Win\n\nThe theoretical return to the player (RTP) of Candy Dreams: Bingo is 95.85%. The maximum win, with the applied multipliers, is 10,017 times the bet. The volatility of the game is high.\n\nCompatibility with Devices\n\nCandy Dreams: Bingo is built using HTML5 architecture, allowing the game to run on any device, whether mobile or fixed.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Candy Dreams: Bingo\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Rules\n\nCandy Dreams: Bingo is a number-based game played on a container that can hold 25 numbers. The game does not have reels and rows. The basic bet is 0.10 virtual coins, and all combinations that develop horizontally, vertically, and diagonally are considered winning. The version illustrated in the review is for demonstration purposes only and does not involve real money. The Autoplay function can be employed for automatic spins from 10 to 100. Limits can be set to stop the game when exceeded. The theoretical return to the player (RTP) is 95.85%.\n\nWinning Combinations\n\nA combo of at least 5 symbols is necessary to win. The symbols appear as ice creams, and they replace the corresponding numbers in the 25-number main grid and the 40-number square on the right-hand side. The highest multiplier is applied to the first combinations formed, visible in the right-hand square. The multipliers available are 25x, 100x, 250x, and up to a maximum of 10,000x.\n\nGame Features and Special Symbols\n\nCandy Dreams: Bingo does not have special symbols like Scatters or Wilds. The game only features ice cream-themed symbols that form the winning combinations.\n\nRTP and Maximum Win\n\nThe theoretical return to the player (RTP) of Candy Dreams: Bingo is 95.85%. The maximum win, with the applied multipliers, is 10,017 times the bet. The volatility of the game is high.\n\nCompatibility with Devices\n\nCandy Dreams: Bingo is built using HTML5 architecture, allowing the game to run on any device, whether mobile or fixed.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Spc6KaSTVRB6tjqxjdReeovW4yyG",
+                "id": "chatcmpl-7WPf4ZQFPJNoTDrR845l2qDIrpnOZ",
                 "object": "chat.completion",
-                "created": 1687105942,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 523,
-                    "completion_tokens": 137,
-                    "total_tokens": 660
-                },
+                "created": 1687959494,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\":[\n      \"Fun and colorful ice cream-themed aesthetic\",\n      \"Low minimum bet of 0.10 virtual coins\",\n      \"Autoplay function available for faster plays\",\n      \"High maximum win of 10,017x the bet\"\n   ],\n   \"cons\":[\n      \"No special symbols like Scatters or Wilds\",\n      \"High volatility may not suit all players\"\n   ],\n   \"meta_title\":\"Play Candy Dreams: Bingo for Free | Review\",\n   \"meta_description\":\"Read our review of Candy Dreams: Bingo, a fun and colorful ice cream-themed bingo game. Play for free and experience high volatility for high payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay with number-based mechanics\",\n    \"Multiple winning combinations\",\n    \"Autoplay function for convenience\",\n    \"High maximum win potential\"\n  ],\n  \"cons\": [\n    \"Lack of special symbols like Scatters or Wilds\",\n    \"High volatility may not be suitable for all players\"\n  ],\n  \"meta_title\": \"Play Candy Dreams: Bingo for Free\",\n  \"meta_description\": \"Read our review of Candy Dreams: Bingo and play for free on any device.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 520,
+                    "completion_tokens": 109,
+                    "total_tokens": 629
+                }
             }
         },
         {
@@ -813,10 +813,10 @@
         }
     ],
     "raw_feature_images": [
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_3.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_1.png",
         "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_4.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_2.png"
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_1.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_2.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Ca_de9ff4af-6ced-4f21-8591-e5c1e74a68cc_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Candy Dreams Bingo (Version 4).webp",
@@ -824,5 +824,14 @@
         "game_reviews/processed_images/Candy Dreams Bingo (Version 1).webp",
         "game_reviews/processed_images/Candy Dreams Bingo (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/candy-dreams-bingo.json"
+    "filename": "game_reviews/translations/candy-dreams-bingo.json",
+    "slug": "candy-dreams-bingo",
+    "name": "Candy Dreams: Bingo",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Candy-Dreams-Bingo-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Candy Dreams: Bingo for Free' ### Meta set: 'Read our review of Candy Dreams: Bingo and play for free on any device.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

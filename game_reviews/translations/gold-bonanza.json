@@ -581,40 +581,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Special collection function offers added rewards",
+                    "Exciting special features like Shifting Wilds and Free Spins",
                     "High volatility with high win frequency",
-                    "Interesting paytable and payouts",
-                    "Well-crafted graphics and theme"
+                    "Well-crafted graphics and interesting gold rush theme",
+                    "Special collection function for additional rewards"
                 ],
                 "cons": [
-                    "RTP is not the best at 95.45%",
-                    "The gold rush theme may not be for everyone"
+                    "Not the best RTP at 95.45%",
+                    "Theme may not be appealing to everyone"
                 ],
-                "meta_title": "Play Gold Bonanza for Free: Review and Game details",
-                "meta_description": "Discover the special collection function and high volatility of Gold Bonanza, a well-designed slot game with a good payout potential. Play for free now."
+                "meta_title": "Play Gold Bonanza | Free Slot Game",
+                "meta_description": "Read our review of Gold Bonanza, an exciting online slot game to play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gold Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and structure of Gold Bonanza slot\n\nGold Bonanza is a 5x2 online slot game with 20 active paylines. It has a wooden stage grid structure with lanterns, mining equipment, eagles, and alcohol making up the backdrop. The game has special features such as Shifting Wilds, Free Spins, and a special collection function. It is a high volatility game with high win frequency.\n\nPaytable and payout potential\n\nThe paytable on Gold Bonanza is interesting and offers interesting payouts. The highest paying symbol is the Joker, which awards up to 500 times your bet. The old man pays 200 times your bet while the woman offers up to 100 times your bet if you find 5 on the reels. With at least 3 symbols, you can create winning combinations that can be rewarding.\n\nSpecial collection function and rewards\n\nThe special collection function in Gold Bonanza allows you to collect prizes from the gold cart to unlock additional rewards. The game also features Jokers that can appear on reels 1 and 5. The Free Spins feature is triggered by the Scatter symbol on reels 2, 3, and 4, and it offers 10 spins that are played with the same bet level as the base game.\n\nRTP, volatility, and win frequency\n\nGold Bonanza has an RTP of 95.45%, which is not the best but ensures a good response during gameplay. The high volatility of the game reveals that rewards won't be so frequent, but they can be really impressive. The Shifting Wilds and Free Spins, coupled with the special collection function, make the game exciting for experienced gamblers.\n\nTarget audience and suitability for experienced players\n\nGold Bonanza is suitable for experienced players as it is a high-volatility game with high win frequency. The Shifting Wilds, Free Spins, and special collection function make the game exciting and rewarding. The graphics are well-crafted, creating an interesting theme that takes you back in time to the gold rush. However, the theme may not be the most fascinating for everyone. Overall, it is a game worth trying out.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gold Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and structure of Gold Bonanza slot\n\nGold Bonanza is a 5x2 online slot game with 20 active paylines. It has a wooden stage grid structure with lanterns, mining equipment, eagles, and alcohol making up the backdrop. The game has special features such as Shifting Wilds, Free Spins, and a special collection function. It is a high volatility game with high win frequency.\n\nPaytable and payout potential\n\nThe paytable on Gold Bonanza is interesting and offers interesting payouts. The highest paying symbol is the Joker, which awards up to 500 times your bet. The old man pays 200 times your bet while the woman offers up to 100 times your bet if you find 5 on the reels. With at least 3 symbols, you can create winning combinations that can be rewarding.\n\nSpecial collection function and rewards\n\nThe special collection function in Gold Bonanza allows you to collect prizes from the gold cart to unlock additional rewards. The game also features Jokers that can appear on reels 1 and 5. The Free Spins feature is triggered by the Scatter symbol on reels 2, 3, and 4, and it offers 10 spins that are played with the same bet level as the base game.\n\nRTP, volatility, and win frequency\n\nGold Bonanza has an RTP of 95.45%, which is not the best but ensures a good response during gameplay. The high volatility of the game reveals that rewards won't be so frequent, but they can be really impressive. The Shifting Wilds and Free Spins, coupled with the special collection function, make the game exciting for experienced gamblers.\n\nTarget audience and suitability for experienced players\n\nGold Bonanza is suitable for experienced players as it is a high-volatility game with high win frequency. The Shifting Wilds, Free Spins, and special collection function make the game exciting and rewarding. The graphics are well-crafted, creating an interesting theme that takes you back in time to the gold rush. However, the theme may not be the most fascinating for everyone. Overall, it is a game worth trying out.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TRes7dSPG13BK0HYCYXBjDAmNPnw",
+                "id": "chatcmpl-7WTwWcgtkyBRI8VYDrgUZcnAHgKo9",
                 "object": "chat.completion",
-                "created": 1687252186,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 614,
-                    "completion_tokens": 132,
-                    "total_tokens": 746
-                },
+                "created": 1687975952,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Special collection function offers added rewards\",\n    \"High volatility with high win frequency\",\n    \"Interesting paytable and payouts\",\n    \"Well-crafted graphics and theme\"\n  ],\n  \"cons\": [\n    \"RTP is not the best at 95.45%\",\n    \"The gold rush theme may not be for everyone\"\n  ],\n  \"meta_title\": \"Play Gold Bonanza for Free: Review and Game details\",\n  \"meta_description\": \"Discover the special collection function and high volatility of Gold Bonanza, a well-designed slot game with a good payout potential. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting special features like Shifting Wilds and Free Spins\",\n    \"High volatility with high win frequency\",\n    \"Well-crafted graphics and interesting gold rush theme\",\n    \"Special collection function for additional rewards\"\n  ],\n  \"cons\": [\n    \"Not the best RTP at 95.45%\",\n    \"Theme may not be appealing to everyone\"\n  ],\n  \"meta_title\": \"Play Gold Bonanza | Free Slot Game\",\n  \"meta_description\": \"Read our review of Gold Bonanza, an exciting online slot game to play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 611,
+                    "completion_tokens": 124,
+                    "total_tokens": 735
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
                 ]
             }
         }
-    ]
+    ],
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Gold_Bonanza_with_these_speci_2220073b-5bbb-4052-80ce-a58a3e0cf953_1.png",
+        "arved__Create_a_feature_image_for_Gold_Bonanza_with_these_speci_2220073b-5bbb-4052-80ce-a58a3e0cf953_4.png",
+        "arved__Create_a_feature_image_for_Gold_Bonanza_with_these_speci_2220073b-5bbb-4052-80ce-a58a3e0cf953_3.png",
+        "arved__Create_a_feature_image_for_Gold_Bonanza_with_these_speci_2220073b-5bbb-4052-80ce-a58a3e0cf953_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gold Bonanza (Version 1).webp",
+        "game_reviews/processed_images/Gold Bonanza (Version 3).webp",
+        "game_reviews/processed_images/Gold Bonanza (Version 4).webp",
+        "game_reviews/processed_images/Gold Bonanza (Version 2).webp"
+    ],
+    "slug": "gold-bonanza",
+    "name": "Gold Bonanza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gold-Bonanza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gold Bonanza | Free Slot Game' ### Meta set: 'Read our review of Gold Bonanza, an exciting online slot game to play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

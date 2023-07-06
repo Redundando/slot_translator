@@ -728,39 +728,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Three progressive jackpots",
-                    "Mesmerizing Middle Eastern soundtrack",
-                    "Synchronized reels and random wilds",
-                    "Wins of up to 200x bet on each spin"
+                    "Synchronized reels",
+                    "Random wilds",
+                    "Free spin round with high potential wins",
+                    "Mesmerizing graphics and soundtrack"
                 ],
                 "cons": [
-                    "Medium variance gameplay",
-                    "Base RTP of 95.60%"
+                    "Medium variance",
+                    "Base RTP is slightly low"
                 ],
-                "meta_title": "Play Mistress of Egypt for Free - Game Review & Ratings",
-                "meta_description": "Discover the ancient Egypt-themed online slot Mistress of Egypt. Play for free with synced reels, random wilds, & three progressive jackpots. Read our full review."
+                "meta_title": "Play Mistress of Egypt Free: Exciting Gameplay and Huge Jackpots",
+                "meta_description": "Play Mistress of Egypt free and enjoy synchronized reels, random wilds, and big wins!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mistress of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features of Mistress of Egypt\n\nMistress of Egypt features synchronized reels, random wilds, and a free spin round. The free spin round can lead to wins of up to 200 times the bet on each spin.\n\nThe Progressive Jackpot of Mistress of Egypt\n\nMistress of Egypt is the first of its kind by IGT, offering three progressive jackpots with potentially life-changing payouts.\n\nGame Design and Soundtrack of Mistress of Egypt\n\nMistress of Egypt is set in ancient Egypt, but the graphics and visual style are unlike any other slot game in that category. The soundtrack is a mesmerizing Middle Eastern melody with ambient tones that create the perfect atmosphere for gameplay.\n\nEase of Play in Mistress of Egypt\n\nMistress of Egypt has an easy-to-use interface. Players can use the spin button or the autoplay feature to begin their adventure and can easily select their bet using the plus and minus buttons in the Total Bet window.\n\nVariance and Theoretical RTP of Mistress of Egypt\n\nMistress of Egypt has a medium variance with a theoretical RTP of 96.20%. Wins are awarded for two to five matching symbols on a line from left to right, with a base RTP of 95.60%.\n\nBetting Range in Mistress of Egypt\n\nPlayers can begin their adventure with a minimum bet of just 0.60 credits per spin and go up to a peak of 9 credits per spin. The highest multiplier that can increase the value of the jackpots is €9.00 per spin.\n\nBonus Feature in Mistress of Egypt\n\nMistress of Egypt has a bonus feature that includes the Mistress of Egypt randomly distributing collected pyramids to the reels when the respective feature is activated. All wins are automatically recorded, and players can view the paytable to learn more about the bonus features and how to activate them.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mistress of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features of Mistress of Egypt\n\nMistress of Egypt features synchronized reels, random wilds, and a free spin round. The free spin round can lead to wins of up to 200 times the bet on each spin.\n\nThe Progressive Jackpot of Mistress of Egypt\n\nMistress of Egypt is the first of its kind by IGT, offering three progressive jackpots with potentially life-changing payouts.\n\nGame Design and Soundtrack of Mistress of Egypt\n\nMistress of Egypt is set in ancient Egypt, but the graphics and visual style are unlike any other slot game in that category. The soundtrack is a mesmerizing Middle Eastern melody with ambient tones that create the perfect atmosphere for gameplay.\n\nEase of Play in Mistress of Egypt\n\nMistress of Egypt has an easy-to-use interface. Players can use the spin button or the autoplay feature to begin their adventure and can easily select their bet using the plus and minus buttons in the Total Bet window.\n\nVariance and Theoretical RTP of Mistress of Egypt\n\nMistress of Egypt has a medium variance with a theoretical RTP of 96.20%. Wins are awarded for two to five matching symbols on a line from left to right, with a base RTP of 95.60%.\n\nBetting Range in Mistress of Egypt\n\nPlayers can begin their adventure with a minimum bet of just 0.60 credits per spin and go up to a peak of 9 credits per spin. The highest multiplier that can increase the value of the jackpots is €9.00 per spin.\n\nBonus Feature in Mistress of Egypt\n\nMistress of Egypt has a bonus feature that includes the Mistress of Egypt randomly distributing collected pyramids to the reels when the respective feature is activated. All wins are automatically recorded, and players can view the paytable to learn more about the bonus features and how to activate them.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9pelnJejwLKYqaHY9qgt0lIG7Q8",
+                "id": "chatcmpl-7WXop613YUeUfjdxGd5Y3ZEMteeyp",
                 "object": "chat.completion",
-                "created": 1687421990,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990851,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Three progressive jackpots\",\n        \"Mesmerizing Middle Eastern soundtrack\",\n        \"Synchronized reels and random wilds\",\n        \"Wins of up to 200x bet on each spin\"\n    ],\n    \"cons\": [\n        \"Medium variance gameplay\",\n        \"Base RTP of 95.60%\"\n    ],\n    \"meta_title\": \"Play Mistress of Egypt for Free - Game Review & Ratings\",\n    \"meta_description\": \"Discover the ancient Egypt-themed online slot Mistress of Egypt. Play for free with synced reels, random wilds, & three progressive jackpots. Read our full review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Synchronized reels\",\n    \"Random wilds\",\n    \"Free spin round with high potential wins\",\n    \"Mesmerizing graphics and soundtrack\"\n  ],\n  \"cons\": [\n    \"Medium variance\",\n    \"Base RTP is slightly low\"\n  ],\n  \"meta_title\": \"Play Mistress of Egypt Free: Exciting Gameplay and Huge Jackpots\",\n  \"meta_description\": \"Play Mistress of Egypt free and enjoy synchronized reels, random wilds, and big wins!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 553,
-                    "completion_tokens": 133,
-                    "total_tokens": 686
+                    "prompt_tokens": 550,
+                    "completion_tokens": 106,
+                    "total_tokens": 656
                 }
             }
         },
@@ -959,5 +959,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mistress-of-egypt.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Mistre_0155f9ea-c3f6-4405-b621-fea0df248269_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Mistre_0155f9ea-c3f6-4405-b621-fea0df248269_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Mistre_0155f9ea-c3f6-4405-b621-fea0df248269_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Mistre_0155f9ea-c3f6-4405-b621-fea0df248269_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mistress Of Egypt (Version 4).webp",
+        "game_reviews/processed_images/Mistress Of Egypt (Version 1).webp",
+        "game_reviews/processed_images/Mistress Of Egypt (Version 2).webp",
+        "game_reviews/processed_images/Mistress Of Egypt (Version 3).webp"
+    ],
+    "slug": "mistress-of-egypt",
+    "name": "Mistress of Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mistress-Of-Egypt-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mistress of Egypt Free: Exciting Gameplay and Huge Jackpots' ### Meta set: 'Play Mistress of Egypt free and enjoy synchronized reels, random wilds, and big wins!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "All Ways slot system provides more chances to win",
-                    "Multistep system with three levels adds excitement",
-                    "Outstanding graphics that immerse players in the game",
-                    "Higher RTP value means more chances to win big"
+                    "Outstanding graphics and animation",
+                    "All Ways slot system for more chances to win",
+                    "Exciting multistep system with increasing jackpot",
+                    "Higher RTP value for higher chances of winning"
                 ],
                 "cons": [
-                    "Limited variety of symbols and themes",
+                    "Limited number of levels in the multistep system",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Leprechaun Rama Free: Exciting All Ways Slot Game",
-                "meta_description": "Discover why Leprechaun Rama is an exciting game with endless opportunities to win. Play now for free and experience the All Ways slot system!"
+                "meta_title": "Play Leprechaun Rama for Free",
+                "meta_description": "Read our review of Leprechaun Rama and play for free. Enjoy the exciting gameplay and high RTP value."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Leprechaun Rama\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLeprechaun Rama is a five-by-five grid slot game. When players win, symbols burst and are replaced by new symbols. It's an All Ways slot, meaning that combinations pay out in all directions. Players can adjust their bets using the Step button. The game features 351 ways to win and an RTP value of 97.15%.\n\nGraphics\n\nThe graphics in Leprechaun Rama are outstanding and reminiscent of animated cartoons. All symbols are tied to Irish traditions, featuring a horseshoe, acorn, whiskey flask, four-leaf clover, and numbers 3 and 9. The game is set in Leprechaun's home, with a pot of overflowing coins waiting to be won. The reels are invisible, and symbols appear inside bursting bubbles after each winning combination.\n\nAll Ways slot system\n\nLeprechaun Rama is an All Ways slot, which means that combinations pay out in all directions, not just from left to right as usual. This unique feature provides players with endless chances to win and makes for an exciting and unpredictable gameplay experience.\n\nMultistep system\n\nLeprechaun Rama features a multistep system. There are three levels, and each level is activated by reaching specific milestones. Whenever a key appears, it adds to the left counter and increases the level. In the first level, Leprechaun's Lair, a green pot of gold coins may appear on the grid, and when it does, it spills its contents into the main pot beside the grid, increasing the bet by 20%. The second level, Faury's Forest, increases the prize by 40%, and the third level, Rancher's Riches, increases the jackpot by 60%.\n\nRTP value\n\nLeprechaun Rama has an RTP value of 97.15%, which is higher than the average online slot game. This means that players have a higher chance of winning in this game than in many others. It's an exciting game that provides endless opportunities for players to win big!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Leprechaun Rama\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLeprechaun Rama is a five-by-five grid slot game. When players win, symbols burst and are replaced by new symbols. It's an All Ways slot, meaning that combinations pay out in all directions. Players can adjust their bets using the Step button. The game features 351 ways to win and an RTP value of 97.15%.\n\nGraphics\n\nThe graphics in Leprechaun Rama are outstanding and reminiscent of animated cartoons. All symbols are tied to Irish traditions, featuring a horseshoe, acorn, whiskey flask, four-leaf clover, and numbers 3 and 9. The game is set in Leprechaun's home, with a pot of overflowing coins waiting to be won. The reels are invisible, and symbols appear inside bursting bubbles after each winning combination.\n\nAll Ways slot system\n\nLeprechaun Rama is an All Ways slot, which means that combinations pay out in all directions, not just from left to right as usual. This unique feature provides players with endless chances to win and makes for an exciting and unpredictable gameplay experience.\n\nMultistep system\n\nLeprechaun Rama features a multistep system. There are three levels, and each level is activated by reaching specific milestones. Whenever a key appears, it adds to the left counter and increases the level. In the first level, Leprechaun's Lair, a green pot of gold coins may appear on the grid, and when it does, it spills its contents into the main pot beside the grid, increasing the bet by 20%. The second level, Faury's Forest, increases the prize by 40%, and the third level, Rancher's Riches, increases the jackpot by 60%.\n\nRTP value\n\nLeprechaun Rama has an RTP value of 97.15%, which is higher than the average online slot game. This means that players have a higher chance of winning in this game than in many others. It's an exciting game that provides endless opportunities for players to win big!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U0pSIDsPca1bp4p75nnYrsKfVDSg",
+                "id": "chatcmpl-7WWLFVIV9QZebbWLGnEnZsBbxqFDt",
                 "object": "chat.completion",
-                "created": 1687387382,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985173,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"All Ways slot system provides more chances to win\",\n    \"Multistep system with three levels adds excitement\",\n    \"Outstanding graphics that immerse players in the game\",\n    \"Higher RTP value means more chances to win big\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols and themes\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Leprechaun Rama Free: Exciting All Ways Slot Game\",\n  \"meta_description\": \"Discover why Leprechaun Rama is an exciting game with endless opportunities to win. Play now for free and experience the All Ways slot system!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Outstanding graphics and animation\",\n    \"All Ways slot system for more chances to win\",\n    \"Exciting multistep system with increasing jackpot\",\n    \"Higher RTP value for higher chances of winning\"\n  ],\n  \"cons\": [\n    \"Limited number of levels in the multistep system\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Leprechaun Rama for Free\",\n  \"meta_description\": \"Read our review of Leprechaun Rama and play for free. Enjoy the exciting gameplay and high RTP value.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 607,
-                    "completion_tokens": 143,
-                    "total_tokens": 750
+                    "prompt_tokens": 604,
+                    "completion_tokens": 128,
+                    "total_tokens": 732
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/leprechaun-rama.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Leprecha_9508fc84-1b92-4009-a178-4a1b8d2a7c3b_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Leprecha_9508fc84-1b92-4009-a178-4a1b8d2a7c3b_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Leprecha_9508fc84-1b92-4009-a178-4a1b8d2a7c3b_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Leprecha_9508fc84-1b92-4009-a178-4a1b8d2a7c3b_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Leprechaun Rama (Version 1).webp",
+        "game_reviews/processed_images/Leprechaun Rama (Version 2).webp",
+        "game_reviews/processed_images/Leprechaun Rama (Version 3).webp",
+        "game_reviews/processed_images/Leprechaun Rama (Version 4).webp"
+    ],
+    "slug": "leprechaun-rama",
+    "name": "Leprechaun Rama",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Leprechaun-Rama-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Leprechaun Rama for Free' ### Meta set: 'Read our review of Leprechaun Rama and play for free. Enjoy the exciting gameplay and high RTP value.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

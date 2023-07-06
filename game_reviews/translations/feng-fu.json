@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Chinese-themed design and lucky symbols enhance gameplay experience",
-                    "Use of Chinese ideograms adds an extra layer of depth and meaning",
-                    "Traditional slot game mechanics are ideal for experienced slot players",
-                    "Bonus function adds another opportunity to win big"
+                    "Chinese symbolism related to luck and wealth",
+                    "Lucky animals and Chinese zodiac theme",
+                    "Use of Chinese ideograms adds depth to the game",
+                    "Challenging gameplay for experienced slot players"
                 ],
                 "cons": [
-                    "Chinese ideograms can be confusing for new players",
-                    "Limited pay lines may not offer enough variety for some slot enthusiasts"
+                    "Difficulty for new players unfamiliar with Chinese ideograms",
+                    "Limited accessibility for non-Chinese culture enthusiasts"
                 ],
-                "meta_title": "Play Feng Fu for Free - Discover Chinese Symbolism and Lucky Animals",
-                "meta_description": "Explore traditional gameplay mechanics and try your luck with Chinese-themed symbols. Play Feng Fu for free and win big with bonus functions."
+                "meta_title": "Play Feng Fu Slot Game for Free - Soak in Chinese Symbolism",
+                "meta_description": "Play Feng Fu for free and explore Chinese symbolism related to luck and wealth."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Feng Fu\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nChinese symbolism\n\nFeng Fu is an online slot game that explores Chinese symbolism related to luck and wealth. The game design features ink paintings of typical Chinese elements such as mountains, trees, pagoda roofs, and bamboo scrolls representing the reels, making you feel like you are in ancient China. The game symbols are the animals of the Chinese zodiac, and two animals considered lucky in Chinese culture: the carp and maneki-neko.\n\nLucky animals and Chinese zodiac\n\nFeng Fu's symbols are inspired by the animals of the Chinese zodiac, such as the monkey, rooster, and goat, along with two animals considered lucky in Chinese culture: the carp and maneki-neko. The symbols represent the game's theme of luck and wealth. \n\nUse of Chinese ideograms\n\nFeng Fu takes a daring and unusual choice by replacing traditional playing card symbols with Chinese ideograms. The ideograms may confuse players not familiar with the language. However, it adds an extra layer of depth to the game's meaning, making it perfect for players with an interest in Chinese culture.\n\nGameplay mechanics\n\nFeng Fu is a traditional 5x3 online slot game with nine pay lines. With more pay lines, winning combinations are more difficult to achieve, but the value of the winnings is higher. The scatter symbol in the game is the Yin and Yang sign, which allows players to access the bonus function. Additionally, there is a gong or plate that acts as a scatter and wild symbol, substituting all the regular symbols. The game is perfect for experienced slot players looking to tackle new challenges.\n\nDifficulty for new players\n\nFor new players, the use of Chinese ideograms may make it difficult to distinguish between symbols and thus affect gameplay experience. However, once players familiarize themselves with the symbols, the gameplay is not too challenging. Also, the inclusion of the gong or plate symbol acting as a scatter and wild symbol makes it easier to achieve winning combinations. For a more accessible version of ideograms, players can try other oriental-themed slot games such as Benny the Panda.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Feng Fu\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nChinese symbolism\n\nFeng Fu is an online slot game that explores Chinese symbolism related to luck and wealth. The game design features ink paintings of typical Chinese elements such as mountains, trees, pagoda roofs, and bamboo scrolls representing the reels, making you feel like you are in ancient China. The game symbols are the animals of the Chinese zodiac, and two animals considered lucky in Chinese culture: the carp and maneki-neko.\n\nLucky animals and Chinese zodiac\n\nFeng Fu's symbols are inspired by the animals of the Chinese zodiac, such as the monkey, rooster, and goat, along with two animals considered lucky in Chinese culture: the carp and maneki-neko. The symbols represent the game's theme of luck and wealth. \n\nUse of Chinese ideograms\n\nFeng Fu takes a daring and unusual choice by replacing traditional playing card symbols with Chinese ideograms. The ideograms may confuse players not familiar with the language. However, it adds an extra layer of depth to the game's meaning, making it perfect for players with an interest in Chinese culture.\n\nGameplay mechanics\n\nFeng Fu is a traditional 5x3 online slot game with nine pay lines. With more pay lines, winning combinations are more difficult to achieve, but the value of the winnings is higher. The scatter symbol in the game is the Yin and Yang sign, which allows players to access the bonus function. Additionally, there is a gong or plate that acts as a scatter and wild symbol, substituting all the regular symbols. The game is perfect for experienced slot players looking to tackle new challenges.\n\nDifficulty for new players\n\nFor new players, the use of Chinese ideograms may make it difficult to distinguish between symbols and thus affect gameplay experience. However, once players familiarize themselves with the symbols, the gameplay is not too challenging. Also, the inclusion of the gong or plate symbol acting as a scatter and wild symbol makes it easier to achieve winning combinations. For a more accessible version of ideograms, players can try other oriental-themed slot games such as Benny the Panda.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEeoWyMT6mjuAZpCxD5F2mchnkWd",
+                "id": "chatcmpl-7WSdHZMFXd2mvtMhKgQzG156ibqpi",
                 "object": "chat.completion",
-                "created": 1687202210,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 599,
-                    "completion_tokens": 148,
-                    "total_tokens": 747
-                },
+                "created": 1687970915,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Chinese-themed design and lucky symbols enhance gameplay experience\",\n        \"Use of Chinese ideograms adds an extra layer of depth and meaning\",\n        \"Traditional slot game mechanics are ideal for experienced slot players\",\n        \"Bonus function adds another opportunity to win big\"\n    ],\n    \"cons\": [\n        \"Chinese ideograms can be confusing for new players\",\n        \"Limited pay lines may not offer enough variety for some slot enthusiasts\"\n    ],\n    \"meta_title\": \"Play Feng Fu for Free - Discover Chinese Symbolism and Lucky Animals\",\n    \"meta_description\": \"Explore traditional gameplay mechanics and try your luck with Chinese-themed symbols. Play Feng Fu for free and win big with bonus functions.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Chinese symbolism related to luck and wealth\",\n    \"Lucky animals and Chinese zodiac theme\",\n    \"Use of Chinese ideograms adds depth to the game\",\n    \"Challenging gameplay for experienced slot players\"\n  ],\n  \"cons\": [\n    \"Difficulty for new players unfamiliar with Chinese ideograms\",\n    \"Limited accessibility for non-Chinese culture enthusiasts\"\n  ],\n  \"meta_title\": \"Play Feng Fu Slot Game for Free - Soak in Chinese Symbolism\",\n  \"meta_description\": \"Play Feng Fu for free and explore Chinese symbolism related to luck and wealth.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 596,
+                    "completion_tokens": 127,
+                    "total_tokens": 723
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/feng-fu.json"
+    "filename": "game_reviews/translations/feng-fu.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_d8f9d0ea-7a2e-41dd-8803-0c319f8ef69c_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_d8f9d0ea-7a2e-41dd-8803-0c319f8ef69c_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_d8f9d0ea-7a2e-41dd-8803-0c319f8ef69c_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_d8f9d0ea-7a2e-41dd-8803-0c319f8ef69c_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "feng-fu",
+    "name": "Feng Fu",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/feng-fu-free-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Feng Fu Slot Game for Free - Soak in Chinese Symbolism' ### Meta set: 'Play Feng Fu for free and explore Chinese symbolism related to luck and wealth.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

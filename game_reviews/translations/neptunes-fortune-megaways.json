@@ -350,5 +350,488 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/neptunes-fortune-megaways.json",
+    "expand_free-spins_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Get Your Spin On With Free Spins!</h2>",
+                "content": "<p>If you manage to land Neptune's trident Scatter symbol four times in Neptune's Fortune Megaways, you'll get 10 Free Spins. Land it five times, and you'll be gifted with a dozen Free Spins! And if you're really killing it and hit six Scatters, you'll receive a whopping 15 Free Spins. During these spins, low-value symbols are eliminated, and Wilds continue to keep us on the edge of our seats with their multiplier potential. Now that's what we call a great catch!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Free Spins', 'content': \"If the Scatter (Neptune's trident) appears four times, we get 10 Free Spins. If it comes out five times, we're entitled to 12 Free Spins, and with six symbols, the Free Spins are 15. Low-value symbols are removed during Free Spins, and Wilds can continue to give us a multiplier as in the base game.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFN0d7myHf8eFTTzrnrNXzIJregf",
+                "object": "chat.completion",
+                "created": 1687443278,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Get Your Spin On With Free Spins!</h2>\",\n    \"content\": \"<p>If you manage to land Neptune's trident Scatter symbol four times in Neptune's Fortune Megaways, you'll get 10 Free Spins. Land it five times, and you'll be gifted with a dozen Free Spins! And if you're really killing it and hit six Scatters, you'll receive a whopping 15 Free Spins. During these spins, low-value symbols are eliminated, and Wilds continue to keep us on the edge of our seats with their multiplier potential. Now that's what we call a great catch!</p>\"\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 215,
+                    "completion_tokens": 138,
+                    "total_tokens": 353
+                }
+            }
+        }
+    ],
+    "expand_symbols-and-gameplay_1": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Symbols and Gameplay</h2>",
+                "content": "<p>Hold onto your seashells because Neptune's Fortune Megaways is brewing up some fun. The symbols come in two tiers: low-value playing cards from 10 to Ace and high-value thematic icons including a starfish, shell, octopus, and of course, Neptune himself. Keep an eye out for the Wild symbol - a shucking good oyster with a pearl that'll substitute for all symbols except the elusive Scatter. And let's not forget about the cascade function. After each winning combination, symbols explode like an underwater fireworks show and are replaced by others. That's what we call a splash hit!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Symbols and Gameplay', 'content': \"The symbols in Neptune's Fortune Megaways are of low and high value. The first group includes playing cards from 10 to Ace, while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune. The Wild symbol is an oyster with a pearl inside that substitutes for all symbols except the Scatter. The cascade function is also available, meaning that after each paying combination, winning symbols explode and are replaced by others.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFN7m88w50EGusDfC5CWjd4CUthd",
+                "object": "chat.completion",
+                "created": 1687443285,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{'headline': '<h2>Symbols and Gameplay</h2>', 'content': \"<p>Hold onto your seashells because Neptune's Fortune Megaways is brewing up some fun. The symbols come in two tiers: low-value playing cards from 10 to Ace and high-value thematic icons including a starfish, shell, octopus, and of course, Neptune himself. Keep an eye out for the Wild symbol - a shucking good oyster with a pearl that'll substitute for all symbols except the elusive Scatter. And let's not forget about the cascade function. After each winning combination, symbols explode like an underwater fireworks show and are replaced by others. That's what we call a splash hit!</p>\"}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 229,
+                    "completion_tokens": 145,
+                    "total_tokens": 374
+                }
+            }
+        }
+    ],
+    "expand_gameplay-features_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Gameplay Features</h2>",
+                "content": "<p>Neptune may be the king of the sea, but in \"Neptune’s Fortune Megaways\" the players are the rulers of the reels! This game offers 5 reels with rows that can vary between 3 and 6 - just like a box of chocolates, you never know what you are going to get!</p><p> With a minimum bet of 20 coins and the freedom to choose the value of each coin, players can organize their own underwater party without breaking the bank. And with the Megaways mechanics, there are 46,656 ways to win - that’s more ways than a mermaid has hairs on her tail! </p><p> But wait, there’s more! The slot also has the option to activate between 5 and 1,000 automatic spins - perfect for when you feel like taking a deep-sea break. And don’t worry about the odds, the RTP value is 96.03% - a higher chance of winning than finding Nemo. The only catch? The volatility is high, so hold onto your snorkel and enjoy the ride!</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Gameplay features', 'content': \"Neptune's Fortune Megaways has 5 reels with rows that can vary between 3 and 6. Its minimum bet is 20 coins, and the value of each coin is up to the player to decide. The Megaways mechanics provide a total of 46,656 ways to win, and the slot also has the option to activate between 5 and 1,000 automatic spins. Additionally, the RTP value is 96.03%, and the volatility is high.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFNEZXzSDkh1VbH8rTbLHIzV1Ann",
+                "object": "chat.completion",
+                "created": 1687443292,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{'headline': '<h2>Gameplay Features</h2>', 'content': '<p>Neptune may be the king of the sea, but in \"Neptune’s Fortune Megaways\" the players are the rulers of the reels! This game offers 5 reels with rows that can vary between 3 and 6 - just like a box of chocolates, you never know what you are going to get!</p><p> With a minimum bet of 20 coins and the freedom to choose the value of each coin, players can organize their own underwater party without breaking the bank. And with the Megaways mechanics, there are 46,656 ways to win - that’s more ways than a mermaid has hairs on her tail! </p><p> But wait, there’s more! The slot also has the option to activate between 5 and 1,000 automatic spins - perfect for when you feel like taking a deep-sea break. And don’t worry about the odds, the RTP value is 96.03% - a higher chance of winning than finding Nemo. The only catch? The volatility is high, so hold onto your snorkel and enjoy the ride!</p>'}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 234,
+                    "completion_tokens": 245,
+                    "total_tokens": 479
+                }
+            }
+        }
+    ],
+    "expand_graphics_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Graphics</h2>",
+                "content": "<p>Dive into the depths of an aquatic wonderland with Neptune's Fortune Megaways by iSoftBet! The graphics are absolutely stunning, with a game grid that's situated at the bottom of the sea amidst flowing seaweed and colorful corals. It almost feels like you're playing slots while scuba diving! Don't worry though, you won't need to hold your breath for long because there are start buttons conveniently located on the left side of the screen.</p><p>But what sets this game apart are the jackpots on the right! They're so big, even King Neptune himself would be impressed! And with all the exciting sea creatures spinning on the reels, you'll definitely have an ocean of fun playing this game! </p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Graphics', 'content': \"iSoftBet has done an excellent job graphically with Neptune's Fortune Megaways. The game grid is located at the bottom of the sea, surrounded by seaweed, corals, and other aquatic plants with jackpots on the right and start buttons on the left.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFNO5Tg0yqiv07d3D5d91p7lCYRv",
+                "object": "chat.completion",
+                "created": 1687443302,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Graphics</h2>\",\n    \"content\": \"<p>Dive into the depths of an aquatic wonderland with Neptune's Fortune Megaways by iSoftBet! The graphics are absolutely stunning, with a game grid that's situated at the bottom of the sea amidst flowing seaweed and colorful corals. It almost feels like you're playing slots while scuba diving! Don't worry though, you won't need to hold your breath for long because there are start buttons conveniently located on the left side of the screen.</p><p>But what sets this game apart are the jackpots on the right! They're so big, even King Neptune himself would be impressed! And with all the exciting sea creatures spinning on the reels, you'll definitely have an ocean of fun playing this game! </p>\"\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 190,
+                    "completion_tokens": 172,
+                    "total_tokens": 362
+                }
+            }
+        }
+    ],
+    "expand_symbol-design_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Symbol Design</h2>",
+                "content": "<p>Neptune's Fortune Megaways has a variety of symbols that will make you feel like you're swimming in the ocean. The low-value symbols may be simple playing cards, but they still have a nautical touch. The high-value symbols are beautiful and thematic, consisting of a starfish, a shell, an octopus, and none other than the God of the Sea himself, Neptune. You'll know when the Wild symbol appears on the reels, because it's an oyster with a pearl inside - it's like finding a pearl in an oyster, but better because it helps you win! And last but not least, we have the Scatter symbol: the infamous trident of Neptune himself. Catch three or more of these tridents and you'll unlock free spins, making you feel like you're in Atlantis itself.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Symbol design', 'content': \"The symbols in Neptune's Fortune Megaways comprise low and high-value symbols. Low-value symbols include playing cards from 10 to Ace while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune himself. The Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. The Scatter is the mythical Neptune's trident.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFNXWZsxPcSjJlhBZTLd8TK8hEEg",
+                "object": "chat.completion",
+                "created": 1687443311,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n\"headline\": \"<h2>Symbol Design</h2>\",\n\"content\": \"<p>Neptune's Fortune Megaways has a variety of symbols that will make you feel like you're swimming in the ocean. The low-value symbols may be simple playing cards, but they still have a nautical touch. The high-value symbols are beautiful and thematic, consisting of a starfish, a shell, an octopus, and none other than the God of the Sea himself, Neptune. You'll know when the Wild symbol appears on the reels, because it's an oyster with a pearl inside - it's like finding a pearl in an oyster, but better because it helps you win! And last but not least, we have the Scatter symbol: the infamous trident of Neptune himself. Catch three or more of these tridents and you'll unlock free spins, making you feel like you're in Atlantis itself.</p>\"\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 216,
+                    "completion_tokens": 188,
+                    "total_tokens": 404
+                }
+            }
+        }
+    ],
+    "expand_bonus-system_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>Bonus Bonanza</h2>",
+                "content": "<p>Boy oh boy, have you checked out the bonus system in Neptune's Fortune Megaways? It's a real game-changer! The cascading symbols feature is like watching a fireworks show - except you earn cash! Want to rule the seas while you play? The Wild symbol has your back! It can substitute for all symbols, except for the sneaky Scatter. Whenever the Wild appears, prepare to get bubbly. Random bubbles fly out of the Wild's mouth and pop onto one of four chests above the game grid. Your reward? A multiplier ranging from x2 to x5! But wait, there's more! Unlock the central chest to win one of four jackpots: Mini, Minor, Major, or Grand. If that wasn't enough excitement for you, get this - the Scatter symbol triggers Free Spins! During Free Spins, low-value symbols walk the plank, making way for the shiny high-value symbols. Even better, Wilds still give us multipliers, just like in the base game. Avast Ye! The Bonus Bonanza in Neptune's Fortune Megaways will make you the captain of your slot gaming fate! </p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'Bonus system', 'content': \"The bonus system in Neptune's Fortune Megaways is one of its strengths. The slot offers a cascade function, where winning symbols explode and are replaced by new ones. The Wild symbol comes to the player's aid by substituting for all symbols except the Scatter. Additionally, whenever the Wild appears, some bubbles rise from its mouth and randomly hit one of the four chests above the game grid, which gives us a multiplier between x2 and x5. Also, if the central chest opens, then we will have a chance to win one of the available jackpots: Mini, Minor, Major, and Grand. Furthermore, the Scatter symbol triggers Free Spins, where low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFNe3CzMq1dwCdZllU47FgqGEtoZ",
+                "object": "chat.completion",
+                "created": 1687443318,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"headline\": \"<h2>Bonus Bonanza</h2>\",\n    \"content\":\"<p>Boy oh boy, have you checked out the bonus system in Neptune's Fortune Megaways? It's a real game-changer! The cascading symbols feature is like watching a fireworks show - except you earn cash! Want to rule the seas while you play? The Wild symbol has your back! It can substitute for all symbols, except for the sneaky Scatter. Whenever the Wild appears, prepare to get bubbly. Random bubbles fly out of the Wild's mouth and pop onto one of four chests above the game grid. Your reward? A multiplier ranging from x2 to x5! But wait, there's more! Unlock the central chest to win one of four jackpots: Mini, Minor, Major, or Grand. If that wasn't enough excitement for you, get this - the Scatter symbol triggers Free Spins! During Free Spins, low-value symbols walk the plank, making way for the shiny high-value symbols. Even better, Wilds still give us multipliers, just like in the base game. Avast Ye! The Bonus Bonanza in Neptune's Fortune Megaways will make you the captain of your slot gaming fate! </p>\"\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 292,
+                    "completion_tokens": 258,
+                    "total_tokens": 550
+                }
+            }
+        }
+    ],
+    "expand_rtp-and-volatility_2": [
+        {
+            "version": 1,
+            "response": {
+                "headline": "<h2>RTP and Volatility: The Highs and Lows of Neptune’s Fortune Megaways</h2>",
+                "content": "<p>If you’re looking for an online slot game that can help you score a big win, Neptune’s Fortune Megaways is the slot machine that will get your heart pumping. With an impressive RTP of 96.03%, you can count on high returns, even if the game is on the high-volatility side. </p><p>But hey, when you know that the less frequent wins result in much higher rewards, it’s a trade-off that’s well worth it! Who needs smaller wins when you can hit the jackpot big time, amirite? So, cross your fingers, clench your cheeks, and spin that reel - you never know what treasures the sea god, Neptune, has in store for you. Just make sure not to drown in excitement or exceed your gaming budget, or you’ll be as poor as a landlubber.</p>"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nI'm writing a review for the casino slot game \"Neptune’s Fortune Megaways\".\n\nBelow is a JSON with the text for a sub section of this review.\n\n- Please rephrase the content\n- Make a few jokes and funny remarks.\n- Encompass the headline with <h2> tags (capitalize according to AP style)\n- Encompass each paragraph with <p> html tags\n- Respond with a JSON with two keys: \"headline\" and \"content\"!\n\n{'headline': 'RTP and volatility', 'content': \"Neptune's Fortune Megaways boasts an RTP value of 96.03% and high volatility. The less frequent wins result in much higher rewards.\"}\n         ",
+            "log": {
+                "id": "chatcmpl-7UFNpennjeMfPNShtFeHprC8wvMOX",
+                "object": "chat.completion",
+                "created": 1687443329,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{'headline': '<h2>RTP and Volatility: The Highs and Lows of Neptune’s Fortune Megaways</h2>', 'content': '<p>If you’re looking for an online slot game that can help you score a big win, Neptune’s Fortune Megaways is the slot machine that will get your heart pumping. With an impressive RTP of 96.03%, you can count on high returns, even if the game is on the high-volatility side. </p><p>But hey, when you know that the less frequent wins result in much higher rewards, it’s a trade-off that’s well worth it! Who needs smaller wins when you can hit the jackpot big time, amirite? So, cross your fingers, clench your cheeks, and spin that reel - you never know what treasures the sea god, Neptune, has in store for you. Just make sure not to drown in excitement or exceed your gaming budget, or you’ll be as poor as a landlubber.</p>'}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 168,
+                    "completion_tokens": 209,
+                    "total_tokens": 377
+                }
+            }
+        }
+    ],
+    "meta": [
+        {
+            "version": 1,
+            "response": {
+                "pros": [
+                    "Excellent bonus system with four jackpots",
+                    "46,656 Megaways to win and up to 6 rows",
+                    "Free Spins with removed low-value symbols",
+                    "Cascade function available for more winning chances"
+                ],
+                "cons": [
+                    "High volatility, less frequent wins",
+                    "Relatively low RTP value of 96.03%"
+                ],
+                "meta_title": "Play Neptune's Fortune Megaways for Free - Slot Review",
+                "meta_description": "Discover the excellent bonus system, Megaways, jackpots, and symbols of Neptune's Fortune Megaways. Play this high volatility slot for free."
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Neptune’s Fortune Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBonus System\n\nNeptune's Fortune Megaways has an excellent bonus system offered. The Wild symbol is an oyster with a pearl inside, substituting for all symbols except for the Scatter. Whenever it appears, we can win a multiplier between x2 and x5. If the central chest opens, then we will have a chance to win one of the available jackpots: Mini, Minor, Major, and Grand.\n\nMegaways\n\nThis slot offers 46,656 Megaways to win, and the grid has 5 reels, but the rows can vary between 3 and 6. It also offers the option to activate between 5 and 1,000 automatic spins. The RTP value is 96.03%, and the volatility is high, which means that we'll have less frequent wins but much higher rewards.\n\nJackpot Feature\n\nNeptune's Fortune Megaways offers four jackpots, namely Mini, Minor, Major, and Grand. The central chest can open after the Wild symbol appears, giving us a chance to win any of the available jackpots. The Mini is worth 20x the bet, Minor 50x, Major 200x, and Grand 1,000x.\n\nFree Spins\n\nIf the Scatter (Neptune's trident) appears four times, we get 10 Free Spins. If it comes out five times, we're entitled to 12 Free Spins, and with six symbols, the Free Spins are 15. Low-value symbols are removed during Free Spins, and Wilds can continue to give us a multiplier as in the base game.\n\nSymbols and Gameplay\n\nThe symbols in Neptune's Fortune Megaways are of low and high value. The first group includes playing cards from 10 to Ace, while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune. The Wild symbol is an oyster with a pearl inside that substitutes for all symbols except the Scatter. The cascade function is also available, meaning that after each paying combination, winning symbols explode and are replaced by others.\n\n        \n            ",
+            "log": {
+                "id": "chatcmpl-7UFNxHmbN9kW08xfxJK2CWbpCcteF",
+                "object": "chat.completion",
+                "created": 1687443337,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"pros\": [\n        \"Excellent bonus system with four jackpots\",\n        \"46,656 Megaways to win and up to 6 rows\",\n        \"Free Spins with removed low-value symbols\",\n        \"Cascade function available for more winning chances\"\n    ],\n    \"cons\": [\n        \"High volatility, less frequent wins\",\n        \"Relatively low RTP value of 96.03%\"\n    ],\n    \"meta_title\": \"Play Neptune's Fortune Megaways for Free - Slot Review\",\n    \"meta_description\": \"Discover the excellent bonus system, Megaways, jackpots, and symbols of Neptune's Fortune Megaways. Play this high volatility slot for free.\" \n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 606,
+                    "completion_tokens": 142,
+                    "total_tokens": 748
+                }
+            }
+        },
+        {
+            "version": 2,
+            "response": {
+                "pros": [
+                    "Megaways mechanics providing up to 46,656 ways to win",
+                    "High-quality graphics and aquatic-themed design",
+                    "Excellent bonus system includes jackpots, multipliers, and Free Spins",
+                    "High RTP value of 96.03%"
+                ],
+                "cons": [
+                    "High volatility may not suit all players",
+                    "Minimum bet is relatively high at 20 coins"
+                ],
+                "meta_title": "Play Neptune's Fortune Megaways Free | Game Review",
+                "meta_description": "Explore the treasures of the deep blue sea in Neptune's Fortune Megaways. An aquatic-themed slot with great graphics and bonus features. Play free now!"
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Neptune’s Fortune Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nNeptune's Fortune Megaways has 5 reels with rows that can vary between 3 and 6. Its minimum bet is 20 coins, and the value of each coin is up to the player to decide. The Megaways mechanics provide a total of 46,656 ways to win, and the slot also has the option to activate between 5 and 1,000 automatic spins. Additionally, the RTP value is 96.03%, and the volatility is high.\n\nGraphics\n\niSoftBet has done an excellent job graphically with Neptune's Fortune Megaways. The game grid is located at the bottom of the sea, surrounded by seaweed, corals, and other aquatic plants with jackpots on the right and start buttons on the left.\n\nSymbol design\n\nThe symbols in Neptune's Fortune Megaways comprise low and high-value symbols. Low-value symbols include playing cards from 10 to Ace while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune himself. The Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. The Scatter is the mythical Neptune's trident.\n\nBonus system\n\nThe bonus system in Neptune's Fortune Megaways is one of its strengths. The slot offers a cascade function, where winning symbols explode and are replaced by new ones. The Wild symbol comes to the player's aid by substituting for all symbols except the Scatter. Additionally, whenever the Wild appears, some bubbles rise from its mouth and randomly hit one of the four chests above the game grid, which gives us a multiplier between x2 and x5. Also, if the central chest opens, then we will have a chance to win one of the available jackpots: Mini, Minor, Major, and Grand. Furthermore, the Scatter symbol triggers Free Spins, where low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game.\n\nRTP and volatility\n\nNeptune's Fortune Megaways boasts an RTP value of 96.03% and high volatility. The less frequent wins result in much higher rewards.\n\n        \n            ",
+            "log": {
+                "id": "chatcmpl-7UFO0i2LH6gnwzBCVo7ihFON5AAqV",
+                "object": "chat.completion",
+                "created": 1687443340,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"pros\": [\n        \"Megaways mechanics providing up to 46,656 ways to win\",\n        \"High-quality graphics and aquatic-themed design\",\n        \"Excellent bonus system includes jackpots, multipliers, and Free Spins\",\n        \"High RTP value of 96.03%\"\n    ],\n    \"cons\": [\n        \"High volatility may not suit all players\",\n        \"Minimum bet is relatively high at 20 coins\"\n    ],\n    \"meta_title\": \"Play Neptune's Fortune Megaways Free | Game Review\",\n    \"meta_description\": \"Explore the treasures of the deep blue sea in Neptune's Fortune Megaways. An aquatic-themed slot with great graphics and bonus features. Play free now!\" \n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 617,
+                    "completion_tokens": 148,
+                    "total_tokens": 765
+                }
+            }
+        }
+    ],
+    "faq": [
+        {
+            "version": 1,
+            "response": {
+                "faq": [
+                    {
+                        "question": "What is Neptune's Fortune Megaways?",
+                        "answer": "Neptune's Fortune Megaways is an online slot game based on the theme of Neptune, lord of the sea and storms."
+                    },
+                    {
+                        "question": "What is the RTP value of Neptune's Fortune Megaways?",
+                        "answer": "The RTP value of Neptune's Fortune Megaways is 96.03%."
+                    },
+                    {
+                        "question": "What is the minimum bet for Neptune's Fortune Megaways?",
+                        "answer": "The minimum bet for Neptune's Fortune Megaways is 20 coins."
+                    },
+                    {
+                        "question": "How many ways to win are there in Neptune's Fortune Megaways?",
+                        "answer": "There are 46,656 ways to win in Neptune's Fortune Megaways."
+                    },
+                    {
+                        "question": "Does Neptune's Fortune Megaways have an automatic spin feature?",
+                        "answer": "Yes, Neptune's Fortune Megaways offers the option to activate between 5 and 1,000 automatic spins."
+                    },
+                    {
+                        "question": "What is the highest jackpot in Neptune's Fortune Megaways?",
+                        "answer": "The Grand Jackpot in Neptune's Fortune Megaways is 1,000x the bet."
+                    },
+                    {
+                        "question": "What is the Scatter symbol in Neptune's Fortune Megaways?",
+                        "answer": "The Scatter symbol in Neptune's Fortune Megaways is Neptune's trident."
+                    },
+                    {
+                        "question": "What happens during Free Spins in Neptune's Fortune Megaways?",
+                        "answer": "During Free Spins in Neptune's Fortune Megaways, low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game."
+                    }
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Neptune’s Fortune Megaways\".\n\nPlease provide an FAQ:\n\n- 8 questions\n- Use simple language and provide practical takeaways.\n- Respond with a JSON!\n- Use the key \"faq\" and an array with the keys \"question\" and \"answer\". \n\nReview: Neptune’s Fortune Megaways\n\nIf we were to rank the most popular themes among slot players, epic stories would definitely be at the top of the list. Neptune's Fortune Megaways is also part of this trend, as the title suggests, with the protagonist being Neptune, lord of the sea and storms, venerated by both the Romans and the Greeks under the name of Poseidon.\n\nAs usual, iSoftBet has done an excellent job graphically, although we must say that the real strength of the slot lies in the bonus system offered. The game grid is located at the bottom of the sea, surrounded by seaweed, corals, and other aquatic plants, with jackpots on the right and the start buttons on the left.\n\nFeatures of Neptune's Fortune Megaways\nIn this slot, the grid has 5 reels, but the rows can vary between 3 and 6. The minimum bet is 20 coins, and we decide the value of each coin. If we opt for the lowest value, which is €0.01, each spin would only cost us €0.20. Like all Megaways slots, there are plenty of ways to win, with 46,656 in total. The slot also offers the option to activate between 5 and 1,000 automatic spins.\n\nThe RTP value is 96.03%, and the volatility is high, so we'll have less frequent wins but much higher rewards.\n\nSymbols and functionality\nAmong the features of Neptune's Fortune Megaways is the cascade function, meaning that after each paying combination, winning symbols explode and are replaced by others.\n\nThe symbols are of low and high value. As usual, the first group includes playing cards from 10 to Ace, while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune.\n\nThe Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. Whenever it appears, some bubbles rise from its mouth and randomly hit one of the four chests above the game grid. Most of the time, the chest will open and give us a multiplier between x2 and x5. If the central chest opens, then we will have a chance to win one of the available jackpots:\n\nMini: 20x the bet\nMinor: 50x the bet\nMajor: 200x the bet\nGrand: 1,000x the bet\n\nThe Scatter is Neptune's trident: if it appears four times, we get 10 Free Spins, with five symbols, we are entitled to 12 Free Spins, and with six symbols, the Free Spins are 15.\n\nDuring Free Spins, low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game. \n\nExperience the thrill of Neptune's Fortune Megaways and dive into an epic underwater adventure where you can win big!\n            ",
+            "log": {
+                "id": "chatcmpl-7UFOA8wNj9MCfdd8XC3aGKT5azwjN",
+                "object": "chat.completion",
+                "created": 1687443350,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"faq\": [\n        {\n            \"question\": \"What is Neptune's Fortune Megaways?\",\n            \"answer\": \"Neptune's Fortune Megaways is an online slot game based on the theme of Neptune, lord of the sea and storms.\"\n        },\n        {\n            \"question\": \"What is the RTP value of Neptune's Fortune Megaways?\",\n            \"answer\": \"The RTP value of Neptune's Fortune Megaways is 96.03%.\"\n        },\n        {\n            \"question\": \"What is the minimum bet for Neptune's Fortune Megaways?\",\n            \"answer\": \"The minimum bet for Neptune's Fortune Megaways is 20 coins.\"\n        },\n        {\n            \"question\": \"How many ways to win are there in Neptune's Fortune Megaways?\",\n            \"answer\": \"There are 46,656 ways to win in Neptune's Fortune Megaways.\"\n        },\n        {\n            \"question\": \"Does Neptune's Fortune Megaways have an automatic spin feature?\",\n            \"answer\": \"Yes, Neptune's Fortune Megaways offers the option to activate between 5 and 1,000 automatic spins.\"\n        },\n        {\n            \"question\": \"What is the highest jackpot in Neptune's Fortune Megaways?\",\n            \"answer\": \"The Grand Jackpot in Neptune's Fortune Megaways is 1,000x the bet.\"\n        },\n        {\n            \"question\": \"What is the Scatter symbol in Neptune's Fortune Megaways?\",\n            \"answer\": \"The Scatter symbol in Neptune's Fortune Megaways is Neptune's trident.\"\n        },\n        {\n            \"question\": \"What happens during Free Spins in Neptune's Fortune Megaways?\",\n            \"answer\": \"During Free Spins in Neptune's Fortune Megaways, low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game.\"\n        }\n    ]\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 683,
+                    "completion_tokens": 377,
+                    "total_tokens": 1060
+                }
+            }
+        },
+        {
+            "version": 2,
+            "response": {
+                "faq": [
+                    {
+                        "question": "What is Neptune's Fortune Megaways?",
+                        "answer": "Neptune's Fortune Megaways is an online slot game with Neptune, lord of the sea and storms, as the protagonist. It has a 5-reel grid, but the number of rows can vary between 3 and 6, offering a total of 46,656 ways to win."
+                    },
+                    {
+                        "question": "What is the minimum bet in Neptune's Fortune Megaways?",
+                        "answer": "The minimum bet is 20 coins, and you can decide the value of each coin. If you opt for the lowest value, which is €0.01, each spin would only cost €0.20."
+                    },
+                    {
+                        "question": "What is the RTP in Neptune's Fortune Megaways?",
+                        "answer": "The RTP value is 96.03%, and the volatility is high, meaning that you will have less frequent wins but much higher rewards."
+                    },
+                    {
+                        "question": "What are the high-value symbols in Neptune's Fortune Megaways?",
+                        "answer": "The high-value symbols in Neptune's Fortune Megaways are the starfish, the shell, the octopus, and Neptune himself."
+                    },
+                    {
+                        "question": "What is the Wild symbol in Neptune's Fortune Megaways?",
+                        "answer": "The Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. Whenever it appears, some bubbles rise from its mouth, and it randomly hits one of the four chests above the game grid, giving you a multiplier between x2 and x5 or a chance to win a jackpot."
+                    },
+                    {
+                        "question": "What is the Scatter symbol in Neptune's Fortune Megaways?",
+                        "answer": "The Scatter symbol is Neptune's trident. If you get four Scatters, you get 10 Free Spins, with five symbols, you are entitled to 12 Free Spins, and with six symbols, the Free Spins are 15."
+                    },
+                    {
+                        "question": "What happens during Free Spins in Neptune's Fortune Megaways?",
+                        "answer": "During Free Spins, low-value symbols are removed, and Wilds can continue to give you a multiplier as in the base game."
+                    },
+                    {
+                        "question": "Is Neptune's Fortune Megaways a good choice for players who love epic stories?",
+                        "answer": "Yes, Neptune's Fortune Megaways is an excellent choice for players who love epic stories, as the game is set underwater, surrounded by seaweed, corals, and other aquatic plants, with Neptune as the protagonist."
+                    }
+                ]
+            },
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\nBelow is a review of the game \"Neptune’s Fortune Megaways\".\n\nPlease provide an FAQ:\n\n- 8 questions\n- Use simple language and provide practical takeaways.\n- Respond with a JSON!\n- Use the key \"faq\" and an array with the keys \"question\" and \"answer\". \n\nReview: Neptune’s Fortune Megaways\n\nIf we were to rank the most popular themes among slot players, epic stories would definitely be at the top of the list. Neptune's Fortune Megaways is also part of this trend, as the title suggests, with the protagonist being Neptune, lord of the sea and storms, venerated by both the Romans and the Greeks under the name of Poseidon.\n\nAs usual, iSoftBet has done an excellent job graphically, although we must say that the real strength of the slot lies in the bonus system offered. The game grid is located at the bottom of the sea, surrounded by seaweed, corals, and other aquatic plants, with jackpots on the right and the start buttons on the left.\n\nFeatures of Neptune's Fortune Megaways\nIn this slot, the grid has 5 reels, but the rows can vary between 3 and 6. The minimum bet is 20 coins, and we decide the value of each coin. If we opt for the lowest value, which is €0.01, each spin would only cost us €0.20. Like all Megaways slots, there are plenty of ways to win, with 46,656 in total. The slot also offers the option to activate between 5 and 1,000 automatic spins.\n\nThe RTP value is 96.03%, and the volatility is high, so we'll have less frequent wins but much higher rewards.\n\nSymbols and functionality\nAmong the features of Neptune's Fortune Megaways is the cascade function, meaning that after each paying combination, winning symbols explode and are replaced by others.\n\nThe symbols are of low and high value. As usual, the first group includes playing cards from 10 to Ace, while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune.\n\nThe Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. Whenever it appears, some bubbles rise from its mouth and randomly hit one of the four chests above the game grid. Most of the time, the chest will open and give us a multiplier between x2 and x5. If the central chest opens, then we will have a chance to win one of the available jackpots:\n\nMini: 20x the bet\nMinor: 50x the bet\nMajor: 200x the bet\nGrand: 1,000x the bet\n\nThe Scatter is Neptune's trident: if it appears four times, we get 10 Free Spins, with five symbols, we are entitled to 12 Free Spins, and with six symbols, the Free Spins are 15.\n\nDuring Free Spins, low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game. \n\nExperience the thrill of Neptune's Fortune Megaways and dive into an epic underwater adventure where you can win big!\n            ",
+            "log": {
+                "id": "chatcmpl-7UFOObbHDR8SsreWuQ1FktpL6sX3t",
+                "object": "chat.completion",
+                "created": 1687443364,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\n    \"faq\": [\n        {\n            \"question\": \"What is Neptune's Fortune Megaways?\",\n            \"answer\": \"Neptune's Fortune Megaways is an online slot game with Neptune, lord of the sea and storms, as the protagonist. It has a 5-reel grid, but the number of rows can vary between 3 and 6, offering a total of 46,656 ways to win.\"\n        },\n        {\n            \"question\": \"What is the minimum bet in Neptune's Fortune Megaways?\",\n            \"answer\": \"The minimum bet is 20 coins, and you can decide the value of each coin. If you opt for the lowest value, which is €0.01, each spin would only cost €0.20.\"\n        },\n        {\n            \"question\": \"What is the RTP in Neptune's Fortune Megaways?\",\n            \"answer\": \"The RTP value is 96.03%, and the volatility is high, meaning that you will have less frequent wins but much higher rewards.\"\n        },\n        {\n            \"question\": \"What are the high-value symbols in Neptune's Fortune Megaways?\",\n            \"answer\": \"The high-value symbols in Neptune's Fortune Megaways are the starfish, the shell, the octopus, and Neptune himself.\"\n        },\n        {\n            \"question\": \"What is the Wild symbol in Neptune's Fortune Megaways?\",\n            \"answer\": \"The Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. Whenever it appears, some bubbles rise from its mouth, and it randomly hits one of the four chests above the game grid, giving you a multiplier between x2 and x5 or a chance to win a jackpot.\"\n        },\n        {\n            \"question\": \"What is the Scatter symbol in Neptune's Fortune Megaways?\",\n            \"answer\": \"The Scatter symbol is Neptune's trident. If you get four Scatters, you get 10 Free Spins, with five symbols, you are entitled to 12 Free Spins, and with six symbols, the Free Spins are 15.\"\n        },\n        {\n            \"question\": \"What happens during Free Spins in Neptune's Fortune Megaways?\",\n            \"answer\": \"During Free Spins, low-value symbols are removed, and Wilds can continue to give you a multiplier as in the base game.\"\n        },\n        {\n            \"question\": \"Is Neptune's Fortune Megaways a good choice for players who love epic stories?\",\n            \"answer\": \"Yes, Neptune's Fortune Megaways is an excellent choice for players who love epic stories, as the game is set underwater, surrounded by seaweed, corals, and other aquatic plants, with Neptune as the protagonist.\"\n        }\n    ]\n}"
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 683,
+                    "completion_tokens": 561,
+                    "total_tokens": 1244
+                }
+            }
+        }
+    ],
+    "dalle-prompt": [
+        {
+            "version": 1,
+            "response": "Prompt: \nCreate a feature image for Neptune's Fortune Megaways that captures the game's underwater adventure theme and main character. The image should be in a cartoon style and feature a happy Maya warrior with glasses. The warrior should be diving underwater, surrounded by seaweed, corals, and other aquatic plants. In the background, we should see the game grid with Neptune's Fortune Megaways title written in bold. The warrior should be holding Neptune's trident in one hand and a handful of gold coins in the other. The image should convey the thrill of the game and the possibility of winning big.",
+            "role": "You are an experienced writer in the field of online slot games.",
+            "prompt": "\n        Below is a review of the game \"Neptune’s Fortune Megaways\".\n\n        Please provide a detailed prompt for DALLE to create a feature image fitting the game\n        \n        - The image should be in cartoon style\n        - The should feature a happy Maya warrior with glasses\n\n        Review: Neptune’s Fortune Megaways\n\nIf we were to rank the most popular themes among slot players, epic stories would definitely be at the top of the list. Neptune's Fortune Megaways is also part of this trend, as the title suggests, with the protagonist being Neptune, lord of the sea and storms, venerated by both the Romans and the Greeks under the name of Poseidon.\n\nAs usual, iSoftBet has done an excellent job graphically, although we must say that the real strength of the slot lies in the bonus system offered. The game grid is located at the bottom of the sea, surrounded by seaweed, corals, and other aquatic plants, with jackpots on the right and the start buttons on the left.\n\nFeatures of Neptune's Fortune Megaways\nIn this slot, the grid has 5 reels, but the rows can vary between 3 and 6. The minimum bet is 20 coins, and we decide the value of each coin. If we opt for the lowest value, which is €0.01, each spin would only cost us €0.20. Like all Megaways slots, there are plenty of ways to win, with 46,656 in total. The slot also offers the option to activate between 5 and 1,000 automatic spins.\n\nThe RTP value is 96.03%, and the volatility is high, so we'll have less frequent wins but much higher rewards.\n\nSymbols and functionality\nAmong the features of Neptune's Fortune Megaways is the cascade function, meaning that after each paying combination, winning symbols explode and are replaced by others.\n\nThe symbols are of low and high value. As usual, the first group includes playing cards from 10 to Ace, while the second group includes thematic icons: the starfish, the shell, the octopus, and Neptune.\n\nThe Wild symbol is an oyster with a pearl inside, substituting for all symbols except the Scatter. Whenever it appears, some bubbles rise from its mouth and randomly hit one of the four chests above the game grid. Most of the time, the chest will open and give us a multiplier between x2 and x5. If the central chest opens, then we will have a chance to win one of the available jackpots:\n\nMini: 20x the bet\nMinor: 50x the bet\nMajor: 200x the bet\nGrand: 1,000x the bet\n\nThe Scatter is Neptune's trident: if it appears four times, we get 10 Free Spins, with five symbols, we are entitled to 12 Free Spins, and with six symbols, the Free Spins are 15.\n\nDuring Free Spins, low-value symbols are removed, and Wilds can continue to give us a multiplier as in the base game. \n\nExperience the thrill of Neptune's Fortune Megaways and dive into an epic underwater adventure where you can win big!\n        ",
+            "log": {
+                "id": "chatcmpl-7UFOltTCyF60Ve0eEH9qpUdTgOn8Q",
+                "object": "chat.completion",
+                "created": 1687443387,
+                "model": "gpt-3.5-turbo-0301",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "Prompt: \nCreate a feature image for Neptune's Fortune Megaways that captures the game's underwater adventure theme and main character. The image should be in a cartoon style and feature a happy Maya warrior with glasses. The warrior should be diving underwater, surrounded by seaweed, corals, and other aquatic plants. In the background, we should see the game grid with Neptune's Fortune Megaways title written in bold. The warrior should be holding Neptune's trident in one hand and a handful of gold coins in the other. The image should convey the thrill of the game and the possibility of winning big."
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 678,
+                    "completion_tokens": 121,
+                    "total_tokens": 799
+                }
+            }
+        }
+    ],
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Neptunes_Fortune_Megaw_d7f1981d-a37b-485c-bda0-5393c4857d82_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Neptunes_Fortune_Megaw_d7f1981d-a37b-485c-bda0-5393c4857d82_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Neptunes_Fortune_Megaw_d7f1981d-a37b-485c-bda0-5393c4857d82_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Neptunes_Fortune_Megaw_d7f1981d-a37b-485c-bda0-5393c4857d82_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Neptunes Fortune Megaways (Version 1).webp",
+        "game_reviews/processed_images/Neptunes Fortune Megaways (Version 2).webp",
+        "game_reviews/processed_images/Neptunes Fortune Megaways (Version 4).webp",
+        "game_reviews/processed_images/Neptunes Fortune Megaways (Version 3).webp"
+    ],
+    "slug": "neptunes-fortune-megaways",
+    "name": "Neptune’s Fortune Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Neptunes-Fortune-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Neptune's Fortune Megaways for Free - Slot Review' ### Meta set: 'Discover the excellent bonus system, Megaways, jackpots, and symbols of Neptune's Fortune Megaways. Play this high volatility slot for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

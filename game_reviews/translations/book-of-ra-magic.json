@@ -926,15 +926,19 @@
     ],
     "filename": "game_reviews/translations/book-of-ra-magic.json",
     "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_2.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_3.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__85cff3e1-79ad-4f9d-8cd6-ff6ca56dd721_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Ra Magic (Version 2).webp",
-        "game_reviews/processed_images/Book Of Ra Magic (Version 4).webp",
         "game_reviews/processed_images/Book Of Ra Magic (Version 3).webp",
-        "game_reviews/processed_images/Book Of Ra Magic (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Book Of Ra Magic (Version 1).webp",
+        "game_reviews/processed_images/Book Of Ra Magic (Version 4).webp"
+    ],
+    "slug": "book-of-ra-magic",
+    "name": "Book of Ra Magic",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

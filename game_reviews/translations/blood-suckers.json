@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Simple gameplay with traditional symbols",
                     "High RTP of 98%",
-                    "Traditional Wild and Scatter symbols",
                     "Well-designed vampire-themed graphics",
-                    "Fun Bonus game"
+                    "Exciting Bonus game"
                 ],
                 "cons": [
-                    "Limited Bonus game",
+                    "Limited Bonus features",
                     "No progressive jackpot"
                 ],
-                "meta_title": "Play Blood Suckers Free: Read Our Review | NetEnt Slot Game",
-                "meta_description": "Read our review of Blood Suckers by NetEnt! Play this vampire-themed slot game with high RTP for free, and enjoy traditional features and a fun Bonus game."
+                "meta_title": "Play Blood Suckers Free - Review of NetEnt's Vampire-Themed Slot",
+                "meta_description": "Play Blood Suckers free and enjoy simple gameplay, high RTP, and exciting Bonus game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Blood Suckers\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlood Suckers\n\nBlood Suckers is a vampire-themed slot game by NetEnt, known for its simple gameplay and traditional Wild and Scatter symbols, as well as a single Bonus game.\n\nGameplay\n\nBlood Suckers offers a classic slot machine experience with 5 reels, 25 paylines, and a max bet of €50. The game has an Autoplay feature, and the graphics are well-designed in a comic book style, with a background of a foggy alley and creepy vampire characters as symbols.\n\nReturn to Player (RTP)\n\nBlood Suckers has a high RTP of 98%, providing players with better odds of winning. This RTP rate is above average for online slot games and is an attractive feature for players looking to get consistent wins while enjoying the game.\n\nSymbols\n\nBlood Suckers features symbols that are all related to the vampire theme, including different vampire characters, garlic, a magic potion, and a Bible with a crucifix. The Wild symbol is a vampire sucking blood from a girl's neck, while the Scatter is a vampire bride. The symbols are well-designed and fit with the game's overall theme.\n\nBonus Game\n\nThe Bonus game in Blood Suckers is triggered by landing three Bonus symbols on the reels. In the Bonus game, players are taken to a funeral chamber where they must click on coffins to open them and defeat vampires. If a bat comes out of a coffin, the game immediately ends. This Bonus game is an exciting and fun feature of the Blood Suckers slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Blood Suckers\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlood Suckers\n\nBlood Suckers is a vampire-themed slot game by NetEnt, known for its simple gameplay and traditional Wild and Scatter symbols, as well as a single Bonus game.\n\nGameplay\n\nBlood Suckers offers a classic slot machine experience with 5 reels, 25 paylines, and a max bet of €50. The game has an Autoplay feature, and the graphics are well-designed in a comic book style, with a background of a foggy alley and creepy vampire characters as symbols.\n\nReturn to Player (RTP)\n\nBlood Suckers has a high RTP of 98%, providing players with better odds of winning. This RTP rate is above average for online slot games and is an attractive feature for players looking to get consistent wins while enjoying the game.\n\nSymbols\n\nBlood Suckers features symbols that are all related to the vampire theme, including different vampire characters, garlic, a magic potion, and a Bible with a crucifix. The Wild symbol is a vampire sucking blood from a girl's neck, while the Scatter is a vampire bride. The symbols are well-designed and fit with the game's overall theme.\n\nBonus Game\n\nThe Bonus game in Blood Suckers is triggered by landing three Bonus symbols on the reels. In the Bonus game, players are taken to a funeral chamber where they must click on coffins to open them and defeat vampires. If a bat comes out of a coffin, the game immediately ends. This Bonus game is an exciting and fun feature of the Blood Suckers slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QHfySVqRYroKFhIPRoyHRbzWXw3h",
+                "id": "chatcmpl-7WOcQPyUpENdTPxHY2siztMO4ftTK",
                 "object": "chat.completion",
-                "created": 1686498830,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 491,
-                    "completion_tokens": 122,
-                    "total_tokens": 613
-                },
+                "created": 1687955486,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 98%\",\n        \"Traditional Wild and Scatter symbols\",\n        \"Well-designed vampire-themed graphics\",\n        \"Fun Bonus game\"\n    ],\n    \"cons\": [\n        \"Limited Bonus game\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Blood Suckers Free: Read Our Review | NetEnt Slot Game\",\n    \"meta_description\": \"Read our review of Blood Suckers by NetEnt! Play this vampire-themed slot game with high RTP for free, and enjoy traditional features and a fun Bonus game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay with traditional symbols\",\n    \"High RTP of 98%\",\n    \"Well-designed vampire-themed graphics\",\n    \"Exciting Bonus game\"\n  ],\n  \"cons\": [\n    \"Limited Bonus features\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Blood Suckers Free - Review of NetEnt's Vampire-Themed Slot\",\n  \"meta_description\": \"Play Blood Suckers free and enjoy simple gameplay, high RTP, and exciting Bonus game.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 488,
+                    "completion_tokens": 108,
+                    "total_tokens": 596
+                }
             }
         },
         {
@@ -811,15 +811,19 @@
     ],
     "filename": "game_reviews/translations/blood-suckers.json",
     "raw_feature_images": [
-        "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_3.png",
+        "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_2.png",
         "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_1.png",
         "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_4.png",
-        "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_2.png"
+        "arved__Create_a_Feature_Image_Prompt_Design_a_cartoon-style_ima_4ab840b8-9af0-4a3f-9f21-3a0c2ef0140a_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Blood Suckers (Version 3).webp",
-        "game_reviews/processed_images/Blood Suckers (Version 4).webp",
         "game_reviews/processed_images/Blood Suckers (Version 1).webp",
+        "game_reviews/processed_images/Blood Suckers (Version 4).webp",
         "game_reviews/processed_images/Blood Suckers (Version 2).webp"
-    ]
+    ],
+    "slug": "blood-suckers",
+    "name": "Blood Suckers",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

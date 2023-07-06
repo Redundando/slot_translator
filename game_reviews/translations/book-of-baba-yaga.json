@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Straightforward gameplay with autoplay function",
                     "Stunning graphics and well-designed visuals",
-                    "Wild symbol acts as a scatter symbol and offers up to 250x multipliers",
-                    "Expanding free spins mode with a wheel can create new paylines",
-                    "Mobile compatible game with HTML5 technology"
+                    "Wild symbol with excellent multipliers",
+                    "Expanding free spins mode for new paylines"
                 ],
                 "cons": [
-                    "Bonus feature is expensive at 104 times the initial bet",
-                    "Only ten paylines, which may not be enough for some players"
+                    "Bonus feature requires purchasing free spins",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Book of Baba Yaga for free: A Review",
-                "meta_description": "Explore the dark forest with Book of Baba Yaga. Try it for free before placing your bet. Find out how to win and what we like in this review."
+                "meta_title": "Play Book of Baba Yaga Free: Review & Game Features",
+                "meta_description": "Discover the features and gameplay of Book of Baba Yaga and play it for free online."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Baba Yaga\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features and Mechanics\n\nThe gameplay in Book of Baba Yaga is straightforward, with an autoplay function available, and the paylines always active. Players can place bets between €0.10 and €100. There are ten paylines, and the RTP is set at 96.14% with high volatility.\n\nGraphics and Sound Effects\n\nThe graphics in Spinomenal's Book of Baba Yaga are stunning. The design is well thought out, and the visuals will take you on a journey to the dark forest. The sound effects also enhance the magical atmosphere while playing.\n\nSpecial Symbols and Multipliers\n\nThe Wild symbol is also a Scatter symbol and can reward players with excellent multipliers reaching up to 250x their bet per line. There are four highly paid symbols that can reward players with between 0.5x to 500x their bet per line. The highest paying symbols, A, K, Q, J, and 10, can bring from 0.5x to 15x your bet per line.\n\nFree Spins and Bonus Features\n\nActivating the free spins mode requires three or more Wild Scatter symbols, which also act as the Wild symbol. This will trigger 10 free spins and bring winnings from 2x to 250x bets per line. Additionally, there is an expanding free spins mode where a wheel will appear on the screen. Players spin it to discover which symbol will expand during the spins, allowing them to form new paylines. Finally, players can use the bonus feature for this slot and buy 10 free spins by paying 104 times their initial bet.\n\nMobile Compatibility and Technology\n\nBook of Baba Yaga is compatible with mobile devices as it uses HTML5 technology offering smooth and high-quality graphics regardless of the device. The slot is also equipped with a touch screen that simplifies navigation and gameplay on mobile devices.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Baba Yaga\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features and Mechanics\n\nThe gameplay in Book of Baba Yaga is straightforward, with an autoplay function available, and the paylines always active. Players can place bets between €0.10 and €100. There are ten paylines, and the RTP is set at 96.14% with high volatility.\n\nGraphics and Sound Effects\n\nThe graphics in Spinomenal's Book of Baba Yaga are stunning. The design is well thought out, and the visuals will take you on a journey to the dark forest. The sound effects also enhance the magical atmosphere while playing.\n\nSpecial Symbols and Multipliers\n\nThe Wild symbol is also a Scatter symbol and can reward players with excellent multipliers reaching up to 250x their bet per line. There are four highly paid symbols that can reward players with between 0.5x to 500x their bet per line. The highest paying symbols, A, K, Q, J, and 10, can bring from 0.5x to 15x your bet per line.\n\nFree Spins and Bonus Features\n\nActivating the free spins mode requires three or more Wild Scatter symbols, which also act as the Wild symbol. This will trigger 10 free spins and bring winnings from 2x to 250x bets per line. Additionally, there is an expanding free spins mode where a wheel will appear on the screen. Players spin it to discover which symbol will expand during the spins, allowing them to form new paylines. Finally, players can use the bonus feature for this slot and buy 10 free spins by paying 104 times their initial bet.\n\nMobile Compatibility and Technology\n\nBook of Baba Yaga is compatible with mobile devices as it uses HTML5 technology offering smooth and high-quality graphics regardless of the device. The slot is also equipped with a touch screen that simplifies navigation and gameplay on mobile devices.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QLm6pLTyvlKrOGiHlntFgwWb7JPc",
+                "id": "chatcmpl-7WOksUlfQKPkMriAGDfGQXBjg5uJ0",
                 "object": "chat.completion",
-                "created": 1686514586,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 557,
-                    "completion_tokens": 160,
-                    "total_tokens": 717
-                },
+                "created": 1687956010,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and well-designed visuals\",\n        \"Wild symbol acts as a scatter symbol and offers up to 250x multipliers\",\n        \"Expanding free spins mode with a wheel can create new paylines\",\n        \"Mobile compatible game with HTML5 technology\"\n    ],\n    \"cons\": [\n        \"Bonus feature is expensive at 104 times the initial bet\",\n        \"Only ten paylines, which may not be enough for some players\"\n    ],\n    \"meta_title\": \"Play Book of Baba Yaga for free: A Review\",\n    \"meta_description\": \"Explore the dark forest with Book of Baba Yaga. Try it for free before placing your bet. Find out how to win and what we like in this review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Straightforward gameplay with autoplay function\",\n    \"Stunning graphics and well-designed visuals\",\n    \"Wild symbol with excellent multipliers\",\n    \"Expanding free spins mode for new paylines\"\n  ],\n  \"cons\": [\n    \"Bonus feature requires purchasing free spins\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Book of Baba Yaga Free: Review & Game Features\",\n  \"meta_description\": \"Discover the features and gameplay of Book of Baba Yaga and play it for free online.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 554,
+                    "completion_tokens": 117,
+                    "total_tokens": 671
+                }
             }
         },
         {
@@ -813,15 +813,20 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_2.png",
+        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_1.png",
         "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_4.png",
-        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_3.png",
-        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_1.png"
+        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_2.png",
+        "arved__Creating_a_Feature_Image_Prompt_for_Book_of_Baba_Yaga_Ga_34655f66-edbe-4059-932e-31b253d7ddc3_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Baba Yaga (Version 3).webp",
         "game_reviews/processed_images/Book Of Baba Yaga (Version 2).webp",
-        "game_reviews/processed_images/Book Of Baba Yaga (Version 1).webp",
-        "game_reviews/processed_images/Book Of Baba Yaga (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Book Of Baba Yaga (Version 4).webp",
+        "game_reviews/processed_images/Book Of Baba Yaga (Version 3).webp",
+        "game_reviews/processed_images/Book Of Baba Yaga (Version 1).webp"
+    ],
+    "filename": "game_reviews/translations/book-of-baba-yaga.json",
+    "slug": "book-of-baba-yaga",
+    "name": "Book of Baba Yaga",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

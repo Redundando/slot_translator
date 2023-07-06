@@ -580,40 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and immersive graphics and soundtrack",
-                    "Free spins feature with up to 30 spins",
-                    "Strategic use of Wild symbol",
-                    "Exciting Cyber City Bonus game"
+                    "Immersive intergalactic theme",
+                    "Wild symbol for maximizing winnings",
+                    "Free spins feature for additional chances of winning",
+                    "Cyber City Bonus game for extra prizes"
                 ],
                 "cons": [
-                    "Slightly below average RTP",
-                    "Wild symbol does not replace bonus icons or Free Spin symbols"
+                    "Slightly below average RTP"
                 ],
-                "meta_title": "Play CyberCatz Free: Intergalactic Slot Game Review",
-                "meta_description": "Discover the features of CyberCatz in this slot game review. Play for free and enjoy the unique graphics and free spins feature for a chance to win big."
+                "meta_title": "Play CyberCatz Online Slot Game for Free",
+                "meta_description": "Read our review of the CyberCatz slot game and play for free to win big."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"CyberCatz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCyberCatz Theme\n\nCyberCatz is an online slot game that takes players on an intergalactic adventure through a futuristic grid. The game features hexagonal positions, planets to discover, and holograms to navigate. The graphics and soundtrack create a unique and immersive experience, with a focus on extravagant cat warriors.\n\nWild Symbol Importance\n\nThe Wild symbol in CyberCatz is central to gameplay and has the power to replace all other icons to maximize winning combinations. However, it cannot replace bonus icons or Free Spin symbols. This feature allows players to make strategic moves to increase their chances of winning.\n\nFree Spins Feature\n\nOne of the main attractions of CyberCatz is the free spins feature. Players can trigger up to 30 free spins by finding 3 to 5 symbols bearing the name of the function. The number of additional spins ranges from 10 with 3 Scatters, 20 spins with 4 Scatters, and 30 spins with 5 symbols. This feature gives players the opportunity to accumulate additional spins and increase their chances of winning big.\n\nCyber City Bonus Game\n\nIf a player finds 3 or 4 bonus symbols in CyberCatz, they can activate the special game called \"Cyber City Bonus\". The game involves selecting a character and rolling the dice to move on the board displayed on the screen. The game helps players collect extra money and ends when they use up all three lives at their disposal. This feature offers players a chance to win additional prizes and make the game more exciting.\n\nReturn to Player (RTP)\n\nCyberCatz has an RTP of 95.1%, which is slightly below average. While this may not be ideal for experienced players, it's perfect for entertainment and winning. Players can still enjoy the game and have the opportunity to win big with the game's various features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"CyberCatz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCyberCatz Theme\n\nCyberCatz is an online slot game that takes players on an intergalactic adventure through a futuristic grid. The game features hexagonal positions, planets to discover, and holograms to navigate. The graphics and soundtrack create a unique and immersive experience, with a focus on extravagant cat warriors.\n\nWild Symbol Importance\n\nThe Wild symbol in CyberCatz is central to gameplay and has the power to replace all other icons to maximize winning combinations. However, it cannot replace bonus icons or Free Spin symbols. This feature allows players to make strategic moves to increase their chances of winning.\n\nFree Spins Feature\n\nOne of the main attractions of CyberCatz is the free spins feature. Players can trigger up to 30 free spins by finding 3 to 5 symbols bearing the name of the function. The number of additional spins ranges from 10 with 3 Scatters, 20 spins with 4 Scatters, and 30 spins with 5 symbols. This feature gives players the opportunity to accumulate additional spins and increase their chances of winning big.\n\nCyber City Bonus Game\n\nIf a player finds 3 or 4 bonus symbols in CyberCatz, they can activate the special game called \"Cyber City Bonus\". The game involves selecting a character and rolling the dice to move on the board displayed on the screen. The game helps players collect extra money and ends when they use up all three lives at their disposal. This feature offers players a chance to win additional prizes and make the game more exciting.\n\nReturn to Player (RTP)\n\nCyberCatz has an RTP of 95.1%, which is slightly below average. While this may not be ideal for experienced players, it's perfect for entertainment and winning. Players can still enjoy the game and have the opportunity to win big with the game's various features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SzTSIFTK6ahzHySpIA1jGhoi4fxh",
+                "id": "chatcmpl-7WQoepRLUJiJT4GIm51kxyak6ikLp",
                 "object": "chat.completion",
-                "created": 1687143846,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 125,
-                    "total_tokens": 677
-                },
+                "created": 1687963932,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Unique and immersive graphics and soundtrack\", \"Free spins feature with up to 30 spins\", \"Strategic use of Wild symbol\", \"Exciting Cyber City Bonus game\"],\n    \"cons\": [\"Slightly below average RTP\", \"Wild symbol does not replace bonus icons or Free Spin symbols\"],\n    \"meta_title\": \"Play CyberCatz Free: Intergalactic Slot Game Review\",\n    \"meta_description\": \"Discover the features of CyberCatz in this slot game review. Play for free and enjoy the unique graphics and free spins feature for a chance to win big.\" \n}"
+                            "content": "{\n  \"pros\": [\"Immersive intergalactic theme\", \"Wild symbol for maximizing winnings\", \"Free spins feature for additional chances of winning\", \"Cyber City Bonus game for extra prizes\"],\n  \"cons\": [\"Slightly below average RTP\"],\n  \"meta_title\": \"Play CyberCatz Online Slot Game for Free\",\n  \"meta_description\": \"Read our review of the CyberCatz slot game and play for free to win big.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 549,
+                    "completion_tokens": 94,
+                    "total_tokens": 643
+                }
             }
         },
         {
@@ -815,14 +814,23 @@
     "raw_feature_images": [
         "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_4.png",
         "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_3.png",
-        "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_1.png",
-        "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_2.png"
+        "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_CyberCatz_featu_8aeebf0e-610c-4e87-a752-22ed6993a492_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cybercatz (Version 4).webp",
-        "game_reviews/processed_images/Cybercatz (Version 1).webp",
         "game_reviews/processed_images/Cybercatz (Version 3).webp",
+        "game_reviews/processed_images/Cybercatz (Version 1).webp",
         "game_reviews/processed_images/Cybercatz (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/cybercatz.json"
+    "filename": "game_reviews/translations/cybercatz.json",
+    "slug": "cybercatz",
+    "name": "CyberCatz",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cybercatz-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play CyberCatz Online Slot Game for Free' ### Meta set: 'Read our review of the CyberCatz slot game and play for free to win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

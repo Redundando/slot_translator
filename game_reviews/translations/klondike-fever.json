@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay with various special features",
-                    "Tasteful and immersive graphics",
-                    "Easy-to-understand game mechanics",
-                    "25 winning lines with RTP of 95%"
+                    "Variety of special features (Wilds, Scatters, Magic Spin, Mine Bonus)",
+                    "Engaging mining-themed setting and graphics",
+                    "25 winning lines and 5x3 game grid",
+                    "Straightforward game mechanics"
                 ],
                 "cons": [
-                    "No background music",
-                    "Magic Spin feature only available with special symbols"
+                    "No background music, only mining sounds",
+                    "RTP of 95% is average"
                 ],
-                "meta_title": "Play Klondike Fever Free: Slot Game Review",
-                "meta_description": "Discover Klondike Fever, an engaging slot game with special features and immersive graphics. Play free now and seek fortunes in the mining world."
+                "meta_title": "Play Klondike Fever Free: Engaging Mining-themed Slot Game",
+                "meta_description": "Experience the excitement of Klondike Fever with its special features. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Klondike Fever\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features:\n\nFever Klondike offers players a variety of special features, including Wilds, Scatters, Magic Spin, and Mine Bonus. The Wild, represented by a set of explosives, can replace all other symbols, while the Scatter symbol, a bag of coins, gives access to free spins. The Magic Spin feature is available when special symbols are distributed, and the Mine Bonus allows players to have three attempts at receiving random winnings.\n\nGame Setting and Graphics:\n\nThe overall theme of the game is mining, with a background set inside a mine and symbols that refer to the mining world such as barrels of gunpowder, dynamite sticks, gold nuggets, and picks. The graphics are close to 3D, and the symbols are drawn with taste and coherence. There is no background music, only sounds that enhance the mining atmosphere.\n\nNumber of Winning Lines and RTP:\n\nKlondike Fever has 25 winning lines along which various combinations are placed. The game grid is 5x3, and the RTP is 95%, which is a common trait for Capecod slots. This uniformity allows players to immediately get used to a new title, reducing the time and money needed to practice before starting the game.\n\nFree Spins Feature:\n\nThe Scatter symbol, represented by a bag of coins, gives access to free spins. Players can get from a minimum of 5 spins to a maximum of 20 free spins. In addition, there is an extra free spin mode, called Magic Spin, that becomes available when special symbols are distributed.\n\nOverall Game Experience:\n\nKlondike Fever is an engaging slot game that offers players a variety of special features that keep the gaming experience exciting. The graphics are tasteful and immersive, and the sounds enhance the mining atmosphere without being tiring. The game mechanics are straightforward and allow players to quickly understand the rules. Overall, Klondike Fever is a perfect fit for those seeking fortunes in the mining world.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Klondike Fever\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features:\n\nFever Klondike offers players a variety of special features, including Wilds, Scatters, Magic Spin, and Mine Bonus. The Wild, represented by a set of explosives, can replace all other symbols, while the Scatter symbol, a bag of coins, gives access to free spins. The Magic Spin feature is available when special symbols are distributed, and the Mine Bonus allows players to have three attempts at receiving random winnings.\n\nGame Setting and Graphics:\n\nThe overall theme of the game is mining, with a background set inside a mine and symbols that refer to the mining world such as barrels of gunpowder, dynamite sticks, gold nuggets, and picks. The graphics are close to 3D, and the symbols are drawn with taste and coherence. There is no background music, only sounds that enhance the mining atmosphere.\n\nNumber of Winning Lines and RTP:\n\nKlondike Fever has 25 winning lines along which various combinations are placed. The game grid is 5x3, and the RTP is 95%, which is a common trait for Capecod slots. This uniformity allows players to immediately get used to a new title, reducing the time and money needed to practice before starting the game.\n\nFree Spins Feature:\n\nThe Scatter symbol, represented by a bag of coins, gives access to free spins. Players can get from a minimum of 5 spins to a maximum of 20 free spins. In addition, there is an extra free spin mode, called Magic Spin, that becomes available when special symbols are distributed.\n\nOverall Game Experience:\n\nKlondike Fever is an engaging slot game that offers players a variety of special features that keep the gaming experience exciting. The graphics are tasteful and immersive, and the sounds enhance the mining atmosphere without being tiring. The game mechanics are straightforward and allow players to quickly understand the rules. Overall, Klondike Fever is a perfect fit for those seeking fortunes in the mining world.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tyj307i7lOeIShrqoCbEOxJBNhiP",
+                "id": "chatcmpl-7WW1DYfY9QLWa13Ld3iGc4jF7zXUi",
                 "object": "chat.completion",
-                "created": 1687379297,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983931,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging gameplay with various special features\",\n        \"Tasteful and immersive graphics\",\n        \"Easy-to-understand game mechanics\",\n        \"25 winning lines with RTP of 95%\"\n    ],\n    \"cons\": [\n        \"No background music\",\n        \"Magic Spin feature only available with special symbols\"\n    ],\n    \"meta_title\": \"Play Klondike Fever Free: Slot Game Review\",\n    \"meta_description\": \"Discover Klondike Fever, an engaging slot game with special features and immersive graphics. Play free now and seek fortunes in the mining world.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Variety of special features (Wilds, Scatters, Magic Spin, Mine Bonus)\",\n    \"Engaging mining-themed setting and graphics\",\n    \"25 winning lines and 5x3 game grid\",\n    \"Straightforward game mechanics\"\n  ],\n  \"cons\": [\n    \"No background music, only mining sounds\",\n    \"RTP of 95% is average\"\n  ],\n  \"meta_title\": \"Play Klondike Fever Free: Engaging Mining-themed Slot Game\",\n  \"meta_description\": \"Experience the excitement of Klondike Fever with its special features. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 577,
-                    "completion_tokens": 125,
-                    "total_tokens": 702
+                    "prompt_tokens": 574,
+                    "completion_tokens": 132,
+                    "total_tokens": 706
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/klondike-fever.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_94ba459e-3ff2-4ee8-8139-10b9654aa755_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_94ba459e-3ff2-4ee8-8139-10b9654aa755_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_94ba459e-3ff2-4ee8-8139-10b9654aa755_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_94ba459e-3ff2-4ee8-8139-10b9654aa755_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Klondike Fever (Version 3).webp",
+        "game_reviews/processed_images/Klondike Fever (Version 2).webp",
+        "game_reviews/processed_images/Klondike Fever (Version 4).webp",
+        "game_reviews/processed_images/Klondike Fever (Version 1).webp"
+    ],
+    "slug": "klondike-fever",
+    "name": "Klondike Fever",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Klondike-Fever-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Klondike Fever Free: Engaging Mining-themed Slot Game' ### Meta set: 'Experience the excitement of Klondike Fever with its special features. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

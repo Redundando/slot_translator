@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Extra Spins With Hot Hot Super Respin Function",
-                    "Wilds That Remain Blocked",
-                    "Eye-Catching Graphics And Theme",
-                    "Wide Betting Range"
+                    "Exciting gameplay mechanics with 5 reels and 50 paylines",
+                    "Free spins and random re-spin function for additional wins",
+                    "High-quality graphics and captivating jungle theme",
+                    "Excellent RTP of 96.01% for chances of big wins"
                 ],
                 "cons": [
-                    "Limited Multipliers",
-                    "Lack of Progressive Jackpots"
+                    "Limited autoplay function without player input",
+                    "Betting range may be too high for some players"
                 ],
-                "meta_title": "Play Gorilla Chief 2 Free Slot Review 2021",
-                "meta_description": "Discover the exciting features of Gorilla Chief 2 slot game with free play and read our 2021 review of the game's mechanics, special features & overall experience."
+                "meta_title": "Play Gorilla Chief 2 Slot for Free",
+                "meta_description": "Read our review of Gorilla Chief 2 and play for free to experience exciting gameplay and big wins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gorilla Chief 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nGorilla Chief 2 online slot machine has 5 reels, 4 lines, and 50 paylines. The aim is to align at least 3 identical symbols from left to right. The Wild icon substitutes all icons except for the Scatter/Bonus. A Scatter/Bonus that appears on the first 3 reels, opens up the possibility of winning free spins.\n\nSpecial Features\n\nThe Scatter/Bonus activates free spins when it appears on the game board. Players can win an additional 10 spins and use the random re-spin function \"Hot Hot Super Respin\". During this mode, players can get extra Wilds and Wilds that remain blocked where they land. The Gorilla face is also the Wild symbol that substitutes for all other symbols except for the Scatter/Bonus.\n\nBetting Range\n\nBets range from €0.40 to a maximum of €200. Gorilla Chief 2 also offers the autoplay function, allowing the game to collect wins automatically without player input.\n\nGraphics and Theme\n\nDeveloped by WMS, Gorilla Chief 2 boasts extremely vivid graphics with a captivating and powerful gorilla dominating the jungle scene. Players will encounter other symbols on the reels including a sunset, the cheetah, the butterfly, the bird, the parrots, the flowers, the bananas and more.\n\nRTP and Overall Experience\n\nThe slot machine has an RTP of 96.01% combined with the extra spins, leading to excellent wins. With free spins, \"Hot Hot Super Respin\", and winning symbols, Gorilla Chief 2 offers maximum entertainment regardless of the player's gambling experience. It is practically impossible to get bored with the extra feature offering large wins in complete randomness.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gorilla Chief 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nGorilla Chief 2 online slot machine has 5 reels, 4 lines, and 50 paylines. The aim is to align at least 3 identical symbols from left to right. The Wild icon substitutes all icons except for the Scatter/Bonus. A Scatter/Bonus that appears on the first 3 reels, opens up the possibility of winning free spins.\n\nSpecial Features\n\nThe Scatter/Bonus activates free spins when it appears on the game board. Players can win an additional 10 spins and use the random re-spin function \"Hot Hot Super Respin\". During this mode, players can get extra Wilds and Wilds that remain blocked where they land. The Gorilla face is also the Wild symbol that substitutes for all other symbols except for the Scatter/Bonus.\n\nBetting Range\n\nBets range from €0.40 to a maximum of €200. Gorilla Chief 2 also offers the autoplay function, allowing the game to collect wins automatically without player input.\n\nGraphics and Theme\n\nDeveloped by WMS, Gorilla Chief 2 boasts extremely vivid graphics with a captivating and powerful gorilla dominating the jungle scene. Players will encounter other symbols on the reels including a sunset, the cheetah, the butterfly, the bird, the parrots, the flowers, the bananas and more.\n\nRTP and Overall Experience\n\nThe slot machine has an RTP of 96.01% combined with the extra spins, leading to excellent wins. With free spins, \"Hot Hot Super Respin\", and winning symbols, Gorilla Chief 2 offers maximum entertainment regardless of the player's gambling experience. It is practically impossible to get bored with the extra feature offering large wins in complete randomness.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TmQYcKSURCN3VXnK8Ami1UsRhsjK",
+                "id": "chatcmpl-7WUIPo942jhbtLa2TJ1Y3Od10WMcQ",
                 "object": "chat.completion",
-                "created": 1687332022,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687977309,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Extra Spins With Hot Hot Super Respin Function\",\n        \"Wilds That Remain Blocked\",\n        \"Eye-Catching Graphics And Theme\",\n        \"Wide Betting Range\"\n    ],\n    \"cons\": [\n        \"Limited Multipliers\",\n        \"Lack of Progressive Jackpots\"\n    ],\n    \"meta_title\": \"Play Gorilla Chief 2 Free Slot Review 2021\",\n    \"meta_description\": \"Discover the exciting features of Gorilla Chief 2 slot game with free play and read our 2021 review of the game's mechanics, special features & overall experience.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay mechanics with 5 reels and 50 paylines\",\n    \"Free spins and random re-spin function for additional wins\",\n    \"High-quality graphics and captivating jungle theme\",\n    \"Excellent RTP of 96.01% for chances of big wins\"\n  ],\n  \"cons\": [\n    \"Limited autoplay function without player input\",\n    \"Betting range may be too high for some players\"\n  ],\n  \"meta_title\": \"Play Gorilla Chief 2 Slot for Free\",\n  \"meta_description\": \"Read our review of Gorilla Chief 2 and play for free to experience exciting gameplay and big wins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 528,
-                    "completion_tokens": 128,
-                    "total_tokens": 656
+                    "prompt_tokens": 525,
+                    "completion_tokens": 137,
+                    "total_tokens": 662
                 }
             }
         },
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gorilla-chief-2.json"
+    "filename": "game_reviews/translations/gorilla-chief-2.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Gorilla_Chie_1db46d40-34b2-4761-b71b-d504d31b9e81_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Gorilla_Chie_1db46d40-34b2-4761-b71b-d504d31b9e81_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Gorilla_Chie_1db46d40-34b2-4761-b71b-d504d31b9e81_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Gorilla_Chie_1db46d40-34b2-4761-b71b-d504d31b9e81_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gorilla Chief 2 (Version 4).webp",
+        "game_reviews/processed_images/Gorilla Chief 2 (Version 3).webp",
+        "game_reviews/processed_images/Gorilla Chief 2 (Version 1).webp",
+        "game_reviews/processed_images/Gorilla Chief 2 (Version 2).webp"
+    ],
+    "slug": "gorilla-chief-2",
+    "name": "Gorilla Chief 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gorilla-Chief-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gorilla Chief 2 Slot for Free' ### Meta set: 'Read our review of Gorilla Chief 2 and play for free to experience exciting gameplay and big wins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

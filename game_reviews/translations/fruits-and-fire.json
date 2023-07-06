@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Simple and straightforward gameplay",
                     "Clean and simple graphics",
-                    "Expanding wilds and 2 types of scatter symbols",
-                    "Suitable for all types of players",
-                    "RTP of 96.19%"
+                    "Expanding wilds and scatter symbols add excitement",
+                    "Suitable for all types of players"
                 ],
                 "cons": [
                     "No bonus features",
-                    "Limited gambling features"
+                    "Limited variety in gameplay"
                 ],
-                "meta_title": "Play Fruits and Fire for Free - A Simple Slot Game from Synot Games",
-                "meta_description": "Read our review of Fruits and Fire, a simple slot game from Synot Games with expanding wilds and scatters. Play for free and enjoy the fruit theme."
+                "meta_title": "Play Fruits and Fire for Free",
+                "meta_description": "Read our review of Fruits and Fire and play for free. Enjoy simple and engaging gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruits and Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFruits and Fire as a simple and straightforward slot game\n\nFruits and Fire is a simple and straightforward online slot game from Synot Games. It features a classic fruit theme and a basic 5-reel structure with 5 pay lines and 3 rows. The game does not provide any bonus features but offers much through its expanding wilds, 2 types of scatter symbols, and gambling feature. Its minimalist approach makes it a suitable choice for all types of online casino players.\n\nThe game's graphics and rules\n\nFruits and Fire boasts clean and simple graphics. The rules are also straightforward: align 2 to 5 symbols on any of the 5 pay lines, starting from the first reel. The best payouts in this slot are attributed to numbers 7 and the bell. With an intuitive title, all players need to do is set their bet and spin the reels.\n\nSpecial symbols and additional features (scatters, wilds, gamble function)\n\nFruits and Fire has three special symbols that add to the gameplay experience. The scatter symbol offers a prize equal to 3 times the bet if you position 3 and up to 100 times your bet if 5 appear in the game. With the Extra Scatter, you can receive a reward of 30 times for 3 of the same symbols on reels 1, 3, and 5. Wilds can appear on reels 2, 3, and 4 during gameplay and replace all symbols except the two mentioned above. It can expand and fill a reel. The only function presented is that of the 'gamble' bet that allows you to double the prize by making a 50/50 choice on the color of the card to be drawn. However, you can choose to split the money to save yourself and not compromise your winnings.\n\nRTP and maximum jackpot\n\nFruits and Fire's maximum jackpot is 2,500 times your bet. The game's RTP is fixed at a percentage of 96.19%, making it in line with the average of machines. This solid idea from Synot Games adapts well to any type of player, providing an enjoyable and straightforward gaming experience.\n\nSynot Games as a respected provider of gaming solutions\n\nSynot Games is a renowned provider of gaming solutions and ideas for both land-based and online casinos. The company has built a reputation for its retro-style solutions, and Fruits and Fire is no different. Adapted from a land-based slot machine, the game remains true to its classic fruit theme, offering players a simple yet engaging gaming experience. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruits and Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFruits and Fire as a simple and straightforward slot game\n\nFruits and Fire is a simple and straightforward online slot game from Synot Games. It features a classic fruit theme and a basic 5-reel structure with 5 pay lines and 3 rows. The game does not provide any bonus features but offers much through its expanding wilds, 2 types of scatter symbols, and gambling feature. Its minimalist approach makes it a suitable choice for all types of online casino players.\n\nThe game's graphics and rules\n\nFruits and Fire boasts clean and simple graphics. The rules are also straightforward: align 2 to 5 symbols on any of the 5 pay lines, starting from the first reel. The best payouts in this slot are attributed to numbers 7 and the bell. With an intuitive title, all players need to do is set their bet and spin the reels.\n\nSpecial symbols and additional features (scatters, wilds, gamble function)\n\nFruits and Fire has three special symbols that add to the gameplay experience. The scatter symbol offers a prize equal to 3 times the bet if you position 3 and up to 100 times your bet if 5 appear in the game. With the Extra Scatter, you can receive a reward of 30 times for 3 of the same symbols on reels 1, 3, and 5. Wilds can appear on reels 2, 3, and 4 during gameplay and replace all symbols except the two mentioned above. It can expand and fill a reel. The only function presented is that of the 'gamble' bet that allows you to double the prize by making a 50/50 choice on the color of the card to be drawn. However, you can choose to split the money to save yourself and not compromise your winnings.\n\nRTP and maximum jackpot\n\nFruits and Fire's maximum jackpot is 2,500 times your bet. The game's RTP is fixed at a percentage of 96.19%, making it in line with the average of machines. This solid idea from Synot Games adapts well to any type of player, providing an enjoyable and straightforward gaming experience.\n\nSynot Games as a respected provider of gaming solutions\n\nSynot Games is a renowned provider of gaming solutions and ideas for both land-based and online casinos. The company has built a reputation for its retro-style solutions, and Fruits and Fire is no different. Adapted from a land-based slot machine, the game remains true to its classic fruit theme, offering players a simple yet engaging gaming experience. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TLCj7eJFDkrbHxtMmemDlUVGed6g",
+                "id": "chatcmpl-7WTQNx5oON7lrg69Ka5ATDIQsZMIL",
                 "object": "chat.completion",
-                "created": 1687227377,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 697,
-                    "completion_tokens": 134,
-                    "total_tokens": 831
-                },
+                "created": 1687973959,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Clean and simple graphics\",\n        \"Expanding wilds and 2 types of scatter symbols\",\n        \"Suitable for all types of players\",\n        \"RTP of 96.19%\"\n    ],\n    \"cons\": [\n        \"No bonus features\",\n        \"Limited gambling features\"\n    ],\n    \"meta_title\": \"Play Fruits and Fire for Free - A Simple Slot Game from Synot Games\",\n    \"meta_description\": \"Read our review of Fruits and Fire, a simple slot game from Synot Games with expanding wilds and scatters. Play for free and enjoy the fruit theme.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and straightforward gameplay\",\n    \"Clean and simple graphics\",\n    \"Expanding wilds and scatter symbols add excitement\",\n    \"Suitable for all types of players\"\n  ],\n  \"cons\": [\n    \"No bonus features\",\n    \"Limited variety in gameplay\"\n  ],\n  \"meta_title\": \"Play Fruits and Fire for Free\",\n  \"meta_description\": \"Read our review of Fruits and Fire and play for free. Enjoy simple and engaging gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 694,
+                    "completion_tokens": 105,
+                    "total_tokens": 799
+                }
             }
         },
         {
@@ -809,5 +809,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruits-and-fire.json"
+    "filename": "game_reviews/translations/fruits-and-fire.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_a8053a53-86ab-4139-9d54-777954eb5494_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_a8053a53-86ab-4139-9d54-777954eb5494_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_a8053a53-86ab-4139-9d54-777954eb5494_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_a8053a53-86ab-4139-9d54-777954eb5494_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruits And Fire (Version 3).webp",
+        "game_reviews/processed_images/Fruits And Fire (Version 4).webp",
+        "game_reviews/processed_images/Fruits And Fire (Version 2).webp",
+        "game_reviews/processed_images/Fruits And Fire (Version 1).webp"
+    ],
+    "slug": "fruits-and-fire",
+    "name": "Fruits and Fire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruits-And-Fire-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruits and Fire for Free' ### Meta set: 'Read our review of Fruits and Fire and play for free. Enjoy simple and engaging gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

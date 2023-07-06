@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Realistic and pleasing illustration style",
-                    "Interactive special symbols increase winning potential",
-                    "Bonus mode with free spins and multipliers",
+                    "Engaging gameplay with unique features",
+                    "Realistic illustrations and pleasing aesthetic",
+                    "Opportunity to win free spins and multipliers",
                     "Easy to understand and develop gaming strategies"
                 ],
                 "cons": [
-                    "Random use of hen with golden egg symbol can be confusing",
-                    "High volatility may not be suitable for all players"
+                    "Potential confusion with the hen with golden eggs symbol",
+                    "Higher volatility requires longer gameplay sessions"
                 ],
-                "meta_title": "Play Chicken Party Free – Review of Booming Games' Online Slot",
-                "meta_description": "Find out more about Chicken Party, an online slot game by Booming Games, with our review. Play Chicken Party free and learn about its features."
+                "meta_title": "Play Chicken Party for Free - An Engaging Online Slot Game",
+                "meta_description": "Read our review of Chicken Party, an online slot game with engaging gameplay and free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Chicken Party\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nChicken Party online slot game\n\nChicken Party is an online slot game developed by Booming Games, featuring chickens as the main theme. The game grid is set in a chicken coop, with a forest backdrop and various chicken symbols appearing on the reels.\n\nGameplay and Features\n\nChicken Party is a 4x3 online slot game, with an RTP of 95.07% and high volatility. The slot has 12 symbols on the grid and up to four special symbols can appear above the grid which interact with the symbols on the grid to create winning combinations. The special symbols include Fox symbols, hen with golden eggs symbols, and Scatter symbols that trigger the bonus mode when at least three appear on the grid. The game is easy to understand and develop gaming strategies around, with the only potential confusion arising from the random use of the hen with golden eggs symbol.\n\nSymbols and Illustrations\n\nThe chicken symbols in Chicken Party have been illustrated in a realistic style that blends well with the natural green colors of the game backdrop. The playing card symbols have been integrated into the chicken symbols, and are created by folding the chicken feathers to form letters. The game grid and symbols create a uniform and pleasing aesthetic that is easy on the eyes.\n\nRTP and Volatility\n\nChicken Party has an RTP of 95.07%, which is around the market average for online slot games. The slot also has high volatility, indicating that players will need to bet for a while and invest some money before being able to potentially win bigger than usual. This makes Chicken Party best suited to players who are comfortable with higher risk and longer gameplay sessions.\n\nBonus Mode\n\nThe bonus mode in Chicken Party is triggered when at least three Scatter symbols appear on the game grid. During the bonus mode, players have the opportunity to win free spins and multipliers that can increase their winnings. This special feature, along with the other special symbols that can appear on the grid, creates a unique and engaging gameplay experience for players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Chicken Party\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nChicken Party online slot game\n\nChicken Party is an online slot game developed by Booming Games, featuring chickens as the main theme. The game grid is set in a chicken coop, with a forest backdrop and various chicken symbols appearing on the reels.\n\nGameplay and Features\n\nChicken Party is a 4x3 online slot game, with an RTP of 95.07% and high volatility. The slot has 12 symbols on the grid and up to four special symbols can appear above the grid which interact with the symbols on the grid to create winning combinations. The special symbols include Fox symbols, hen with golden eggs symbols, and Scatter symbols that trigger the bonus mode when at least three appear on the grid. The game is easy to understand and develop gaming strategies around, with the only potential confusion arising from the random use of the hen with golden eggs symbol.\n\nSymbols and Illustrations\n\nThe chicken symbols in Chicken Party have been illustrated in a realistic style that blends well with the natural green colors of the game backdrop. The playing card symbols have been integrated into the chicken symbols, and are created by folding the chicken feathers to form letters. The game grid and symbols create a uniform and pleasing aesthetic that is easy on the eyes.\n\nRTP and Volatility\n\nChicken Party has an RTP of 95.07%, which is around the market average for online slot games. The slot also has high volatility, indicating that players will need to bet for a while and invest some money before being able to potentially win bigger than usual. This makes Chicken Party best suited to players who are comfortable with higher risk and longer gameplay sessions.\n\nBonus Mode\n\nThe bonus mode in Chicken Party is triggered when at least three Scatter symbols appear on the game grid. During the bonus mode, players have the opportunity to win free spins and multipliers that can increase their winnings. This special feature, along with the other special symbols that can appear on the grid, creates a unique and engaging gameplay experience for players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7StyFPn8pu4jkK384FylOAZcjpgu0",
+                "id": "chatcmpl-7WQ9ReoR0rTmc1qIoE0knrR2Zy1ko",
                 "object": "chat.completion",
-                "created": 1687122691,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 573,
-                    "completion_tokens": 139,
-                    "total_tokens": 712
-                },
+                "created": 1687961377,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Realistic and pleasing illustration style\",\n        \"Interactive special symbols increase winning potential\",\n        \"Bonus mode with free spins and multipliers\",\n        \"Easy to understand and develop gaming strategies\"\n    ],\n    \"cons\": [\n        \"Random use of hen with golden egg symbol can be confusing\",\n        \"High volatility may not be suitable for all players\"\n    ],\n    \"meta_title\": \"Play Chicken Party Free – Review of Booming Games' Online Slot\",\n    \"meta_description\": \"Find out more about Chicken Party, an online slot game by Booming Games, with our review. Play Chicken Party free and learn about its features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging gameplay with unique features\",\n    \"Realistic illustrations and pleasing aesthetic\",\n    \"Opportunity to win free spins and multipliers\",\n    \"Easy to understand and develop gaming strategies\"\n  ],\n  \"cons\": [\n    \"Potential confusion with the hen with golden eggs symbol\",\n    \"Higher volatility requires longer gameplay sessions\"\n  ],\n  \"meta_title\": \"Play Chicken Party for Free - An Engaging Online Slot Game\",\n  \"meta_description\": \"Read our review of Chicken Party, an online slot game with engaging gameplay and free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 570,
+                    "completion_tokens": 121,
+                    "total_tokens": 691
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_2.png",
         "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_4.png",
-        "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_1.png",
         "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_3.png",
-        "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_2.png"
+        "arved__Create_a_feature_image_fitting_Chicken_Party_DALLE_pleas_b910f401-0ab6-4761-a587-1271bdc57415_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Chicken Party (Version 1).webp",
+        "game_reviews/processed_images/Chicken Party (Version 3).webp",
         "game_reviews/processed_images/Chicken Party (Version 4).webp",
         "game_reviews/processed_images/Chicken Party (Version 2).webp",
-        "game_reviews/processed_images/Chicken Party (Version 3).webp"
+        "game_reviews/processed_images/Chicken Party (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/chicken-party.json"
+    "filename": "game_reviews/translations/chicken-party.json",
+    "slug": "chicken-party",
+    "name": "Chicken Party",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Chicken-Party-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Chicken Party for Free - An Engaging Online Slot Game' ### Meta set: 'Read our review of Chicken Party, an online slot game with engaging gameplay and free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

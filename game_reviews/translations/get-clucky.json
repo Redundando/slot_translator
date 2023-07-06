@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Vibrant, cartoonish graphics",
-                    "Country sound effects",
-                    "Rooster wild symbol with multiplier",
-                    "Medium-high volatility with 500x max win"
+                    "Classic online slot gameplay pattern",
+                    "Vibrant and cartoonish graphics",
+                    "Attention to the design of visual elements",
+                    "Wild symbol with 2x multiplier"
                 ],
                 "cons": [
-                    "Not-so-clear symbols",
-                    "May require practice before playing"
+                    "Not-so-clear symbols require practice",
+                    "Medium-high volatility"
                 ],
-                "meta_title": "Play Get Clucky Slot Free | Pros, Cons & Review 2021",
-                "meta_description": "Play Get Clucky slot free with vibrant graphics, country sound effects, and a medium-high volatility, featuring a rooster wild symbol and a 500x max win."
+                "meta_title": "Play Get Clucky Free - Online Slot Game Review",
+                "meta_description": "Read our review of Get Clucky online slot game and play for free. Exciting gameplay and vibrant graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Get Clucky\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nThe Get Clucky slot uses the classic online slot pattern of 5x3, with five reels that rotate on themselves and show three symbols each. The Scatter symbol is represented by the game's title and can appear on any reel. Finding at least two Scatters (which don't need to be on the same payline) can result in a winning combination and access to the bonus mode, but a minimum of three scatters is required.\n\nSymbols\n\nThe symbols in Get Clucky consist of chickens and roosters, which are differentiated by both color and characterization. The game's logo and classic playing card symbols (A, K, Q, J, 10, and 9) are also present on the grid, with the latter represented as simple colored initials that take on the texture of the wood in the background.\n\nGraphics\n\nGet Clucky has vibrant and cartoonish graphics that feature a hilly landscape and farm as its backdrop. The gameboard is wooden beams that fit well with the rural setting and provide a nice visual touch. The attention to the design of these visual elements showcases this game's development value.\n\nSound Effects\n\nAlthough the country accompaniment is a brief one, the classic cartoonish sounds of our feathered friends' eye-blinking can be heard between spins. Additionally, the game features the rooster's crowing and the hen's clucking sound effects during combinations.\n\nPayouts\n\nThe rooster in Get Clucky acts as the Wild symbol, capable of replacing all the other normal symbols and assigning a 2x multiplier to combinations that pass through it. Due to the not-so-clear symbols, some practice will be necessary before getting started, but the fun experience is worth the time. As for the slot's volatility, Get Clucky falls within the medium-high category, and the max win is 500x the initial stake.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Get Clucky\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nThe Get Clucky slot uses the classic online slot pattern of 5x3, with five reels that rotate on themselves and show three symbols each. The Scatter symbol is represented by the game's title and can appear on any reel. Finding at least two Scatters (which don't need to be on the same payline) can result in a winning combination and access to the bonus mode, but a minimum of three scatters is required.\n\nSymbols\n\nThe symbols in Get Clucky consist of chickens and roosters, which are differentiated by both color and characterization. The game's logo and classic playing card symbols (A, K, Q, J, 10, and 9) are also present on the grid, with the latter represented as simple colored initials that take on the texture of the wood in the background.\n\nGraphics\n\nGet Clucky has vibrant and cartoonish graphics that feature a hilly landscape and farm as its backdrop. The gameboard is wooden beams that fit well with the rural setting and provide a nice visual touch. The attention to the design of these visual elements showcases this game's development value.\n\nSound Effects\n\nAlthough the country accompaniment is a brief one, the classic cartoonish sounds of our feathered friends' eye-blinking can be heard between spins. Additionally, the game features the rooster's crowing and the hen's clucking sound effects during combinations.\n\nPayouts\n\nThe rooster in Get Clucky acts as the Wild symbol, capable of replacing all the other normal symbols and assigning a 2x multiplier to combinations that pass through it. Due to the not-so-clear symbols, some practice will be necessary before getting started, but the fun experience is worth the time. As for the slot's volatility, Get Clucky falls within the medium-high category, and the max win is 500x the initial stake.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TOFDx9us9MHfpnAEOJYBagfStFGl",
+                "id": "chatcmpl-7WTkJJvxWUhvkIiRxKTKMC3J4e4WP",
                 "object": "chat.completion",
-                "created": 1687239063,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 558,
-                    "completion_tokens": 123,
-                    "total_tokens": 681
-                },
+                "created": 1687975195,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\"Vibrant, cartoonish graphics\",\n         \"Country sound effects\",\n         \"Rooster wild symbol with multiplier\",\n         \"Medium-high volatility with 500x max win\"],\n\n\"cons\": [\"Not-so-clear symbols\",\n         \"May require practice before playing\"],\n\n\"meta_title\": \"Play Get Clucky Slot Free | Pros, Cons & Review 2021\",\n         \n\"meta_description\": \"Play Get Clucky slot free with vibrant graphics, country sound effects, and a medium-high volatility, featuring a rooster wild symbol and a 500x max win.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic online slot gameplay pattern\",\n    \"Vibrant and cartoonish graphics\",\n    \"Attention to the design of visual elements\",\n    \"Wild symbol with 2x multiplier\"\n  ],\n  \"cons\": [\n    \"Not-so-clear symbols require practice\",\n    \"Medium-high volatility\"\n  ],\n  \"meta_title\": \"Play Get Clucky Free - Online Slot Game Review\",\n  \"meta_description\": \"Read our review of Get Clucky online slot game and play for free. Exciting gameplay and vibrant graphics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 555,
+                    "completion_tokens": 115,
+                    "total_tokens": 670
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/get-clucky.json"
+    "filename": "game_reviews/translations/get-clucky.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_23c659d2-ab73-4c74-8f18-9e4a2d2c7fa1_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_823882a6-cf33-4be6-aad8-54b25d137970_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_23c659d2-ab73-4c74-8f18-9e4a2d2c7fa1_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_23c659d2-ab73-4c74-8f18-9e4a2d2c7fa1_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_23c659d2-ab73-4c74-8f18-9e4a2d2c7fa1_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_823882a6-cf33-4be6-aad8-54b25d137970_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_823882a6-cf33-4be6-aad8-54b25d137970_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Get_Clucky_t_823882a6-cf33-4be6-aad8-54b25d137970_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Get Clucky (Version 4).webp",
+        "game_reviews/processed_images/Get Clucky (Version 8).webp",
+        "game_reviews/processed_images/Get Clucky (Version 1).webp",
+        "game_reviews/processed_images/Get Clucky (Version 5).webp",
+        "game_reviews/processed_images/Get Clucky (Version 6).webp",
+        "game_reviews/processed_images/Get Clucky (Version 7).webp",
+        "game_reviews/processed_images/Get Clucky (Version 3).webp",
+        "game_reviews/processed_images/Get Clucky (Version 2).webp"
+    ],
+    "slug": "get-clucky",
+    "name": "Get Clucky",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Get-Clucky-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Get Clucky Free - Online Slot Game Review' ### Meta set: 'Read our review of Get Clucky online slot game and play for free. Exciting gameplay and vibrant graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

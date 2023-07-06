@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and engaging game mechanics",
-                    "Stunning graphics and theme design",
-                    "Special symbols and animations add excitement",
-                    "Fantastic background music enhances the experience"
+                    "Unique gameplay mechanics and features",
+                    "Stunning setting and theme design",
+                    "Engaging game symbol and animation",
+                    "Immersive sound and music design"
                 ],
                 "cons": [
-                    "Fewer winnings during regular spins",
-                    "Top ice must be unlocked to earn high-value winnings"
+                    "Reduced number of winnings during spins",
+                    "Limited selection of similar themed slots"
                 ],
-                "meta_title": "Play Ice Wolf Free Slot Game Review | Enjoy Unique Game Features",
-                "meta_description": "Read our review for Ice Wolf, the online slot game with engaging mechanics and stunning graphics. Play for free and experience special symbols and animations."
+                "meta_title": "Play Ice Wolf Free Online | Slot Game Review",
+                "meta_description": "Read our review of Ice Wolf, an immersive slot game. Play for free and enjoy unique gameplay mechanics and stunning design."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ice Wolf\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Features\n\nIce Wolf is a 6x3 type slot with 6 reels that display up to 18 symbols on each spin. There is a second ice-covered game grid at the top of the screen that will unlock following winning combinations on the lower grid, increasing the number of symbols at our disposal and allowing us to earn higher-value winnings. The white wolf is a Wild symbol that extends across the entire reel, on both the upper and lower grids. Players can expect a reduced number of winnings during their spins, but it increases dramatically the moment the top ice is broken.\n\nSetting and Theme Design\n\nELK's Ice Wolf takes place in a magical and snowy realm, with a backdrop of pristine snow, impressive mountains, and glimpses of a forest. The game grid appears to be encased in ice, with two totems representing the wolf framing it. The grid itself is an essential and lively part of the setting, with symbols that are associated with ancient Nordic religions such as golden idols of eagles, deer, and wolves, along with shields, hammers, and ancient Viking warriors' axes. The white wolf is the star of the game symbol that activates an animation of a pack of running wolves.\n\nUnique Game Symbol and Animation\n\nThe white wolf is the star of the game symbol that activates an animation of a pack of running wolves. It is also a Wild symbol that expands to cover the entire reel on both the upper and lower grids. This special symbol, along with the other symbols in the game, fits perfectly with the magical and snowy theme.\n\nSound and Music Design\n\nIce Wolf features driving music that fits perfectly with the fantasy-inspired setting. Instead of being just another standard song or a set of simple jingles, as is often the case in other online slots, Ice Wolf's music displays a certain sophistication. The music accompanies us during each spin, making it very enjoyable to listen to.\n\nRecommended Similar Slots\n\nFor those who enjoy themes similar to Ice Wolf, we recommend Buffalo Spirit, Safari Sam, and Sumatran Storm. For those who want to stick with the wolf theme, we suggest Wolf Run, Wolf Moon, and Wolf Gold.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ice Wolf\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics and Features\n\nIce Wolf is a 6x3 type slot with 6 reels that display up to 18 symbols on each spin. There is a second ice-covered game grid at the top of the screen that will unlock following winning combinations on the lower grid, increasing the number of symbols at our disposal and allowing us to earn higher-value winnings. The white wolf is a Wild symbol that extends across the entire reel, on both the upper and lower grids. Players can expect a reduced number of winnings during their spins, but it increases dramatically the moment the top ice is broken.\n\nSetting and Theme Design\n\nELK's Ice Wolf takes place in a magical and snowy realm, with a backdrop of pristine snow, impressive mountains, and glimpses of a forest. The game grid appears to be encased in ice, with two totems representing the wolf framing it. The grid itself is an essential and lively part of the setting, with symbols that are associated with ancient Nordic religions such as golden idols of eagles, deer, and wolves, along with shields, hammers, and ancient Viking warriors' axes. The white wolf is the star of the game symbol that activates an animation of a pack of running wolves.\n\nUnique Game Symbol and Animation\n\nThe white wolf is the star of the game symbol that activates an animation of a pack of running wolves. It is also a Wild symbol that expands to cover the entire reel on both the upper and lower grids. This special symbol, along with the other symbols in the game, fits perfectly with the magical and snowy theme.\n\nSound and Music Design\n\nIce Wolf features driving music that fits perfectly with the fantasy-inspired setting. Instead of being just another standard song or a set of simple jingles, as is often the case in other online slots, Ice Wolf's music displays a certain sophistication. The music accompanies us during each spin, making it very enjoyable to listen to.\n\nRecommended Similar Slots\n\nFor those who enjoy themes similar to Ice Wolf, we recommend Buffalo Spirit, Safari Sam, and Sumatran Storm. For those who want to stick with the wolf theme, we suggest Wolf Run, Wolf Moon, and Wolf Gold.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TsYwAiCXc2lQSpFDnYDQyPl3dgPh",
+                "id": "chatcmpl-7WV720U8YjakOEdupwF2gjaHzuB4o",
                 "object": "chat.completion",
-                "created": 1687355606,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980448,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique and engaging game mechanics\",\n        \"Stunning graphics and theme design\",\n        \"Special symbols and animations add excitement\",\n        \"Fantastic background music enhances the experience\"\n    ],\n    \"cons\": [\n        \"Fewer winnings during regular spins\",\n        \"Top ice must be unlocked to earn high-value winnings\"\n    ],\n    \"meta_title\": \"Play Ice Wolf Free Slot Game Review | Enjoy Unique Game Features\",\n    \"meta_description\": \"Read our review for Ice Wolf, the online slot game with engaging mechanics and stunning graphics. Play for free and experience special symbols and animations.\" \n}"
+                            "content": "{\n  \"pros\": [\"Unique gameplay mechanics and features\", \"Stunning setting and theme design\", \"Engaging game symbol and animation\", \"Immersive sound and music design\"],\n  \"cons\": [\"Reduced number of winnings during spins\", \"Limited selection of similar themed slots\"],\n  \"meta_title\": \"Play Ice Wolf Free Online | Slot Game Review\",\n  \"meta_description\": \"Read our review of Ice Wolf, an immersive slot game. Play for free and enjoy unique gameplay mechanics and stunning design.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 614,
-                    "completion_tokens": 128,
-                    "total_tokens": 742
+                    "prompt_tokens": 611,
+                    "completion_tokens": 106,
+                    "total_tokens": 717
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/ice-wolf.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Ice_Wolf_that_embodies_7289217a-d81e-40e9-bd8e-52c475ed182a_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_Wolf_that_embodies_7289217a-d81e-40e9-bd8e-52c475ed182a_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_Wolf_that_embodies_7289217a-d81e-40e9-bd8e-52c475ed182a_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_Wolf_that_embodies_7289217a-d81e-40e9-bd8e-52c475ed182a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ice Wolf (Version 2).webp",
+        "game_reviews/processed_images/Ice Wolf (Version 1).webp",
+        "game_reviews/processed_images/Ice Wolf (Version 3).webp",
+        "game_reviews/processed_images/Ice Wolf (Version 4).webp"
+    ],
+    "slug": "ice-wolf",
+    "name": "Ice Wolf",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ice-Wolf-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ice Wolf Free Online | Slot Game Review' ### Meta set: 'Read our review of Ice Wolf, an immersive slot game. Play for free and enjoy unique gameplay mechanics and stunning design.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

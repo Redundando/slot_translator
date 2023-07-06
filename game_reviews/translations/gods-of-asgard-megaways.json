@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting Norse mythology theme.",
-                    "High winning potential with Megaways mechanic and bonus features.",
-                    "Autoplay feature with selectable limits.",
-                    "Availability on various devices."
+                    "Exciting Norse mythology theme",
+                    "High number of ways to win with Megaways mechanic",
+                    "Variety of bonus features for different deities",
+                    "Available on mobile devices"
                 ],
                 "cons": [
-                    "High volatility may not suit everyone's preference.",
-                    "Not available in all online casinos."
+                    "High volatility may not be suitable for all players",
+                    "Requires AAMS seal for online casino availability"
                 ],
-                "meta_title": "Play Gods of Asgard Megaways for Free | Exciting Norse Theme",
-                "meta_description": "Enjoy the exciting Norse mythology theme of Gods of Asgard Megaways! Play for free and discover the game's bonus features and winning potential."
+                "meta_title": "Play Gods of Asgard Megaways Free",
+                "meta_description": "Read our review of Gods of Asgard Megaways, an online slot game featuring Norse mythology deities and exciting bonus features. Play for free now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gods of Asgard Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGods of Asgard Megaways\n\nGods of Asgard Megaways is an online slot game that features Norse mythology deities.\n\nNorse mythology\n\nThe game includes popular deities from Norse mythology such as Thor, Loki, Odin, Freya, Fenrir, as well as two messenger ravens, Huginn, and Muninn.\n\nGame mechanics\n\nThe game has a 6-reel variable row layout with a horizontal roller on top that creates winning combos. The number of ways to win ranges from 324 to 200,704 with each spin. The minimum bet is €0.10 with variable bet options. The game has an autoplay feature, with selectable limits to stop the mode. The theoretical return to player is 96.7%, and the game's volatility is high.\n\nSymbols and bonus features\n\nThe game features symbols that include cards, a horn, a cup, a medallion, a hammer, and a ring with varying values. The game includes two wild symbols, which are the Wolf and the Ravens. There is a Scatter symbol in the form of a lightning bolt that allows us to earn from 8 to 20 free games. The game also has various bonus features for different deities: Freya transforms 2 to 4 symbols into Wild ones, Loki transforms from 2 to 4 symbols into a random symbol, Thor transforms 3 or 4 symbols into the highest symbol, and Odin transforms 2 symbols into multiplier Wilds. In the free spins, the multiplier increases every time the lion symbol appears.\n\nAvailability and compatibility\n\nGods of Asgard Megaways is available in online casinos, provided it has the AAMS seal. The game is compatible with various devices, including smartphones and tablets.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gods of Asgard Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGods of Asgard Megaways\n\nGods of Asgard Megaways is an online slot game that features Norse mythology deities.\n\nNorse mythology\n\nThe game includes popular deities from Norse mythology such as Thor, Loki, Odin, Freya, Fenrir, as well as two messenger ravens, Huginn, and Muninn.\n\nGame mechanics\n\nThe game has a 6-reel variable row layout with a horizontal roller on top that creates winning combos. The number of ways to win ranges from 324 to 200,704 with each spin. The minimum bet is €0.10 with variable bet options. The game has an autoplay feature, with selectable limits to stop the mode. The theoretical return to player is 96.7%, and the game's volatility is high.\n\nSymbols and bonus features\n\nThe game features symbols that include cards, a horn, a cup, a medallion, a hammer, and a ring with varying values. The game includes two wild symbols, which are the Wolf and the Ravens. There is a Scatter symbol in the form of a lightning bolt that allows us to earn from 8 to 20 free games. The game also has various bonus features for different deities: Freya transforms 2 to 4 symbols into Wild ones, Loki transforms from 2 to 4 symbols into a random symbol, Thor transforms 3 or 4 symbols into the highest symbol, and Odin transforms 2 symbols into multiplier Wilds. In the free spins, the multiplier increases every time the lion symbol appears.\n\nAvailability and compatibility\n\nGods of Asgard Megaways is available in online casinos, provided it has the AAMS seal. The game is compatible with various devices, including smartphones and tablets.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TPdgOgIhOuKZ5UICpp4Edb9pTvTc",
+                "id": "chatcmpl-7WTtB4ZV388KO5jjfbCtk3YalsD2R",
                 "object": "chat.completion",
-                "created": 1687244424,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 535,
-                    "completion_tokens": 130,
-                    "total_tokens": 665
-                },
+                "created": 1687975745,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting Norse mythology theme.\",\n        \"High winning potential with Megaways mechanic and bonus features.\",\n        \"Autoplay feature with selectable limits.\",\n        \"Availability on various devices.\"\n    ],\n    \"cons\": [\n        \"High volatility may not suit everyone's preference.\",\n        \"Not available in all online casinos.\"\n    ],\n    \"meta_title\": \"Play Gods of Asgard Megaways for Free | Exciting Norse Theme\",\n    \"meta_description\": \"Enjoy the exciting Norse mythology theme of Gods of Asgard Megaways! Play for free and discover the game's bonus features and winning potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting Norse mythology theme\",\n    \"High number of ways to win with Megaways mechanic\",\n    \"Variety of bonus features for different deities\",\n    \"Available on mobile devices\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suitable for all players\",\n    \"Requires AAMS seal for online casino availability\"\n  ],\n  \"meta_title\": \"Play Gods of Asgard Megaways Free\",\n  \"meta_description\": \"Read our review of Gods of Asgard Megaways, an online slot game featuring Norse mythology deities and exciting bonus features. Play for free now.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 532,
+                    "completion_tokens": 131,
+                    "total_tokens": 663
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gods-of-asgard-megaways.json"
+    "filename": "game_reviews/translations/gods-of-asgard-megaways.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__2b57bc9b-3c34-4c6d-a52e-fb713a21004e_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__796a491b-c565-43ad-809e-60105b66c2ab_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__796a491b-c565-43ad-809e-60105b66c2ab_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__2b57bc9b-3c34-4c6d-a52e-fb713a21004e_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__796a491b-c565-43ad-809e-60105b66c2ab_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__796a491b-c565-43ad-809e-60105b66c2ab_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__2b57bc9b-3c34-4c6d-a52e-fb713a21004e_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Gods_of_Asgard__2b57bc9b-3c34-4c6d-a52e-fb713a21004e_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 4).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 5).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 2).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 6).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 3).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 8).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 1).webp",
+        "game_reviews/processed_images/Gods Of Asgard Megaways (Version 7).webp"
+    ],
+    "slug": "gods-of-asgard-megaways",
+    "name": "Gods of Asgard Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gods-Of-Asgard-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gods of Asgard Megaways Free' ### Meta set: 'Read our review of Gods of Asgard Megaways, an online slot game featuring Norse mythology deities and exciting bonus features. Play for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -6,6 +6,7 @@ from htmldocx import HtmlToDocx
 
 from scrape import slugify
 from text_manipulator import TextManipulator
+from upload_manager import UploadManager
 
 
 def open_file(filename):
@@ -19,7 +20,7 @@ def open_file(filename):
 class ReviewTranslator:
 
     def __init__(self, thing_name="", thing="slot", filename=None, output_directory="", text="", mode="translate",
-                 remove_faq=True):
+                 remove_faq=True, uploader=UploadManager, slug=""):
         self.filename = filename if filename else (slugify(thing_name) + ".json")
         self.output_directory = output_directory
         self.thing = thing
@@ -27,8 +28,67 @@ class ReviewTranslator:
         self.original_text = text
         self.text_manipulator = TextManipulator(self.output_directory + "/" + self.filename)
         self.text_manipulator.data["original_text"] = self.original_text
+        self.text_manipulator.data["slug"] = slug
         self.mode = mode
         self.do_remove_faq = remove_faq
+        self.text_manipulator.data["name"] = self.thing_name
+        self.text_manipulator.save_file()
+        self.uploader = uploader
+
+    def upload_slot_content(self):
+        self.publish()
+        self.insert_content()
+
+    def publish(self):
+        if self.data.get("assume_published"):
+            return
+        print(f"Publishing {self.thing_name}")
+        self.uploader.publish_slot(name=self.thing_name)
+        self.text_manipulator.data["assume_published"] = True
+        self.text_manipulator.save_file()
+
+    def insert_content(self):
+        has_content = self.uploader.has_content(self.text_manipulator.data["slug"])
+        if has_content:
+            content_status = "Page already has content"
+            self.text_manipulator.data["content_status"] = content_status
+            self.text_manipulator.save_file()
+            return
+
+        admin_page_found = self.uploader.goto_slot_page_admin(slug=self.text_manipulator.data["slug"])
+        self.text_manipulator.data["page_status"] = "Page exists"
+        if not admin_page_found:
+            self.text_manipulator.data["page_status"] = "Page not found_"
+            self.text_manipulator.save_file()
+            return
+
+        feature_image_status = self.uploader.update_feature_image(name=self.thing_name)
+
+        self.text_manipulator.data["feature_image_status"] = feature_image_status
+        if "/uploads/" in feature_image_status:
+            content = f"""<!-- wp:image {{"align":"right"}} --><figure class="wp-block-image alignright"><img src='{feature_image_status}' alt='{self.thing_name}'></figure><!-- /wp:image -->{self.generate_html(include_metas=False)[0]}"""
+        else:
+            content = self.generate_html(include_metas=False)[0]
+        content_status = self.uploader.insert_html(html=content)
+        author_status = self.uploader.select_author()
+        self.text_manipulator.data["author_status"] = author_status
+        meta_status = self.uploader.enter_metas(title=self.meta[0].get("meta_title"), description=self.meta[0].get("meta_description"))
+        self.text_manipulator.data["meta_status"] = meta_status
+        save_status = self.uploader.save_review()
+        self.text_manipulator.data["save_status"] = save_status
+        self.text_manipulator.data["content_status"] = content_status
+        self.text_manipulator.save_file()
+
+    def open_file(self):
+        if not os.path.isfile(self.filename):
+            return
+        f = open(self.filename, encoding="utf8")
+        self.data = json.load(f)
+        self.data["filename"] = self.filename
+
+    def save_file(self):
+        with open(self.filename, "w", encoding='utf8') as f:
+            json.dump(self.data, f, indent=4, ensure_ascii=False)
 
     @property
     def data(self):
@@ -203,7 +263,7 @@ Please provide the following:
 - Bullet lists briefly covering the topic "What we like". (4 bullet points)
 - Bullet lists briefly covering the topic "What we don't like". (2 bullet pints)
 - SEO optimized meta title with a maximum length of 45 characters. Include the words "play" and "free". Capitalize according to AP rules.
-- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words "play" and "free".
+- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words "play" and "free".
 
 Respond with a JSON using the keys "pros" (simple array), "cons" (simple array), "meta_title" and "meta_description". 
 
@@ -266,11 +326,12 @@ Review: {self.raw_translation}
     def dalle_prompt(self):
         return self.data.get("dalle-prompt")[0].get("response")
 
-    def generate_html(self, attempts=1):
+    def generate_html(self, attempts=1, include_metas=True):
         result = []
         for i in range(attempts):
             html = ""
-            html += "<h1>" + self.meta[i].get("meta_title") + "</h1>"
+            if include_metas:
+                html += "<h1>" + self.meta[i].get("meta_title") + "</h1>"
             html += self.expanded_review_html[i]
 
             html += "<h2>FAQ</h2>"
@@ -284,8 +345,9 @@ Review: {self.raw_translation}
             for con in self.meta[i].get("cons"):
                 html += f"<li>{con}</li>"
             html += "</ul>"
-            html += "<p><strong>" + self.meta[i].get("meta_title") + "</strong></p>"
-            html += "<p><i>" + self.meta[i].get("meta_description") + "</i></p>"
+            if include_metas:
+                html += "<p><strong>" + self.meta[i].get("meta_title") + "</strong></p>"
+                html += "<p><i>" + self.meta[i].get("meta_description") + "</i></p>"
             result.append(html)
         return result
 
@@ -298,18 +360,18 @@ Review: {self.raw_translation}
             filename = self.output_directory + "/" + slugify(self.thing_name) + f" (Version {i + 1}).docx"
             document.save(filename)
 
-    def run_all(self, force_new=False):
+    def run_all(self, force_new=False, force_new_meta=False, attempts=1):
         if self.mode == "translate":
-            self.translate_raw(attempts=2, force_new=force_new)
+            self.translate_raw(attempts=attempts, force_new=force_new)
         if self.do_remove_faq:
             self.remove_faq_from_text(force_new=force_new)
-        self.generate_topics(attempts=2, force_new=force_new)
-        self.rewrite_with_topics(attempts=2, force_new=force_new)
-        self.expand_review(attempts=2, force_new=force_new)
-        self.generate_metas(attempts=2, force_new=force_new)
-        self.generate_faq(attempts=2, force_new=force_new)
+        self.generate_topics(attempts=attempts, force_new=force_new)
+        self.rewrite_with_topics(attempts=attempts, force_new=force_new)
+        self.expand_review(attempts=attempts, force_new=force_new)
+        self.generate_metas(attempts=attempts, force_new=(force_new or force_new_meta))
+        self.generate_faq(attempts=attempts, force_new=force_new)
         self.generate_dalle_prompt()
-        self.generate_docx(attempts=2)
+        self.generate_docx(attempts=attempts)
 
 
 if __name__ == '__main__':

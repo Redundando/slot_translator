@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Interesting and unique Chinese visuals",
-                    "Symbols based on Chinese lucky charms",
-                    "Oriental background music that fits the theme",
-                    "Mix of tradition and innovation with special features"
+                    "Interesting and unique visuals",
+                    "Chinese lucky charms as symbols",
+                    "Oriental background music",
+                    "Free spins and bonus game"
                 ],
                 "cons": [
                     "Value of winning combinations not always high",
-                    "Cost of spin significantly increases when transforming symbols into gold"
+                    "Cost increases with golden symbols"
                 ],
-                "meta_title": "Play Dragon Riches Free: Chinese Themed Slot Game Review",
-                "meta_description": "Read our review of Dragon Riches, an online slot game with Chinese lucky charms and five golden symbols. Play for free and experience the oriental theme."
+                "meta_title": "Play Dragon Riches Free - Review and Gameplay",
+                "meta_description": "Play Dragon Riches free and enjoy its interesting visuals and innovative features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Appearance and Design\n\nDragon Riches is a slot game with a Chinese theme that offers interesting and unique visuals. The game has a design that perfectly fits this theme, with a red inlaid cloth for the backdrop of the game grid which takes inspiration from Chinese architecture. The columns are made of amaranth and gold wood, and there are two oriental dragons present on either side. The symbols in the game are all representations of different Chinese lucky charms, ranging from coins and paper lanterns to Caishen, the god of wealth.\n\nSymbolism and Lucky Charms\n\nThe symbols in Dragon Riches are all based on Chinese lucky charms. The golden dragon is the most important symbol, as it allows for different combinations of the other symbols. The playing card symbols are represented with the initials A, K, Q, J, and 10 in a font that recalls Chinese ideograms.\n\nBackground Music\n\nThe background music in Dragon Riches is oriental and in perfect harmony with the slot's setting. The sounds are typical of ancient Chinese cultures and are not forced or unfamiliar.\n\nSpecial Features (Free Spins, Bonus Game, Gold Symbols)\n\nDragon Riches offers players a mix of online tradition and innovation. The game grid is a 5x3 that displays fifteen symbols per spin with 243 paylines that allow for a rich number of winning combinations, although their value is not always very high. The game offers both a free spins mode and a bonus game, triggered by finding enough dragons in a single spin. The real innovation lies in the five golden symbols. For each spin, it's possible to choose how many symbols on the game screen to transform into gold, from a minimum of one to a maximum of five. Transforming a symbol into gold allows for huge wins with the combinations involving it, but significantly increases the cost of the spin.\n\nComparison to Other Oriental-Themed Slots\n\nThere are various oriental-themed slots in the market. Some examples are 1421 Voyages of Zheng, Feng Fu, 108 Heroes Multiplier, Asian Beauty, and Chinese Kitchen. Compared to these slots, Dragon Riches stands out due to its unique and interesting visuals, as well as its innovative feature of the five golden symbols.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Appearance and Design\n\nDragon Riches is a slot game with a Chinese theme that offers interesting and unique visuals. The game has a design that perfectly fits this theme, with a red inlaid cloth for the backdrop of the game grid which takes inspiration from Chinese architecture. The columns are made of amaranth and gold wood, and there are two oriental dragons present on either side. The symbols in the game are all representations of different Chinese lucky charms, ranging from coins and paper lanterns to Caishen, the god of wealth.\n\nSymbolism and Lucky Charms\n\nThe symbols in Dragon Riches are all based on Chinese lucky charms. The golden dragon is the most important symbol, as it allows for different combinations of the other symbols. The playing card symbols are represented with the initials A, K, Q, J, and 10 in a font that recalls Chinese ideograms.\n\nBackground Music\n\nThe background music in Dragon Riches is oriental and in perfect harmony with the slot's setting. The sounds are typical of ancient Chinese cultures and are not forced or unfamiliar.\n\nSpecial Features (Free Spins, Bonus Game, Gold Symbols)\n\nDragon Riches offers players a mix of online tradition and innovation. The game grid is a 5x3 that displays fifteen symbols per spin with 243 paylines that allow for a rich number of winning combinations, although their value is not always very high. The game offers both a free spins mode and a bonus game, triggered by finding enough dragons in a single spin. The real innovation lies in the five golden symbols. For each spin, it's possible to choose how many symbols on the game screen to transform into gold, from a minimum of one to a maximum of five. Transforming a symbol into gold allows for huge wins with the combinations involving it, but significantly increases the cost of the spin.\n\nComparison to Other Oriental-Themed Slots\n\nThere are various oriental-themed slots in the market. Some examples are 1421 Voyages of Zheng, Feng Fu, 108 Heroes Multiplier, Asian Beauty, and Chinese Kitchen. Compared to these slots, Dragon Riches stands out due to its unique and interesting visuals, as well as its innovative feature of the five golden symbols.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T7Tw1Ih66TUaNbyA3sfGeUQud4dE",
+                "id": "chatcmpl-7WRhaWmfRxYKj1vUbciGfcPuqZ5jH",
                 "object": "chat.completion",
-                "created": 1687174628,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 628,
-                    "completion_tokens": 137,
-                    "total_tokens": 765
-                },
+                "created": 1687967338,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Interesting and unique Chinese visuals\",\n        \"Symbols based on Chinese lucky charms\",\n        \"Oriental background music that fits the theme\",\n        \"Mix of tradition and innovation with special features\"\n    ],\n    \"cons\": [\n        \"Value of winning combinations not always high\",\n        \"Cost of spin significantly increases when transforming symbols into gold\"\n    ],\n    \"meta_title\": \"Play Dragon Riches Free: Chinese Themed Slot Game Review\",\n    \"meta_description\": \"Read our review of Dragon Riches, an online slot game with Chinese lucky charms and five golden symbols. Play for free and experience the oriental theme.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Interesting and unique visuals\",\n      \"Chinese lucky charms as symbols\",\n      \"Oriental background music\",\n      \"Free spins and bonus game\"\n   ],\n   \"cons\": [\n      \"Value of winning combinations not always high\",\n      \"Cost increases with golden symbols\"\n   ],\n   \"meta_title\": \"Play Dragon Riches Free - Review and Gameplay\",\n   \"meta_description\": \"Play Dragon Riches free and enjoy its interesting visuals and innovative features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 625,
+                    "completion_tokens": 102,
+                    "total_tokens": 727
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_image_to_feature_in_a_blog_aae8620a-490c-4aec-9333-7edf0cbd39f8_1.png",
         "arved__Prompt_Create_a_cartoon-style_image_to_feature_in_a_blog_aae8620a-490c-4aec-9333-7edf0cbd39f8_4.png",
         "arved__Prompt_Create_a_cartoon-style_image_to_feature_in_a_blog_aae8620a-490c-4aec-9333-7edf0cbd39f8_2.png",
-        "arved__Prompt_Create_a_cartoon-style_image_to_feature_in_a_blog_aae8620a-490c-4aec-9333-7edf0cbd39f8_1.png",
         "arved__Prompt_Create_a_cartoon-style_image_to_feature_in_a_blog_aae8620a-490c-4aec-9333-7edf0cbd39f8_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Riches (Version 3).webp",
-        "game_reviews/processed_images/Dragon Riches (Version 1).webp",
         "game_reviews/processed_images/Dragon Riches (Version 2).webp",
-        "game_reviews/processed_images/Dragon Riches (Version 4).webp"
+        "game_reviews/processed_images/Dragon Riches (Version 1).webp",
+        "game_reviews/processed_images/Dragon Riches (Version 4).webp",
+        "game_reviews/processed_images/Dragon Riches (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/dragon-riches.json"
+    "filename": "game_reviews/translations/dragon-riches.json",
+    "slug": "dragon-riches",
+    "name": "Dragon Riches",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Riches-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Riches Free - Review and Gameplay' ### Meta set: 'Play Dragon Riches free and enjoy its interesting visuals and innovative features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -583,37 +583,37 @@
                     "Extensive betting range",
                     "Respins function for increased win opportunities",
                     "Stunning graphics and immersive design",
-                    "Medium-high volatility for exciting gameplay"
+                    "Average RTP percentage"
                 ],
                 "cons": [
-                    "Average RTP percentage compared to other slot games",
-                    "Limited availability on some online casinos"
+                    "Medium-high volatility may require patience for larger wins",
+                    "RTP percentage is average compared to other slot games"
                 ],
-                "meta_title": "Play Druid's Dream Free: Review, Gameplay Features & Symbols",
-                "meta_description": "Read our review of the slot game Druid's Dream. Discover Druid's Dream gameplay features, symbols, and pros and cons. Play Druid's Dream for free."
+                "meta_title": "Play Druid’s Dream for Free - Exciting Slot with Stunning Graphics",
+                "meta_description": "Read our review of Druid's Dream and play this captivating slot game for free. Enjoy immersive gameplay and stunning graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Druid’s Dream\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDruid’s Dream is a standard 5-reel, 3-row slot machine with 40 paylines. The game offers an extensive betting range, allowing players to bet anywhere from 20 cents to a maximum of €400 per spin. Druid’s Dream features medium-high volatility, offering small frequent wins but larger prizes with a bit of patience required. The game offers a Respins function, which activates when a wild and scatter symbols appear on the same reel, extending the gameplay and increasing win opportunities.\n\nSymbols and Paylines\n\nDruid’s Dream incorporates symbols connected to Celtic mythology, with magical stones of various colours, wolves, owls, two musical instruments, and white wolves, which hold the highest value among all symbols. The game offers 40 paylines and no typical playing card symbols. The wild symbol is represented by the word ‘wild’ and appears on reels 1, 4, and 5, while it can appear stacked on reels 2 and 4. The two scatter symbols, represented by a male and female druid, function as wilds and activate the Respins function when they appear on the same reel as the wild symbol.\n\nVolatility\n\nThe volatility of Druid’s Dream is medium-high. This means that players can expect frequent wins, but larger prizes will require a bit of patience. The jackpot is set at 200 times the amount of the bet, and the game offers small and frequent wins, making the gameplay exciting and engaging.\n\nGraphics and Design\n\nDruid’s Dream provides players with an enchanted and immersive gaming experience. The graphics are stunning, with shades of green dominating the scene, and symbols connected to nature and Celtic mythology. The game depicts druids as magical creatures, with great attention to detail for a captivating and enchanting world. The graphics transport players into the magical world of Celtic mythology, providing a captivating and immersive gaming experience.\n\nReturn to Player (RTP)\n\nThe return to player (RTP) percentage of Druids Dream is 96%, which is average compared to most slot games. This means that on average, players can expect a return of €0.96 for every €1 bet on the slot machine. The RTP percentage is an essential factor to consider when choosing a slot machine, as a higher RTP percentage implies better chances of winning.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Druid’s Dream\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDruid’s Dream is a standard 5-reel, 3-row slot machine with 40 paylines. The game offers an extensive betting range, allowing players to bet anywhere from 20 cents to a maximum of €400 per spin. Druid’s Dream features medium-high volatility, offering small frequent wins but larger prizes with a bit of patience required. The game offers a Respins function, which activates when a wild and scatter symbols appear on the same reel, extending the gameplay and increasing win opportunities.\n\nSymbols and Paylines\n\nDruid’s Dream incorporates symbols connected to Celtic mythology, with magical stones of various colours, wolves, owls, two musical instruments, and white wolves, which hold the highest value among all symbols. The game offers 40 paylines and no typical playing card symbols. The wild symbol is represented by the word ‘wild’ and appears on reels 1, 4, and 5, while it can appear stacked on reels 2 and 4. The two scatter symbols, represented by a male and female druid, function as wilds and activate the Respins function when they appear on the same reel as the wild symbol.\n\nVolatility\n\nThe volatility of Druid’s Dream is medium-high. This means that players can expect frequent wins, but larger prizes will require a bit of patience. The jackpot is set at 200 times the amount of the bet, and the game offers small and frequent wins, making the gameplay exciting and engaging.\n\nGraphics and Design\n\nDruid’s Dream provides players with an enchanted and immersive gaming experience. The graphics are stunning, with shades of green dominating the scene, and symbols connected to nature and Celtic mythology. The game depicts druids as magical creatures, with great attention to detail for a captivating and enchanting world. The graphics transport players into the magical world of Celtic mythology, providing a captivating and immersive gaming experience.\n\nReturn to Player (RTP)\n\nThe return to player (RTP) percentage of Druids Dream is 96%, which is average compared to most slot games. This means that on average, players can expect a return of €0.96 for every €1 bet on the slot machine. The RTP percentage is an essential factor to consider when choosing a slot machine, as a higher RTP percentage implies better chances of winning.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T9YuLZZPNeY5tGVq95HL2SFvbBoi",
+                "id": "chatcmpl-7WRshQ5JM9tzgXOhRKvwXoJFOiPx7",
                 "object": "chat.completion",
-                "created": 1687182624,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 647,
-                    "completion_tokens": 130,
-                    "total_tokens": 777
-                },
+                "created": 1687968027,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Extensive betting range\",\n        \"Respins function for increased win opportunities\",\n        \"Stunning graphics and immersive design\",\n        \"Medium-high volatility for exciting gameplay\"\n    ],\n    \"cons\": [\n        \"Average RTP percentage compared to other slot games\",\n        \"Limited availability on some online casinos\"\n    ],\n    \"meta_title\": \"Play Druid's Dream Free: Review, Gameplay Features & Symbols\",\n    \"meta_description\": \"Read our review of the slot game Druid's Dream. Discover Druid's Dream gameplay features, symbols, and pros and cons. Play Druid's Dream for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Extensive betting range\",\n    \"Respins function for increased win opportunities\",\n    \"Stunning graphics and immersive design\",\n    \"Average RTP percentage\"\n  ],\n  \"cons\": [\n    \"Medium-high volatility may require patience for larger wins\",\n    \"RTP percentage is average compared to other slot games\"\n  ],\n  \"meta_title\": \"Play Druid’s Dream for Free - Exciting Slot with Stunning Graphics\",\n  \"meta_description\": \"Read our review of Druid's Dream and play this captivating slot game for free. Enjoy immersive gameplay and stunning graphics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 644,
+                    "completion_tokens": 123,
+                    "total_tokens": 767
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/druids-dream.json"
+    "filename": "game_reviews/translations/druids-dream.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Druids_Dream_fe_8fc6eb95-23fd-42ac-ab4a-e81a0ddf1e21_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Druids_Dream_fe_8fc6eb95-23fd-42ac-ab4a-e81a0ddf1e21_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Druids_Dream_fe_8fc6eb95-23fd-42ac-ab4a-e81a0ddf1e21_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Druids_Dream_fe_8fc6eb95-23fd-42ac-ab4a-e81a0ddf1e21_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "druids-dream",
+    "name": "Druid’s Dream",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/druids-dream-free-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Druid’s Dream for Free - Exciting Slot with Stunning Graphics' ### Meta set: 'Read our review of Druid's Dream and play this captivating slot game for free. Enjoy immersive gameplay and stunning graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

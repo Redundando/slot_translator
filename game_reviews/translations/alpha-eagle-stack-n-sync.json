@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautifully designed icons with a winter theme",
-                    "High volatility rate for a chance to win big",
-                    "Great RTP percentage of 96.26%",
-                    "Variety of special features including Free Spins and Respins"
+                    "Stunning graphics and immersive snowy mountain background",
+                    "Beautifully designed symbols with a cool winter theme",
+                    "Exciting bonus symbol system with various special features",
+                    "High volatility rate and excellent RTP percentage"
                 ],
                 "cons": [
-                    "No progressive jackpot feature",
-                    "Bonus Buy button may not be suitable for all players"
+                    "Limited number of bonus symbols",
+                    "Bonus features can only be purchased with the Bonus Buy button"
                 ],
-                "meta_title": "Play Alpha Eagle Stack N Sync for Free - Exciting Winter Slot Game",
-                "meta_description": "Experience the exciting winter-themed slot game Alpha Eagle Stack N Sync for free. Enjoy Respins, Free Spins, and a variety of bonus features."
+                "meta_title": "Play Alpha Eagle Stack N Sync for Free - Exciting Slot Game",
+                "meta_description": "Read our review of Alpha Eagle Stack N Sync, an exciting slot game with stunning graphics. Play for free and experience the winter theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Alpha Eagle Stack N Sync\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design and Visuals\n\nThe Alpha Eagle Stack N Sync slot features a snowy mountain background with a transparent game grid that allows complete immersion in the game. The icons' graphics are beautifully designed, with symbols carved in stone and cool colors enhancing the winter theme. The music is a catchy keyboard tune that complements the game's atmosphere and reminiscent of the sound of the 80s.\n\nPaylines and Volatility\n\nThe game has a layout of 5 reels, 4 rows, and 20 fixed paylines, where players can bet a minimum of €0.10 and maximum of €100. Alpha Eagle Stack N Sync has a high volatility rate, which makes the game more exciting and offers a chance to win big. Additionally, the game boasts an excellent RTP percentage of 96.26%.\n\nBonus Symbol System\n\nThis slot has five bonus symbols that include two versions of S'N'S scatter, Wild, FS, and bird of prey's talons. While the Wild acts as a substitute for all other symbols except the bonus ones, the nest with the S'N'S writing appearing on the reel transforms the entire reel into a random symbol with a Respin. The Scatter symbols can stack, and there are two: the FS symbol that triggers Free Spins and the talons that activate a special game with all eagle and golden eagle symbols appearing for three respins. These features can also be purchased through the Bonus Buy button.\n\nSpecial Features\n\nAlpha Eagle Stack N Sync's special features include a golden version of the S'N'S symbol which can stack all the grid reels with Wild or Scatter and activate a multiplier of up to 100x. The Wild is the highest paying symbol that can reward players with as much as the eagle head when five land on the reels. The Scatter can also stack during the game.\n\nOverall Experience and Recommendation\n\nAlpha Eagle Stack N Sync is a slot game with stunning graphics and an exciting theme that complements the winter season. The game boasts excellent features like the bonus system, special features, Free Spins, Respins, and scatters. The high volatility rate and an RTP of 96.26% add to the excitement of playing, and the various betting options accommodate players of different levels. Overall, Alpha Eagle Stack N Sync is a highly recommended game for slot enthusiasts looking for a new and exciting experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Alpha Eagle Stack N Sync\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design and Visuals\n\nThe Alpha Eagle Stack N Sync slot features a snowy mountain background with a transparent game grid that allows complete immersion in the game. The icons' graphics are beautifully designed, with symbols carved in stone and cool colors enhancing the winter theme. The music is a catchy keyboard tune that complements the game's atmosphere and reminiscent of the sound of the 80s.\n\nPaylines and Volatility\n\nThe game has a layout of 5 reels, 4 rows, and 20 fixed paylines, where players can bet a minimum of €0.10 and maximum of €100. Alpha Eagle Stack N Sync has a high volatility rate, which makes the game more exciting and offers a chance to win big. Additionally, the game boasts an excellent RTP percentage of 96.26%.\n\nBonus Symbol System\n\nThis slot has five bonus symbols that include two versions of S'N'S scatter, Wild, FS, and bird of prey's talons. While the Wild acts as a substitute for all other symbols except the bonus ones, the nest with the S'N'S writing appearing on the reel transforms the entire reel into a random symbol with a Respin. The Scatter symbols can stack, and there are two: the FS symbol that triggers Free Spins and the talons that activate a special game with all eagle and golden eagle symbols appearing for three respins. These features can also be purchased through the Bonus Buy button.\n\nSpecial Features\n\nAlpha Eagle Stack N Sync's special features include a golden version of the S'N'S symbol which can stack all the grid reels with Wild or Scatter and activate a multiplier of up to 100x. The Wild is the highest paying symbol that can reward players with as much as the eagle head when five land on the reels. The Scatter can also stack during the game.\n\nOverall Experience and Recommendation\n\nAlpha Eagle Stack N Sync is a slot game with stunning graphics and an exciting theme that complements the winter season. The game boasts excellent features like the bonus system, special features, Free Spins, Respins, and scatters. The high volatility rate and an RTP of 96.26% add to the excitement of playing, and the various betting options accommodate players of different levels. Overall, Alpha Eagle Stack N Sync is a highly recommended game for slot enthusiasts looking for a new and exciting experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SW6BoBfIYZctpJzdjGoS66JJHksx",
+                "id": "chatcmpl-7WN6sqLVuVinUDNGeSphlQE0nmi9k",
                 "object": "chat.completion",
-                "created": 1687030927,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 654,
-                    "completion_tokens": 144,
-                    "total_tokens": 798
-                },
+                "created": 1687949686,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautifully designed icons with a winter theme\",\n        \"High volatility rate for a chance to win big\",\n        \"Great RTP percentage of 96.26%\",\n        \"Variety of special features including Free Spins and Respins\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot feature\",\n        \"Bonus Buy button may not be suitable for all players\"\n    ],\n    \"meta_title\": \"Play Alpha Eagle Stack N Sync for Free - Exciting Winter Slot Game\",\n    \"meta_description\": \"Experience the exciting winter-themed slot game Alpha Eagle Stack N Sync for free. Enjoy Respins, Free Spins, and a variety of bonus features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning graphics and immersive snowy mountain background\",\n    \"Beautifully designed symbols with a cool winter theme\",\n    \"Exciting bonus symbol system with various special features\",\n    \"High volatility rate and excellent RTP percentage\"\n  ],\n  \"cons\": [\n    \"Limited number of bonus symbols\",\n    \"Bonus features can only be purchased with the Bonus Buy button\"\n  ],\n  \"meta_title\": \"Play Alpha Eagle Stack N Sync for Free - Exciting Slot Game\",\n  \"meta_description\": \"Read our review of Alpha Eagle Stack N Sync, an exciting slot game with stunning graphics. Play for free and experience the winter theme.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 651,
+                    "completion_tokens": 137,
+                    "total_tokens": 788
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/alpha-eagle-stack-n-sync.json",
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_2.png",
         "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_1.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_3.png"
+        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Alpha_Eagle_Sta_9a239c74-07e7-4b60-bf6a-c9e8fd817d00_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 2).webp",
+        "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 4).webp",
         "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 3).webp",
         "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 1).webp",
-        "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Alpha Eagle Stack N Sync (Version 2).webp"
+    ],
+    "slug": "alpha-eagle-stack-n-sync",
+    "name": "Alpha Eagle Stack N Sync",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Alpha-Eagle-Stack-N-Sync-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Alpha Eagle Stack N Sync for Free - Exciting Slot Game' ### Meta set: 'Read our review of Alpha Eagle Stack N Sync, an exciting slot game with stunning graphics. Play for free and experience the winter theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

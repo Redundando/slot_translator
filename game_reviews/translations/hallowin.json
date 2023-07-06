@@ -724,39 +724,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High-quality graphics and design",
-                    "Special bonus features with free spins",
-                    "Medium volatility with a fair RTP",
-                    "Optimized for mobile devices"
+                    "Halloween-themed with immersive graphics",
+                    "Four jackpots for players to win",
+                    "Special bonus features and free spins",
+                    "Available for free play without registration"
                 ],
                 "cons": [
-                    "Limited maximum win potential compared to other games",
-                    "Limited availability on online casinos"
+                    "Limited maximum win potential",
+                    "Limited bonus features compared to other games"
                 ],
-                "meta_title": "Play Hallowin Free: Review of RTP & Volatility",
-                "meta_description": "Discover the gameplay, RTP, and Volatility of Hallowin Slot and play it free! Read our review of this Halloween-themed game featuring four jackpots."
+                "meta_title": "Play Hallowin Slot Free - Spooky Halloween Fun",
+                "meta_description": "Discover the spooky fun of Hallowin slot. Play for free and enjoy Halloween-themed graphics and special bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hallowin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay, RTP, and Volatility of the Hallowin Slot\n\nHallowin is a Halloween-themed game developed by Platipus Studio. It features a 5x3 game grid, 50 paylines, and offers four jackpots for players. With an RTP of 95% and medium volatility, this game is perfect for those who are looking for classic gameplay with some experimental elements.\n\nSymbolism of the Hallowin Slot\n\nThe Hallowin slot features symbols that are consistent with the chosen theme. In the paytable, you will find card suits with eyes, spiders, bats, black cats, dead men, and ghosts representing standard symbols. In addition, there are special symbols, including wilds, scatters, and bonus symbols.\n\nSpecial Bonus Features and Free Spins\n\nHallowin presents special bonus features and free spins as follows:\n\nFree Spins Bonus\n\nWhen more than three scatters appear on the game field, players participate in 10 free spins. During this bonus, wild symbols expand to cover the reels completely.\n\nSpectral Spins Bonus\n\nWhen more than 6 bonus symbols appear on the game field, players receive five free spins. During this bonus, players receive a payout from all bonus symbols, and additional pumpkins reward them with cash prizes, free spins, or valuable jackpots. If all 15 spaces on the board are filled with pumpkins, the jackpot wheel appears, which spins to award a super prize worth x50, x100, x250, or x1000 the bet. It is also possible to purchase free or spectral spins at an increased bet.\n\nGraphics and Design\n\nHallowin features impeccable graphics that transport players to a terrifying night surrounded by glowing graves and pumpkins.\n\nWin Potential\n\nThe Hallowin slot machine offers a maximum win potential of 1380x, making players' rounds truly electrifying.\n\nAvailability and Accessibility\n\nHallowin is available for all players as a free demo mode on various online casinos without requiring registration. The game is optimized for mobile devices and can be played on any device.\n\nRTP and Volatility\n\nHallowin has an RTP of 95% and medium volatility for players who seek a perfect balance between winning potential and fair return rates.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hallowin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay, RTP, and Volatility of the Hallowin Slot\n\nHallowin is a Halloween-themed game developed by Platipus Studio. It features a 5x3 game grid, 50 paylines, and offers four jackpots for players. With an RTP of 95% and medium volatility, this game is perfect for those who are looking for classic gameplay with some experimental elements.\n\nSymbolism of the Hallowin Slot\n\nThe Hallowin slot features symbols that are consistent with the chosen theme. In the paytable, you will find card suits with eyes, spiders, bats, black cats, dead men, and ghosts representing standard symbols. In addition, there are special symbols, including wilds, scatters, and bonus symbols.\n\nSpecial Bonus Features and Free Spins\n\nHallowin presents special bonus features and free spins as follows:\n\nFree Spins Bonus\n\nWhen more than three scatters appear on the game field, players participate in 10 free spins. During this bonus, wild symbols expand to cover the reels completely.\n\nSpectral Spins Bonus\n\nWhen more than 6 bonus symbols appear on the game field, players receive five free spins. During this bonus, players receive a payout from all bonus symbols, and additional pumpkins reward them with cash prizes, free spins, or valuable jackpots. If all 15 spaces on the board are filled with pumpkins, the jackpot wheel appears, which spins to award a super prize worth x50, x100, x250, or x1000 the bet. It is also possible to purchase free or spectral spins at an increased bet.\n\nGraphics and Design\n\nHallowin features impeccable graphics that transport players to a terrifying night surrounded by glowing graves and pumpkins.\n\nWin Potential\n\nThe Hallowin slot machine offers a maximum win potential of 1380x, making players' rounds truly electrifying.\n\nAvailability and Accessibility\n\nHallowin is available for all players as a free demo mode on various online casinos without requiring registration. The game is optimized for mobile devices and can be played on any device.\n\nRTP and Volatility\n\nHallowin has an RTP of 95% and medium volatility for players who seek a perfect balance between winning potential and fair return rates.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7ToXfkNEPf6bohrPwdSCM564aLW2T",
+                "id": "chatcmpl-7WUXbHj8iMBDr5yHNMxMRVKBOnEwN",
                 "object": "chat.completion",
-                "created": 1687340151,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978251,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High-quality graphics and design\",\n        \"Special bonus features with free spins\",\n        \"Medium volatility with a fair RTP\",\n        \"Optimized for mobile devices\"\n    ],\n    \"cons\": [\n        \"Limited maximum win potential compared to other games\",\n        \"Limited availability on online casinos\"\n    ],\n    \"meta_title\": \"Play Hallowin Free: Review of RTP & Volatility\",\n    \"meta_description\": \"Discover the gameplay, RTP, and Volatility of Hallowin Slot and play it free! Read our review of this Halloween-themed game featuring four jackpots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Halloween-themed with immersive graphics\",\n    \"Four jackpots for players to win\",\n    \"Special bonus features and free spins\",\n    \"Available for free play without registration\"\n  ],\n  \"cons\": [\n    \"Limited maximum win potential\",\n    \"Limited bonus features compared to other games\"\n  ],\n  \"meta_title\": \"Play Hallowin Slot Free - Spooky Halloween Fun\",\n  \"meta_description\": \"Discover the spooky fun of Hallowin slot. Play for free and enjoy Halloween-themed graphics and special bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 634,
-                    "completion_tokens": 130,
-                    "total_tokens": 764
+                    "prompt_tokens": 631,
+                    "completion_tokens": 119,
+                    "total_tokens": 750
                 }
             }
         },
@@ -955,5 +955,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hallowin.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_prompt_for_DALLE_Design_a_cartoon_385f030f-126c-45dc-bffb-66c57d84be8e_1.png",
+        "arved__Create_a_feature_image_prompt_for_DALLE_Design_a_cartoon_385f030f-126c-45dc-bffb-66c57d84be8e_4.png",
+        "arved__Create_a_feature_image_prompt_for_DALLE_Design_a_cartoon_385f030f-126c-45dc-bffb-66c57d84be8e_3.png",
+        "arved__Create_a_feature_image_prompt_for_DALLE_Design_a_cartoon_385f030f-126c-45dc-bffb-66c57d84be8e_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hallowin (Version 2).webp",
+        "game_reviews/processed_images/Hallowin (Version 4).webp",
+        "game_reviews/processed_images/Hallowin (Version 3).webp",
+        "game_reviews/processed_images/Hallowin (Version 1).webp"
+    ],
+    "slug": "hallowin",
+    "name": "Hallowin",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hallowin-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hallowin Slot Free - Spooky Halloween Fun' ### Meta set: 'Discover the spooky fun of Hallowin slot. Play for free and enjoy Halloween-themed graphics and special bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

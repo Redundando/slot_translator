@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Generous RTP of approximately 96.13%",
-                    "Exciting Spin and Hold feature with a Grand Jackpot of €15,000.00",
-                    "Bursting with colorful symbols that match the game's naturalistic theme",
-                    "Autoplay standard controls and easy to play"
+                    "Free spins and bonus prizes",
+                    "Grand Jackpot of €15,000.00",
+                    "Autoplay feature",
+                    "Colorful symbols matching the naturalistic theme"
                 ],
                 "cons": [
-                    "Limited bet range may not appeal to high rollers",
-                    "Not suitable for players who don't enjoy high volatility games"
+                    "Limited bet limits (€1.00 - €20.00)",
+                    "May not appeal to high rollers"
                 ],
-                "meta_title": "Play Kanga Cash Extra Free Today and Win up to €15,000.00",
-                "meta_description": "Read our review of Kanga Cash Extra online slot game by Ainsworth and play it for free today. Win up to €15,000.00 in the Australian outback."
+                "meta_title": "Play Kanga Cash Extra for Free",
+                "meta_description": "Read our review of Kanga Cash Extra and play for free. Find out about its features and rewards."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Kanga Cash Extra\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nKanga Cash Extra is an online slot game by Ainsworth, set in the Australian outback and featuring kangaroos, dingoes, and lizards. The game offers free spins, bonus prizes, and a Spin and Hold feature that could award the Grand Jackpot of €15,000.00.\n\nBet Limits\n\nKanga Cash Extra has minimum bets starting at €1.00 and a maximum of €20.00. The game may disappoint high rollers who prefer higher stakes but offers a very generous RTP of approximately 96.13% and high volatility.\n\nRTP and Volatility\n\nKanga Cash Extra has an RTP of approximately 96.13% and high volatility. The Spin and Hold feature could award the Grand Jackpot of €15,000.00, and the big rewards are hidden at the end of it. Players should set win and loss limits.\n\nBonus Features\n\nKanga Cash Extra features Autoplay standard controls, and the reels are bursting with colorful symbols that match the game's naturalistic theme. The Boomerang symbols activate Free Spins, and the Sunset icons trigger the bonus called Spin and Hold, which offers players three free Respins with Sunset icons transforming into Sticky. During the feature, players can cover the reels with Sunset icons to win the Grand Bonus, or they can get it randomly during paid play.\n\nJackpots\n\nKanga Cash Extra offers a Grand Jackpot of €15,000.00, which players could win at the end of the Spin and Hold feature, by covering the reels with Sunset icons or getting it randomly during paid play. The game also offers random rewards up to 200 times bet and free spins with bonus prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Kanga Cash Extra\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nKanga Cash Extra is an online slot game by Ainsworth, set in the Australian outback and featuring kangaroos, dingoes, and lizards. The game offers free spins, bonus prizes, and a Spin and Hold feature that could award the Grand Jackpot of €15,000.00.\n\nBet Limits\n\nKanga Cash Extra has minimum bets starting at €1.00 and a maximum of €20.00. The game may disappoint high rollers who prefer higher stakes but offers a very generous RTP of approximately 96.13% and high volatility.\n\nRTP and Volatility\n\nKanga Cash Extra has an RTP of approximately 96.13% and high volatility. The Spin and Hold feature could award the Grand Jackpot of €15,000.00, and the big rewards are hidden at the end of it. Players should set win and loss limits.\n\nBonus Features\n\nKanga Cash Extra features Autoplay standard controls, and the reels are bursting with colorful symbols that match the game's naturalistic theme. The Boomerang symbols activate Free Spins, and the Sunset icons trigger the bonus called Spin and Hold, which offers players three free Respins with Sunset icons transforming into Sticky. During the feature, players can cover the reels with Sunset icons to win the Grand Bonus, or they can get it randomly during paid play.\n\nJackpots\n\nKanga Cash Extra offers a Grand Jackpot of €15,000.00, which players could win at the end of the Spin and Hold feature, by covering the reels with Sunset icons or getting it randomly during paid play. The game also offers random rewards up to 200 times bet and free spins with bonus prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxZWVz6xf2YcTXYjovmmT36K4ruU",
+                "id": "chatcmpl-7WVr7v1dBTEdQ7FXfYcxdYzwAxfjg",
                 "object": "chat.completion",
-                "created": 1687374862,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983305,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Generous RTP of approximately 96.13%\",\n        \"Exciting Spin and Hold feature with a Grand Jackpot of €15,000.00\",\n        \"Bursting with colorful symbols that match the game's naturalistic theme\",\n        \"Autoplay standard controls and easy to play\"\n    ],\n    \"cons\": [\n        \"Limited bet range may not appeal to high rollers\",\n        \"Not suitable for players who don't enjoy high volatility games\"\n    ],\n    \"meta_title\": \"Play Kanga Cash Extra Free Today and Win up to €15,000.00\",\n    \"meta_description\": \"Read our review of Kanga Cash Extra online slot game by Ainsworth and play it for free today. Win up to €15,000.00 in the Australian outback.\"  \n}"
+                            "content": "{\n  \"pros\": [\n    \"Free spins and bonus prizes\",\n    \"Grand Jackpot of €15,000.00\",\n    \"Autoplay feature\",\n    \"Colorful symbols matching the naturalistic theme\"\n  ],\n  \"cons\": [\n    \"Limited bet limits (€1.00 - €20.00)\",\n    \"May not appeal to high rollers\"\n  ],\n  \"meta_title\": \"Play Kanga Cash Extra for Free\",\n  \"meta_description\": \"Read our review of Kanga Cash Extra and play for free. Find out about its features and rewards.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 524,
-                    "completion_tokens": 172,
-                    "total_tokens": 696
+                    "prompt_tokens": 521,
+                    "completion_tokens": 121,
+                    "total_tokens": 642
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/kanga-cash-extra.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Kanga_Cash_Extra_that__3cf02f17-5e0e-4bf9-8498-21482e9facd5_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Kanga_Cash_Extra_that__3cf02f17-5e0e-4bf9-8498-21482e9facd5_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Kanga_Cash_Extra_that__3cf02f17-5e0e-4bf9-8498-21482e9facd5_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Kanga_Cash_Extra_that__3cf02f17-5e0e-4bf9-8498-21482e9facd5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Kanga Cash Extra (Version 4).webp",
+        "game_reviews/processed_images/Kanga Cash Extra (Version 3).webp",
+        "game_reviews/processed_images/Kanga Cash Extra (Version 1).webp",
+        "game_reviews/processed_images/Kanga Cash Extra (Version 2).webp"
+    ],
+    "slug": "kanga-cash-extra",
+    "name": "Kanga Cash Extra",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Kanga-Cash-Extra-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Kanga Cash Extra for Free' ### Meta set: 'Read our review of Kanga Cash Extra and play for free. Find out about its features and rewards.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Lucky Links feature adds more rows for better winning chances",
-                    "Four jackpots to win, with actual amounts determined by triggering bet",
-                    "Disco-themed slot game with vibrant graphics and symbols",
-                    "Free spins round features win multipliers for higher payouts"
+                    "Up to 50 paylines for more chances to win",
+                    "Special free spin round with win multipliers",
+                    "Lucky Links feature adds extra symbol rows",
+                    "Chance to win Mini, Minor, Major, and Grand Jackpots"
                 ],
                 "cons": [
-                    "Base game payouts can be relatively low compared to other slots",
-                    "Free spins round is triggered relatively rarely"
+                    "Limited variety of symbols",
+                    "Free spin round may be difficult to trigger"
                 ],
-                "meta_title": "Play Lucky Link Beats for Free: Pros and Cons",
-                "meta_description": "Discover the pros and cons of Lucky Link Beats, a disco-themed online slot game with four jackpots and a Lucky Links feature. Play it now for free."
+                "meta_title": "Play Lucky Link Beats Slot for Free",
+                "meta_description": "Play the disco-themed Lucky Link Beats slot for free and enjoy its unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Link Beats\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nLucky Link Beats is a five-reel slot with up to 50 paylines that can be activated. There are standard wild substitutions, a special free spin round where win multipliers can be awarded, and the Lucky Links feature that unlocks four additional symbol rows to give you even more chances to win cash prizes or jackpots.\n\nJackpots\n\nThe Lucky Links feature can award Mini, Minor, Major, and Grand Jackpots, with the actual amounts of each determined by the triggering bet. The highest prizes in regular spins are awarded by the game logo, with 50x, 150x, and 500x claimed by three, four, or five on a payline.\n\nSymbols and theme\n\nLucky Link Beats is a disco-themed slot game with symbols that include Hearts, Clubs, Diamonds, and Spades in different colors. Microphones and mixing consoles are worth as much as Diamonds, while stage lights and vinyl records can pay up to 100x and 150x your bet per line respectively. The highest prizes in regular spins are awarded by the game logo, with 50x, 150x, and 500x claimed by three, four, or five on a payline.\n\nOther recommended slots\n\nIf you like the unusual features and musical theme of Lucky Link Beats, then you might also enjoy Lightning Box Games' video slot, Mild Rockers, with its six metal-themed reels and high-priced guitarists, keyboards, and drum kits. Another recommended slot game is Kiss, which has a scatter symbol triggering free games, during which Encore spins can transform the slot into Wild Rockers mode with extra wild symbols.\n\nLucky Links feature\n\nThe Lucky Links feature is activated by landing four or more Lucky Link symbols anywhere on the reels, which adds four more rows for a total of eight. You get an initial three free spins and every four Lucky Link symbols will unlock a row and stay in place for the rest of the feature. Every time a Lucky Link symbol appears on an unlocked row, three more free spins are awarded until no new bonus symbols appear for three spins. The prizes of the Lucky Link symbols are collected during the feature and can include Mini, Minor, Major, and Grand jackpot, with the actual amounts of each determined by the triggering bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Link Beats\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nLucky Link Beats is a five-reel slot with up to 50 paylines that can be activated. There are standard wild substitutions, a special free spin round where win multipliers can be awarded, and the Lucky Links feature that unlocks four additional symbol rows to give you even more chances to win cash prizes or jackpots.\n\nJackpots\n\nThe Lucky Links feature can award Mini, Minor, Major, and Grand Jackpots, with the actual amounts of each determined by the triggering bet. The highest prizes in regular spins are awarded by the game logo, with 50x, 150x, and 500x claimed by three, four, or five on a payline.\n\nSymbols and theme\n\nLucky Link Beats is a disco-themed slot game with symbols that include Hearts, Clubs, Diamonds, and Spades in different colors. Microphones and mixing consoles are worth as much as Diamonds, while stage lights and vinyl records can pay up to 100x and 150x your bet per line respectively. The highest prizes in regular spins are awarded by the game logo, with 50x, 150x, and 500x claimed by three, four, or five on a payline.\n\nOther recommended slots\n\nIf you like the unusual features and musical theme of Lucky Link Beats, then you might also enjoy Lightning Box Games' video slot, Mild Rockers, with its six metal-themed reels and high-priced guitarists, keyboards, and drum kits. Another recommended slot game is Kiss, which has a scatter symbol triggering free games, during which Encore spins can transform the slot into Wild Rockers mode with extra wild symbols.\n\nLucky Links feature\n\nThe Lucky Links feature is activated by landing four or more Lucky Link symbols anywhere on the reels, which adds four more rows for a total of eight. You get an initial three free spins and every four Lucky Link symbols will unlock a row and stay in place for the rest of the feature. Every time a Lucky Link symbol appears on an unlocked row, three more free spins are awarded until no new bonus symbols appear for three spins. The prizes of the Lucky Link symbols are collected during the feature and can include Mini, Minor, Major, and Grand jackpot, with the actual amounts of each determined by the triggering bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U33S9oncKLMCOjkoEfuOpCvwvm5i",
+                "id": "chatcmpl-7WWiZwaAm1S5ss8Pya4PlAl6NPpqw",
                 "object": "chat.completion",
-                "created": 1687395938,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986619,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Lucky Links feature adds more rows for better winning chances\",\n        \"Four jackpots to win, with actual amounts determined by triggering bet\",\n        \"Disco-themed slot game with vibrant graphics and symbols\",\n        \"Free spins round features win multipliers for higher payouts\"\n    ],\n    \"cons\": [\n        \"Base game payouts can be relatively low compared to other slots\",\n        \"Free spins round is triggered relatively rarely\"\n    ],\n    \"meta_title\": \"Play Lucky Link Beats for Free: Pros and Cons\",\n    \"meta_description\": \"Discover the pros and cons of Lucky Link Beats, a disco-themed online slot game with four jackpots and a Lucky Links feature. Play it now for free.\" \n}"
+                            "content": "{\n  \"pros\": [\"Up to 50 paylines for more chances to win\", \"Special free spin round with win multipliers\", \"Lucky Links feature adds extra symbol rows\", \"Chance to win Mini, Minor, Major, and Grand Jackpots\"],\n  \"cons\": [\"Limited variety of symbols\", \"Free spin round may be difficult to trigger\"],\n  \"meta_title\": \"Play Lucky Link Beats Slot for Free\",\n  \"meta_description\": \"Play the disco-themed Lucky Link Beats slot for free and enjoy its unique features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 643,
-                    "completion_tokens": 155,
-                    "total_tokens": 798
+                    "prompt_tokens": 640,
+                    "completion_tokens": 112,
+                    "total_tokens": 752
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-link-beats.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_that_perfectly_showcases_the_fun_and_exc_bbe64ff2-c2a7-47ce-bfdd-b04278a9c387_3.png",
+        "arved__Create_an_image_that_perfectly_showcases_the_fun_and_exc_bbe64ff2-c2a7-47ce-bfdd-b04278a9c387_1.png",
+        "arved__Create_an_image_that_perfectly_showcases_the_fun_and_exc_bbe64ff2-c2a7-47ce-bfdd-b04278a9c387_4.png",
+        "arved__Create_an_image_that_perfectly_showcases_the_fun_and_exc_bbe64ff2-c2a7-47ce-bfdd-b04278a9c387_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Link Beats (Version 3).webp",
+        "game_reviews/processed_images/Lucky Link Beats (Version 1).webp",
+        "game_reviews/processed_images/Lucky Link Beats (Version 2).webp",
+        "game_reviews/processed_images/Lucky Link Beats (Version 4).webp"
+    ],
+    "slug": "lucky-link-beats",
+    "name": "Lucky Link Beats",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Link-Beats-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Link Beats Slot for Free' ### Meta set: 'Play the disco-themed Lucky Link Beats slot for free and enjoy its unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and animations",
-                    "Unique bonus features",
                     "Intuitive and user-friendly interface",
+                    "Impressive graphics and animations",
+                    "Exciting bonus features",
                     "Decent RTP"
                 ],
                 "cons": [
                     "May not promise massive wins",
-                    "Limited number of pay lines"
+                    "Limited betting limits"
                 ],
-                "meta_title": "Play Fairy Dust Extreme Free - Review of Fantasy-themed Slot",
-                "meta_description": "Play Fairy Dust Extreme for free and read our review of this fantasy-themed online slot game. Find out the pros and cons of Fairy Dust Extreme."
+                "meta_title": "Play Fairy Dust Extreme for Free",
+                "meta_description": "Experience the excitement of Fairy Dust Extreme, a fantasy-themed online slot game. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fairy Dust Extreme\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nFairy Dust Extreme is a five-reel slot game with 20 paylines that offers an intuitive and user-friendly interface. The game features symbols such as mushrooms, plants, flowers, small creatures, and fairies, with fairies being the most lucrative symbols and Wild symbols substituting all other symbols. The game also has Free Spins symbols and unique bonus features that make the gameplay even more exciting.\n\nGraphics\n\nFairy Dust Extreme is a fantasy-themed online slot game with impressive graphics and animations that immerse the player in a fairy-tale-like cinematic experience. The game's graphics and animations are mind-blowing, making it one of the best fantasy-themed games available on the market currently.\n\nBonus Features\n\nFairy Dust Extreme has several bonus features that make the gameplay even more exciting. Each fairy character has its unique bonus feature, making the free spins more thrilling. The golden fairy expands to become a Wild symbol, the ruby fairy turns all low-paying symbols into medium-paying symbols, and the sapphire fairy turns all low-paying symbols into Wild symbols. Additionally, the game features Wild symbols that substitute all other symbols, increasing the chances of forming winning combinations.\n\nRTP\n\nThe game offers an RTP of 96.63%, making it a decent online slot game to play. Though it may not promise massive wins, players will still have the chance to make decent returns. It's a significant factor, especially for experienced gamblers, as it provides an estimate of the player's winning probability and the frequency of winning combinations.\n\nBetting Limits\n\nFairy Dust Extreme caters to both cautious and risky gamblers. The minimum bet is 0.2 coins, and the maximum is 80 coins, offering players the ability to control their bets and their returns. The betting limits make it a perfect game for casual players and high rollers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fairy Dust Extreme\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Features\n\nFairy Dust Extreme is a five-reel slot game with 20 paylines that offers an intuitive and user-friendly interface. The game features symbols such as mushrooms, plants, flowers, small creatures, and fairies, with fairies being the most lucrative symbols and Wild symbols substituting all other symbols. The game also has Free Spins symbols and unique bonus features that make the gameplay even more exciting.\n\nGraphics\n\nFairy Dust Extreme is a fantasy-themed online slot game with impressive graphics and animations that immerse the player in a fairy-tale-like cinematic experience. The game's graphics and animations are mind-blowing, making it one of the best fantasy-themed games available on the market currently.\n\nBonus Features\n\nFairy Dust Extreme has several bonus features that make the gameplay even more exciting. Each fairy character has its unique bonus feature, making the free spins more thrilling. The golden fairy expands to become a Wild symbol, the ruby fairy turns all low-paying symbols into medium-paying symbols, and the sapphire fairy turns all low-paying symbols into Wild symbols. Additionally, the game features Wild symbols that substitute all other symbols, increasing the chances of forming winning combinations.\n\nRTP\n\nThe game offers an RTP of 96.63%, making it a decent online slot game to play. Though it may not promise massive wins, players will still have the chance to make decent returns. It's a significant factor, especially for experienced gamblers, as it provides an estimate of the player's winning probability and the frequency of winning combinations.\n\nBetting Limits\n\nFairy Dust Extreme caters to both cautious and risky gamblers. The minimum bet is 0.2 coins, and the maximum is 80 coins, offering players the ability to control their bets and their returns. The betting limits make it a perfect game for casual players and high rollers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TDteaeTCSI3tubaGibDUBwU9Ke6Y",
+                "id": "chatcmpl-7WSXR6C6PtSY8U6PDranq0zkhpcaq",
                 "object": "chat.completion",
-                "created": 1687199286,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 110,
-                    "total_tokens": 662
-                },
+                "created": 1687970553,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Impressive graphics and animations\",\n    \"Unique bonus features\",\n    \"Intuitive and user-friendly interface\",\n    \"Decent RTP\"\n],\n\"cons\": [\n    \"May not promise massive wins\",\n    \"Limited number of pay lines\"\n],\n\"meta_title\": \"Play Fairy Dust Extreme Free - Review of Fantasy-themed Slot\",\n\"meta_description\": \"Play Fairy Dust Extreme for free and read our review of this fantasy-themed online slot game. Find out the pros and cons of Fairy Dust Extreme.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Intuitive and user-friendly interface\",\n    \"Impressive graphics and animations\",\n    \"Exciting bonus features\",\n    \"Decent RTP\"\n  ],\n  \"cons\": [\n    \"May not promise massive wins\",\n    \"Limited betting limits\"\n  ],\n  \"meta_title\": \"Play Fairy Dust Extreme for Free\",\n  \"meta_description\": \"Experience the excitement of Fairy Dust Extreme, a fantasy-themed online slot game. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 549,
+                    "completion_tokens": 100,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fairy-dust-extreme.json"
+    "filename": "game_reviews/translations/fairy-dust-extreme.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_for_the_game_Fairy_Dust_E_9e004c7e-a126-4a17-b296-f433c3e98f6d_1.png",
+        "arved__Create_a_feature_image_fitting_for_the_game_Fairy_Dust_E_9e004c7e-a126-4a17-b296-f433c3e98f6d_2.png",
+        "arved__Create_a_feature_image_fitting_for_the_game_Fairy_Dust_E_9e004c7e-a126-4a17-b296-f433c3e98f6d_3.png",
+        "arved__Create_a_feature_image_fitting_for_the_game_Fairy_Dust_E_9e004c7e-a126-4a17-b296-f433c3e98f6d_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fairy-dust-extreme",
+    "name": "Fairy Dust Extreme",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fairy-dust-extreme_gratis-300x228.png",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fairy Dust Extreme for Free' ### Meta set: 'Experience the excitement of Fairy Dust Extreme, a fantasy-themed online slot game. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

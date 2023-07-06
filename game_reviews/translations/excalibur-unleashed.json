@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unusual cross structure",
-                    "Impressive graphics and theme",
-                    "Simple gameplay for beginners",
-                    "Potential for high winnings"
+                    "Unusual cross structure for a unique gaming experience",
+                    "Symbols and theme related to the Arthurian legend",
+                    "Free Spin feature adds excitement to gameplay",
+                    "Impressive graphics that immerse players in the medieval setting"
                 ],
                 "cons": [
-                    "No bonus games or special features",
-                    "Not suitable for high rollers"
+                    "Lack of bonus games and special features",
+                    "High volatility may not be suitable for high rollers"
                 ],
-                "meta_title": "Play Excalibur Unleashed for Free - Review",
-                "meta_description": "Read our review of Excalibur Unleashed slot and play it for free. Discover its unusual structure, special symbols, potential win, and overall gameplay experience."
+                "meta_title": "Play Excalibur Unleashed for Free - Review & Game Details",
+                "meta_description": "Discover the magic of Excalibur Unleashed slot with its unique gameplay and impressive graphics. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Excalibur Unleashed\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame structure and paylines\n\nExcalibur Unleashed slot features an unusual cross structure, with 3-4-4-4-3 per row, and 20 fixed paylines.\n\nSpecial symbols and features\n\nThe game features symbols related to the Arthurian legend, including King Arthur, his knights, Excalibur sword, crystal balls, crowns, a mouse representing Arthur, and an owl dressed as Merlin. The slot also offers a Free Spin feature activated by landing two wilds in the same spin.\n\nPotential win and RTP\n\nThe game offers a potential win of up to 5,000 times the bet with an RTP of 96.05%. \n\nGraphics and theme\n\nThe Excalibur Unleashed slot features a beautiful forest setting, with adorable animals dressed in medieval style. The graphics are impressive and manage to mystify players. \n\nOverall gameplay experience\n\nThe Excalibur Unleashed slot offers simple gameplay, which makes it easy for beginners to grasp. The lack of bonus games and special features make it a less distracting game, and the high volatility means it's not suitable for high rollers. Nonetheless, the potential for high winnings and beautiful graphics make it an enjoyable experience for any player. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Excalibur Unleashed\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame structure and paylines\n\nExcalibur Unleashed slot features an unusual cross structure, with 3-4-4-4-3 per row, and 20 fixed paylines.\n\nSpecial symbols and features\n\nThe game features symbols related to the Arthurian legend, including King Arthur, his knights, Excalibur sword, crystal balls, crowns, a mouse representing Arthur, and an owl dressed as Merlin. The slot also offers a Free Spin feature activated by landing two wilds in the same spin.\n\nPotential win and RTP\n\nThe game offers a potential win of up to 5,000 times the bet with an RTP of 96.05%. \n\nGraphics and theme\n\nThe Excalibur Unleashed slot features a beautiful forest setting, with adorable animals dressed in medieval style. The graphics are impressive and manage to mystify players. \n\nOverall gameplay experience\n\nThe Excalibur Unleashed slot offers simple gameplay, which makes it easy for beginners to grasp. The lack of bonus games and special features make it a less distracting game, and the high volatility means it's not suitable for high rollers. Nonetheless, the potential for high winnings and beautiful graphics make it an enjoyable experience for any player. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TD9Cr77OUmMybEma5N6ARctRJD1q",
+                "id": "chatcmpl-7WSRQxd1dDyPrfLjxRz5Z9E1NC9VW",
                 "object": "chat.completion",
-                "created": 1687196406,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 429,
-                    "completion_tokens": 121,
-                    "total_tokens": 550
-                },
+                "created": 1687970180,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unusual cross structure\",\n    \"Impressive graphics and theme\",\n    \"Simple gameplay for beginners\",\n    \"Potential for high winnings\"\n  ],\n  \"cons\": [\n    \"No bonus games or special features\",\n    \"Not suitable for high rollers\"\n  ],\n  \"meta_title\": \"Play Excalibur Unleashed for Free - Review\",\n  \"meta_description\": \"Read our review of Excalibur Unleashed slot and play it for free. Discover its unusual structure, special symbols, potential win, and overall gameplay experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unusual cross structure for a unique gaming experience\",\n    \"Symbols and theme related to the Arthurian legend\",\n    \"Free Spin feature adds excitement to gameplay\",\n    \"Impressive graphics that immerse players in the medieval setting\"\n  ],\n  \"cons\": [\n    \"Lack of bonus games and special features\",\n    \"High volatility may not be suitable for high rollers\"\n  ],\n  \"meta_title\": \"Play Excalibur Unleashed for Free - Review & Game Details\",\n  \"meta_description\": \"Discover the magic of Excalibur Unleashed slot with its unique gameplay and impressive graphics. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 426,
+                    "completion_tokens": 139,
+                    "total_tokens": 565
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/excalibur-unleashed.json"
+    "filename": "game_reviews/translations/excalibur-unleashed.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_the_game_Excalibur_Unl_3ff99f8c-9e81-40e6-927e-668798faa68c_1.png",
+        "arved__Please_create_a_feature_image_for_the_game_Excalibur_Unl_3ff99f8c-9e81-40e6-927e-668798faa68c_4.png",
+        "arved__Please_create_a_feature_image_for_the_game_Excalibur_Unl_3ff99f8c-9e81-40e6-927e-668798faa68c_3.png",
+        "arved__Please_create_a_feature_image_for_the_game_Excalibur_Unl_3ff99f8c-9e81-40e6-927e-668798faa68c_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "excalibur-unleashed",
+    "name": "Excalibur Unleashed",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/excalibur-unleashed_slot-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Excalibur Unleashed for Free - Review & Game Details' ### Meta set: 'Discover the magic of Excalibur Unleashed slot with its unique gameplay and impressive graphics. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

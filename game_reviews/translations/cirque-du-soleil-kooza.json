@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding symbols, Wilds, and two types of Scatter symbols",
-                    "Colorful graphics and catchy sound effects",
-                    "Ability to appeal to all types of players",
-                    "Unique Bonus features with wheel multipliers and free spins"
+                    "More winning combinations along the paylines",
+                    "Colorful and standout graphics",
+                    "Engaging sound effects",
+                    "Appealing to all types of players"
                 ],
                 "cons": [
                     "Not unique compared to other circus-themed slot games",
-                    "No progressive jackpot feature"
+                    "Limited bonus mode options"
                 ],
-                "meta_title": "Play Cirque Du Soleil Kooza for Free: Review and Features",
-                "meta_description": "Experience the Montreal circus-themed Cirque Du Soleil Kooza slot game for free. Read our review covering gameplay, graphics, theme, and pro and cons."
+                "meta_title": "Play Cirque Du Soleil Kooza Free | Review of Exciting Slot Game",
+                "meta_description": "Review of Cirque Du Soleil Kooza, a captivating slot game. Play for free and enjoy the circus theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cirque Du Soleil Kooza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCirque du Soleil Kooza is a 5x4 layout slot game with 20 symbols shown per spin, making for more winning combinations along the paylines. Its symbols include expanding symbols, Wilds, Scatter symbols, and two different Bonus symbols that allow access to special features where players can win prizes or spin the wheel for free spins or multipliers.\n\nGraphics and Sound\n\nCirque du Soleil Kooza's graphics are colorful and stand out against the warm golden light from the background, which features a smiling artist welcoming players to the game. The symbols and card letters' design ranges from simple to rich, with various Kooza performers and masks appearing as symbols. The background audio is catchy, while the jingle sound effect heard during spins and specific combinations is engaging. Overall, it's a great-looking and great-sounding game that can appeal to all types of players.\n\nSpecial Symbols\n\nCirque du Soleil Kooza has a variety of special symbols that affect gameplay and represent the circus theme. Expanding symbols, Wilds, and two types of Scatter symbols are among them. The red box Scatter symbol allows players to choose between three different random prizes, one of which is a chance to enter a bonus mode that offers multipliers or free spins. The Bonus symbol Scatter is used to access the Bonus mode directly, where the same wheel with multipliers or free spins is spun.\n\nTheme\n\nThe theme of Cirque du Soleil Kooza is the Montreal circus of the same name, which offers acrobatic performances, clowns, and colorful costumes. The game captures the essence of this circus with its symbols, graphics, and sound effects. It's a great choice for those who love the circus or are seeking a theme that's a bit different from the usual. \n\nUniqueness\n\nWhile Cirque du Soleil Kooza is not unique than other circus-themed slot games, it stands out with its quality graphics and sound, engaging gameplay features, and its ability to appeal to all types of players. Players can enjoy circus-themed games like Golden Ticket, Roll Up! Roll Up!, and Circus Train if they are seeking similar themes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cirque Du Soleil Kooza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCirque du Soleil Kooza is a 5x4 layout slot game with 20 symbols shown per spin, making for more winning combinations along the paylines. Its symbols include expanding symbols, Wilds, Scatter symbols, and two different Bonus symbols that allow access to special features where players can win prizes or spin the wheel for free spins or multipliers.\n\nGraphics and Sound\n\nCirque du Soleil Kooza's graphics are colorful and stand out against the warm golden light from the background, which features a smiling artist welcoming players to the game. The symbols and card letters' design ranges from simple to rich, with various Kooza performers and masks appearing as symbols. The background audio is catchy, while the jingle sound effect heard during spins and specific combinations is engaging. Overall, it's a great-looking and great-sounding game that can appeal to all types of players.\n\nSpecial Symbols\n\nCirque du Soleil Kooza has a variety of special symbols that affect gameplay and represent the circus theme. Expanding symbols, Wilds, and two types of Scatter symbols are among them. The red box Scatter symbol allows players to choose between three different random prizes, one of which is a chance to enter a bonus mode that offers multipliers or free spins. The Bonus symbol Scatter is used to access the Bonus mode directly, where the same wheel with multipliers or free spins is spun.\n\nTheme\n\nThe theme of Cirque du Soleil Kooza is the Montreal circus of the same name, which offers acrobatic performances, clowns, and colorful costumes. The game captures the essence of this circus with its symbols, graphics, and sound effects. It's a great choice for those who love the circus or are seeking a theme that's a bit different from the usual. \n\nUniqueness\n\nWhile Cirque du Soleil Kooza is not unique than other circus-themed slot games, it stands out with its quality graphics and sound, engaging gameplay features, and its ability to appeal to all types of players. Players can enjoy circus-themed games like Golden Ticket, Roll Up! Roll Up!, and Circus Train if they are seeking similar themes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SvNMTaelAWoeU42yPk4cKJb6l7g2",
+                "id": "chatcmpl-7WQJevOplSWxCRAoT4G3OPDjzlQP1",
                 "object": "chat.completion",
-                "created": 1687128092,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 628,
-                    "completion_tokens": 148,
-                    "total_tokens": 776
-                },
+                "created": 1687962010,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding symbols, Wilds, and two types of Scatter symbols\",\n        \"Colorful graphics and catchy sound effects\",\n        \"Ability to appeal to all types of players\",\n        \"Unique Bonus features with wheel multipliers and free spins\"\n    ],\n    \"cons\": [\n        \"Not unique compared to other circus-themed slot games\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Cirque Du Soleil Kooza for Free: Review and Features\",\n    \"meta_description\": \"Experience the Montreal circus-themed Cirque Du Soleil Kooza slot game for free. Read our review covering gameplay, graphics, theme, and pro and cons.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"More winning combinations along the paylines\",\n    \"Colorful and standout graphics\",\n    \"Engaging sound effects\",\n    \"Appealing to all types of players\"\n  ],\n  \"cons\": [\n    \"Not unique compared to other circus-themed slot games\",\n    \"Limited bonus mode options\"\n  ],\n  \"meta_title\": \"Play Cirque Du Soleil Kooza Free | Review of Exciting Slot Game\",\n  \"meta_description\": \"Review of Cirque Du Soleil Kooza, a captivating slot game. Play for free and enjoy the circus theme.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 625,
+                    "completion_tokens": 126,
+                    "total_tokens": 751
+                }
             }
         },
         {
@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_1.png",
         "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_3.png",
         "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_2.png",
-        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_4.png"
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_4.png",
+        "arved__Prompt_DALLE_please_create_a_feature_image_for_Cirque_du_885d5928-6a8a-45ca-a05e-f5a1b72ac9e7_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 4).webp",
-        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 1).webp",
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 2).webp",
         "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 3).webp",
-        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 2).webp"
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 4).webp",
+        "game_reviews/processed_images/Cirque Du Soleil Kooza (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cirque-du-soleil-kooza.json"
+    "filename": "game_reviews/translations/cirque-du-soleil-kooza.json",
+    "slug": "cirque-du-soleil-kooza",
+    "name": "Cirque Du Soleil Kooza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cirque-Du-Soleil-Kooza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cirque Du Soleil Kooza Free | Review of Exciting Slot Game' ### Meta set: 'Review of Cirque Du Soleil Kooza, a captivating slot game. Play for free and enjoy the circus theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

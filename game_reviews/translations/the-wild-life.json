@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High volatility for high-risk takers",
-                    "Great graphics and contrast",
-                    "Wild symbol that can expand and lock reels",
-                    "Up to 20 free spins can be earned"
+                    "Vibrant African savanna theme",
+                    "Crisp graphics with great contrast",
+                    "High volatility for exciting gameplay",
+                    "Chance to win up to 1,030 times the initial bet"
                 ],
                 "cons": [
-                    "Limited bonus features",
-                    "Low betting range for conservative bettors"
+                    "Limited number of paylines (only 10)",
+                    "High betting range might not be suitable for all players"
                 ],
-                "meta_title": "Play Free The Wild Life Slot | Vibrant Safari-Themed Game",
-                "meta_description": "Read our review on The Wild Life, a Safari-themed slot game by IGT. Play for free and earn up to 20 free spins with great graphics and high volatility."
+                "meta_title": "Play The Wild Life for Free - Exciting African Savanna Slot",
+                "meta_description": "Experience the thrill of the African savanna with The Wild Life. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"The Wild Life\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nThe Wild Life features 5 reels and 10 paylines. Winning combinations are created by identical symbols in adjacent positions, from left to right or right to left. Betting ranges from 10 cents to 2,000 Euros with high volatility and a standard RTP rate of 96.16%.\n\nTheme and design\n\nThe Wild Life is a slot game developed by IGT with a vibrant African savanna theme. The game screen features stylized yet detailed images of wild animals against a warm orange-red backdrop. The game graphics remain crisp, with great contrast that is retained even in the mobile app version.\n\nVolatility and RTP rate\n\nThe Wild Life has high volatility, with betting ranges that start at 10 cents and can go up to 2,000 Euros. The game has a standard RTP rate of 96.16%, which is competitive within the industry.\n\nSymbols and their values\n\nSymbols in The Wild Life include standard playing cards from J to Ace, and representations of native African animals like lions, zebras, elephants, giraffes, and rhinos. The lion symbol is the most valuable, and as a Wild symbol, it can expand to fill multiple reels and create larger payouts.\n\nSpecial features\n\nThe Wild Life features a Scatter symbol that is represented by the African continent. By landing three or more Scatters across the reels, players can earn up to 20 free spins. During these spins, the Wild symbol can expand and lock reels in place, potentially leading to payouts of up to 1,030 times the initial bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"The Wild Life\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nThe Wild Life features 5 reels and 10 paylines. Winning combinations are created by identical symbols in adjacent positions, from left to right or right to left. Betting ranges from 10 cents to 2,000 Euros with high volatility and a standard RTP rate of 96.16%.\n\nTheme and design\n\nThe Wild Life is a slot game developed by IGT with a vibrant African savanna theme. The game screen features stylized yet detailed images of wild animals against a warm orange-red backdrop. The game graphics remain crisp, with great contrast that is retained even in the mobile app version.\n\nVolatility and RTP rate\n\nThe Wild Life has high volatility, with betting ranges that start at 10 cents and can go up to 2,000 Euros. The game has a standard RTP rate of 96.16%, which is competitive within the industry.\n\nSymbols and their values\n\nSymbols in The Wild Life include standard playing cards from J to Ace, and representations of native African animals like lions, zebras, elephants, giraffes, and rhinos. The lion symbol is the most valuable, and as a Wild symbol, it can expand to fill multiple reels and create larger payouts.\n\nSpecial features\n\nThe Wild Life features a Scatter symbol that is represented by the African continent. By landing three or more Scatters across the reels, players can earn up to 20 free spins. During these spins, the Wild symbol can expand and lock reels in place, potentially leading to payouts of up to 1,030 times the initial bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QFW1Hi8bWdwu6xEqP8skBcEDUBdK",
+                "id": "chatcmpl-7WelRHa3HoeA5KjNti4icHIxUvufh",
                 "object": "chat.completion",
-                "created": 1686490525,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 495,
-                    "completion_tokens": 135,
-                    "total_tokens": 630
-                },
+                "created": 1688017549,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High volatility for high-risk takers\",\n        \"Great graphics and contrast\",\n        \"Wild symbol that can expand and lock reels\",\n        \"Up to 20 free spins can be earned\"\n    ],\n    \"cons\": [\n        \"Limited bonus features\",\n        \"Low betting range for conservative bettors\"\n    ],\n    \"meta_title\": \"Play Free The Wild Life Slot | Vibrant Safari-Themed Game\",\n    \"meta_description\": \"Read our review on The Wild Life, a Safari-themed slot game by IGT. Play for free and earn up to 20 free spins with great graphics and high volatility.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Vibrant African savanna theme\",\n    \"Crisp graphics with great contrast\",\n    \"High volatility for exciting gameplay\",\n    \"Chance to win up to 1,030 times the initial bet\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (only 10)\",\n    \"High betting range might not be suitable for all players\"\n  ],\n  \"meta_title\": \"Play The Wild Life for Free - Exciting African Savanna Slot\",\n  \"meta_description\": \"Experience the thrill of the African savanna with The Wild Life. Play now for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 492,
+                    "completion_tokens": 130,
+                    "total_tokens": 622
+                }
             }
         },
         {
@@ -813,6 +813,24 @@
         }
     ],
     "filename": "game_reviews/translations/the-wild-life.json",
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__25ff794d-ce2a-478e-8e47-1b989127714b_1.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__9ca105ca-4097-492a-9574-dc50860d592c_4.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__25ff794d-ce2a-478e-8e47-1b989127714b_3.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__9ca105ca-4097-492a-9574-dc50860d592c_1.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__9ca105ca-4097-492a-9574-dc50860d592c_3.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__25ff794d-ce2a-478e-8e47-1b989127714b_2.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__25ff794d-ce2a-478e-8e47-1b989127714b_4.png",
+        "arved__Create_a_feature_image_for_The_Wild_Life_game_featuring__9ca105ca-4097-492a-9574-dc50860d592c_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/The Wild Life (Version 5).webp",
+        "game_reviews/processed_images/The Wild Life (Version 6).webp",
+        "game_reviews/processed_images/The Wild Life (Version 7).webp",
+        "game_reviews/processed_images/The Wild Life (Version 8).webp"
+    ],
+    "slug": "the-wild-life",
+    "name": "The Wild Life",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

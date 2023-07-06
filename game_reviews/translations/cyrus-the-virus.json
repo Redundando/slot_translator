@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Expanding wilds increase winning opportunities",
-                    "Payline system that works on both sides",
-                    "High percentage of winning opportunities with an RTP of 96.30%",
-                    "Available on desktop and mobile platforms"
+                    "Unique and responsible graphics",
+                    "Payline system works on both sides",
+                    "High RTP of 96.30%"
                 ],
                 "cons": [
                     "No free spins or multipliers",
-                    "Modest bonus features"
+                    "Limited bonus features"
                 ],
-                "meta_title": "Play Cyrus the Virus Slot for Free | Yggdrasil Gaming",
-                "meta_description": "Read our review of Cyrus the Virus slot by Yggdrasil Gaming. Play for free and discover the game's unique virus themed graphics and winning opportunities."
+                "meta_title": "Play Cyrus the Virus for Free",
+                "meta_description": "Read a review of Cyrus the Virus and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cyrus the Virus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCyrus the Virus Overview\n\nCyrus the Virus is an online slot machine developed by Yggdrasil Gaming that features 5 reels and 10 paylines. The game offers modest bonus features and is available on both desktop and mobile platforms, with a chance to win huge jackpots of up to €80,000. The theme of the game revolves around science-fiction, with microscopic lenses and germs being studied. The game also boasts a high percentage of winning opportunities, with an RTP of 96.30%.\n\nGameplay and Winning Opportunities\n\nThe game is played on the 'wrong side' where the more the virus grows, the greater the winnings you can conquer. The game offers expanding wilds to increase the chances of creating winning combinations. There are no free spins or multipliers in the game, rather it has a payline system that works on both sides.\n\nSymbols and Graphics\n\nThe game features viruses in different shapes and colors, with a cute appearance. The graphics are unique and depict the viruses in a responsible manner. The blue virus is the most valuable symbol, rewarding players up to 2,000 times with 5 simultaneous appearances on the reels. Other high-value symbols include the orange and yellow viruses, while the emerald and purple symbols have the lowest value. A small animation activates when a winning combination is achieved.\n\nPayline System\n\nThe game offers a payline system that works on both sides, with no free spins or multipliers. The DNA filament serves as the game's wild symbol, expanding to increase the chances of creating winning combinations.\n\nBonus Features and RTP\n\nThe game rewards players with Expanding Wilds, Re-Spins, and Stacked Wilds. The game also has a high RTP of 96.30%, making it a favorable choice for players seeking a chance to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cyrus the Virus\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCyrus the Virus Overview\n\nCyrus the Virus is an online slot machine developed by Yggdrasil Gaming that features 5 reels and 10 paylines. The game offers modest bonus features and is available on both desktop and mobile platforms, with a chance to win huge jackpots of up to €80,000. The theme of the game revolves around science-fiction, with microscopic lenses and germs being studied. The game also boasts a high percentage of winning opportunities, with an RTP of 96.30%.\n\nGameplay and Winning Opportunities\n\nThe game is played on the 'wrong side' where the more the virus grows, the greater the winnings you can conquer. The game offers expanding wilds to increase the chances of creating winning combinations. There are no free spins or multipliers in the game, rather it has a payline system that works on both sides.\n\nSymbols and Graphics\n\nThe game features viruses in different shapes and colors, with a cute appearance. The graphics are unique and depict the viruses in a responsible manner. The blue virus is the most valuable symbol, rewarding players up to 2,000 times with 5 simultaneous appearances on the reels. Other high-value symbols include the orange and yellow viruses, while the emerald and purple symbols have the lowest value. A small animation activates when a winning combination is achieved.\n\nPayline System\n\nThe game offers a payline system that works on both sides, with no free spins or multipliers. The DNA filament serves as the game's wild symbol, expanding to increase the chances of creating winning combinations.\n\nBonus Features and RTP\n\nThe game rewards players with Expanding Wilds, Re-Spins, and Stacked Wilds. The game also has a high RTP of 96.30%, making it a favorable choice for players seeking a chance to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SzjNUpy9SItMpzHvtZY8cITYFCiH",
+                "id": "chatcmpl-7WQqWRJNFBhRxQaxcdzCjftejcYJP",
                 "object": "chat.completion",
-                "created": 1687144833,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 550,
-                    "completion_tokens": 137,
-                    "total_tokens": 687
-                },
+                "created": 1687964048,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding wilds increase winning opportunities\",\n        \"Payline system that works on both sides\",\n        \"High percentage of winning opportunities with an RTP of 96.30%\",\n        \"Available on desktop and mobile platforms\"\n    ],\n    \"cons\": [\n        \"No free spins or multipliers\",\n        \"Modest bonus features\"\n    ],\n    \"meta_title\": \"Play Cyrus the Virus Slot for Free | Yggdrasil Gaming\",\n    \"meta_description\": \"Read our review of Cyrus the Virus slot by Yggdrasil Gaming. Play for free and discover the game's unique virus themed graphics and winning opportunities.\" \n}"
+                            "content": "{\n  \"pros\": [\"Expanding wilds increase winning opportunities\", \"Unique and responsible graphics\", \"Payline system works on both sides\", \"High RTP of 96.30%\"],\n  \"cons\": [\"No free spins or multipliers\", \"Limited bonus features\"],\n  \"meta_title\": \"Play Cyrus the Virus for Free\",\n  \"meta_description\": \"Read a review of Cyrus the Virus and play this slot game for free.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 547,
+                    "completion_tokens": 93,
+                    "total_tokens": 640
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_4.png",
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_1.png",
         "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_2.png",
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_3.png"
+        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_1.png",
+        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_3.png",
+        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cyrus The Virus (Version 3).webp",
         "game_reviews/processed_images/Cyrus The Virus (Version 1).webp",
+        "game_reviews/processed_images/Cyrus The Virus (Version 3).webp",
         "game_reviews/processed_images/Cyrus The Virus (Version 2).webp",
         "game_reviews/processed_images/Cyrus The Virus (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/cyrus-the-virus.json"
+    "filename": "game_reviews/translations/cyrus-the-virus.json",
+    "slug": "cyrus-the-virus",
+    "name": "Cyrus the Virus",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cyrus-The-Virus-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cyrus the Virus for Free' ### Meta set: 'Read a review of Cyrus the Virus and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative gameplay with a spiral grid and wild symbol",
-                    "Excellent graphics with a detailed tavern background",
-                    "Original and engaging with free spins and multiplier features",
-                    "Compelling writing style that informs and engages readers"
+                    "Completely original and innovative gameplay",
+                    "Excellent graphics with detailed background and symbols",
+                    "Incredibly original and fantasy-themed",
+                    "Compelling writing style that keeps readers engaged"
                 ],
                 "cons": [
-                    "Hard to categorize and find identical games for comparison",
-                    "May not appeal to traditionalists who prefer standard reels"
+                    "Hard to categorize in one set genre",
+                    "Limited number of similar games available"
                 ],
-                "meta_title": "Play Finn's Golden Tavern for Free - Innovative Spiral Grid Gameplay",
-                "meta_description": "Read our review of Finn's Golden Tavern and play it for free. Innovative spiral grid gameplay with excellent graphics and original features. "
+                "meta_title": "Play Finn's Golden Tavern for Free",
+                "meta_description": "Read our review of Finn's Golden Tavern to learn more about the game and play it for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Finn’s Golden Tavern\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFinn's Golden Tavern has a completely original and innovative gameplay. The symbols appear in a spiral grid, and three adjacent symbols result in a win. The winning symbols disappear to make room for new symbols, and a star acts as a wild symbol capable of replacing any symbol. The goal is to get consecutive wins to move the chest towards the center of the spiral and obtain free spins with multipliers.\n\nGraphics\n\nFinn's Golden Tavern has excellent graphics. The background is detailed, depicting a tavern, with dice, candles, and a knife stuck in the table. The symbols on the grid are also well-detailed, including gold doubloons, bottles of wine, beer steins, and an unidentified concoction. The graphics are not tacky, and the music played is pleasant.\n\nOriginality\n\nFinn's Golden Tavern is incredibly original, taking players to a fantasy world in a tavern. The spiral grid and the chest goal to obtain free spins are innovative features. The absence of the standard reels is a unique concept, making the gameplay more engaging and exciting.\n\nComparison to Similar Games\n\nFinn's Golden Tavern is hard to categorize in one set genre, and there aren't many identical games to it. Clover Tales and Rainbrew have similarities in Irish leprechauns theme, London Hunter and Cloud Quest in fantasy and steampunk themes, and Puddy's Pub and BierHaus are tavern-themed slots.\n\nCompelling Writing Style\n\nThe review paints a vivid picture of the game's excellent graphics. The background illustrations, symbols, and music are described in detail. The reviewer goes on to explain in reasonable detail the innovative features of the game, such as the spiral grid and the free spins chest. The comparison to similar games also goes on to expand the reader's knowledge of slot games. The writing is compelling and interesting to read, keeping readers engaged.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Finn’s Golden Tavern\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFinn's Golden Tavern has a completely original and innovative gameplay. The symbols appear in a spiral grid, and three adjacent symbols result in a win. The winning symbols disappear to make room for new symbols, and a star acts as a wild symbol capable of replacing any symbol. The goal is to get consecutive wins to move the chest towards the center of the spiral and obtain free spins with multipliers.\n\nGraphics\n\nFinn's Golden Tavern has excellent graphics. The background is detailed, depicting a tavern, with dice, candles, and a knife stuck in the table. The symbols on the grid are also well-detailed, including gold doubloons, bottles of wine, beer steins, and an unidentified concoction. The graphics are not tacky, and the music played is pleasant.\n\nOriginality\n\nFinn's Golden Tavern is incredibly original, taking players to a fantasy world in a tavern. The spiral grid and the chest goal to obtain free spins are innovative features. The absence of the standard reels is a unique concept, making the gameplay more engaging and exciting.\n\nComparison to Similar Games\n\nFinn's Golden Tavern is hard to categorize in one set genre, and there aren't many identical games to it. Clover Tales and Rainbrew have similarities in Irish leprechauns theme, London Hunter and Cloud Quest in fantasy and steampunk themes, and Puddy's Pub and BierHaus are tavern-themed slots.\n\nCompelling Writing Style\n\nThe review paints a vivid picture of the game's excellent graphics. The background illustrations, symbols, and music are described in detail. The reviewer goes on to explain in reasonable detail the innovative features of the game, such as the spiral grid and the free spins chest. The comparison to similar games also goes on to expand the reader's knowledge of slot games. The writing is compelling and interesting to read, keeping readers engaged.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TF5q4i5mYn4fElgSPYhwdYyDDWyv",
+                "id": "chatcmpl-7WSgewWuEOXWCHUBdTNSsfhmyx8u8",
                 "object": "chat.completion",
-                "created": 1687203886,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 560,
-                    "completion_tokens": 143,
-                    "total_tokens": 703
-                },
+                "created": 1687971124,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative gameplay with a spiral grid and wild symbol\",\n        \"Excellent graphics with a detailed tavern background\",\n        \"Original and engaging with free spins and multiplier features\",\n        \"Compelling writing style that informs and engages readers\"\n    ],\n    \"cons\": [\n        \"Hard to categorize and find identical games for comparison\",\n        \"May not appeal to traditionalists who prefer standard reels\"\n    ],\n    \"meta_title\": \"Play Finn's Golden Tavern for Free - Innovative Spiral Grid Gameplay\",\n    \"meta_description\": \"Read our review of Finn's Golden Tavern and play it for free. Innovative spiral grid gameplay with excellent graphics and original features. \" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Completely original and innovative gameplay\",\n    \"Excellent graphics with detailed background and symbols\",\n    \"Incredibly original and fantasy-themed\",\n    \"Compelling writing style that keeps readers engaged\"\n  ],\n  \"cons\": [\n    \"Hard to categorize in one set genre\",\n    \"Limited number of similar games available\"\n  ],\n  \"meta_title\": \"Play Finn's Golden Tavern for Free\",\n  \"meta_description\": \"Read our review of Finn's Golden Tavern to learn more about the game and play it for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 557,
+                    "completion_tokens": 117,
+                    "total_tokens": 674
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/finns-golden-tavern.json"
+    "filename": "game_reviews/translations/finns-golden-tavern.json",
+    "raw_feature_images": [
+        "arved__Prompt_Draw_a_cartoon_style_image_of_a_happy_Maya_warrio_cd70aad0-f696-42fe-a13c-17aa02970614_1.png",
+        "arved__Prompt_Draw_a_cartoon_style_image_of_a_happy_Maya_warrio_cd70aad0-f696-42fe-a13c-17aa02970614_2.png",
+        "arved__Prompt_Draw_a_cartoon_style_image_of_a_happy_Maya_warrio_cd70aad0-f696-42fe-a13c-17aa02970614_3.png",
+        "arved__Prompt_Draw_a_cartoon_style_image_of_a_happy_Maya_warrio_cd70aad0-f696-42fe-a13c-17aa02970614_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "finns-golden-tavern",
+    "name": "Finn’s Golden Tavern",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/03/finns-golden-tavern_thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Finn's Golden Tavern for Free' ### Meta set: 'Read our review of Finn's Golden Tavern to learn more about the game and play it for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

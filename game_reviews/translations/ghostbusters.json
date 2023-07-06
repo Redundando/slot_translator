@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Varied gameplay with Wild and Bonus symbols",
-                    "Targeted at movie fans with rich references to the Ghostbusters movie",
-                    "Collaboration with the Ghostbusters franchise adds authenticity",
-                    "Fun and dynamic gameplay experience"
+                    "Rich and varied gameplay experience",
+                    "Collaboration with the Ghostbusters movie franchise",
+                    "Wild and Bonus symbols add to the excitement",
+                    "Fun and dynamic gaming experience"
                 ],
                 "cons": [
-                    "Limited to fans of the Ghostbusters brand",
-                    "Not as visually stunning as other slots"
+                    "Limited number of Bonus symbols",
+                    "Limited number of Ghostbusters movie references"
                 ],
-                "meta_title": "Play Ghostbusters for Free - Fun and Varied Slot Game",
-                "meta_description": "Read our review of Ghostbusters, the slot game based on the cult classic movie franchise. Play for free and enjoy the fun and dynamic gameplay experience."
+                "meta_title": "Play Ghostbusters for Free",
+                "meta_description": "Read our review of Ghostbusters slot game and play it for free online."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ghostbusters\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe Ghostbusters slot offers a rich and varied gameplay experience. The game board is easy to master with five reels and three horizontal lines, allowing fifteen symbols to be seen in each gameplay. The Slimer symbol acts as a Wild symbol, replacing all other normal symbols and can also extend its function over the entire reel. Players can also obtain Bonus symbols that behave like Scatters, assigning the special function if at least three are found in a single gameplay.\n\nTheme and Setting\n\nThe Ghostbusters slot is based on the cult classic movie that started in 1984, featuring a quartet of 'ghostbusters'. The game board is set against the background of the firehouse, the headquarters of the ghostbusters. Instead of cherries or playing cards, the symbols feature the faces of the protagonists of the movie, iconic objects invented by Egon for catching ghosts, and the Ghostbusters logo. The slot is well curated with different references to the movie, targeting movie fans, and the musical theme adds to the overall aesthetic component.\n\nCollaboration with the Movie Franchise\n\nThe Ghostbusters slot is a collaboration between IGT and the Ghostbusters movie franchise. The slot is based directly on the first movie of the cult series and features the faces of the protagonists, iconic objects invented by Egon for catching ghosts, and the Ghostbusters logo. The background music features the famous musical theme, further enhancing the movie-inspired gameplay experience.\n\nWild and Bonus Symbols\n\nThe Slimer symbol in Ghostbusters acts as a Wild symbol, replacing all other normal symbols and can extend its function over the entire reel. Bonus symbols behave like Scatters, assigning the special function if at least three are found in a single gameplay. The Marshmallow Man appears during bonus gameplay, adding to the exciting gaming experience and possibilities for player rewards.\n\nFun and Dynamic Gaming Experience\n\nThe Ghostbusters slot aims to create a fun and dynamic game experience for players, even before obtaining the bonus mode. The game board is easy to master and the gameplay is rich and varied, with the Slimer and Bonus symbols adding to the excitement. The aesthetic component of the slot is well-curated, targeting movie fans and featuring references to the movie such as the firehouse, iconic objects invented by Egon for catching ghosts, and the musical theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ghostbusters\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe Ghostbusters slot offers a rich and varied gameplay experience. The game board is easy to master with five reels and three horizontal lines, allowing fifteen symbols to be seen in each gameplay. The Slimer symbol acts as a Wild symbol, replacing all other normal symbols and can also extend its function over the entire reel. Players can also obtain Bonus symbols that behave like Scatters, assigning the special function if at least three are found in a single gameplay.\n\nTheme and Setting\n\nThe Ghostbusters slot is based on the cult classic movie that started in 1984, featuring a quartet of 'ghostbusters'. The game board is set against the background of the firehouse, the headquarters of the ghostbusters. Instead of cherries or playing cards, the symbols feature the faces of the protagonists of the movie, iconic objects invented by Egon for catching ghosts, and the Ghostbusters logo. The slot is well curated with different references to the movie, targeting movie fans, and the musical theme adds to the overall aesthetic component.\n\nCollaboration with the Movie Franchise\n\nThe Ghostbusters slot is a collaboration between IGT and the Ghostbusters movie franchise. The slot is based directly on the first movie of the cult series and features the faces of the protagonists, iconic objects invented by Egon for catching ghosts, and the Ghostbusters logo. The background music features the famous musical theme, further enhancing the movie-inspired gameplay experience.\n\nWild and Bonus Symbols\n\nThe Slimer symbol in Ghostbusters acts as a Wild symbol, replacing all other normal symbols and can extend its function over the entire reel. Bonus symbols behave like Scatters, assigning the special function if at least three are found in a single gameplay. The Marshmallow Man appears during bonus gameplay, adding to the exciting gaming experience and possibilities for player rewards.\n\nFun and Dynamic Gaming Experience\n\nThe Ghostbusters slot aims to create a fun and dynamic game experience for players, even before obtaining the bonus mode. The game board is easy to master and the gameplay is rich and varied, with the Slimer and Bonus symbols adding to the excitement. The aesthetic component of the slot is well-curated, targeting movie fans and featuring references to the movie such as the firehouse, iconic objects invented by Egon for catching ghosts, and the musical theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TOc60Ctal6q03kMj9ZCTBznWgPKZ",
+                "id": "chatcmpl-7WTmj244jtASlZgiK8rXCfEg4hBfH",
                 "object": "chat.completion",
-                "created": 1687240482,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 639,
-                    "completion_tokens": 142,
-                    "total_tokens": 781
-                },
+                "created": 1687975345,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Varied gameplay with Wild and Bonus symbols\",\n        \"Targeted at movie fans with rich references to the Ghostbusters movie\",\n        \"Collaboration with the Ghostbusters franchise adds authenticity\",\n        \"Fun and dynamic gameplay experience\"\n    ],\n    \"cons\": [\n        \"Limited to fans of the Ghostbusters brand\",\n        \"Not as visually stunning as other slots\"\n    ],\n    \"meta_title\": \"Play Ghostbusters for Free - Fun and Varied Slot Game\",\n    \"meta_description\": \"Read our review of Ghostbusters, the slot game based on the cult classic movie franchise. Play for free and enjoy the fun and dynamic gameplay experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Rich and varied gameplay experience\",\n    \"Collaboration with the Ghostbusters movie franchise\",\n    \"Wild and Bonus symbols add to the excitement\",\n    \"Fun and dynamic gaming experience\"\n  ],\n  \"cons\": [\n    \"Limited number of Bonus symbols\",\n    \"Limited number of Ghostbusters movie references\"\n  ],\n  \"meta_title\": \"Play Ghostbusters for Free\",\n  \"meta_description\": \"Read our review of Ghostbusters slot game and play it for free online.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 636,
+                    "completion_tokens": 107,
+                    "total_tokens": 743
+                }
             }
         },
         {
@@ -811,5 +811,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/ghostbusters.json"
+    "filename": "game_reviews/translations/ghostbusters.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_93258ce3-9ef2-4436-bffc-93e414a6498d_2.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_93258ce3-9ef2-4436-bffc-93e414a6498d_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_8f56fff2-ff6a-497a-8deb-722845ca9cc1_1.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_8f56fff2-ff6a-497a-8deb-722845ca9cc1_2.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_8f56fff2-ff6a-497a-8deb-722845ca9cc1_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_93258ce3-9ef2-4436-bffc-93e414a6498d_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_8f56fff2-ff6a-497a-8deb-722845ca9cc1_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_Ghostbusters_onlin_93258ce3-9ef2-4436-bffc-93e414a6498d_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ghostbusters (Version 3).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 4).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 7).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 5).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 1).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 6).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 8).webp",
+        "game_reviews/processed_images/Ghostbusters (Version 2).webp"
+    ],
+    "slug": "ghostbusters",
+    "name": "Ghostbusters",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ghostbusters-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ghostbusters for Free' ### Meta set: 'Read our review of Ghostbusters slot game and play it for free online.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

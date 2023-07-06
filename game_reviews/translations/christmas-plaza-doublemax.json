@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_3.png",
         "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_2.png"
+        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Christmas_Plaza_Double_d40f8f00-44f4-421b-8fa5-5e5de8e05984_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 2).webp",
-        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 1).webp",
         "game_reviews/processed_images/Christmas Plaza Doublemax (Version 3).webp",
-        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 4).webp"
+        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 4).webp",
+        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 2).webp",
+        "game_reviews/processed_images/Christmas Plaza Doublemax (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/christmas-plaza-doublemax.json"
+    "filename": "game_reviews/translations/christmas-plaza-doublemax.json",
+    "slug": "christmas-plaza-doublemax",
+    "name": "Christmas Plaza DoubleMax",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Christmas-Plaza-Doublemax-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Christmas Plaza DoubleMax for free - a review' ### Meta set: 'Christmas Plaza DoubleMax is a high-volatility slot game with Cascading Wins, bonus spins, and buy-ins. Try it for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

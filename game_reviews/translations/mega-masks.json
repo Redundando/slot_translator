@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Well-designed slot game with Mega Symbols and free spins",
+                    "High winning potential with up to 2,451 times the bet win",
                     "Impressive RTP of 96.21%",
-                    "Mega Symbols and free spins features",
-                    "Well-thought-out game design with a jungle and tribe theme",
-                    "2,451 times the bet win potential"
+                    "Engaging game design with a jungle and tribal theme"
                 ],
                 "cons": [
-                    "Limited bonus features",
-                    "Not suitable for players looking for constant excitement"
+                    "Few bonuses or additional features",
+                    "Limited suspense and excitement"
                 ],
-                "meta_title": "Play Mega Masks Free: Impressive RTP & 2,451x Bet Win Potential",
-                "meta_description": "Read our Mega Masks slot game review - RTP of 96.21% & 2,451x bet win potential. Play for free and master rules before playing for real money."
+                "meta_title": "Play Mega Masks Free - Review of Well-Designed Slot Game",
+                "meta_description": "Discover the features of Mega Masks, a well-designed slot game with free spins. Play for free and experience the excitement."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Masks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMega Masks is a well-designed slot game developed by Relax Gaming, featuring extra functionalities like Mega Symbols and free spins. The game is a 5x5 base structure with 41 paylines and two different bet levels. The first level has a considerable percentage of Mega symbols that grow exponentially in the second level. The bonus free spins can be triggered by placing the scatter on the first, third, or fifth reels, earning you ten free spins.\n\nPaylines and Winning Potential\n\nMega Masks has a whopping 2,451 times the bet win, which translates to up to 250,000 coins. The game has 41 paylines that enable players to enjoy various ways of winning cash prizes.\n\nRTP\n\nMega Masks has an impressive RTP of 96.21%, which means players have a good chance of earning decent winnings while playing this slot game. The RTP is related to the online gambling industry averages and might entice you to take the plunge into this adventure.\n\nGame Design\n\nThe theme of Mega Masks revolves around the jungle and tribes, and the slot game is designed to tell a well-thought-out story. The wooden masks on the board remind us of the indigenous gods and colorful monsters. The game grid is a rock, with a Mega bet button next to it. The animations might be uncomplicated, but they enrich the gameplay structure as intended.\n\nRecommendation\n\nMega Masks might not have many bonuses or additional solutions to keep you in suspense, but if you're looking for a distraction-free and secure way to have some fun, the developers have executed a straightforward and well-designed slot game. The game is intuitive, plays easily and has a reasonable return-to-player ratio. The RTP of 96.21% is related to the online gambling industry averages, so it is worth a try. You can utilize the for-fun game version to master the rules before playing for real money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Masks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMega Masks is a well-designed slot game developed by Relax Gaming, featuring extra functionalities like Mega Symbols and free spins. The game is a 5x5 base structure with 41 paylines and two different bet levels. The first level has a considerable percentage of Mega symbols that grow exponentially in the second level. The bonus free spins can be triggered by placing the scatter on the first, third, or fifth reels, earning you ten free spins.\n\nPaylines and Winning Potential\n\nMega Masks has a whopping 2,451 times the bet win, which translates to up to 250,000 coins. The game has 41 paylines that enable players to enjoy various ways of winning cash prizes.\n\nRTP\n\nMega Masks has an impressive RTP of 96.21%, which means players have a good chance of earning decent winnings while playing this slot game. The RTP is related to the online gambling industry averages and might entice you to take the plunge into this adventure.\n\nGame Design\n\nThe theme of Mega Masks revolves around the jungle and tribes, and the slot game is designed to tell a well-thought-out story. The wooden masks on the board remind us of the indigenous gods and colorful monsters. The game grid is a rock, with a Mega bet button next to it. The animations might be uncomplicated, but they enrich the gameplay structure as intended.\n\nRecommendation\n\nMega Masks might not have many bonuses or additional solutions to keep you in suspense, but if you're looking for a distraction-free and secure way to have some fun, the developers have executed a straightforward and well-designed slot game. The game is intuitive, plays easily and has a reasonable return-to-player ratio. The RTP of 96.21% is related to the online gambling industry averages, so it is worth a try. You can utilize the for-fun game version to master the rules before playing for real money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7j1uIbv9eeF6GlC2tCaa5n3iCeg",
+                "id": "chatcmpl-7WXWKMa27WbZre8r1UuvXdU16x3YZ",
                 "object": "chat.completion",
-                "created": 1687413891,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989704,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive RTP of 96.21%\",\n        \"Mega Symbols and free spins features\",\n        \"Well-thought-out game design with a jungle and tribe theme\",\n        \"2,451 times the bet win potential\"\n    ],\n    \"cons\": [\n        \"Limited bonus features\",\n        \"Not suitable for players looking for constant excitement\"\n    ],\n    \"meta_title\": \"Play Mega Masks Free: Impressive RTP & 2,451x Bet Win Potential\",\n    \"meta_description\": \"Read our Mega Masks slot game review - RTP of 96.21% & 2,451x bet win potential. Play for free and master rules before playing for real money.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-designed slot game with Mega Symbols and free spins\",\n    \"High winning potential with up to 2,451 times the bet win\",\n    \"Impressive RTP of 96.21%\",\n    \"Engaging game design with a jungle and tribal theme\"\n  ],\n  \"cons\": [\n    \"Few bonuses or additional features\",\n    \"Limited suspense and excitement\"\n  ],\n  \"meta_title\": \"Play Mega Masks Free - Review of Well-Designed Slot Game\",\n  \"meta_description\": \"Discover the features of Mega Masks, a well-designed slot game with free spins. Play for free and experience the excitement.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 566,
-                    "completion_tokens": 149,
-                    "total_tokens": 715
+                    "prompt_tokens": 563,
+                    "completion_tokens": 136,
+                    "total_tokens": 699
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-masks.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Mega_Masks_online_slot_6ed03af2-762e-4f83-9669-cc18dc664097_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Masks_online_slot_6ed03af2-762e-4f83-9669-cc18dc664097_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Masks_online_slot_6ed03af2-762e-4f83-9669-cc18dc664097_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Masks_online_slot_6ed03af2-762e-4f83-9669-cc18dc664097_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Masks (Version 3).webp",
+        "game_reviews/processed_images/Mega Masks (Version 2).webp",
+        "game_reviews/processed_images/Mega Masks (Version 1).webp",
+        "game_reviews/processed_images/Mega Masks (Version 4).webp"
+    ],
+    "slug": "mega-masks",
+    "name": "Mega Masks",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Masks-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Masks Free - Review of Well-Designed Slot Game' ### Meta set: 'Discover the features of Mega Masks, a well-designed slot game with free spins. Play for free and experience the excitement.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

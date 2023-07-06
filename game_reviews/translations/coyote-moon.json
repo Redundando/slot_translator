@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stacked wild symbols increase chances of winning big",
-                    "High winning potential with high-paying symbols",
-                    "Free spins and bonus symbols add to the excitement",
-                    "Available for free play and real money options"
+                    "High winning potential",
+                    "Free spins and stacked wild symbols",
+                    "Captivating North American wildlife theme",
+                    "Available on desktop and mobile platforms"
                 ],
                 "cons": [
-                    "No separate bonus games",
-                    "RTP lower than some other online slot games"
+                    "No separate bonus game",
+                    "Payout percentage could be higher"
                 ],
-                "meta_title": "Play Coyote Moon Free: Exciting Features and High Winning Potential",
-                "meta_description": "Read our review of Coyote Moon, the exciting online slot game. Play for free or real money and take advantage of high-paying symbols and frequent free spins."
+                "meta_title": "Play Coyote Moon for Free",
+                "meta_description": "Review of Coyote Moon slot game with high winning potential and captivating North American theme. Play for free now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Coyote Moon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCoyote Moon is an online slot game with 5 reels and 40 paylines. The game allows a minimum bet of €0.01 and has an RTP ranging from 92.50% to 94.98%. The game has standard reel symbols (deer, birds, lizards, skull, ace, king, queen, jack, ten and nine symbols), scatter and bonus symbols, and wild symbols. Free spins and stacked wild symbols are the main features of Coyote Moon, and there are no separate bonus games. The game has high winning potential, and you can get twice your total bet and 5 free spins upon launching the Scatter symbol simultaneously.\n\nDesign and theme\n\nCoyote Moon has a North American wildlife theme, with symbols that represent the fauna and flora of the North American continent. The game is set in a desert surrounded by cacti and has a golden color scheme. The game's adventurous atmosphere has made it one of the most popular slots in the online casino industry. The graphics and sound effects are of high quality and contribute to the overall gaming experience.\n\nPayout percentage and rewards\n\nCoyote Moon has a payout percentage ranging from 92.50% to 94.98%. The game has a high winning potential, with a maximum jackpot of 1000 coins, which can be multiplied by 40 if you play all 40 paylines. The game's wild symbols are stacked on all reels, increasing your chances of winning big sums. The Scatter symbol gives twice your total bet and 5 free spins upon launching simultaneously. The game also offers high-paying symbols and frequent free spins.\n\nAvailability and compatibility\n\nCoyote Moon is an online slot game developed by the American company IGT. The game is available on various online casinos and can be played for free or with real money. The game can be played without downloading and can be accessed from desktop and mobile platforms. The game is compatible with various operating systems, including iOS, Android, and Windows.\n\nFree play and real money options\n\nCoyote Moon offers both free play and real money options. Free play allows players to test the game and get familiar with its features without risking any real money. Real money play offers various bonuses and jackpot opportunities, increasing your chances of winning big sums. Real money play requires registration and a deposit, and winnings can be withdrawn as real money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Coyote Moon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCoyote Moon is an online slot game with 5 reels and 40 paylines. The game allows a minimum bet of €0.01 and has an RTP ranging from 92.50% to 94.98%. The game has standard reel symbols (deer, birds, lizards, skull, ace, king, queen, jack, ten and nine symbols), scatter and bonus symbols, and wild symbols. Free spins and stacked wild symbols are the main features of Coyote Moon, and there are no separate bonus games. The game has high winning potential, and you can get twice your total bet and 5 free spins upon launching the Scatter symbol simultaneously.\n\nDesign and theme\n\nCoyote Moon has a North American wildlife theme, with symbols that represent the fauna and flora of the North American continent. The game is set in a desert surrounded by cacti and has a golden color scheme. The game's adventurous atmosphere has made it one of the most popular slots in the online casino industry. The graphics and sound effects are of high quality and contribute to the overall gaming experience.\n\nPayout percentage and rewards\n\nCoyote Moon has a payout percentage ranging from 92.50% to 94.98%. The game has a high winning potential, with a maximum jackpot of 1000 coins, which can be multiplied by 40 if you play all 40 paylines. The game's wild symbols are stacked on all reels, increasing your chances of winning big sums. The Scatter symbol gives twice your total bet and 5 free spins upon launching simultaneously. The game also offers high-paying symbols and frequent free spins.\n\nAvailability and compatibility\n\nCoyote Moon is an online slot game developed by the American company IGT. The game is available on various online casinos and can be played for free or with real money. The game can be played without downloading and can be accessed from desktop and mobile platforms. The game is compatible with various operating systems, including iOS, Android, and Windows.\n\nFree play and real money options\n\nCoyote Moon offers both free play and real money options. Free play allows players to test the game and get familiar with its features without risking any real money. Real money play offers various bonuses and jackpot opportunities, increasing your chances of winning big sums. Real money play requires registration and a deposit, and winnings can be withdrawn as real money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SxZlt8NF3fjVSyVYFwS0XRu83chm",
+                "id": "chatcmpl-7WQaVWZtgUvnAlDr7DzEgvphBESae",
                 "object": "chat.completion",
-                "created": 1687136549,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 665,
-                    "completion_tokens": 140,
-                    "total_tokens": 805
-                },
+                "created": 1687963055,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Stacked wild symbols increase chances of winning big\",\n    \"High winning potential with high-paying symbols\",\n    \"Free spins and bonus symbols add to the excitement\",\n    \"Available for free play and real money options\"\n  ],\n  \"cons\": [\n    \"No separate bonus games\",\n    \"RTP lower than some other online slot games\"\n  ],\n  \"meta_title\": \"Play Coyote Moon Free: Exciting Features and High Winning Potential\",\n  \"meta_description\": \"Read our review of Coyote Moon, the exciting online slot game. Play for free or real money and take advantage of high-paying symbols and frequent free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High winning potential\",\n    \"Free spins and stacked wild symbols\",\n    \"Captivating North American wildlife theme\",\n    \"Available on desktop and mobile platforms\"\n  ],\n  \"cons\": [\n    \"No separate bonus game\",\n    \"Payout percentage could be higher\"\n  ],\n  \"meta_title\": \"Play Coyote Moon for Free\",\n  \"meta_description\": \"Review of Coyote Moon slot game with high winning potential and captivating North American theme. Play for free now.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 662,
+                    "completion_tokens": 107,
+                    "total_tokens": 769
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_4.png",
-        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_2.png",
         "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_1.png",
-        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_2.png"
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_feature_4ae937ce-b5df-4b5a-a3c6-7567beb4b552_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Coyote Moon (Version 3).webp",
-        "game_reviews/processed_images/Coyote Moon (Version 2).webp",
         "game_reviews/processed_images/Coyote Moon (Version 4).webp",
-        "game_reviews/processed_images/Coyote Moon (Version 1).webp"
+        "game_reviews/processed_images/Coyote Moon (Version 2).webp",
+        "game_reviews/processed_images/Coyote Moon (Version 1).webp",
+        "game_reviews/processed_images/Coyote Moon (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/coyote-moon.json"
+    "filename": "game_reviews/translations/coyote-moon.json",
+    "slug": "coyote-moon",
+    "name": "Coyote Moon",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Coyote-Moon-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Coyote Moon for Free' ### Meta set: 'Review of Coyote Moon slot game with high winning potential and captivating North American theme. Play for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

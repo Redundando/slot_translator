@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique grid gameplay",
+                    "Unique gameplay mechanics with a 5x4 game grid",
                     "Dragon theme with vibrant colors",
-                    "Access to free spins with fixed Wild symbols",
-                    "Potential for generous payouts"
+                    "Free spins with fixed Wild symbols",
+                    "Potential for generous winnings"
                 ],
                 "cons": [
-                    "Graphics are minimalist",
-                    "Free spins cannot be re-triggered"
+                    "Graphics are rather minimalist",
+                    "Free spins cannot be retriggered during the same mode"
                 ],
-                "meta_title": "Play Jewel of the Dragon Free - Unique Dragon-Theme Slot Machine",
-                "meta_description": "Read our review of Jewel of the Dragon and play free. Stand out from the crowd with unique 5*4 gameplay, fixed Wilds, and potential for big payouts."
+                "meta_title": "Play Jewel of the Dragon for Free",
+                "meta_description": "Read our review of Jewel of the Dragon and play for free. Experience unique gameplay mechanics and potential for generous winnings."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jewel of the Dragon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nJewel of the Dragon stands out from other online slots thanks to its 5*4 game grid, with twenty symbols displayed at each play. The bonus mode, activated by finding at least three Dragon symbols, allows us to access free spins with fixed Wild symbols, increasing the value of our winnings during the various rounds.\n\nDragon theme\n\nThe dragon-guarded treasure is a classic theme in slot games and Jewel of the Dragon embraces it. Although its graphics are rather minimalist, the slot makes up for it with vibrant colors that can attract potential players.\n\nFree spins\n\nThe Dragon symbol in Jewel of the Dragon is the key to accessing free spins with fixed Wild symbols, greatly increasing the value of our winnings during the various rounds. Although free spins cannot be retriggered during the same mode, it is not uncommon to get rather generous winnings, including those valued at up to 165 times our bet.\n\nPotential winnings\n\nWith the Dragon symbol and its associated free spins, players can stand to win generous payouts. During bonus mode, it is possible to win up to 165 times the initial bet. However, overall payouts will depend on the size of the bet placed in the game.\n\nSimilar games\n\nJewel of the Dragon is one of many online slots inspired by the mythical creature, the dragon. Other games with similar themes include Dragon’s Revenge, Dragon Island, Flaming Dragon, Gold Dragon Red Dragon, Dragon Dozer, 88 Dragon, and Sakura Dragon.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jewel of the Dragon\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nJewel of the Dragon stands out from other online slots thanks to its 5*4 game grid, with twenty symbols displayed at each play. The bonus mode, activated by finding at least three Dragon symbols, allows us to access free spins with fixed Wild symbols, increasing the value of our winnings during the various rounds.\n\nDragon theme\n\nThe dragon-guarded treasure is a classic theme in slot games and Jewel of the Dragon embraces it. Although its graphics are rather minimalist, the slot makes up for it with vibrant colors that can attract potential players.\n\nFree spins\n\nThe Dragon symbol in Jewel of the Dragon is the key to accessing free spins with fixed Wild symbols, greatly increasing the value of our winnings during the various rounds. Although free spins cannot be retriggered during the same mode, it is not uncommon to get rather generous winnings, including those valued at up to 165 times our bet.\n\nPotential winnings\n\nWith the Dragon symbol and its associated free spins, players can stand to win generous payouts. During bonus mode, it is possible to win up to 165 times the initial bet. However, overall payouts will depend on the size of the bet placed in the game.\n\nSimilar games\n\nJewel of the Dragon is one of many online slots inspired by the mythical creature, the dragon. Other games with similar themes include Dragon’s Revenge, Dragon Island, Flaming Dragon, Gold Dragon Red Dragon, Dragon Dozer, 88 Dragon, and Sakura Dragon.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tv3iA3PlvUqqQc1VPwSKhooTUiEE",
+                "id": "chatcmpl-7WVSu4pfTLv6QEHH35p327GYI1gqs",
                 "object": "chat.completion",
-                "created": 1687365202,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981804,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique grid gameplay\",\n        \"Dragon theme with vibrant colors\",\n        \"Access to free spins with fixed Wild symbols\",\n        \"Potential for generous payouts\"\n    ],\n    \"cons\": [\n        \"Graphics are minimalist\",\n        \"Free spins cannot be re-triggered\"\n    ],\n    \"meta_title\": \"Play Jewel of the Dragon Free - Unique Dragon-Theme Slot Machine\",\n    \"meta_description\": \"Read our review of Jewel of the Dragon and play free. Stand out from the crowd with unique 5*4 gameplay, fixed Wilds, and potential for big payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics with a 5x4 game grid\",\n    \"Dragon theme with vibrant colors\",\n    \"Free spins with fixed Wild symbols\",\n    \"Potential for generous winnings\"\n  ],\n  \"cons\": [\n    \"Graphics are rather minimalist\",\n    \"Free spins cannot be retriggered during the same mode\"\n  ],\n  \"meta_title\": \"Play Jewel of the Dragon for Free\",\n  \"meta_description\": \"Read our review of Jewel of the Dragon and play for free. Experience unique gameplay mechanics and potential for generous winnings.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 480,
-                    "completion_tokens": 127,
-                    "total_tokens": 607
+                    "prompt_tokens": 477,
+                    "completion_tokens": 119,
+                    "total_tokens": 596
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jewel-of-the-dragon.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Design_a_feature_image_for_the_slot_gam_9c2e0c35-2b1a-44b7-b2be-2413fb6d41ea_3.png",
+        "arved__Prompt_for_DALLE_Design_a_feature_image_for_the_slot_gam_9c2e0c35-2b1a-44b7-b2be-2413fb6d41ea_2.png",
+        "arved__Prompt_for_DALLE_Design_a_feature_image_for_the_slot_gam_9c2e0c35-2b1a-44b7-b2be-2413fb6d41ea_4.png",
+        "arved__Prompt_for_DALLE_Design_a_feature_image_for_the_slot_gam_9c2e0c35-2b1a-44b7-b2be-2413fb6d41ea_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jewel Of The Dragon (Version 2).webp",
+        "game_reviews/processed_images/Jewel Of The Dragon (Version 3).webp",
+        "game_reviews/processed_images/Jewel Of The Dragon (Version 1).webp",
+        "game_reviews/processed_images/Jewel Of The Dragon (Version 4).webp"
+    ],
+    "slug": "jewel-of-the-dragon",
+    "name": "Jewel of the Dragon",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jewel-Of-The-Dragon-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jewel of the Dragon for Free' ### Meta set: 'Read our review of Jewel of the Dragon and play for free. Experience unique gameplay mechanics and potential for generous winnings.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

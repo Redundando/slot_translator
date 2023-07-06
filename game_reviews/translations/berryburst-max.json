@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding Wild and Joker symbols",
-                    "Highly volatile and intense gameplay",
-                    "Up to 6,000 times the total bet",
-                    "Fun and engaging graphics and design"
+                    "Highly volatile slot with tripled winning potential",
+                    "Expanding Wild and Joker symbols for big wins",
+                    "Colorful and animated design with summer fruit symbols",
+                    "Available to play for free or with real money at online casinos"
                 ],
                 "cons": [
-                    "Not suitable for players who prefer low volatility slots",
-                    "Some players may not like the fruity theme"
+                    "More volatile than the original version",
+                    "Limited bonus features compared to other slot games"
                 ],
-                "meta_title": "Play Berryburst Max for Free - Review and Bonuses",
-                "meta_description": "Find out why Berryburst Max is one of the hottest new slot games. Enjoy engaging graphics and intense gameplay with bonuses and promotions available."
+                "meta_title": "Play Berryburst Max Free | Highly Volatile Slot Game",
+                "meta_description": "Discover the highly volatile Berryburst Max slot game and play for free at online casinos."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Berryburst Max\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nBerryburst Max is a highly volatile slot game developed by NetEnt with 5 reels and a Cluster Pays engine. Your goal is to make groups of 5 or more symbols with heart and spade symbols giving you 0.5 of your bet. The design is colorful and animated with standard seed symbols and typically summer fruits such as orange slices, raspberries, limes, and berries. In this maxi variant, you can start playing with as little as €0.10 up to €200 per day from any device! \n\nSpecial symbols and bonus features\n\nBerryburst MAX features an expanding Wild and Joker symbol that can appear on any reel and be Wild, expanding on an entire reel. If you get 15 orange slices or raspberries on the reels, you will receive from 500 to 1,000 times your bet. If you are very lucky, you may find 5 Wild reels and win up to 6,000 times the total bet in the Re-Spin feature.\n\nWinning potential and volatility\n\nBerryburst Max is a highly volatile slot with a tripled winning potential, even though it is more volatile than the original. The real key to making big wins is to achieve the highest number of Wild reels, leveraging the Re-Spin feature rich in fruity symbols with the highest value. In the normal version of Berryburst, the maximum win was 1,868 times the amount placed, while in Berryburst Max, the maximum win is up to 6,000 times the total bet.\n\nGraphics and design\n\nThe design of Berryburst Max is similar to that of the original, with bright, colorful graphics of summer fruits such as oranges, raspberries, limes, and berries, and standard seed symbols. The game is well-animated with a bright and cheerful atmosphere, suitable for anyone looking for a fun and engaging gaming experience.\n\nPromotions and bonuses\n\nBerryburst Max is available in many online casinos that offer great promotions and bonuses to new players and loyal customers. Some casinos offer no deposit bonuses and welcome bonuses to new customers, which allow you to play the game for free or with a bonus balance. If you love fruit-themed slots, we recommend taking a spin in our online casinos to select your favorite slot and play for free or with real money. Enjoy!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Berryburst Max\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nBerryburst Max is a highly volatile slot game developed by NetEnt with 5 reels and a Cluster Pays engine. Your goal is to make groups of 5 or more symbols with heart and spade symbols giving you 0.5 of your bet. The design is colorful and animated with standard seed symbols and typically summer fruits such as orange slices, raspberries, limes, and berries. In this maxi variant, you can start playing with as little as €0.10 up to €200 per day from any device! \n\nSpecial symbols and bonus features\n\nBerryburst MAX features an expanding Wild and Joker symbol that can appear on any reel and be Wild, expanding on an entire reel. If you get 15 orange slices or raspberries on the reels, you will receive from 500 to 1,000 times your bet. If you are very lucky, you may find 5 Wild reels and win up to 6,000 times the total bet in the Re-Spin feature.\n\nWinning potential and volatility\n\nBerryburst Max is a highly volatile slot with a tripled winning potential, even though it is more volatile than the original. The real key to making big wins is to achieve the highest number of Wild reels, leveraging the Re-Spin feature rich in fruity symbols with the highest value. In the normal version of Berryburst, the maximum win was 1,868 times the amount placed, while in Berryburst Max, the maximum win is up to 6,000 times the total bet.\n\nGraphics and design\n\nThe design of Berryburst Max is similar to that of the original, with bright, colorful graphics of summer fruits such as oranges, raspberries, limes, and berries, and standard seed symbols. The game is well-animated with a bright and cheerful atmosphere, suitable for anyone looking for a fun and engaging gaming experience.\n\nPromotions and bonuses\n\nBerryburst Max is available in many online casinos that offer great promotions and bonuses to new players and loyal customers. Some casinos offer no deposit bonuses and welcome bonuses to new customers, which allow you to play the game for free or with a bonus balance. If you love fruit-themed slots, we recommend taking a spin in our online casinos to select your favorite slot and play for free or with real money. Enjoy!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdcRKqeb8kbDUAiKKK2TmsOwI2SA",
+                "id": "chatcmpl-7WO3H2926iq2xg9CJmqTMLqrglKRB",
                 "object": "chat.completion",
-                "created": 1687059835,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 646,
-                    "completion_tokens": 120,
-                    "total_tokens": 766
-                },
+                "created": 1687953307,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Expanding Wild and Joker symbols\", \"Highly volatile and intense gameplay\", \"Up to 6,000 times the total bet\", \"Fun and engaging graphics and design\"],\n    \"cons\": [\"Not suitable for players who prefer low volatility slots\", \"Some players may not like the fruity theme\"],\n    \"meta_title\": \"Play Berryburst Max for Free - Review and Bonuses\",\n    \"meta_description\": \"Find out why Berryburst Max is one of the hottest new slot games. Enjoy engaging graphics and intense gameplay with bonuses and promotions available.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Highly volatile slot with tripled winning potential\",\n        \"Expanding Wild and Joker symbols for big wins\",\n        \"Colorful and animated design with summer fruit symbols\",\n        \"Available to play for free or with real money at online casinos\"\n    ],\n    \"cons\": [\n        \"More volatile than the original version\",\n        \"Limited bonus features compared to other slot games\"\n    ],\n    \"meta_title\": \"Play Berryburst Max Free | Highly Volatile Slot Game\",\n    \"meta_description\": \"Discover the highly volatile Berryburst Max slot game and play for free at online casinos.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 643,
+                    "completion_tokens": 129,
+                    "total_tokens": 772
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/berryburst-max.json",
     "raw_feature_images": [
-        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_3.png",
         "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_2.png",
-        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_1.png",
-        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_4.png"
+        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_that_portray_63ad3599-fe2c-41d3-9fd5-9af79f993ebc_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Berryburst Max (Version 4).webp",
+        "game_reviews/processed_images/Berryburst Max (Version 3).webp",
         "game_reviews/processed_images/Berryburst Max (Version 1).webp",
-        "game_reviews/processed_images/Berryburst Max (Version 2).webp",
-        "game_reviews/processed_images/Berryburst Max (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Berryburst Max (Version 4).webp",
+        "game_reviews/processed_images/Berryburst Max (Version 2).webp"
+    ],
+    "slug": "berryburst-max",
+    "name": "Berryburst Max",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Berryburst-Max-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Berryburst Max Free | Highly Volatile Slot Game' ### Meta set: 'Discover the highly volatile Berryburst Max slot game and play for free at online casinos.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

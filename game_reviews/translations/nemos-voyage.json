@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting underwater theme with themed graphics.",
-                    "Free spin feature with the possibility of multiplying the reward.",
-                    "Two different wild symbols to enhance the gaming experience.",
-                    "High Return to Player (RTP) value of 95.01%."
+                    "Themed graphics and animations bring the game to life",
+                    "Wide range of betting options",
+                    "Unique Wild symbols and free spins feature",
+                    "High RTP value for potential big wins"
                 ],
                 "cons": [
-                    "Limited betting range.",
-                    "No progressive jackpot feature."
+                    "Limited symbol variety compared to other slot games",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Nemo's Voyage Free Slot Game | Exciting Undersea Adventure",
-                "meta_description": "Explore Captain Nemo's undersea world in Nemo's Voyage free slot game. High RTP value, clumped wilds and free spins guarantee an exciting gaming experience."
+                "meta_title": "Play Nemo's Voyage Free: Review of WMS Online Slot Game",
+                "meta_description": "Take an underwater adventure and play Nemo's Voyage for free. Read our review of this WMS slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Nemo’s Voyage\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nNemo’s Voyage is an online slot game developed by WMS, inspired by the legendary Captain Nemo and his adventures under the sea. The game offers players a chance to win big prizes through its special symbols and bonus games. The themed graphics and animations promise an interactive and exciting adventure.\n\nGraphics and Animations\n\nNemo’s Voyage has an aesthetic appeal that delivers on its promise of an underwater adventure. The game design incorporates symbols and icons that represent marine wildlife, creating a well-structured storyline. The graphics and animations bring the game to life, immersing the player in the world of Captain Nemo's Nautilus.\n\nSymbol Grid and Gameplay\n\nThe game features a 3 × 5 symbol grid that players can interact with, while setting their bets from 0.01 cents to 10.0€. The symbols on the grid range from telescopes, harpoons, and maps to sea creatures like squids, whales, and piranhas, with some symbols offering higher rewards than others. The Wild symbol comes in two variations: pressure and clumped, and can replace all basic symbols. During the regular gameplay, the player should keep an eye on the immersion level, as it determines the value of the symbols.\n\nWild Symbols and Free Spins\n\nThe Wild symbols activate the free spins round, with the Clumped Wild forming a series of Wild icons that can increase the chances of winning and the value of the reward. If a Wild x2 or x3 appears, the lines containing them will multiply accordingly. During free spins, the giant squid's placement can transform one of the reels into a Wild symbol.\n\nReturn to Player (RTP) Value\n\nNemo’s Voyage has an RTP value of 95.01%, which is a major plus for gamblers. The game promises a lively and responsive gameplay thanks to its unique features and symbols. With the potential to become a member of the Nautilus' crew and seek hidden treasures in the depths of the ocean, players can take a shot at winning big prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Nemo’s Voyage\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nNemo’s Voyage is an online slot game developed by WMS, inspired by the legendary Captain Nemo and his adventures under the sea. The game offers players a chance to win big prizes through its special symbols and bonus games. The themed graphics and animations promise an interactive and exciting adventure.\n\nGraphics and Animations\n\nNemo’s Voyage has an aesthetic appeal that delivers on its promise of an underwater adventure. The game design incorporates symbols and icons that represent marine wildlife, creating a well-structured storyline. The graphics and animations bring the game to life, immersing the player in the world of Captain Nemo's Nautilus.\n\nSymbol Grid and Gameplay\n\nThe game features a 3 × 5 symbol grid that players can interact with, while setting their bets from 0.01 cents to 10.0€. The symbols on the grid range from telescopes, harpoons, and maps to sea creatures like squids, whales, and piranhas, with some symbols offering higher rewards than others. The Wild symbol comes in two variations: pressure and clumped, and can replace all basic symbols. During the regular gameplay, the player should keep an eye on the immersion level, as it determines the value of the symbols.\n\nWild Symbols and Free Spins\n\nThe Wild symbols activate the free spins round, with the Clumped Wild forming a series of Wild icons that can increase the chances of winning and the value of the reward. If a Wild x2 or x3 appears, the lines containing them will multiply accordingly. During free spins, the giant squid's placement can transform one of the reels into a Wild symbol.\n\nReturn to Player (RTP) Value\n\nNemo’s Voyage has an RTP value of 95.01%, which is a major plus for gamblers. The game promises a lively and responsive gameplay thanks to its unique features and symbols. With the potential to become a member of the Nautilus' crew and seek hidden treasures in the depths of the ocean, players can take a shot at winning big prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UEi9YIVgV7fGSie4LhCI5wbEfSt6",
+                "id": "chatcmpl-7WYXHEU0fgYKJDaY8cArXTRSO01yN",
                 "object": "chat.completion",
-                "created": 1687440745,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993607,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting underwater theme with themed graphics.\",\n        \"Free spin feature with the possibility of multiplying the reward.\",\n        \"Two different wild symbols to enhance the gaming experience.\",\n        \"High Return to Player (RTP) value of 95.01%.\"\n    ],\n    \"cons\": [\n        \"Limited betting range.\",\n        \"No progressive jackpot feature.\"\n    ],\n    \"meta_title\": \"Play Nemo's Voyage Free Slot Game | Exciting Undersea Adventure\",\n    \"meta_description\": \"Explore Captain Nemo's undersea world in Nemo's Voyage free slot game. High RTP value, clumped wilds and free spins guarantee an exciting gaming experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Themed graphics and animations bring the game to life\",\n    \"Wide range of betting options\",\n    \"Unique Wild symbols and free spins feature\",\n    \"High RTP value for potential big wins\"\n  ],\n  \"cons\": [\n    \"Limited symbol variety compared to other slot games\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Nemo's Voyage Free: Review of WMS Online Slot Game\",\n  \"meta_description\": \"Take an underwater adventure and play Nemo's Voyage for free. Read our review of this WMS slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 145,
-                    "total_tokens": 737
+                    "prompt_tokens": 589,
+                    "completion_tokens": 126,
+                    "total_tokens": 715
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/nemos-voyage.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Nemos_Vo_06f643fd-c5fa-44b8-b282-c3b364d7ced8_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Nemos_Vo_06f643fd-c5fa-44b8-b282-c3b364d7ced8_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Nemos_Vo_06f643fd-c5fa-44b8-b282-c3b364d7ced8_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Nemos_Vo_06f643fd-c5fa-44b8-b282-c3b364d7ced8_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Nemos Voyage (Version 1).webp",
+        "game_reviews/processed_images/Nemos Voyage (Version 2).webp",
+        "game_reviews/processed_images/Nemos Voyage (Version 3).webp",
+        "game_reviews/processed_images/Nemos Voyage (Version 4).webp"
+    ],
+    "slug": "nemos-voyage",
+    "name": "Nemo’s Voyage",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Nemos-Voyage-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Nemo's Voyage Free: Review of WMS Online Slot Game' ### Meta set: 'Take an underwater adventure and play Nemo's Voyage for free. Read our review of this WMS slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

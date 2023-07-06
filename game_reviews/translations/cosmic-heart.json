@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 96%",
-                    "Exciting, potentially big payouts on every spin",
-                    "Innovative special feature with various possibilities for expanding payouts",
-                    "Calming background music and visually appealing graphics"
+                    "Exciting gameplay with high volatility",
+                    "Potential for massive payouts",
+                    "Unique visual and musical aspects",
+                    "Special features increase chances of winning big"
                 ],
                 "cons": [
-                    "High volatility can lead to several non-winning spins",
-                    "No visible reels may not appeal to traditional slot players"
+                    "Several non-winning spins",
+                    "No visible reels to spin"
                 ],
-                "meta_title": "Play Cosmic Heart Free: Review of Gameplay Mechanics, Special Features, and Similar Slot Games",
-                "meta_description": "Explore the universe and win big with Cosmic Heart, a high RTP, high volatility slot game with innovative special features. Try this game for free now."
+                "meta_title": "Play Cosmic Heart Free - Review of Cosmic Heart Slot Game",
+                "meta_description": "Read our review of Cosmic Heart, a thrilling slot game with exciting gameplay mechanics. Play for free and explore the universe with every spin."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cosmic Heart\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nCosmic Heart features a standard 5x4 grid, with twenty symbols appearing on the screen per spin. With an RTP of 96% and high volatility, expect several non-winning spins before hitting a big payout. Each spin offers the potential for a massive payout, adding excitement to an already exhilarating slot that invites players to explore the universe with every spin.\n\nSpecial Features\n\nTo increase the chances of winning big, players should focus on unlocking the special feature located at the top of the game screen. Each reel features a glowing prize box, and as players spin, the boxes move towards the left side of the screen. Landing on the special scatter symbol activates the Bonus Round on the corresponding reel. The Bonus Round could be a Wild symbol covering the entire reel or expanding horizontally, increasing the payout multiplier or awarding free spins.\n\nVisual and Musical Aspects\n\nUnlike most slots, Cosmic Heart does not have visible reels to spin. Instead, players will watch different space-themed minerals and planets float around in open space on a backdrop that fades from blue to purple. The background music is calming, and the sounds of spinning reels and winning paylines are muted, providing the perfect setting to unwind after a long day of gambling.\n\nSimilar Slot Games\n\nSeveral other games use space as a theme, such as \"Space Spins\" and \"Space Gem\" by Wazdan and \"Space Wars\" by NetEnt, to name a few.\n\nRTP and Volatility\n\nCosmic Heart has an RTP of 96% and high volatility, expect several non-winning spins before hitting a big payout. However, each spin offers the potential for a massive payout, adding excitement to an already exhilarating slot that invites players to explore the universe with every spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cosmic Heart\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nCosmic Heart features a standard 5x4 grid, with twenty symbols appearing on the screen per spin. With an RTP of 96% and high volatility, expect several non-winning spins before hitting a big payout. Each spin offers the potential for a massive payout, adding excitement to an already exhilarating slot that invites players to explore the universe with every spin.\n\nSpecial Features\n\nTo increase the chances of winning big, players should focus on unlocking the special feature located at the top of the game screen. Each reel features a glowing prize box, and as players spin, the boxes move towards the left side of the screen. Landing on the special scatter symbol activates the Bonus Round on the corresponding reel. The Bonus Round could be a Wild symbol covering the entire reel or expanding horizontally, increasing the payout multiplier or awarding free spins.\n\nVisual and Musical Aspects\n\nUnlike most slots, Cosmic Heart does not have visible reels to spin. Instead, players will watch different space-themed minerals and planets float around in open space on a backdrop that fades from blue to purple. The background music is calming, and the sounds of spinning reels and winning paylines are muted, providing the perfect setting to unwind after a long day of gambling.\n\nSimilar Slot Games\n\nSeveral other games use space as a theme, such as \"Space Spins\" and \"Space Gem\" by Wazdan and \"Space Wars\" by NetEnt, to name a few.\n\nRTP and Volatility\n\nCosmic Heart has an RTP of 96% and high volatility, expect several non-winning spins before hitting a big payout. However, each spin offers the potential for a massive payout, adding excitement to an already exhilarating slot that invites players to explore the universe with every spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SxCI8TJUTcDiYmTAo5DxmLkvz7KT",
+                "id": "chatcmpl-7WQXZVNPE5CH3RVQUsLMcIVQY9NDQ",
                 "object": "chat.completion",
-                "created": 1687135094,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 532,
-                    "completion_tokens": 148,
-                    "total_tokens": 680
-                },
+                "created": 1687962873,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 96%\",\n        \"Exciting, potentially big payouts on every spin\",\n        \"Innovative special feature with various possibilities for expanding payouts\",\n        \"Calming background music and visually appealing graphics\"\n    ],\n    \"cons\": [\n        \"High volatility can lead to several non-winning spins\",\n        \"No visible reels may not appeal to traditional slot players\"\n    ],\n    \"meta_title\": \"Play Cosmic Heart Free: Review of Gameplay Mechanics, Special Features, and Similar Slot Games\",\n    \"meta_description\": \"Explore the universe and win big with Cosmic Heart, a high RTP, high volatility slot game with innovative special features. Try this game for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with high volatility\",\n    \"Potential for massive payouts\",\n    \"Unique visual and musical aspects\",\n    \"Special features increase chances of winning big\"\n  ],\n  \"cons\": [\n    \"Several non-winning spins\",\n    \"No visible reels to spin\"\n  ],\n  \"meta_title\": \"Play Cosmic Heart Free - Review of Cosmic Heart Slot Game\",\n  \"meta_description\": \"Read our review of Cosmic Heart, a thrilling slot game with exciting gameplay mechanics. Play for free and explore the universe with every spin.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 529,
+                    "completion_tokens": 117,
+                    "total_tokens": 646
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_4.png",
-        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_1.png",
         "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_3.png",
-        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_2.png"
+        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_1.png",
+        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_2.png",
+        "arved__Create_a_cartoon_style_feature_image_for_the_slot_game_C_53c8d500-6ec1-4e78-8064-9fe66268a98f_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cosmic Heart (Version 4).webp",
+        "game_reviews/processed_images/Cosmic Heart (Version 1).webp",
         "game_reviews/processed_images/Cosmic Heart (Version 2).webp",
-        "game_reviews/processed_images/Cosmic Heart (Version 3).webp",
-        "game_reviews/processed_images/Cosmic Heart (Version 1).webp"
+        "game_reviews/processed_images/Cosmic Heart (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/cosmic-heart.json"
+    "filename": "game_reviews/translations/cosmic-heart.json",
+    "slug": "cosmic-heart",
+    "name": "Cosmic Heart",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cosmic-Heart-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cosmic Heart Free - Review of Cosmic Heart Slot Game' ### Meta set: 'Read our review of Cosmic Heart, a thrilling slot game with exciting gameplay mechanics. Play for free and explore the universe with every spin.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Simple and easy-to-play",
-                    "Flexible betting range",
-                    "Autoplay feature with no limits",
-                    "Bonus game with multipliers up to 20x"
+                    "Flexible betting options",
+                    "Frequent winnings",
+                    "Beautiful visual design"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "Lack of big special effects"
+                    "Lack of big special effects",
+                    "Limited bonus game activation"
                 ],
-                "meta_title": "Play Mermaid Reef Free Today - Slot Game Review",
-                "meta_description": "Discover the beautiful Abaco Islands with the Mermaid Reef slot game from ReelPlay. Play and enjoy generous bonus games and high volatility for big payouts."
+                "meta_title": "Play Mermaid Reef for Free",
+                "meta_description": "Read our review of Mermaid Reef and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mermaid Reef\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMermaid Reef is a simple and easy-to-play slot game from ReelPlay. It has a 5x3 grid, 10 fixed paylines, and a minimum bet of 10 coins up to a maximum of 10,000 coins. The Autoplay feature allows players to set between 5 and 100 automatic spins without any limits. This slot game has an RTP of 95.9% and high volatility, which makes it capable of giving players frequent winnings.\n\nBonus Features\n\nMermaid Reef has two special symbols, the Wild symbol featuring a mermaid, and the Scatter Pearl symbol, which can trigger Free Spins with a 2x multiplier. The Scatter Clam symbol, which can appear on reels 2, 3, and 4, can activate the bonus game where players can win multipliers ranging from 1x to 20x by opening closed oysters. Players can also find black pearls that end the bonus game, and golden pearls that pay with a multiplier ranging from 50x to 1,000x.\n\nBetting Options\n\nMermaid Reef has a flexible betting range that starts at 10 coins and goes up to 10,000 coins. The Autoplay feature allows players to set between 5 and 100 automatic spins without any limits. The internal menu lets players adjust their bets to the best option. \n\nVisuals and Sound\n\nMermaid Reef is set in the beautiful Abaco Islands in the Bahamas, featuring a coral reef environment with a mermaid’s cliff in the background. The slot graphics are elaborate but without big special effects. The musical background is relaxing and pleasant, perfect for players who prefer not to be disturbed by sound effects.\n\nRTP and Volatility\n\nMermaid Reef has an RTP of 95.9%, which is considered a reasonable percentage in the slot game industry. The high volatility of this game makes it capable of giving players frequent winnings. The slot game has a good balance between frequent winnings and the potential for large payouts in both the bonus game and Free Spins features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mermaid Reef\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMermaid Reef is a simple and easy-to-play slot game from ReelPlay. It has a 5x3 grid, 10 fixed paylines, and a minimum bet of 10 coins up to a maximum of 10,000 coins. The Autoplay feature allows players to set between 5 and 100 automatic spins without any limits. This slot game has an RTP of 95.9% and high volatility, which makes it capable of giving players frequent winnings.\n\nBonus Features\n\nMermaid Reef has two special symbols, the Wild symbol featuring a mermaid, and the Scatter Pearl symbol, which can trigger Free Spins with a 2x multiplier. The Scatter Clam symbol, which can appear on reels 2, 3, and 4, can activate the bonus game where players can win multipliers ranging from 1x to 20x by opening closed oysters. Players can also find black pearls that end the bonus game, and golden pearls that pay with a multiplier ranging from 50x to 1,000x.\n\nBetting Options\n\nMermaid Reef has a flexible betting range that starts at 10 coins and goes up to 10,000 coins. The Autoplay feature allows players to set between 5 and 100 automatic spins without any limits. The internal menu lets players adjust their bets to the best option. \n\nVisuals and Sound\n\nMermaid Reef is set in the beautiful Abaco Islands in the Bahamas, featuring a coral reef environment with a mermaid’s cliff in the background. The slot graphics are elaborate but without big special effects. The musical background is relaxing and pleasant, perfect for players who prefer not to be disturbed by sound effects.\n\nRTP and Volatility\n\nMermaid Reef has an RTP of 95.9%, which is considered a reasonable percentage in the slot game industry. The high volatility of this game makes it capable of giving players frequent winnings. The slot game has a good balance between frequent winnings and the potential for large payouts in both the bonus game and Free Spins features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U8S9qIM7Lx1W7KdK3SGB6ZATFZeA",
+                "id": "chatcmpl-7WXcTYOGCu5GYWcAczABfjSSwG7gc",
                 "object": "chat.completion",
-                "created": 1687416689,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990085,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and easy-to-play\",\n        \"Flexible betting range\",\n        \"Autoplay feature with no limits\",\n        \"Bonus game with multipliers up to 20x\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"Lack of big special effects\"\n    ],\n    \"meta_title\": \"Play Mermaid Reef Free Today - Slot Game Review\",\n    \"meta_description\": \"Discover the beautiful Abaco Islands with the Mermaid Reef slot game from ReelPlay. Play and enjoy generous bonus games and high volatility for big payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and easy-to-play\",\n    \"Flexible betting options\",\n    \"Frequent winnings\",\n    \"Beautiful visual design\"\n  ],\n  \"cons\": [\n    \"Lack of big special effects\",\n    \"Limited bonus game activation\"\n  ],\n  \"meta_title\": \"Play Mermaid Reef for Free\",\n  \"meta_description\": \"Read our review of Mermaid Reef and play this slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 597,
-                    "completion_tokens": 125,
-                    "total_tokens": 722
+                    "prompt_tokens": 594,
+                    "completion_tokens": 93,
+                    "total_tokens": 687
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mermaid-reef.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mermaid__9decb4bd-e62d-4cbb-802e-aaee2bcf754d_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mermaid__9decb4bd-e62d-4cbb-802e-aaee2bcf754d_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mermaid__9decb4bd-e62d-4cbb-802e-aaee2bcf754d_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Mermaid__9decb4bd-e62d-4cbb-802e-aaee2bcf754d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mermaid Reef (Version 1).webp",
+        "game_reviews/processed_images/Mermaid Reef (Version 4).webp",
+        "game_reviews/processed_images/Mermaid Reef (Version 3).webp",
+        "game_reviews/processed_images/Mermaid Reef (Version 2).webp"
+    ],
+    "slug": "mermaid-reef",
+    "name": "Mermaid Reef",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mermaid-Reef-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mermaid Reef for Free' ### Meta set: 'Read our review of Mermaid Reef and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

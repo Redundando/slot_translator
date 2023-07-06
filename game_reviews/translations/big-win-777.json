@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic vintage graphics",
-                    "Chance Wheel feature with big payouts",
-                    "Big payouts with multipliers",
-                    "Similar slot games available online"
+                    "Vintage graphics and Las Vegas atmosphere",
+                    "Classic symbols like BAR and colorful 7s",
+                    "Chance Wheel feature with big payouts up to 777x",
+                    "Similar slot games available for more options"
                 ],
                 "cons": [
-                    "Lacks advanced features like free spins and bonus rounds",
-                    "Limited paylines"
+                    "Limited variety of symbols",
+                    "No free spins feature"
                 ],
-                "meta_title": "Play Big Win 777 Slot Game for Free - Review and Features",
-                "meta_description": "Read our detailed review of Big Win 777 online slot game. Play for free and learn about the vintage graphics, Chance Wheel feature, and big payouts."
+                "meta_title": "Play Big Win 777 - Free Online Slot Game",
+                "meta_description": "Detailed review of Big Win 777, a traditional slot game with vintage graphics and big payouts. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Big Win 777\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview and Description\n\nBig Win 777 is an online slot game developed by Play N Go. It's a traditional slot machine with vintage graphics and a Las Vegas-style atmosphere. The slot has a 5x3 grid and features classic symbols like BAR and colorful 7s. In this detailed review, we'll discuss the symbols, features, scatter, and chance wheel feature, big payouts with multipliers, and similar slot games.\n\nSymbols and Features\n\nThe symbols on the Big Win 777 slot machine are those of traditional slot machines, including colorful 7s and BAR symbols. The game also has a diamond symbol as the Wild, which can replace missing elements to create a winning combination. The Scatter symbol is the Wheel of Fortune, and landing three of them unlocks the Chance Wheel feature. This feature allows players to win big payouts, with multipliers of up to 777x. The red 7 symbol offers a multiplier of 2x to 5x, while the golden 7 symbol offers winnings of up to 1500 euros in game credits.\n\nScatter and Chance Wheel Feature\n\nThe Scatter symbol in Big Win 777 is the Wheel of Fortune. By landing three of these symbols in a row, players can unlock the Chance Wheel feature. This feature is a type of wheel of fortune that can allow players to win big payouts, including multipliers of up to 777x. The Chance Wheel feature is the most exciting and captivating feature of the game, making it a popular choice among slot machine enthusiasts.\n\nBig Payouts with Multipliers\n\nBig Win 777 offers players the opportunity to win big payouts with multipliers. The red 7 symbol in the game offers a multiplier of 2x to 5x, while the golden 7 symbol can offer up to 1500 euros in game credits. The Chance Wheel feature also allows players to win big payouts, with multipliers of up to 777x. These big payouts with multipliers make Big Win 777 an exciting and popular slot machine game.\n\nSimilar Slot Games\n\nIf you enjoy traditional slot machines with a modern touch, there are many similar slot games available online. Slot Power Stars by Novomatic features classic fruit symbols, and Slot Joker 8000 by Microgaming allows players to play on a physical slot machine simulator. These games offer a similar gaming experience to Big Win 777, making them popular choices among slot machine enthusiasts.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Big Win 777\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview and Description\n\nBig Win 777 is an online slot game developed by Play N Go. It's a traditional slot machine with vintage graphics and a Las Vegas-style atmosphere. The slot has a 5x3 grid and features classic symbols like BAR and colorful 7s. In this detailed review, we'll discuss the symbols, features, scatter, and chance wheel feature, big payouts with multipliers, and similar slot games.\n\nSymbols and Features\n\nThe symbols on the Big Win 777 slot machine are those of traditional slot machines, including colorful 7s and BAR symbols. The game also has a diamond symbol as the Wild, which can replace missing elements to create a winning combination. The Scatter symbol is the Wheel of Fortune, and landing three of them unlocks the Chance Wheel feature. This feature allows players to win big payouts, with multipliers of up to 777x. The red 7 symbol offers a multiplier of 2x to 5x, while the golden 7 symbol offers winnings of up to 1500 euros in game credits.\n\nScatter and Chance Wheel Feature\n\nThe Scatter symbol in Big Win 777 is the Wheel of Fortune. By landing three of these symbols in a row, players can unlock the Chance Wheel feature. This feature is a type of wheel of fortune that can allow players to win big payouts, including multipliers of up to 777x. The Chance Wheel feature is the most exciting and captivating feature of the game, making it a popular choice among slot machine enthusiasts.\n\nBig Payouts with Multipliers\n\nBig Win 777 offers players the opportunity to win big payouts with multipliers. The red 7 symbol in the game offers a multiplier of 2x to 5x, while the golden 7 symbol can offer up to 1500 euros in game credits. The Chance Wheel feature also allows players to win big payouts, with multipliers of up to 777x. These big payouts with multipliers make Big Win 777 an exciting and popular slot machine game.\n\nSimilar Slot Games\n\nIf you enjoy traditional slot machines with a modern touch, there are many similar slot games available online. Slot Power Stars by Novomatic features classic fruit symbols, and Slot Joker 8000 by Microgaming allows players to play on a physical slot machine simulator. These games offer a similar gaming experience to Big Win 777, making them popular choices among slot machine enthusiasts.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SfGQI9KMuX3Sco5WTqi8hDSSGn9j",
+                "id": "chatcmpl-7WOG59nR6jls390P9diC5f8EoUgQN",
                 "object": "chat.completion",
-                "created": 1687066158,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 668,
-                    "completion_tokens": 125,
-                    "total_tokens": 793
-                },
+                "created": 1687954101,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic vintage graphics\",\n        \"Chance Wheel feature with big payouts\",\n        \"Big payouts with multipliers\",\n        \"Similar slot games available online\"\n    ],\n    \"cons\": [\n        \"Lacks advanced features like free spins and bonus rounds\",\n        \"Limited paylines\"\n    ],\n    \"meta_title\": \"Play Big Win 777 Slot Game for Free - Review and Features\",\n    \"meta_description\": \"Read our detailed review of Big Win 777 online slot game. Play for free and learn about the vintage graphics, Chance Wheel feature, and big payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Vintage graphics and Las Vegas atmosphere\",\n    \"Classic symbols like BAR and colorful 7s\",\n    \"Chance Wheel feature with big payouts up to 777x\",\n    \"Similar slot games available for more options\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"No free spins feature\"\n  ],\n  \"meta_title\": \"Play Big Win 777 - Free Online Slot Game\",\n  \"meta_description\": \"Detailed review of Big Win 777, a traditional slot game with vintage graphics and big payouts. Play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 665,
+                    "completion_tokens": 122,
+                    "total_tokens": 787
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/big-win-777.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_3.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_2.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_1.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_ed1d2bda-da4e-4756-86ee-38004c08023f_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Big Win 777 (Version 3).webp",
         "game_reviews/processed_images/Big Win 777 (Version 2).webp",
-        "game_reviews/processed_images/Big Win 777 (Version 4).webp",
-        "game_reviews/processed_images/Big Win 777 (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Big Win 777 (Version 1).webp",
+        "game_reviews/processed_images/Big Win 777 (Version 3).webp",
+        "game_reviews/processed_images/Big Win 777 (Version 4).webp"
+    ],
+    "slug": "big-win-777",
+    "name": "Big Win 777",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Big-Win-777-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Big Win 777 - Free Online Slot Game' ### Meta set: 'Detailed review of Big Win 777, a traditional slot game with vintage graphics and big payouts. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

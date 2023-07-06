@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Intriguing gameplay mechanics",
-                    "Endless chances of winning big with bonus spins",
-                    "Classic design with bright, larger-than-life graphics",
+                    "Intriguing gameplay mechanic with fixed winning symbols",
+                    "Autoplay feature and spinning speed button",
+                    "Classic design with bright and larger-than-life graphics",
                     "Minimal stake with astonishing payouts"
                 ],
                 "cons": [
-                    "Limited selection of symbols",
-                    "Only 25 fixed paylines"
+                    "Limited number of special symbols",
+                    "Bonus round activation requires landing a high number of scatter symbols"
                 ],
-                "meta_title": "Play King of Seven Slot Game for Free - Review",
-                "meta_description": "Read our review of King of Seven and play this slot game for free. Intriguing gameplay mechanics, endless winning opportunities, and classic graphics."
+                "meta_title": "Play King of Seven for Free",
+                "meta_description": "Read our review of King of Seven and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"King of Seven\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nKing of Seven features a 5x3 grid and 25 fixed pay lines. The game offers an intriguing gameplay mechanic where winning symbols are fixed on the reels for the next spin. The game also has an autoplay feature and a button to speed up the spinning process.\n\nSymbols and paylines\n\nThe game's symbols include playing cards from Jack to Ace, bells, cherries, horseshoes, four-leaf clovers, the number 7, a diamond wild symbol, and a silver star scatter symbol. The low payout symbols have a payout ranging from 4 to 10 times the initial bet, while the high payout symbols offer payouts of 12.5 to 100 times the initial bet. The diamond wild symbol substitutes for all other symbols except the scatter symbol, which can trigger the bonus round with 10 to 30 free spins and a 3x multiplier.\n\nBonus features\n\nLanding five to 15 scatter symbols will trigger the bonus round, offering 10 to 30 free spins with a 3x multiplier for all wins. The free spins can be reactivated multiple times, providing endless chances of winning big.\n\nVisuals and design\n\nKing of Seven has a classic design with bright and larger-than-life graphics. The symbols include classic slot symbols like bells, cherries, and horseshoes, designed with bright colors. The gaming grid is set against a black background with a golden frame dividing the reels into 15 compartments. The console is located at the bottom of the screen, providing adjustment options for bets and game initiation. There are also buttons to turn off background music and sound effects, and the payout table is located on the right side of the screen.\n\nPayout structure\n\nKing of Seven offers a minimal stake with astonishing payouts. The game offers a minimum stake of 0.1 € for each of the 25 fixed pay lines that span across a 5x3 grid. Payouts range from 4 to 10 times the initial bet for the low payout symbols and from 12.5 to 100 times the initial bet for the high payout symbols. The bonus round offers 10 to 30 free spins with a 3x multiplier for all wins, providing endless chances of winning big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"King of Seven\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nKing of Seven features a 5x3 grid and 25 fixed pay lines. The game offers an intriguing gameplay mechanic where winning symbols are fixed on the reels for the next spin. The game also has an autoplay feature and a button to speed up the spinning process.\n\nSymbols and paylines\n\nThe game's symbols include playing cards from Jack to Ace, bells, cherries, horseshoes, four-leaf clovers, the number 7, a diamond wild symbol, and a silver star scatter symbol. The low payout symbols have a payout ranging from 4 to 10 times the initial bet, while the high payout symbols offer payouts of 12.5 to 100 times the initial bet. The diamond wild symbol substitutes for all other symbols except the scatter symbol, which can trigger the bonus round with 10 to 30 free spins and a 3x multiplier.\n\nBonus features\n\nLanding five to 15 scatter symbols will trigger the bonus round, offering 10 to 30 free spins with a 3x multiplier for all wins. The free spins can be reactivated multiple times, providing endless chances of winning big.\n\nVisuals and design\n\nKing of Seven has a classic design with bright and larger-than-life graphics. The symbols include classic slot symbols like bells, cherries, and horseshoes, designed with bright colors. The gaming grid is set against a black background with a golden frame dividing the reels into 15 compartments. The console is located at the bottom of the screen, providing adjustment options for bets and game initiation. There are also buttons to turn off background music and sound effects, and the payout table is located on the right side of the screen.\n\nPayout structure\n\nKing of Seven offers a minimal stake with astonishing payouts. The game offers a minimum stake of 0.1 € for each of the 25 fixed pay lines that span across a 5x3 grid. Payouts range from 4 to 10 times the initial bet for the low payout symbols and from 12.5 to 100 times the initial bet for the high payout symbols. The bonus round offers 10 to 30 free spins with a 3x multiplier for all wins, providing endless chances of winning big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Ty9ZfkPZ77kcpoD67ai6obHN0wwN",
+                "id": "chatcmpl-7WVwPOwUmXSqb29pkEUrpgBuie4UO",
                 "object": "chat.completion",
-                "created": 1687377097,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983633,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Intriguing gameplay mechanics\",\n        \"Endless chances of winning big with bonus spins\",\n        \"Classic design with bright, larger-than-life graphics\",\n        \"Minimal stake with astonishing payouts\"\n    ],\n    \"cons\": [\n        \"Limited selection of symbols\",\n        \"Only 25 fixed paylines\"\n    ],\n    \"meta_title\": \"Play King of Seven Slot Game for Free - Review\",\n    \"meta_description\": \"Read our review of King of Seven and play this slot game for free. Intriguing gameplay mechanics, endless winning opportunities, and classic graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Intriguing gameplay mechanic with fixed winning symbols\",\n    \"Autoplay feature and spinning speed button\",\n    \"Classic design with bright and larger-than-life graphics\",\n    \"Minimal stake with astonishing payouts\"\n  ],\n  \"cons\": [\n    \"Limited number of special symbols\",\n    \"Bonus round activation requires landing a high number of scatter symbols\"\n  ],\n  \"meta_title\": \"Play King of Seven for Free\",\n  \"meta_description\": \"Read our review of King of Seven and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 634,
-                    "completion_tokens": 127,
-                    "total_tokens": 761
+                    "prompt_tokens": 631,
+                    "completion_tokens": 117,
+                    "total_tokens": 748
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/king-of-seven.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_c1cd9493-2b1c-4a23-a683-33456c4617e6_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_c1cd9493-2b1c-4a23-a683-33456c4617e6_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_c1cd9493-2b1c-4a23-a683-33456c4617e6_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_the_game_c1cd9493-2b1c-4a23-a683-33456c4617e6_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/King Of Seven (Version 1).webp",
+        "game_reviews/processed_images/King Of Seven (Version 4).webp",
+        "game_reviews/processed_images/King Of Seven (Version 2).webp",
+        "game_reviews/processed_images/King Of Seven (Version 3).webp"
+    ],
+    "slug": "king-of-seven",
+    "name": "King of Seven",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/King-Of-Seven-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play King of Seven for Free' ### Meta set: 'Read our review of King of Seven and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

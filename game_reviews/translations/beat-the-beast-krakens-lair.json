@@ -730,38 +730,38 @@
                 "pros": [
                     "Norse mythology theme",
                     "High volatility gameplay",
-                    "Expanding symbols",
+                    "Expanding symbols feature",
                     "Guaranteed wilds during free games"
                 ],
                 "cons": [
                     "No progressive or fixed jackpot",
-                    "Only nine paylines"
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Beat the Beast Kraken's Lair for free",
-                "meta_description": "Discover Beat the Beast Kraken's Lair, an online slot game inspired by Norse mythology. Play for free with high volatility gameplay and expanding symbols."
+                "meta_title": "Play Beat the Beast Kraken's Lair Free",
+                "meta_description": "Read our review of Beat the Beast Kraken's Lair and play for free. Discover Norse mythology and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beat the Beast Kraken’s Lair\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeat the Beast Kraken's Lair\n\nBeat The Beast: Kraken's Lair is a five-reel, nine-payline online slot game from Thunderkick with a Norse mythology theme. This slot game is part of the Beat the Beast series of games, all of which have high volatility gameplay and exciting features. The Kraken is the main character in the game, and your goal is to defeat the legendary monster of Norse mythology. \n\nSlot game with Norse mythology theme\n\nBeat The Beast: Kraken's Lair has a Norse mythological theme that takes you deep into the ocean to defeat the Kraken. The symbols in this game include Poker cards (from Ace to 10), a Kraken, the Kraken idol, the golden Kraken, the medallion, and the trident. \n\nHigh volatility gameplay\n\nBeat The Beast: Kraken's Lair offers high volatility gameplay that has many winning opportunities. It is a simple and easy game to play. However, it has many exciting features that make it an incredible experience. It is a high variance game that can give you many winning opportunities. \n\nExpanding symbols\n\nThe Expanding Wild Feature is activated when you get a winning combination that includes a Kraken wild/scatter symbol. Then, one of the regular symbols that allows you to make your bet successful will expand and fill the entire reel. A new win will then be calculated, and this can help you increase your winnings. \n\nGuaranteed wilds during free games\n\nFree spins are triggered when you land at least three of the Kraken wild/scatter symbols anywhere on the reel set. During each free spin, at least one Kraken is randomly added to the reels, increasing your chances of receiving more prizes and more free spins. \n\nMaximum win of 7,777x total bet\n\nThere is no progressive or fixed jackpot in Beat The Beast: Kraken's Lair, but you can still win huge prizes from the depths of the ocean. This is because this game comes with a maximum win of 7,777x your bet. If you play with the highest bet of 100 euros, you can win up to 7777,700 euros per spin. \n\nUnderwater-themed slot games\n\nBeat The Beast: Kraken's Lair is a classic underwater-themed slot game. It has stunning graphics of sunken ships and symbols like the trident, a pendant, a treasure chest, and a golden Kraken statue. If you like this game, we recommend trying Beat the Beast: Mighty Sphinx slots, which has a similar format and exciting features. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beat the Beast Kraken’s Lair\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeat the Beast Kraken's Lair\n\nBeat The Beast: Kraken's Lair is a five-reel, nine-payline online slot game from Thunderkick with a Norse mythology theme. This slot game is part of the Beat the Beast series of games, all of which have high volatility gameplay and exciting features. The Kraken is the main character in the game, and your goal is to defeat the legendary monster of Norse mythology. \n\nSlot game with Norse mythology theme\n\nBeat The Beast: Kraken's Lair has a Norse mythological theme that takes you deep into the ocean to defeat the Kraken. The symbols in this game include Poker cards (from Ace to 10), a Kraken, the Kraken idol, the golden Kraken, the medallion, and the trident. \n\nHigh volatility gameplay\n\nBeat The Beast: Kraken's Lair offers high volatility gameplay that has many winning opportunities. It is a simple and easy game to play. However, it has many exciting features that make it an incredible experience. It is a high variance game that can give you many winning opportunities. \n\nExpanding symbols\n\nThe Expanding Wild Feature is activated when you get a winning combination that includes a Kraken wild/scatter symbol. Then, one of the regular symbols that allows you to make your bet successful will expand and fill the entire reel. A new win will then be calculated, and this can help you increase your winnings. \n\nGuaranteed wilds during free games\n\nFree spins are triggered when you land at least three of the Kraken wild/scatter symbols anywhere on the reel set. During each free spin, at least one Kraken is randomly added to the reels, increasing your chances of receiving more prizes and more free spins. \n\nMaximum win of 7,777x total bet\n\nThere is no progressive or fixed jackpot in Beat The Beast: Kraken's Lair, but you can still win huge prizes from the depths of the ocean. This is because this game comes with a maximum win of 7,777x your bet. If you play with the highest bet of 100 euros, you can win up to 7777,700 euros per spin. \n\nUnderwater-themed slot games\n\nBeat The Beast: Kraken's Lair is a classic underwater-themed slot game. It has stunning graphics of sunken ships and symbols like the trident, a pendant, a treasure chest, and a golden Kraken statue. If you like this game, we recommend trying Beat the Beast: Mighty Sphinx slots, which has a similar format and exciting features. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sckx0D2bPFVcpTlt3NLvtA53ycHx",
+                "id": "chatcmpl-7WNsmBWqydMW4VRLklutqiu0usYMS",
                 "object": "chat.completion",
-                "created": 1687056519,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 702,
-                    "completion_tokens": 115,
-                    "total_tokens": 817
-                },
+                "created": 1687952656,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Norse mythology theme\",\n        \"High volatility gameplay\",\n        \"Expanding symbols\",\n        \"Guaranteed wilds during free games\"\n    ],\n    \"cons\": [\n        \"No progressive or fixed jackpot\",\n        \"Only nine paylines\"\n    ],\n    \"meta_title\": \"Play Beat the Beast Kraken's Lair for free\",\n    \"meta_description\": \"Discover Beat the Beast Kraken's Lair, an online slot game inspired by Norse mythology. Play for free with high volatility gameplay and expanding symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Norse mythology theme\",\n    \"High volatility gameplay\",\n    \"Expanding symbols feature\",\n    \"Guaranteed wilds during free games\"\n  ],\n  \"cons\": [\n    \"No progressive or fixed jackpot\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Beat the Beast Kraken's Lair Free\",\n  \"meta_description\": \"Read our review of Beat the Beast Kraken's Lair and play for free. Discover Norse mythology and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 699,
+                    "completion_tokens": 109,
+                    "total_tokens": 808
+                }
             }
         },
         {
@@ -962,15 +962,24 @@
     ],
     "filename": "game_reviews/translations/beat-the-beast-krakens-lair.json",
     "raw_feature_images": [
-        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_3.png",
         "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_4.png",
-        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_2.png",
-        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_1.png"
+        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_3.png",
+        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_1.png",
+        "arved__Create_a_dynamic_feature_image_for_Beat_the_Beast_Kraken_d422bd73-db8c-44a1-8474-2356f5e5d9e0_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 1).webp",
-        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 4).webp",
+        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 2).webp",
         "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 3).webp",
-        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 4).webp",
+        "game_reviews/processed_images/Beat The Beast Krakens Lair (Version 1).webp"
+    ],
+    "slug": "beat-the-beast-krakens-lair",
+    "name": "Beat the Beast Kraken’s Lair",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beat the Beast Kraken's Lair Free' ### Meta set: 'Read our review of Beat the Beast Kraken's Lair and play for free. Discover Norse mythology and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

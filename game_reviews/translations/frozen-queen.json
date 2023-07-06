@@ -582,38 +582,38 @@
                 "pros": [
                     "Engaging and varied gameplay mechanics",
                     "Stunning graphics and sound design",
-                    "Bonus features and symbols",
-                    "Exemplary fantasy-themed setting"
+                    "Generous bonus features and symbols",
+                    "Immersive fantasy-themed setting"
                 ],
                 "cons": [
-                    "Only two ice crystal symbols required for activation",
-                    "Limited 84 pay lines"
+                    "Limited number of reels",
+                    "May not appeal to players looking for traditional slot games"
                 ],
-                "meta_title": "Play Frozen Queen for Free: A Unique Fantasy Slot",
-                "meta_description": "Try Frozen Queen for free and experience the engaging gameplay mechanics, stunning graphics, and winter wonderland setting of this exemplary fantasy-themed slot game."
+                "meta_title": "Play Frozen Queen Free | Review of the Engaging Slot Game",
+                "meta_description": "Read our review of Frozen Queen, an engaging and unique slot game to play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Frozen Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nFrozen Queen presents an engaging and varied gameplay experience. Players are met with a unique gameplay mechanic that alters the conventional 5x3 reels by eliminating one reel, resulting in four reels that display 12 symbols per spin. Though reduced in number, players are still provided with a total of 84 pay lines, ample chances for players to hit a winning spin.\n\nGraphics and Sound design\n\nFrozen Queen boasts stunning graphics that deserve recognition for its sheer beauty alone. The game immerses players in a cold world of snow and ice castles, accompanied by a fantasy-inspired soundtrack. The sound of crystals and chill winds completes the overall experience, providing a refreshing change of pace for players seeking a different type of slot game.\n\nBonus features and symbols\n\nWhen players land two ice crystal scatter symbols on a single spin, the bonus function is activated. Apart from being a scatter symbol, the ice crystal also serves as a wild symbol. Matching the ice crystal symbols can even trigger ten free spins from the generous queen herself.\n\nTheme and setting\n\nFrozen Queen is an exemplary example of a fantasy-themed slot game that immerses players into a winter wonderland of snow and ice. The backdrop of the slot remains consistent throughout the game. Complete with an animated polar bear and icy castles in the background, it provides a unique, refreshing gaming experience that sets itself apart from the usual backgrounds.\n\nOverall Impression\n\nIn conclusion, Frozen Queen is a slot title that is a must-try for players who are looking for something different. The innovative gameplay mechanic, stunning graphics, and appropriate sound effects all come together to provide a unique and refreshing slot game that stands out against other animal-themed titles. If you enjoy playing slots similar to Elephant King, 1 Can 2 Can, Tiger VS Bear, and Buffalo Spirit, the Frozen Queen should be on your list of games to try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Frozen Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nFrozen Queen presents an engaging and varied gameplay experience. Players are met with a unique gameplay mechanic that alters the conventional 5x3 reels by eliminating one reel, resulting in four reels that display 12 symbols per spin. Though reduced in number, players are still provided with a total of 84 pay lines, ample chances for players to hit a winning spin.\n\nGraphics and Sound design\n\nFrozen Queen boasts stunning graphics that deserve recognition for its sheer beauty alone. The game immerses players in a cold world of snow and ice castles, accompanied by a fantasy-inspired soundtrack. The sound of crystals and chill winds completes the overall experience, providing a refreshing change of pace for players seeking a different type of slot game.\n\nBonus features and symbols\n\nWhen players land two ice crystal scatter symbols on a single spin, the bonus function is activated. Apart from being a scatter symbol, the ice crystal also serves as a wild symbol. Matching the ice crystal symbols can even trigger ten free spins from the generous queen herself.\n\nTheme and setting\n\nFrozen Queen is an exemplary example of a fantasy-themed slot game that immerses players into a winter wonderland of snow and ice. The backdrop of the slot remains consistent throughout the game. Complete with an animated polar bear and icy castles in the background, it provides a unique, refreshing gaming experience that sets itself apart from the usual backgrounds.\n\nOverall Impression\n\nIn conclusion, Frozen Queen is a slot title that is a must-try for players who are looking for something different. The innovative gameplay mechanic, stunning graphics, and appropriate sound effects all come together to provide a unique and refreshing slot game that stands out against other animal-themed titles. If you enjoy playing slots similar to Elephant King, 1 Can 2 Can, Tiger VS Bear, and Buffalo Spirit, the Frozen Queen should be on your list of games to try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TJT8TXrEvUkLWZyrtzcXSsu9wRmS",
+                "id": "chatcmpl-7WTF1Ht0S7b21Jt3x4y5j6ks9GPPy",
                 "object": "chat.completion",
-                "created": 1687220706,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 554,
-                    "completion_tokens": 122,
-                    "total_tokens": 676
-                },
+                "created": 1687973255,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging and varied gameplay mechanics\",\n        \"Stunning graphics and sound design\",\n        \"Bonus features and symbols\",\n        \"Exemplary fantasy-themed setting\"\n    ],\n    \"cons\": [\n        \"Only two ice crystal symbols required for activation\",\n        \"Limited 84 pay lines\"\n    ],\n    \"meta_title\": \"Play Frozen Queen for Free: A Unique Fantasy Slot\",\n    \"meta_description\": \"Try Frozen Queen for free and experience the engaging gameplay mechanics, stunning graphics, and winter wonderland setting of this exemplary fantasy-themed slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging and varied gameplay mechanics\",\n    \"Stunning graphics and sound design\",\n    \"Generous bonus features and symbols\",\n    \"Immersive fantasy-themed setting\"\n  ],\n  \"cons\": [\n    \"Limited number of reels\",\n    \"May not appeal to players looking for traditional slot games\"\n  ],\n  \"meta_title\": \"Play Frozen Queen Free | Review of the Engaging Slot Game\",\n  \"meta_description\": \"Read our review of Frozen Queen, an engaging and unique slot game to play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 551,
+                    "completion_tokens": 116,
+                    "total_tokens": 667
+                }
             }
         },
         {
@@ -811,5 +811,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/frozen-queen.json"
+    "filename": "game_reviews/translations/frozen-queen.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_4430e7a3-4ca8-4ea6-8e44-f9e8da7ae7b7_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_a7729575-e632-4f47-80c0-2fb8103977cf_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_4430e7a3-4ca8-4ea6-8e44-f9e8da7ae7b7_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_4430e7a3-4ca8-4ea6-8e44-f9e8da7ae7b7_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_4430e7a3-4ca8-4ea6-8e44-f9e8da7ae7b7_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_a7729575-e632-4f47-80c0-2fb8103977cf_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_a7729575-e632-4f47-80c0-2fb8103977cf_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Frozen_Queen_th_a7729575-e632-4f47-80c0-2fb8103977cf_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Frozen Queen (Version 2).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 1).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 4).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 6).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 8).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 3).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 7).webp",
+        "game_reviews/processed_images/Frozen Queen (Version 5).webp"
+    ],
+    "slug": "frozen-queen",
+    "name": "Frozen Queen",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Frozen-Queen-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Frozen Queen Free | Review of the Engaging Slot Game' ### Meta set: 'Read our review of Frozen Queen, an engaging and unique slot game to play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

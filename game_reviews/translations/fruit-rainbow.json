@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High variance and stacked wilds",
-                    "Maximum win of 500x",
-                    "Complete visual experience",
-                    "A wide range of bets"
+                    "High variance and stacked wilds for big wins",
+                    "Wide range of betting options",
+                    "Complete visual experience with sparkling fruit-themed graphics",
+                    "Lively sound design with a quality musical theme"
                 ],
                 "cons": [
-                    "Low bet is steeper than usual",
+                    "Low starting bet is steeper than usual",
                     "Scatter symbol does not trigger a bonus feature"
                 ],
-                "meta_title": "Play Fruit Rainbow Slot for Free - Review and Ratings 2021",
-                "meta_description": "Discover Fruit Rainbow, a high variance slot game with 40 paylines and stacked wilds. Play for free and read our review and ratings for 2021."
+                "meta_title": "Play Fruit Rainbow Slot for Free",
+                "meta_description": "Read our review of Fruit Rainbow slot and play for free. Enjoy high variance and stacked wilds!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruit Rainbow\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nFruit Rainbow is played on four rows and five reels with 40 always active paylines. The game has a high variance and stacked wilds that boost winnings towards prizes that exceed 500x on a winning bet. The game takes a wide range of bets, but it starts with a low bet that is steeper than usual.\n\nPaylines and Symbols\n\nTo win Fruit Rainbow slots, three symbols of the same type are needed that appear on one or more of the 40 paylines in the game. The value of the symbols ranges from the strawberry, which pays out 50x multiplied by the winning bet, to the lime slice that pays out 7.5x. The game also has a wild symbol that is stacked on all the reels and a scatter symbol that pays out scattered amounts.\n\nScatter Symbols\n\nFruit Rainbow's scatter symbol is represented by a blue diamond that can pay out scattered amounts. Three of the same symbol pays out 5x on the total bet, but four and five diamonds pay out 125x and 500x on the winning bet, respectively. However, the scatter symbol does not trigger a bonus feature in the game.\n\nWild Symbols\n\nFruit Rainbow has a wild symbol that is stacked on all the reels and can boost winnings towards prizes that exceed 500x on a winning bet. The wild symbol substitutes for any other symbol in the game except for the scatter symbol.\n\nMaximum Wins\n\nThe maximum win in Fruit Rainbow is 500x for five of the most powerful symbol types, which are the scatter diamonds. However, with the help of the wild symbol that appears stacked on every reel where it lands, the chance of boosting winnings towards prizes that exceed 500x on a winning bet is always present.\n\nGraphics and Sound\n\nFruit Rainbow offers a complete visual experience on the reel-set with its sparkling, shiny, and glossy fruit-themed graphics. The sound design is also lively with a quality musical theme playing like a lively Hawaiian rap, but it's not a continuous track, so there's a stop and go with every spin.\n\nOther Fruit-Themed Slots\n\nIf you enjoy fruit-themed slots, Sunny Fruits: Hold and Win slot is a jackpot slot with three levels: Grand, Major, and Mini, with a maximum win of 1000x multiplied by the winning bet amount.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruit Rainbow\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nFruit Rainbow is played on four rows and five reels with 40 always active paylines. The game has a high variance and stacked wilds that boost winnings towards prizes that exceed 500x on a winning bet. The game takes a wide range of bets, but it starts with a low bet that is steeper than usual.\n\nPaylines and Symbols\n\nTo win Fruit Rainbow slots, three symbols of the same type are needed that appear on one or more of the 40 paylines in the game. The value of the symbols ranges from the strawberry, which pays out 50x multiplied by the winning bet, to the lime slice that pays out 7.5x. The game also has a wild symbol that is stacked on all the reels and a scatter symbol that pays out scattered amounts.\n\nScatter Symbols\n\nFruit Rainbow's scatter symbol is represented by a blue diamond that can pay out scattered amounts. Three of the same symbol pays out 5x on the total bet, but four and five diamonds pay out 125x and 500x on the winning bet, respectively. However, the scatter symbol does not trigger a bonus feature in the game.\n\nWild Symbols\n\nFruit Rainbow has a wild symbol that is stacked on all the reels and can boost winnings towards prizes that exceed 500x on a winning bet. The wild symbol substitutes for any other symbol in the game except for the scatter symbol.\n\nMaximum Wins\n\nThe maximum win in Fruit Rainbow is 500x for five of the most powerful symbol types, which are the scatter diamonds. However, with the help of the wild symbol that appears stacked on every reel where it lands, the chance of boosting winnings towards prizes that exceed 500x on a winning bet is always present.\n\nGraphics and Sound\n\nFruit Rainbow offers a complete visual experience on the reel-set with its sparkling, shiny, and glossy fruit-themed graphics. The sound design is also lively with a quality musical theme playing like a lively Hawaiian rap, but it's not a continuous track, so there's a stop and go with every spin.\n\nOther Fruit-Themed Slots\n\nIf you enjoy fruit-themed slots, Sunny Fruits: Hold and Win slot is a jackpot slot with three levels: Grand, Major, and Mini, with a maximum win of 1000x multiplied by the winning bet amount.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TK4gE5hr2fdNcw34QUQSXr7D86nt",
+                "id": "chatcmpl-7WTJ1JgwNYgoVSlUaiw4C8VJtNuSU",
                 "object": "chat.completion",
-                "created": 1687223034,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 652,
-                    "completion_tokens": 131,
-                    "total_tokens": 783
-                },
+                "created": 1687973503,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High variance and stacked wilds\",\n        \"Maximum win of 500x\",\n        \"Complete visual experience\",\n        \"A wide range of bets\"\n    ],\n    \"cons\": [\n        \"Low bet is steeper than usual\",\n        \"Scatter symbol does not trigger a bonus feature\"\n    ],\n    \"meta_title\": \"Play Fruit Rainbow Slot for Free - Review and Ratings 2021\",\n    \"meta_description\": \"Discover Fruit Rainbow, a high variance slot game with 40 paylines and stacked wilds. Play for free and read our review and ratings for 2021.\"  \n}"
+                            "content": "{\n  \"pros\": [\n    \"High variance and stacked wilds for big wins\",\n    \"Wide range of betting options\",\n    \"Complete visual experience with sparkling fruit-themed graphics\",\n    \"Lively sound design with a quality musical theme\"\n  ],\n  \"cons\": [\n    \"Low starting bet is steeper than usual\",\n    \"Scatter symbol does not trigger a bonus feature\"\n  ],\n  \"meta_title\": \"Play Fruit Rainbow Slot for Free\",\n  \"meta_description\": \"Read our review of Fruit Rainbow slot and play for free. Enjoy high variance and stacked wilds!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 649,
+                    "completion_tokens": 122,
+                    "total_tokens": 771
+                }
             }
         },
         {
@@ -960,5 +960,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruit-rainbow.json"
+    "filename": "game_reviews/translations/fruit-rainbow.json",
+    "raw_feature_images": [
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_865bc92b-be60-442d-8b4e-9373bc74be4d_4.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_865bc92b-be60-442d-8b4e-9373bc74be4d_1.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_cfe13506-0a87-48bb-87e1-5aeb29eecc21_3.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_865bc92b-be60-442d-8b4e-9373bc74be4d_2.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_cfe13506-0a87-48bb-87e1-5aeb29eecc21_4.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_865bc92b-be60-442d-8b4e-9373bc74be4d_3.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_cfe13506-0a87-48bb-87e1-5aeb29eecc21_1.png",
+        "arved__Create_a_captivating_feature_image_for_Fruit_Rainbow_slo_cfe13506-0a87-48bb-87e1-5aeb29eecc21_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruit Rainbow (Version 7).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 6).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 4).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 3).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 8).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 5).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 1).webp",
+        "game_reviews/processed_images/Fruit Rainbow (Version 2).webp"
+    ],
+    "slug": "fruit-rainbow",
+    "name": "Fruit Rainbow",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruit-Rainbow-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruit Rainbow Slot for Free' ### Meta set: 'Read our review of Fruit Rainbow slot and play for free. Enjoy high variance and stacked wilds!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

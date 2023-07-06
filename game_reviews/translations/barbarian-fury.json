@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive design elements transport players to the medieval era",
-                    "Wild symbol with xNudge Roaring Wild feature adds to the excitement",
-                    "Barbarian Respin function can generate significant payouts",
-                    "Fury Spins feature with expanding multipliers increases potential payouts"
+                    "Impressive design and theme",
+                    "Exciting bonus features",
+                    "Expanding multipliers for big payouts",
+                    "Great potential for triggering payouts"
                 ],
                 "cons": [
-                    "May not appeal to players who are not fans of the fantasy genre",
-                    "High volatility may not be suitable for all players"
+                    "Limited theme appeal for some players",
+                    "May be too volatile for some"
                 ],
-                "meta_title": "Play Barbarian Fury Free: A Medieval-Themed Online Slot",
-                "meta_description": "Read our review of Barbarian Fury, a medieval-themed online slot game. Play for free and see if you can trigger the game's many bonus features for big payouts."
+                "meta_title": "Play Barbarian Fury Free and Win Big",
+                "meta_description": "Read our review of Barbarian Fury, a medieval-themed slot game with exciting features and potential for big payouts. Play for free now."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Barbarian Fury\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nBarbarian Fury is a medieval-themed online slot created by Nolimit City. It features impressive design elements that transport players back to the medieval era, with symbols depicting fierce barbarians and forest creatures set in a snowy forest.\n\nWild Symbol with xNudge Roaring Wild Feature\n\nThe big brown bear is the Wild symbol in Barbarian Fury, replacing all other standard symbols to form winning combinations. The Wild also comes with an xNudge Roaring Wild feature that pushes up or down to spin the entire Wild reel every time it appears. Each elbow also adds to a multiplier, increasing the potential payouts up to 4x.\n\nBarbarian Respin Function\n\nThe Barbarian Respin function is triggered when the player lands three or more of the same Barbarian symbols on the reels during a spin. The corresponding Barbarian symbols expand to fill the entire reel and lock in place for a respin. The respin can generate significant payouts, especially if lucky enough to get three stacked symbols locked in place.\n\nFury Spins Feature with Expanding Multipliers\n\nBy landing three or more scatter symbols anywhere on the reels on the same spin, players can activate the Fury Spins feature. Players can get up to 12 free spins, and each position where the scatter must push down brings an additional free spin. The Fury Spins mode features expanding multipliers which increase every time a nudge Wild or Scatter symbol lands on the reels.\n\nSymbol Values and Types\n\nSymbols in Barbarian Fury include fierce barbarians and forest creatures. The lower value symbols are shields made of different materials. The game's Wild symbol is a brown bear, while the Scatter symbol is represented by a flaming dragon.\n\nGameplay Potential for Big Payouts\n\nBarbarian Fury provides players with an opportunity to win huge payouts, thanks to its various features and expanding multipliers. The game's different bonus features also provide multiple avenues for triggering payouts.\n\nOverall Recommendation\n\nBarbarian Fury is an excellent online slot game from Nolimit City with impressive design, unique bonus features, and substantial potential payouts. Players who enjoy the fantasy genre should definitely give this game a spin. Overall, the game is highly recommended.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Barbarian Fury\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Design\n\nBarbarian Fury is a medieval-themed online slot created by Nolimit City. It features impressive design elements that transport players back to the medieval era, with symbols depicting fierce barbarians and forest creatures set in a snowy forest.\n\nWild Symbol with xNudge Roaring Wild Feature\n\nThe big brown bear is the Wild symbol in Barbarian Fury, replacing all other standard symbols to form winning combinations. The Wild also comes with an xNudge Roaring Wild feature that pushes up or down to spin the entire Wild reel every time it appears. Each elbow also adds to a multiplier, increasing the potential payouts up to 4x.\n\nBarbarian Respin Function\n\nThe Barbarian Respin function is triggered when the player lands three or more of the same Barbarian symbols on the reels during a spin. The corresponding Barbarian symbols expand to fill the entire reel and lock in place for a respin. The respin can generate significant payouts, especially if lucky enough to get three stacked symbols locked in place.\n\nFury Spins Feature with Expanding Multipliers\n\nBy landing three or more scatter symbols anywhere on the reels on the same spin, players can activate the Fury Spins feature. Players can get up to 12 free spins, and each position where the scatter must push down brings an additional free spin. The Fury Spins mode features expanding multipliers which increase every time a nudge Wild or Scatter symbol lands on the reels.\n\nSymbol Values and Types\n\nSymbols in Barbarian Fury include fierce barbarians and forest creatures. The lower value symbols are shields made of different materials. The game's Wild symbol is a brown bear, while the Scatter symbol is represented by a flaming dragon.\n\nGameplay Potential for Big Payouts\n\nBarbarian Fury provides players with an opportunity to win huge payouts, thanks to its various features and expanding multipliers. The game's different bonus features also provide multiple avenues for triggering payouts.\n\nOverall Recommendation\n\nBarbarian Fury is an excellent online slot game from Nolimit City with impressive design, unique bonus features, and substantial potential payouts. Players who enjoy the fantasy genre should definitely give this game a spin. Overall, the game is highly recommended.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SbrWwzOtioR081fNdesuxGzuSlws",
+                "id": "chatcmpl-7WNmICRNEryYSeXMEgzGltEQiVGAH",
                 "object": "chat.completion",
-                "created": 1687053082,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 624,
-                    "completion_tokens": 163,
-                    "total_tokens": 787
-                },
+                "created": 1687952254,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive design elements transport players to the medieval era\",\n        \"Wild symbol with xNudge Roaring Wild feature adds to the excitement\",\n        \"Barbarian Respin function can generate significant payouts\",\n        \"Fury Spins feature with expanding multipliers increases potential payouts\"\n    ],\n    \"cons\": [\n        \"May not appeal to players who are not fans of the fantasy genre\",\n        \"High volatility may not be suitable for all players\"\n    ],\n    \"meta_title\": \"Play Barbarian Fury Free: A Medieval-Themed Online Slot\",\n    \"meta_description\": \"Read our review of Barbarian Fury, a medieval-themed online slot game. Play for free and see if you can trigger the game's many bonus features for big payouts.\" \n}"
+                            "content": "{\n  \"pros\": [\"Impressive design and theme\", \"Exciting bonus features\", \"Expanding multipliers for big payouts\", \"Great potential for triggering payouts\"],\n  \"cons\": [\"Limited theme appeal for some players\", \"May be too volatile for some\"],\n  \"meta_title\": \"Play Barbarian Fury Free and Win Big\",\n  \"meta_description\": \"Read our review of Barbarian Fury, a medieval-themed slot game with exciting features and potential for big payouts. Play for free now.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 621,
+                    "completion_tokens": 104,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -962,15 +962,24 @@
     ],
     "filename": "game_reviews/translations/barbarian-fury.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_4.png",
         "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_2.png",
         "arved__Prompt_Create_a_feature_image_for_Barbarian_Fury_that_ca_3b5aff8e-382d-48f8-a76f-0a89320accda_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Barbarian Fury (Version 3).webp",
-        "game_reviews/processed_images/Barbarian Fury (Version 2).webp",
         "game_reviews/processed_images/Barbarian Fury (Version 1).webp",
-        "game_reviews/processed_images/Barbarian Fury (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Barbarian Fury (Version 4).webp",
+        "game_reviews/processed_images/Barbarian Fury (Version 3).webp",
+        "game_reviews/processed_images/Barbarian Fury (Version 2).webp"
+    ],
+    "slug": "barbarian-fury",
+    "name": "Barbarian Fury",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Barbarian-Fury-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Barbarian Fury Free and Win Big' ### Meta set: 'Read our review of Barbarian Fury, a medieval-themed slot game with exciting features and potential for big payouts. Play for free now.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

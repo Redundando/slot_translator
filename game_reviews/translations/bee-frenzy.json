@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay mechanics",
-                    "Free spins round with 'Bee Frenzy' mode",
-                    "Cartoonish graphics that suit the game",
-                    "Tranquil and sweet sound environment"
+                    "Simple and effective gameplay mechanics",
+                    "Engaging free spins round",
+                    "Cumulative 'Bee Frenzy' mode",
+                    "Cartoonish graphics and relaxing sound"
                 ],
                 "cons": [
-                    "Gameplay mechanics are not particularly new",
-                    "Limited unique features compared to other slots"
+                    "Does not offer particularly new or unique gameplay mechanics",
+                    "Limited number of similar slots to try"
                 ],
-                "meta_title": "Play Bee Frenzy for Free - Review and Similar Slots",
-                "meta_description": "Read our review of Bee Frenzy, a slot game with engaging gameplay mechanics and a free spins round with 'Bee Frenzy' mode. Try this and other insect-themed slots for free."
+                "meta_title": "Play Bee Frenzy Free | Review of Bee Frenzy Slot Game",
+                "meta_description": "Read our review of the Bee Frenzy slot game and play for free. Experience engaging gameplay mechanics and a relaxing atmosphere."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Bee frenzy\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nBee Frenzy has simple but effective gameplay mechanics that are easy to understand. It has an RTP of 96.14%, and the gameplay does not present particularly new or unique mechanics in the world of slots, but it certainly manages to provide the right amount of engagement. \n\nFree Spins Round\n\nThe free spins round is triggered by finding three or more beehives with 'Free Games' written on them. If the beekeeper symbol appears during a free spin, then the 'Bee Frenzy' mode will begin. In this mode, all the bees on the reels give you a prize that amounts to your total bet, multiplied through the multipliers on each bee. This mode is cumulative and can be triggered multiple times if you find more than one beekeeper symbol.\n\nBee Frenzy Mode\n\nThe 'Bee Frenzy' mode is activated when the beekeeper symbol appears during a free spin. In this mode, all the bees on the reels give you a prize that amounts to your total bet, multiplied through the multipliers on each bee. This mode is cumulative and can be triggered multiple times if you find more than one beekeeper symbol.\n\nGraphics and Sound\n\nBee Frenzy has a cartoonish style that blends well with the stylized bees that inhabit the slot machine. The green fields in the background immerse the game in nature. The reel grid is positioned inside a beehive, while among the symbols we find some stylized bees (one male, one female, an older one with a beard and mustache, and finally, a queen bee and a king bee) and some objects related to them, such as jars of honey and a honeycomb. The sound side is characterized by a sweet tune, which helps to make the atmosphere even more tranquil and relaxing.\n\nSimilar Slots to Try\n\nIf you're looking for slots similar to Bee Frenzy, you might start with another insect: beetles. Beetle Jewels and Beetle Mania Deluxe are insect-themed slots with an intriguing cartoonish look that you might enjoy.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Bee frenzy\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nBee Frenzy has simple but effective gameplay mechanics that are easy to understand. It has an RTP of 96.14%, and the gameplay does not present particularly new or unique mechanics in the world of slots, but it certainly manages to provide the right amount of engagement. \n\nFree Spins Round\n\nThe free spins round is triggered by finding three or more beehives with 'Free Games' written on them. If the beekeeper symbol appears during a free spin, then the 'Bee Frenzy' mode will begin. In this mode, all the bees on the reels give you a prize that amounts to your total bet, multiplied through the multipliers on each bee. This mode is cumulative and can be triggered multiple times if you find more than one beekeeper symbol.\n\nBee Frenzy Mode\n\nThe 'Bee Frenzy' mode is activated when the beekeeper symbol appears during a free spin. In this mode, all the bees on the reels give you a prize that amounts to your total bet, multiplied through the multipliers on each bee. This mode is cumulative and can be triggered multiple times if you find more than one beekeeper symbol.\n\nGraphics and Sound\n\nBee Frenzy has a cartoonish style that blends well with the stylized bees that inhabit the slot machine. The green fields in the background immerse the game in nature. The reel grid is positioned inside a beehive, while among the symbols we find some stylized bees (one male, one female, an older one with a beard and mustache, and finally, a queen bee and a king bee) and some objects related to them, such as jars of honey and a honeycomb. The sound side is characterized by a sweet tune, which helps to make the atmosphere even more tranquil and relaxing.\n\nSimilar Slots to Try\n\nIf you're looking for slots similar to Bee Frenzy, you might start with another insect: beetles. Beetle Jewels and Beetle Mania Deluxe are insect-themed slots with an intriguing cartoonish look that you might enjoy.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sczei9eXArzT55XAA7knYx3uoevY",
+                "id": "chatcmpl-7WNuqcSzZ61aEdAy8HsbnnWQlOMgE",
                 "object": "chat.completion",
-                "created": 1687057430,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 601,
-                    "completion_tokens": 147,
-                    "total_tokens": 748
-                },
+                "created": 1687952784,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Engaging gameplay mechanics\",\n    \"Free spins round with 'Bee Frenzy' mode\",\n    \"Cartoonish graphics that suit the game\",\n    \"Tranquil and sweet sound environment\"\n  ],\n  \"cons\": [\n    \"Gameplay mechanics are not particularly new\",\n    \"Limited unique features compared to other slots\"\n  ],\n  \"meta_title\": \"Play Bee Frenzy for Free - Review and Similar Slots\",\n  \"meta_description\": \"Read our review of Bee Frenzy, a slot game with engaging gameplay mechanics and a free spins round with 'Bee Frenzy' mode. Try this and other insect-themed slots for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and effective gameplay mechanics\",\n    \"Engaging free spins round\",\n    \"Cumulative 'Bee Frenzy' mode\",\n    \"Cartoonish graphics and relaxing sound\"\n  ],\n  \"cons\": [\n    \"Does not offer particularly new or unique gameplay mechanics\",\n    \"Limited number of similar slots to try\"\n  ],\n  \"meta_title\": \"Play Bee Frenzy Free | Review of Bee Frenzy Slot Game\",\n  \"meta_description\": \"Read our review of the Bee Frenzy slot game and play for free. Experience engaging gameplay mechanics and a relaxing atmosphere.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 598,
+                    "completion_tokens": 131,
+                    "total_tokens": 729
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/bee-frenzy.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_1.png",
         "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_1.png"
+        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Bee_Frenzy_online_slot_2e9f3953-9182-4915-b84e-1d8c691b7a02_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Bee Frenzy (Version 3).webp",
-        "game_reviews/processed_images/Bee Frenzy (Version 2).webp",
         "game_reviews/processed_images/Bee Frenzy (Version 1).webp",
-        "game_reviews/processed_images/Bee Frenzy (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Bee Frenzy (Version 4).webp",
+        "game_reviews/processed_images/Bee Frenzy (Version 3).webp",
+        "game_reviews/processed_images/Bee Frenzy (Version 2).webp"
+    ],
+    "slug": "bee-frenzy",
+    "name": "Bee frenzy",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Bee Frenzy Free | Review of Bee Frenzy Slot Game' ### Meta set: 'Read our review of the Bee Frenzy slot game and play for free. Experience engaging gameplay mechanics and a relaxing atmosphere.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

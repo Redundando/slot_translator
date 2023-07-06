@@ -580,39 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting football-themed environment",
-                    "Innovative gaming features",
-                    "Special football-related bonus features",
-                    "Customizable game experience"
+                    "Thrilling online slot game based on football",
+                    "Exciting special features that enhance gameplay",
+                    "Sporty environment with impressive graphics",
+                    "Innovative gaming features for customization"
                 ],
                 "cons": [
-                    "Limited number of reels"
+                    "Limited number of reels and paylines",
+                    "May not appeal to players who are not fans of football"
                 ],
-                "meta_title": "Play Football Mania Deluxe Free - Exciting Football-Themed Online Slot",
-                "meta_description": "Join the team and try to become the best player. Play Football Mania Deluxe free and enjoy exciting football-related bonus features in an innovative customizable game experience."
+                "meta_title": "Play Football Mania Deluxe for Free",
+                "meta_description": "Read our review of Football Mania Deluxe and play this exciting online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Football Mania Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFootball Mania Deluxe\n\nFootball Mania Deluxe is a thrilling online slot game based on football where players can join a team and try to become the best player. The game features 3 reels and no paylines, and rewards players for landing at least 3 or 4 icons of the same kind anywhere on the reels.\n\nSpecial Features\n\nFootball Mania Deluxe offers exciting special features that take the game to a new level. Players can fill the Football Bonus matrix table, draw three football symbols and get 9 Bonus Spins during which their goal is to collect as many football symbols as possible. Furthermore, landing the three lottery tickets on the three central horizontal reels activates the Football Lottery Bonus, which assigns an instant cash prize.\n\nFootball Environment and Symbols\n\nFootball Mania Deluxe offers a sporty environment with graphics that take players to a football field surrounded by cheering crowds. The game includes symbols related to football, including lottery tickets, football shoes, a hat, a whistle, a referee, players, goalkeeper, three trophies, and a ball. Every time players land a football, it lights up on a corresponding field in the Football Bonus matrix table. Once it's full, they can trigger 9 Bonus Games during which they can collect as many footballs as possible.\n\nWazdan's Gaming Features\n\nWazdan, the game's developer, has incorporated innovative gaming features that allow players to customize their experience. Players can use Volatility Levels and switch from low, high, and standard levels; change the appearance of the slot with the Big Screen mode, and shorten loading times with the Ultra Lite mode. Players can also speed up their game with the Ultra Fast mode. \n\nRecommendation to Try Football Favourites\n\nFootball fans who enjoyed playing Football Mania Deluxe might also enjoy the Football Favourites online slot game, which allows them to wear the clothes of famous English football teams. The game offers an exciting and unique experience similar to Football Mania Deluxe.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Football Mania Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFootball Mania Deluxe\n\nFootball Mania Deluxe is a thrilling online slot game based on football where players can join a team and try to become the best player. The game features 3 reels and no paylines, and rewards players for landing at least 3 or 4 icons of the same kind anywhere on the reels.\n\nSpecial Features\n\nFootball Mania Deluxe offers exciting special features that take the game to a new level. Players can fill the Football Bonus matrix table, draw three football symbols and get 9 Bonus Spins during which their goal is to collect as many football symbols as possible. Furthermore, landing the three lottery tickets on the three central horizontal reels activates the Football Lottery Bonus, which assigns an instant cash prize.\n\nFootball Environment and Symbols\n\nFootball Mania Deluxe offers a sporty environment with graphics that take players to a football field surrounded by cheering crowds. The game includes symbols related to football, including lottery tickets, football shoes, a hat, a whistle, a referee, players, goalkeeper, three trophies, and a ball. Every time players land a football, it lights up on a corresponding field in the Football Bonus matrix table. Once it's full, they can trigger 9 Bonus Games during which they can collect as many footballs as possible.\n\nWazdan's Gaming Features\n\nWazdan, the game's developer, has incorporated innovative gaming features that allow players to customize their experience. Players can use Volatility Levels and switch from low, high, and standard levels; change the appearance of the slot with the Big Screen mode, and shorten loading times with the Ultra Lite mode. Players can also speed up their game with the Ultra Fast mode. \n\nRecommendation to Try Football Favourites\n\nFootball fans who enjoyed playing Football Mania Deluxe might also enjoy the Football Favourites online slot game, which allows them to wear the clothes of famous English football teams. The game offers an exciting and unique experience similar to Football Mania Deluxe.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TH7YVKQog5AVN4687107G7mDUeWs",
+                "id": "chatcmpl-7WSwQG8fcLg8IwEdXoOaAhrLbMqwo",
                 "object": "chat.completion",
-                "created": 1687211680,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 571,
-                    "completion_tokens": 113,
-                    "total_tokens": 684
-                },
+                "created": 1687972102,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting football-themed environment\",\n        \"Innovative gaming features\",\n        \"Special football-related bonus features\",\n        \"Customizable game experience\"\n    ],\n    \"cons\": [\n        \"Limited number of reels\"\n    ],\n    \"meta_title\": \"Play Football Mania Deluxe Free - Exciting Football-Themed Online Slot\",\n    \"meta_description\": \"Join the team and try to become the best player. Play Football Mania Deluxe free and enjoy exciting football-related bonus features in an innovative customizable game experience.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Thrilling online slot game based on football\",\n    \"Exciting special features that enhance gameplay\",\n    \"Sporty environment with impressive graphics\",\n    \"Innovative gaming features for customization\"\n  ],\n  \"cons\": [\n    \"Limited number of reels and paylines\",\n    \"May not appeal to players who are not fans of football\"\n  ],\n  \"meta_title\": \"Play Football Mania Deluxe for Free\",\n  \"meta_description\": \"Read our review of Football Mania Deluxe and play this exciting online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 568,
+                    "completion_tokens": 119,
+                    "total_tokens": 687
+                }
             }
         },
         {
@@ -811,5 +812,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/football-mania-deluxe.json"
+    "filename": "game_reviews/translations/football-mania-deluxe.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__5f503f48-54b5-4833-9d04-01e73dbc3877_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__8109f499-b94d-474a-b77e-c45be4697cd6_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__5f503f48-54b5-4833-9d04-01e73dbc3877_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__8109f499-b94d-474a-b77e-c45be4697cd6_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__5f503f48-54b5-4833-9d04-01e73dbc3877_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__8109f499-b94d-474a-b77e-c45be4697cd6_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__5f503f48-54b5-4833-9d04-01e73dbc3877_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Football_Mania_Deluxe__8109f499-b94d-474a-b77e-c45be4697cd6_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Football Mania Deluxe (Version 7).webp",
+        "game_reviews/processed_images/Football Mania Deluxe (Version 5).webp",
+        "game_reviews/processed_images/Football Mania Deluxe (Version 8).webp",
+        "game_reviews/processed_images/Football Mania Deluxe (Version 6).webp"
+    ],
+    "slug": "football-mania-deluxe",
+    "name": "Football Mania Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Football-Mania-Deluxe-Version-7-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Football Mania Deluxe for Free' ### Meta set: 'Read our review of Football Mania Deluxe and play this exciting online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

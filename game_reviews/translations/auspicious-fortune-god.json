@@ -544,40 +544,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding wilds and respins",
-                    "Medium volatility level",
-                    "Wide range of betting options",
-                    "Free demo mode available"
+                    "Chinese-themed with visually appealing symbols",
+                    "Expanding wilds and respins for added excitement",
+                    "Customization options for a personalized gaming experience",
+                    "Wide range of betting options suitable for different types of players"
                 ],
                 "cons": [
-                    "No free spins feature",
-                    "Limited bonus features"
+                    "No guarantees on wins, as with any online slot game",
+                    "No mention of bonus features or progressive jackpot"
                 ],
-                "meta_title": "Play Auspicious Fortune God for Free - Review 2021",
-                "meta_description": "Explore the features of Auspicious Fortune God. Read our unbiased review and play for free. Discover volatility, betting range and responsible gambling advice."
+                "meta_title": "Play Auspicious Fortune God for Free",
+                "meta_description": "Read our review of Auspicious Fortune God and play for free. Find out its pros and cons."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Auspicious Fortune God\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame features and symbols\n\nAuspicious Fortune God is a Chinese-themed online slot that features five reels, 20 paylines and symbols such as fortune deities, money trees, ingots, and treasures. The game also includes expanding wilds and respins, with the wild symbol being a stack of gold treasures that appear on reels two through four. If a wild icon makes an appearance after the reels stop spinning, the entire reel will become wild, and you'll get a respin of the other reels. You can earn another respin if another wild appears, and this will continue until there are no more wild symbols.\n\nCustomization options\n\nAuspicious Fortune God has customization options that are accessible via the autospin settings using the three-line menu button and then the gear tab. Players can choose different betting amounts and access different customization options such as the Turbo tab if they prefer to play at a faster speed and the ability to play in free demo mode before spending any money. The controls and setting tabs for desktop users are aligned to the right of the reels, with wins, credits, and bet levels displayed beneath them.\n\nVolatility level\n\nThe volatility level of Auspicious Fortune God is medium, meaning that players can expect to receive payouts at a somewhat steady pace during gameplay. However, as with any online slot, no win can ever be guaranteed, and players should always gamble responsibly and within their means. It is recommended that players set an approachable and reasonable budget for each gaming session and that they never chase losses or exceed their boundaries during gameplay.\n\nBetting range\n\nOne of the plus points for Auspicious Fortune God is that it offers a wide range of betting options suitable for different types of players. The game allows players to choose different betting amounts and customization options, making it appealing to both high-rollers and players who prefer to play at lower stakes. It is always recommended that players gamble responsibly and always stay within their means.\n\nResponsible gambling advice\n\nIt is essential that players always gamble responsibly when playing any online slot game, including Auspicious Fortune God. Setting an approachable and reasonable budget for each gaming session is the first step in responsible gambling. Players should never gamble more than they can afford to lose, and they should never chase losses or exceed their boundaries during gameplay. When the fun stops, it is time to stop playing, and players should never play to recover losses. Always ensure to read through and understand the game rules and guidelines before playing any online slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Auspicious Fortune God\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame features and symbols\n\nAuspicious Fortune God is a Chinese-themed online slot that features five reels, 20 paylines and symbols such as fortune deities, money trees, ingots, and treasures. The game also includes expanding wilds and respins, with the wild symbol being a stack of gold treasures that appear on reels two through four. If a wild icon makes an appearance after the reels stop spinning, the entire reel will become wild, and you'll get a respin of the other reels. You can earn another respin if another wild appears, and this will continue until there are no more wild symbols.\n\nCustomization options\n\nAuspicious Fortune God has customization options that are accessible via the autospin settings using the three-line menu button and then the gear tab. Players can choose different betting amounts and access different customization options such as the Turbo tab if they prefer to play at a faster speed and the ability to play in free demo mode before spending any money. The controls and setting tabs for desktop users are aligned to the right of the reels, with wins, credits, and bet levels displayed beneath them.\n\nVolatility level\n\nThe volatility level of Auspicious Fortune God is medium, meaning that players can expect to receive payouts at a somewhat steady pace during gameplay. However, as with any online slot, no win can ever be guaranteed, and players should always gamble responsibly and within their means. It is recommended that players set an approachable and reasonable budget for each gaming session and that they never chase losses or exceed their boundaries during gameplay.\n\nBetting range\n\nOne of the plus points for Auspicious Fortune God is that it offers a wide range of betting options suitable for different types of players. The game allows players to choose different betting amounts and customization options, making it appealing to both high-rollers and players who prefer to play at lower stakes. It is always recommended that players gamble responsibly and always stay within their means.\n\nResponsible gambling advice\n\nIt is essential that players always gamble responsibly when playing any online slot game, including Auspicious Fortune God. Setting an approachable and reasonable budget for each gaming session is the first step in responsible gambling. Players should never gamble more than they can afford to lose, and they should never chase losses or exceed their boundaries during gameplay. When the fun stops, it is time to stop playing, and players should never play to recover losses. Always ensure to read through and understand the game rules and guidelines before playing any online slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SaChZXY2vcvtrxc2Rl29q8zt2A3B",
+                "id": "chatcmpl-7WNbFrZf04ACb4VqmY16fnioChtqR",
                 "object": "chat.completion",
-                "created": 1687046707,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 684,
-                    "completion_tokens": 111,
-                    "total_tokens": 795
-                },
+                "created": 1687951569,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n  \"Expanding wilds and respins\",\n  \"Medium volatility level\",\n  \"Wide range of betting options\",\n  \"Free demo mode available\"\n],\n\"cons\": [\n  \"No free spins feature\",\n  \"Limited bonus features\"\n],\n\"meta_title\": \"Play Auspicious Fortune God for Free - Review 2021\",\n\"meta_description\": \"Explore the features of Auspicious Fortune God. Read our unbiased review and play for free. Discover volatility, betting range and responsible gambling advice.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Chinese-themed with visually appealing symbols\",\n    \"Expanding wilds and respins for added excitement\",\n    \"Customization options for a personalized gaming experience\",\n    \"Wide range of betting options suitable for different types of players\"\n  ],\n  \"cons\": [\n    \"No guarantees on wins, as with any online slot game\",\n    \"No mention of bonus features or progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Auspicious Fortune God for Free\",\n  \"meta_description\": \"Read our review of Auspicious Fortune God and play for free. Find out its pros and cons.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 681,
+                    "completion_tokens": 131,
+                    "total_tokens": 812
+                }
             }
         },
         {
@@ -778,15 +778,24 @@
     ],
     "filename": "game_reviews/translations/auspicious-fortune-god.json",
     "raw_feature_images": [
-        "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_1.png",
         "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_2.png",
         "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_3.png",
-        "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_1.png"
+        "arved__Create_an_eye-catching_feature_image_for_Auspicious_Fort_5d36bab5-9661-4673-9b0d-8e23f88a1ea2_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Auspicious Fortune God (Version 4).webp",
         "game_reviews/processed_images/Auspicious Fortune God (Version 3).webp",
+        "game_reviews/processed_images/Auspicious Fortune God (Version 2).webp",
         "game_reviews/processed_images/Auspicious Fortune God (Version 1).webp",
-        "game_reviews/processed_images/Auspicious Fortune God (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Auspicious Fortune God (Version 4).webp"
+    ],
+    "slug": "auspicious-fortune-god",
+    "name": "Auspicious Fortune God",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Auspicious-Fortune-God-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Auspicious Fortune God for Free' ### Meta set: 'Read our review of Auspicious Fortune God and play for free. Find out its pros and cons.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

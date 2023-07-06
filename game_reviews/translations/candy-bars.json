@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Colorful graphics style",
-                    "Classic slot feel",
-                    "Gumball Wilds double wins",
-                    "Frequent winning opportunities"
+                    "Colorful graphics and classic slot feel",
+                    "Gumball Wilds with double and quadruple payouts",
+                    "Wild Multipliers for increased winnings",
+                    "Progressive jackpots for additional excitement"
                 ],
                 "cons": [
-                    "Limited number of symbols",
-                    "Missing more interactive features"
+                    "Limited to 4 reels and 50 paylines. Less variety compared to other slots",
+                    "Lower maximum payout compared to some other slot games"
                 ],
-                "meta_title": "Play Candy Bars Free - Review of IGT's Slot Game",
-                "meta_description": "Read our review of Candy Bars by IGT. Play this colorful and classic slot game for free. Learn how to win Blackout Wins and Progressive Jackpots."
+                "meta_title": "Play Candy Bars Free - Colorful Slot Game with Wild Multipliers",
+                "meta_description": "Read our review of Candy Bars and play this colorful slot game for free. Enjoy Wild Multipliers and progressive jackpots."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Candy Bars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCandy Bars Slot Overview\n\nCandy Bars is a 4-reel slot game from IGT with 50 paylines. It has a colorful graphics style with a classic slot feel. The highest-paying symbols in the game are two different colored 7s.\n\nGumball Wilds\n\nGumballs are the Wild symbols on the reels and can replace all other symbols except for the Blackout Win. They appear exclusively on the second and third reels and double the value of any win that they are part of. Wins that involve two Gumball Wilds will quadruple the payout.\n\nWild Multipliers\n\nThe Wild Multipliers are represented by a Gumball with a 2x value on it. They show up on reels 2 and 3 only to replace all symbols and double the payout of the winning combination that they are included in. If your win includes two of these symbols, your payout will be quadrupled.\n\nProgressive Jackpot\n\nThere are three progressive jackpots available in Candy Bars: the Snack Size, King Size, and Giant Size. To win one of these jackpots, you must land 2, 3, or 4 stacks of symbols with a chocolate background on the reels. A Snack Size jackpot is won by landing a stack of symbols with the background of a chocolate bar on reels 2, a King Size progressive jackpot will be yours if you put chocolate bars on reels 2 and 3, while chocolate bars hitting reels 2, 3 and 4 guarantee a Giant Size progressive jackpot.\n\nWinning Opportunities\n\nCovering the reels entirely with symbols of one kind will get you a Blackout Win that can payout between 5,000 and 25,000 coins. The game has few symbols making winning combinations landing more frequently.  The highest payout of 100 coins is won by landing 3 Red 7 with a Blue background symbols, while a Blue 7 with a Red background symbol will pay out up to 50 coins. Four of the lollipops, peppermints, or candy symbols will earn you 10 coins, while three matching ones will earn you 5 coins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Candy Bars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCandy Bars Slot Overview\n\nCandy Bars is a 4-reel slot game from IGT with 50 paylines. It has a colorful graphics style with a classic slot feel. The highest-paying symbols in the game are two different colored 7s.\n\nGumball Wilds\n\nGumballs are the Wild symbols on the reels and can replace all other symbols except for the Blackout Win. They appear exclusively on the second and third reels and double the value of any win that they are part of. Wins that involve two Gumball Wilds will quadruple the payout.\n\nWild Multipliers\n\nThe Wild Multipliers are represented by a Gumball with a 2x value on it. They show up on reels 2 and 3 only to replace all symbols and double the payout of the winning combination that they are included in. If your win includes two of these symbols, your payout will be quadrupled.\n\nProgressive Jackpot\n\nThere are three progressive jackpots available in Candy Bars: the Snack Size, King Size, and Giant Size. To win one of these jackpots, you must land 2, 3, or 4 stacks of symbols with a chocolate background on the reels. A Snack Size jackpot is won by landing a stack of symbols with the background of a chocolate bar on reels 2, a King Size progressive jackpot will be yours if you put chocolate bars on reels 2 and 3, while chocolate bars hitting reels 2, 3 and 4 guarantee a Giant Size progressive jackpot.\n\nWinning Opportunities\n\nCovering the reels entirely with symbols of one kind will get you a Blackout Win that can payout between 5,000 and 25,000 coins. The game has few symbols making winning combinations landing more frequently.  The highest payout of 100 coins is won by landing 3 Red 7 with a Blue background symbols, while a Blue 7 with a Red background symbol will pay out up to 50 coins. Four of the lollipops, peppermints, or candy symbols will earn you 10 coins, while three matching ones will earn you 5 coins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SpXlIm2hc7eE4P0X0r0CGJwPk20U",
+                "id": "chatcmpl-7WPeNh4dsH9HkijKyEw8LRQO63MPf",
                 "object": "chat.completion",
-                "created": 1687105673,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 618,
-                    "completion_tokens": 107,
-                    "total_tokens": 725
-                },
+                "created": 1687959451,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Colorful graphics style\", \"Classic slot feel\", \"Gumball Wilds double wins\", \"Frequent winning opportunities\"],\n    \"cons\": [\"Limited number of symbols\", \"Missing more interactive features\"],\n    \"meta_title\": \"Play Candy Bars Free - Review of IGT's Slot Game\",\n    \"meta_description\": \"Read our review of Candy Bars by IGT. Play this colorful and classic slot game for free. Learn how to win Blackout Wins and Progressive Jackpots.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Colorful graphics and classic slot feel\",\n    \"Gumball Wilds with double and quadruple payouts\",\n    \"Wild Multipliers for increased winnings\",\n    \"Progressive jackpots for additional excitement\"\n  ],\n  \"cons\": [\n    \"Limited to 4 reels and 50 paylines. Less variety compared to other slots\",\n    \"Lower maximum payout compared to some other slot games\"\n  ],\n  \"meta_title\": \"Play Candy Bars Free - Colorful Slot Game with Wild Multipliers\",\n  \"meta_description\": \"Read our review of Candy Bars and play this colorful slot game for free. Enjoy Wild Multipliers and progressive jackpots.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 615,
+                    "completion_tokens": 144,
+                    "total_tokens": 759
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_3.png",
         "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_4.png",
-        "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_1.png",
         "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_2.png",
-        "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_3.png"
+        "arved__Create_a_vibrant_feature_image_for_Candy_Bars_that_featu_fa20568a-3399-4884-bb09-c01a960623f1_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Candy Bars (Version 1).webp",
-        "game_reviews/processed_images/Candy Bars (Version 3).webp",
         "game_reviews/processed_images/Candy Bars (Version 4).webp",
-        "game_reviews/processed_images/Candy Bars (Version 2).webp"
+        "game_reviews/processed_images/Candy Bars (Version 2).webp",
+        "game_reviews/processed_images/Candy Bars (Version 3).webp",
+        "game_reviews/processed_images/Candy Bars (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/candy-bars.json"
+    "filename": "game_reviews/translations/candy-bars.json",
+    "slug": "candy-bars",
+    "name": "Candy Bars",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Candy-Bars-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Candy Bars Free - Colorful Slot Game with Wild Multipliers' ### Meta set: 'Read our review of Candy Bars and play this colorful slot game for free. Enjoy Wild Multipliers and progressive jackpots.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

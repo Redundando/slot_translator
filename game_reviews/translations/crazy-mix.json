@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Lively and colorful design with an Australian island theme",
-                    "Exciting bonus features like Boomerang Respins and Free Spins",
-                    "Two wild symbols featuring indigenous-like characters add depth to the design",
-                    "Perfect for both new and experienced gamblers"
+                    "Lively and colorful design",
+                    "Exciting bonus features",
+                    "Australian indigenous theme",
+                    "Entertaining gameplay"
                 ],
                 "cons": [
                     "Limited number of free spins",
-                    "Hitting the jackpot takes both patience and luck"
+                    "Requires patience and luck for jackpot"
                 ],
-                "meta_title": "Play Crazy Mix Free – Review of TrueLab Games' Slot Game",
-                "meta_description": "Read our review of Crazy Mix, a five-reel slot game from TrueLab Games featuring exciting bonus features and a lively Australian island theme. Play for free!"
+                "meta_title": "Play Crazy Mix Free - Lively & Exciting Slot Game",
+                "meta_description": "Experience a fun and vibrant slot game with Crazy Mix. Play for free and enjoy bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crazy Mix\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nCrazy Mix is a five-reel slot game developed by TrueLab Games. It has a simple structure of 15 paylines and introduces a sixth bonus reel filled with exotic fruits tied to the game's special features.\n\nGraphics and Themes\n\nThe game has a lively and colorful design that will take you on a virtual adventure to Australia's distant paradise island. The reels are adorned with symbols that fit the island theme, such as kangaroos, koalas, and sea turtles, along with the classic playing card figures. Our protagonist and indigenous-like characters, the wild symbols – Chaka and Aneka, add depth to the overall design.\n\nBonus Features\n\nCrazy Mix has exciting bonus features such as Boomerang Respins and Free Spins. Boomerang Respins is triggered randomly, where Chaka throws a boomerang at the bonus reel, hitting fruits that are added to the cocktail. With more fruit, you can activate extra respins, and when you hit four fruits, you can unlock free spins. During the free spins, the progressive win multiplier increases by +1.\n\nWild Symbols\n\nChaka and Aneka are the wild symbols that can replace all other paying symbols. Finding five of them in a row can be worth up to 66 times your bet. These characters add an Australian indigenous feel that complements the overall theme of Crazy Mix.\n\nGameplay and Experience\n\nCrazy Mix is an enjoyable slot game that is perfect for new players, while experienced gamblers can still find it surprisingly entertaining. The game has a limited number of free spins, and it takes both patience and luck to hit the jackpot. The animations and the fun it offers on the screen make for an overall positive experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crazy Mix\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nCrazy Mix is a five-reel slot game developed by TrueLab Games. It has a simple structure of 15 paylines and introduces a sixth bonus reel filled with exotic fruits tied to the game's special features.\n\nGraphics and Themes\n\nThe game has a lively and colorful design that will take you on a virtual adventure to Australia's distant paradise island. The reels are adorned with symbols that fit the island theme, such as kangaroos, koalas, and sea turtles, along with the classic playing card figures. Our protagonist and indigenous-like characters, the wild symbols – Chaka and Aneka, add depth to the overall design.\n\nBonus Features\n\nCrazy Mix has exciting bonus features such as Boomerang Respins and Free Spins. Boomerang Respins is triggered randomly, where Chaka throws a boomerang at the bonus reel, hitting fruits that are added to the cocktail. With more fruit, you can activate extra respins, and when you hit four fruits, you can unlock free spins. During the free spins, the progressive win multiplier increases by +1.\n\nWild Symbols\n\nChaka and Aneka are the wild symbols that can replace all other paying symbols. Finding five of them in a row can be worth up to 66 times your bet. These characters add an Australian indigenous feel that complements the overall theme of Crazy Mix.\n\nGameplay and Experience\n\nCrazy Mix is an enjoyable slot game that is perfect for new players, while experienced gamblers can still find it surprisingly entertaining. The game has a limited number of free spins, and it takes both patience and luck to hit the jackpot. The animations and the fun it offers on the screen make for an overall positive experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SxoZsj5pvOp2OnBUXvo5GA8RqQuU",
+                "id": "chatcmpl-7WQcJ2zVXCjbrpFYJtA1dEEv11hiw",
                 "object": "chat.completion",
-                "created": 1687137467,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 529,
-                    "completion_tokens": 152,
-                    "total_tokens": 681
-                },
+                "created": 1687963167,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Lively and colorful design with an Australian island theme\",\n        \"Exciting bonus features like Boomerang Respins and Free Spins\",\n        \"Two wild symbols featuring indigenous-like characters add depth to the design\",\n        \"Perfect for both new and experienced gamblers\"\n    ],\n    \"cons\": [\n        \"Limited number of free spins\",\n        \"Hitting the jackpot takes both patience and luck\"\n    ],\n    \"meta_title\": \"Play Crazy Mix Free – Review of TrueLab Games' Slot Game\",\n    \"meta_description\": \"Read our review of Crazy Mix, a five-reel slot game from TrueLab Games featuring exciting bonus features and a lively Australian island theme. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Lively and colorful design\",\n    \"Exciting bonus features\",\n    \"Australian indigenous theme\",\n    \"Entertaining gameplay\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins\",\n    \"Requires patience and luck for jackpot\"\n  ],\n  \"meta_title\": \"Play Crazy Mix Free - Lively & Exciting Slot Game\",\n  \"meta_description\": \"Experience a fun and vibrant slot game with Crazy Mix. Play for free and enjoy bonus features.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 526,
+                    "completion_tokens": 107,
+                    "total_tokens": 633
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_3.png",
-        "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_2.png",
+        "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_1.png",
         "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_4.png",
-        "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_1.png"
+        "arved__Create_a_fun_and_colorful_feature_image_for_Crazy_Mix_th_1b521aef-2733-4f9a-a66f-18623dbf7663_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Crazy Mix (Version 3).webp",
-        "game_reviews/processed_images/Crazy Mix (Version 1).webp",
         "game_reviews/processed_images/Crazy Mix (Version 2).webp",
-        "game_reviews/processed_images/Crazy Mix (Version 4).webp"
+        "game_reviews/processed_images/Crazy Mix (Version 3).webp",
+        "game_reviews/processed_images/Crazy Mix (Version 4).webp",
+        "game_reviews/processed_images/Crazy Mix (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/crazy-mix.json"
+    "filename": "game_reviews/translations/crazy-mix.json",
+    "slug": "crazy-mix",
+    "name": "Crazy Mix",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crazy-Mix-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crazy Mix Free - Lively & Exciting Slot Game' ### Meta set: 'Experience a fun and vibrant slot game with Crazy Mix. Play for free and enjoy bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

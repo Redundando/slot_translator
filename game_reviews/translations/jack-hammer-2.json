@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative Sticky Win function increases potential for high payouts",
-                    "Beautiful graphic interface with high-quality visuals and music",
-                    "Flexible betting options to suit players of all levels",
-                    "High RTP value of 97.1% offers potentially lucrative rewards"
+                    "Innovative Sticky Win function",
+                    "Beautiful graphic design",
+                    "Flexible betting options",
+                    "High RTP value"
                 ],
                 "cons": [
-                    "Limited to one bonus game",
-                    "Not available on all online casinos"
+                    "Limited maximum bet value",
+                    "Lack of bonus features"
                 ],
-                "meta_title": "Play Jack Hammer 2 Online for Free - Pros and Cons Review",
-                "meta_description": "Read our detailed review of Jack Hammer 2 online slot game. Find out what we like and don't like, and play for free with high RTP value of 97.1%."
+                "meta_title": "Play Jack Hammer 2 for Free",
+                "meta_description": "Play Jack Hammer 2, a visually stunning slot game with innovative features and high potential payouts for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jack Hammer 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe gameplay of Jack Hammer 2 features 5 reels, 99 betting lines, and the innovative Sticky Win function. The game also offers independent reels and symbols such as Wild, Scatter, and free spins. The Sticky Win function can lock the reels on a winning combination and leave other reels to spin autonomously, increasing the potential for high payouts.\n\nGraphic Design\n\nJack Hammer 2 features a beautiful graphic interface with high-quality visuals and cute music and sound effects. The game is available on both desktop and mobile devices, allowing for convenient gameplay. Symbols include a microphone, crab, fish barrels, Don Crabby’s bodyguards, the singer Pearl, and the detective Jack Hammer himself. The game’s attention to detail and overall design are impressive.\n\nBet Value and Level\n\nTo start playing Jack Hammer 2, players can set their bet value from €0.01 to €0.50 and choose their betting level, which ranges from €0.25 per spin up to a maximum of €250. The game offers flexible betting options to suit players of all levels and provide opportunities for both small and big wins.\n\nSymbols and Functions\n\nJack Hammer 2 features Wild and Scatter symbols, which can offer free spins and increase the value of winnings. The Wild symbol is represented by an explosion and serves as a joker to replace all other symbols, except the Scatter, on active reels. The Scatter symbol is an electric eel with the “Free Spins” wording and can provide up to 20 free spins. During free spins, Random Wild icons appear on the screen and serve as jokers to replace previous icons, increasing the potential for high payouts.\n\nRTP Value\n\nJack Hammer 2 offers a high RTP value of 97.1%. This means that, on average, players can expect to receive €97.10 back for every €100 wagered on the game over a long period of time. This high RTP value makes Jack Hammer 2 a potentially lucrative game for players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jack Hammer 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nThe gameplay of Jack Hammer 2 features 5 reels, 99 betting lines, and the innovative Sticky Win function. The game also offers independent reels and symbols such as Wild, Scatter, and free spins. The Sticky Win function can lock the reels on a winning combination and leave other reels to spin autonomously, increasing the potential for high payouts.\n\nGraphic Design\n\nJack Hammer 2 features a beautiful graphic interface with high-quality visuals and cute music and sound effects. The game is available on both desktop and mobile devices, allowing for convenient gameplay. Symbols include a microphone, crab, fish barrels, Don Crabby’s bodyguards, the singer Pearl, and the detective Jack Hammer himself. The game’s attention to detail and overall design are impressive.\n\nBet Value and Level\n\nTo start playing Jack Hammer 2, players can set their bet value from €0.01 to €0.50 and choose their betting level, which ranges from €0.25 per spin up to a maximum of €250. The game offers flexible betting options to suit players of all levels and provide opportunities for both small and big wins.\n\nSymbols and Functions\n\nJack Hammer 2 features Wild and Scatter symbols, which can offer free spins and increase the value of winnings. The Wild symbol is represented by an explosion and serves as a joker to replace all other symbols, except the Scatter, on active reels. The Scatter symbol is an electric eel with the “Free Spins” wording and can provide up to 20 free spins. During free spins, Random Wild icons appear on the screen and serve as jokers to replace previous icons, increasing the potential for high payouts.\n\nRTP Value\n\nJack Hammer 2 offers a high RTP value of 97.1%. This means that, on average, players can expect to receive €97.10 back for every €100 wagered on the game over a long period of time. This high RTP value makes Jack Hammer 2 a potentially lucrative game for players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TuEUPwPRzH3HccYdQ0E3nUs1CYM0",
+                "id": "chatcmpl-7WVLwjB136VvIHqBPrzJujy18eMvh",
                 "object": "chat.completion",
-                "created": 1687362026,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981372,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative Sticky Win function increases potential for high payouts\",\n        \"Beautiful graphic interface with high-quality visuals and music\",\n        \"Flexible betting options to suit players of all levels\",\n        \"High RTP value of 97.1% offers potentially lucrative rewards\"\n    ],\n    \"cons\": [\n        \"Limited to one bonus game\",\n        \"Not available on all online casinos\"\n    ],\n    \"meta_title\": \"Play Jack Hammer 2 Online for Free - Pros and Cons Review\",\n    \"meta_description\": \"Read our detailed review of Jack Hammer 2 online slot game. Find out what we like and don't like, and play for free with high RTP value of 97.1%.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Innovative Sticky Win function\",\n    \"Beautiful graphic design\",\n    \"Flexible betting options\",\n    \"High RTP value\"\n  ],\n  \"cons\": [\n    \"Limited maximum bet value\",\n    \"Lack of bonus features\"\n  ],\n  \"meta_title\": \"Play Jack Hammer 2 for Free\",\n  \"meta_description\": \"Play Jack Hammer 2, a visually stunning slot game with innovative features and high potential payouts for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 583,
-                    "completion_tokens": 153,
-                    "total_tokens": 736
+                    "prompt_tokens": 580,
+                    "completion_tokens": 100,
+                    "total_tokens": 680
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jack-hammer-2.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Jack_a85f34be-ffb0-435c-b16a-77405c9bd129_3.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Jack_a85f34be-ffb0-435c-b16a-77405c9bd129_2.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Jack_a85f34be-ffb0-435c-b16a-77405c9bd129_4.png",
+        "arved__Create_a_feature_image_that_captures_the_essence_of_Jack_a85f34be-ffb0-435c-b16a-77405c9bd129_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jack Hammer 2 (Version 4).webp",
+        "game_reviews/processed_images/Jack Hammer 2 (Version 1).webp",
+        "game_reviews/processed_images/Jack Hammer 2 (Version 3).webp",
+        "game_reviews/processed_images/Jack Hammer 2 (Version 2).webp"
+    ],
+    "slug": "jack-hammer-2",
+    "name": "Jack Hammer 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jack-Hammer-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jack Hammer 2 for Free' ### Meta set: 'Play Jack Hammer 2, a visually stunning slot game with innovative features and high potential payouts for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

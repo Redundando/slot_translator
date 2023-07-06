@@ -616,40 +616,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Simple yet dynamic gameplay",
-                    "High likelihood of winning and frequent wins",
-                    "Australian theme and immersive graphics",
-                    "Engaging sound effects"
+                    "Simple gameplay with frequent wins",
+                    "Engaging Australian theme and graphics",
+                    "Exciting bonuses and free spins",
+                    "Immersive sound effects"
                 ],
                 "cons": [
-                    "Limited bonus features compared to other slot games",
-                    "No progressive jackpot feature"
+                    "Graphics are simple",
+                    "Limited options for similar games"
                 ],
-                "meta_title": "Play Big Red Free | Review of Online Slot Game",
-                "meta_description": "Read our review of Big Red online slot game. Play for free and enjoy an immersive Australian themed gaming experience with dynamic gameplay and frequent wins."
+                "meta_title": "Play Big Red Free - Exciting Australian Slot Game",
+                "meta_description": "Play Big Red for free and experience the engaging gameplay, exciting bonuses, and immersive sound effects."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Big Red\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and wins\n\nThe gameplay of Big Red is simple, yet dynamic. The game rules are intuitive, and frequent wins are easy to achieve. The game features a high likelihood of winning, making it engaging and fun throughout.\n\nSymbols and bonuses\n\nBig Red has two important symbols - the kangaroo, which plays the 'Wild' function, and the tree, which represents the 'scatter' symbol on free spins. The game offers several bonuses, including free spins triggered by landing the kangaroo symbol and a Gamble bonus that allows players to multiply their winnings by guessing the suit or color of a certain card.\n\nAustralian theme and graphics\n\nBig Red takes place in an Australian landscape, with wild animals and natural elements as symbols used in the reels. The graphics are simple, but Aristocrat has still managed to create an engaging and immersive game setting for a high gaming experience. The symbols used in the game are mainly made up of wild animals and natural elements typical of wild nature and the Australian environment, creating a distinct and memorable atmosphere for players.\n\nSound effects and immersion\n\nThe sound effects in Big Red, between animal noises and thunder claps, make the gaming experience even more immersive and satisfying. Aristocrat has done an excellent job of providing an engaging and immersive game environment with its simple graphics and memorable sounds.\n\nSimilar slot games\n\nIf you're looking for other similar slot games with an Australian theme, we recommend Australian Magic produced by Casino Technology. However, there are few slot games with such a dynamic and satisfying gameplay experience as Big Red, which truly sets it apart.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Big Red\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and wins\n\nThe gameplay of Big Red is simple, yet dynamic. The game rules are intuitive, and frequent wins are easy to achieve. The game features a high likelihood of winning, making it engaging and fun throughout.\n\nSymbols and bonuses\n\nBig Red has two important symbols - the kangaroo, which plays the 'Wild' function, and the tree, which represents the 'scatter' symbol on free spins. The game offers several bonuses, including free spins triggered by landing the kangaroo symbol and a Gamble bonus that allows players to multiply their winnings by guessing the suit or color of a certain card.\n\nAustralian theme and graphics\n\nBig Red takes place in an Australian landscape, with wild animals and natural elements as symbols used in the reels. The graphics are simple, but Aristocrat has still managed to create an engaging and immersive game setting for a high gaming experience. The symbols used in the game are mainly made up of wild animals and natural elements typical of wild nature and the Australian environment, creating a distinct and memorable atmosphere for players.\n\nSound effects and immersion\n\nThe sound effects in Big Red, between animal noises and thunder claps, make the gaming experience even more immersive and satisfying. Aristocrat has done an excellent job of providing an engaging and immersive game environment with its simple graphics and memorable sounds.\n\nSimilar slot games\n\nIf you're looking for other similar slot games with an Australian theme, we recommend Australian Magic produced by Casino Technology. However, there are few slot games with such a dynamic and satisfying gameplay experience as Big Red, which truly sets it apart.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Ser4v5h8Nzl1ozziZEiIagMagsy1",
+                "id": "chatcmpl-7WOD2dMmc74y2ErP3q6VAuq9fe5OD",
                 "object": "chat.completion",
-                "created": 1687064586,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 492,
-                    "completion_tokens": 119,
-                    "total_tokens": 611
-                },
+                "created": 1687953912,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple yet dynamic gameplay\",\n        \"High likelihood of winning and frequent wins\",\n        \"Australian theme and immersive graphics\",\n        \"Engaging sound effects\"\n    ],\n    \"cons\": [\n        \"Limited bonus features compared to other slot games\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Big Red Free | Review of Online Slot Game\",\n    \"meta_description\": \"Read our review of Big Red online slot game. Play for free and enjoy an immersive Australian themed gaming experience with dynamic gameplay and frequent wins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay with frequent wins\",\n    \"Engaging Australian theme and graphics\",\n    \"Exciting bonuses and free spins\",\n    \"Immersive sound effects\"\n  ],\n  \"cons\": [\n    \"Graphics are simple\",\n    \"Limited options for similar games\"\n  ],\n  \"meta_title\": \"Play Big Red Free - Exciting Australian Slot Game\",\n  \"meta_description\": \"Play Big Red for free and experience the engaging gameplay, exciting bonuses, and immersive sound effects.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 489,
+                    "completion_tokens": 107,
+                    "total_tokens": 596
+                }
             }
         },
         {
@@ -850,15 +850,24 @@
     ],
     "filename": "game_reviews/translations/big-red.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_4.png",
         "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_2.png"
+        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Big_Red_that_is_in_a_c_870835c8-1bae-48f9-8804-702c22a4d58b_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Big Red (Version 1).webp",
         "game_reviews/processed_images/Big Red (Version 3).webp",
-        "game_reviews/processed_images/Big Red (Version 2).webp",
-        "game_reviews/processed_images/Big Red (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Big Red (Version 4).webp",
+        "game_reviews/processed_images/Big Red (Version 1).webp",
+        "game_reviews/processed_images/Big Red (Version 2).webp"
+    ],
+    "slug": "big-red",
+    "name": "Big Red",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Big-Red-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Big Red Free - Exciting Australian Slot Game' ### Meta set: 'Play Big Red for free and experience the engaging gameplay, exciting bonuses, and immersive sound effects.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

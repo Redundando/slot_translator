@@ -574,39 +574,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Visually stunning graphics and game symbols",
-                    "Cascading reels and free spins bonus increase chances of winning",
-                    "Wild symbol substitutes for all regular symbols",
-                    "Flexible betting range suitable for all players"
+                    "Visually stunning graphics",
+                    "Unique cascading reels and free spins bonus",
+                    "Wild symbol for easy winning combinations",
+                    "Wide range of betting options"
                 ],
                 "cons": [
-                    "Limited bonus features compared to other slot games",
-                    "Audio effects can be repetitive"
+                    "None",
+                    "None"
                 ],
                 "meta_title": "Play Invaders from the Planet Moolah for Free",
-                "meta_description": "Read our review of Invaders from the Planet Moolah and play for free. Enjoy cascading reels and flexible betting range with this space-themed slot game."
+                "meta_description": "Read our review of Invaders from the Planet Moolah and play this game for free to experience its unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Invaders from the Planet Moolah\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and game symbols\n\nInvaders from the Planet Moolah's graphics are visually stunning, with a series of cartoon-style animals that are both absurd and wacky to manage to dominate the scene. The reels grid is 5 x 30, and on each reel, there's a spaceship, and on board, there's a cow. The color scheme is vibrant and very colorful, and the setting is full of humor. The game symbols are also well thought out, with icons of the barn, cows, milk boxes, knitting grandmothers, and more. The Wild symbol, represented by a cow, can substitute for all regular symbols. The special function of the cascade reels is charming and increases players' chances of winning combinations and activating free spins.\n\nCascading reels and free spins bonus\n\nA key attraction of Invaders from the Planet Moolah is the cascading reels and free spins bonus. The cascading reels are a unique feature in this game. With each win, the symbols that caused the win disappear, and new ones replace them, giving players multiple opportunities to win. The game rewards cascading wins with free spins, with up to 7 cascades creating 25 free spins, while greater than 8 cascades generate 50 free spins. The feature offers players a higher chance of winning and big payouts.\n\nWild symbol\n\nThe Wild symbol in Invaders from the Planet Moolah is the cow. It has the ability to substitute any other standard symbol, leading to winning combinations easily. The Wild symbol also appears on the cascading reels, making it easier to activate the free spins bonus rounds.\n\nBetting range\n\nPlayers can choose to bet on each of the 25 pay lines in the game. The minimum bet per spin is 0.01 cents, with the maximum going up to 5€. This range of betting options is suitable for all kinds of players, from new entrants to high rollers. Players have the flexibility to choose their betting level, and even play with a small budget, without sacrificing the possibility of winning high payouts.\n\nRTP\n\nThe return to player (RTP) for Invaders from the Planet Moolah is 96%, which is in line with the industry average. This means that players can expect decent returns for their bets. The game offers players an opportunity to win big payouts, and with the constant possibility of cascading reels and free spins, there is always something to keep players interested.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Invaders from the Planet Moolah\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and game symbols\n\nInvaders from the Planet Moolah's graphics are visually stunning, with a series of cartoon-style animals that are both absurd and wacky to manage to dominate the scene. The reels grid is 5 x 30, and on each reel, there's a spaceship, and on board, there's a cow. The color scheme is vibrant and very colorful, and the setting is full of humor. The game symbols are also well thought out, with icons of the barn, cows, milk boxes, knitting grandmothers, and more. The Wild symbol, represented by a cow, can substitute for all regular symbols. The special function of the cascade reels is charming and increases players' chances of winning combinations and activating free spins.\n\nCascading reels and free spins bonus\n\nA key attraction of Invaders from the Planet Moolah is the cascading reels and free spins bonus. The cascading reels are a unique feature in this game. With each win, the symbols that caused the win disappear, and new ones replace them, giving players multiple opportunities to win. The game rewards cascading wins with free spins, with up to 7 cascades creating 25 free spins, while greater than 8 cascades generate 50 free spins. The feature offers players a higher chance of winning and big payouts.\n\nWild symbol\n\nThe Wild symbol in Invaders from the Planet Moolah is the cow. It has the ability to substitute any other standard symbol, leading to winning combinations easily. The Wild symbol also appears on the cascading reels, making it easier to activate the free spins bonus rounds.\n\nBetting range\n\nPlayers can choose to bet on each of the 25 pay lines in the game. The minimum bet per spin is 0.01 cents, with the maximum going up to 5€. This range of betting options is suitable for all kinds of players, from new entrants to high rollers. Players have the flexibility to choose their betting level, and even play with a small budget, without sacrificing the possibility of winning high payouts.\n\nRTP\n\nThe return to player (RTP) for Invaders from the Planet Moolah is 96%, which is in line with the industry average. This means that players can expect decent returns for their bets. The game offers players an opportunity to win big payouts, and with the constant possibility of cascading reels and free spins, there is always something to keep players interested.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TtZCNluYF00Xp9h0ppC7BPUBrn0s",
+                "id": "chatcmpl-7WVGHnr9BxxKiW3aczKks2gkdy9jW",
                 "object": "chat.completion",
-                "created": 1687359466,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981021,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Visually stunning graphics and game symbols\",\n        \"Cascading reels and free spins bonus increase chances of winning\",\n        \"Wild symbol substitutes for all regular symbols\",\n        \"Flexible betting range suitable for all players\"\n    ],\n    \"cons\": [\n        \"Limited bonus features compared to other slot games\",\n        \"Audio effects can be repetitive\"\n    ],\n    \"meta_title\": \"Play Invaders from the Planet Moolah for Free\",\n    \"meta_description\": \"Read our review of Invaders from the Planet Moolah and play for free. Enjoy cascading reels and flexible betting range with this space-themed slot game.\" \n}"
+                            "content": "{\n    \"pros\": [\n        \"Visually stunning graphics\",\n        \"Unique cascading reels and free spins bonus\",\n        \"Wild symbol for easy winning combinations\",\n        \"Wide range of betting options\"\n    ],\n    \"cons\": [\n        \"None\",\n        \"None\"\n    ],\n    \"meta_title\": \"Play Invaders from the Planet Moolah for Free\",\n    \"meta_description\": \"Read our review of Invaders from the Planet Moolah and play this game for free to experience its unique features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 680,
-                    "completion_tokens": 138,
-                    "total_tokens": 818
+                    "prompt_tokens": 677,
+                    "completion_tokens": 108,
+                    "total_tokens": 785
                 }
             }
         },
@@ -805,5 +805,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/invaders-from-the-planet-moolah.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Invaders_from_t_85692e06-c9c1-4031-b24a-639969f77b94_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Invaders_from_t_85692e06-c9c1-4031-b24a-639969f77b94_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Invaders_from_t_85692e06-c9c1-4031-b24a-639969f77b94_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Invaders_from_t_85692e06-c9c1-4031-b24a-639969f77b94_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Invaders From The Planet Moolah (Version 2).webp",
+        "game_reviews/processed_images/Invaders From The Planet Moolah (Version 1).webp",
+        "game_reviews/processed_images/Invaders From The Planet Moolah (Version 4).webp",
+        "game_reviews/processed_images/Invaders From The Planet Moolah (Version 3).webp"
+    ],
+    "slug": "invaders-from-the-planet-moolah",
+    "name": "Invaders from the Planet Moolah",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Invaders-From-The-Planet-Moolah-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Invaders from the Planet Moolah for Free' ### Meta set: 'Read our review of Invaders from the Planet Moolah and play this game for free to experience its unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

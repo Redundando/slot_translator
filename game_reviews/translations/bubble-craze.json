@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique approach to slot machine gameplay",
-                    "Colorful and well-designed graphics",
-                    "Generous free spins bonus feature",
-                    "Developed by trusted provider IGT"
+                    "Unique gameplay mechanics and rules",
+                    "Excellent graphics and design",
+                    "Free spins bonus feature with guaranteed wins",
+                    "Developed by a leading provider in the industry"
                 ],
                 "cons": [
-                    "Limited bonus feature with no re-triggering",
-                    "Payouts can be lower than traditional slot machines"
+                    "Bonus round can only be triggered once",
+                    "Limited number of bonus features"
                 ],
-                "meta_title": "Play Bubble Craze for Free: A Unique Slot Game by IGT",
-                "meta_description": "Try Bubble Craze for free and experience a unique approach to slot machine gameplay with excellent graphics and bonus features by trusted developer IGT."
+                "meta_title": "Play Bubble Craze Free and Experience Unique Gameplay",
+                "meta_description": "Read our review of Bubble Craze and play for free to enjoy its unique gameplay mechanics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Bubble Craze\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nBubble Craze has a different approach than the traditional slot machine, requiring players to align symbols in formations of four or more with the same color. The game takes place on a hexagonal grid, and bubbles float up into position from the bottom of the screen. The bubbles burst if they do not form a winning combination, and new bubbles take their places. If you're looking for a unique gaming experience, Bubble Craze might be a good choice for you.\n\nSymbols and payouts\n\nThe symbols in Bubble Craze are bubbles of different colors and include red, blue, green, orange, yellow, purple, and brown. The standard slot machine symbols are also present, and some bubbles contain a 2x or 5x multiplier. Payouts range from 1,000 coins for a full grid (19 bubbles) of brown and purple bubbles to a maximum available win of 10,000 coins if all 19 silver bubbles are transformed. The free spins bonus feature is triggered by landing three or more atom-like bubbles, and you are awarded five free spins.\n\nGraphics and design\n\nBubble Craze has excellent graphics that are sure to catch anyone's eye. The game's theme is bubbles, and the hexagonal grid with its bright and colorful bubbles is appealing. The background is a blurred image of bubbles, which subtly relates to the theme and makes it even more immersive.\n\nBonus features\n\nThe game's bonus feature is triggered by landing three or more atom-like bubbles, and you are awarded five free spins. Every spin is a winner, and more Transform and Multiplier bubbles are added to the reel set. This bonus round cannot be triggered again. The multiplier bubbles can multiply your winnings by 2x or 5x, and only one can be active for each win - luckily, it is the highest.\n\nDeveloper and provider information\n\nBubble Craze is developed by IGT, a leading provider in the online gaming industry. IGT has a proven track record of producing quality games, and Bubble Craze is no exception. If you're looking for a game that stands out and gives you a fresh experience, this game might be a good choice for you.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Bubble Craze\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and rules\n\nBubble Craze has a different approach than the traditional slot machine, requiring players to align symbols in formations of four or more with the same color. The game takes place on a hexagonal grid, and bubbles float up into position from the bottom of the screen. The bubbles burst if they do not form a winning combination, and new bubbles take their places. If you're looking for a unique gaming experience, Bubble Craze might be a good choice for you.\n\nSymbols and payouts\n\nThe symbols in Bubble Craze are bubbles of different colors and include red, blue, green, orange, yellow, purple, and brown. The standard slot machine symbols are also present, and some bubbles contain a 2x or 5x multiplier. Payouts range from 1,000 coins for a full grid (19 bubbles) of brown and purple bubbles to a maximum available win of 10,000 coins if all 19 silver bubbles are transformed. The free spins bonus feature is triggered by landing three or more atom-like bubbles, and you are awarded five free spins.\n\nGraphics and design\n\nBubble Craze has excellent graphics that are sure to catch anyone's eye. The game's theme is bubbles, and the hexagonal grid with its bright and colorful bubbles is appealing. The background is a blurred image of bubbles, which subtly relates to the theme and makes it even more immersive.\n\nBonus features\n\nThe game's bonus feature is triggered by landing three or more atom-like bubbles, and you are awarded five free spins. Every spin is a winner, and more Transform and Multiplier bubbles are added to the reel set. This bonus round cannot be triggered again. The multiplier bubbles can multiply your winnings by 2x or 5x, and only one can be active for each win - luckily, it is the highest.\n\nDeveloper and provider information\n\nBubble Craze is developed by IGT, a leading provider in the online gaming industry. IGT has a proven track record of producing quality games, and Bubble Craze is no exception. If you're looking for a game that stands out and gives you a fresh experience, this game might be a good choice for you.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SnMg9yvDgIBdD2Etp9wCJRJ8uqJ7",
+                "id": "chatcmpl-7WPREVwW2o7tJqZOjsymDfVlAzsKP",
                 "object": "chat.completion",
-                "created": 1687097298,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 619,
-                    "completion_tokens": 132,
-                    "total_tokens": 751
-                },
+                "created": 1687958636,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique approach to slot machine gameplay\",\n        \"Colorful and well-designed graphics\",\n        \"Generous free spins bonus feature\",\n        \"Developed by trusted provider IGT\"\n    ],\n    \"cons\": [\n        \"Limited bonus feature with no re-triggering\",\n        \"Payouts can be lower than traditional slot machines\"\n    ],\n    \"meta_title\": \"Play Bubble Craze for Free: A Unique Slot Game by IGT\",\n    \"meta_description\": \"Try Bubble Craze for free and experience a unique approach to slot machine gameplay with excellent graphics and bonus features by trusted developer IGT.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics and rules\",\n    \"Excellent graphics and design\",\n    \"Free spins bonus feature with guaranteed wins\",\n    \"Developed by a leading provider in the industry\"\n  ],\n  \"cons\": [\n    \"Bonus round can only be triggered once\",\n    \"Limited number of bonus features\"\n  ],\n  \"meta_title\": \"Play Bubble Craze Free and Experience Unique Gameplay\",\n  \"meta_description\": \"Read our review of Bubble Craze and play for free to enjoy its unique gameplay mechanics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 616,
+                    "completion_tokens": 112,
+                    "total_tokens": 728
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_2.png",
-        "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_1.png",
+        "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_4.png",
         "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_3.png",
-        "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_4.png"
+        "arved__Create_a_feature_image_for_Bubble_Craze_that_showcases_a_bbdddbb1-e22f-47e4-8647-cd532f7e1c04_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Bubble Craze (Version 2).webp",
         "game_reviews/processed_images/Bubble Craze (Version 4).webp",
-        "game_reviews/processed_images/Bubble Craze (Version 3).webp",
-        "game_reviews/processed_images/Bubble Craze (Version 1).webp"
+        "game_reviews/processed_images/Bubble Craze (Version 2).webp",
+        "game_reviews/processed_images/Bubble Craze (Version 1).webp",
+        "game_reviews/processed_images/Bubble Craze (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/bubble-craze.json"
+    "filename": "game_reviews/translations/bubble-craze.json",
+    "slug": "bubble-craze",
+    "name": "Bubble Craze",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bubble-Craze-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Bubble Craze Free and Experience Unique Gameplay' ### Meta set: 'Read our review of Bubble Craze and play for free to enjoy its unique gameplay mechanics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

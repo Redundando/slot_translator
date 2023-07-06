@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and exciting bonus feature",
+                    "Exciting bonus feature with free spins",
                     "High payout potential",
-                    "Detailed and colorful graphics",
-                    "Lively and engaging sound effects"
+                    "Visually appealing graphics and details",
+                    "Engaging and upbeat sound effects"
                 ],
                 "cons": [
-                    "Limited variety in symbols",
-                    "May be too similar to other Irish-themed slots"
+                    "Limited variety of symbols",
+                    "Theme may not appeal to everyone"
                 ],
-                "meta_title": "Play Leprechaun Goes Wild Free| Exciting Irish-themed Slot",
-                "meta_description": "Read our review of Leprechaun Goes Wild slot game. Play for free and enjoy the Irish folklore theme, bonus features, and high payout potential."
+                "meta_title": "Play Leprechaun Goes Wild for Free",
+                "meta_description": "Read our review of Leprechaun Goes Wild slot game and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Leprechaun Goes Wild\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nLeprechaun Goes Wild is a 5-reel, 4-row slot game that allows players to see up to twenty symbols per spin. The bonus mode is triggered by finding at least three Shamrock symbols (Scatter), and it includes a rotating shamrock that allows players to get a variable number of free spins, which can also be re-triggered during the mode. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous.\n\nGraphics and Sound Effects\n\nLeprechaun Goes Wild is a slot game that features vivid colors and details on the game grid and symbols. The game opens on the boundless green fields of Ireland with some carved and typically Celtic stones visible. A cheerful and upbeat music, made of percussion and string instruments, serves as the background, making the gameplay experience exciting and enjoyable.\n\nBonus Features\n\nLeprechaun Goes Wild's bonus feature is triggered by finding at least three Shamrock symbols (Scatter), and it includes a rotating shamrock that allows players to get a variable number of free spins, which can also be re-triggered during the mode. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous. This mode has quickly gained a fan base in the online slot sector.\n\nPayout Potential\n\nLeprechaun Goes Wild has a maximum payout of 10,000 times the player's bet size. The bonus mode, triggered by finding at least three Shamrock symbols (Scatter), can significantly increase the player's winnings. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous.\n\nTheme and Symbols\n\nLeprechaun Goes Wild's theme is Irish folklore, featuring the legendary figures of leprechauns. The symbols of the slot game are as Irish culture-inherent as we can find, including beer steins, pipes, horseshoes, pots overflowing with gold coins that leprechauns hide at the base of the rainbow, and the leprechaun himself smiling at us amiably but also a little mischievously.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Leprechaun Goes Wild\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nLeprechaun Goes Wild is a 5-reel, 4-row slot game that allows players to see up to twenty symbols per spin. The bonus mode is triggered by finding at least three Shamrock symbols (Scatter), and it includes a rotating shamrock that allows players to get a variable number of free spins, which can also be re-triggered during the mode. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous.\n\nGraphics and Sound Effects\n\nLeprechaun Goes Wild is a slot game that features vivid colors and details on the game grid and symbols. The game opens on the boundless green fields of Ireland with some carved and typically Celtic stones visible. A cheerful and upbeat music, made of percussion and string instruments, serves as the background, making the gameplay experience exciting and enjoyable.\n\nBonus Features\n\nLeprechaun Goes Wild's bonus feature is triggered by finding at least three Shamrock symbols (Scatter), and it includes a rotating shamrock that allows players to get a variable number of free spins, which can also be re-triggered during the mode. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous. This mode has quickly gained a fan base in the online slot sector.\n\nPayout Potential\n\nLeprechaun Goes Wild has a maximum payout of 10,000 times the player's bet size. The bonus mode, triggered by finding at least three Shamrock symbols (Scatter), can significantly increase the player's winnings. The leprechaun symbols, which play the role of Wild, will remain anchored inside the game grid, giving players the possibility of obtaining unusual winnings, especially in the final part of the function where symbols will be numerous.\n\nTheme and Symbols\n\nLeprechaun Goes Wild's theme is Irish folklore, featuring the legendary figures of leprechauns. The symbols of the slot game are as Irish culture-inherent as we can find, including beer steins, pipes, horseshoes, pots overflowing with gold coins that leprechauns hide at the base of the rainbow, and the leprechaun himself smiling at us amiably but also a little mischievously.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U0gRactb5v4sNqcOoXukhAraC35O",
+                "id": "chatcmpl-7WWK6hzlDpHzDJilU1ifDkg4FoV4I",
                 "object": "chat.completion",
-                "created": 1687386823,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985102,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fun and exciting bonus feature\",\n        \"High payout potential\",\n        \"Detailed and colorful graphics\",\n        \"Lively and engaging sound effects\"\n    ],\n    \"cons\": [\n        \"Limited variety in symbols\",\n        \"May be too similar to other Irish-themed slots\"\n    ],\n    \"meta_title\": \"Play Leprechaun Goes Wild Free| Exciting Irish-themed Slot\",\n    \"meta_description\": \"Read our review of Leprechaun Goes Wild slot game. Play for free and enjoy the Irish folklore theme, bonus features, and high payout potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting bonus feature with free spins\",\n    \"High payout potential\",\n    \"Visually appealing graphics and details\",\n    \"Engaging and upbeat sound effects\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"Theme may not appeal to everyone\"\n  ],\n  \"meta_title\": \"Play Leprechaun Goes Wild for Free\",\n  \"meta_description\": \"Read our review of Leprechaun Goes Wild slot game and play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 693,
-                    "completion_tokens": 127,
-                    "total_tokens": 820
+                    "prompt_tokens": 690,
+                    "completion_tokens": 108,
+                    "total_tokens": 798
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/leprechaun-goes-wild.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Leprechaun_Goes_0a11564b-5b8b-4604-a500-b6dc69388996_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_Leprechaun_Goes_0a11564b-5b8b-4604-a500-b6dc69388996_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Leprechaun_Goes_0a11564b-5b8b-4604-a500-b6dc69388996_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Leprechaun_Goes_0a11564b-5b8b-4604-a500-b6dc69388996_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Leprechaun Goes Wild (Version 1).webp",
+        "game_reviews/processed_images/Leprechaun Goes Wild (Version 3).webp",
+        "game_reviews/processed_images/Leprechaun Goes Wild (Version 4).webp",
+        "game_reviews/processed_images/Leprechaun Goes Wild (Version 2).webp"
+    ],
+    "slug": "leprechaun-goes-wild",
+    "name": "Leprechaun Goes Wild",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Leprechaun-Goes-Wild-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Leprechaun Goes Wild for Free' ### Meta set: 'Read our review of Leprechaun Goes Wild slot game and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

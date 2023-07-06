@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Mystery Symbol function for increased chances of winning",
-                    "Attractive and well-crafted graphics with theme-related symbols",
-                    "Standard structure with 5 reels and 10 lines",
+                    "Simple gameplay with a Mystery Symbol function",
+                    "Well-crafted graphics that stand out",
+                    "Symbols that reflect the alchemy theme",
                     "Chance to double winnings with a 50/50 game"
                 ],
                 "cons": [
-                    "Bonus feature is inconsistent",
-                    "50/50 game is risky for players"
+                    "Inconsistent bonus feature",
+                    "Risky 50/50 game"
                 ],
-                "meta_title": "Play Alchemist's Gold Slot for Free - Review & Features",
-                "meta_description": "Discover the alchemy-themed slot game Alchemist's Gold. Play for free and experience the Mystery Symbol function and chance to double winnings."
+                "meta_title": "Play Alchemist's Gold for Free",
+                "meta_description": "Read our review of Alchemist's Gold and play for free. Discover its features and gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Alchemist’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAlchemist's Gold slot game\n\nAlchemist's Gold is a modern-like slot game developed by Synot Games. The game has a standard structure of 5 reels and 10 lines, and revolves around the alchemy theme.\n\nGameplay and features\n\nAlchemist's Gold has a simple gameplay with a Mystery Symbol function that increases the chance of creating winning combinations. There is also a 50/50 game that allows players to double their winnings.\n\nGraphics and symbols\n\nThe graphics of Alchemist's Gold are well-crafted, which makes it stand out in the industry. The symbols reflect the theme of the game, ranging from playing cards to elements such as earth, air, fire, and water.\n\nMystery Symbol function\n\nAlchemist's Gold features a Mystery Symbol function that randomly selects and transforms into any other symbol, increasing the chances of winning. Although the bonus seems inconsistent, the moment it pays, it does so in a unique way.\n\nChance to double winnings\n\nPlayers have the chance to double their winnings with a 50/50 game that requires them to predict the color of a drawn card. This feature is risky, but it can lead to significant wins for those who get it right.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Alchemist’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAlchemist's Gold slot game\n\nAlchemist's Gold is a modern-like slot game developed by Synot Games. The game has a standard structure of 5 reels and 10 lines, and revolves around the alchemy theme.\n\nGameplay and features\n\nAlchemist's Gold has a simple gameplay with a Mystery Symbol function that increases the chance of creating winning combinations. There is also a 50/50 game that allows players to double their winnings.\n\nGraphics and symbols\n\nThe graphics of Alchemist's Gold are well-crafted, which makes it stand out in the industry. The symbols reflect the theme of the game, ranging from playing cards to elements such as earth, air, fire, and water.\n\nMystery Symbol function\n\nAlchemist's Gold features a Mystery Symbol function that randomly selects and transforms into any other symbol, increasing the chances of winning. Although the bonus seems inconsistent, the moment it pays, it does so in a unique way.\n\nChance to double winnings\n\nPlayers have the chance to double their winnings with a 50/50 game that requires them to predict the color of a drawn card. This feature is risky, but it can lead to significant wins for those who get it right.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SUVNQZnnqcqBqOBiglaWk5ZAdSaL",
+                "id": "chatcmpl-7WLpbrHkoPhWCGvAsG3KUdTgyUo1v",
                 "object": "chat.completion",
-                "created": 1687024801,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 421,
-                    "completion_tokens": 141,
-                    "total_tokens": 562
-                },
+                "created": 1687944771,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Mystery Symbol function for increased chances of winning\",\n        \"Attractive and well-crafted graphics with theme-related symbols\",\n        \"Standard structure with 5 reels and 10 lines\",\n        \"Chance to double winnings with a 50/50 game\"\n    ],\n    \"cons\": [\n        \"Bonus feature is inconsistent\",\n        \"50/50 game is risky for players\"\n    ],\n    \"meta_title\": \"Play Alchemist's Gold Slot for Free - Review & Features\",\n    \"meta_description\": \"Discover the alchemy-themed slot game Alchemist's Gold. Play for free and experience the Mystery Symbol function and chance to double winnings.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Simple gameplay with a Mystery Symbol function\",\n      \"Well-crafted graphics that stand out\",\n      \"Symbols that reflect the alchemy theme\",\n      \"Chance to double winnings with a 50/50 game\"\n   ],\n   \"cons\": [\n      \"Inconsistent bonus feature\",\n      \"Risky 50/50 game\"\n   ],\n   \"meta_title\": \"Play Alchemist's Gold for Free\",\n   \"meta_description\": \"Read our review of Alchemist's Gold and play for free. Discover its features and gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 419,
+                    "completion_tokens": 117,
+                    "total_tokens": 536
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/alchemists-gold.json",
     "raw_feature_images": [
-        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_1.png",
         "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_2.png",
-        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_4.png",
-        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_3.png"
+        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_1.png",
+        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_3.png",
+        "arved__Please_create_a_feature_image_for_the_game_Alchemists_Go_086e5f81-eda7-46bf-8e45-c1e9cebca31e_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Alchemists Gold (Version 4).webp",
         "game_reviews/processed_images/Alchemists Gold (Version 2).webp",
         "game_reviews/processed_images/Alchemists Gold (Version 1).webp",
+        "game_reviews/processed_images/Alchemists Gold (Version 4).webp",
         "game_reviews/processed_images/Alchemists Gold (Version 3).webp"
-    ]
+    ],
+    "slug": "alchemists-gold",
+    "name": "Alchemist’s Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Alchemists-Gold-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Alchemist's Gold for Free' ### Meta set: 'Read our review of Alchemist's Gold and play for free. Discover its features and gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "Page already has content"
 }

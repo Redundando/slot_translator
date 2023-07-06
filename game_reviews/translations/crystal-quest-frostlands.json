@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and design",
-                    "Exciting game features",
-                    "Great story-telling",
-                    "4096 ways to win"
+                    "Beautifully designed slot game with high-quality graphics",
+                    "Interesting story and theme with a warrior fighting against demons",
+                    "Impressive 6x4 grid and 4096 ways to win",
+                    "Thrilling game features including cascading reels, Scatters, Wilds, and bonus rounds"
                 ],
                 "cons": [
-                    "High volatility",
-                    "Bonus round difficult to trigger"
+                    "High volatility may not be suitable for all players",
+                    "Limited betting range with a maximum bet limit of €100 per spin"
                 ],
-                "meta_title": "Play Crystal Quest Frostlands for Free - Exciting Slot Game",
-                "meta_description": "Read our review of Crystal Quest Frostlands and play for free. Exciting features with a chance to win big with cascading reels, Scatters, and Wilds."
+                "meta_title": "Play Crystal Quest Frostlands for Free",
+                "meta_description": "Read our review of Crystal Quest Frostlands and play this thrilling slot game for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Crystal Quest Frostlands\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCrystal Quest Frostlands gameplay\n\nCrystal Quest Frostlands is a beautifully designed slot game with an interesting story that features a warrior fighting against demonic yeti. The game has a snowy landscape with crystals falling from above in a cascading reels style. This game features a 6x4 grid and an impressive 4096 ways to win.\n\nWinning opportunities and maximum win\n\nThe game offers players a chance to win big with a maximum win of 15,000 times the bet. Although the volatility is high, the RTP value is 96.16%. The game features three different sizes of symbols, each with different values, with the warrior being the highest paying.\n\nBetting range\n\nCrystal Quest Frostlands is suitable for all players with a minimum betting amount of €0.10 and a maximum bet limit of €100 per spin. The AutoPlay setting allows up to 5,000 automatic spins.\n\nGame features: cascading reels, Scatters, Wilds, bonus round\n\nThe game features cascading reels whereby all symbols on winning lines or reels disappear, and new symbols replace them. The game also has Scatter symbols that offer 3 free spins each and a Wild symbol that substitutes all other symbols except the Scatter. During gameplay, when there is a Wild symbol present, all symbols on that line or reel will be destroyed, excluding the Scatter. This will reset the cascading reel mechanism, but it offers a higher potential for additional wins as new symbols replace removed ones. Lastly, there is a bonus game that players can access by landing 3 or more Scatter symbols on the reels. In the bonus round, the multiplier does not reset, and the player can access extra free spins by landing just one Scatter symbol.\n\nOverall game quality and design\n\nCrystal Quest Frostlands is an impressive game that stands out from other slot games with its high-quality design and graphics. The game offers great story-telling with its adventurous warrior fighting against demons. The crystal-clear ice blocks falling from above add to the game's beauty, making it visually appealing. The game features several thrilling options, including cascading reels, Scatters, Wilds, and a bonus game that makes it a well-rounded and exciting game to play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Crystal Quest Frostlands\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCrystal Quest Frostlands gameplay\n\nCrystal Quest Frostlands is a beautifully designed slot game with an interesting story that features a warrior fighting against demonic yeti. The game has a snowy landscape with crystals falling from above in a cascading reels style. This game features a 6x4 grid and an impressive 4096 ways to win.\n\nWinning opportunities and maximum win\n\nThe game offers players a chance to win big with a maximum win of 15,000 times the bet. Although the volatility is high, the RTP value is 96.16%. The game features three different sizes of symbols, each with different values, with the warrior being the highest paying.\n\nBetting range\n\nCrystal Quest Frostlands is suitable for all players with a minimum betting amount of €0.10 and a maximum bet limit of €100 per spin. The AutoPlay setting allows up to 5,000 automatic spins.\n\nGame features: cascading reels, Scatters, Wilds, bonus round\n\nThe game features cascading reels whereby all symbols on winning lines or reels disappear, and new symbols replace them. The game also has Scatter symbols that offer 3 free spins each and a Wild symbol that substitutes all other symbols except the Scatter. During gameplay, when there is a Wild symbol present, all symbols on that line or reel will be destroyed, excluding the Scatter. This will reset the cascading reel mechanism, but it offers a higher potential for additional wins as new symbols replace removed ones. Lastly, there is a bonus game that players can access by landing 3 or more Scatter symbols on the reels. In the bonus round, the multiplier does not reset, and the player can access extra free spins by landing just one Scatter symbol.\n\nOverall game quality and design\n\nCrystal Quest Frostlands is an impressive game that stands out from other slot games with its high-quality design and graphics. The game offers great story-telling with its adventurous warrior fighting against demons. The crystal-clear ice blocks falling from above add to the game's beauty, making it visually appealing. The game features several thrilling options, including cascading reels, Scatters, Wilds, and a bonus game that makes it a well-rounded and exciting game to play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Syk3JZKnFYyat1e5CpnygKHUs1Qu",
+                "id": "chatcmpl-7WQipn1b3aLJwdpNiGZtcPUBgzzQs",
                 "object": "chat.completion",
-                "created": 1687141031,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 120,
-                    "total_tokens": 743
-                },
+                "created": 1687963571,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Impressive graphics and design\",\n    \"Exciting game features\",\n    \"Great story-telling\",\n    \"4096 ways to win\"\n  ],\n  \"cons\": [\n    \"High volatility\",\n    \"Bonus round difficult to trigger\"\n  ],\n  \"meta_title\": \"Play Crystal Quest Frostlands for Free - Exciting Slot Game\",\n  \"meta_description\": \"Read our review of Crystal Quest Frostlands and play for free. Exciting features with a chance to win big with cascading reels, Scatters, and Wilds.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautifully designed slot game with high-quality graphics\",\n    \"Interesting story and theme with a warrior fighting against demons\",\n    \"Impressive 6x4 grid and 4096 ways to win\",\n    \"Thrilling game features including cascading reels, Scatters, Wilds, and bonus rounds\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suitable for all players\",\n    \"Limited betting range with a maximum bet limit of €100 per spin\"\n  ],\n  \"meta_title\": \"Play Crystal Quest Frostlands for Free\",\n  \"meta_description\": \"Read our review of Crystal Quest Frostlands and play this thrilling slot game for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 620,
+                    "completion_tokens": 145,
+                    "total_tokens": 765
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_4.png",
         "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_3.png",
+        "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_2.png",
         "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_1.png",
-        "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_2.png"
+        "arved__Create_a_feature_image_fitting_Crystal_Quest_Frostlands__7aa68307-0f6c-4841-9723-149770eab467_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Crystal Quest Frostlands (Version 3).webp",
-        "game_reviews/processed_images/Crystal Quest Frostlands (Version 1).webp",
         "game_reviews/processed_images/Crystal Quest Frostlands (Version 4).webp",
-        "game_reviews/processed_images/Crystal Quest Frostlands (Version 2).webp"
+        "game_reviews/processed_images/Crystal Quest Frostlands (Version 1).webp",
+        "game_reviews/processed_images/Crystal Quest Frostlands (Version 2).webp",
+        "game_reviews/processed_images/Crystal Quest Frostlands (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/crystal-quest-frostlands.json"
+    "filename": "game_reviews/translations/crystal-quest-frostlands.json",
+    "slug": "crystal-quest-frostlands",
+    "name": "Crystal Quest Frostlands",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crystal-Quest-Frostlands-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crystal Quest Frostlands for Free' ### Meta set: 'Read our review of Crystal Quest Frostlands and play this thrilling slot game for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

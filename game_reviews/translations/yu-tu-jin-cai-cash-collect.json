@@ -580,40 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautifully executed game symbols",
-                    "Special Cash Collect feature for multipliers",
-                    "Impressive four-tiered jackpot available",
-                    "Stunning Asian-inspired graphics"
+                    "Simple and easy-to-understand gameplay mechanics",
+                    "Stunning graphics that capture the essence of the slot",
+                    "Special features with multiplier and free spins",
+                    "Impressive jackpot tiers for big wins"
                 ],
                 "cons": [
-                    "Low RTP at only 94.9%",
-                    "Not available for players in certain countries"
+                    "RTP of 94.9% detracts from the overall experience"
                 ],
-                "meta_title": "Play Yu Tu Jin Cai Cash Collect Slot for Free | Review",
-                "meta_description": "Try out Yu Tu Jin Cai Cash Collect for free today. We review this Asian-inspired slot with stunning graphics, special features, and big jackpots."
+                "meta_title": "Play Yu Tu Jin Cai Cash Collect Free | Review",
+                "meta_description": "Play Yu Tu Jin Cai Cash Collect for free and discover its stunning graphics and special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Yu Tu Jin Cai Cash Collect\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nYu Tu Jin Cai Cash Collect has a classic structure of 5 reels, 3 rows, and 30 paylines, with a minimum bet of only 0.10€. The game is simple and easy to understand, with stunning graphics that perfectly capture the essence of the slot.\n\nGame Symbols\n\nThe symbols in the game are all beautifully executed to immerse players in the experience. The Asian-themed symbols include a lotus flower, a typical fish, a golden turtle, and a frog holding a coin in its mouth. The wild symbol is an unusual rabbit that can replace any other symbol except the Cash Collect symbol.\n\nSpecial Features\n\nThe Cash Collect symbol has its own monetary value attached to it, which can be multiplied by 6x to 180x. When it stops on the fifth reel in the base game, the corresponding function is activated, allowing players to multiply the value of the symbol that matches the grid. The free spins feature is linked to the Cash Collect symbol, and the coin symbol awards the number of free spins that the player receives. During the special feature, the Cash Collect symbol sticks to the reels and can only move to the left.\n\nJackpot Tiers\n\nYu Tu Jin Cai Cash Collect has an impressive jackpot available in four tiers: Grand with a value of 500x, Major with 200x, Minor with 50x, and Mini with 20x. Players have the chance to win big if they are lucky enough to hit the jackpot.\n\nTheme and Graphics\n\nThe Asian culture theme of Yu Tu Jin Cai Cash Collect is executed with refined and elegant graphics. The symbols and background images are all designed to immerse players in a nostalgic and immersive world. Only the RTP of 94.9% detracts from the overall experience, making it worth trying out for its many special features and the chance at hitting one of the jackpots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Yu Tu Jin Cai Cash Collect\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nYu Tu Jin Cai Cash Collect has a classic structure of 5 reels, 3 rows, and 30 paylines, with a minimum bet of only 0.10€. The game is simple and easy to understand, with stunning graphics that perfectly capture the essence of the slot.\n\nGame Symbols\n\nThe symbols in the game are all beautifully executed to immerse players in the experience. The Asian-themed symbols include a lotus flower, a typical fish, a golden turtle, and a frog holding a coin in its mouth. The wild symbol is an unusual rabbit that can replace any other symbol except the Cash Collect symbol.\n\nSpecial Features\n\nThe Cash Collect symbol has its own monetary value attached to it, which can be multiplied by 6x to 180x. When it stops on the fifth reel in the base game, the corresponding function is activated, allowing players to multiply the value of the symbol that matches the grid. The free spins feature is linked to the Cash Collect symbol, and the coin symbol awards the number of free spins that the player receives. During the special feature, the Cash Collect symbol sticks to the reels and can only move to the left.\n\nJackpot Tiers\n\nYu Tu Jin Cai Cash Collect has an impressive jackpot available in four tiers: Grand with a value of 500x, Major with 200x, Minor with 50x, and Mini with 20x. Players have the chance to win big if they are lucky enough to hit the jackpot.\n\nTheme and Graphics\n\nThe Asian culture theme of Yu Tu Jin Cai Cash Collect is executed with refined and elegant graphics. The symbols and background images are all designed to immerse players in a nostalgic and immersive world. Only the RTP of 94.9% detracts from the overall experience, making it worth trying out for its many special features and the chance at hitting one of the jackpots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QMiLO81GW3kwG8RuauLiKfKjz3AZ",
+                "id": "chatcmpl-7WiL6BuhjCynvGWRjSqiJEYaPugD4",
                 "object": "chat.completion",
-                "created": 1686518197,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 569,
-                    "completion_tokens": 133,
-                    "total_tokens": 702
-                },
+                "created": 1688031292,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautifully executed game symbols\",\n        \"Special Cash Collect feature for multipliers\",\n        \"Impressive four-tiered jackpot available\",\n        \"Stunning Asian-inspired graphics\"\n    ],\n    \"cons\": [\n        \"Low RTP at only 94.9%\",\n        \"Not available for players in certain countries\"\n    ],\n    \"meta_title\": \"Play Yu Tu Jin Cai Cash Collect Slot for Free | Review\",\n    \"meta_description\": \"Try out Yu Tu Jin Cai Cash Collect for free today. We review this Asian-inspired slot with stunning graphics, special features, and big jackpots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and easy-to-understand gameplay mechanics\",\n    \"Stunning graphics that capture the essence of the slot\",\n    \"Special features with multiplier and free spins\",\n    \"Impressive jackpot tiers for big wins\"\n  ],\n  \"cons\": [\n    \"RTP of 94.9% detracts from the overall experience\"\n  ],\n  \"meta_title\": \"Play Yu Tu Jin Cai Cash Collect Free | Review\",\n  \"meta_description\": \"Play Yu Tu Jin Cai Cash Collect for free and discover its stunning graphics and special features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 566,
+                    "completion_tokens": 121,
+                    "total_tokens": 687
+                }
             }
         },
         {
@@ -812,6 +811,30 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_f001efa2-298d-4780-a952-9aa604569b17_3.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_84dc6eba-4c13-473f-a761-4d18080a7ea0_3.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_84dc6eba-4c13-473f-a761-4d18080a7ea0_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_84dc6eba-4c13-473f-a761-4d18080a7ea0_1.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_f001efa2-298d-4780-a952-9aa604569b17_2.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_84dc6eba-4c13-473f-a761-4d18080a7ea0_4.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_f001efa2-298d-4780-a952-9aa604569b17_1.png",
+        "arved__Prompt_Please_create_a_cartoon-style_feature_image_for_Y_f001efa2-298d-4780-a952-9aa604569b17_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Yu Tu Jin Cai Cash Collect (Version 8).webp",
+        "game_reviews/processed_images/Yu Tu Jin Cai Cash Collect (Version 5).webp",
+        "game_reviews/processed_images/Yu Tu Jin Cai Cash Collect (Version 6).webp",
+        "game_reviews/processed_images/Yu Tu Jin Cai Cash Collect (Version 7).webp"
+    ],
+    "filename": "game_reviews/translations/yu-tu-jin-cai-cash-collect.json",
+    "slug": "yu-tu-jin-cai-cash-collect",
+    "name": "Yu Tu Jin Cai Cash Collect",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Yu-Tu-Jin-Cai-Cash-Collect-Version-7-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Yu Tu Jin Cai Cash Collect Free | Review' ### Meta set: 'Play Yu Tu Jin Cai Cash Collect for free and discover its stunning graphics and special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

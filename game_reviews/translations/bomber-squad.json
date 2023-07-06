@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Thrilling storyline and well-designed symbols",
-                    "Customizable gameplay experience",
-                    "Five bonus options and progressive jackpot",
-                    "1024 ways to win and potential for big payouts"
+                    "Cartoonish symbols drawn in detail",
+                    "Thrilling criminal storyline",
+                    "1024 ways to win",
+                    "Customizable gameplay options"
                 ],
                 "cons": [
-                    "RTP slightly lower than some other online slot games",
-                    "Minimum bet may be too high for some players"
+                    "RTP value is within the average range",
+                    "Limited bonus symbols"
                 ],
-                "meta_title": "Play Bomber Squad Free: Unique 5-Reel Slot with Progressive Jackpot",
-                "meta_description": "Read a review of Bomber Squad, a five-reel online slot with 1024 ways to win, a thrilling storyline, and a unique bank robbery theme. Play for free now!"
+                "meta_title": "Play Bomber Squad | Free Slot Game",
+                "meta_description": "Read our review of Bomber Squad and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Bomber Squad\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Design\n\nBomber Squad is a 5-reel, 3-row slot game hosted by SimplePlay. The cartoonish symbols include various characters with guns, money bags, and explosives drawn in detail. The game has a thrilling criminal storyline that makes the gameplay even more entertaining. With 1024 ways to win, it is easy to form winning combinations with each spin.\n\nBetting Options and Payouts\n\nThe minimum bet for Bomber Squad is 0.20 coins, but players can increase their bets up to 10 levels. The payouts can reach up to 800 times the initial bet, making this game a perfect choice for high-risk high-reward enthusiasts. The jackpot is progressive and players can also win big during the free spins rounds. Keep in mind that the RTP value is 94.35%, which is within the average range for online slot games.\n\nSymbol Types and Values\n\nWith a total of 11 regular symbols and 2 bonus symbols, Bomber Squad has a good variety of ways to win. The lower-paying symbols are the standard card symbols ranging from 9 to Ace. On the other hand, symbols such as stack of cash, explosive bags, and guns give the opportunity for bigger payouts. The Wild symbol represented by the dynamite can substitute any other symbol except for the Scatter. The Scatter symbol is the vault door, which needs to be adjacent to other symbols to trigger the bonus rounds.\n\nBonus Features and Free Spins\n\nBefore commencing the Free Spins, players can choose from five different bonus options with their own set of multipliers and free spins. In addition to the bonus features, the game also offers a randomly awarded progressive jackpot. The Wild symbol represented by the dynamite can substitute any other symbol except for the Scatter. The Scatter symbol is the vault door and needs to be adjacent to other symbols to trigger the bonus rounds. Players can earn free spins by landing 3 or more Scatter symbols, with potential for big wins.\n\nOverall Gameplay Experience\n\nBomber Squad provides a thrilling and customizable gaming experience. With its unique storyline and well-designed symbols, players are transported into the chaotic world of a bank robbery. The game offers customization options such as the ability to set up free spins and adjust the speed of the reels, making it a perfect choice for players who like to tailor their gameplay experience. Whether you are an experienced gambler or a beginner, Bomber Squad is a great slot game that is definitely worth trying.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Bomber Squad\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Layout and Design\n\nBomber Squad is a 5-reel, 3-row slot game hosted by SimplePlay. The cartoonish symbols include various characters with guns, money bags, and explosives drawn in detail. The game has a thrilling criminal storyline that makes the gameplay even more entertaining. With 1024 ways to win, it is easy to form winning combinations with each spin.\n\nBetting Options and Payouts\n\nThe minimum bet for Bomber Squad is 0.20 coins, but players can increase their bets up to 10 levels. The payouts can reach up to 800 times the initial bet, making this game a perfect choice for high-risk high-reward enthusiasts. The jackpot is progressive and players can also win big during the free spins rounds. Keep in mind that the RTP value is 94.35%, which is within the average range for online slot games.\n\nSymbol Types and Values\n\nWith a total of 11 regular symbols and 2 bonus symbols, Bomber Squad has a good variety of ways to win. The lower-paying symbols are the standard card symbols ranging from 9 to Ace. On the other hand, symbols such as stack of cash, explosive bags, and guns give the opportunity for bigger payouts. The Wild symbol represented by the dynamite can substitute any other symbol except for the Scatter. The Scatter symbol is the vault door, which needs to be adjacent to other symbols to trigger the bonus rounds.\n\nBonus Features and Free Spins\n\nBefore commencing the Free Spins, players can choose from five different bonus options with their own set of multipliers and free spins. In addition to the bonus features, the game also offers a randomly awarded progressive jackpot. The Wild symbol represented by the dynamite can substitute any other symbol except for the Scatter. The Scatter symbol is the vault door and needs to be adjacent to other symbols to trigger the bonus rounds. Players can earn free spins by landing 3 or more Scatter symbols, with potential for big wins.\n\nOverall Gameplay Experience\n\nBomber Squad provides a thrilling and customizable gaming experience. With its unique storyline and well-designed symbols, players are transported into the chaotic world of a bank robbery. The game offers customization options such as the ability to set up free spins and adjust the speed of the reels, making it a perfect choice for players who like to tailor their gameplay experience. Whether you are an experienced gambler or a beginner, Bomber Squad is a great slot game that is definitely worth trying.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SiCN2TD3fmUcaxcplqrXbS0NRsPG",
+                "id": "chatcmpl-7WOgLC6IQB68ct9LAWOG8AoF68SJW",
                 "object": "chat.completion",
-                "created": 1687077439,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 680,
-                    "completion_tokens": 149,
-                    "total_tokens": 829
-                },
+                "created": 1687955729,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Thrilling storyline and well-designed symbols\",\n      \"Customizable gameplay experience\",\n      \"Five bonus options and progressive jackpot\",\n      \"1024 ways to win and potential for big payouts\"\n   ],\n   \"cons\": [\n      \"RTP slightly lower than some other online slot games\",\n      \"Minimum bet may be too high for some players\"\n   ],\n   \"meta_title\": \"Play Bomber Squad Free: Unique 5-Reel Slot with Progressive Jackpot\",\n   \"meta_description\": \"Read a review of Bomber Squad, a five-reel online slot with 1024 ways to win, a thrilling storyline, and a unique bank robbery theme. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cartoonish symbols drawn in detail\",\n    \"Thrilling criminal storyline\",\n    \"1024 ways to win\",\n    \"Customizable gameplay options\"\n  ],\n  \"cons\": [\n    \"RTP value is within the average range\",\n    \"Limited bonus symbols\"\n  ],\n  \"meta_title\": \"Play Bomber Squad | Free Slot Game\",\n  \"meta_description\": \"Read our review of Bomber Squad and play this exciting slot game for free.\",\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 677,
+                    "completion_tokens": 103,
+                    "total_tokens": 780
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/bomber-squad.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_2.png",
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_3.png",
         "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_1.png",
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_4.png"
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_2.png",
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_4.png",
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__d6735c58-7574-48ff-a871-8a200f333448_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Bomber Squad (Version 2).webp",
         "game_reviews/processed_images/Bomber Squad (Version 3).webp",
+        "game_reviews/processed_images/Bomber Squad (Version 2).webp",
         "game_reviews/processed_images/Bomber Squad (Version 4).webp",
         "game_reviews/processed_images/Bomber Squad (Version 1).webp"
-    ]
+    ],
+    "slug": "bomber-squad",
+    "name": "Bomber Squad",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bomber-Squad-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Bomber Squad | Free Slot Game' ### Meta set: 'Read our review of Bomber Squad and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

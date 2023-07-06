@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cascade structure can lead to big payouts",
-                    "Multiple bonuses and free spins available",
-                    "Impeccable graphics and excellent soundtrack",
-                    "Large symbols make for easier gameplay"
+                    "Cascade structure adds excitement to gameplay",
+                    "Free Spins feature with potential for big payouts",
+                    "Impressive visual design and theme",
+                    "Large symbols for easier gameplay"
                 ],
                 "cons": [
-                    "Only 20 fixed paylines",
+                    "Limited number of paylines",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Mayan Treasure Free: Impeccable Graphics and Multiple Bonuses",
-                "meta_description": "Discover Mayan Treasure, an online slot game set in ancient Mexico. Earn big payouts with cascading symbols and special bonuses. Play for free now!"
+                "meta_title": "Play Mayan Treasure for Free",
+                "meta_description": "Read our review of Mayan Treasure and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mayan Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Treasure Gameplay Mechanics and Structure\n\nMayan Treasure is a traditional slot game with a 5-reel, 3-row grid and 20 fixed paylines. The game features a cascade structure, where winning combinations disappear and are replaced by new symbols. The game only ends when new paying combinations are no longer available. Winning combinations form by matching identical symbols from the first reel to the right. Autoplay and Quick Spin are additional functions available.\n\nSymbols and Their Values\n\nThere are nine base symbols in Mayan Treasure, divided into remunerative and non-remunerative. The playing cards are positioned at the lowest step of this ranking. Thematically appropriate symbols include the smoking pot, the two-headed snake, the dagger, the helmet, and the uroboros, with the latter paying out the highest sums. The payout for the uroboros is up to 500 times the bet.\n\nWild and Scatter Symbols\n\nThe golden shield is the Wild symbol, replacing all symbols except the Scatter. The Scatter is represented by the panther and is tied to the Bonus game. Three Scatter symbols reward the player with 5 Free Spins, four symbols give 10 Free Spins, and five symbols result in 15 Free Spins.\n\nFree Spin and Bonus Features\n\nMayan Treasure provides five, ten, or 15 Free Spins when three, four, or five Scatter symbols appear, respectively. The warrior is a special symbol that destroys all symbols on the third reel and the central line, replacing them with new symbols. This feature can only occur on the third reel and can result in significant payouts.\n\nVisual Design and Theme\n\nMayan Treasure is set in ancient Mexico and features symbols typical of pre-Columbian societies. The game grid is set in front of an ancient temple entrance, supported by two pillars surmounted by statues of two panthers. The graphics are impeccable, and the musical composition is excellent, with an option to disable the jingle. The game's large symbols make gameplay easier.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mayan Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Treasure Gameplay Mechanics and Structure\n\nMayan Treasure is a traditional slot game with a 5-reel, 3-row grid and 20 fixed paylines. The game features a cascade structure, where winning combinations disappear and are replaced by new symbols. The game only ends when new paying combinations are no longer available. Winning combinations form by matching identical symbols from the first reel to the right. Autoplay and Quick Spin are additional functions available.\n\nSymbols and Their Values\n\nThere are nine base symbols in Mayan Treasure, divided into remunerative and non-remunerative. The playing cards are positioned at the lowest step of this ranking. Thematically appropriate symbols include the smoking pot, the two-headed snake, the dagger, the helmet, and the uroboros, with the latter paying out the highest sums. The payout for the uroboros is up to 500 times the bet.\n\nWild and Scatter Symbols\n\nThe golden shield is the Wild symbol, replacing all symbols except the Scatter. The Scatter is represented by the panther and is tied to the Bonus game. Three Scatter symbols reward the player with 5 Free Spins, four symbols give 10 Free Spins, and five symbols result in 15 Free Spins.\n\nFree Spin and Bonus Features\n\nMayan Treasure provides five, ten, or 15 Free Spins when three, four, or five Scatter symbols appear, respectively. The warrior is a special symbol that destroys all symbols on the third reel and the central line, replacing them with new symbols. This feature can only occur on the third reel and can result in significant payouts.\n\nVisual Design and Theme\n\nMayan Treasure is set in ancient Mexico and features symbols typical of pre-Columbian societies. The game grid is set in front of an ancient temple entrance, supported by two pillars surmounted by statues of two panthers. The graphics are impeccable, and the musical composition is excellent, with an option to disable the jingle. The game's large symbols make gameplay easier.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U6r8R7itdE1JMeb4GvIjHpWEV1bA",
+                "id": "chatcmpl-7WXNwi6W8tiODjFEFFpYh0gtpUpa9",
                 "object": "chat.completion",
-                "created": 1687410550,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989184,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Cascade structure can lead to big payouts\",\n        \"Multiple bonuses and free spins available\",\n        \"Impeccable graphics and excellent soundtrack\",\n        \"Large symbols make for easier gameplay\"\n    ],\n    \"cons\": [\n        \"Only 20 fixed paylines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Mayan Treasure Free: Impeccable Graphics and Multiple Bonuses\",\n    \"meta_description\": \"Discover Mayan Treasure, an online slot game set in ancient Mexico. Earn big payouts with cascading symbols and special bonuses. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cascade structure adds excitement to gameplay\",\n    \"Free Spins feature with potential for big payouts\",\n    \"Impressive visual design and theme\",\n    \"Large symbols for easier gameplay\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Mayan Treasure for Free\",\n  \"meta_description\": \"Read our review of Mayan Treasure and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 585,
-                    "completion_tokens": 131,
-                    "total_tokens": 716
+                    "prompt_tokens": 582,
+                    "completion_tokens": 105,
+                    "total_tokens": 687
                 }
             }
         },
@@ -815,5 +815,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mayan-treasure.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_fitting_the_theme_of_Mayan_e44f39d7-4b13-405e-9b6c-4fe54e7a7db3_2.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_theme_of_Mayan_e44f39d7-4b13-405e-9b6c-4fe54e7a7db3_3.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_theme_of_Mayan_e44f39d7-4b13-405e-9b6c-4fe54e7a7db3_1.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_theme_of_Mayan_e44f39d7-4b13-405e-9b6c-4fe54e7a7db3_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mayan Treasure (Version 3).webp",
+        "game_reviews/processed_images/Mayan Treasure (Version 2).webp",
+        "game_reviews/processed_images/Mayan Treasure (Version 4).webp",
+        "game_reviews/processed_images/Mayan Treasure (Version 1).webp"
+    ],
+    "slug": "mayan-treasure",
+    "name": "Mayan Treasure",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mayan-Treasure-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mayan Treasure for Free' ### Meta set: 'Read our review of Mayan Treasure and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

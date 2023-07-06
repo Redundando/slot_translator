@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful 3D graphics and special effects",
-                    "Three jackpots, including the Major jackpot",
-                    "Celestial King and Dragon symbols offer high payouts",
-                    "Asian-inspired theme and symbols"
+                    "Stunning 3D graphics and special effects",
+                    "Exciting Asian theme inspired by the legend of the Monkey King",
+                    "Three jackpots with the potential for big wins",
+                    "Wide betting range to suit all players"
                 ],
                 "cons": [
-                    "Betting range may not be suitable for low rollers",
-                    "No additional bonus features beyond free spins"
+                    "Higher jackpot only achievable with a minimum bet of €4",
+                    "Limited number of pay lines (25)"
                 ],
-                "meta_title": "Play Celestial King Free - Pros and Cons of Online Slot Game",
-                "meta_description": "Explore the Asian-inspired Celestial King slot game with stunning graphics and jackpots. Read our review and play free at top online casinos."
+                "meta_title": "Play Celestial King for Free - Exciting Asian-Themed Slot",
+                "meta_description": "Read our review of Celestial King, an Asian-themed slot game with stunning graphics. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Celestial King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCelestial King is a five-reel, three-row, and 25 pay line slot game with an Asian theme, inspired by the legend of the Monkey King. The game offers three jackpots and a betting range from €0.50 to €80. The RTP is 96%, and the game features a Wild symbol, represented by the Celestial King, and a Scatter symbol, represented by a Dragon.\n\nVisual design and theme\n\nCelestial King features stunning 3D graphics and special effects, set in an ethereal paradise with purple and golden clouds and mysterious pagodas surrounded by trees. The theme is inspired by classic Chinese literature, with the friendly green-eyed monkey, the Celestial King, accompanying the player throughout the game on one side of the reel grid.\n\nBetting range and RTP\n\nThe game offers a betting range from a minimum of €0.50 to a maximum of €80, with the possibility of betting up to 50 coins per spin. The theoretical return to player (RTP) of this fantastic game is 96%, on par with other online casino games.\n\nJackpots and winning potential\n\nCelestial King offers three jackpots, the Mini, Minor, and Major, with the latter being only achievable with a minimum bet of €4 and with a value of up to 5,000 times the initial bet. The Scatter symbol, represented by a Dragon, offers free spins and an immediate prize of up to 750 times the bet if appearing three, four, or five times on the reels.\n\nSymbol values and significance\n\nThe regular symbols of Celestial King feature Asian-style playing cards, lotus flowers, gold coins, a medal, a smiling pig, and a priestess. The latter has the highest value, offering up to 150 coins per pay line if properly aligned. The Wild symbol is represented by the Celestial King himself, offering up to 250 coins per pay line. The Scatter symbol, represented by a Dragon, offers free spins and an immediate prize of up to 750 times the bet if appearing three, four, or five times on the reels.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Celestial King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCelestial King is a five-reel, three-row, and 25 pay line slot game with an Asian theme, inspired by the legend of the Monkey King. The game offers three jackpots and a betting range from €0.50 to €80. The RTP is 96%, and the game features a Wild symbol, represented by the Celestial King, and a Scatter symbol, represented by a Dragon.\n\nVisual design and theme\n\nCelestial King features stunning 3D graphics and special effects, set in an ethereal paradise with purple and golden clouds and mysterious pagodas surrounded by trees. The theme is inspired by classic Chinese literature, with the friendly green-eyed monkey, the Celestial King, accompanying the player throughout the game on one side of the reel grid.\n\nBetting range and RTP\n\nThe game offers a betting range from a minimum of €0.50 to a maximum of €80, with the possibility of betting up to 50 coins per spin. The theoretical return to player (RTP) of this fantastic game is 96%, on par with other online casino games.\n\nJackpots and winning potential\n\nCelestial King offers three jackpots, the Mini, Minor, and Major, with the latter being only achievable with a minimum bet of €4 and with a value of up to 5,000 times the initial bet. The Scatter symbol, represented by a Dragon, offers free spins and an immediate prize of up to 750 times the bet if appearing three, four, or five times on the reels.\n\nSymbol values and significance\n\nThe regular symbols of Celestial King feature Asian-style playing cards, lotus flowers, gold coins, a medal, a smiling pig, and a priestess. The latter has the highest value, offering up to 150 coins per pay line if properly aligned. The Wild symbol is represented by the Celestial King himself, offering up to 250 coins per pay line. The Scatter symbol, represented by a Dragon, offers free spins and an immediate prize of up to 750 times the bet if appearing three, four, or five times on the reels.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Ssc4nyfq4UEAjgFhkNKgcjKfLvoS",
+                "id": "chatcmpl-7WQ05dG9C5oo3jhsNHH8ThCnEMH7z",
                 "object": "chat.completion",
-                "created": 1687117472,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 613,
-                    "completion_tokens": 138,
-                    "total_tokens": 751
-                },
+                "created": 1687960797,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautiful 3D graphics and special effects\",\n        \"Three jackpots, including the Major jackpot\",\n        \"Celestial King and Dragon symbols offer high payouts\",\n        \"Asian-inspired theme and symbols\"\n    ],\n    \"cons\": [\n        \"Betting range may not be suitable for low rollers\",\n        \"No additional bonus features beyond free spins\"\n    ],\n    \"meta_title\": \"Play Celestial King Free - Pros and Cons of Online Slot Game\",\n    \"meta_description\": \"Explore the Asian-inspired Celestial King slot game with stunning graphics and jackpots. Read our review and play free at top online casinos.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning 3D graphics and special effects\",\n    \"Exciting Asian theme inspired by the legend of the Monkey King\",\n    \"Three jackpots with the potential for big wins\",\n    \"Wide betting range to suit all players\"\n  ],\n  \"cons\": [\n    \"Higher jackpot only achievable with a minimum bet of €4\",\n    \"Limited number of pay lines (25)\"\n  ],\n  \"meta_title\": \"Play Celestial King for Free - Exciting Asian-Themed Slot\",\n  \"meta_description\": \"Read our review of Celestial King, an Asian-themed slot game with stunning graphics. Play now for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 610,
+                    "completion_tokens": 139,
+                    "total_tokens": 749
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_4.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_1.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_3.png",
         "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_2.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_3.png"
+        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_1.png",
+        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Celestial King (Version 4).webp",
         "game_reviews/processed_images/Celestial King (Version 3).webp",
         "game_reviews/processed_images/Celestial King (Version 1).webp",
+        "game_reviews/processed_images/Celestial King (Version 4).webp",
         "game_reviews/processed_images/Celestial King (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/celestial-king.json"
+    "filename": "game_reviews/translations/celestial-king.json",
+    "slug": "celestial-king",
+    "name": "Celestial King",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Celestial-King-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Celestial King for Free - Exciting Asian-Themed Slot' ### Meta set: 'Read our review of Celestial King, an Asian-themed slot game with stunning graphics. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

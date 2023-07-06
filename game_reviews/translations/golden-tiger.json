@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Clean and neat gaming experience",
-                    "Simple and minimalistic structure",
-                    "Double bonus wheel function offered",
-                    "Good RTP of 95.95%"
+                    "Simple and minimalistic design",
+                    "Straightforward winning potential",
+                    "Good Return to Player (RTP)"
                 ],
                 "cons": [
-                    "No Wilds, Scatters or special bonuses",
-                    "May be too simple for some players"
+                    "Lack of Wilds, Scatters, and bonus features",
+                    "May be too simple for players seeking advanced gameplay"
                 ],
-                "meta_title": "Play Golden Tiger Slot Free - Simple Gameplay & Big Wins",
-                "meta_description": "Play Golden Tiger slot online for free! Simple gameplay with 5 pay lines, bonus game, and RTP of 95.95%. Ideal for new players or those after a relaxed gaming experience."
+                "meta_title": "Play Golden Tiger - Free Online Slot Game",
+                "meta_description": "Play Golden Tiger for free and enjoy a simple and straightforward gaming experience."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Tiger\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nGolden Tiger online slot game has a simple design that offers the players a clean and neat gaming experience. The developer, iSoftBet, opted to present the game on a straightforward and minimalistic structure of three reels and five pay lines. The graphics are simply colored and appealing to the eye. Furthermore, the slot does not feature any fancy animation, sound effects, or detailed bonuses that distract players from the game's simplicity.\n\nPay Lines and Winning Potential\n\nGolden Tiger digital slot has five pay lines that offer the players the possibility to land different winning combinations. The game's developer did not include any Wilds, Scatters, or other unique symbols that trigger special bonuses. The game has a potential of winning up to 10,000 coins when the player hits winning combinations. Thus, the game's winning potential is relatively simple and straightforward.\n\nSymbols and Bonus Features\n\nGolden Tiger online slot game features several symbols with the most significant ones being the coins, gold lamps, and colored tigers. The game's most important symbol is the gold tiger, which unlocks the Golden Tiger Collection function where a double bonus wheel is activated. The bonus game offers a chance to win up to 10,000 coins. Golden Tiger online slot does not feature any Wilds or Scatters to help players land winning combinations anywhere on the reels. The game's simplicity lies in its winning combinations that trigger payouts.\n\nRTP (Return to Player)\n\nThe game has an RTP of 95.95%, which is a good return to the player for a slot game. The figure assures players that the game is fair and offers reasonable returns on their bets.\n\nTarget Audience\n\nGolden Tiger online slot game is ideal for players who prefer a simple and straightforward gaming experience. The game's minimalist design and few features make it easy to understand and play. It is a great option for beginners who want to learn the basics of slot games or experienced players looking for a game that offers them a relaxed gaming experience. Players who prefer games with fancy animations, sound effects, and special features may find Golden Tiger too simple for their taste.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Tiger\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nGolden Tiger online slot game has a simple design that offers the players a clean and neat gaming experience. The developer, iSoftBet, opted to present the game on a straightforward and minimalistic structure of three reels and five pay lines. The graphics are simply colored and appealing to the eye. Furthermore, the slot does not feature any fancy animation, sound effects, or detailed bonuses that distract players from the game's simplicity.\n\nPay Lines and Winning Potential\n\nGolden Tiger digital slot has five pay lines that offer the players the possibility to land different winning combinations. The game's developer did not include any Wilds, Scatters, or other unique symbols that trigger special bonuses. The game has a potential of winning up to 10,000 coins when the player hits winning combinations. Thus, the game's winning potential is relatively simple and straightforward.\n\nSymbols and Bonus Features\n\nGolden Tiger online slot game features several symbols with the most significant ones being the coins, gold lamps, and colored tigers. The game's most important symbol is the gold tiger, which unlocks the Golden Tiger Collection function where a double bonus wheel is activated. The bonus game offers a chance to win up to 10,000 coins. Golden Tiger online slot does not feature any Wilds or Scatters to help players land winning combinations anywhere on the reels. The game's simplicity lies in its winning combinations that trigger payouts.\n\nRTP (Return to Player)\n\nThe game has an RTP of 95.95%, which is a good return to the player for a slot game. The figure assures players that the game is fair and offers reasonable returns on their bets.\n\nTarget Audience\n\nGolden Tiger online slot game is ideal for players who prefer a simple and straightforward gaming experience. The game's minimalist design and few features make it easy to understand and play. It is a great option for beginners who want to learn the basics of slot games or experienced players looking for a game that offers them a relaxed gaming experience. Players who prefer games with fancy animations, sound effects, and special features may find Golden Tiger too simple for their taste.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TUJ28HaSHmfr7OuZAL5IYC4bIAaq",
+                "id": "chatcmpl-7WUCo2hLXNAgQbUuQSjz1vAhvAC1i",
                 "object": "chat.completion",
-                "created": 1687262364,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 599,
-                    "completion_tokens": 137,
-                    "total_tokens": 736
-                },
+                "created": 1687976962,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Clean and neat gaming experience\",\n      \"Simple and minimalistic structure\",\n      \"Double bonus wheel function offered\",\n      \"Good RTP of 95.95%\"\n   ],\n   \"cons\": [\n      \"No Wilds, Scatters or special bonuses\",\n      \"May be too simple for some players\"\n   ],\n   \"meta_title\": \"Play Golden Tiger Slot Free - Simple Gameplay & Big Wins\",\n   \"meta_description\": \"Play Golden Tiger slot online for free! Simple gameplay with 5 pay lines, bonus game, and RTP of 95.95%. Ideal for new players or those after a relaxed gaming experience.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Clean and neat gaming experience\",\n    \"Simple and minimalistic design\",\n    \"Straightforward winning potential\",\n    \"Good Return to Player (RTP)\"\n  ],\n  \"cons\": [\n    \"Lack of Wilds, Scatters, and bonus features\",\n    \"May be too simple for players seeking advanced gameplay\"\n  ],\n  \"meta_title\": \"Play Golden Tiger - Free Online Slot Game\",\n  \"meta_description\": \"Play Golden Tiger for free and enjoy a simple and straightforward gaming experience.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 596,
+                    "completion_tokens": 112,
+                    "total_tokens": 708
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-tiger.json"
+    "filename": "game_reviews/translations/golden-tiger.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Golden_T_1bbf5abb-3cb6-4e6c-b89a-8902b4b9f8cf_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Golden_T_1bbf5abb-3cb6-4e6c-b89a-8902b4b9f8cf_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Golden_T_1bbf5abb-3cb6-4e6c-b89a-8902b4b9f8cf_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Golden_T_1bbf5abb-3cb6-4e6c-b89a-8902b4b9f8cf_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Tiger (Version 3).webp",
+        "game_reviews/processed_images/Golden Tiger (Version 2).webp",
+        "game_reviews/processed_images/Golden Tiger (Version 1).webp",
+        "game_reviews/processed_images/Golden Tiger (Version 4).webp"
+    ],
+    "slug": "golden-tiger",
+    "name": "Golden Tiger",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Tiger-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Tiger - Free Online Slot Game' ### Meta set: 'Play Golden Tiger for free and enjoy a simple and straightforward gaming experience.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

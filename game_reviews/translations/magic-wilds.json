@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High winning potential with the Astral Projection feature",
+                    "Mysterious magician as the Wild symbol",
+                    "Astral Projection feature increases winning potential",
                     "Free Spins feature unlocks all 100 paylines",
-                    "The Magician as the Wild symbol increases overall payouts",
-                    "Betting range accommodates all types of players"
+                    "Wide betting range and average RTP percentage"
                 ],
                 "cons": [
-                    "RTP percentage is average compared to other online slots",
-                    "Limited variety of symbols on the reels"
+                    "Limited number of regular symbols",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Magic Wilds Free and Uncover the Mystery",
-                "meta_description": "Discover the magic of Magic Wilds and play for free. Get the full review on gameplay features, pros & cons, and betting range. Start playing now!"
+                "meta_title": "Play Magic Wilds Free - Exciting Gameplay Features",
+                "meta_description": "Read our review to learn more about the exciting gameplay features of Magic Wilds and play free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features of Magic Wilds\n\nMagic Wilds is a five-reel slot with 32 paylines in the base game and 100 paylines during the Free Spins feature. The game includes a mysterious magician as the Wild symbol. The magician lands in stacks, covers the entire reel and substitutes all regular symbols. The haunted wizard palace is the Scatter symbol that triggers the Free Spins feature. Dragon medallion and a book of spells are the main sources of magic. There are emerald, ruby, and diamond crystals, as well as various types of runes.\n\nThe Magician as the main character and Wild symbol\n\nThe Magician is the main character in Magic Wilds, and he transforms into the Wild every time he appears on the reels. He substitutes all regular symbols, increasing the chances of winning big. If the Magician appears stacked, he will replicate on random reels, thanks to the Astral Projection feature. This feature can transform the reels into wild reels, adding to the overall winning potential.\n\nAstral Projection feature and its effect on winning potential\n\nThe Astral Projection feature in Magic Wilds transforms the reels into wild reels, adding to the overall winning potential. Additionally, if the Magician appears stacked, he will replicate on random reels, increasing the chances of winning big. This feature can help increase the player's overall payout in the game.\n\nThe Free Spins feature and how it unlocks all 100 paylines\n\nMagic Wilds has a Free Spins feature, which is triggered by landing the haunted wizard palace scatter symbol. The maximum Free Spins expansion can go up to 8 cells high, increasing the chances of winning big. Once the feature has been triggered, all 100 paylines are unlocked, and players can take advantage of higher payouts.\n\nBetting range and RTP percentage\n\nPlayers can start with an initial bet of €0.10 and go up to €50 per spin. The RTP percentage for Magic Wilds is 95.3%, which is within the average range for online slot games. If players manage to get five wilds on a payline, they can win 15 times their bet, and all three gargoyles pay five times the bet for the maximum combination. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features of Magic Wilds\n\nMagic Wilds is a five-reel slot with 32 paylines in the base game and 100 paylines during the Free Spins feature. The game includes a mysterious magician as the Wild symbol. The magician lands in stacks, covers the entire reel and substitutes all regular symbols. The haunted wizard palace is the Scatter symbol that triggers the Free Spins feature. Dragon medallion and a book of spells are the main sources of magic. There are emerald, ruby, and diamond crystals, as well as various types of runes.\n\nThe Magician as the main character and Wild symbol\n\nThe Magician is the main character in Magic Wilds, and he transforms into the Wild every time he appears on the reels. He substitutes all regular symbols, increasing the chances of winning big. If the Magician appears stacked, he will replicate on random reels, thanks to the Astral Projection feature. This feature can transform the reels into wild reels, adding to the overall winning potential.\n\nAstral Projection feature and its effect on winning potential\n\nThe Astral Projection feature in Magic Wilds transforms the reels into wild reels, adding to the overall winning potential. Additionally, if the Magician appears stacked, he will replicate on random reels, increasing the chances of winning big. This feature can help increase the player's overall payout in the game.\n\nThe Free Spins feature and how it unlocks all 100 paylines\n\nMagic Wilds has a Free Spins feature, which is triggered by landing the haunted wizard palace scatter symbol. The maximum Free Spins expansion can go up to 8 cells high, increasing the chances of winning big. Once the feature has been triggered, all 100 paylines are unlocked, and players can take advantage of higher payouts.\n\nBetting range and RTP percentage\n\nPlayers can start with an initial bet of €0.10 and go up to €50 per spin. The RTP percentage for Magic Wilds is 95.3%, which is within the average range for online slot games. If players manage to get five wilds on a payline, they can win 15 times their bet, and all three gargoyles pay five times the bet for the maximum combination. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5KE0OEvRXT3me2v75YKdXmKBUXj",
+                "id": "chatcmpl-7WX8ZyfbujC5q65uabdp7AGnMqfah",
                 "object": "chat.completion",
-                "created": 1687404666,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988231,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High winning potential with the Astral Projection feature\",\n        \"Free Spins feature unlocks all 100 paylines\",\n        \"The Magician as the Wild symbol increases overall payouts\",\n        \"Betting range accommodates all types of players\"\n    ],\n    \"cons\": [\n        \"RTP percentage is average compared to other online slots\",\n        \"Limited variety of symbols on the reels\"\n    ],\n    \"meta_title\": \"Play Magic Wilds Free and Uncover the Mystery\",\n    \"meta_description\": \"Discover the magic of Magic Wilds and play for free. Get the full review on gameplay features, pros & cons, and betting range. Start playing now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Mysterious magician as the Wild symbol\",\n    \"Astral Projection feature increases winning potential\",\n    \"Free Spins feature unlocks all 100 paylines\",\n    \"Wide betting range and average RTP percentage\"\n  ],\n  \"cons\": [\n    \"Limited number of regular symbols\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Magic Wilds Free - Exciting Gameplay Features\",\n  \"meta_description\": \"Read our review to learn more about the exciting gameplay features of Magic Wilds and play free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 629,
-                    "completion_tokens": 146,
-                    "total_tokens": 775
+                    "prompt_tokens": 626,
+                    "completion_tokens": 117,
+                    "total_tokens": 743
                 }
             }
         },
@@ -815,5 +815,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-wilds.json",
+    "raw_feature_images": [
+        "arved__Create_a_Feature_Image_Prompt_Design_a_captivating_carto_a032bcdd-bfc5-4ed7-8b2d-391ed22e658c_3.png",
+        "arved__Create_a_Feature_Image_Prompt_Design_a_captivating_carto_a032bcdd-bfc5-4ed7-8b2d-391ed22e658c_2.png",
+        "arved__Create_a_Feature_Image_Prompt_Design_a_captivating_carto_a032bcdd-bfc5-4ed7-8b2d-391ed22e658c_1.png",
+        "arved__Create_a_Feature_Image_Prompt_Design_a_captivating_carto_a032bcdd-bfc5-4ed7-8b2d-391ed22e658c_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Wilds (Version 4).webp",
+        "game_reviews/processed_images/Magic Wilds (Version 3).webp",
+        "game_reviews/processed_images/Magic Wilds (Version 2).webp",
+        "game_reviews/processed_images/Magic Wilds (Version 1).webp"
+    ],
+    "slug": "magic-wilds",
+    "name": "Magic Wilds",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Wilds-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Wilds Free - Exciting Gameplay Features' ### Meta set: 'Read our review to learn more about the exciting gameplay features of Magic Wilds and play free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

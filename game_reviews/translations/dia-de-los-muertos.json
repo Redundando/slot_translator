@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique and colorful Mexican theme",
+                    "Unique Mexican theme",
+                    "Colorful and bright graphics",
                     "Incorporates technical features of classic slots",
-                    "Special functions: free spins and gamble",
-                    "Appealing graphics and symbols"
+                    "Special functions - free spins and gamble"
                 ],
                 "cons": [
                     "Lack of multiplier in free spin feature",
-                    "Some players may find the graphics and atmosphere unsettling"
+                    "Graphics of human characters may be frightening to some players"
                 ],
-                "meta_title": "Play Dia De Los Muertos Free: Colorful and Unique Slot Game",
-                "meta_description": "Read our review of Dia De Los Muertos, a colorful and unique slot game celebrating the Mexican tradition of Dia de Los Muertos. Play for free now!"
+                "meta_title": "Play Dia De Los Muertos for Free",
+                "meta_description": "Read our review of Dia De Los Muertos and play this colorful slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dia De Los Muertos\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDia De Los Muertos slot game\n\nDia De Los Muertos is a video slot game with 5 paylines arranged in a 3x3 display, produced by Endorphina. It takes place in Mexico and features colorful masks and symbols associated with the Dia de Los Muertos celebration.\n\nMexican theme\n\nThe game is inspired by the Mexican tradition of Dia de Los Muertos, a festival of the dead that is celebrated in the Mesoamerican region. The graphics of the slot machine include small skulls, stars, mustaches, flowers, and human characters, all very colorful and bright.\n\nTechnical features of classic slots\n\nDia De Los Muertos incorporates some of the technical features of classic slots, having only 3 reels. However, it still has some special functions that make it unique compared to other classic slots.\n\nSpecial functions - free spins and gamble\n\nThe game has two special functions: free spins and gamble. The scatter symbol triggers the free spin feature which provides the player with 20 free spins if 3 or more scatters are displayed in the same spin. The gamble feature allows players to play a game of the highest card against an automatic dealer at the end of each winning spin. Players can double their winnings up to 10 consecutive times.\n\nLack of multiplier in free spin feature\n\nThe game lacks a multiplier in the free spin feature, which could make it less exciting for some players. Additionally, some players may find the graphics of the human characters frightening and the overall atmosphere a bit too dark. However, the graphics of the slot machine, especially the colorful skulls, are still very unique and appealing.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dia De Los Muertos\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDia De Los Muertos slot game\n\nDia De Los Muertos is a video slot game with 5 paylines arranged in a 3x3 display, produced by Endorphina. It takes place in Mexico and features colorful masks and symbols associated with the Dia de Los Muertos celebration.\n\nMexican theme\n\nThe game is inspired by the Mexican tradition of Dia de Los Muertos, a festival of the dead that is celebrated in the Mesoamerican region. The graphics of the slot machine include small skulls, stars, mustaches, flowers, and human characters, all very colorful and bright.\n\nTechnical features of classic slots\n\nDia De Los Muertos incorporates some of the technical features of classic slots, having only 3 reels. However, it still has some special functions that make it unique compared to other classic slots.\n\nSpecial functions - free spins and gamble\n\nThe game has two special functions: free spins and gamble. The scatter symbol triggers the free spin feature which provides the player with 20 free spins if 3 or more scatters are displayed in the same spin. The gamble feature allows players to play a game of the highest card against an automatic dealer at the end of each winning spin. Players can double their winnings up to 10 consecutive times.\n\nLack of multiplier in free spin feature\n\nThe game lacks a multiplier in the free spin feature, which could make it less exciting for some players. Additionally, some players may find the graphics of the human characters frightening and the overall atmosphere a bit too dark. However, the graphics of the slot machine, especially the colorful skulls, are still very unique and appealing.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T2tBZyoCBheFdRTD5u2PvwtrSige",
+                "id": "chatcmpl-7WRB0K02XKundm5IGUooiB77GLJLy",
                 "object": "chat.completion",
-                "created": 1687156973,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 507,
-                    "completion_tokens": 138,
-                    "total_tokens": 645
-                },
+                "created": 1687965318,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique and colorful Mexican theme\",\n        \"Incorporates technical features of classic slots\",\n        \"Special functions: free spins and gamble\",\n        \"Appealing graphics and symbols\"\n    ],\n    \"cons\": [\n        \"Lack of multiplier in free spin feature\",\n        \"Some players may find the graphics and atmosphere unsettling\"\n    ],\n    \"meta_title\": \"Play Dia De Los Muertos Free: Colorful and Unique Slot Game\",\n    \"meta_description\": \"Read our review of Dia De Los Muertos, a colorful and unique slot game celebrating the Mexican tradition of Dia de Los Muertos. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique Mexican theme\",\n    \"Colorful and bright graphics\",\n    \"Incorporates technical features of classic slots\",\n    \"Special functions - free spins and gamble\"\n  ],\n  \"cons\": [\n    \"Lack of multiplier in free spin feature\",\n    \"Graphics of human characters may be frightening to some players\"\n  ],\n  \"meta_title\": \"Play Dia De Los Muertos for Free\",\n  \"meta_description\": \"Read our review of Dia De Los Muertos and play this colorful slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 504,
+                    "completion_tokens": 116,
+                    "total_tokens": 620
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_4.png",
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_2.png",
         "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_3.png",
         "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_1.png",
-        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_2.png"
+        "arved__Create_a_feature_image_for_Dia_de_Los_Muertos_slot_game__db96e8e7-5f2b-459c-998a-04e29aba3582_4.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Dia De Los Muertos (Version 3).webp",
         "game_reviews/processed_images/Dia De Los Muertos (Version 1).webp",
         "game_reviews/processed_images/Dia De Los Muertos (Version 4).webp",
-        "game_reviews/processed_images/Dia De Los Muertos (Version 2).webp",
-        "game_reviews/processed_images/Dia De Los Muertos (Version 3).webp"
+        "game_reviews/processed_images/Dia De Los Muertos (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/dia-de-los-muertos.json"
+    "filename": "game_reviews/translations/dia-de-los-muertos.json",
+    "slug": "dia-de-los-muertos",
+    "name": "Dia De Los Muertos",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dia-De-Los-Muertos-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dia De Los Muertos for Free' ### Meta set: 'Read our review of Dia De Los Muertos and play this colorful slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

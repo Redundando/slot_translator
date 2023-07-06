@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Well-crafted graphics",
-                    "Unique game mechanics",
-                    "Special symbols for bigger wins",
-                    "Exciting Free Spins bonus mode"
+                    "Well-crafted graphics with realistic illustrations and vivid colors",
+                    "Unique 5x4 layout that sets it apart from other online slots",
+                    "Special symbols like Wild and Free Spins for bigger wins",
+                    "Exciting bonus features, including the Free Spins mode"
                 ],
                 "cons": [
-                    "Limited football theme",
-                    "No jackpot feature"
+                    "Limited selection of football-inspired slots",
+                    "May not appeal to non-football fans"
                 ],
-                "meta_title": "Play Football Glory for Free - Unique Gameplay and Exciting Bonus Features",
-                "meta_description": "Read our review of Football Glory, the online slot game with well-crafted graphics, unique mechanics, and exciting bonus features. Play for free now!"
+                "meta_title": "Play Football Glory - Free Online Slot Game",
+                "meta_description": "Read our review of Football Glory, a free online slot game with exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Football Glory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFootball Glory - Graphics\n\nFootball Glory takes place in a stadium filled with fans, and the playing card symbols are combined with football-related symbols like cups and player faces. The graphics are well-crafted, with realistic illustrations and vivid colors that make Football Glory stand out from other online slots.\n\nFootball Glory - Game Mechanics\n\nFootball Glory features a 5x4 layout that is different from most online slots. Special symbols like the Wild and Free Spins icons give players a chance to earn bigger wins, and the Cup symbol can award extra free spins or a random win. The game mechanics work well and keep players engaged.\n\nFootball Glory - Special Symbols\n\nFootball Glory includes special symbols like the Wild and Free Spins, both of which can contribute to larger wins. The Cup symbol can provide additional free spins or a random win. These special symbols add to the excitement and potential for greater payouts in Football Glory.\n\nFootball Glory - Bonus Features\n\nFootball Glory's main bonus feature is the Free Spins mode, which can be triggered by landing three or more Free Spins symbols. During this mode, the Cup symbol can award additional free spins or a random win, and there are also fixed Wild symbols that can increase the chances of a larger payout. This bonus feature adds to the overall excitement of Football Glory.\n\nSimilar Games\n\nFor players who enjoy football-inspired slots, there are several other games to try like Football Mania Deluxe, Football: Champions Cup, and The Cup. Soccer Safari is also a great option for players who are looking for a unique twist on the football theme. These games offer similar gameplay mechanics and bonus features, making them a great complement to Football Glory.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Football Glory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFootball Glory - Graphics\n\nFootball Glory takes place in a stadium filled with fans, and the playing card symbols are combined with football-related symbols like cups and player faces. The graphics are well-crafted, with realistic illustrations and vivid colors that make Football Glory stand out from other online slots.\n\nFootball Glory - Game Mechanics\n\nFootball Glory features a 5x4 layout that is different from most online slots. Special symbols like the Wild and Free Spins icons give players a chance to earn bigger wins, and the Cup symbol can award extra free spins or a random win. The game mechanics work well and keep players engaged.\n\nFootball Glory - Special Symbols\n\nFootball Glory includes special symbols like the Wild and Free Spins, both of which can contribute to larger wins. The Cup symbol can provide additional free spins or a random win. These special symbols add to the excitement and potential for greater payouts in Football Glory.\n\nFootball Glory - Bonus Features\n\nFootball Glory's main bonus feature is the Free Spins mode, which can be triggered by landing three or more Free Spins symbols. During this mode, the Cup symbol can award additional free spins or a random win, and there are also fixed Wild symbols that can increase the chances of a larger payout. This bonus feature adds to the overall excitement of Football Glory.\n\nSimilar Games\n\nFor players who enjoy football-inspired slots, there are several other games to try like Football Mania Deluxe, Football: Champions Cup, and The Cup. Soccer Safari is also a great option for players who are looking for a unique twist on the football theme. These games offer similar gameplay mechanics and bonus features, making them a great complement to Football Glory.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TH2W9bVFSUvgyOKpuW0hf4gAaxq3",
+                "id": "chatcmpl-7WSvkj0i8TG8nbhFhF9wmjz3atC2l",
                 "object": "chat.completion",
-                "created": 1687211368,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 510,
-                    "completion_tokens": 117,
-                    "total_tokens": 627
-                },
+                "created": 1687972060,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Well-crafted graphics\",\n    \"Unique game mechanics\",\n    \"Special symbols for bigger wins\",\n    \"Exciting Free Spins bonus mode\"\n  ],\n  \"cons\": [\n    \"Limited football theme\",\n    \"No jackpot feature\"\n  ],\n  \"meta_title\": \"Play Football Glory for Free - Unique Gameplay and Exciting Bonus Features\",\n  \"meta_description\": \"Read our review of Football Glory, the online slot game with well-crafted graphics, unique mechanics, and exciting bonus features. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-crafted graphics with realistic illustrations and vivid colors\",\n    \"Unique 5x4 layout that sets it apart from other online slots\",\n    \"Special symbols like Wild and Free Spins for bigger wins\",\n    \"Exciting bonus features, including the Free Spins mode\"\n  ],\n  \"cons\": [\n    \"Limited selection of football-inspired slots\",\n    \"May not appeal to non-football fans\"\n  ],\n  \"meta_title\": \"Play Football Glory - Free Online Slot Game\",\n  \"meta_description\": \"Read our review of Football Glory, a free online slot game with exciting bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 507,
+                    "completion_tokens": 132,
+                    "total_tokens": 639
+                }
             }
         },
         {
@@ -812,5 +812,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/football-glory.json"
+    "filename": "game_reviews/translations/football-glory.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__68a49ff4-fc24-45f8-b9e4-ce549a338efc_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__cd077765-547b-48d0-8b8a-fd5fe506ab2e_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__68a49ff4-fc24-45f8-b9e4-ce549a338efc_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__68a49ff4-fc24-45f8-b9e4-ce549a338efc_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__cd077765-547b-48d0-8b8a-fd5fe506ab2e_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__68a49ff4-fc24-45f8-b9e4-ce549a338efc_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__cd077765-547b-48d0-8b8a-fd5fe506ab2e_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Football_Glory__cd077765-547b-48d0-8b8a-fd5fe506ab2e_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Football Glory (Version 6).webp",
+        "game_reviews/processed_images/Football Glory (Version 7).webp",
+        "game_reviews/processed_images/Football Glory (Version 8).webp",
+        "game_reviews/processed_images/Football Glory (Version 5).webp"
+    ],
+    "slug": "football-glory",
+    "name": "Football Glory",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Football-Glory-Version-7-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Football Glory - Free Online Slot Game' ### Meta set: 'Read our review of Football Glory, a free online slot game with exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

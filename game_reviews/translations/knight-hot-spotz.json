@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Offers both quick spin and autoplay options to speed up gameplay",
-                    "High maximum win of 2,000 times your wager in both the base and Bonus games",
-                    "Features a beautifully designed medieval setting with cartoon-style graphics",
-                    "Wild symbol can substitute for all symbols except the Scatter symbol"
+                    "Exciting gameplay mechanics with quick spin and autoplay options",
+                    "Special symbols add variety to the gameplay",
+                    "Bonus game with the potential for big wins",
+                    "Beautiful graphics and design that capture the medieval theme"
                 ],
                 "cons": [
-                    "Only 25 fixed paylines, limiting betting options",
-                    "High volatility may not be suitable for all players"
+                    "High volatility may not be suitable for players who prefer smaller, frequent wins",
+                    "Limited number of paylines may reduce the chances of winning on each spin"
                 ],
-                "meta_title": "Play Knight Hot Spotz for Free - Review and Gameplay Mechanics",
-                "meta_description": "Read our review of Knight Hot Spotz, an online slot game set in medieval times. Play for free and learn about gameplay mechanics, special symbols, bonus features, and more."
+                "meta_title": "Play Knight Hot Spotz Free - Exciting Medieval Themed Slot",
+                "meta_description": "Review of Knight Hot Spotz: Explore medieval times and play this free online slot game with exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Knight Hot Spotz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nWith 5 reels and 25 fixed paylines, Knight Hot Spotz offers bets from €0.01 per payline and a maximum win of 2,000 times your wager in both the base game and the special features. The game features a Wild symbol and a Scatter symbol, which triggers the Bonus game that can reward up to 200x your wager. To speed up gameplay, quick spin and autoplay options are available.\n\nSpecial Symbols\n\nKnight Hot Spotz features eight normal and two special symbols. The playing cards are worth a small amount, while the sword and shield, map, dragon egg, and pig symbols offer higher rewards. The Wild symbol is represented by the chest, which can substitute for all symbols except the Scatter symbol. The Scatter symbol, which is the knight, triggers free spins when six or more land on the reels.\n\nBonus Features\n\nKnight Hot Spotz offers a Bonus game triggered by the Scatter symbol. Six or more Scatters landing on the reels will award six free spins in the Bonus game. Any position that held a Scatter that triggered the feature will be marked with a colored frame. The same will happen with all other Scatters that land during the Bonus game. At the end of the feature, each position marked will reveal a prize ranging from 1x to 200x your wager.\n\nGraphics and Design\n\nKnight Hot Spotz is set in medieval times and features cartoon-style graphics with accurately drawn symbols. The game follows a wandering knight and his trusted companion pig as they venture through the countryside in search of dragon eggs. The game screen shows a beautiful countryside with butterflies fluttering around and a castle visible in the background. The knight and his pig are depicted next to the fifth reel, and the Play, Autoplay, and bet options are located on the right side of the screen, while the left displays information about your credit and bet, access to the menu, and the volume adjustment button.\n\nVolatility and RTP\n\nKnight Hot Spotz is highly volatile and has an RTP of 95.5%. The game offers a maximum win of 2,000 times your wager in both the base game and the Bonus game that can reward up to 200x your wager.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Knight Hot Spotz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nWith 5 reels and 25 fixed paylines, Knight Hot Spotz offers bets from €0.01 per payline and a maximum win of 2,000 times your wager in both the base game and the special features. The game features a Wild symbol and a Scatter symbol, which triggers the Bonus game that can reward up to 200x your wager. To speed up gameplay, quick spin and autoplay options are available.\n\nSpecial Symbols\n\nKnight Hot Spotz features eight normal and two special symbols. The playing cards are worth a small amount, while the sword and shield, map, dragon egg, and pig symbols offer higher rewards. The Wild symbol is represented by the chest, which can substitute for all symbols except the Scatter symbol. The Scatter symbol, which is the knight, triggers free spins when six or more land on the reels.\n\nBonus Features\n\nKnight Hot Spotz offers a Bonus game triggered by the Scatter symbol. Six or more Scatters landing on the reels will award six free spins in the Bonus game. Any position that held a Scatter that triggered the feature will be marked with a colored frame. The same will happen with all other Scatters that land during the Bonus game. At the end of the feature, each position marked will reveal a prize ranging from 1x to 200x your wager.\n\nGraphics and Design\n\nKnight Hot Spotz is set in medieval times and features cartoon-style graphics with accurately drawn symbols. The game follows a wandering knight and his trusted companion pig as they venture through the countryside in search of dragon eggs. The game screen shows a beautiful countryside with butterflies fluttering around and a castle visible in the background. The knight and his pig are depicted next to the fifth reel, and the Play, Autoplay, and bet options are located on the right side of the screen, while the left displays information about your credit and bet, access to the menu, and the volume adjustment button.\n\nVolatility and RTP\n\nKnight Hot Spotz is highly volatile and has an RTP of 95.5%. The game offers a maximum win of 2,000 times your wager in both the base game and the Bonus game that can reward up to 200x your wager.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TyqvX9FsyScXuvnc1ZDpAlfjYb9G",
+                "id": "chatcmpl-7WW2QVUSCT9sbsGYqBA9wu5qAdLks",
                 "object": "chat.completion",
-                "created": 1687379785,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984006,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Offers both quick spin and autoplay options to speed up gameplay\",\n        \"High maximum win of 2,000 times your wager in both the base and Bonus games\",\n        \"Features a beautifully designed medieval setting with cartoon-style graphics\",\n        \"Wild symbol can substitute for all symbols except the Scatter symbol\"\n    ],\n    \"cons\": [\n        \"Only 25 fixed paylines, limiting betting options\",\n        \"High volatility may not be suitable for all players\"\n    ],\n    \"meta_title\": \"Play Knight Hot Spotz for Free - Review and Gameplay Mechanics\",\n    \"meta_description\": \"Read our review of Knight Hot Spotz, an online slot game set in medieval times. Play for free and learn about gameplay mechanics, special symbols, bonus features, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay mechanics with quick spin and autoplay options\",\n    \"Special symbols add variety to the gameplay\",\n    \"Bonus game with the potential for big wins\",\n    \"Beautiful graphics and design that capture the medieval theme\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suitable for players who prefer smaller, frequent wins\",\n    \"Limited number of paylines may reduce the chances of winning on each spin\"\n  ],\n  \"meta_title\": \"Play Knight Hot Spotz Free - Exciting Medieval Themed Slot\",\n  \"meta_description\": \"Review of Knight Hot Spotz: Explore medieval times and play this free online slot game with exciting bonus features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 627,
-                    "completion_tokens": 166,
-                    "total_tokens": 793
+                    "prompt_tokens": 624,
+                    "completion_tokens": 145,
+                    "total_tokens": 769
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/knight-hot-spotz.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_982f89ed-a09a-484c-bf4f-c941003b19a9_3.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_982f89ed-a09a-484c-bf4f-c941003b19a9_2.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_982f89ed-a09a-484c-bf4f-c941003b19a9_1.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_982f89ed-a09a-484c-bf4f-c941003b19a9_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Knight Hot Spotz (Version 4).webp",
+        "game_reviews/processed_images/Knight Hot Spotz (Version 1).webp",
+        "game_reviews/processed_images/Knight Hot Spotz (Version 3).webp",
+        "game_reviews/processed_images/Knight Hot Spotz (Version 2).webp"
+    ],
+    "slug": "knight-hot-spotz",
+    "name": "Knight Hot Spotz",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Knight-Hot-Spotz-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Knight Hot Spotz Free - Exciting Medieval Themed Slot' ### Meta set: 'Review of Knight Hot Spotz: Explore medieval times and play this free online slot game with exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

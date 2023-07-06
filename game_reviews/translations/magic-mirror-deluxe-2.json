@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Expanding reels during free spins",
-                    "Flexible betting options and levels",
+                    "Variety of betting options",
                     "Bonus feature and free spins",
-                    "Potential for big wins with expanding reel symbol"
+                    "Expanding reel symbol and potential wins"
                 ],
                 "cons": [
                     "Limited number of paylines",
-                    "No progressive jackpot feature"
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Magic Mirror Deluxe 2 for Free – Review",
-                "meta_description": "Read our review of Magic Mirror Deluxe 2 - a five-reel slot game with free spins, expanding reels, and bonus feature. Play for free and win big."
+                "meta_title": "Play Magic Mirror Deluxe 2 Free: Exciting Features & Big Wins",
+                "meta_description": "Explore Magic Mirror Deluxe 2 and play for free. Enjoy expanding reels, bonus features, and potential big wins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Mirror Deluxe 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExpanding reels during free spins\n\nMagic Mirror Deluxe 2 offers expanding reels during free spins. The randomly selected symbol will expand across the reels and increase potential for winning combinations when enough symbols are hit.\n\nBetting options and levels\n\nThis five-reel slot game features eight different betting levels ranging from 0.10€ to 20.00€ per spin. Players can choose the level of betting that best suits their playing style and budget.\n\nBonus feature and free spins\n\nThe bonus feature in Magic Mirror Deluxe 2 can be activated by landing three or more scatter symbols anywhere on the screen. This will trigger 10 free spins with a randomly selected symbol acting as the expanding reel symbol.\n\nExpanding reel symbol and potential wins\n\nThe expanding reel symbol in Magic Mirror Deluxe 2 can potentially increase the chances for winning combinations. By hitting enough symbols to expand across the reels, players can achieve bigger wins on the 10 paylines.\n\nBonus round and reactivation\n\nThe Bonus Round in Magic Mirror Deluxe 2 can be reactivated and offers an opportunity for players to potentially achieve big wins. Reactivating the function rewards players with another 10 free spins and another symbol from the mirror that can expand further than the initial one.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Mirror Deluxe 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExpanding reels during free spins\n\nMagic Mirror Deluxe 2 offers expanding reels during free spins. The randomly selected symbol will expand across the reels and increase potential for winning combinations when enough symbols are hit.\n\nBetting options and levels\n\nThis five-reel slot game features eight different betting levels ranging from 0.10€ to 20.00€ per spin. Players can choose the level of betting that best suits their playing style and budget.\n\nBonus feature and free spins\n\nThe bonus feature in Magic Mirror Deluxe 2 can be activated by landing three or more scatter symbols anywhere on the screen. This will trigger 10 free spins with a randomly selected symbol acting as the expanding reel symbol.\n\nExpanding reel symbol and potential wins\n\nThe expanding reel symbol in Magic Mirror Deluxe 2 can potentially increase the chances for winning combinations. By hitting enough symbols to expand across the reels, players can achieve bigger wins on the 10 paylines.\n\nBonus round and reactivation\n\nThe Bonus Round in Magic Mirror Deluxe 2 can be reactivated and offers an opportunity for players to potentially achieve big wins. Reactivating the function rewards players with another 10 free spins and another symbol from the mirror that can expand further than the initial one.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4enf0aEx0H27KFJSp3vVP6s7LPF",
+                "id": "chatcmpl-7WX2muUbYCnDS1KzAg7ck6bdA0KDt",
                 "object": "chat.completion",
-                "created": 1687402097,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987872,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding reels during free spins\",\n        \"Flexible betting options and levels\",\n        \"Bonus feature and free spins\",\n        \"Potential for big wins with expanding reel symbol\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Magic Mirror Deluxe 2 for Free – Review\",\n    \"meta_description\": \"Read our review of Magic Mirror Deluxe 2 - a five-reel slot game with free spins, expanding reels, and bonus feature. Play for free and win big.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Expanding reels during free spins\",\n    \"Variety of betting options\",\n    \"Bonus feature and free spins\",\n    \"Expanding reel symbol and potential wins\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Magic Mirror Deluxe 2 Free: Exciting Features & Big Wins\",\n  \"meta_description\": \"Explore Magic Mirror Deluxe 2 and play for free. Enjoy expanding reels, bonus features, and potential big wins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 426,
-                    "completion_tokens": 126,
-                    "total_tokens": 552
+                    "prompt_tokens": 423,
+                    "completion_tokens": 116,
+                    "total_tokens": 539
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-mirror-deluxe-2.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Magic_Mirror_Deluxe_2_that_sh_5df464d5-559d-4527-94b4-3df1e0b87e61_4.png",
+        "arved__Create_a_feature_image_for_Magic_Mirror_Deluxe_2_that_sh_5df464d5-559d-4527-94b4-3df1e0b87e61_1.png",
+        "arved__Create_a_feature_image_for_Magic_Mirror_Deluxe_2_that_sh_5df464d5-559d-4527-94b4-3df1e0b87e61_2.png",
+        "arved__Create_a_feature_image_for_Magic_Mirror_Deluxe_2_that_sh_5df464d5-559d-4527-94b4-3df1e0b87e61_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Mirror Deluxe 2 (Version 2).webp",
+        "game_reviews/processed_images/Magic Mirror Deluxe 2 (Version 4).webp",
+        "game_reviews/processed_images/Magic Mirror Deluxe 2 (Version 3).webp",
+        "game_reviews/processed_images/Magic Mirror Deluxe 2 (Version 1).webp"
+    ],
+    "slug": "magic-mirror-deluxe-2",
+    "name": "Magic Mirror Deluxe 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Mirror-Deluxe-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Mirror Deluxe 2 Free: Exciting Features & Big Wins' ### Meta set: 'Explore Magic Mirror Deluxe 2 and play for free. Enjoy expanding reels, bonus features, and potential big wins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

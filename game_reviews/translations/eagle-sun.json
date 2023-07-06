@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive artistic production of the old west theme",
-                    "Special features and game modes offer exciting spins",
-                    "Immersive gameplay with appropriate music and sound effects",
-                    "Decent RTP provides a balanced payout experience"
+                    "Impressive artistic production",
+                    "Immersive old west theme",
+                    "Several special spins and game modes",
+                    "Decent RTP"
                 ],
                 "cons": [
-                    "No progressive jackpot feature",
-                    "Limited symbol variety"
+                    "Limited variety in symbols",
+                    "Average RTP"
                 ],
-                "meta_title": "Play Eagle Sun for Free - Exciting Features and Immersive Gameplay",
-                "meta_description": "Experience the old west with Eagle Sun's impressive graphics and special features. Enjoy balanced payouts with an RTP of 95.76%. Play now for free."
+                "meta_title": "Play Eagle Sun Free - Review & Gameplay",
+                "meta_description": "Read our review of Eagle Sun and play the game for free. Enjoy an immersive old west experience with special spins and decent RTP."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Eagle Sun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame theme and graphics\n\nEagle Sun, a slot machine from Lightning Box Games, is set in the desert of Arizona, and features Native American characters. With its impressive artistic production, the game offers an immersive experience of the inhospitable but fascinating landscape of the old west.\n\nGame grid and symbols\n\nThe game grid of Eagle Sun consists of 5 wooden reels without frames, with background mountains in the distance. The special symbols of the game are a tribe leader, a female shaman, and a spear-wielding warrior. The regular symbols include Q, A, J, 10, some drums, and a dreamcatcher. The Wild symbol is a desert scene with an animation of a flying eagle, while the Scatter is a totem. Another symbol is the Eagle Spin, with an eagle's head that is activated to fly at the player.\n\nSpecial features and game modes\n\nEagle Sun has several special spins, which can be unlocked in several ways. When the Eagle Spin symbol appears, the spins start and you can only obtain empty spaces or Wilds. The spin continues until a few eagles appear. If 3, 4 or 5 Scatters appear on the grid, 7, 12, or 16 free spins are rewarded, respectively, followed by a Super Eagle Spin. In this mode, the grid expands up to 80 boxes. \n\nRTP\n\nWith an RTP of 95.76%, Eagle Sun is positioned right within the average.\n\nRecommendation\n\nEagle Sun is a slot game that immerses players in an artistic production of the old west in a really memorable way. The game's atmosphere, with its background music and sound effects, is perfect. With a decent RTP, Eagle Sun may exchange big payouts with smaller, more frequent ones. If you're interested in the old west theme, some games that might pique your interest are Dead or Alive II, Wild West Gold, or Cowboy Treasure Deluxe. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Eagle Sun\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame theme and graphics\n\nEagle Sun, a slot machine from Lightning Box Games, is set in the desert of Arizona, and features Native American characters. With its impressive artistic production, the game offers an immersive experience of the inhospitable but fascinating landscape of the old west.\n\nGame grid and symbols\n\nThe game grid of Eagle Sun consists of 5 wooden reels without frames, with background mountains in the distance. The special symbols of the game are a tribe leader, a female shaman, and a spear-wielding warrior. The regular symbols include Q, A, J, 10, some drums, and a dreamcatcher. The Wild symbol is a desert scene with an animation of a flying eagle, while the Scatter is a totem. Another symbol is the Eagle Spin, with an eagle's head that is activated to fly at the player.\n\nSpecial features and game modes\n\nEagle Sun has several special spins, which can be unlocked in several ways. When the Eagle Spin symbol appears, the spins start and you can only obtain empty spaces or Wilds. The spin continues until a few eagles appear. If 3, 4 or 5 Scatters appear on the grid, 7, 12, or 16 free spins are rewarded, respectively, followed by a Super Eagle Spin. In this mode, the grid expands up to 80 boxes. \n\nRTP\n\nWith an RTP of 95.76%, Eagle Sun is positioned right within the average.\n\nRecommendation\n\nEagle Sun is a slot game that immerses players in an artistic production of the old west in a really memorable way. The game's atmosphere, with its background music and sound effects, is perfect. With a decent RTP, Eagle Sun may exchange big payouts with smaller, more frequent ones. If you're interested in the old west theme, some games that might pique your interest are Dead or Alive II, Wild West Gold, or Cowboy Treasure Deluxe. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TACyDSIAIZGUDHJIRH6KuT40B9M3",
+                "id": "chatcmpl-7WRxdU4HJntM4X63DFHpDq3YmXdQ0",
                 "object": "chat.completion",
-                "created": 1687185108,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 575,
-                    "completion_tokens": 135,
-                    "total_tokens": 710
-                },
+                "created": 1687968333,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive artistic production of the old west theme\",\n        \"Special features and game modes offer exciting spins\",\n        \"Immersive gameplay with appropriate music and sound effects\",\n        \"Decent RTP provides a balanced payout experience\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot feature\",\n        \"Limited symbol variety\"\n    ],\n    \"meta_title\": \"Play Eagle Sun for Free - Exciting Features and Immersive Gameplay\",\n    \"meta_description\": \"Experience the old west with Eagle Sun's impressive graphics and special features. Enjoy balanced payouts with an RTP of 95.76%. Play now for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive artistic production\",\n    \"Immersive old west theme\",\n    \"Several special spins and game modes\",\n    \"Decent RTP\"\n  ],\n  \"cons\": [\n    \"Limited variety in symbols\",\n    \"Average RTP\"\n  ],\n  \"meta_title\": \"Play Eagle Sun Free - Review & Gameplay\",\n  \"meta_description\": \"Read our review of Eagle Sun and play the game for free. Enjoy an immersive old west experience with special spins and decent RTP.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 572,
+                    "completion_tokens": 107,
+                    "total_tokens": 679
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/eagle-sun.json"
+    "filename": "game_reviews/translations/eagle-sun.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Eagle_Sun_a_slot_machine_game_5d0dce54-57bc-4cde-b5fe-623640bdbab8_1.png",
+        "arved__Create_a_feature_image_for_Eagle_Sun_a_slot_machine_game_5d0dce54-57bc-4cde-b5fe-623640bdbab8_4.png",
+        "arved__Create_a_feature_image_for_Eagle_Sun_a_slot_machine_game_5d0dce54-57bc-4cde-b5fe-623640bdbab8_3.png",
+        "arved__Create_a_feature_image_for_Eagle_Sun_a_slot_machine_game_5d0dce54-57bc-4cde-b5fe-623640bdbab8_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "eagle-sun",
+    "name": "Eagle Sun",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/eagle-sun_featured-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Eagle Sun Free - Review & Gameplay' ### Meta set: 'Read our review of Eagle Sun and play the game for free. Enjoy an immersive old west experience with special spins and decent RTP.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

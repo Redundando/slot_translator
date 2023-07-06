@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Great graphics and attention to detail",
-                    "Low volatility level allows for frequent wins",
-                    "Chinese and Western symbols in the game",
-                    "Bonus mode with different jackpots"
+                    "Excellent graphics and aesthetics",
+                    "Attention to detail",
+                    "Low volatility with potential for winning combinations",
+                    "Bonus mode with three different jackpots"
                 ],
                 "cons": [
                     "Relatively low RTP",
-                    "Limited number of bonus features"
+                    "Not the highest RTP in the market"
                 ],
-                "meta_title": "Play Gold Money Frog for Free! | Expert Review",
-                "meta_description": "Discover the Chinese-themed slot game Gold Money Frog with great graphics, low volatility, and bonus mode with different jackpots. Play for free!"
+                "meta_title": "Play Gold Money Frog for Free",
+                "meta_description": "Play Gold Money Frog, a Chinese-themed slot game with excellent graphics and bonus mode, for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gold Money Frog\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame aesthetics and graphics\n\nGold Money Frog by NetEnt features a Chinese theme, and the graphics are of excellent quality. The game grid seems like it is carved into wood, and it is framed by pink lotus flowers that are suspended above the surface of the water as a pagoda is illuminated in the background. The slot's symbols include Western cards (A, K, Q, J) in different colors with a glossy and well-groomed appearance. They are accompanied by symbols that refer wholly to Chinese culture, including a golden frog, golden bat, red talisman, and a bridge typical of Chinese gardens. It is a great-looking slot game with attention to detail.\n\nSlot volatility and winning potential\n\nGold Money Frog has a low volatility level and a relatively low RTP that ranges from 92.31% to 92.96%. This RTP value may not be one of the highest in the market, but it meets the minimum limit imposed by law, making the game enjoyable. This slot has a 5x3 game grid and matches the mobile interface perfectly. Players can score a large number of winning combinations with a low value. \n\nChinese and Western symbols in the game\n\nGold Money Frog has a Chinese theme, with the game including many symbols associated with Chinese culture, such as the golden frog, golden bat, and a red talisman that all signify good luck and prosperity. It is worth noting that many Western symbolism is present in the game, with symbols of the A, K, Q, J cards presented entirely in different colors with a glossy and well-groomed appearance.\n\nJackpots and bonus mode\n\nGold Money Frog offers a bonus mode that comes with three different jackpots. The RTP is fair, so it is possible to enjoy the game. The slot's scatter symbols trigger the bonus mode, which is like a wheel of fortune where players can win different prizes. The top-of-the-screen display shows the various jackpots available through the bonus mode.\n\nOther similar Chinese-themed slot games\n\nLike Gold Money Frog, other slot games draw inspiration from Chinese culture, including Lucky Bats, Feng Fu, Feng Shui Kitties, Wild 888, Gu Gu Gu 2, and WuFu LinMen.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gold Money Frog\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame aesthetics and graphics\n\nGold Money Frog by NetEnt features a Chinese theme, and the graphics are of excellent quality. The game grid seems like it is carved into wood, and it is framed by pink lotus flowers that are suspended above the surface of the water as a pagoda is illuminated in the background. The slot's symbols include Western cards (A, K, Q, J) in different colors with a glossy and well-groomed appearance. They are accompanied by symbols that refer wholly to Chinese culture, including a golden frog, golden bat, red talisman, and a bridge typical of Chinese gardens. It is a great-looking slot game with attention to detail.\n\nSlot volatility and winning potential\n\nGold Money Frog has a low volatility level and a relatively low RTP that ranges from 92.31% to 92.96%. This RTP value may not be one of the highest in the market, but it meets the minimum limit imposed by law, making the game enjoyable. This slot has a 5x3 game grid and matches the mobile interface perfectly. Players can score a large number of winning combinations with a low value. \n\nChinese and Western symbols in the game\n\nGold Money Frog has a Chinese theme, with the game including many symbols associated with Chinese culture, such as the golden frog, golden bat, and a red talisman that all signify good luck and prosperity. It is worth noting that many Western symbolism is present in the game, with symbols of the A, K, Q, J cards presented entirely in different colors with a glossy and well-groomed appearance.\n\nJackpots and bonus mode\n\nGold Money Frog offers a bonus mode that comes with three different jackpots. The RTP is fair, so it is possible to enjoy the game. The slot's scatter symbols trigger the bonus mode, which is like a wheel of fortune where players can win different prizes. The top-of-the-screen display shows the various jackpots available through the bonus mode.\n\nOther similar Chinese-themed slot games\n\nLike Gold Money Frog, other slot games draw inspiration from Chinese culture, including Lucky Bats, Feng Fu, Feng Shui Kitties, Wild 888, Gu Gu Gu 2, and WuFu LinMen.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TSBW6vYF3JunGZXCSVQ4PTbQqeuX",
+                "id": "chatcmpl-7WTzs4bA0Xee0r7Zgt0e4vCefp1Bu",
                 "object": "chat.completion",
-                "created": 1687254210,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 629,
-                    "completion_tokens": 124,
-                    "total_tokens": 753
-                },
+                "created": 1687976160,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Great graphics and attention to detail\",\n        \"Low volatility level allows for frequent wins\",\n        \"Chinese and Western symbols in the game\",\n        \"Bonus mode with different jackpots\"\n    ],\n    \"cons\": [\n        \"Relatively low RTP\",\n        \"Limited number of bonus features\"\n    ],\n    \"meta_title\": \"Play Gold Money Frog for Free! | Expert Review\",\n    \"meta_description\": \"Discover the Chinese-themed slot game Gold Money Frog with great graphics, low volatility, and bonus mode with different jackpots. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Excellent graphics and aesthetics\",\n    \"Attention to detail\",\n    \"Low volatility with potential for winning combinations\",\n    \"Bonus mode with three different jackpots\"\n  ],\n  \"cons\": [\n    \"Relatively low RTP\",\n    \"Not the highest RTP in the market\"\n  ],\n  \"meta_title\": \"Play Gold Money Frog for Free\",\n  \"meta_description\": \"Play Gold Money Frog, a Chinese-themed slot game with excellent graphics and bonus mode, for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 626,
+                    "completion_tokens": 107,
+                    "total_tokens": 733
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gold-money-frog.json"
+    "filename": "game_reviews/translations/gold-money-frog.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Gold_Money_Frog_that_portrays_aaa92992-5bbc-4188-8abf-512d6a991096_4.png",
+        "arved__Create_a_feature_image_for_Gold_Money_Frog_that_portrays_aaa92992-5bbc-4188-8abf-512d6a991096_1.png",
+        "arved__Create_a_feature_image_for_Gold_Money_Frog_that_portrays_aaa92992-5bbc-4188-8abf-512d6a991096_3.png",
+        "arved__Create_a_feature_image_for_Gold_Money_Frog_that_portrays_aaa92992-5bbc-4188-8abf-512d6a991096_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gold Money Frog (Version 1).webp",
+        "game_reviews/processed_images/Gold Money Frog (Version 3).webp",
+        "game_reviews/processed_images/Gold Money Frog (Version 2).webp",
+        "game_reviews/processed_images/Gold Money Frog (Version 4).webp"
+    ],
+    "slug": "gold-money-frog",
+    "name": "Gold Money Frog",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gold-Money-Frog-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gold Money Frog for Free' ### Meta set: 'Play Gold Money Frog, a Chinese-themed slot game with excellent graphics and bonus mode, for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

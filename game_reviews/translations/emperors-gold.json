@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Great graphics and comic book-style characters",
-                    "Possibility of winning free spins and big wins",
-                    "Unique trail feature for added excitement",
-                    "Offers a unique spin on ancient Chinese culture and history"
+                    "Lucrative with an RTP ranging from 94% to 98%",
+                    "Graphics with comic book-style characters",
+                    "Big Bet feature for free spins and big wins",
+                    "Unique trail feature for added excitement"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "The RTP may be too low for some players"
+                    "Limited number of paylines with only 10",
+                    "Lack of variety in bonus features"
                 ],
-                "meta_title": "Play Emperor’s Gold for Free - A Unique Chinese Slot Game",
-                "meta_description": "Read our review of Emperor’s Gold, a Barcrest Chinese slot game, and play for free. Features, symbols, and a unique trail make it a fun game!"
+                "meta_title": "Play Emperor's Gold Free - Exciting Online Slot Game",
+                "meta_description": "Find out all about Emperor's Gold, the exciting online slot game with free play."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Emperor’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEmperor's Gold online slot game\n\nEmperor's Gold by Barcrest takes players back in time to the Forbidden City in ancient China. With 10 paylines and an RTP ranging from 94% to 98%, Emperor's Gold can be very lucrative, featuring many symbols of gold.\n\nFeatures and symbols of the game\n\nEmperor's Gold has graphics with comic book-style characters, including the Emperor and a woman, the tiger and the panda, the entrance of the Forbidden City, the red lantern, the dragon, and fireworks. The game offers the possibility of winning free spins and big wins with the Big Bet feature.\n\nBig Bet option for free spins\n\nThe Big Bet feature grants players 5 spins with connected reels. Winnings from Big Bet spins are added to the base game, where players can earn various bonuses, including Mega and Super. Scatter symbols displayed in the Big Bet game are added to the trail, and three or more of these symbols immediately award free spins.\n\nTrail feature for added excitement\n\nEmperor's Gold has a unique trail feature where the path is assigned at the end of the Big Bet game. Dragon symbols do not add to the path, but all other symbols do. If players win extra Big Bet spins, the trail is reset but remains available during the additional spins. This adds a lot of excitement to gameplay.\n\nUnique spin on ancient Chinese culture and history\n\nEmperor's Gold offers a unique spin on ancient Chinese culture and history. Other similar slots that recall the Chinese Empire include Big Red Lantern, produced by Bally.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Emperor’s Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nEmperor's Gold online slot game\n\nEmperor's Gold by Barcrest takes players back in time to the Forbidden City in ancient China. With 10 paylines and an RTP ranging from 94% to 98%, Emperor's Gold can be very lucrative, featuring many symbols of gold.\n\nFeatures and symbols of the game\n\nEmperor's Gold has graphics with comic book-style characters, including the Emperor and a woman, the tiger and the panda, the entrance of the Forbidden City, the red lantern, the dragon, and fireworks. The game offers the possibility of winning free spins and big wins with the Big Bet feature.\n\nBig Bet option for free spins\n\nThe Big Bet feature grants players 5 spins with connected reels. Winnings from Big Bet spins are added to the base game, where players can earn various bonuses, including Mega and Super. Scatter symbols displayed in the Big Bet game are added to the trail, and three or more of these symbols immediately award free spins.\n\nTrail feature for added excitement\n\nEmperor's Gold has a unique trail feature where the path is assigned at the end of the Big Bet game. Dragon symbols do not add to the path, but all other symbols do. If players win extra Big Bet spins, the trail is reset but remains available during the additional spins. This adds a lot of excitement to gameplay.\n\nUnique spin on ancient Chinese culture and history\n\nEmperor's Gold offers a unique spin on ancient Chinese culture and history. Other similar slots that recall the Chinese Empire include Big Red Lantern, produced by Bally.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TR1rl0nR7b0S1FLl9R59QK8nW5WM",
+                "id": "chatcmpl-7WSHcd8EigL3piOdYBxLzc34NINX6",
                 "object": "chat.completion",
-                "created": 1687249767,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 492,
-                    "completion_tokens": 141,
-                    "total_tokens": 633
-                },
+                "created": 1687969572,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Great graphics and comic book-style characters\",\n        \"Possibility of winning free spins and big wins\",\n        \"Unique trail feature for added excitement\",\n        \"Offers a unique spin on ancient Chinese culture and history\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"The RTP may be too low for some players\"\n    ],\n    \"meta_title\": \"Play Emperor’s Gold for Free - A Unique Chinese Slot Game\",\n    \"meta_description\": \"Read our review of Emperor’s Gold, a Barcrest Chinese slot game, and play for free. Features, symbols, and a unique trail make it a fun game!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Lucrative with an RTP ranging from 94% to 98%\",\n    \"Graphics with comic book-style characters\",\n    \"Big Bet feature for free spins and big wins\",\n    \"Unique trail feature for added excitement\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines with only 10\",\n    \"Lack of variety in bonus features\"\n  ],\n  \"meta_title\": \"Play Emperor's Gold Free - Exciting Online Slot Game\",\n  \"meta_description\": \"Find out all about Emperor's Gold, the exciting online slot game with free play.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 489,
+                    "completion_tokens": 129,
+                    "total_tokens": 618
+                }
             }
         },
         {
@@ -812,5 +812,16 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/emperors-gold.json"
+    "filename": "game_reviews/translations/emperors-gold.json",
+    "raw_feature_images": [],
+    "processed_feature_images": [],
+    "slug": "emperors-gold",
+    "name": "Emperor’s Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/emperors-gold_slot-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Emperor's Gold Free - Exciting Online Slot Game' ### Meta set: 'Find out all about Emperor's Gold, the exciting online slot game with free play.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

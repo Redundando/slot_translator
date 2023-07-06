@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High potential total winnings of up to 9,921 times the bet",
-                    "Visually pleasing design with a forest background and crystal symbols",
-                    "Exciting cascade system and high volatility with large sums won each time",
-                    "Special functions and bonus features enhance gameplay"
+                    "High potential winnings",
+                    "Unique cascade system",
+                    "Visually appealing crystal design",
+                    "Exciting special functions and bonus features"
                 ],
                 "cons": [
-                    "Winnings are less frequent with high volatility",
-                    "No progressive jackpot"
+                    "Less frequent winnings due to high volatility",
+                    "Limited betting range"
                 ],
-                "meta_title": "Play Kluster Krystals Megaclusters for Free | Review",
-                "meta_description": "Read our review of Kluster Krystals Megaclusters and play for free. Enjoy a visually stunning game with high total winnings and exciting special features."
+                "meta_title": "Play Kluster Krystals Megaclusters for Free",
+                "meta_description": "Discover the high potential winnings and unique cascade system of Kluster Krystals Megaclusters. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Kluster Krystals Megaclusters\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Objective and Potential Winnings\n\nThe objective of Kluster Krystals Megaclusters is to obtain at least 8 identical and adjacent symbols in a cluster. The potential total winnings can be up to 9,921 times the bet. The minimum bet is €0.10 and the maximum bet is €100. The RTP is quite good at 96.49%.\n\nCascade System and High Volatility\n\nAfter each paying combination, the symbols disappear to make way for others, in what is called a \"cascade\" system. The volatility is high, with winnings being less frequent, but with large sums being won each time.\n\nSymbol Design and Value\n\nThere are crystals of 5 different colors - blue, red, purple, pink, and green. Up to 100 symbols can appear on the grid simultaneously, with the red crystal rewarding us up to 50 times the bet. Some symbols of large size may land associated with x1, x2, x3, x4, x5, and x10 multipliers.\n\nSpecial Functions and Bonus Features\n\nIn Kluster Krystals Megaclusters, there are three special functions that are activated after 6 consecutive winning combinations - Kristal Vanish, Krystal Boost, and Krystal Kut. The Bonus symbol rewards us with 7 free spins, provided it appears in a winning combination of 4 symbols. Free spins can be integrated with another 4 spins with each additional Bonus symbol. During free spins, both multipliers and special functions are available.\n\nOverall Game Experience and Appeal\n\nVisually, Kluster Krystals Megaclusters is a real pleasure to watch, with the background of the game being a lush forest and the game grid supported by two stone pillars. The sound consists of a combination of relaxing music and forest sounds, with some effects for winnings. The cascade system and high volatility make each game exciting, while the crystal design and special features add to its appeal.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Kluster Krystals Megaclusters\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Objective and Potential Winnings\n\nThe objective of Kluster Krystals Megaclusters is to obtain at least 8 identical and adjacent symbols in a cluster. The potential total winnings can be up to 9,921 times the bet. The minimum bet is €0.10 and the maximum bet is €100. The RTP is quite good at 96.49%.\n\nCascade System and High Volatility\n\nAfter each paying combination, the symbols disappear to make way for others, in what is called a \"cascade\" system. The volatility is high, with winnings being less frequent, but with large sums being won each time.\n\nSymbol Design and Value\n\nThere are crystals of 5 different colors - blue, red, purple, pink, and green. Up to 100 symbols can appear on the grid simultaneously, with the red crystal rewarding us up to 50 times the bet. Some symbols of large size may land associated with x1, x2, x3, x4, x5, and x10 multipliers.\n\nSpecial Functions and Bonus Features\n\nIn Kluster Krystals Megaclusters, there are three special functions that are activated after 6 consecutive winning combinations - Kristal Vanish, Krystal Boost, and Krystal Kut. The Bonus symbol rewards us with 7 free spins, provided it appears in a winning combination of 4 symbols. Free spins can be integrated with another 4 spins with each additional Bonus symbol. During free spins, both multipliers and special functions are available.\n\nOverall Game Experience and Appeal\n\nVisually, Kluster Krystals Megaclusters is a real pleasure to watch, with the background of the game being a lush forest and the game grid supported by two stone pillars. The sound consists of a combination of relaxing music and forest sounds, with some effects for winnings. The cascade system and high volatility make each game exciting, while the crystal design and special features add to its appeal.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TymlEO7BfL3mjuOjp6lxko0fuizj",
+                "id": "chatcmpl-7WW1pw9Ek6byZx2wBfBJpDB7Z8Jfy",
                 "object": "chat.completion",
-                "created": 1687379527,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983969,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High potential total winnings of up to 9,921 times the bet\",\n        \"Visually pleasing design with a forest background and crystal symbols\",\n        \"Exciting cascade system and high volatility with large sums won each time\",\n        \"Special functions and bonus features enhance gameplay\"\n    ],\n    \"cons\": [\n        \"Winnings are less frequent with high volatility\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Kluster Krystals Megaclusters for Free | Review\",\n    \"meta_description\": \"Read our review of Kluster Krystals Megaclusters and play for free. Enjoy a visually stunning game with high total winnings and exciting special features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High potential winnings\",\n    \"Unique cascade system\",\n    \"Visually appealing crystal design\",\n    \"Exciting special functions and bonus features\"\n  ],\n  \"cons\": [\n    \"Less frequent winnings due to high volatility\",\n    \"Limited betting range\"\n  ],\n  \"meta_title\": \"Play Kluster Krystals Megaclusters for Free\",\n  \"meta_description\": \"Discover the high potential winnings and unique cascade system of Kluster Krystals Megaclusters. Play for free now!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 568,
-                    "completion_tokens": 146,
-                    "total_tokens": 714
+                    "prompt_tokens": 565,
+                    "completion_tokens": 107,
+                    "total_tokens": 672
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/kluster-krystals-megaclusters.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_best_represents_the_game_Klu_b957ec31-e47f-4499-9f8b-86e4b71835bf_2.png",
+        "arved__Create_a_feature_image_that_best_represents_the_game_Klu_b957ec31-e47f-4499-9f8b-86e4b71835bf_3.png",
+        "arved__Create_a_feature_image_that_best_represents_the_game_Klu_b957ec31-e47f-4499-9f8b-86e4b71835bf_4.png",
+        "arved__Create_a_feature_image_that_best_represents_the_game_Klu_b957ec31-e47f-4499-9f8b-86e4b71835bf_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Kluster Krystals Megaclusters (Version 1).webp",
+        "game_reviews/processed_images/Kluster Krystals Megaclusters (Version 4).webp",
+        "game_reviews/processed_images/Kluster Krystals Megaclusters (Version 2).webp",
+        "game_reviews/processed_images/Kluster Krystals Megaclusters (Version 3).webp"
+    ],
+    "slug": "kluster-krystals-megaclusters",
+    "name": "Kluster Krystals Megaclusters",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Kluster-Krystals-Megaclusters-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Kluster Krystals Megaclusters for Free' ### Meta set: 'Discover the high potential winnings and unique cascade system of Kluster Krystals Megaclusters. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

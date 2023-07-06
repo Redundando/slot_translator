@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "117,649 ways to win",
-                    "Highly volatile, with up to 14,700x your bet to win on free spins",
+                    "Highly volatile, with big win potential",
                     "Reactions function for continued wins",
-                    "Playable on all devices"
+                    "Mr. Monopoly adds extra features and increased multipliers",
+                    "Playable on all devices, including mobile"
                 ],
                 "cons": [
-                    "May not be suitable for players who prefer low volatility slots",
-                    "No progressive jackpot available"
+                    "Limited variety of symbols",
+                    "High-stakes gameplay may not be suitable for all players"
                 ],
-                "meta_title": "Play Monopoly Megaways Free | 117,649 Ways to Win",
-                "meta_description": "Read our review of Monopoly Megaways, a highly volatile slot game with 117,649 ways to win from Big Time Gaming. Play for free on desktop or mobile."
+                "meta_title": "Play Monopoly Megaways for Free",
+                "meta_description": "Read our review of Monopoly Megaways and play this highly volatile slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Monopoly Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMonopoly Megaways is a 6-reel slot game with 117,649 ways to win. It uses the Reel Adventure engine and MegaWays, making it highly volatile, with up to 3,500 times your bet to win on the base game spin, and up to 14,700 times your bet to win on each free spin. It features the Reactions function for continued wins, and Mr. Monopoly moves around the board to offer additional features, such as the maximum number of MegaWays spins, and an increased multiplier in the Free Spins feature.\n\nWinning Potential\n\nMonopoly Megaways is a highly volatile slot game, meaning that the payout potential is considerable. Players can win up to 3,500 times their bet on each base game spin, and up to 14,700 times their bet on each free spin. The Reactions function allows for continued wins, making wins more frequent overall.\n\nSymbols\n\nSymbols include A, K, Q, J, 10 and 9 royals, along with golden icons of the dog, the race car, the top hat, and the battleship, all recognizable from the original board game. The symbol \"M\" represents Monopoly, acting as the Wild and replacing all normal symbols. The MegaWays feature adds more ways to win, with each reel having between 2 to 7 symbols.\n\nDevice Compatibility\n\nMonopoly Megaways is a slot game that can be played on all devices, including desktop, tablet, and mobile. Players can enjoy the game on Apple and Android devices thanks to the HTML5 technology behind the game, making it accessible to players on the go.\n\nGame Developer\n\nMonopoly Megaways is developed by Big Time Gaming. They are known for creating innovative games that offer unique gameplay mechanics and exciting features. The Reel Adventure Mechanic is featured in other Big Time Gaming's slots such as Holy Diver. With tons of experience in the industry, Big Time Gaming is a trusted provider of online slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Monopoly Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMonopoly Megaways is a 6-reel slot game with 117,649 ways to win. It uses the Reel Adventure engine and MegaWays, making it highly volatile, with up to 3,500 times your bet to win on the base game spin, and up to 14,700 times your bet to win on each free spin. It features the Reactions function for continued wins, and Mr. Monopoly moves around the board to offer additional features, such as the maximum number of MegaWays spins, and an increased multiplier in the Free Spins feature.\n\nWinning Potential\n\nMonopoly Megaways is a highly volatile slot game, meaning that the payout potential is considerable. Players can win up to 3,500 times their bet on each base game spin, and up to 14,700 times their bet on each free spin. The Reactions function allows for continued wins, making wins more frequent overall.\n\nSymbols\n\nSymbols include A, K, Q, J, 10 and 9 royals, along with golden icons of the dog, the race car, the top hat, and the battleship, all recognizable from the original board game. The symbol \"M\" represents Monopoly, acting as the Wild and replacing all normal symbols. The MegaWays feature adds more ways to win, with each reel having between 2 to 7 symbols.\n\nDevice Compatibility\n\nMonopoly Megaways is a slot game that can be played on all devices, including desktop, tablet, and mobile. Players can enjoy the game on Apple and Android devices thanks to the HTML5 technology behind the game, making it accessible to players on the go.\n\nGame Developer\n\nMonopoly Megaways is developed by Big Time Gaming. They are known for creating innovative games that offer unique gameplay mechanics and exciting features. The Reel Adventure Mechanic is featured in other Big Time Gaming's slots such as Holy Diver. With tons of experience in the industry, Big Time Gaming is a trusted provider of online slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UBH9HHhI7s0P4ZgnEf1iG4pLFl2O",
+                "id": "chatcmpl-7WY0s16iXftd6vqoika5xzLkms89P",
                 "object": "chat.completion",
-                "created": 1687427539,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991598,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"117,649 ways to win\",\n        \"Highly volatile, with up to 14,700x your bet to win on free spins\",\n        \"Reactions function for continued wins\",\n        \"Playable on all devices\"\n    ],\n    \"cons\": [\n        \"May not be suitable for players who prefer low volatility slots\",\n        \"No progressive jackpot available\"\n    ],\n    \"meta_title\": \"Play Monopoly Megaways Free | 117,649 Ways to Win\",\n    \"meta_description\": \"Read our review of Monopoly Megaways, a highly volatile slot game with 117,649 ways to win from Big Time Gaming. Play for free on desktop or mobile.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Highly volatile, with big win potential\",\n    \"Reactions function for continued wins\",\n    \"Mr. Monopoly adds extra features and increased multipliers\",\n    \"Playable on all devices, including mobile\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"High-stakes gameplay may not be suitable for all players\"\n  ],\n  \"meta_title\": \"Play Monopoly Megaways for Free\",\n  \"meta_description\": \"Read our review of Monopoly Megaways and play this highly volatile slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 591,
-                    "completion_tokens": 148,
-                    "total_tokens": 739
+                    "prompt_tokens": 588,
+                    "completion_tokens": 120,
+                    "total_tokens": 708
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/monopoly-megaways.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Monopoly_Megaways_that_accfd691-048f-4e5c-b268-052a3cd23416_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Monopoly_Megaways_that_accfd691-048f-4e5c-b268-052a3cd23416_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Monopoly_Megaways_that_accfd691-048f-4e5c-b268-052a3cd23416_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Monopoly_Megaways_that_accfd691-048f-4e5c-b268-052a3cd23416_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Monopoly Megaways (Version 1).webp",
+        "game_reviews/processed_images/Monopoly Megaways (Version 2).webp",
+        "game_reviews/processed_images/Monopoly Megaways (Version 3).webp",
+        "game_reviews/processed_images/Monopoly Megaways (Version 4).webp"
+    ],
+    "slug": "monopoly-megaways",
+    "name": "Monopoly Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Monopoly-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Monopoly Megaways for Free' ### Meta set: 'Read our review of Monopoly Megaways and play this highly volatile slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

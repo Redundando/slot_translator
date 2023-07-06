@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cascading system",
-                    "Well-designed symbols",
-                    "Exciting background and theme",
-                    "10,000x potential win"
+                    "Unique and visually stunning jelly candy theme",
+                    "Cascading system creates exciting gameplay",
+                    "High winning potential and up to 10,000x bet",
+                    "Accessible and compatible with all devices"
                 ],
                 "cons": [
-                    "High volatility",
-                    "Expensive bonus buy"
+                    "Bonus game can only be purchased at a cost",
+                    "Volatility may not appeal to players seeking frequent wins"
                 ],
-                "meta_title": "Play Jiggly Cash Slot for Free - Review 2021",
-                "meta_description": "Read our Jiggly Cash review and play this slot machine for free. Find out about gameplay features, visuals and theme, winning potential, and more."
+                "meta_title": "Play Jiggly Cash - Free Slot Game Review",
+                "meta_description": "Read our review of Jiggly Cash, a free slot game with unique jelly candy theme and high winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jiggly Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nJiggly Cash offers a game grid with six reels and five rows that uses the cascading system. With at least eight symbols in any part of the screen, you can get a winning combination. Whenever a win is generated, the symbols explode and leave the grid. The game's symbols have different shapes and colors, and multipliers ranging from 2x to 25x can land entirely at random. The theoretical return to player (RTP) is 96%, and the volatility is high. The Autoplay function is available, which allows you to set between 10 and 5,000 automatic spins.\n\nVisuals and Theme\n\nThe game takes place on an alien planet where all life forms are different types of jelly candies. The background consists of pink gumdrop mountains against the backdrop of a starry sky. The scenes are rendered with sharp, bright colors that create an impressive impact. The game grid can accommodate up to 30 symbols, each of which has three dimensions and is well-designed.\n\nWinning Potential\n\nThe minimum bet is €0.10, and the highest potential win is 10,000x the bet. The most lucrative symbol is the red monster with a crown. The game's Scatter symbol can award 10 Free Spins for landing at least three of them, and any multiplier that lands on the grid will be moved to the box above and will remain there throughout the feature. This Bonus game can be bought for 110 times the bet.\n\nAccessibility and Compatibility\n\nThanks to its HTML5 technology, Jiggly Cash runs on every device, mobile and fixed. You can play it on your tablet or smartphone devices as well as on desktop devices.\n\nVolatility and RTP\n\nThe theoretical return to player (RTP) is 96%, which is quite high, and the volatility of the game is high. This means that the game has the potential to award big wins, but they might not always occur regularly.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jiggly Cash\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nJiggly Cash offers a game grid with six reels and five rows that uses the cascading system. With at least eight symbols in any part of the screen, you can get a winning combination. Whenever a win is generated, the symbols explode and leave the grid. The game's symbols have different shapes and colors, and multipliers ranging from 2x to 25x can land entirely at random. The theoretical return to player (RTP) is 96%, and the volatility is high. The Autoplay function is available, which allows you to set between 10 and 5,000 automatic spins.\n\nVisuals and Theme\n\nThe game takes place on an alien planet where all life forms are different types of jelly candies. The background consists of pink gumdrop mountains against the backdrop of a starry sky. The scenes are rendered with sharp, bright colors that create an impressive impact. The game grid can accommodate up to 30 symbols, each of which has three dimensions and is well-designed.\n\nWinning Potential\n\nThe minimum bet is €0.10, and the highest potential win is 10,000x the bet. The most lucrative symbol is the red monster with a crown. The game's Scatter symbol can award 10 Free Spins for landing at least three of them, and any multiplier that lands on the grid will be moved to the box above and will remain there throughout the feature. This Bonus game can be bought for 110 times the bet.\n\nAccessibility and Compatibility\n\nThanks to its HTML5 technology, Jiggly Cash runs on every device, mobile and fixed. You can play it on your tablet or smartphone devices as well as on desktop devices.\n\nVolatility and RTP\n\nThe theoretical return to player (RTP) is 96%, which is quite high, and the volatility of the game is high. This means that the game has the potential to award big wins, but they might not always occur regularly.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tv7MuuLH4BAmuSAt5ZkMifJuOJFe",
+                "id": "chatcmpl-7WVTacmv0usOB5oZyDUGARudcTX68",
                 "object": "chat.completion",
-                "created": 1687365428,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981846,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Cascading system\",\n    \"Well-designed symbols\",\n    \"Exciting background and theme\",\n    \"10,000x potential win\"\n   ],\n  \"cons\": [\n    \"High volatility\",\n    \"Expensive bonus buy\"\n   ],\n  \"meta_title\": \"Play Jiggly Cash Slot for Free - Review 2021\",\n  \"meta_description\": \"Read our Jiggly Cash review and play this slot machine for free. Find out about gameplay features, visuals and theme, winning potential, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique and visually stunning jelly candy theme\",\n    \"Cascading system creates exciting gameplay\",\n    \"High winning potential and up to 10,000x bet\",\n    \"Accessible and compatible with all devices\"\n  ],\n  \"cons\": [\n    \"Bonus game can only be purchased at a cost\",\n    \"Volatility may not appeal to players seeking frequent wins\"\n  ],\n  \"meta_title\": \"Play Jiggly Cash - Free Slot Game Review\",\n  \"meta_description\": \"Read our review of Jiggly Cash, a free slot game with unique jelly candy theme and high winning potential.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 575,
-                    "completion_tokens": 117,
-                    "total_tokens": 692
+                    "prompt_tokens": 572,
+                    "completion_tokens": 132,
+                    "total_tokens": 704
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jiggly-cash.json",
+    "raw_feature_images": [
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_dc8ce0c3-2f1b-48f3-a7d4-b0294b69540e_3.png",
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_dc8ce0c3-2f1b-48f3-a7d4-b0294b69540e_4.png",
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_dc8ce0c3-2f1b-48f3-a7d4-b0294b69540e_2.png",
+        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_dc8ce0c3-2f1b-48f3-a7d4-b0294b69540e_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jiggly Cash (Version 2).webp",
+        "game_reviews/processed_images/Jiggly Cash (Version 1).webp",
+        "game_reviews/processed_images/Jiggly Cash (Version 4).webp",
+        "game_reviews/processed_images/Jiggly Cash (Version 3).webp"
+    ],
+    "slug": "jiggly-cash",
+    "name": "Jiggly Cash",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jiggly-Cash-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jiggly Cash - Free Slot Game Review' ### Meta set: 'Read our review of Jiggly Cash, a free slot game with unique jelly candy theme and high winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

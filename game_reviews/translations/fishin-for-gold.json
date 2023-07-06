@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Bonus Chance Meter adds excitement to gameplay.",
-                    "Fishin' For Gold Bonus feature offers great potential for big wins.",
-                    "Visually appealing with vibrant colors and cute animated characters.",
-                    "Wide range of wagering options available to players."
+                    "Visually appealing cartoonish look with vibrant colors",
+                    "Excellent design",
+                    "Bonus Chance Meter adds excitement",
+                    "Wild cards with multipliers increase winning combinations"
                 ],
                 "cons": [
-                    "Base game lacks excitement without the Bonus Chance Meter feature.",
-                    "No additional bonus features or free spins during base gameplay."
+                    "Limited wagering options",
+                    "RTP could be higher"
                 ],
-                "meta_title": "Play Fishin For Gold for Free - A Fun and Exciting Slot Game",
-                "meta_description": "Read our review of Fishin For Gold and play for free. Discover exciting bonus features and potential for big wins in this visually appealing slot game."
+                "meta_title": "Play Fishin For Gold Free - Exciting Slot Game Review",
+                "meta_description": "Read our review of Fishin For Gold, an exciting slot game with vibrant visuals. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fishin For Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFishin For Gold gameplay\n\nFishin For Gold by iSoftBet is a no-download slot that features 5 reels, 3 rows, and 25 fixed paylines. The game has a visually appealing cartoonish look with vibrant colors and an excellent design. Cute creatures from both hemispheres inhabit the background of this icy world, animated by cheerful music. You can wager anywhere between €0.25 and €25.00 by selecting the appropriate token values. The RTP is around 95-97%. So, what does the base game consist of? It's simple: match three or more symbols on a payline to win without the help of a wild card.\n\nBonus Chance Meter feature\n\nFishin For Gold introduces a bonus chance meter above the reels that players can activate at any time. If the needle lands in the green area, the Bonus Game is activated, but if it stops in the red zone, the game remains stationary, and the meter is reset to its initial level. Every time two Scatters appear on the reels, 1% of the red area will turn green.\n\nFishin’ For Gold Bonus feature\n\nOnce the player has chosen their preferred fisherman from the Penguin, Walrus, Polar Bear, or Lion, the actual fishing begins. Any caught symbol is worth a free spin and a wild card. Some wild cards can include multipliers of x2, x3, or x5, thereby increasing the winning combinations. This means that once your spins begin, these Wilds are multiplicative and will earn you 2 extra spins for every 3 Scatters you collect.\n\nGraphics and sound effects\n\nFishin For Gold has a visually appealing cartoonish look with vibrant colors and an excellent design. Cute creatures from both hemispheres inhabit the background of this icy world, animated by cheerful music.\n\nWagering options\n\nPlayers can wager anywhere between €0.25 and €25.00 by selecting the appropriate token values. The RTP is around 95-97%.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fishin For Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nFishin For Gold gameplay\n\nFishin For Gold by iSoftBet is a no-download slot that features 5 reels, 3 rows, and 25 fixed paylines. The game has a visually appealing cartoonish look with vibrant colors and an excellent design. Cute creatures from both hemispheres inhabit the background of this icy world, animated by cheerful music. You can wager anywhere between €0.25 and €25.00 by selecting the appropriate token values. The RTP is around 95-97%. So, what does the base game consist of? It's simple: match three or more symbols on a payline to win without the help of a wild card.\n\nBonus Chance Meter feature\n\nFishin For Gold introduces a bonus chance meter above the reels that players can activate at any time. If the needle lands in the green area, the Bonus Game is activated, but if it stops in the red zone, the game remains stationary, and the meter is reset to its initial level. Every time two Scatters appear on the reels, 1% of the red area will turn green.\n\nFishin’ For Gold Bonus feature\n\nOnce the player has chosen their preferred fisherman from the Penguin, Walrus, Polar Bear, or Lion, the actual fishing begins. Any caught symbol is worth a free spin and a wild card. Some wild cards can include multipliers of x2, x3, or x5, thereby increasing the winning combinations. This means that once your spins begin, these Wilds are multiplicative and will earn you 2 extra spins for every 3 Scatters you collect.\n\nGraphics and sound effects\n\nFishin For Gold has a visually appealing cartoonish look with vibrant colors and an excellent design. Cute creatures from both hemispheres inhabit the background of this icy world, animated by cheerful music.\n\nWagering options\n\nPlayers can wager anywhere between €0.25 and €25.00 by selecting the appropriate token values. The RTP is around 95-97%.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TG3ZlyPyAs94R9tqJyBOr00Jv97O",
+                "id": "chatcmpl-7WSomZDc8nLyf6TymAvyyR0UQ6OWp",
                 "object": "chat.completion",
-                "created": 1687207589,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 583,
-                    "completion_tokens": 152,
-                    "total_tokens": 735
-                },
+                "created": 1687971628,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Bonus Chance Meter adds excitement to gameplay.\",\n        \"Fishin' For Gold Bonus feature offers great potential for big wins.\",\n        \"Visually appealing with vibrant colors and cute animated characters.\",\n        \"Wide range of wagering options available to players.\"\n    ],\n    \"cons\": [\n        \"Base game lacks excitement without the Bonus Chance Meter feature.\",\n        \"No additional bonus features or free spins during base gameplay.\"\n    ],\n    \"meta_title\": \"Play Fishin For Gold for Free - A Fun and Exciting Slot Game\",\n    \"meta_description\": \"Read our review of Fishin For Gold and play for free. Discover exciting bonus features and potential for big wins in this visually appealing slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Visually appealing cartoonish look with vibrant colors\",\n    \"Excellent design\",\n    \"Bonus Chance Meter adds excitement\",\n    \"Wild cards with multipliers increase winning combinations\"\n  ],\n  \"cons\": [\n    \"Limited wagering options\",\n    \"RTP could be higher\"\n  ],\n  \"meta_title\": \"Play Fishin For Gold Free - Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Fishin For Gold, an exciting slot game with vibrant visuals. Play for free!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 580,
+                    "completion_tokens": 115,
+                    "total_tokens": 695
+                }
             }
         },
         {
@@ -809,5 +809,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fishin-for-gold.json"
+    "filename": "game_reviews/translations/fishin-for-gold.json",
+    "raw_feature_images": [
+        "arved__Create_an_imaginative_and_eye-catching_feature_image_for_8c6ecc34-3945-4a23-83c8-907cc0ddbf05_4.png",
+        "arved__Create_an_imaginative_and_eye-catching_feature_image_for_8c6ecc34-3945-4a23-83c8-907cc0ddbf05_1.png",
+        "arved__Create_an_imaginative_and_eye-catching_feature_image_for_8c6ecc34-3945-4a23-83c8-907cc0ddbf05_3.png",
+        "arved__Create_an_imaginative_and_eye-catching_feature_image_for_8c6ecc34-3945-4a23-83c8-907cc0ddbf05_2.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fishin-for-gold",
+    "name": "Fishin For Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/fishin-for-gold-thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fishin For Gold Free - Exciting Slot Game Review' ### Meta set: 'Read our review of Fishin For Gold, an exciting slot game with vibrant visuals. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

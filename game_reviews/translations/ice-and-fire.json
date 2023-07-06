@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique dual-screen gameplay mechanics",
-                    "Special symbols and bonus features for more winning opportunities",
-                    "Visually stunning graphics and immersive sound effects",
-                    "Dragon-themed game with both Eastern and Western cultures"
+                    "Unique gameplay with dual 5x5 grids",
+                    "Special symbols trigger bonus features",
+                    "Visually appealing dual-screen design",
+                    "Engaging dragon-themed experience"
                 ],
                 "cons": [
-                    "The game may be too complex for inexperienced players",
-                    "The lack of interaction between the two playing fields may make the game feel repetitive"
+                    "Limited interaction between the grids",
+                    "Requires consecutive combinations to access special mode"
                 ],
-                "meta_title": "Play Ice and Fire Free Slot - A Unique Dragon-Themed Game",
-                "meta_description": "Read our review of Ice and Fire, a unique dragon-themed online slot game. Play for free and experience dual-screen gameplay and special symbols."
+                "meta_title": "Play Ice and Fire for Free",
+                "meta_description": "Read a review of Ice and Fire, a unique dragon-themed online slot game. Play for free and experience the dual-screen design."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ice and Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nIce and Fire presents a unique gameplay experience with two identical 5x5 grids, each representing a different realm of a dragon. There is no interaction between the two grids except for the Wild symbols. The goal is to get at least four consecutive combinations to fill the gem counter and access the special mode.\n\nSpecial Symbols and Features\n\nSpecial symbols such as the dragon egg Scatter and the grimoire Wild can trigger bonus features in Ice and Fire. The Wild symbols also appear in the same position on both grids, increasing the chances of obtaining winning combinations. Besides, the game is packed with stunning features, animations, and sound effects that make it more engaging.\n\nVisuals and Sound\n\nIce and Fire's dual-screen design is visually appealing and creates an immersive gaming experience. The left screen shows the ice dragon's realm, while the right screen shows the fire dragon's realm, both with unique elements that reflect their domains. The game's graphics provide a unique mystical world filled with magic, adventure, and a touch of fantasy. The game's musical score is made of orchestral music with percussions and strings that add suspense and intensity, enhancing the game's excitement.\n\nDragon Theme\n\nIce and Fire is a dragon-themed online slot game that incorporates both Eastern and Western cultures. The game has two dragons, an ice dragon, and a fire dragon, that both clash and complement each other. The dragon theme is apparent in the imagery, music, and symbols in the game. Both the ice and fire dragons represent strength, power, and wealth, creating an immersive experience to players who love dragons and their world.\n\nComparison to Similar Games\n\nIce and Fire is a unique online slot game that stands out from other dragon-themed slots. Unlike other titles, this game features two identical playing fields representing the ice and fire dragons' realms. The use of two grids means more opportunities for players to land winning combinations. Additionally, Ice and Fire has outstanding graphics and sound effects that make the game more engaging than other dragon-themed slots. Some other dragon-themed slots players may also like include Dragon Slot, Dragon Wins, Dragon’s Myth, A Dragon’s Story, Double Dragons, and Dragon Kingdom.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ice and Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Mechanics\n\nIce and Fire presents a unique gameplay experience with two identical 5x5 grids, each representing a different realm of a dragon. There is no interaction between the two grids except for the Wild symbols. The goal is to get at least four consecutive combinations to fill the gem counter and access the special mode.\n\nSpecial Symbols and Features\n\nSpecial symbols such as the dragon egg Scatter and the grimoire Wild can trigger bonus features in Ice and Fire. The Wild symbols also appear in the same position on both grids, increasing the chances of obtaining winning combinations. Besides, the game is packed with stunning features, animations, and sound effects that make it more engaging.\n\nVisuals and Sound\n\nIce and Fire's dual-screen design is visually appealing and creates an immersive gaming experience. The left screen shows the ice dragon's realm, while the right screen shows the fire dragon's realm, both with unique elements that reflect their domains. The game's graphics provide a unique mystical world filled with magic, adventure, and a touch of fantasy. The game's musical score is made of orchestral music with percussions and strings that add suspense and intensity, enhancing the game's excitement.\n\nDragon Theme\n\nIce and Fire is a dragon-themed online slot game that incorporates both Eastern and Western cultures. The game has two dragons, an ice dragon, and a fire dragon, that both clash and complement each other. The dragon theme is apparent in the imagery, music, and symbols in the game. Both the ice and fire dragons represent strength, power, and wealth, creating an immersive experience to players who love dragons and their world.\n\nComparison to Similar Games\n\nIce and Fire is a unique online slot game that stands out from other dragon-themed slots. Unlike other titles, this game features two identical playing fields representing the ice and fire dragons' realms. The use of two grids means more opportunities for players to land winning combinations. Additionally, Ice and Fire has outstanding graphics and sound effects that make the game more engaging than other dragon-themed slots. Some other dragon-themed slots players may also like include Dragon Slot, Dragon Wins, Dragon’s Myth, A Dragon’s Story, Double Dragons, and Dragon Kingdom.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TsQgLEPSAE9HQXzNQJ0Ko3RkEo7h",
+                "id": "chatcmpl-7WV5nraNh9EXBDLXEuxqU67M2plvU",
                 "object": "chat.completion",
-                "created": 1687355094,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687980371,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique dual-screen gameplay mechanics\",\n        \"Special symbols and bonus features for more winning opportunities\",\n        \"Visually stunning graphics and immersive sound effects\",\n        \"Dragon-themed game with both Eastern and Western cultures\"\n    ],\n    \"cons\": [\n        \"The game may be too complex for inexperienced players\",\n        \"The lack of interaction between the two playing fields may make the game feel repetitive\"\n    ],\n    \"meta_title\": \"Play Ice and Fire Free Slot - A Unique Dragon-Themed Game\",\n    \"meta_description\": \"Read our review of Ice and Fire, a unique dragon-themed online slot game. Play for free and experience dual-screen gameplay and special symbols.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay with dual 5x5 grids\",\n    \"Special symbols trigger bonus features\",\n    \"Visually appealing dual-screen design\",\n    \"Engaging dragon-themed experience\"\n  ],\n  \"cons\": [\n    \"Limited interaction between the grids\",\n    \"Requires consecutive combinations to access special mode\"\n  ],\n  \"meta_title\": \"Play Ice and Fire for Free\",\n  \"meta_description\": \"Read a review of Ice and Fire, a unique dragon-themed online slot game. Play for free and experience the dual-screen design.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 616,
-                    "completion_tokens": 145,
-                    "total_tokens": 761
+                    "prompt_tokens": 613,
+                    "completion_tokens": 118,
+                    "total_tokens": 731
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/ice-and-fire.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Ice_and_Fire_online_sl_01cf3d78-f555-41b3-b8d2-791cc87691d9_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_and_Fire_online_sl_01cf3d78-f555-41b3-b8d2-791cc87691d9_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_and_Fire_online_sl_01cf3d78-f555-41b3-b8d2-791cc87691d9_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Ice_and_Fire_online_sl_01cf3d78-f555-41b3-b8d2-791cc87691d9_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Ice And Fire (Version 2).webp",
+        "game_reviews/processed_images/Ice And Fire (Version 4).webp",
+        "game_reviews/processed_images/Ice And Fire (Version 1).webp",
+        "game_reviews/processed_images/Ice And Fire (Version 3).webp"
+    ],
+    "slug": "ice-and-fire",
+    "name": "Ice and Fire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ice-And-Fire-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ice and Fire for Free' ### Meta set: 'Read a review of Ice and Fire, a unique dragon-themed online slot game. Play for free and experience the dual-screen design.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

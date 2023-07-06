@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High payout percentage of 96.2%",
-                    "Progressive jackpots that can be won by players",
-                    "Well-designed symbols related to wealth and luxury",
-                    "Mini-games that provide free spins"
+                    "High payout percentage",
+                    "Progressive jackpots",
+                    "Well-designed symbols",
+                    "Similar game available"
                 ],
                 "cons": [
-                    "Limited theme variety",
-                    "Limited variety in terms of bonus features"
+                    "Limited number of mini-games",
+                    "No bonus rounds"
                 ],
-                "meta_title": "Play Lock it Link Night Life for Free - Game Review",
-                "meta_description": "Read our comprehensive review on Lock it Link Night Life slot game. Play it now for free and win big with high payout percentage and progressive jackpots."
+                "meta_title": "Play Lock it Link Night Life Free - Review",
+                "meta_description": "Read our review of Lock it Link Night Life to experience the thrill of playing for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lock it Link Night Life\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLock it Link Night Life is a 5x3 grid with a total of 50 paylines. The game offers a high payout percentage of 96.2%. The gold coin is the wild symbol, which can replace all other symbols to obtain winning combinations. The skyline image allows players to start two different mini-games. One is called FreeSpins, and it allows players to win free spins. The second mini-game, called Lock it, allows you to obtain special hearts, each one corresponding to a progressive jackpot.\n\nSymbol Types\n\nThe symbols in Lock it Link Night Life are related to wealth and luxury. The gold coin symbol, which is the wild symbol, is the most valuable. Other symbols include leather bags, champagne glasses, luxury cars, yachts, and classic slot machine poker cards. The symbols are well-designed, and that adds to the overall enjoyment of the game.\n\nProgressive Jackpots\n\nLock it Link Night Life offers progressive jackpots that can be won by players. Players can obtain special hearts during the Lock It mini-game, where each heart corresponds to a particular jackpot. The jackpots are indicated above the grid. The highest jackpot can be as high as 2,500 euros. Players have a chance to win a substantial amount of money in this game.\n\nPayout Percentage\n\nLock it Link Night Life offers a high payout percentage of 96.2%. This means that, on average, players can expect to get back 96.2 cents for every euro wagered. This is a high payout percentage compared to other slot machines and can be an inviting factor for players to try this game.\n\nSimilar Games\n\nFor players who enjoyed Lock it Link Night Life, a similar game is available – Hot City. Hot City is particularly directed towards a female audience, with symbols related to the world of women such as high heels, dresses, and sparkling rings. The game offers very lucrative bonuses. Hot City shares some similar gameplay features with Lock it Link Night Life, such as a 5x3 grid and mini-games that provide free spins and progressive jackpots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lock it Link Night Life\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nLock it Link Night Life is a 5x3 grid with a total of 50 paylines. The game offers a high payout percentage of 96.2%. The gold coin is the wild symbol, which can replace all other symbols to obtain winning combinations. The skyline image allows players to start two different mini-games. One is called FreeSpins, and it allows players to win free spins. The second mini-game, called Lock it, allows you to obtain special hearts, each one corresponding to a progressive jackpot.\n\nSymbol Types\n\nThe symbols in Lock it Link Night Life are related to wealth and luxury. The gold coin symbol, which is the wild symbol, is the most valuable. Other symbols include leather bags, champagne glasses, luxury cars, yachts, and classic slot machine poker cards. The symbols are well-designed, and that adds to the overall enjoyment of the game.\n\nProgressive Jackpots\n\nLock it Link Night Life offers progressive jackpots that can be won by players. Players can obtain special hearts during the Lock It mini-game, where each heart corresponds to a particular jackpot. The jackpots are indicated above the grid. The highest jackpot can be as high as 2,500 euros. Players have a chance to win a substantial amount of money in this game.\n\nPayout Percentage\n\nLock it Link Night Life offers a high payout percentage of 96.2%. This means that, on average, players can expect to get back 96.2 cents for every euro wagered. This is a high payout percentage compared to other slot machines and can be an inviting factor for players to try this game.\n\nSimilar Games\n\nFor players who enjoyed Lock it Link Night Life, a similar game is available – Hot City. Hot City is particularly directed towards a female audience, with symbols related to the world of women such as high heels, dresses, and sparkling rings. The game offers very lucrative bonuses. Hot City shares some similar gameplay features with Lock it Link Night Life, such as a 5x3 grid and mini-games that provide free spins and progressive jackpots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U1kClq5Py8T1SsMVd58Ick9rTQ3e",
+                "id": "chatcmpl-7WWUQkzIAXGSVpS12B5pcCEROJ2nD",
                 "object": "chat.completion",
-                "created": 1687390900,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985742,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High payout percentage of 96.2%\",\n        \"Progressive jackpots that can be won by players\",\n        \"Well-designed symbols related to wealth and luxury\",\n        \"Mini-games that provide free spins\"\n    ],\n    \"cons\": [\n        \"Limited theme variety\",\n        \"Limited variety in terms of bonus features\"\n    ],\n    \"meta_title\": \"Play Lock it Link Night Life for Free - Game Review\",\n    \"meta_description\": \"Read our comprehensive review on Lock it Link Night Life slot game. Play it now for free and win big with high payout percentage and progressive jackpots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High payout percentage\",\n    \"Progressive jackpots\",\n    \"Well-designed symbols\",\n    \"Similar game available\"\n  ],\n  \"cons\": [\n    \"Limited number of mini-games\",\n    \"No bonus rounds\"\n  ],\n  \"meta_title\": \"Play Lock it Link Night Life Free - Review\",\n  \"meta_description\": \"Read our review of Lock it Link Night Life to experience the thrill of playing for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 609,
-                    "completion_tokens": 135,
-                    "total_tokens": 744
+                    "prompt_tokens": 606,
+                    "completion_tokens": 98,
+                    "total_tokens": 704
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lock-it-link-night-life.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_for_Lock_it_Link_Nig_b4c0787b-3f00-41d2-8fd1-834b142354ee_1.png",
+        "arved__DALLE_please_create_a_feature_image_for_Lock_it_Link_Nig_b4c0787b-3f00-41d2-8fd1-834b142354ee_3.png",
+        "arved__DALLE_please_create_a_feature_image_for_Lock_it_Link_Nig_b4c0787b-3f00-41d2-8fd1-834b142354ee_4.png",
+        "arved__DALLE_please_create_a_feature_image_for_Lock_it_Link_Nig_b4c0787b-3f00-41d2-8fd1-834b142354ee_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lock It Link Night Life (Version 1).webp",
+        "game_reviews/processed_images/Lock It Link Night Life (Version 3).webp",
+        "game_reviews/processed_images/Lock It Link Night Life (Version 4).webp",
+        "game_reviews/processed_images/Lock It Link Night Life (Version 2).webp"
+    ],
+    "slug": "lock-it-link-night-life",
+    "name": "Lock it Link Night Life",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lock-It-Link-Night-Life-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lock it Link Night Life Free - Review' ### Meta set: 'Read our review of Lock it Link Night Life to experience the thrill of playing for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "243 ways to win",
                     "Affordable minimum bet of €0.25",
-                    "Wild Cash Stampede feature creates winning lines",
-                    "Vibrant, high-quality graphics transport players to the African safari",
-                    "Various bonus features such as Free Spins and Re-spins"
+                    "Visually stunning design",
+                    "Various bonus features for big wins"
                 ],
                 "cons": [
-                    "Limited maximum bet of just 50 coins",
-                    "Gameplay may become repetitive over time"
+                    "Limited maximum bet of 50 coins",
+                    "Not suitable for high rollers"
                 ],
-                "meta_title": "Play Cash Stampede Free Today | Affordable Betting and Wild Wins",
-                "meta_description": "Try your luck with Cash Stampede, a safari-themed slot game with affordable betting options, bonus features, and Wild Cash Stampede wins. Play for free now."
+                "meta_title": "Play Cash Stampede for Free - Review and Gameplay",
+                "meta_description": "Read our review of Cash Stampede, a slot game with exciting gameplay and the chance to play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Stampede\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCash Stampede offers 243 ways to win at any time, with a minimum bet of just €0.25 per round and a maximum bet of 50 coins, for a final jackpot of €2,500.00. The game also features Wild Cash Stampedes, Free Spins, Re-spins and Bonus Coins, providing plenty of opportunities to win big throughout the game.\n\nTheme and visual design\n\nCash Stampede takes place in the arid plains of Africa, where players will encounter different types of wild animals such as elephants, rhinos, bison, antelopes, and enraged horses. The game's visual design is vibrant and detailed, with high-quality graphics that transport players directly into the world of the African safari.\n\nMinimum and maximum bets\n\nWith a minimum bet of only €0.25 per round and a maximum bet of 50 coins, Cash Stampede is an affordable and accessible slot game for players of all levels. Players can select the bet value between 1 and 2 coins on their credits, providing a wide range of bet options that cater to different budget levels.\n\nSymbol types and combinations\n\nIn Cash Stampede, all animal icons hold the same value and can earn players up to 500 coins. The standard set of cards has the same value for each symbol and pays up to 50 coins. The game's Cash Stampede symbol serves as a Wild that can replace other symbols to create winning lines. When a Wild appears in a winning payline, the Re-spin function will trigger, with the Wild becoming a Sticky Wild. Additionally, the game features Golden Bonus Coins as Scatter symbols. Three of them on reels 2, 3 and 4 increase the player's bet by 50 times.\n\nBonus and scatter symbols\n\nCash Stampede offers several bonuses, such as Wild Cash Stampedes, Free Spins, Re-spins and Bonus Coins. The Cash Stampede symbol can create winning lines by replacing other symbols, while three Cash Stampede symbols activate the Free Spin bonus round, which includes 8 free spins. During this round, all Wilds become sticky for the whole bonus, providing even more chances to win. The game's Re-spin and Sticky Wild features can trigger more repetitions, increasing the player's total prize. Meanwhile, the Golden Bonus Coins serve as Scatter symbols, providing the player with an increase of 50 times their original bet when three appear on reels 2, 3 and 4.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Stampede\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nCash Stampede offers 243 ways to win at any time, with a minimum bet of just €0.25 per round and a maximum bet of 50 coins, for a final jackpot of €2,500.00. The game also features Wild Cash Stampedes, Free Spins, Re-spins and Bonus Coins, providing plenty of opportunities to win big throughout the game.\n\nTheme and visual design\n\nCash Stampede takes place in the arid plains of Africa, where players will encounter different types of wild animals such as elephants, rhinos, bison, antelopes, and enraged horses. The game's visual design is vibrant and detailed, with high-quality graphics that transport players directly into the world of the African safari.\n\nMinimum and maximum bets\n\nWith a minimum bet of only €0.25 per round and a maximum bet of 50 coins, Cash Stampede is an affordable and accessible slot game for players of all levels. Players can select the bet value between 1 and 2 coins on their credits, providing a wide range of bet options that cater to different budget levels.\n\nSymbol types and combinations\n\nIn Cash Stampede, all animal icons hold the same value and can earn players up to 500 coins. The standard set of cards has the same value for each symbol and pays up to 50 coins. The game's Cash Stampede symbol serves as a Wild that can replace other symbols to create winning lines. When a Wild appears in a winning payline, the Re-spin function will trigger, with the Wild becoming a Sticky Wild. Additionally, the game features Golden Bonus Coins as Scatter symbols. Three of them on reels 2, 3 and 4 increase the player's bet by 50 times.\n\nBonus and scatter symbols\n\nCash Stampede offers several bonuses, such as Wild Cash Stampedes, Free Spins, Re-spins and Bonus Coins. The Cash Stampede symbol can create winning lines by replacing other symbols, while three Cash Stampede symbols activate the Free Spin bonus round, which includes 8 free spins. During this round, all Wilds become sticky for the whole bonus, providing even more chances to win. The game's Re-spin and Sticky Wild features can trigger more repetitions, increasing the player's total prize. Meanwhile, the Golden Bonus Coins serve as Scatter symbols, providing the player with an increase of 50 times their original bet when three appear on reels 2, 3 and 4.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SrILFmoTUhNzAtGNi6mV4zwMhdVu",
+                "id": "chatcmpl-7WPqiTYOfNSJv0G7uy1Ba15OYmbmP",
                 "object": "chat.completion",
-                "created": 1687112405,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 680,
-                    "completion_tokens": 151,
-                    "total_tokens": 831
-                },
+                "created": 1687960216,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Affordable minimum bet of €0.25\",\n        \"Wild Cash Stampede feature creates winning lines\",\n        \"Vibrant, high-quality graphics transport players to the African safari\",\n        \"Various bonus features such as Free Spins and Re-spins\"\n    ],\n    \"cons\": [\n        \"Limited maximum bet of just 50 coins\",\n        \"Gameplay may become repetitive over time\"\n    ],\n    \"meta_title\": \"Play Cash Stampede Free Today | Affordable Betting and Wild Wins\",\n    \"meta_description\": \"Try your luck with Cash Stampede, a safari-themed slot game with affordable betting options, bonus features, and Wild Cash Stampede wins. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"243 ways to win\",\n    \"Affordable minimum bet of €0.25\",\n    \"Visually stunning design\",\n    \"Various bonus features for big wins\"\n  ],\n  \"cons\": [\n    \"Limited maximum bet of 50 coins\",\n    \"Not suitable for high rollers\"\n  ],\n  \"meta_title\": \"Play Cash Stampede for Free - Review and Gameplay\",\n  \"meta_description\": \"Read our review of Cash Stampede, a slot game with exciting gameplay and the chance to play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 677,
+                    "completion_tokens": 115,
+                    "total_tokens": 792
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Cash_Stampede_in_a_car_1e479cb3-0ba0-488e-97b9-727544b7728e_4.png",
         "arved__Prompt_Create_a_feature_image_for_Cash_Stampede_in_a_car_1e479cb3-0ba0-488e-97b9-727544b7728e_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Cash_Stampede_in_a_car_1e479cb3-0ba0-488e-97b9-727544b7728e_4.png",
         "arved__Prompt_Create_a_feature_image_for_Cash_Stampede_in_a_car_1e479cb3-0ba0-488e-97b9-727544b7728e_3.png",
         "arved__Prompt_Create_a_feature_image_for_Cash_Stampede_in_a_car_1e479cb3-0ba0-488e-97b9-727544b7728e_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cash Stampede (Version 2).webp",
         "game_reviews/processed_images/Cash Stampede (Version 1).webp",
-        "game_reviews/processed_images/Cash Stampede (Version 4).webp",
-        "game_reviews/processed_images/Cash Stampede (Version 3).webp"
+        "game_reviews/processed_images/Cash Stampede (Version 2).webp",
+        "game_reviews/processed_images/Cash Stampede (Version 3).webp",
+        "game_reviews/processed_images/Cash Stampede (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/cash-stampede.json"
+    "filename": "game_reviews/translations/cash-stampede.json",
+    "slug": "cash-stampede",
+    "name": "Cash Stampede",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Stampede-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Stampede for Free - Review and Gameplay' ### Meta set: 'Read our review of Cash Stampede, a slot game with exciting gameplay and the chance to play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

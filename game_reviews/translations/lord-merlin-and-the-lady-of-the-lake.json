@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and sound effects",
-                    "Simple yet unique gameplay",
-                    "Free spins feature with 2 variations",
-                    "High volatility for significant wins"
+                    "Stunning and immersive graphics",
+                    "Exceptional soundtrack",
+                    "Satisfying animations",
+                    "Unique gameplay features"
                 ],
                 "cons": [
                     "Only one special feature",
-                    "No progressive jackpot"
+                    "Limited free spin variations"
                 ],
-                "meta_title": "Play Lord Merlin and the Lady of the Lake for Free",
-                "meta_description": "Read our review of the Lord Merlin and the Lady of the Lake slot game by Play'n Go and play for free. Featuring stunning graphics, immersive sound effects, and a free spins feature."
+                "meta_title": "Play Lord Merlin and the Lady of the Lake Free - Review",
+                "meta_description": "Read our review of Lord Merlin and the Lady of the Lake and play for free. Discover stunning graphics, immersive gameplay, and unique features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lord Merlin and the Lady of the Lake\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and Sound Effects\n\nLord Merlin And The Lady Of The Lake's graphics and sound effects are stunning and immersive. The background of the game is set in a mystical forest, and the visual charisma is only intensified by the exceptional soundtrack. The sounds in the game are also great, making you feel like the forest is alive. All the symbols have been well-crafted and are accompanied by satisfying animations.\n\nGameplay and Symbols\n\nThe game has a classic 5 reels, with 3 rows each. The symbols include a coat of arms, a scepter, Merlin, a wizard's hat and many others. The frame and the simplest symbols are decorated like everything is made of enchanted wood intertwined with itself. The Lady of the Lake is the Wild symbol, while the scatter symbol is a sword in the stone. The game has a simple gameplay, but still manages to provide some unique features that give it its own identity and specific value.\n\nFree Spins Feature\n\nThe game's only special feature is the free spin feature which comes in two variations. When you get 3 or more scatter symbols, you are entitled to 8 free spins. During these spins, a special symbol is chosen randomly from among the available symbols. If the symbol appears on the first reel, it will expand throughout the grid, leading to a big win. If other scatter symbols appear during free spins, the player is entitled to Excalibur Spins, which can be multiplied every time 2 additional scatter symbols are obtained.\n\nRTP and Volatility\n\nLord Merlin And The Lady Of The Lake has an RTP of 96.2%, which is the average for most online slot games. The game has high volatility and provides the opportunity for significant wins.\n\nSimilar Slots by Play'n Go\n\nIf you enjoyed Lord Merlin And The Lady Of The Lake and are looking for similar slots, we recommend trying out all the Play'n Go slot machines. For those passionate about Merlin and King Arthur, we recommend Merlin's Moneyburst and King Arthur.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lord Merlin and the Lady of the Lake\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGraphics and Sound Effects\n\nLord Merlin And The Lady Of The Lake's graphics and sound effects are stunning and immersive. The background of the game is set in a mystical forest, and the visual charisma is only intensified by the exceptional soundtrack. The sounds in the game are also great, making you feel like the forest is alive. All the symbols have been well-crafted and are accompanied by satisfying animations.\n\nGameplay and Symbols\n\nThe game has a classic 5 reels, with 3 rows each. The symbols include a coat of arms, a scepter, Merlin, a wizard's hat and many others. The frame and the simplest symbols are decorated like everything is made of enchanted wood intertwined with itself. The Lady of the Lake is the Wild symbol, while the scatter symbol is a sword in the stone. The game has a simple gameplay, but still manages to provide some unique features that give it its own identity and specific value.\n\nFree Spins Feature\n\nThe game's only special feature is the free spin feature which comes in two variations. When you get 3 or more scatter symbols, you are entitled to 8 free spins. During these spins, a special symbol is chosen randomly from among the available symbols. If the symbol appears on the first reel, it will expand throughout the grid, leading to a big win. If other scatter symbols appear during free spins, the player is entitled to Excalibur Spins, which can be multiplied every time 2 additional scatter symbols are obtained.\n\nRTP and Volatility\n\nLord Merlin And The Lady Of The Lake has an RTP of 96.2%, which is the average for most online slot games. The game has high volatility and provides the opportunity for significant wins.\n\nSimilar Slots by Play'n Go\n\nIf you enjoyed Lord Merlin And The Lady Of The Lake and are looking for similar slots, we recommend trying out all the Play'n Go slot machines. For those passionate about Merlin and King Arthur, we recommend Merlin's Moneyburst and King Arthur.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U1unqk9h1zGmrItIx20zVmh65rgc",
+                "id": "chatcmpl-7WWW6oqstWLZlP6mEtyKjTCtfLIkX",
                 "object": "chat.completion",
-                "created": 1687391557,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985846,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Stunning graphics and sound effects\",\n    \"Simple yet unique gameplay\",\n    \"Free spins feature with 2 variations\",\n    \"High volatility for significant wins\"\n  ],\n  \"cons\": [\n    \"Only one special feature\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Lord Merlin and the Lady of the Lake for Free\",\n  \"meta_description\": \"Read our review of the Lord Merlin and the Lady of the Lake slot game by Play'n Go and play for free. Featuring stunning graphics, immersive sound effects, and a free spins feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning and immersive graphics\",\n    \"Exceptional soundtrack\",\n    \"Satisfying animations\",\n    \"Unique gameplay features\"\n  ],\n  \"cons\": [\n    \"Only one special feature\",\n    \"Limited free spin variations\"\n  ],\n  \"meta_title\": \"Play Lord Merlin and the Lady of the Lake Free - Review\",\n  \"meta_description\": \"Read our review of Lord Merlin and the Lady of the Lake and play for free. Discover stunning graphics, immersive gameplay, and unique features.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 586,
-                    "completion_tokens": 127,
-                    "total_tokens": 713
+                    "prompt_tokens": 583,
+                    "completion_tokens": 111,
+                    "total_tokens": 694
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lord-merlin-and-the-lady-of-the-lake.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_Lord_Merlin_and_the_La_d760d03e-adcd-44f3-bc89-7b3792dd4f95_3.png",
+        "arved__Please_create_a_feature_image_for_Lord_Merlin_and_the_La_d760d03e-adcd-44f3-bc89-7b3792dd4f95_4.png",
+        "arved__Please_create_a_feature_image_for_Lord_Merlin_and_the_La_d760d03e-adcd-44f3-bc89-7b3792dd4f95_2.png",
+        "arved__Please_create_a_feature_image_for_Lord_Merlin_and_the_La_d760d03e-adcd-44f3-bc89-7b3792dd4f95_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lord Merlin And The Lady Of The Lake (Version 1).webp",
+        "game_reviews/processed_images/Lord Merlin And The Lady Of The Lake (Version 4).webp",
+        "game_reviews/processed_images/Lord Merlin And The Lady Of The Lake (Version 3).webp",
+        "game_reviews/processed_images/Lord Merlin And The Lady Of The Lake (Version 2).webp"
+    ],
+    "slug": "lord-merlin-and-the-lady-of-the-lake",
+    "name": "Lord Merlin and the Lady of the Lake",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lord-Merlin-And-The-Lady-Of-The-Lake-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lord Merlin and the Lady of the Lake Free - Review' ### Meta set: 'Read our review of Lord Merlin and the Lady of the Lake and play for free. Discover stunning graphics, immersive gameplay, and unique features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

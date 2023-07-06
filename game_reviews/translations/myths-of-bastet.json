@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique game format - Slottery",
-                    "Fascinating Egyptian theme",
-                    "Good RTP of 95.76%",
-                    "Special features, including free spins"
+                    "Unique game format (Slottery)",
+                    "Impressive gameplay performance",
+                    "Based on the popular theme of ancient Egypt",
+                    "Offers high-value jackpots and bonuses"
                 ],
                 "cons": [
-                    "Single payline may not appeal to all players",
-                    "Limited number of symbols"
+                    "Limited number of paylines (maximum of 7)",
+                    "RTP could be slightly higher"
                 ],
-                "meta_title": "Play Myths of Bastet for Free - Exciting Slottery Game",
-                "meta_description": "Read our review of Myths of Bastet - a unique and exciting Slottery slot game with an Egyptian theme. Play for free and experience the thrill!"
+                "meta_title": "Play Myths of Bastet Free - Slot Game Review",
+                "meta_description": "Read our review of Myths of Bastet, a slot game based on ancient Egypt. Play for free and experience high-value jackpots and bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Myths of Bastet\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame format - Slottery\n\nMyths of Bastet is a slot game developed by Onlyplay and has a unique game format known as Slottery. It is a new formula for slot machines that allows for an incredible remote gaming experience. The gameplay performance is impressive, making Onlyplay the true symbol of pure entertainment.\n\nTheme - Bastet and ancient Egypt\n\nMyths of Bastet is based on the theme of ancient Egypt, and it pays tribute to one of the most beloved themes of gamblers. The goddess Bastet is at the heart of the game, and the gameplay mechanics add to the fascinating gaming atmosphere from multiple angles.\n\nPayline and RTP\n\nThe game has a single payline with 5 boxes, which can be expanded up to a maximum of 7. It has an RTP fixed at 95.76%, which is quite good and offers good chances of winning.\n\nSymbols and special features\n\nThe game features gems of different colors and shapes, an Alligator, a Snake, the Eagle, and an Egyptian Cat. The Eagle is the Wild symbol, and the Egyptian Cat is a special symbol that helps unlock jackpots. The game also offers free spins as part of the special features, which increase the chances of winning bigger and bigger prizes.\n\nOverall gaming experience\n\nMyths of Bastet is a superb slot machine game. The graphics, design, and atmosphere created by Onlyplay are unique and create a perfect gaming experience. The game is well-structured, and the sound effects add to the overall feel of the game. The ease of play, high-value jackpots and bonuses make for a complete gameplay experience, providing strong emotions and maximum entertainment that players will surely love.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Myths of Bastet\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame format - Slottery\n\nMyths of Bastet is a slot game developed by Onlyplay and has a unique game format known as Slottery. It is a new formula for slot machines that allows for an incredible remote gaming experience. The gameplay performance is impressive, making Onlyplay the true symbol of pure entertainment.\n\nTheme - Bastet and ancient Egypt\n\nMyths of Bastet is based on the theme of ancient Egypt, and it pays tribute to one of the most beloved themes of gamblers. The goddess Bastet is at the heart of the game, and the gameplay mechanics add to the fascinating gaming atmosphere from multiple angles.\n\nPayline and RTP\n\nThe game has a single payline with 5 boxes, which can be expanded up to a maximum of 7. It has an RTP fixed at 95.76%, which is quite good and offers good chances of winning.\n\nSymbols and special features\n\nThe game features gems of different colors and shapes, an Alligator, a Snake, the Eagle, and an Egyptian Cat. The Eagle is the Wild symbol, and the Egyptian Cat is a special symbol that helps unlock jackpots. The game also offers free spins as part of the special features, which increase the chances of winning bigger and bigger prizes.\n\nOverall gaming experience\n\nMyths of Bastet is a superb slot machine game. The graphics, design, and atmosphere created by Onlyplay are unique and create a perfect gaming experience. The game is well-structured, and the sound effects add to the overall feel of the game. The ease of play, high-value jackpots and bonuses make for a complete gameplay experience, providing strong emotions and maximum entertainment that players will surely love.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UETCBQmI8xADNumzrIXP50i1VOqE",
+                "id": "chatcmpl-7WYUzw4W8nB88JJwjXHAGnnByozGv",
                 "object": "chat.completion",
-                "created": 1687439818,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993465,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique game format - Slottery\",\n        \"Fascinating Egyptian theme\",\n        \"Good RTP of 95.76%\",\n        \"Special features, including free spins\"\n    ],\n    \"cons\": [\n        \"Single payline may not appeal to all players\",\n        \"Limited number of symbols\"\n    ],\n    \"meta_title\": \"Play Myths of Bastet for Free - Exciting Slottery Game\",\n    \"meta_description\": \"Read our review of Myths of Bastet - a unique and exciting Slottery slot game with an Egyptian theme. Play for free and experience the thrill!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique game format (Slottery)\",\n    \"Impressive gameplay performance\",\n    \"Based on the popular theme of ancient Egypt\",\n    \"Offers high-value jackpots and bonuses\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (maximum of 7)\",\n    \"RTP could be slightly higher\"\n  ],\n  \"meta_title\": \"Play Myths of Bastet Free - Slot Game Review\",\n  \"meta_description\": \"Read our review of Myths of Bastet, a slot game based on ancient Egypt. Play for free and experience high-value jackpots and bonuses.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 521,
-                    "completion_tokens": 131,
-                    "total_tokens": 652
+                    "prompt_tokens": 518,
+                    "completion_tokens": 132,
+                    "total_tokens": 650
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/myths-of-bastet.json",
+    "raw_feature_images": [
+        "arved__Design_Prompt_Create_a_feature_image_for_Myths_of_Bastet_ff8e8841-23da-44ae-a790-e9d084e85158_1.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Myths_of_Bastet_ff8e8841-23da-44ae-a790-e9d084e85158_4.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Myths_of_Bastet_ff8e8841-23da-44ae-a790-e9d084e85158_3.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Myths_of_Bastet_ff8e8841-23da-44ae-a790-e9d084e85158_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Myths Of Bastet (Version 2).webp",
+        "game_reviews/processed_images/Myths Of Bastet (Version 3).webp",
+        "game_reviews/processed_images/Myths Of Bastet (Version 1).webp",
+        "game_reviews/processed_images/Myths Of Bastet (Version 4).webp"
+    ],
+    "slug": "myths-of-bastet",
+    "name": "Myths of Bastet",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Myths-Of-Bastet-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Myths of Bastet Free - Slot Game Review' ### Meta set: 'Read our review of Myths of Bastet, a slot game based on ancient Egypt. Play for free and experience high-value jackpots and bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative gameplay with 4 stacked grids.",
-                    "Cascading feature for frequent wins and progression.",
-                    "Stack'Em Up feature activates the upper grid for more wins.",
-                    "High volatility provides the chance for big payouts."
+                    "Unique gameplay with stacked grids",
+                    "Progression mechanics with cascading symbols",
+                    "Exciting 'Stack'Em Up' feature",
+                    "High volatility and decent RTP rate"
                 ],
                 "cons": [
-                    "Overwhelming interface on smaller screens.",
-                    "Limited number of paylines may not appeal to all players."
+                    "Overwhelming interface",
+                    "Challenging navigation for small screen devices"
                 ],
-                "meta_title": "Play Blazin Hot 7s Stack Em Up Slot for Free | Review 2021",
-                "meta_description": "Read our unbiased review of Blazin Hot 7s Stack Em Up slot. Learn how to play the game and try it for free. Discover pros and cons and RTP rate."
+                "meta_title": "Play Blazin' Hot 7s Stack'Em Up for Free",
+                "meta_description": "Read our review of Blazin' Hot 7s Stack'Em Up and play for free. Discover unique gameplay and exciting features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Blazin Hot 7s Stack Em Up\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBlazin' Hot 7s Stack'Em Up has 4 grids stacked on top of each other. Each grid has 3 reels and 3 rows, with 5 paylines each. Winning combinations pay from left to right. It offers a minimum bet of €0.20 and a maximum of €10. The game features 5-100 automatic spins with win and loss limits. The RTP (return to player) rate is 96.06%, and the volatility is high.\n\nProgression Mechanics\n\nWhen we get a winning combination on the first grid, a cascade system removes the involved symbols, and a row of new symbols falls from the upper grid. This continues until we have winning combinations. Meanwhile, the progress bar rises to the next level. If we reach level 4, we receive 6-50 free spins.\n\nStack'Em Up Feature\n\nThe 'Stack'Em Up' symbol activates the upper grid each time it appears on the reels. It triggers the same cascade function feature as in the other grids.\n\nVolatility and RTP\n\nBlazin' Hot 7s Stack'Em Up has a high volatility that increases the chances of winning big. The RTP rate stands at 96.06%. It is a relatively good rate that balances the high volatility of the game.\n\nInterface and User Experience\n\nThe interface of Blazin' Hot 7s Stack'Em Up may be overwhelming to some users. The paytable, progress bar, buttons, and notifications all take up space on the screen. This interface might be challenging to navigate for players using small screen devices. However, the sound department follows tradition by bringing arcade music and mechanical sounds to the game, creating an engaging user experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Blazin Hot 7s Stack Em Up\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBlazin' Hot 7s Stack'Em Up has 4 grids stacked on top of each other. Each grid has 3 reels and 3 rows, with 5 paylines each. Winning combinations pay from left to right. It offers a minimum bet of €0.20 and a maximum of €10. The game features 5-100 automatic spins with win and loss limits. The RTP (return to player) rate is 96.06%, and the volatility is high.\n\nProgression Mechanics\n\nWhen we get a winning combination on the first grid, a cascade system removes the involved symbols, and a row of new symbols falls from the upper grid. This continues until we have winning combinations. Meanwhile, the progress bar rises to the next level. If we reach level 4, we receive 6-50 free spins.\n\nStack'Em Up Feature\n\nThe 'Stack'Em Up' symbol activates the upper grid each time it appears on the reels. It triggers the same cascade function feature as in the other grids.\n\nVolatility and RTP\n\nBlazin' Hot 7s Stack'Em Up has a high volatility that increases the chances of winning big. The RTP rate stands at 96.06%. It is a relatively good rate that balances the high volatility of the game.\n\nInterface and User Experience\n\nThe interface of Blazin' Hot 7s Stack'Em Up may be overwhelming to some users. The paytable, progress bar, buttons, and notifications all take up space on the screen. This interface might be challenging to navigate for players using small screen devices. However, the sound department follows tradition by bringing arcade music and mechanical sounds to the game, creating an engaging user experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sgm7fcjmSTTIi016Rana21xIqmhl",
+                "id": "chatcmpl-7WOVm3urMZfnIVCzixjDz7lnyhvKx",
                 "object": "chat.completion",
-                "created": 1687071967,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 538,
-                    "completion_tokens": 160,
-                    "total_tokens": 698
-                },
+                "created": 1687955074,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Innovative gameplay with 4 stacked grids.\",\n    \"Cascading feature for frequent wins and progression.\",\n    \"Stack'Em Up feature activates the upper grid for more wins.\",\n    \"High volatility provides the chance for big payouts.\"\n  ],\n  \"cons\": [\n    \"Overwhelming interface on smaller screens.\",\n    \"Limited number of paylines may not appeal to all players.\"\n  ],\n  \"meta_title\": \"Play Blazin Hot 7s Stack Em Up Slot for Free | Review 2021\",\n  \"meta_description\": \"Read our unbiased review of Blazin Hot 7s Stack Em Up slot. Learn how to play the game and try it for free. Discover pros and cons and RTP rate.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Unique gameplay with stacked grids\",\n      \"Progression mechanics with cascading symbols\",\n      \"Exciting 'Stack'Em Up' feature\",\n      \"High volatility and decent RTP rate\"\n   ],\n   \"cons\": [\n      \"Overwhelming interface\",\n      \"Challenging navigation for small screen devices\"\n   ],\n   \"meta_title\": \"Play Blazin' Hot 7s Stack'Em Up for Free\",\n   \"meta_description\": \"Read our review of Blazin' Hot 7s Stack'Em Up and play for free. Discover unique gameplay and exciting features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 535,
+                    "completion_tokens": 129,
+                    "total_tokens": 664
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/blazin-hot-7s-stack-em-up.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_2.png",
         "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_1.png",
         "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_3.png",
-        "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_4.png"
+        "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_4.png",
+        "arved__Create_a_feature_image_fitting_Blazin_Hot_7s_Stack_Em_Up_452d5948-40bb-4969-bf71-50821b13ed4a_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 2).webp",
-        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 3).webp",
+        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 4).webp",
         "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 1).webp",
-        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 3).webp",
+        "game_reviews/processed_images/Blazin Hot 7S Stack Em Up (Version 2).webp"
+    ],
+    "slug": "blazin-hot-7s-stack-em-up",
+    "name": "Blazin Hot 7s Stack Em Up",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Blazin' Hot 7s Stack'Em Up for Free' ### Meta set: 'Read our review of Blazin' Hot 7s Stack'Em Up and play for free. Discover unique gameplay and exciting features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

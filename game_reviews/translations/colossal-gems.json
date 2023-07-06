@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Low volatility with small but frequent winnings",
-                    "Respin and Free Spin features with giant gem symbols",
-                    "Autospin function with up to 500 autospins available",
-                    "Playable on virtually any device"
+                    "Cartoon-like graphics appeal to slot players of all levels",
+                    "Low volatility provides frequent winnings",
+                    "Autospin function for convenient gameplay",
+                    "Compatible with all devices"
                 ],
                 "cons": [
                     "Limited bonus features",
-                    "Graphics may not appeal to all players"
+                    "Progressive Jackpot Race is not available in all regions"
                 ],
-                "meta_title": "Play Colossal Gems Slot Free - Low Volatility and Giant Gem Symbols",
-                "meta_description": "Read our review of Colossal Gems slot game with low volatility Respin and Free Spin features with giant gem symbols. Play for free on any device."
+                "meta_title": "Play Colossal Gems Free: Review of Gameplay, Design, and Features",
+                "meta_description": "Discover the colorful world of Colossal Gems and play this slot game for free. Learn about its gameplay, design, and bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Colossal Gems\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nColossal Gems is a 6x5 slot game with 30 paylines and giant gem symbols of mega sizes. The game has a Gem theme with cartoon-like graphics that appeal to slot purists and amateur beginners alike. It has low volatility, meaning small but frequent winnings.\n\nBonus Features\n\nColossal Gems features Respins and Free Spins. Each base game win translates into a cluster; a winning block translates to another cluster until new wins occur or three consecutive Respins are reached. The Free Spins feature is triggered after three consecutive respins, and the player enjoys 6 free spins with the wild purple gem. The Respins guarantee giant gems in the following sizes: 2x2 gem (first respin), 3x3 gem (second respin), and 4x4 gem (third respin).\n\nVolatility and RTP\n\nColossal Gems has low volatility and an RTP of 96.72%. The game is suitable for those who want small but frequent winnings.\n\nAutospin Function\n\nColossal Gems offers an Autospin function that players can activate by clicking the button to the right of the selection button. Players can select between 10 and 500 Autospin.\n\nProgressive Jackpot Race\n\nColossal Gems features a growing progressive Jackpot Race. The jackpot can be seen in the top left of the screen.\n\nAccessibility and Compatibility\n\nPlayers can play Colossal Gems on virtually any device, including mobile phones. The game is also ready to be activated in the browser, making it accessible to all players.\n\nSlot Game Collection\n\nPlayers who enjoy Colossal Gems may also like other gem-themed slot games such as Gems Gems Gems slot from WMS and Sizzling Gems from Novomatic. These games can be found in the slot library, which offers thousands of the best slot titles.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Colossal Gems\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Design\n\nColossal Gems is a 6x5 slot game with 30 paylines and giant gem symbols of mega sizes. The game has a Gem theme with cartoon-like graphics that appeal to slot purists and amateur beginners alike. It has low volatility, meaning small but frequent winnings.\n\nBonus Features\n\nColossal Gems features Respins and Free Spins. Each base game win translates into a cluster; a winning block translates to another cluster until new wins occur or three consecutive Respins are reached. The Free Spins feature is triggered after three consecutive respins, and the player enjoys 6 free spins with the wild purple gem. The Respins guarantee giant gems in the following sizes: 2x2 gem (first respin), 3x3 gem (second respin), and 4x4 gem (third respin).\n\nVolatility and RTP\n\nColossal Gems has low volatility and an RTP of 96.72%. The game is suitable for those who want small but frequent winnings.\n\nAutospin Function\n\nColossal Gems offers an Autospin function that players can activate by clicking the button to the right of the selection button. Players can select between 10 and 500 Autospin.\n\nProgressive Jackpot Race\n\nColossal Gems features a growing progressive Jackpot Race. The jackpot can be seen in the top left of the screen.\n\nAccessibility and Compatibility\n\nPlayers can play Colossal Gems on virtually any device, including mobile phones. The game is also ready to be activated in the browser, making it accessible to all players.\n\nSlot Game Collection\n\nPlayers who enjoy Colossal Gems may also like other gem-themed slot games such as Gems Gems Gems slot from WMS and Sizzling Gems from Novomatic. These games can be found in the slot library, which offers thousands of the best slot titles.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SwamXRjRWGpPAUKgYRpVzd28EyGF",
+                "id": "chatcmpl-7WQT4ZnL8oSDAJ4pekM0fBG2Wco6S",
                 "object": "chat.completion",
-                "created": 1687132768,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 549,
-                    "completion_tokens": 138,
-                    "total_tokens": 687
-                },
+                "created": 1687962594,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Low volatility with small but frequent winnings\",\n        \"Respin and Free Spin features with giant gem symbols\",\n        \"Autospin function with up to 500 autospins available\",\n        \"Playable on virtually any device\"\n    ],\n    \"cons\": [\n        \"Limited bonus features\",\n        \"Graphics may not appeal to all players\"\n    ],\n    \"meta_title\": \"Play Colossal Gems Slot Free - Low Volatility and Giant Gem Symbols\",\n    \"meta_description\": \"Read our review of Colossal Gems slot game with low volatility Respin and Free Spin features with giant gem symbols. Play for free on any device.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Cartoon-like graphics appeal to slot players of all levels\",\n    \"Low volatility provides frequent winnings\",\n    \"Autospin function for convenient gameplay\",\n    \"Compatible with all devices\"\n  ],\n  \"cons\": [\n    \"Limited bonus features\",\n    \"Progressive Jackpot Race is not available in all regions\"\n  ],\n  \"meta_title\": \"Play Colossal Gems Free: Review of Gameplay, Design, and Features\",\n  \"meta_description\": \"Discover the colorful world of Colossal Gems and play this slot game for free. Learn about its gameplay, design, and bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 546,
+                    "completion_tokens": 130,
+                    "total_tokens": 676
+                }
             }
         },
         {
@@ -961,10 +961,10 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_1.png",
         "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_4.png",
         "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_2.png"
+        "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Colossal_Gems_in_a_car_56c61262-39ac-4c73-89fa-2a86cdbc7c66_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Colossal Gems (Version 2).webp",
@@ -972,5 +972,14 @@
         "game_reviews/processed_images/Colossal Gems (Version 4).webp",
         "game_reviews/processed_images/Colossal Gems (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/colossal-gems.json"
+    "filename": "game_reviews/translations/colossal-gems.json",
+    "slug": "colossal-gems",
+    "name": "Colossal Gems",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Colossal-Gems-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Colossal Gems Free: Review of Gameplay, Design, and Features' ### Meta set: 'Discover the colorful world of Colossal Gems and play this slot game for free. Learn about its gameplay, design, and bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

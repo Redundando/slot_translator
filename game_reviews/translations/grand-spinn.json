@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Simple and linear gameplay mechanics",
-                    "Nostalgic graphics and design",
-                    "Wild symbols and three different Jackpots",
-                    "Appealing to a wide audience"
+                    "Traditional gameplay experience",
+                    "Beautifully illustrated symbols",
+                    "Inclusion of Wild symbols and Jackpots",
+                    "Nostalgic graphics and design"
                 ],
                 "cons": [
-                    "Only features a 3x3 grid and single payline",
-                    "Not suitable for those who prefer more complex gameplay"
+                    "Limited number of symbols per play",
+                    "Only one payline"
                 ],
-                "meta_title": "Play Grand Spinn Slot Game for Free",
-                "meta_description": "Read our review of Grand Spinn, a traditional slot game with Wild symbols and three Jackpots. Play for free and enjoy its nostalgic graphics and design."
+                "meta_title": "Play Grand Spinn for Free",
+                "meta_description": "Read our review of Grand Spinn and play this engaging game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Grand Spinn\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nGrand Spinn offers a traditional gameplay experience with a 3x3 grid and a single payline. The game's mechanics are simple and linear, with only nine symbols displayed in each play. Despite this, the game includes Wild symbols that act as Jokers and three Jackpot symbols that can multiply the value of the play when obtained.\n\nSymbols and design\n\nGrand Spinn features classic slot machine symbols, such as oranges, cherries, medlars, and watermelons, all of which are beautifully illustrated. The game also includes the number 7 and the word BAR, both of which are common in traditional slot machines. The graphics and design of Grand Spinn evoke a nostalgic atmosphere, reminiscent of the early days of slot machines.\n\nJackpots and bonuses\n\nGrand Spinn offers three different Jackpots (Mini, Midi, Mega) that can significantly multiply the value of the play. The game also includes Wild symbols that act as Jokers, substituting for any other symbol on the reels. Although the gameplay is simple and linear, the inclusion of bonuses and Jackpots makes the game more exciting and engaging.\n\nComparison to similar games\n\nFor those who enjoy traditional slot machines, there are several games that are similar to Grand Spinn. IGT's Triple Diamond and SG's The Wizard of Oz also use the 3x3 grid and offer a nostalgic feel. RealTime Gaming's Scuba Fishing, on the other hand, takes a different graphic approach. Grand Spinn stands out for its inclusion of Wild symbols and Jackpots, making it more unique within the category.\n\nAudience appeal\n\nGrand Spinn is a great choice for those who appreciate the simplicity of traditional slot machines but also want to experience bonus functions and Jackpots. The nostalgic graphics and design will appeal to those who enjoy classic slot machines, while the inclusion of Wild symbols and Jackpots add an extra layer of excitement. Overall, Grand Spinn is an engaging and enjoyable game that will appeal to a wide audience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Grand Spinn\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nGrand Spinn offers a traditional gameplay experience with a 3x3 grid and a single payline. The game's mechanics are simple and linear, with only nine symbols displayed in each play. Despite this, the game includes Wild symbols that act as Jokers and three Jackpot symbols that can multiply the value of the play when obtained.\n\nSymbols and design\n\nGrand Spinn features classic slot machine symbols, such as oranges, cherries, medlars, and watermelons, all of which are beautifully illustrated. The game also includes the number 7 and the word BAR, both of which are common in traditional slot machines. The graphics and design of Grand Spinn evoke a nostalgic atmosphere, reminiscent of the early days of slot machines.\n\nJackpots and bonuses\n\nGrand Spinn offers three different Jackpots (Mini, Midi, Mega) that can significantly multiply the value of the play. The game also includes Wild symbols that act as Jokers, substituting for any other symbol on the reels. Although the gameplay is simple and linear, the inclusion of bonuses and Jackpots makes the game more exciting and engaging.\n\nComparison to similar games\n\nFor those who enjoy traditional slot machines, there are several games that are similar to Grand Spinn. IGT's Triple Diamond and SG's The Wizard of Oz also use the 3x3 grid and offer a nostalgic feel. RealTime Gaming's Scuba Fishing, on the other hand, takes a different graphic approach. Grand Spinn stands out for its inclusion of Wild symbols and Jackpots, making it more unique within the category.\n\nAudience appeal\n\nGrand Spinn is a great choice for those who appreciate the simplicity of traditional slot machines but also want to experience bonus functions and Jackpots. The nostalgic graphics and design will appeal to those who enjoy classic slot machines, while the inclusion of Wild symbols and Jackpots add an extra layer of excitement. Overall, Grand Spinn is an engaging and enjoyable game that will appeal to a wide audience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TmjqqeKu6GQs8Hxs5pHlmN2y07G0",
+                "id": "chatcmpl-7WUKhS61dfBdxIDangffapSpTDXJ6",
                 "object": "chat.completion",
-                "created": 1687333218,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687977451,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and linear gameplay mechanics\",\n        \"Nostalgic graphics and design\",\n        \"Wild symbols and three different Jackpots\",\n        \"Appealing to a wide audience\"\n    ],\n    \"cons\": [\n        \"Only features a 3x3 grid and single payline\",\n        \"Not suitable for those who prefer more complex gameplay\"\n    ],\n    \"meta_title\": \"Play Grand Spinn Slot Game for Free\",\n    \"meta_description\": \"Read our review of Grand Spinn, a traditional slot game with Wild symbols and three Jackpots. Play for free and enjoy its nostalgic graphics and design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Traditional gameplay experience\",\n    \"Beautifully illustrated symbols\",\n    \"Inclusion of Wild symbols and Jackpots\",\n    \"Nostalgic graphics and design\"\n  ],\n  \"cons\": [\n    \"Limited number of symbols per play\",\n    \"Only one payline\"\n  ],\n  \"meta_title\": \"Play Grand Spinn for Free\",\n  \"meta_description\": \"Read our review of Grand Spinn and play this engaging game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 588,
-                    "completion_tokens": 136,
-                    "total_tokens": 724
+                    "prompt_tokens": 585,
+                    "completion_tokens": 102,
+                    "total_tokens": 687
                 }
             }
         },
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/grand-spinn.json"
+    "filename": "game_reviews/translations/grand-spinn.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Grand_Spinn_that_features_a_h_6e46e20f-22f3-436a-a24b-9d356707b46c_1.png",
+        "arved__Create_a_feature_image_for_Grand_Spinn_that_features_a_h_6e46e20f-22f3-436a-a24b-9d356707b46c_4.png",
+        "arved__Create_a_feature_image_for_Grand_Spinn_that_features_a_h_6e46e20f-22f3-436a-a24b-9d356707b46c_2.png",
+        "arved__Create_a_feature_image_for_Grand_Spinn_that_features_a_h_6e46e20f-22f3-436a-a24b-9d356707b46c_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Grand Spinn (Version 2).webp",
+        "game_reviews/processed_images/Grand Spinn (Version 1).webp",
+        "game_reviews/processed_images/Grand Spinn (Version 4).webp",
+        "game_reviews/processed_images/Grand Spinn (Version 3).webp"
+    ],
+    "slug": "grand-spinn",
+    "name": "Grand Spinn",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Grand-Spinn-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Grand Spinn for Free' ### Meta set: 'Read our review of Grand Spinn and play this engaging game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

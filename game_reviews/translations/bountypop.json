@@ -574,40 +574,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "PopWins feature creates exciting gameplay",
-                    "High volatility and 96% RTP can lead to big winnings",
-                    "Multiplier Wheel and Wheel of Bets add extra chances for bonuses",
-                    "Characters inspire mystery, adventure, and magic"
+                    "PopWins feature",
+                    "Game volatility and RTP",
+                    "Multiplier wheel",
+                    "Wheel of Bets"
                 ],
                 "cons": [
-                    "Graphics and sound design are lackluster",
-                    "Wheel of Bets can lead to disappointment if losing"
+                    "Graphics and sound design"
                 ],
-                "meta_title": "Play BountyPop Free: Exciting PopWins and Bonus Features",
-                "meta_description": "Read our review of BountyPop and play for free. Experience exciting PopWins feature, high volatility, and bonus games like Multiplier Wheel and Wheel of Bets."
+                "meta_title": "Play BountyPop Free - Review of the Exciting Online Slot Game",
+                "meta_description": "Read our review of BountyPop to discover the thrilling features and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"BountyPop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nPopWins feature\n\nThe main feature of BountyPop is undoubtedly the PopWins function. Each winning symbol explodes and is replaced by two symbols that increase the height of the reel (which can expand up to 6 more symbols in the base game and up to 9 more symbols in the free spins).\n\nGame volatility and RTP\n\nBountyPop offers high volatility which, combined with an RTP in the average of 96%, can certainly offer interesting winnings to the luckiest players.\n\nMultiplier wheel\n\nThe slot's \"Multiplier Wheel\" bonus will be activated when a reel reaches 6 symbols in height in the base game. The wheel has various levels: base, bronze, silver, and gold, and each one offers increasingly higher multipliers.\n\nWheel of Bets\n\nBountyPop has a \"Wheel of Bets,\" a sort of wheel of fortune that, in the event of a win, will increase your free spins. However, losing at the Wheel of Bets will return you to the base game without any free spins.\n\nGraphics and sound design\n\nFrom a graphical standpoint, BountyPop is surprisingly simple, despite the possibility of doing so much more with the pirate theme. Even the sound aspect is rather shaky. The background music is spot on, epic and evocative, but unfortunately, it's not accompanied by equally effective sound effects. The characters inspire mystery, adventure and, above all, magic, but unfortunately, they are the only strong point of this slot machine from a graphical standpoint.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"BountyPop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nPopWins feature\n\nThe main feature of BountyPop is undoubtedly the PopWins function. Each winning symbol explodes and is replaced by two symbols that increase the height of the reel (which can expand up to 6 more symbols in the base game and up to 9 more symbols in the free spins).\n\nGame volatility and RTP\n\nBountyPop offers high volatility which, combined with an RTP in the average of 96%, can certainly offer interesting winnings to the luckiest players.\n\nMultiplier wheel\n\nThe slot's \"Multiplier Wheel\" bonus will be activated when a reel reaches 6 symbols in height in the base game. The wheel has various levels: base, bronze, silver, and gold, and each one offers increasingly higher multipliers.\n\nWheel of Bets\n\nBountyPop has a \"Wheel of Bets,\" a sort of wheel of fortune that, in the event of a win, will increase your free spins. However, losing at the Wheel of Bets will return you to the base game without any free spins.\n\nGraphics and sound design\n\nFrom a graphical standpoint, BountyPop is surprisingly simple, despite the possibility of doing so much more with the pirate theme. Even the sound aspect is rather shaky. The background music is spot on, epic and evocative, but unfortunately, it's not accompanied by equally effective sound effects. The characters inspire mystery, adventure and, above all, magic, but unfortunately, they are the only strong point of this slot machine from a graphical standpoint.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sm73SM7hrT9HrT4an8Gyck5KNPKT",
+                "id": "chatcmpl-7WPInJG0x5Hs2OGRodAQIlQ5PO4jS",
                 "object": "chat.completion",
-                "created": 1687092485,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 478,
-                    "completion_tokens": 150,
-                    "total_tokens": 628
-                },
+                "created": 1687958113,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"PopWins feature creates exciting gameplay\",\n        \"High volatility and 96% RTP can lead to big winnings\",\n        \"Multiplier Wheel and Wheel of Bets add extra chances for bonuses\",\n        \"Characters inspire mystery, adventure, and magic\"\n    ],\n    \"cons\": [\n        \"Graphics and sound design are lackluster\",\n        \"Wheel of Bets can lead to disappointment if losing\"\n    ],\n    \"meta_title\": \"Play BountyPop Free: Exciting PopWins and Bonus Features\",\n    \"meta_description\": \"Read our review of BountyPop and play for free. Experience exciting PopWins feature, high volatility, and bonus games like Multiplier Wheel and Wheel of Bets.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"PopWins feature\",\n    \"Game volatility and RTP\",\n    \"Multiplier wheel\",\n    \"Wheel of Bets\"\n  ],\n  \"cons\": [\n    \"Graphics and sound design\"\n  ],\n  \"meta_title\": \"Play BountyPop Free - Review of the Exciting Online Slot Game\",\n  \"meta_description\": \"Read our review of BountyPop to discover the thrilling features and play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 475,
+                    "completion_tokens": 91,
+                    "total_tokens": 566
+                }
             }
         },
         {
@@ -813,10 +812,19 @@
         "arved__Create_a_cartoon-style_feature_image_for_BountyPop_that__55fbc163-6882-4c7a-9d39-c1d93423b747_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Bountypop (Version 4).webp",
         "game_reviews/processed_images/Bountypop (Version 3).webp",
         "game_reviews/processed_images/Bountypop (Version 1).webp",
-        "game_reviews/processed_images/Bountypop (Version 4).webp",
         "game_reviews/processed_images/Bountypop (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/bountypop.json"
+    "filename": "game_reviews/translations/bountypop.json",
+    "slug": "bountypop",
+    "name": "BountyPop",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Bountypop-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play BountyPop Free - Review of the Exciting Online Slot Game' ### Meta set: 'Read our review of BountyPop to discover the thrilling features and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

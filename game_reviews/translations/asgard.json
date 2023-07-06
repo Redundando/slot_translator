@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multiple bonus features increase winning potential",
-                    "Medium volatility creates frequent profitable returns",
-                    "Intuitive gameplay approachable to all players",
-                    "Free play mode to practice and get familiar with the game"
+                    "Inspired by Norse legend",
+                    "Multiple special features",
+                    "Medium volatility for profitable returns",
+                    "Play for fun mode for beginners"
                 ],
                 "cons": [
-                    "Graphics may not be impressive for some players",
-                    "Lack of realistic special effects"
+                    "Lacks spectacular graphics and effects",
+                    "Limited animations"
                 ],
-                "meta_title": "Play Asgard for Free: Review of Slot Game Inspired by Norse Legend",
-                "meta_description": "Discover the features of Asgard by Pragmatic Play. Play the game for free and learn the intricacies of this slot game inspired by Norse legend."
+                "meta_title": "Play Asgard for Free - Exciting Slot Game Inspired by Norse Legend",
+                "meta_description": "Discover the world of Asgard in this free slot game. Enjoy Norse legend-themed gameplay and multiple special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Asgard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nAsgard by Pragmatic Play is a slot game inspired by Norse legend and features five reels and 25 paylines. Players can bet a minimum of €0.01 per payline up to a maximum of €125, with coin values ranging from €0.01 to €0.5. This game has medium volatility, meaning there is a chance of profitable returns and frequent winnings. The game is intuitive to approach and ideal for those who are inexperienced with slot games.\n\nSpecial Features\n\nAsgard presents several features that enrich the gaming experience and increase the chances of winning. The Free Spin feature is activated randomly, granting access to bonus games. The game also features several stacked Wilds where some symbols transform into stacked Wilds during regular gameplay, increasing the potential for winning combinations. Wild Rain is another such feature wherein Wild symbols appear on the reels, increasing the chance of winning prizes.\n\nVolatility\n\nAsgard by Pragmatic Play has medium volatility, meaning that there is a chance of profitable returns and frequent winnings. The chances of earning valuable prizes are higher than games with higher volatility.\n\nDesign/Graphics\n\nThe graphics of Asgard by Pragmatic Play are essential and reminiscent of the 80s. Despite the absence of spectacular and realistic images, special effects, or 3D animations that this game could have used, Pragmatic Play chose to utilize essential graphics, somewhat similar to characters in Marvel comics. The game features quite a modern and impressive theme and has been keeping up with recent Hollywood giant films, bringing the legendary populations of Northern Europe back to prominence.\n\nPlay Mode\n\nPlayers can discover the intricacies of Asgard by playing in play-for-fun mode before betting real money. This mode helps inexperienced players get familiar with the game, its features, and gameplay before playing for actual money.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Asgard\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nAsgard by Pragmatic Play is a slot game inspired by Norse legend and features five reels and 25 paylines. Players can bet a minimum of €0.01 per payline up to a maximum of €125, with coin values ranging from €0.01 to €0.5. This game has medium volatility, meaning there is a chance of profitable returns and frequent winnings. The game is intuitive to approach and ideal for those who are inexperienced with slot games.\n\nSpecial Features\n\nAsgard presents several features that enrich the gaming experience and increase the chances of winning. The Free Spin feature is activated randomly, granting access to bonus games. The game also features several stacked Wilds where some symbols transform into stacked Wilds during regular gameplay, increasing the potential for winning combinations. Wild Rain is another such feature wherein Wild symbols appear on the reels, increasing the chance of winning prizes.\n\nVolatility\n\nAsgard by Pragmatic Play has medium volatility, meaning that there is a chance of profitable returns and frequent winnings. The chances of earning valuable prizes are higher than games with higher volatility.\n\nDesign/Graphics\n\nThe graphics of Asgard by Pragmatic Play are essential and reminiscent of the 80s. Despite the absence of spectacular and realistic images, special effects, or 3D animations that this game could have used, Pragmatic Play chose to utilize essential graphics, somewhat similar to characters in Marvel comics. The game features quite a modern and impressive theme and has been keeping up with recent Hollywood giant films, bringing the legendary populations of Northern Europe back to prominence.\n\nPlay Mode\n\nPlayers can discover the intricacies of Asgard by playing in play-for-fun mode before betting real money. This mode helps inexperienced players get familiar with the game, its features, and gameplay before playing for actual money.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SYrqiRzb13auMHVKgEEaqG567LF9",
+                "id": "chatcmpl-7WNSeOu33EbICfSkJY6EHnmyDpKXu",
                 "object": "chat.completion",
-                "created": 1687041570,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 547,
-                    "completion_tokens": 127,
-                    "total_tokens": 674
-                },
+                "created": 1687951036,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Multiple bonus features increase winning potential\", \"Medium volatility creates frequent profitable returns\", \"Intuitive gameplay approachable to all players\", \"Free play mode to practice and get familiar with the game\"],\n    \"cons\": [\"Graphics may not be impressive for some players\", \"Lack of realistic special effects\"],\n    \"meta_title\": \"Play Asgard for Free: Review of Slot Game Inspired by Norse Legend\",\n    \"meta_description\": \"Discover the features of Asgard by Pragmatic Play. Play the game for free and learn the intricacies of this slot game inspired by Norse legend.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Inspired by Norse legend\",\n    \"Multiple special features\",\n    \"Medium volatility for profitable returns\",\n    \"Play for fun mode for beginners\"\n  ],\n  \"cons\": [\n    \"Lacks spectacular graphics and effects\",\n    \"Limited animations\"\n  ],\n  \"meta_title\": \"Play Asgard for Free - Exciting Slot Game Inspired by Norse Legend\",\n  \"meta_description\": \"Discover the world of Asgard in this free slot game. Enjoy Norse legend-themed gameplay and multiple special features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 544,
+                    "completion_tokens": 111,
+                    "total_tokens": 655
+                }
             }
         },
         {
@@ -816,13 +816,22 @@
     "raw_feature_images": [
         "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_4.png",
         "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_1.png",
-        "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_2.png",
-        "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_3.png"
+        "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_3.png",
+        "arved__Can_you_create_an_image_for_Asgard_with_the_following_sp_509baa4d-0eed-497e-a6e8-8ec9b88591b6_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Asgard (Version 3).webp",
         "game_reviews/processed_images/Asgard (Version 1).webp",
-        "game_reviews/processed_images/Asgard (Version 4).webp",
-        "game_reviews/processed_images/Asgard (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Asgard (Version 3).webp",
+        "game_reviews/processed_images/Asgard (Version 2).webp",
+        "game_reviews/processed_images/Asgard (Version 4).webp"
+    ],
+    "slug": "asgard",
+    "name": "Asgard",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Asgard-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Asgard for Free - Exciting Slot Game Inspired by Norse Legend' ### Meta set: 'Discover the world of Asgard in this free slot game. Enjoy Norse legend-themed gameplay and multiple special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

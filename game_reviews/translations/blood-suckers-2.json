@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Improved gameplay and graphics",
-                    "Consistent vampire theme with unique symbols",
-                    "Classic Free Spins feature with tripled winnings",
-                    "Exciting bonus game with multipliers up to 10,000 coins"
+                    "Vampire-themed with realistic images",
+                    "Includes Free Spins feature with tripled winnings",
+                    "Bonus game with free spins and multipliers up to 10,000 coins"
                 ],
                 "cons": [
-                    "May not appeal to those who dislike vampire themes",
-                    "No progressive jackpot feature"
+                    "No progressive jackpot feature",
+                    "Limited betting options"
                 ],
-                "meta_title": "Play Blood Suckers 2 Free - Improved Vampire-Themed Slot",
-                "meta_description": "Read our review of Blood Suckers 2, an improved vampire-themed slot machine game from NetEnt. Play for free and enjoy classic Free Spins and a thrilling bonus game."
+                "meta_title": "Play Blood Suckers 2 for Free",
+                "meta_description": "Read our review of Blood Suckers 2 and play this vampire-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Blood Suckers 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlood Suckers 2\n\nBlood Suckers 2 is the improved vampire-themed slot machine game from NetEnt.\n\nGameplay and Graphics\n\nBlood Suckers 2 features renewed gameplay and improved graphics, with realistic images and an eerie background featuring luxurious coffins. The game also includes a seductive crossbow-wielding vampire in its opening trailer to mark the beginning of the adventure.\n\nSymbols and Features\n\nThe symbols in Blood Suckers 2 are consistent with the vampire theme, with gemstone versions of four suits replacing the poker cards present in other NetEnt slot games. The Wild symbol works as a Joker, while the Scatter allows access to the Free Spins feature with up to ten free spins and tripled winnings. The game also includes a bonus game that awards free spins and multipliers up to 10,000 coins.\n\nFree Spins\n\nBlood Suckers 2 includes the classic Free Spins feature, allowing players to earn up to ten free spins and tripled winnings by landing the Scatter symbol.\n\nBonus Game\n\nThe bonus game in Blood Suckers 2 awards free spins and multipliers up to 10,000 coins to lucky players. This feature adds to the gameplay and excitement of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Blood Suckers 2\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlood Suckers 2\n\nBlood Suckers 2 is the improved vampire-themed slot machine game from NetEnt.\n\nGameplay and Graphics\n\nBlood Suckers 2 features renewed gameplay and improved graphics, with realistic images and an eerie background featuring luxurious coffins. The game also includes a seductive crossbow-wielding vampire in its opening trailer to mark the beginning of the adventure.\n\nSymbols and Features\n\nThe symbols in Blood Suckers 2 are consistent with the vampire theme, with gemstone versions of four suits replacing the poker cards present in other NetEnt slot games. The Wild symbol works as a Joker, while the Scatter allows access to the Free Spins feature with up to ten free spins and tripled winnings. The game also includes a bonus game that awards free spins and multipliers up to 10,000 coins.\n\nFree Spins\n\nBlood Suckers 2 includes the classic Free Spins feature, allowing players to earn up to ten free spins and tripled winnings by landing the Scatter symbol.\n\nBonus Game\n\nThe bonus game in Blood Suckers 2 awards free spins and multipliers up to 10,000 coins to lucky players. This feature adds to the gameplay and excitement of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7ShfszTyOnK1gB7XSfPxRv9VDnJvY",
+                "id": "chatcmpl-7WOcnOILbmlDcuqMFdrX8pmmnfG8O",
                 "object": "chat.completion",
-                "created": 1687075424,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 431,
-                    "completion_tokens": 147,
-                    "total_tokens": 578
-                },
+                "created": 1687955509,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Improved gameplay and graphics\",\n        \"Consistent vampire theme with unique symbols\",\n        \"Classic Free Spins feature with tripled winnings\",\n        \"Exciting bonus game with multipliers up to 10,000 coins\"\n    ],\n    \"cons\": [\n        \"May not appeal to those who dislike vampire themes\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Blood Suckers 2 Free - Improved Vampire-Themed Slot\",\n    \"meta_description\": \"Read our review of Blood Suckers 2, an improved vampire-themed slot machine game from NetEnt. Play for free and enjoy classic Free Spins and a thrilling bonus game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Improved gameplay and graphics\",\n    \"Vampire-themed with realistic images\",\n    \"Includes Free Spins feature with tripled winnings\",\n    \"Bonus game with free spins and multipliers up to 10,000 coins\"\n  ],\n  \"cons\": [\n    \"No progressive jackpot feature\",\n    \"Limited betting options\"\n  ],\n  \"meta_title\": \"Play Blood Suckers 2 for Free\",\n  \"meta_description\": \"Read our review of Blood Suckers 2 and play this vampire-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 428,
+                    "completion_tokens": 118,
+                    "total_tokens": 546
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/blood-suckers-2.json",
     "raw_feature_images": [
+        "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_2.png",
         "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_3.png",
         "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_4.png",
-        "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_1.png",
-        "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_2.png"
+        "arved__Create_a_Feature_Image_Prompt_for_DALLE_Design_a_vibrant_32336e61-ea12-411e-a3e3-42dd28aee1c7_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Blood Suckers 2 (Version 2).webp",
         "game_reviews/processed_images/Blood Suckers 2 (Version 1).webp",
         "game_reviews/processed_images/Blood Suckers 2 (Version 3).webp",
-        "game_reviews/processed_images/Blood Suckers 2 (Version 4).webp",
-        "game_reviews/processed_images/Blood Suckers 2 (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Blood Suckers 2 (Version 4).webp"
+    ],
+    "slug": "blood-suckers-2",
+    "name": "Blood Suckers 2",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Blood-Suckers-2-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Blood Suckers 2 for Free' ### Meta set: 'Read our review of Blood Suckers 2 and play this vampire-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

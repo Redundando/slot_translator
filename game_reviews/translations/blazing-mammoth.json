@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Gameplay features",
-                    "Visual design",
-                    "Payouts and betting range",
-                    "Ease of use"
+                    "High-quality graphics and sound effects",
+                    "Unique prehistoric theme",
+                    "Game multipliers and free spins",
+                    "Easy-to-use interface for beginners"
                 ],
                 "cons": [
-                    "Lack of unique bonus features",
-                    "Limited betting range for high rollers"
+                    "Limited betting range",
+                    "Lack of innovative features"
                 ],
-                "meta_title": "Play Blazing Mammoth Free | A Prehistoric Themed Slot Game",
-                "meta_description": "Read our unbiased review of Blazing Mammoth, a 5-reel virtual slot machine with prehistoric theme. Play it for free and enjoy unique game features!"
+                "meta_title": "Play Blazing Mammoth Free",
+                "meta_description": "Read our review of Blazing Mammoth and play for free. Enjoy high-quality graphics and unique prehistoric theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Blazing Mammoth\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBlazing Mammoth is a 5-reel, 3-row virtual slot machine with 20 pay lines. The game features game multipliers, free spins, a maximum bet of £120, and a minimum bet of 20 cents. The maximum payout is 2000 times your bet.\n\nVisual Design\n\nBlazing Mammoth has a prehistoric theme with high-quality graphics and sound effects. The game features primitive men, mammoths, and many other animals from that era, as well as classic symbols such as the jackpot, wild symbol, and scatter symbol.\n\nPayouts and Betting Range\n\nBlazing Mammoth has a maximum bet of £120, making it great for beginners who want to feel safe and not risk too much money at once. There is also a minimum bet of 20 cents. The maximum payout is 2000 times your bet.\n\nSymbols and Themes\n\nBlazing Mammoth features primitive men, mammoths, and many other animals from the prehistoric era, as well as classic symbols from the world of slots. All symbols are presented in a highly realistic and detailed manner.\n\nEase of Use\n\nBlazing Mammoth is easy to use and access, with a simple and basic user interface that is great for beginners. The game combines unique themes with traditional ones to provide a high-quality gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Blazing Mammoth\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nBlazing Mammoth is a 5-reel, 3-row virtual slot machine with 20 pay lines. The game features game multipliers, free spins, a maximum bet of £120, and a minimum bet of 20 cents. The maximum payout is 2000 times your bet.\n\nVisual Design\n\nBlazing Mammoth has a prehistoric theme with high-quality graphics and sound effects. The game features primitive men, mammoths, and many other animals from that era, as well as classic symbols such as the jackpot, wild symbol, and scatter symbol.\n\nPayouts and Betting Range\n\nBlazing Mammoth has a maximum bet of £120, making it great for beginners who want to feel safe and not risk too much money at once. There is also a minimum bet of 20 cents. The maximum payout is 2000 times your bet.\n\nSymbols and Themes\n\nBlazing Mammoth features primitive men, mammoths, and many other animals from the prehistoric era, as well as classic symbols from the world of slots. All symbols are presented in a highly realistic and detailed manner.\n\nEase of Use\n\nBlazing Mammoth is easy to use and access, with a simple and basic user interface that is great for beginners. The game combines unique themes with traditional ones to provide a high-quality gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sh1tOUxL6UUCdVm00uzG4S8pdUDc",
+                "id": "chatcmpl-7WOXeU0Y6Sa9yCqJdMj1rD32iU548",
                 "object": "chat.completion",
-                "created": 1687072945,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 452,
-                    "completion_tokens": 110,
-                    "total_tokens": 562
-                },
+                "created": 1687955190,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Gameplay features\", \"Visual design\", \"Payouts and betting range\", \"Ease of use\"],\n    \"cons\": [\"Lack of unique bonus features\", \"Limited betting range for high rollers\"],\n    \"meta_title\": \"Play Blazing Mammoth Free | A Prehistoric Themed Slot Game\",\n    \"meta_description\": \"Read our unbiased review of Blazing Mammoth, a 5-reel virtual slot machine with prehistoric theme. Play it for free and enjoy unique game features!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality graphics and sound effects\",\n    \"Unique prehistoric theme\",\n    \"Game multipliers and free spins\",\n    \"Easy-to-use interface for beginners\"\n  ],\n  \"cons\": [\n    \"Limited betting range\",\n    \"Lack of innovative features\"\n  ],\n  \"meta_title\": \"Play Blazing Mammoth Free\",\n  \"meta_description\": \"Read our review of Blazing Mammoth and play for free. Enjoy high-quality graphics and unique prehistoric theme.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 449,
+                    "completion_tokens": 107,
+                    "total_tokens": 556
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/blazing-mammoth.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_1.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_4.png",
         "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_2.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_3.png"
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_3.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_1.png",
+        "arved__Prompt_Create_a_feature_image_fitting_the_game_Blazing_M_01747616-7bd9-4e1c-b812-e6ca4baaf932_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Blazing Mammoth (Version 2).webp",
         "game_reviews/processed_images/Blazing Mammoth (Version 1).webp",
         "game_reviews/processed_images/Blazing Mammoth (Version 3).webp",
         "game_reviews/processed_images/Blazing Mammoth (Version 4).webp"
-    ]
+    ],
+    "slug": "blazing-mammoth",
+    "name": "Blazing Mammoth",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Blazing-Mammoth-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Blazing Mammoth Free' ### Meta set: 'Read our review of Blazing Mammoth and play for free. Enjoy high-quality graphics and unique prehistoric theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

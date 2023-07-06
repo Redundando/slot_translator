@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Up to 1,024 paylines for potential big winnings",
-                    "Random multipliers and exciting Royal Respin function",
-                    "Charming design with unique beehive theme",
-                    "Progressive jackpots and bonus game function for added excitement"
+                    "Hive structure with up to 1,024 paylines for potential big wins",
+                    "Collection of coins with random multipliers adds excitement to gameplay",
+                    "Magnificent reels and beehive palace background create an impressive design",
+                    "Exciting features like Royal Respin and Bonus Game add to the thrill"
                 ],
                 "cons": [
-                    "Low RTP at 94%",
-                    "Limited bonus game spins"
+                    "RTP of 94% is considered low compared to other slot games",
+                    "Players may need to practice responsible gambling to avoid unwanted losses"
                 ],
-                "meta_title": "Play Beellionaires Dream Drop for Free - Review",
-                "meta_description": "Discover the charming design and exciting features of Beellionaires Dream Drop. Play now for free and potentially win big with random multipliers and progressive jackpots."
+                "meta_title": "Play Beellionaires Dream Drop for Free - Exciting Features & Big Wins",
+                "meta_description": "Read our review of Beellionaires Dream Drop and play for free. Experience exciting features and the chance to win big rewards."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beellionaires Dream Drop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBeellionaires Dream Drop has a hive structure of 5x4 and up to 1,024 paylines, with potential winnings of up to 10,000 times the bet.\n\nFeatures\n\nBeellionaires Dream Drop offers a collection of coins with random multipliers and a Royal Respin function that is activated when 3 collection symbols appear. The player will receive 3 respins and fixed collector symbols on the stopping positions for a rain of coins to enhance the winnings' multiplier. Additionally, the Bonus Game function with Crown scatters rewards the player with 10, 15, or 20 spins.\n\nDesign\n\nBeellionaires Dream Drop impresses with its magnificent reels finished in wood and the background's beehive palace worthy of a real beehive. The symbols such as tankards, scrolls, trumpets, and jars of honey can pay up to 25 times the bet, while the Jokers and Scatters can trigger exciting features like the Royal Respin. The game has a charming design that makes it stand out from other slot games.\n\nWinnings\n\nThe potential winnings in Beellionaires Dream Drop can go up to 10,000 times the bet, which is a significant amount. While the RTP of the game is 94% and considered low, the progressive jackpots and features present in the game make up for it. Players can unlock exciting features, increasing their chance of winning big rewards.\n\nRTP\n\nBeellionaires Dream Drop has an RTP of 94%, which is below the average in slot games. However, the game's various features and progressive jackpots compensate for the low RTP. Players must remember to practice responsible gambling when playing this game to ensure they don't incur any unwanted losses.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beellionaires Dream Drop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBeellionaires Dream Drop has a hive structure of 5x4 and up to 1,024 paylines, with potential winnings of up to 10,000 times the bet.\n\nFeatures\n\nBeellionaires Dream Drop offers a collection of coins with random multipliers and a Royal Respin function that is activated when 3 collection symbols appear. The player will receive 3 respins and fixed collector symbols on the stopping positions for a rain of coins to enhance the winnings' multiplier. Additionally, the Bonus Game function with Crown scatters rewards the player with 10, 15, or 20 spins.\n\nDesign\n\nBeellionaires Dream Drop impresses with its magnificent reels finished in wood and the background's beehive palace worthy of a real beehive. The symbols such as tankards, scrolls, trumpets, and jars of honey can pay up to 25 times the bet, while the Jokers and Scatters can trigger exciting features like the Royal Respin. The game has a charming design that makes it stand out from other slot games.\n\nWinnings\n\nThe potential winnings in Beellionaires Dream Drop can go up to 10,000 times the bet, which is a significant amount. While the RTP of the game is 94% and considered low, the progressive jackpots and features present in the game make up for it. Players can unlock exciting features, increasing their chance of winning big rewards.\n\nRTP\n\nBeellionaires Dream Drop has an RTP of 94%, which is below the average in slot games. However, the game's various features and progressive jackpots compensate for the low RTP. Players must remember to practice responsible gambling when playing this game to ensure they don't incur any unwanted losses.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sd863qNZpeH42JKT0MeCRd18YNDw",
+                "id": "chatcmpl-7WNw70kAYl2p68v5KOMx9wNOANJ5r",
                 "object": "chat.completion",
-                "created": 1687057954,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 542,
-                    "completion_tokens": 144,
-                    "total_tokens": 686
-                },
+                "created": 1687952863,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Up to 1,024 paylines for potential big winnings\",\n        \"Random multipliers and exciting Royal Respin function\",\n        \"Charming design with unique beehive theme\",\n        \"Progressive jackpots and bonus game function for added excitement\"\n    ],\n    \"cons\": [\n        \"Low RTP at 94%\",\n        \"Limited bonus game spins\"\n    ],\n    \"meta_title\": \"Play Beellionaires Dream Drop for Free - Review\",\n    \"meta_description\": \"Discover the charming design and exciting features of Beellionaires Dream Drop. Play now for free and potentially win big with random multipliers and progressive jackpots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Hive structure with up to 1,024 paylines for potential big wins\",\n    \"Collection of coins with random multipliers adds excitement to gameplay\",\n    \"Magnificent reels and beehive palace background create an impressive design\",\n    \"Exciting features like Royal Respin and Bonus Game add to the thrill\"\n  ],\n  \"cons\": [\n    \"RTP of 94% is considered low compared to other slot games\",\n    \"Players may need to practice responsible gambling to avoid unwanted losses\"\n  ],\n  \"meta_title\": \"Play Beellionaires Dream Drop for Free - Exciting Features & Big Wins\",\n  \"meta_description\": \"Read our review of Beellionaires Dream Drop and play for free. Experience exciting features and the chance to win big rewards.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 539,
+                    "completion_tokens": 169,
+                    "total_tokens": 708
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/beellionaires-dream-drop.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_3.png",
         "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_4.png",
-        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_1.png",
-        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_2.png"
+        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_2.png",
+        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_3.png",
+        "arved__Create_a_feature_image_fitting_Beellionaires_Dream_Drop__b082e69d-8b16-47da-912e-1686928920af_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Beellionaires Dream Drop (Version 2).webp",
         "game_reviews/processed_images/Beellionaires Dream Drop (Version 3).webp",
+        "game_reviews/processed_images/Beellionaires Dream Drop (Version 4).webp",
         "game_reviews/processed_images/Beellionaires Dream Drop (Version 1).webp",
-        "game_reviews/processed_images/Beellionaires Dream Drop (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Beellionaires Dream Drop (Version 2).webp"
+    ],
+    "slug": "beellionaires-dream-drop",
+    "name": "Beellionaires Dream Drop",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Beellionaires-Dream-Drop-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beellionaires Dream Drop for Free - Exciting Features & Big Wins' ### Meta set: 'Read our review of Beellionaires Dream Drop and play for free. Experience exciting features and the chance to win big rewards.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stackable Wild symbols during free spins",
-                    "Exceptional graphics and vibrant colors",
-                    "Multi-platform accessibility",
-                    "Plenty of free spins available"
+                    "Wide range of betting options",
+                    "Stackable wild symbols during free spins",
+                    "Exceptional graphics and vivid colors",
+                    "Mesmerizing soundtrack"
                 ],
                 "cons": [
-                    "Mayan theme not original",
-                    "No bonus game feature"
+                    "Mayan theme may not appeal to everyone",
+                    "Limited variety of bonus features"
                 ],
-                "meta_title": "Play Mayan Riches Online Slot for Free | Review",
-                "meta_description": "Read our review of Mayan Riches, a classic online slot with 40 paylines and a tribal Mayan theme. Play for free and enjoy the exceptional graphics and sound design."
+                "meta_title": "Play Mayan Riches Free - Exciting Mayan-themed Slot Game",
+                "meta_description": "Play Mayan Riches for free and immerse yourself in the ancient Maya culture."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mayan Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nMayan Riches is a classic slot game where the player needs to align identical symbols on adjacent reels from left to right. It has 5 reels and 40 paylines, with a wide range of betting options from €1 to €100 per spin. The Wild symbol is the ancient Mayan temple, which functions as a substitute for other symbols except for the Scatter to complete a winning combination. The Scatter symbol triggers five free spins when it appears three times or more anywhere on the reels. During the free spins, the Wild symbols become stackable, increasing the chances of getting winning combinations.\n\nVisuals and sound design\n\nMayan Riches is aesthetically pleasing with a lush rainforest setting where symbols of the Maya culture adorn the reels. The quality of the graphics is exceptional with intricate details and vivid colors bringing the game to life. The game's soundtrack is a mix of traditional tribal rhythms and modern sounds, fitting perfectly with the theme.\n\nMayan culture theme and symbolism\n\nMayan Riches immerses players in the ancient Maya culture with symbols of the golden mask, drum, Mayan prince and princess, and temple on the reels. The theme is not new to the world of slot games, but the quality of the graphics and sound design elevates it above others. Players feel like they are transported to the heart of the jungle, surrounded by the mysteries of the ancient civilization.\n\nAccessibility and availability\n\nMayan Riches is a multi-platform online slot game, making it accessible on desktop computers and mobile devices such as smartphones or tablets. The game transitions smoothly across devices, maintaining the quality of the graphics and sound design. It is widely available at many online casinos that feature IGT software.\n\nComparison with similar slot games\n\nMayan Riches is a classic slot game with a Mayan theme, which is a popular choice in the slot game world. Other similar slot titles include Book of Maya, Mayan Temple, Mayan Temple Revenge, Mayan Adventure, and Maya Gold. Mayan Riches stands out for its exceptional graphics and mesmerizing soundtrack that enhances the overall gaming experience. The game's high number of free spins is also a plus for players who enjoy longer gaming sessions.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mayan Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nMayan Riches is a classic slot game where the player needs to align identical symbols on adjacent reels from left to right. It has 5 reels and 40 paylines, with a wide range of betting options from €1 to €100 per spin. The Wild symbol is the ancient Mayan temple, which functions as a substitute for other symbols except for the Scatter to complete a winning combination. The Scatter symbol triggers five free spins when it appears three times or more anywhere on the reels. During the free spins, the Wild symbols become stackable, increasing the chances of getting winning combinations.\n\nVisuals and sound design\n\nMayan Riches is aesthetically pleasing with a lush rainforest setting where symbols of the Maya culture adorn the reels. The quality of the graphics is exceptional with intricate details and vivid colors bringing the game to life. The game's soundtrack is a mix of traditional tribal rhythms and modern sounds, fitting perfectly with the theme.\n\nMayan culture theme and symbolism\n\nMayan Riches immerses players in the ancient Maya culture with symbols of the golden mask, drum, Mayan prince and princess, and temple on the reels. The theme is not new to the world of slot games, but the quality of the graphics and sound design elevates it above others. Players feel like they are transported to the heart of the jungle, surrounded by the mysteries of the ancient civilization.\n\nAccessibility and availability\n\nMayan Riches is a multi-platform online slot game, making it accessible on desktop computers and mobile devices such as smartphones or tablets. The game transitions smoothly across devices, maintaining the quality of the graphics and sound design. It is widely available at many online casinos that feature IGT software.\n\nComparison with similar slot games\n\nMayan Riches is a classic slot game with a Mayan theme, which is a popular choice in the slot game world. Other similar slot titles include Book of Maya, Mayan Temple, Mayan Temple Revenge, Mayan Adventure, and Maya Gold. Mayan Riches stands out for its exceptional graphics and mesmerizing soundtrack that enhances the overall gaming experience. The game's high number of free spins is also a plus for players who enjoy longer gaming sessions.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U6hJYdBWGKH9PtlUzdHRGMFhWan9",
+                "id": "chatcmpl-7WXMCbXLCi0R8uDnjh77E9kzLRPgY",
                 "object": "chat.completion",
-                "created": 1687409941,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989076,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stackable Wild symbols during free spins\",\n        \"Exceptional graphics and vibrant colors\",\n        \"Multi-platform accessibility\",\n        \"Plenty of free spins available\"\n    ],\n    \"cons\": [\n        \"Mayan theme not original\",\n        \"No bonus game feature\"\n    ],\n    \"meta_title\": \"Play Mayan Riches Online Slot for Free | Review\",\n    \"meta_description\": \"Read our review of Mayan Riches, a classic online slot with 40 paylines and a tribal Mayan theme. Play for free and enjoy the exceptional graphics and sound design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Wide range of betting options\",\n    \"Stackable wild symbols during free spins\",\n    \"Exceptional graphics and vivid colors\",\n    \"Mesmerizing soundtrack\"\n  ],\n  \"cons\": [\n    \"Mayan theme may not appeal to everyone\",\n    \"Limited variety of bonus features\"\n  ],\n  \"meta_title\": \"Play Mayan Riches Free - Exciting Mayan-themed Slot Game\",\n  \"meta_description\": \"Play Mayan Riches for free and immerse yourself in the ancient Maya culture.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 627,
-                    "completion_tokens": 128,
-                    "total_tokens": 755
+                    "prompt_tokens": 624,
+                    "completion_tokens": 114,
+                    "total_tokens": 738
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mayan-riches.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_2f16bf4c-c3de-4ea3-b38d-cbac03d890a8_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_2f16bf4c-c3de-4ea3-b38d-cbac03d890a8_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_2f16bf4c-c3de-4ea3-b38d-cbac03d890a8_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_2f16bf4c-c3de-4ea3-b38d-cbac03d890a8_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mayan Riches (Version 3).webp",
+        "game_reviews/processed_images/Mayan Riches (Version 1).webp",
+        "game_reviews/processed_images/Mayan Riches (Version 2).webp",
+        "game_reviews/processed_images/Mayan Riches (Version 4).webp"
+    ],
+    "slug": "mayan-riches",
+    "name": "Mayan Riches",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mayan-Riches-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mayan Riches Free - Exciting Mayan-themed Slot Game' ### Meta set: 'Play Mayan Riches for free and immerse yourself in the ancient Maya culture.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

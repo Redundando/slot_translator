@@ -728,40 +728,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Wide range of betting options, from 10 cents to 100 euros",
-                    "Exciting bonus game with free spins and 243 ways to win",
-                    "Cerberus symbol acts as both Wild and Scatter for increased winning potential",
-                    "High RTP of 96.15% and maximum payout of 6,666x stake"
+                    "Simple and straightforward gameplay",
+                    "Interesting Greek mythology theme",
+                    "Stacked wilds and bonus game with free spins",
+                    "Wide range of betting options"
                 ],
                 "cons": [
-                    "Limited number of paylines at only 9",
-                    "Theme may not appeal to all players"
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Beat the Beast: Cerberus' Inferno for Free - Review",
-                "meta_description": "Read our review of the online slot game Beat the Beast: Cerberus' Inferno, and play for free with exciting features, great payouts, and a Greek mythology theme."
+                "meta_title": "Play Beat the Beast: Cerberus' Inferno for Free",
+                "meta_description": "Read our review of Beat the Beast: Cerberus' Inferno and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beat the Beast: Cerberus’ Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBeat the Beast: Cerberus' Inferno is a 5-reel, 9-payline slot game that can be played on all devices with bets starting at 10 cents. The gameplay is simple and straightforward with options to adjust bet levels, use the autoplay feature, and access the menu button.\n\nTheme\n\nBeat the Beast: Cerberus' Inferno is based on Greek mythology, with the three-headed dog, Cerberus, as the main theme. The game features a menacing lava background and symbols such as Cerberus, golden statues, weapons, and warrior helmets.\n\nSymbols\n\nThe symbol set includes high cards ranging from 10 to Ace, warrior helmets, weapons, and Cerberus artifacts such as a golden statue and medallion. Cerberus is also a key symbol, with the ability to act as both a Wild and Scatter symbol.\n\nFeatures\n\nThe game features stacked wilds, as well as a bonus game that awards free spins on reels with 243 ways to win. The Cerberus Emblem symbol is both the Wild and Scatter, substituting for all symbols to create winning combinations and offering a payout of 150x the bet for 5 in combination.\n\nPayouts\n\nThe game has an RTP of 96.15% and a maximum payout of 6,666x the stake for each free spin. The flaming Cerberus symbol pays out 1.5x, 10x, 30x, or 150x the total bet for 2, 3, 4, or 5 in combination.\n\nBetting Options\n\nBeat the Beast: Cerberus' Inferno has a wide range of betting options, with bets starting at 10 cents and a maximum bet of 100.00 euros. Players can adjust their bet levels using the poker chip button.\n\nAutoplay Feature\n\nThe game features an autoplay option that allows players to select a set number of automatic spins. Additional options can be selected to stop the autoplay feature once certain conditions, such as obtaining a bonus feature, are met.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beat the Beast: Cerberus’ Inferno\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBeat the Beast: Cerberus' Inferno is a 5-reel, 9-payline slot game that can be played on all devices with bets starting at 10 cents. The gameplay is simple and straightforward with options to adjust bet levels, use the autoplay feature, and access the menu button.\n\nTheme\n\nBeat the Beast: Cerberus' Inferno is based on Greek mythology, with the three-headed dog, Cerberus, as the main theme. The game features a menacing lava background and symbols such as Cerberus, golden statues, weapons, and warrior helmets.\n\nSymbols\n\nThe symbol set includes high cards ranging from 10 to Ace, warrior helmets, weapons, and Cerberus artifacts such as a golden statue and medallion. Cerberus is also a key symbol, with the ability to act as both a Wild and Scatter symbol.\n\nFeatures\n\nThe game features stacked wilds, as well as a bonus game that awards free spins on reels with 243 ways to win. The Cerberus Emblem symbol is both the Wild and Scatter, substituting for all symbols to create winning combinations and offering a payout of 150x the bet for 5 in combination.\n\nPayouts\n\nThe game has an RTP of 96.15% and a maximum payout of 6,666x the stake for each free spin. The flaming Cerberus symbol pays out 1.5x, 10x, 30x, or 150x the total bet for 2, 3, 4, or 5 in combination.\n\nBetting Options\n\nBeat the Beast: Cerberus' Inferno has a wide range of betting options, with bets starting at 10 cents and a maximum bet of 100.00 euros. Players can adjust their bet levels using the poker chip button.\n\nAutoplay Feature\n\nThe game features an autoplay option that allows players to select a set number of automatic spins. Additional options can be selected to stop the autoplay feature once certain conditions, such as obtaining a bonus feature, are met.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7ScvvhsqUYy9DL90LRjgqlreLMGYb",
+                "id": "chatcmpl-7WNuAV1NDrsrgZnRFIlBMzdB5dSuj",
                 "object": "chat.completion",
-                "created": 1687057199,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 606,
-                    "completion_tokens": 176,
-                    "total_tokens": 782
-                },
+                "created": 1687952742,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Wide range of betting options, from 10 cents to 100 euros\",\n        \"Exciting bonus game with free spins and 243 ways to win\",\n        \"Cerberus symbol acts as both Wild and Scatter for increased winning potential\",\n        \"High RTP of 96.15% and maximum payout of 6,666x stake\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines at only 9\",\n        \"Theme may not appeal to all players\"\n    ],\n    \"meta_title\": \"Play Beat the Beast: Cerberus' Inferno for Free - Review\",\n    \"meta_description\": \"Read our review of the online slot game Beat the Beast: Cerberus' Inferno, and play for free with exciting features, great payouts, and a Greek mythology theme.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and straightforward gameplay\",\n    \"Interesting Greek mythology theme\",\n    \"Stacked wilds and bonus game with free spins\",\n    \"Wide range of betting options\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Beat the Beast: Cerberus' Inferno for Free\",\n  \"meta_description\": \"Read our review of Beat the Beast: Cerberus' Inferno and play this slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 603,
+                    "completion_tokens": 115,
+                    "total_tokens": 718
+                }
             }
         },
         {
@@ -962,15 +962,24 @@
     ],
     "filename": "game_reviews/translations/beat-the-beast-cerberus-inferno.json",
     "raw_feature_images": [
-        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_4.png",
-        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_1.png",
         "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_2.png",
-        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_3.png"
+        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_3.png",
+        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_1.png",
+        "arved__Create_an_eye-catching_feature_image_in_cartoon_style_th_221e075b-5b7d-435b-b233-2165003c321d_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Beat The Beast Cerberus Inferno (Version 1).webp",
         "game_reviews/processed_images/Beat The Beast Cerberus Inferno (Version 3).webp",
         "game_reviews/processed_images/Beat The Beast Cerberus Inferno (Version 4).webp",
         "game_reviews/processed_images/Beat The Beast Cerberus Inferno (Version 2).webp"
-    ]
+    ],
+    "slug": "beat-the-beast-cerberus-inferno",
+    "name": "Beat the Beast: Cerberus’ Inferno",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beat the Beast: Cerberus' Inferno for Free' ### Meta set: 'Read our review of Beat the Beast: Cerberus' Inferno and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

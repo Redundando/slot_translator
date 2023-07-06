@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Visually impressive design and theme",
-                    "Engaging gameplay for experienced gamblers",
-                    "High-quality graphics and sound effects",
-                    "Exciting bonuses and opportunities"
+                    "Visually impressive graphics, effects, and sounds",
+                    "Engaging gameplay with double spins and ten paylines",
+                    "Exciting bonus game with multiple levels and prizes",
+                    "High-quality graphics, sounds, and effects for an immersive experience"
                 ],
                 "cons": [
-                    "Limited paylines available",
-                    "Minimum bet may be too high for some players"
+                    "Limited selection of betting options with minimum bet at 0.25 cents",
+                    "Not suitable for players not interested in historical themes"
                 ],
-                "meta_title": "Play Montezuma's Treasure for Free - Slot Game Review",
-                "meta_description": "Explore the ancient Aztec civilization with Montezuma's Treasure. Enjoy engaging gameplay, exciting bonuses, and high-quality graphics for free."
+                "meta_title": "Play Montezuma’s Treasure for Free - Exciting Aztec Slot Game",
+                "meta_description": "Read our review of Montezuma’s Treasure and play this exciting Aztec-themed slot game for free. Experience the adventure today!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Montezuma’s Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme and Graphics\n\nMontezuma's Treasure offers a visually impressive slot game adventure. The graphics, effects, and sounds are of high quality, delivering a realistic and engaging experience. The theme is centered around ancient Aztec civilizations, with symbols such as magic skulls, explorers, natives, idols, and queens. The overall experience will satisfy the passion of those with an interest in pre-Columbian history.\n\nGameplay\n\nMontezuma's Treasure offers double spins and ten paylines to bet on. The minimum bet for each spin is 0.25 cents, while the maximum is 8 euros. Players press the spin button to start playing and activate the first spin of the five reels. You can select and save some reels for the second spin, and multiple wins on a single line will result in the highest value. The gameplay is simple yet engaging, with the goal of aligning identical symbols from right to left on the payline.\n\nSymbols and Bonuses\n\nIn Montezuma's Treasure, the Wild and represents the totem. This symbol can replace all other symbols on the reel except the Bonus symbol. The Bonus symbol is represented by a pyramid and offers a special game opportunity. The bonus game consists of seven levels and is a screen with a door in the center and five different objects to choose from. By choosing an object, players can reveal an animation that can correspond to a prize, passage to the next level, or the loss of a life. You can have up to three, five, or seven lives. This adventurous slot offers exciting bonuses and gameplay opportunities.\n\nGraphics and Sounds\n\nMontezuma's Treasure offers players a visually colorful and captivating game experience with high-quality graphics, sounds, and effects. The combination of passion for ancient civilizations and cutting-edge technology delivers a realistic and engaging experience.\n\nSimilar Slot Games\n\nFans of historical themes will enjoy playing similar slot games inspired by ancient civilizations, such as Gonzo's Quest by NetEnt, Legends of Troy set in ancient Greece, or Chariots of Fire set in imperial Rome. Montezuma's Treasure is a game that guarantees an unforgettable adventure for experienced gamblers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Montezuma’s Treasure\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme and Graphics\n\nMontezuma's Treasure offers a visually impressive slot game adventure. The graphics, effects, and sounds are of high quality, delivering a realistic and engaging experience. The theme is centered around ancient Aztec civilizations, with symbols such as magic skulls, explorers, natives, idols, and queens. The overall experience will satisfy the passion of those with an interest in pre-Columbian history.\n\nGameplay\n\nMontezuma's Treasure offers double spins and ten paylines to bet on. The minimum bet for each spin is 0.25 cents, while the maximum is 8 euros. Players press the spin button to start playing and activate the first spin of the five reels. You can select and save some reels for the second spin, and multiple wins on a single line will result in the highest value. The gameplay is simple yet engaging, with the goal of aligning identical symbols from right to left on the payline.\n\nSymbols and Bonuses\n\nIn Montezuma's Treasure, the Wild and represents the totem. This symbol can replace all other symbols on the reel except the Bonus symbol. The Bonus symbol is represented by a pyramid and offers a special game opportunity. The bonus game consists of seven levels and is a screen with a door in the center and five different objects to choose from. By choosing an object, players can reveal an animation that can correspond to a prize, passage to the next level, or the loss of a life. You can have up to three, five, or seven lives. This adventurous slot offers exciting bonuses and gameplay opportunities.\n\nGraphics and Sounds\n\nMontezuma's Treasure offers players a visually colorful and captivating game experience with high-quality graphics, sounds, and effects. The combination of passion for ancient civilizations and cutting-edge technology delivers a realistic and engaging experience.\n\nSimilar Slot Games\n\nFans of historical themes will enjoy playing similar slot games inspired by ancient civilizations, such as Gonzo's Quest by NetEnt, Legends of Troy set in ancient Greece, or Chariots of Fire set in imperial Rome. Montezuma's Treasure is a game that guarantees an unforgettable adventure for experienced gamblers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UBvBS3kphV8JZmy8nqbx7bG2W62Q",
+                "id": "chatcmpl-7WY6XqG8nklNQ31cEK1NsiGjIp9VH",
                 "object": "chat.completion",
-                "created": 1687430021,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991949,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Visually impressive design and theme\",\n        \"Engaging gameplay for experienced gamblers\",\n        \"High-quality graphics and sound effects\",\n        \"Exciting bonuses and opportunities\"\n    ],\n    \"cons\": [\n        \"Limited paylines available\",\n        \"Minimum bet may be too high for some players\"\n    ],\n    \"meta_title\": \"Play Montezuma's Treasure for Free - Slot Game Review\",\n    \"meta_description\": \"Explore the ancient Aztec civilization with Montezuma's Treasure. Enjoy engaging gameplay, exciting bonuses, and high-quality graphics for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Visually impressive graphics, effects, and sounds\",\n    \"Engaging gameplay with double spins and ten paylines\",\n    \"Exciting bonus game with multiple levels and prizes\",\n    \"High-quality graphics, sounds, and effects for an immersive experience\"\n  ],\n  \"cons\": [\n    \"Limited selection of betting options with minimum bet at 0.25 cents\",\n    \"Not suitable for players not interested in historical themes\"\n  ],\n  \"meta_title\": \"Play Montezuma’s Treasure for Free - Exciting Aztec Slot Game\",\n  \"meta_description\": \"Read our review of Montezuma’s Treasure and play this exciting Aztec-themed slot game for free. Experience the adventure today!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 611,
-                    "completion_tokens": 125,
-                    "total_tokens": 736
+                    "prompt_tokens": 608,
+                    "completion_tokens": 152,
+                    "total_tokens": 760
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/montezumas-treasure.json",
+    "raw_feature_images": [
+        "arved__Design_Prompt_Create_a_feature_image_for_Montezumas_Trea_0441de58-f4a4-4a03-975b-3ed87f2b4928_3.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Montezumas_Trea_0441de58-f4a4-4a03-975b-3ed87f2b4928_1.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Montezumas_Trea_0441de58-f4a4-4a03-975b-3ed87f2b4928_4.png",
+        "arved__Design_Prompt_Create_a_feature_image_for_Montezumas_Trea_0441de58-f4a4-4a03-975b-3ed87f2b4928_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Montezumas Treasure (Version 1).webp",
+        "game_reviews/processed_images/Montezumas Treasure (Version 2).webp",
+        "game_reviews/processed_images/Montezumas Treasure (Version 3).webp",
+        "game_reviews/processed_images/Montezumas Treasure (Version 4).webp"
+    ],
+    "slug": "montezumas-treasure",
+    "name": "Montezuma’s Treasure",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Montezumas-Treasure-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Montezuma’s Treasure for Free - Exciting Aztec Slot Game' ### Meta set: 'Read our review of Montezuma’s Treasure and play this exciting Aztec-themed slot game for free. Experience the adventure today!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

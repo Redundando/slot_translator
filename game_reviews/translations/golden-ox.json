@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Adjustable betting range",
-                    "Smooth reels with frequent payouts",
-                    "Impeccable graphics",
+                    "Adjustable betting range suitable for all players",
+                    "Frequent paying combinations and smooth reels",
+                    "Impeccable graphics and sound",
                     "Bonus game with free spins and multipliers"
                 ],
                 "cons": [
-                    "Soundtrack may be too dynamic for some",
-                    "Wild symbol only appears on reels 2 and 4"
+                    "Limited appearance of Wild symbol",
+                    "Background music may be repetitive"
                 ],
-                "meta_title": "Play Golden Ox Free - Exciting Slot Game",
-                "meta_description": "Experience traditional Chinese culture with Golden Ox, a 5x3 reel slot game with 243 ways to win and bonus game with free spins and multipliers. Play free now!"
+                "meta_title": "Play Golden Ox Free: Review of Gameplay, Graphics, and Bonus Features",
+                "meta_description": "Review of Golden Ox, a slot game with adjustable betting range and bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Golden Ox\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nGolden Ox is a 5x3 reel slot game that features 243 ways to win. The betting range is adjustable and suitable for both cautious and brave players. It includes features such as automatic spins and accelerated reel rotation. Players can enjoy frequent paying combinations and smooth reels that lead to an enjoyable gaming experience.\n\nGraphics and Sound\n\nGolden Ox's graphics are impeccable, with a golden-framed game grid and the typical red color as the background. The symbols are large, and the buttons on the sides and bottom make the game easy to use. The Oriental soundtrack adds to the dynamism of the game, but can also be silenced by a button.\n\nSymbols and Theme\n\nThe symbols in Golden Ox reflect traditional Chinese culture. The emperor himself and colorful mandalas are some of the symbols that pay homage to China's rich and ancient history. Additional symbols include the Golden Reel, Wild represented by a bull, and Scatter represented by a golden plate. The Golden Reel appears randomly and applies multiplying factors to your winnings, while the Wild only appears on reels 2 and 4. It substitutes all symbols except for the Scatter. Players are entitled to a bonus game when 3 Scatter symbols appear on adjacent reels.\n\nBonus Features\n\nThe bonus game in Golden Ox allows players to choose one of five Toros, each offering different free spins and random multipliers. Additional free spins can be triggered during the bonus game with another set of 3 Scatters. The game also includes automatic spins and accelerated reel rotation.\n\nTarget Audience\n\nGolden Ox is an excellent game for experienced gamblers seeking high-quality entertainment. The 243 ways to win, bonus features, and adjustable betting range make it appealing to both cautious and brave players. The game pays homage to traditional Chinese culture and features impeccable graphics and sound.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Golden Ox\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nGolden Ox is a 5x3 reel slot game that features 243 ways to win. The betting range is adjustable and suitable for both cautious and brave players. It includes features such as automatic spins and accelerated reel rotation. Players can enjoy frequent paying combinations and smooth reels that lead to an enjoyable gaming experience.\n\nGraphics and Sound\n\nGolden Ox's graphics are impeccable, with a golden-framed game grid and the typical red color as the background. The symbols are large, and the buttons on the sides and bottom make the game easy to use. The Oriental soundtrack adds to the dynamism of the game, but can also be silenced by a button.\n\nSymbols and Theme\n\nThe symbols in Golden Ox reflect traditional Chinese culture. The emperor himself and colorful mandalas are some of the symbols that pay homage to China's rich and ancient history. Additional symbols include the Golden Reel, Wild represented by a bull, and Scatter represented by a golden plate. The Golden Reel appears randomly and applies multiplying factors to your winnings, while the Wild only appears on reels 2 and 4. It substitutes all symbols except for the Scatter. Players are entitled to a bonus game when 3 Scatter symbols appear on adjacent reels.\n\nBonus Features\n\nThe bonus game in Golden Ox allows players to choose one of five Toros, each offering different free spins and random multipliers. Additional free spins can be triggered during the bonus game with another set of 3 Scatters. The game also includes automatic spins and accelerated reel rotation.\n\nTarget Audience\n\nGolden Ox is an excellent game for experienced gamblers seeking high-quality entertainment. The 243 ways to win, bonus features, and adjustable betting range make it appealing to both cautious and brave players. The game pays homage to traditional Chinese culture and features impeccable graphics and sound.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TU2Uq9AjRbLegsyQIyc1FUS8Ztmg",
+                "id": "chatcmpl-7WUAwV7yBzdkLuiVIMuodoDseH4Dw",
                 "object": "chat.completion",
-                "created": 1687261338,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 542,
-                    "completion_tokens": 123,
-                    "total_tokens": 665
-                },
+                "created": 1687976846,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Adjustable betting range\", \"Smooth reels with frequent payouts\", \"Impeccable graphics\", \"Bonus game with free spins and multipliers\"],\n    \"cons\": [\"Soundtrack may be too dynamic for some\", \"Wild symbol only appears on reels 2 and 4\"],\n    \"meta_title\": \"Play Golden Ox Free - Exciting Slot Game\",\n    \"meta_description\": \"Experience traditional Chinese culture with Golden Ox, a 5x3 reel slot game with 243 ways to win and bonus game with free spins and multipliers. Play free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Adjustable betting range suitable for all players\",\n    \"Frequent paying combinations and smooth reels\",\n    \"Impeccable graphics and sound\",\n    \"Bonus game with free spins and multipliers\"\n  ],\n  \"cons\": [\n    \"Limited appearance of Wild symbol\",\n    \"Background music may be repetitive\"\n  ],\n  \"meta_title\": \"Play Golden Ox Free: Review of Gameplay, Graphics, and Bonus Features\",\n  \"meta_description\": \"Review of Golden Ox, a slot game with adjustable betting range and bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 539,
+                    "completion_tokens": 118,
+                    "total_tokens": 657
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/golden-ox.json"
+    "filename": "game_reviews/translations/golden-ox.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_cbd2c0fc-5e3d-482b-b327-409a915f8a63_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_cbd2c0fc-5e3d-482b-b327-409a915f8a63_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_cbd2c0fc-5e3d-482b-b327-409a915f8a63_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_cbd2c0fc-5e3d-482b-b327-409a915f8a63_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Golden Ox (Version 3).webp",
+        "game_reviews/processed_images/Golden Ox (Version 1).webp",
+        "game_reviews/processed_images/Golden Ox (Version 2).webp",
+        "game_reviews/processed_images/Golden Ox (Version 4).webp"
+    ],
+    "slug": "golden-ox",
+    "name": "Golden Ox",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Golden-Ox-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Golden Ox Free: Review of Gameplay, Graphics, and Bonus Features' ### Meta set: 'Review of Golden Ox, a slot game with adjustable betting range and bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

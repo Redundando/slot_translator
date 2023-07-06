@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Well-designed and elegant graphics",
-                    "Stacked symbols feature for increased winning potential",
-                    "Mystical Diamond Bonus with free spins and extra Wilds",
-                    "Medium volatility with a high RTP of 96.08%"
+                    "Fantasy-themed slot with elegant design",
+                    "Special features like free spins and stacked symbols",
+                    "Magical atmosphere with diamond and enchantment theme",
+                    "Medium volatility with a decent RTP"
                 ],
                 "cons": [
-                    "No background music, only short jingles for animations",
-                    "The theme may not be appealing to players who do not enjoy fantasy slots"
+                    "Lack of background music",
+                    "Limited options for players who don't enjoy diamond-themed slots"
                 ],
-                "meta_title": "Play Diamond Queen Free Slot by IGT",
-                "meta_description": "Read our review of Diamond Queen, a magical and elegant online slot by IGT. Play for free and trigger the Mystical Diamond Bonus for extra Wilds and free spins."
+                "meta_title": "Play Diamond Queen Slot Free",
+                "meta_description": "Read our review of Diamond Queen, a fantasy-themed slot with magical features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Diamond Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Graphics\n\nDiamond Queen by IGT combines diamonds with magic to create a fantasy-themed slot. The game has a simple yet elegant design with a background of an enchanted forest in shades of purple. Classic symbols, represented by colorful initials (A, K, Q, and J), are accompanied by other symbols such as precious rings, scepters set with diamonds, scrolls and coats of arms. The game characters include a wise wizard, a young adventurer, and the diamond queen herself who adds a magical touch to the different combinations with her graceful movements of a diamond-studded magic scepter.\n\nGameplay and Paylines\n\nDiamond Queen has a canonical gameplay with a 5 * 3 layout and 20 paylines. The five reels each show three symbols, totaling fifteen symbols per game. The Scatter symbol, represented by the words Mystical Diamond Bonus, not only allows access to the special feature but also allows for an immediate win based on the number of symbols found within the game screen. The Scatter symbol does not necessarily have to be positioned on the same payline. Even if only 2 symbols are found and thus cannot access the bonus mode, a consolation prize equal to twice the value of the bet will still be awarded.\n\nSpecial Features and Symbols\n\nThe Mystical Diamond Bonus, triggered by the Scatter symbol, awards free spins with extra Wilds. The Diamond Queen symbol acts as the game Wild symbol, substituting for all other symbols except the Scatter. The game also has a stacked symbols feature, where any of the symbols, except the Scatter, can appear stacked on the reels, increasing the chances of forming winning combinations. Diamond Queen has a 96.08% RTP, making it a medium volatility slot.\n\nSound Effects and Music\n\nAlthough the graphics of Diamond Queen are well characterized, the game's sound part is lacking background music. The only sounds players will hear are short jingles of the animations. However, they are in line with the slot's magical and mysterious setting.\n\nComparison to Similar Slots\n\nDiamonds are a recurring theme in online slots, particularly with titles like Microgaming's Reel Gems or NetEnt's Starburst. However, Diamond Queen stands out with its magical and fantasy theme that combines diamonds with enchantment. Da Vinci Diamonds also centers on diamonds, but it does so with a unique twist, offering players a taste of Renaissance art. Therefore, players who love diamonds as a slot theme will find various options with different twists and features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Diamond Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Theme and Graphics\n\nDiamond Queen by IGT combines diamonds with magic to create a fantasy-themed slot. The game has a simple yet elegant design with a background of an enchanted forest in shades of purple. Classic symbols, represented by colorful initials (A, K, Q, and J), are accompanied by other symbols such as precious rings, scepters set with diamonds, scrolls and coats of arms. The game characters include a wise wizard, a young adventurer, and the diamond queen herself who adds a magical touch to the different combinations with her graceful movements of a diamond-studded magic scepter.\n\nGameplay and Paylines\n\nDiamond Queen has a canonical gameplay with a 5 * 3 layout and 20 paylines. The five reels each show three symbols, totaling fifteen symbols per game. The Scatter symbol, represented by the words Mystical Diamond Bonus, not only allows access to the special feature but also allows for an immediate win based on the number of symbols found within the game screen. The Scatter symbol does not necessarily have to be positioned on the same payline. Even if only 2 symbols are found and thus cannot access the bonus mode, a consolation prize equal to twice the value of the bet will still be awarded.\n\nSpecial Features and Symbols\n\nThe Mystical Diamond Bonus, triggered by the Scatter symbol, awards free spins with extra Wilds. The Diamond Queen symbol acts as the game Wild symbol, substituting for all other symbols except the Scatter. The game also has a stacked symbols feature, where any of the symbols, except the Scatter, can appear stacked on the reels, increasing the chances of forming winning combinations. Diamond Queen has a 96.08% RTP, making it a medium volatility slot.\n\nSound Effects and Music\n\nAlthough the graphics of Diamond Queen are well characterized, the game's sound part is lacking background music. The only sounds players will hear are short jingles of the animations. However, they are in line with the slot's magical and mysterious setting.\n\nComparison to Similar Slots\n\nDiamonds are a recurring theme in online slots, particularly with titles like Microgaming's Reel Gems or NetEnt's Starburst. However, Diamond Queen stands out with its magical and fantasy theme that combines diamonds with enchantment. Da Vinci Diamonds also centers on diamonds, but it does so with a unique twist, offering players a taste of Renaissance art. Therefore, players who love diamonds as a slot theme will find various options with different twists and features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T3cHW1NI4uHKV2xEoKVpyEHgUauf",
+                "id": "chatcmpl-7WREvvsmzWZiuRkiatCgBkUowPe6Z",
                 "object": "chat.completion",
-                "created": 1687159769,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 674,
-                    "completion_tokens": 152,
-                    "total_tokens": 826
-                },
+                "created": 1687965561,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Well-designed and elegant graphics\",\n        \"Stacked symbols feature for increased winning potential\",\n        \"Mystical Diamond Bonus with free spins and extra Wilds\",\n        \"Medium volatility with a high RTP of 96.08%\"\n    ],\n    \"cons\": [\n        \"No background music, only short jingles for animations\",\n        \"The theme may not be appealing to players who do not enjoy fantasy slots\"\n    ],\n    \"meta_title\": \"Play Diamond Queen Free Slot by IGT\",\n    \"meta_description\": \"Read our review of Diamond Queen, a magical and elegant online slot by IGT. Play for free and trigger the Mystical Diamond Bonus for extra Wilds and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fantasy-themed slot with elegant design\",\n    \"Special features like free spins and stacked symbols\",\n    \"Magical atmosphere with diamond and enchantment theme\",\n    \"Medium volatility with a decent RTP\"\n  ],\n  \"cons\": [\n    \"Lack of background music\",\n    \"Limited options for players who don't enjoy diamond-themed slots\"\n  ],\n  \"meta_title\": \"Play Diamond Queen Slot Free\",\n  \"meta_description\": \"Read our review of Diamond Queen, a fantasy-themed slot with magical features. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 671,
+                    "completion_tokens": 118,
+                    "total_tokens": 789
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_4.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_3.png",
         "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_2.png"
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_online_s_70955131-c283-4bdc-ac9b-f5406bb2b507_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Diamond Queen (Version 4).webp",
         "game_reviews/processed_images/Diamond Queen (Version 1).webp",
-        "game_reviews/processed_images/Diamond Queen (Version 2).webp",
-        "game_reviews/processed_images/Diamond Queen (Version 3).webp"
+        "game_reviews/processed_images/Diamond Queen (Version 3).webp",
+        "game_reviews/processed_images/Diamond Queen (Version 4).webp",
+        "game_reviews/processed_images/Diamond Queen (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/diamond-queen.json"
+    "filename": "game_reviews/translations/diamond-queen.json",
+    "slug": "diamond-queen",
+    "name": "Diamond Queen",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Diamond-Queen-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Diamond Queen Slot Free' ### Meta set: 'Read our review of Diamond Queen, a fantasy-themed slot with magical features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

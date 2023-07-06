@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fair level of volatility with frequent smaller wins and rare big wins",
-                    "Bonus feature with multipliers and jackpots up to 15,000 game credits",
-                    "Electrifying graphics and a vintage look with vivid colors",
-                    "Symbols related to volcanic eruptions add to the theme's allure"
+                    "Fair level of volatility",
+                    "Frequent smaller wins",
+                    "Rare big wins with jackpots",
+                    "Electrifying graphics and vintage look"
                 ],
                 "cons": [
-                    "High level of volatility may not appeal to everyone",
-                    "30 paylines may seem limited compared to some other online slots"
+                    "High level of volatility",
+                    "Could offer more paylines"
                 ],
-                "meta_title": "Play Krakatoa Lucky Break for Free - Game Review",
-                "meta_description": "Discover Krakatoa Lucky Break, an online slot with frequent wins and huge jackpots. Play for free and read our review of the game's mechanics."
+                "meta_title": "Play Krakatoa Lucky Break Free Slot: Volatile Wins & Big Jackpots!",
+                "meta_description": "Read our review of Krakatoa Lucky Break, a slot game with high volatility and big jackpots. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Krakatoa Lucky Break\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and mechanics\n\nKrakatoa Lucky Break has a 5×3 grid with 30 paylines and a payout rate of approximately 96.5%. The game has a fair level of volatility, resulting in frequent smaller wins and rare big wins. The Scatter symbol triggers a round of free spins, while getting six bonus symbols activates the Krakatoa Lucky Break feature, offering multipliers or jackpots.\n\nBonus feature and jackpots\n\nKrakatoa Lucky Break features jackpots ranging from the MINI, which is about 30 game credits, to the GRAND, which offers around 15,000 game credits. The game also offers a bonus feature when six bonus symbols are obtained, which gives a 200x multiplier or one of the jackpots listed above the grid.\n\nVolatility and frequency of wins\n\nKrakatoa Lucky Break has a high level of volatility, which results in frequent smaller wins and rare big wins, such as the jackpots offered in the game.\n\nGraphic design and theme\n\nKrakatoa Lucky Break is based on the Krakatoa volcano in Indonesia, which gets its inspiration from the 1883 eruption, where the island was completely destroyed. The game features electrifying graphics and a vintage look with vivid colors. The slot machine has symbols related to volcanic eruptions, adding to the theme's allure.\n\nOther volcano-themed slots\n\nIf you enjoy the volcano eruption theme, two great slot machines to try are Volatile Slot from Williams Interactive and Volcano Eruption from NextGen. Volatile Slot features more modern graphics, but it does not offer large jackpots like Krakatoa Lucky Break. On the other hand, Volcano Eruption has 25 paylines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Krakatoa Lucky Break\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and mechanics\n\nKrakatoa Lucky Break has a 5×3 grid with 30 paylines and a payout rate of approximately 96.5%. The game has a fair level of volatility, resulting in frequent smaller wins and rare big wins. The Scatter symbol triggers a round of free spins, while getting six bonus symbols activates the Krakatoa Lucky Break feature, offering multipliers or jackpots.\n\nBonus feature and jackpots\n\nKrakatoa Lucky Break features jackpots ranging from the MINI, which is about 30 game credits, to the GRAND, which offers around 15,000 game credits. The game also offers a bonus feature when six bonus symbols are obtained, which gives a 200x multiplier or one of the jackpots listed above the grid.\n\nVolatility and frequency of wins\n\nKrakatoa Lucky Break has a high level of volatility, which results in frequent smaller wins and rare big wins, such as the jackpots offered in the game.\n\nGraphic design and theme\n\nKrakatoa Lucky Break is based on the Krakatoa volcano in Indonesia, which gets its inspiration from the 1883 eruption, where the island was completely destroyed. The game features electrifying graphics and a vintage look with vivid colors. The slot machine has symbols related to volcanic eruptions, adding to the theme's allure.\n\nOther volcano-themed slots\n\nIf you enjoy the volcano eruption theme, two great slot machines to try are Volatile Slot from Williams Interactive and Volcano Eruption from NextGen. Volatile Slot features more modern graphics, but it does not offer large jackpots like Krakatoa Lucky Break. On the other hand, Volcano Eruption has 25 paylines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TzBZ7FBvhztviI4Dj0pTP4HY20i3",
+                "id": "chatcmpl-7WW5OO76Cbqq4nE4nfLuNt4gJ28DE",
                 "object": "chat.completion",
-                "created": 1687381065,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984190,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fair level of volatility with frequent smaller wins and rare big wins\",\n        \"Bonus feature with multipliers and jackpots up to 15,000 game credits\",\n        \"Electrifying graphics and a vintage look with vivid colors\",\n        \"Symbols related to volcanic eruptions add to the theme's allure\"\n    ],\n    \"cons\": [\n        \"High level of volatility may not appeal to everyone\",\n        \"30 paylines may seem limited compared to some other online slots\"\n    ],\n    \"meta_title\": \"Play Krakatoa Lucky Break for Free - Game Review\",\n    \"meta_description\": \"Discover Krakatoa Lucky Break, an online slot with frequent wins and huge jackpots. Play for free and read our review of the game's mechanics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fair level of volatility\",\n    \"Frequent smaller wins\",\n    \"Rare big wins with jackpots\",\n    \"Electrifying graphics and vintage look\"\n  ],\n  \"cons\": [\n    \"High level of volatility\",\n    \"Could offer more paylines\"\n  ],\n  \"meta_title\": \"Play Krakatoa Lucky Break Free Slot: Volatile Wins & Big Jackpots!\",\n  \"meta_description\": \"Read our review of Krakatoa Lucky Break, a slot game with high volatility and big jackpots. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 534,
-                    "completion_tokens": 165,
-                    "total_tokens": 699
+                    "prompt_tokens": 531,
+                    "completion_tokens": 122,
+                    "total_tokens": 653
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/krakatoa-lucky-break.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Krakatoa_Lucky_Break_a_cartoo_520cf4ef-0ca4-48fd-bf76-141b130683a3_4.png",
+        "arved__Create_a_feature_image_for_Krakatoa_Lucky_Break_a_cartoo_520cf4ef-0ca4-48fd-bf76-141b130683a3_3.png",
+        "arved__Create_a_feature_image_for_Krakatoa_Lucky_Break_a_cartoo_520cf4ef-0ca4-48fd-bf76-141b130683a3_1.png",
+        "arved__Create_a_feature_image_for_Krakatoa_Lucky_Break_a_cartoo_520cf4ef-0ca4-48fd-bf76-141b130683a3_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Krakatoa Lucky Break (Version 4).webp",
+        "game_reviews/processed_images/Krakatoa Lucky Break (Version 1).webp",
+        "game_reviews/processed_images/Krakatoa Lucky Break (Version 2).webp",
+        "game_reviews/processed_images/Krakatoa Lucky Break (Version 3).webp"
+    ],
+    "slug": "krakatoa-lucky-break",
+    "name": "Krakatoa Lucky Break",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Krakatoa-Lucky-Break-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Krakatoa Lucky Break Free Slot: Volatile Wins & Big Jackpots!' ### Meta set: 'Read our review of Krakatoa Lucky Break, a slot game with high volatility and big jackpots. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and unique gameplay mechanics",
-                    "High variance with potentially large payouts",
-                    "Two exciting bonus features",
-                    "Visually appealing cartoon-style design"
+                    "Unique and engaging gameplay mechanics",
+                    "Visually appealing cartoon-style design",
+                    "Exciting bonus features with potential for big payouts",
+                    "High variance and high RTP for thrilling gameplay"
                 ],
                 "cons": [
-                    "Limited number of paylines",
-                    "Explosions can become overwhelming"
+                    "Limited number of paylines may not appeal to some players",
+                    "Some players may find the high variance too risky for their liking"
                 ],
-                "meta_title": "Play Fantastic Fireworks! Slot Game for Free",
-                "meta_description": "Read our review of Fantastic Fireworks!, an exciting online slot game with unique gameplay mechanics and two bonus features. Play for free now."
+                "meta_title": "Play Fantastic Fireworks! for Free",
+                "meta_description": "Read our review of Fantastic Fireworks! and play for free. Discover explosive gameplay and exciting bonus features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fantastic Fireworks!\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFantastic Fireworks! is an IGT-powered online slot game with a 5x5 grid and 10 paylines. Explosions can trigger special fireworks that remain until they explode, potentially leading to massive payouts. Fill up the Rocket Meter to trigger one of two bonus features: the Free Spins Bonus or the Cannon Bonus. \n\nVisuals and design\n\nFantastic Fireworks! has a cartoon-style design set against a city at night backdrop. Symbols on the reels include various fireworks characters. Chains of 3 or more symbols trigger explosions and new symbols to potentially win again and again. Longer and intersecting chains can create special fireworks, which remain on the reels until they explode.\n\nBonus features and rewards\n\nFantastic Fireworks! is a high-variance game with an RTP of 97%. The goal is to collect 9 different symbols and play up to 5 paylines to unlock the ultimate phase of the game. Each explosion results in a win, with payouts ranging from 1 to 10 times your bet. Fantastic Fireworks! also features floating reels, where symbols float and replace exploded symbols for even more chances to win. Collect 20 Sparkler symbols or just one Rocket Bonus symbol in the Rocket Bonus Meter to activate one of two bonus features.\n\nThe Free Spins Bonus rewards you with 8 initial free spins, and special symbols appear on every single free spin. Look out for Sparkler symbols, as every 10 free spins trigger an additional 4 free spins. The Cannon Bonus feature requires you to choose 3 cannons, each of which reveals a cash prize. Any chosen cannon can also spark another cannon for more cash prizes.\n\nSimilar games to try\n\nIf you enjoy Fantastic Fireworks!, you might also enjoy Fireworks Master by Playson. Fireworks Master features 243 paylines for explosive payouts. \n\nRTP and Variance\n\nFantastic Fireworks! is a high-variance game with an RTP of 97%. The goal is to collect 9 different symbols and play up to 5 paylines to unlock the ultimate phase of the game. Each explosion results in a win, with payouts ranging from 1 to 10 times your bet. Fantastic Fireworks! also features floating reels, where symbols float and replace exploded symbols for even more chances to win.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fantastic Fireworks!\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nFantastic Fireworks! is an IGT-powered online slot game with a 5x5 grid and 10 paylines. Explosions can trigger special fireworks that remain until they explode, potentially leading to massive payouts. Fill up the Rocket Meter to trigger one of two bonus features: the Free Spins Bonus or the Cannon Bonus. \n\nVisuals and design\n\nFantastic Fireworks! has a cartoon-style design set against a city at night backdrop. Symbols on the reels include various fireworks characters. Chains of 3 or more symbols trigger explosions and new symbols to potentially win again and again. Longer and intersecting chains can create special fireworks, which remain on the reels until they explode.\n\nBonus features and rewards\n\nFantastic Fireworks! is a high-variance game with an RTP of 97%. The goal is to collect 9 different symbols and play up to 5 paylines to unlock the ultimate phase of the game. Each explosion results in a win, with payouts ranging from 1 to 10 times your bet. Fantastic Fireworks! also features floating reels, where symbols float and replace exploded symbols for even more chances to win. Collect 20 Sparkler symbols or just one Rocket Bonus symbol in the Rocket Bonus Meter to activate one of two bonus features.\n\nThe Free Spins Bonus rewards you with 8 initial free spins, and special symbols appear on every single free spin. Look out for Sparkler symbols, as every 10 free spins trigger an additional 4 free spins. The Cannon Bonus feature requires you to choose 3 cannons, each of which reveals a cash prize. Any chosen cannon can also spark another cannon for more cash prizes.\n\nSimilar games to try\n\nIf you enjoy Fantastic Fireworks!, you might also enjoy Fireworks Master by Playson. Fireworks Master features 243 paylines for explosive payouts. \n\nRTP and Variance\n\nFantastic Fireworks! is a high-variance game with an RTP of 97%. The goal is to collect 9 different symbols and play up to 5 paylines to unlock the ultimate phase of the game. Each explosion results in a win, with payouts ranging from 1 to 10 times your bet. Fantastic Fireworks! also features floating reels, where symbols float and replace exploded symbols for even more chances to win.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TEENuXURZxd35ndzatRvNMRhMIyI",
+                "id": "chatcmpl-7WSa14myxb9w5602K4sxera7kdb1z",
                 "object": "chat.completion",
-                "created": 1687200571,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 644,
-                    "completion_tokens": 117,
-                    "total_tokens": 761
-                },
+                "created": 1687970713,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fun and unique gameplay mechanics\",\n        \"High variance with potentially large payouts\",\n        \"Two exciting bonus features\",\n        \"Visually appealing cartoon-style design\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines\",\n        \"Explosions can become overwhelming\"\n    ],\n    \"meta_title\": \"Play Fantastic Fireworks! Slot Game for Free\",\n    \"meta_description\": \"Read our review of Fantastic Fireworks!, an exciting online slot game with unique gameplay mechanics and two bonus features. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique and engaging gameplay mechanics\",\n    \"Visually appealing cartoon-style design\",\n    \"Exciting bonus features with potential for big payouts\",\n    \"High variance and high RTP for thrilling gameplay\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines may not appeal to some players\",\n    \"Some players may find the high variance too risky for their liking\"\n  ],\n  \"meta_title\": \"Play Fantastic Fireworks! for Free\",\n  \"meta_description\": \"Read our review of Fantastic Fireworks! and play for free. Discover explosive gameplay and exciting bonus features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 641,
+                    "completion_tokens": 127,
+                    "total_tokens": 768
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fantastic-fireworks.json"
+    "filename": "game_reviews/translations/fantastic-fireworks.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_that_captures_the_exciteme_0586bb5a-b08f-4177-b066-7409dca03345_2.png",
+        "arved__Prompt_Create_a_feature_image_that_captures_the_exciteme_0586bb5a-b08f-4177-b066-7409dca03345_3.png",
+        "arved__Prompt_Create_a_feature_image_that_captures_the_exciteme_0586bb5a-b08f-4177-b066-7409dca03345_1.png",
+        "arved__Prompt_Create_a_feature_image_that_captures_the_exciteme_0586bb5a-b08f-4177-b066-7409dca03345_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "fantastic-fireworks",
+    "name": "Fantastic Fireworks!",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/07/fantastic-fireworks-new-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fantastic Fireworks! for Free' ### Meta set: 'Read our review of Fantastic Fireworks! and play for free. Discover explosive gameplay and exciting bonus features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

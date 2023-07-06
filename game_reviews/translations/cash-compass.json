@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Various bonus games available, including free spins and bonus wheel",
+                    "Inspired by pirates and deserted islands of the Caribbean",
                     "Excellent RTP of 96.42%",
-                    "Maximum win of over 7,400x the bet",
-                    "Interesting pirate theme with cartoonish symbols"
+                    "Various bonus games available",
+                    "Maximum win of over 7,400 times the bet"
                 ],
                 "cons": [
-                    "Not available at all online casinos",
-                    "May be overwhelming for new players with many bonus features"
+                    "Limited betting options",
+                    "Limited autoplay settings"
                 ],
-                "meta_title": "Play Cash Compass for Free - Exciting Pirate-Themed Slot Game",
-                "meta_description": "Read our review of Cash Compass by Hacksaw Gaming. Play this popular pirate-themed slot game for free with many bonus features and a maximum win of over 7,400x the bet."
+                "meta_title": "Play Cash Compass for Free",
+                "meta_description": "Read our review of Cash Compass, a slot game inspired by pirates and deserted islands. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Compass\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Compass\n\nCash Compass is a slot game inspired by the pirates and deserted islands of the Caribbean, produced by Hacksaw Gaming. The game grid features a parchment nailed to a wooden board with symbols reminiscent of cartoon drawings. The backdrop is a crystal clear sea and lush palms.\n\nSlot game\n\nThe game grid has 6 reels and 6 rows, where winning combinations are obtained with adjacent matching symbols. Paying lines can be formed horizontally, vertically, diagonally, and on broken lines. The minimum bet is €0.20, while the maximum is €100. The game has an excellent RTP of 96.42% and a maximum win of over 7,400 times the bet.\n\nGame features\n\nCash Compass has various bonus games available. The compass symbol has a special function during one of the bonus games, where 30 or more of these symbols allow the player to win €200. The bottle symbol has the function of Scatter, which can trigger 10 free spins when at least three appear on the reels. The bonus game is activated with 3 Bonus symbols and replaces the grid with a wheel containing 8 sections with 1X multipliers, which can be powered up to 250X.\n\nRTP and maximum win\n\nThe game has an RTP of 96.42%, which is considered good. The maximum win is over 7,400 times the bet, making it an attractive game for high rollers.\n\nBetting options\n\nThe minimum bet for Cash Compass is €0.20, while the maximum is €100. The player can choose to activate between 10 and 1,000 automatic spins for convenience and ease of play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Compass\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Compass\n\nCash Compass is a slot game inspired by the pirates and deserted islands of the Caribbean, produced by Hacksaw Gaming. The game grid features a parchment nailed to a wooden board with symbols reminiscent of cartoon drawings. The backdrop is a crystal clear sea and lush palms.\n\nSlot game\n\nThe game grid has 6 reels and 6 rows, where winning combinations are obtained with adjacent matching symbols. Paying lines can be formed horizontally, vertically, diagonally, and on broken lines. The minimum bet is €0.20, while the maximum is €100. The game has an excellent RTP of 96.42% and a maximum win of over 7,400 times the bet.\n\nGame features\n\nCash Compass has various bonus games available. The compass symbol has a special function during one of the bonus games, where 30 or more of these symbols allow the player to win €200. The bottle symbol has the function of Scatter, which can trigger 10 free spins when at least three appear on the reels. The bonus game is activated with 3 Bonus symbols and replaces the grid with a wheel containing 8 sections with 1X multipliers, which can be powered up to 250X.\n\nRTP and maximum win\n\nThe game has an RTP of 96.42%, which is considered good. The maximum win is over 7,400 times the bet, making it an attractive game for high rollers.\n\nBetting options\n\nThe minimum bet for Cash Compass is €0.20, while the maximum is €100. The player can choose to activate between 10 and 1,000 automatic spins for convenience and ease of play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sqt3PAA9xPZWFw3O5HisRJeb90a6",
+                "id": "chatcmpl-7WPnjv26hSe42znFqkmZCfaLP7tl9",
                 "object": "chat.completion",
-                "created": 1687110837,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 513,
-                    "completion_tokens": 153,
-                    "total_tokens": 666
-                },
+                "created": 1687960031,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Various bonus games available, including free spins and bonus wheel\",\n        \"Excellent RTP of 96.42%\",\n        \"Maximum win of over 7,400x the bet\",\n        \"Interesting pirate theme with cartoonish symbols\"\n    ],\n    \"cons\": [\n        \"Not available at all online casinos\",\n        \"May be overwhelming for new players with many bonus features\"\n    ],\n    \"meta_title\": \"Play Cash Compass for Free - Exciting Pirate-Themed Slot Game\",\n    \"meta_description\": \"Read our review of Cash Compass by Hacksaw Gaming. Play this popular pirate-themed slot game for free with many bonus features and a maximum win of over 7,400x the bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Inspired by pirates and deserted islands of the Caribbean\",\n    \"Excellent RTP of 96.42%\",\n    \"Various bonus games available\",\n    \"Maximum win of over 7,400 times the bet\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"Limited autoplay settings\"\n  ],\n  \"meta_title\": \"Play Cash Compass for Free\",\n  \"meta_description\": \"Read our review of Cash Compass, a slot game inspired by pirates and deserted islands. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 510,
+                    "completion_tokens": 113,
+                    "total_tokens": 623
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_1.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_812bf6e2-69d4-4c74-83db-0a3dac5073ff_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cash Compass (Version 3).webp",
-        "game_reviews/processed_images/Cash Compass (Version 2).webp",
         "game_reviews/processed_images/Cash Compass (Version 4).webp",
+        "game_reviews/processed_images/Cash Compass (Version 2).webp",
         "game_reviews/processed_images/Cash Compass (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cash-compass.json"
+    "filename": "game_reviews/translations/cash-compass.json",
+    "slug": "cash-compass",
+    "name": "Cash Compass",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Compass-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Compass for Free' ### Meta set: 'Read our review of Cash Compass, a slot game inspired by pirates and deserted islands. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

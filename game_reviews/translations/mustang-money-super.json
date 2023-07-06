@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Over 100 pay lines to win from",
-                    "Free spins feature with multipliers",
-                    "Well-made graphics with a minimalistic style",
-                    "Flaming Mustang Wild symbol creates dynamics and wins"
+                    "Classic 5-reel gameplay",
+                    "Over 100 pay lines",
+                    "Attractive free spins feature",
+                    "Well-made graphics with a minimalistic style"
                 ],
                 "cons": [
-                    "Medium volatility may not be suitable for high-risk players",
-                    "No progressive jackpot"
+                    "Limited appearance of Wild symbol during free spins",
+                    "Super Spins not as rewarding as expected"
                 ],
-                "meta_title": "Play Mustang Money Super Free | Review of the Slot Game",
-                "meta_description": "Read our review of Mustang Money Super online slot game and play for free. Discover the 100 pay lines, free spins, well-made graphics, and more."
+                "meta_title": "Play Mustang Money Super Free - Slot Game Review",
+                "meta_description": "Read our review of Mustang Money Super, a slot game with over 100 pay lines. Play for free and enjoy attractive free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mustang Money Super\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMustang Money Super is a simple and straightforward slot game with the classic 5 reels and a medium volatility. Players can enjoy over 100 pay lines and try their luck to generate wins on the reels. The game proceeds without any hiccups and is very easy to play.\n\nFree Spins\n\nThe free spins are the most attractive feature of Mustang Money Super. To activate them, players need to collect 3 or more Scatter symbols on the reels and they will get 10 spins. During this phase, the Wild symbol will only appear on reel 3, but players can also find substitute symbols that carry 1x or 2x multipliers. Additionally, if the substitute symbol stops on reel 4, the player will be assigned a win multiplier of 1x or 5x. There are also Super Spins that essentially have the same function as free spins but exploit the golden mustangs to offer 1x or 3x multipliers.\n\nPay Lines\n\nMustang Money Super offers players over 100 pay lines to win from. Players need to match the symbols on the pay lines to generate winning combinations. With medium volatility, players can expect to achieve wins at a steady pace.\n\nGraphics\n\nThe graphics of Mustang Money Super are well-made but keep a minimalistic style. The game is set in the Old West and features a canyon, horses, a beautiful sunset, gold ingots in flames, an eagle, mountains, and the dollar sign as symbols that help players achieve a win. The graphics are clean, leaving no room for eccentric choices or ideas that might distract players from the spins. \n\nSymbols\n\nMustang Money Super uses different symbols to help players achieve a win- J, Q, K, and A are the lowest valued symbols while cactus, gold ingots in flames, an eagle, mountains, and the dollar sign are worth much more. The Wild symbol is the flaming Mustang and is the most important part to create dynamics and possible wins. The slot logo is the Scatter symbol. Players need to match the symbols on the pay lines to generate winning combinations.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mustang Money Super\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nMustang Money Super is a simple and straightforward slot game with the classic 5 reels and a medium volatility. Players can enjoy over 100 pay lines and try their luck to generate wins on the reels. The game proceeds without any hiccups and is very easy to play.\n\nFree Spins\n\nThe free spins are the most attractive feature of Mustang Money Super. To activate them, players need to collect 3 or more Scatter symbols on the reels and they will get 10 spins. During this phase, the Wild symbol will only appear on reel 3, but players can also find substitute symbols that carry 1x or 2x multipliers. Additionally, if the substitute symbol stops on reel 4, the player will be assigned a win multiplier of 1x or 5x. There are also Super Spins that essentially have the same function as free spins but exploit the golden mustangs to offer 1x or 3x multipliers.\n\nPay Lines\n\nMustang Money Super offers players over 100 pay lines to win from. Players need to match the symbols on the pay lines to generate winning combinations. With medium volatility, players can expect to achieve wins at a steady pace.\n\nGraphics\n\nThe graphics of Mustang Money Super are well-made but keep a minimalistic style. The game is set in the Old West and features a canyon, horses, a beautiful sunset, gold ingots in flames, an eagle, mountains, and the dollar sign as symbols that help players achieve a win. The graphics are clean, leaving no room for eccentric choices or ideas that might distract players from the spins. \n\nSymbols\n\nMustang Money Super uses different symbols to help players achieve a win- J, Q, K, and A are the lowest valued symbols while cactus, gold ingots in flames, an eagle, mountains, and the dollar sign are worth much more. The Wild symbol is the flaming Mustang and is the most important part to create dynamics and possible wins. The slot logo is the Scatter symbol. Players need to match the symbols on the pay lines to generate winning combinations.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDLSUKR4Oli2yb31RG8qhuy9wIzk",
+                "id": "chatcmpl-7WYJToCA5KCpBObKt2OfOXC2RT1ww",
                 "object": "chat.completion",
-                "created": 1687435494,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992751,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Over 100 pay lines to win from\",\n        \"Free spins feature with multipliers\",\n        \"Well-made graphics with a minimalistic style\",\n        \"Flaming Mustang Wild symbol creates dynamics and wins\"\n    ],\n    \"cons\": [\n        \"Medium volatility may not be suitable for high-risk players\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Mustang Money Super Free | Review of the Slot Game\",\n    \"meta_description\": \"Read our review of Mustang Money Super online slot game and play for free. Discover the 100 pay lines, free spins, well-made graphics, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic 5-reel gameplay\",\n    \"Over 100 pay lines\",\n    \"Attractive free spins feature\",\n    \"Well-made graphics with a minimalistic style\"\n  ],\n  \"cons\": [\n    \"Limited appearance of Wild symbol during free spins\",\n    \"Super Spins not as rewarding as expected\"\n  ],\n  \"meta_title\": \"Play Mustang Money Super Free - Slot Game Review\",\n  \"meta_description\": \"Read our review of Mustang Money Super, a slot game with over 100 pay lines. Play for free and enjoy attractive free spins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 136,
-                    "total_tokens": 740
+                    "prompt_tokens": 601,
+                    "completion_tokens": 124,
+                    "total_tokens": 725
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mustang-money-super.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Mustang_Money_S_f0060400-5a18-41b9-96f3-d630852be040_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Mustang_Money_S_f0060400-5a18-41b9-96f3-d630852be040_4.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Mustang_Money_S_f0060400-5a18-41b9-96f3-d630852be040_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Mustang_Money_S_f0060400-5a18-41b9-96f3-d630852be040_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mustang Money Super (Version 2).webp",
+        "game_reviews/processed_images/Mustang Money Super (Version 1).webp",
+        "game_reviews/processed_images/Mustang Money Super (Version 3).webp",
+        "game_reviews/processed_images/Mustang Money Super (Version 4).webp"
+    ],
+    "slug": "mustang-money-super",
+    "name": "Mustang Money Super",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mustang-Money-Super-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mustang Money Super Free - Slot Game Review' ### Meta set: 'Read our review of Mustang Money Super, a slot game with over 100 pay lines. Play for free and enjoy attractive free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

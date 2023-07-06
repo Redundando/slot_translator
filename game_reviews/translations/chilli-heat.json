@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging gameplay with straightforward controls",
-                    "Cartoonish graphics and fiery red background",
-                    "Two bonus games for significant payouts",
-                    "Wide range of betting options from €0.25 to €125 per spin"
+                    "Engaging Mexican cuisine theme",
+                    "Two bonus games for extra winning potential",
+                    "Wide range of betting options",
+                    "Decent RTP of 96.5%"
                 ],
                 "cons": [
                     "No special effects or 3D animations",
-                    "Only the Free Spins feature offers richer reels"
+                    "Limited number of free spins"
                 ],
-                "meta_title": "Play Chilli Heat Free: Review of Pragmatic Play Slot",
-                "meta_description": "Chilli Heat is a fun and engaging slot game based on Mexican cuisine featuring two bonus games for significant payouts and a 96.5% RTP. Play for free now!"
+                "meta_title": "Play Chilli Heat Free: Exciting Online Slot Game",
+                "meta_description": "Read our review of Chilli Heat and play this exciting online slot game for free. Experience Mexican cuisine and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Chilli Heat\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description and Features\n\nChilli Heat is a 5-reel, 25-payline online slot machine developed by Pragmatic Play. The slot is based on a Mexican cuisine theme, and the graphics are in a cartoon style against a fiery red background. The game has straightforward gameplay but offers two bonus games that can yield excellent payouts.\n\nBetting Options\n\nChilli Heat offers a range of bets from € 0.25 up to a maximum of €125 per spin, making it an excellent choice for both casual players and high rollers. The game also features an Autoplay button allowing you to automatically play up to 100 spins.\n\nThemed Symbols and Graphics\n\nChilli Heat features themed symbols related to Mexican cuisine, including tequila glasses, a mariachi with a sombrero, mustaches and guitar, and a chihuahua with salsa tabasco. The graphics are cartoonish and move on a fiery red background. Although there are no special effects or 3D animations, the game is aesthetically pleasing and engaging.\n\nBonus Games: Money Respins and Free Spins\n\nChilli Heat offers two bonus games that can yield significant payouts. The first is called Money Respins, and it's triggered by landing six or more sacks of coins on the screen. The sacks then remain locked in place for three free spins, and every time a new sack lands, it resets the counter back to three. The game ends when all free spins are used, or when all 15 positions on the screen are filled with coins, which activates the grand prize of 1000x the bet. The second bonus game is the Free Spins feature, which is triggered by landing three Scatter symbols on reels 2, 3, and 4. The player gets 8 free spins, and during this feature, the reels become richer as they contain only high-paying symbols and Wilds.\n\nWinning Opportunities\n\nChilli Heat has a maximum payout of 1250x the bet during the base game, which can be obtained by a combination of five Mariachi symbols. The Money Respins feature can yield the grand prize of 1000x the bet, and the Free Spins feature offers potential higher payouts due to the richer reels. The game's RTP is 96.5%, indicating a decent amount of winning opportunities. Overall, Chilli Heat offers a fun and engaging gaming experience with sufficient winning opportunities.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Chilli Heat\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description and Features\n\nChilli Heat is a 5-reel, 25-payline online slot machine developed by Pragmatic Play. The slot is based on a Mexican cuisine theme, and the graphics are in a cartoon style against a fiery red background. The game has straightforward gameplay but offers two bonus games that can yield excellent payouts.\n\nBetting Options\n\nChilli Heat offers a range of bets from € 0.25 up to a maximum of €125 per spin, making it an excellent choice for both casual players and high rollers. The game also features an Autoplay button allowing you to automatically play up to 100 spins.\n\nThemed Symbols and Graphics\n\nChilli Heat features themed symbols related to Mexican cuisine, including tequila glasses, a mariachi with a sombrero, mustaches and guitar, and a chihuahua with salsa tabasco. The graphics are cartoonish and move on a fiery red background. Although there are no special effects or 3D animations, the game is aesthetically pleasing and engaging.\n\nBonus Games: Money Respins and Free Spins\n\nChilli Heat offers two bonus games that can yield significant payouts. The first is called Money Respins, and it's triggered by landing six or more sacks of coins on the screen. The sacks then remain locked in place for three free spins, and every time a new sack lands, it resets the counter back to three. The game ends when all free spins are used, or when all 15 positions on the screen are filled with coins, which activates the grand prize of 1000x the bet. The second bonus game is the Free Spins feature, which is triggered by landing three Scatter symbols on reels 2, 3, and 4. The player gets 8 free spins, and during this feature, the reels become richer as they contain only high-paying symbols and Wilds.\n\nWinning Opportunities\n\nChilli Heat has a maximum payout of 1250x the bet during the base game, which can be obtained by a combination of five Mariachi symbols. The Money Respins feature can yield the grand prize of 1000x the bet, and the Free Spins feature offers potential higher payouts due to the richer reels. The game's RTP is 96.5%, indicating a decent amount of winning opportunities. Overall, Chilli Heat offers a fun and engaging gaming experience with sufficient winning opportunities.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Su31SXdrq6Lgk2eZKiYa9C7LE3aC",
+                "id": "chatcmpl-7WQA4RGMoU7UP62HAkIy9ZYwnP2JW",
                 "object": "chat.completion",
-                "created": 1687122987,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 666,
-                    "completion_tokens": 145,
-                    "total_tokens": 811
-                },
+                "created": 1687961416,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Engaging gameplay with straightforward controls\",\n    \"Cartoonish graphics and fiery red background\",\n    \"Two bonus games for significant payouts\",\n    \"Wide range of betting options from €0.25 to €125 per spin\"\n    ],\n\"cons\": [\n    \"No special effects or 3D animations\",\n    \"Only the Free Spins feature offers richer reels\"\n    ],\n\"meta_title\": \"Play Chilli Heat Free: Review of Pragmatic Play Slot\",\n\"meta_description\": \"Chilli Heat is a fun and engaging slot game based on Mexican cuisine featuring two bonus games for significant payouts and a 96.5% RTP. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging Mexican cuisine theme\",\n    \"Two bonus games for extra winning potential\",\n    \"Wide range of betting options\",\n    \"Decent RTP of 96.5%\"\n  ],\n  \"cons\": [\n    \"No special effects or 3D animations\",\n    \"Limited number of free spins\"\n  ],\n  \"meta_title\": \"Play Chilli Heat Free: Exciting Online Slot Game\",\n  \"meta_description\": \"Read our review of Chilli Heat and play this exciting online slot game for free. Experience Mexican cuisine and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 663,
+                    "completion_tokens": 121,
+                    "total_tokens": 784
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_4.png",
+        "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_3.png",
         "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_2.png",
         "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_1.png",
-        "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_3.png"
+        "arved__Prompt_Create_an_appealing_feature_image_for_Chilli_Heat_d50bf057-5133-40de-8660-4bb78145268c_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Chilli Heat (Version 3).webp",
-        "game_reviews/processed_images/Chilli Heat (Version 4).webp",
+        "game_reviews/processed_images/Chilli Heat (Version 1).webp",
         "game_reviews/processed_images/Chilli Heat (Version 2).webp",
-        "game_reviews/processed_images/Chilli Heat (Version 1).webp"
+        "game_reviews/processed_images/Chilli Heat (Version 3).webp",
+        "game_reviews/processed_images/Chilli Heat (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/chilli-heat.json"
+    "filename": "game_reviews/translations/chilli-heat.json",
+    "slug": "chilli-heat",
+    "name": "Chilli Heat",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Chilli-Heat-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Chilli Heat Free: Exciting Online Slot Game' ### Meta set: 'Read our review of Chilli Heat and play this exciting online slot game for free. Experience Mexican cuisine and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

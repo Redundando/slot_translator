@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Wide range of betting options",
                     "Impressive graphics and Chinese folklore theme",
-                    "Wide range of bets available",
-                    "Sticky Respins feature for extra free spins and prizes",
-                    "Demo version available to play for free without registration"
+                    "Sticky Respins feature for additional free spins",
+                    "Availability of a free demo version"
                 ],
                 "cons": [
-                    "High volatility makes it difficult to win",
-                    "Low theoretical return to the player (94.27%)"
+                    "High volatility makes winning difficult",
+                    "Low theoretical return to the player"
                 ],
-                "meta_title": "Play Jin Chan’s Pond of Riches for Free | Review",
-                "meta_description": "Read our review of Jin Chan’s Pond of Riches and play this Chinese-themed online slot game for free. Includes pros, cons, and features of the game."
+                "meta_title": "Play Jin Chan's Pond of Riches for Free",
+                "meta_description": "Read our review of Jin Chan's Pond of Riches and play for free without registration."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jin Chan’s Pond of Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nJin Chan's Pond of Riches has a traditional game grid, consisting of five reels, three rows, and fifteen pay lines. The range of bets is very wide: you can in fact place bets starting from just 10 cents up to a maximum of 100 € per spin.\n\nDesign and aesthetics\n\nJin Chan's Pond of Riches is characterized by impressive graphics and a focus on Chinese folklore. The game is set in a pond, represented in a very realistic way, in the middle of which a traditional pagoda rises. The reels also seem immersed in the pond, surrounded by a rich frame depicting various animals and structured as if the grid itself were an ancient pagoda. If you are looking for a really beautiful game graphically, Jin Chan's Pond of Riches could be just right for you!\n\nSymbols and their significance\n\nThe symbols you find on the reels are the royal cards, from 9 to Ace, plus some symbols characteristic of Chinese culture, such as the turtle, the heron, the carp, and the frog. The frog is the protagonist of the game and represents a Feng Chui, a symbol of luck and prosperity. \n\nSpecial symbols\n\nThe full moon is the Wild symbol with a wild card function, while the Scatter, represented by Jin Chan with a gold coin in his mouth, awards 8 to 16 free spins when it appears on the reels at least three times! You will then have the opportunity to take advantage of a Sticky Respins feature, which will give you many additional free spins and rich prizes!\n\nVolatility and theoretical return to the player\n\nJin Chan's Pond of Riches has a very high volatility which can make it difficult to win. Combined with a low theoretical return to the player (94.27%), players may need to be patient before winning. However, if you do not intend to spend real money, you can comfortably play Jin Chan's Pond of Riches for free and without registration thanks to the availability of the demo version!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jin Chan’s Pond of Riches\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nJin Chan's Pond of Riches has a traditional game grid, consisting of five reels, three rows, and fifteen pay lines. The range of bets is very wide: you can in fact place bets starting from just 10 cents up to a maximum of 100 € per spin.\n\nDesign and aesthetics\n\nJin Chan's Pond of Riches is characterized by impressive graphics and a focus on Chinese folklore. The game is set in a pond, represented in a very realistic way, in the middle of which a traditional pagoda rises. The reels also seem immersed in the pond, surrounded by a rich frame depicting various animals and structured as if the grid itself were an ancient pagoda. If you are looking for a really beautiful game graphically, Jin Chan's Pond of Riches could be just right for you!\n\nSymbols and their significance\n\nThe symbols you find on the reels are the royal cards, from 9 to Ace, plus some symbols characteristic of Chinese culture, such as the turtle, the heron, the carp, and the frog. The frog is the protagonist of the game and represents a Feng Chui, a symbol of luck and prosperity. \n\nSpecial symbols\n\nThe full moon is the Wild symbol with a wild card function, while the Scatter, represented by Jin Chan with a gold coin in his mouth, awards 8 to 16 free spins when it appears on the reels at least three times! You will then have the opportunity to take advantage of a Sticky Respins feature, which will give you many additional free spins and rich prizes!\n\nVolatility and theoretical return to the player\n\nJin Chan's Pond of Riches has a very high volatility which can make it difficult to win. Combined with a low theoretical return to the player (94.27%), players may need to be patient before winning. However, if you do not intend to spend real money, you can comfortably play Jin Chan's Pond of Riches for free and without registration thanks to the availability of the demo version!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TvF7QwvrnmV9HdFLiXTBU6XIVXOl",
+                "id": "chatcmpl-7WVUpfP5FbANYavqAUDDe4kxgls22",
                 "object": "chat.completion",
-                "created": 1687365909,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981923,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and Chinese folklore theme\",\n        \"Wide range of bets available\",\n        \"Sticky Respins feature for extra free spins and prizes\",\n        \"Demo version available to play for free without registration\"\n    ],\n    \"cons\": [\n        \"High volatility makes it difficult to win\",\n        \"Low theoretical return to the player (94.27%)\"\n    ],\n    \"meta_title\": \"Play Jin Chan’s Pond of Riches for Free | Review\",\n    \"meta_description\": \"Read our review of Jin Chan’s Pond of Riches and play this Chinese-themed online slot game for free. Includes pros, cons, and features of the game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Wide range of betting options\",\n    \"Impressive graphics and Chinese folklore theme\",\n    \"Sticky Respins feature for additional free spins\",\n    \"Availability of a free demo version\"\n  ],\n  \"cons\": [\n    \"High volatility makes winning difficult\",\n    \"Low theoretical return to the player\"\n  ],\n  \"meta_title\": \"Play Jin Chan's Pond of Riches for Free\",\n  \"meta_description\": \"Read our review of Jin Chan's Pond of Riches and play for free without registration.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 591,
-                    "completion_tokens": 144,
-                    "total_tokens": 735
+                    "prompt_tokens": 588,
+                    "completion_tokens": 114,
+                    "total_tokens": 702
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jin-chans-pond-of-riches.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Jin_Chans_Pond_of_Rich_f34d1334-3d5c-4098-bca4-213da1fd9c18_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Jin_Chans_Pond_of_Rich_f34d1334-3d5c-4098-bca4-213da1fd9c18_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Jin_Chans_Pond_of_Rich_f34d1334-3d5c-4098-bca4-213da1fd9c18_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Jin_Chans_Pond_of_Rich_f34d1334-3d5c-4098-bca4-213da1fd9c18_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jin Chans Pond Of Riches (Version 2).webp",
+        "game_reviews/processed_images/Jin Chans Pond Of Riches (Version 4).webp",
+        "game_reviews/processed_images/Jin Chans Pond Of Riches (Version 1).webp",
+        "game_reviews/processed_images/Jin Chans Pond Of Riches (Version 3).webp"
+    ],
+    "slug": "jin-chans-pond-of-riches",
+    "name": "Jin Chan’s Pond of Riches",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jin-Chans-Pond-Of-Riches-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jin Chan's Pond of Riches for Free' ### Meta set: 'Read our review of Jin Chan's Pond of Riches and play for free without registration.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

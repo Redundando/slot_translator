@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting gameplay with four different scenarios",
-                    "Unique bonuses and features for each region",
-                    "Well-defined and detailed graphics",
-                    "Moderate difficulty level for experienced players"
+                    "Exciting gameplay with unique bonuses in each region",
+                    "Four different regions to explore, offering diverse cultures and landscapes",
+                    "Well-defined and detailed graphics with simple symbols",
+                    "Moderate difficulty level, perfect for experienced gamblers"
                 ],
                 "cons": [
-                    "Cartoonish graphics may not appeal to all players",
-                    "Limited number of symbols on the grid"
+                    "Limited number of regions to explore",
+                    "Cartoonish graphics may not appeal to all players"
                 ],
-                "meta_title": "Play Aldo’s Journey Slot for Free - Discover Exciting Features",
-                "meta_description": "Explore unique regions with Aldo’s Journey slot game for free. Discover exciting features and bonuses of Italian, Chinese, Persian, and Mongolian regions."
+                "meta_title": "Play Aldo's Journey for Free",
+                "meta_description": "Read our review of Aldo's Journey and play for free with unique bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aldo’s Journey\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAldo’s Journey offers exciting gameplay with four different scenarios: Italy, China, Persia, and Mongolia, each with unique bonuses and features. The bonuses in Italy include a multiplier that increases by 1x on each slot spin, while in China, the multiplier increases by 2x each time, and Aldo acts as a wild symbol in addition to the existing one. In Mongolia, every symbol that does not belong to a nearly winning combination is eliminated on each slot spin, and when only two are left, a multiplier is added. Finally, in Persia, a Sticky Wild may appear, which is a Wild symbol that can remain on the grid for several spins. The golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature.\n\nUnique Regions\n\nThere are four different regions to explore in Aldo’s Journey: Italy, China, Persia, and Mongolia. Each region offers different bonuses and features that make the gameplay exciting and unique. Players can experience different cultures and landscapes as they journey through the game.\n\nGraphics and Symbols\n\nThe graphics in Aldo’s Journey are cartoonish, but they are well-defined and defined down to the smallest detail. The symbols on the 5x5 grid are simple, and they include coins, diamonds, and the Wild and Scatter symbols. The diamonds represent different multipliers, ranging from 0.2x to 2x. The golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature.\n\nWild and Scatter Symbols\n\nThe golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature. The Wild symbol also acts as Aldo in China, and in Persia, a Sticky Wild may appear, which is a Wild symbol that can remain on the grid for several spins.\n\nDifficulty Level\n\nExperienced gamblers will enjoy the challenge of Aldo's Journey. The game offers unique features and bonuses in each region, which requires players to strategize to win. The game's difficulty level is moderate, and players who are familiar with slot machine games will find it intuitive and easy to play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aldo’s Journey\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAldo’s Journey offers exciting gameplay with four different scenarios: Italy, China, Persia, and Mongolia, each with unique bonuses and features. The bonuses in Italy include a multiplier that increases by 1x on each slot spin, while in China, the multiplier increases by 2x each time, and Aldo acts as a wild symbol in addition to the existing one. In Mongolia, every symbol that does not belong to a nearly winning combination is eliminated on each slot spin, and when only two are left, a multiplier is added. Finally, in Persia, a Sticky Wild may appear, which is a Wild symbol that can remain on the grid for several spins. The golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature.\n\nUnique Regions\n\nThere are four different regions to explore in Aldo’s Journey: Italy, China, Persia, and Mongolia. Each region offers different bonuses and features that make the gameplay exciting and unique. Players can experience different cultures and landscapes as they journey through the game.\n\nGraphics and Symbols\n\nThe graphics in Aldo’s Journey are cartoonish, but they are well-defined and defined down to the smallest detail. The symbols on the 5x5 grid are simple, and they include coins, diamonds, and the Wild and Scatter symbols. The diamonds represent different multipliers, ranging from 0.2x to 2x. The golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature.\n\nWild and Scatter Symbols\n\nThe golden coin symbol with the W is the Wild symbol, which replaces any missing icon to achieve a winning combination. The Scatter symbol is the compass and activates the free spins feature. The Wild symbol also acts as Aldo in China, and in Persia, a Sticky Wild may appear, which is a Wild symbol that can remain on the grid for several spins.\n\nDifficulty Level\n\nExperienced gamblers will enjoy the challenge of Aldo's Journey. The game offers unique features and bonuses in each region, which requires players to strategize to win. The game's difficulty level is moderate, and players who are familiar with slot machine games will find it intuitive and easy to play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SUhXrLKQPraIVDUjUenan6NGfGw7",
+                "id": "chatcmpl-7WMB0HQB8NCPD78jk5Gwg7kzQ8c2l",
                 "object": "chat.completion",
-                "created": 1687025555,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 663,
-                    "completion_tokens": 135,
-                    "total_tokens": 798
-                },
+                "created": 1687946098,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with four different scenarios\",\n    \"Unique bonuses and features for each region\",\n    \"Well-defined and detailed graphics\",\n    \"Moderate difficulty level for experienced players\"\n  ],\n  \"cons\": [\n    \"Cartoonish graphics may not appeal to all players\",\n    \"Limited number of symbols on the grid\"\n  ],\n  \"meta_title\": \"Play Aldo’s Journey Slot for Free - Discover Exciting Features\",\n  \"meta_description\": \"Explore unique regions with Aldo’s Journey slot game for free. Discover exciting features and bonuses of Italian, Chinese, Persian, and Mongolian regions.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with unique bonuses in each region\",\n    \"Four different regions to explore, offering diverse cultures and landscapes\",\n    \"Well-defined and detailed graphics with simple symbols\",\n    \"Moderate difficulty level, perfect for experienced gamblers\"\n  ],\n  \"cons\": [\n    \"Limited number of regions to explore\",\n    \"Cartoonish graphics may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Aldo's Journey for Free\",\n  \"meta_description\": \"Read our review of Aldo's Journey and play for free with unique bonuses.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 661,
+                    "completion_tokens": 125,
+                    "total_tokens": 786
+                }
             }
         },
         {
@@ -815,15 +815,24 @@
     ],
     "filename": "game_reviews/translations/aldos-journey.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_1.png",
         "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_4.png"
+        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Aldos_Journey_that_cap_41c711b3-f2c7-4c85-81a3-7547bde6ce8f_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Aldos Journey (Version 3).webp",
-        "game_reviews/processed_images/Aldos Journey (Version 2).webp",
         "game_reviews/processed_images/Aldos Journey (Version 4).webp",
-        "game_reviews/processed_images/Aldos Journey (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Aldos Journey (Version 2).webp",
+        "game_reviews/processed_images/Aldos Journey (Version 1).webp",
+        "game_reviews/processed_images/Aldos Journey (Version 3).webp"
+    ],
+    "slug": "aldos-journey",
+    "name": "Aldo’s Journey",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aldos-Journey-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aldo's Journey for Free' ### Meta set: 'Read our review of Aldo's Journey and play for free with unique bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

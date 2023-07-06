@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative gameplay with 1,024 ways to win",
-                    "Aztec theme with well-designed graphics and pleasing soundtrack",
-                    "Special symbols and lucrative bonus features",
-                    "Medium volatility and high RTP for a fair chance to win"
+                    "Innovative mechanism for forming combinations",
+                    "Well-designed graphics and clean visuals",
+                    "Exciting bonus features like Expanded Wild Respins and free spins",
+                    "Balanced gameplay with medium volatility"
                 ],
                 "cons": [
-                    "Expanding Wild is the highest point of luck",
-                    "Free spin feature is difficult to trigger"
+                    "Limited variety in terms of symbols and theme",
+                    "Medium volatility may not appeal to high-risk players"
                 ],
-                "meta_title": "Play Book of Itza Free - Innovative Aztec Themed Slot",
-                "meta_description": "Discover a balanced and enjoyable gaming experience with innovative gameplay mechanics and lucrative bonus features in Book of Itza online slot game. Play for free."
+                "meta_title": "Play Book of Itza Free: Innovative Gameplay & Exciting Bonus Features",
+                "meta_description": "Discover Book of Itza, an online slot game with innovative gameplay and exciting bonus features. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Itza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nBook of Itza is an online slot game with 5 reels and 4 rows, providing a total of 1,024 different ways to win. The game has an innovative mechanism for forming combinations, where if the same symbol appears on consecutive rows from left to right, it can lead to winning combinations. With a medium volatility and an RTP of 96.3%, the gameplay is balanced and can award big wins at a low frequency.\n\nAztec theme and graphics\n\nThe theme of Book of Itza revolves around Aztec culture and incorporates symbols such as ceremonial masks, a tribal chief, gold coins, and a book among others. The graphics of the game are well-designed and clean, creating a subtle yet effective visual appeal. The soundtrack complements the theme with melodies and percussion that enhance the betting experience.\n\nSpecial symbols and bonus features\n\nBook of Itza features a Wild symbol that can activate an expansion feature with animations and a Scatter symbol represented by a book that grants access to free spin feature. The game has a Sticky Expanded Wild Respins feature that can be unlocked when Wilds cover the entire reel. Additionally, if three or more Scatters appear, players can activate 12 free spins. The game offers lucrative symbols such as the Wild that returns 200 times the total bet; the tribal chief, which is worth a prize of 150x the total bet; the feather crown at 100x, and the golden mask with a prize of up to 25x the total bet.\n\nVolatility and RTP\n\nBook of Itza has a medium volatility, making the gameplay balanced and awarding big wins at a low frequency. The RTP of the game is set at 96.3%, which is very interesting for players seeking a fair chance to win when playing online slots.\n\nOverall gaming experience\n\nBook of Itza is an enjoyable online slot game that is easy to play, making it a great choice for both novice and experienced players. The design is pleasing, and the features are simple but well-designed. The Sticky Expanded Wild Respins feature and the free spin feature add excitement to the gameplay and can result in lucrative wins. While the highest point of luck is the expanding wild, there is still plenty of opportunity for all players to win, and the game is well-balanced with medium volatility.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Itza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nBook of Itza is an online slot game with 5 reels and 4 rows, providing a total of 1,024 different ways to win. The game has an innovative mechanism for forming combinations, where if the same symbol appears on consecutive rows from left to right, it can lead to winning combinations. With a medium volatility and an RTP of 96.3%, the gameplay is balanced and can award big wins at a low frequency.\n\nAztec theme and graphics\n\nThe theme of Book of Itza revolves around Aztec culture and incorporates symbols such as ceremonial masks, a tribal chief, gold coins, and a book among others. The graphics of the game are well-designed and clean, creating a subtle yet effective visual appeal. The soundtrack complements the theme with melodies and percussion that enhance the betting experience.\n\nSpecial symbols and bonus features\n\nBook of Itza features a Wild symbol that can activate an expansion feature with animations and a Scatter symbol represented by a book that grants access to free spin feature. The game has a Sticky Expanded Wild Respins feature that can be unlocked when Wilds cover the entire reel. Additionally, if three or more Scatters appear, players can activate 12 free spins. The game offers lucrative symbols such as the Wild that returns 200 times the total bet; the tribal chief, which is worth a prize of 150x the total bet; the feather crown at 100x, and the golden mask with a prize of up to 25x the total bet.\n\nVolatility and RTP\n\nBook of Itza has a medium volatility, making the gameplay balanced and awarding big wins at a low frequency. The RTP of the game is set at 96.3%, which is very interesting for players seeking a fair chance to win when playing online slots.\n\nOverall gaming experience\n\nBook of Itza is an enjoyable online slot game that is easy to play, making it a great choice for both novice and experienced players. The design is pleasing, and the features are simple but well-designed. The Sticky Expanded Wild Respins feature and the free spin feature add excitement to the gameplay and can result in lucrative wins. While the highest point of luck is the expanding wild, there is still plenty of opportunity for all players to win, and the game is well-balanced with medium volatility.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SjdctPA55QEtlxIcuPmZVHUluRFn",
+                "id": "chatcmpl-7WOs8NVjg05YC0UYMoWH8VxfBJezB",
                 "object": "chat.completion",
-                "created": 1687082972,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 649,
-                    "completion_tokens": 145,
-                    "total_tokens": 794
-                },
+                "created": 1687956460,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative gameplay with 1,024 ways to win\",\n        \"Aztec theme with well-designed graphics and pleasing soundtrack\",\n        \"Special symbols and lucrative bonus features\",\n        \"Medium volatility and high RTP for a fair chance to win\"\n    ],\n    \"cons\": [\n        \"Expanding Wild is the highest point of luck\",\n        \"Free spin feature is difficult to trigger\"\n    ],\n    \"meta_title\": \"Play Book of Itza Free - Innovative Aztec Themed Slot\",\n    \"meta_description\": \"Discover a balanced and enjoyable gaming experience with innovative gameplay mechanics and lucrative bonus features in Book of Itza online slot game. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Innovative mechanism for forming combinations\",\n    \"Well-designed graphics and clean visuals\",\n    \"Exciting bonus features like Expanded Wild Respins and free spins\",\n    \"Balanced gameplay with medium volatility\"\n  ],\n  \"cons\": [\n    \"Limited variety in terms of symbols and theme\",\n    \"Medium volatility may not appeal to high-risk players\"\n  ],\n  \"meta_title\": \"Play Book of Itza Free: Innovative Gameplay & Exciting Bonus Features\",\n  \"meta_description\": \"Discover Book of Itza, an online slot game with innovative gameplay and exciting bonus features. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 646,
+                    "completion_tokens": 133,
+                    "total_tokens": 779
+                }
             }
         },
         {
@@ -821,8 +821,17 @@
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Itza (Version 3).webp",
+        "game_reviews/processed_images/Book Of Itza (Version 2).webp",
         "game_reviews/processed_images/Book Of Itza (Version 1).webp",
-        "game_reviews/processed_images/Book Of Itza (Version 4).webp",
-        "game_reviews/processed_images/Book Of Itza (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Book Of Itza (Version 4).webp"
+    ],
+    "slug": "book-of-itza",
+    "name": "Book of Itza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Itza Free: Innovative Gameplay & Exciting Bonus Features' ### Meta set: 'Discover Book of Itza, an online slot game with innovative gameplay and exciting bonus features. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

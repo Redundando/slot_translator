@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Based on popular game show",
+                    "Based on the popular game show",
                     "Plenty of chances to win big jackpots",
                     "Pick-em bonus feature",
-                    "Graphics that resemble the television quiz show"
+                    "High-paying symbols and wilds"
                 ],
                 "cons": [
-                    "RTP percentage is below average",
-                    "No free spins bonus feature"
+                    "RTP percentage below average at 95%",
+                    "No knowledge of the TV show required"
                 ],
-                "meta_title": "Play Jeopardy Slot Machine for Free | Pros and Cons",
-                "meta_description": "Read our review of Jeopardy slot machine and learn its pros and cons. Play it for free and enjoy the popular game show theme and pick-em bonus feature."
+                "meta_title": "Play Jeopardy Slot Machine for Free",
+                "meta_description": "Read our review of Jeopardy slot machine and play for free. Win big jackpots!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jeopardy!\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJeopardy Slot Machine\n\nThe Jeopardy slot machine is based on the popular game show and provides players with plenty of chances to win big jackpots. The game features five reels and nine paylines, along with a pick-em bonus feature.\n\nSymbols and Features\n\nAll symbols in Jeopardy slots are related to the game show theme and represent categories of knowledge, as well as some bonus symbols. The highest paying symbol in the game is the Jeopardy logo, which can bring you 2500 credits. The Double Jeopardy 2x Wild symbol is the wild and substitutes all standard game symbols to help you form a winning combination and provides you with a 2x multiplier. The game also has a bonus feature that is activated by landing three of the Risk Bonus symbols on any active payline. When this happens, you'll be taken to a new bonus tab consisting of 30 Jeopardy screens.\n\nPayouts and Bonuses\n\nPayouts in Jeopardy slots are awarded for landing combinations of identical symbols on paylines. All symbols reward payouts for combinations of three, four, and five identical symbols on paylines. Combinations of three Double Jeopardy symbols and two Jeopardy symbols while playing with the maximum possible bet could get you 25,000 times your coin size. The game also has a bonus feature that can double your winnings.\n\nTelevision Quiz Graphics\n\nJeopardy slots have graphics that will make you feel like you're almost in front of the big Jeopardy screen. The symbols in the game represent categories of knowledge from the show. However, no knowledge of the TV show is required to play and win. The RTP percentage of this IGT game is solidly below average at 95%.\n\nSimilar Slot Machines\n\nIf you're a fan of game shows, we recommend trying Who Wants to Be a Millionaire, a Megaways-produced slot machine that will transport you to an episode of Who Wants to Be a Millionaire.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jeopardy!\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJeopardy Slot Machine\n\nThe Jeopardy slot machine is based on the popular game show and provides players with plenty of chances to win big jackpots. The game features five reels and nine paylines, along with a pick-em bonus feature.\n\nSymbols and Features\n\nAll symbols in Jeopardy slots are related to the game show theme and represent categories of knowledge, as well as some bonus symbols. The highest paying symbol in the game is the Jeopardy logo, which can bring you 2500 credits. The Double Jeopardy 2x Wild symbol is the wild and substitutes all standard game symbols to help you form a winning combination and provides you with a 2x multiplier. The game also has a bonus feature that is activated by landing three of the Risk Bonus symbols on any active payline. When this happens, you'll be taken to a new bonus tab consisting of 30 Jeopardy screens.\n\nPayouts and Bonuses\n\nPayouts in Jeopardy slots are awarded for landing combinations of identical symbols on paylines. All symbols reward payouts for combinations of three, four, and five identical symbols on paylines. Combinations of three Double Jeopardy symbols and two Jeopardy symbols while playing with the maximum possible bet could get you 25,000 times your coin size. The game also has a bonus feature that can double your winnings.\n\nTelevision Quiz Graphics\n\nJeopardy slots have graphics that will make you feel like you're almost in front of the big Jeopardy screen. The symbols in the game represent categories of knowledge from the show. However, no knowledge of the TV show is required to play and win. The RTP percentage of this IGT game is solidly below average at 95%.\n\nSimilar Slot Machines\n\nIf you're a fan of game shows, we recommend trying Who Wants to Be a Millionaire, a Megaways-produced slot machine that will transport you to an episode of Who Wants to Be a Millionaire.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tv08t81cRnXUh276GFBa2DZ4Exdq",
+                "id": "chatcmpl-7WVSPB1I5yQ9hd9c3G4EXerX6L4c8",
                 "object": "chat.completion",
-                "created": 1687364980,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981773,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Based on popular game show\",\n    \"Plenty of chances to win big jackpots\",\n    \"Pick-em bonus feature\",\n    \"Graphics that resemble the television quiz show\"\n  ],\n  \"cons\": [\n    \"RTP percentage is below average\",\n    \"No free spins bonus feature\"\n  ],\n  \"meta_title\": \"Play Jeopardy Slot Machine for Free | Pros and Cons\",\n  \"meta_description\": \"Read our review of Jeopardy slot machine and learn its pros and cons. Play it for free and enjoy the popular game show theme and pick-em bonus feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Based on the popular game show\",\n    \"Plenty of chances to win big jackpots\",\n    \"Pick-em bonus feature\",\n    \"High-paying symbols and wilds\"\n  ],\n  \"cons\": [\n    \"RTP percentage below average at 95%\",\n    \"No knowledge of the TV show required\"\n  ],\n  \"meta_title\": \"Play Jeopardy Slot Machine for Free\",\n  \"meta_description\": \"Read our review of Jeopardy slot machine and play for free. Win big jackpots!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 581,
-                    "completion_tokens": 131,
-                    "total_tokens": 712
+                    "prompt_tokens": 578,
+                    "completion_tokens": 117,
+                    "total_tokens": 695
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jeopardy.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_4.png",
+        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_2.png",
+        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_3.png",
+        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jeopardy (Version 4).webp",
+        "game_reviews/processed_images/Jeopardy (Version 2).webp",
+        "game_reviews/processed_images/Jeopardy (Version 1).webp",
+        "game_reviews/processed_images/Jeopardy (Version 3).webp"
+    ],
+    "slug": "jeopardy",
+    "name": "Jeopardy!",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jeopardy-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jeopardy Slot Machine for Free' ### Meta set: 'Read our review of Jeopardy slot machine and play for free. Win big jackpots!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

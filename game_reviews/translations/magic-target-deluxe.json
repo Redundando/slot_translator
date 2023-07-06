@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Classic gameplay with special bonus features.",
-                    "Large range of betting options.",
-                    "Unique Wazdan features for customization.",
-                    "Similar game with high RTP and great graphics available."
+                    "Classic gameplay with special features",
+                    "Juicy fruit symbols and icons",
+                    "High jackpot potential",
+                    "Free spins with doubled winnings"
                 ],
                 "cons": [
-                    "Limited number of paylines.",
-                    "No progressive jackpot."
+                    "Limited betting options",
+                    "No progressive jackpot"
                 ],
-                "meta_title": "Play Magic Target Deluxe for Free - Review & Ratings",
-                "meta_description": "Read our review of Magic Target Deluxe, a classic online slot game with bonus features. Play for free and learn about betting options and Wazdan features."
+                "meta_title": "Play Magic Target Deluxe for Free",
+                "meta_description": "Read our review of Magic Target Deluxe and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Target Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and symbols\n\nMagic Target Deluxe is a classic online slot game with familiar gameplay and special features. The background resembles a circus arena, where all the action takes place. The symbols and icons have been linked to different juicy fruits such as cherries, plums, grapes, lemons, and other privileged symbols that bring you more real money like a crown, fruit machine, and so on.\n\nJackpot and betting options\n\nMagic Target Deluxe is a five-reel slot with 10 active paylines. The bets you can make start from 0.10 and go up to 100.00 credits. The maximum jackpot you will get is your initial bet multiplied by 500 times! If you put the highest level of credit, then your winning will reach 50,000!\n\nSpecial symbols and features\n\nThe slot game offers special bonus features to increase your winnings. The Wild symbol represented by a mischievous jester can replace as needed. The Scatter symbol represented by a bomb triggers the free spins round when three or more of these icons appear on the payline. During the Free Spins round, a Multiplier Symbol is active, and each time it appears, the collected winnings are doubled.\n\nWazdan's unique features\n\nWazdan's unique features allow you to customize the game to make the experience on your favorite online slots as comfortable as possible. Magic Target Deluxe comes with a complete set of Wazdan's unique features, such as Volatility Levels, Ultra Fast Mode, Big Screen Mode, and Ultra Lite Mode, to match your gaming experience to your needs.\n\nOther similar games by Wazdan\n\nIf you enjoyed Magic Target Deluxe, you should know that Wazdan has released a very similar Slot Machine called Magic Target, which offers an incredible RTP of 96.63% and excellent graphics.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Target Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and symbols\n\nMagic Target Deluxe is a classic online slot game with familiar gameplay and special features. The background resembles a circus arena, where all the action takes place. The symbols and icons have been linked to different juicy fruits such as cherries, plums, grapes, lemons, and other privileged symbols that bring you more real money like a crown, fruit machine, and so on.\n\nJackpot and betting options\n\nMagic Target Deluxe is a five-reel slot with 10 active paylines. The bets you can make start from 0.10 and go up to 100.00 credits. The maximum jackpot you will get is your initial bet multiplied by 500 times! If you put the highest level of credit, then your winning will reach 50,000!\n\nSpecial symbols and features\n\nThe slot game offers special bonus features to increase your winnings. The Wild symbol represented by a mischievous jester can replace as needed. The Scatter symbol represented by a bomb triggers the free spins round when three or more of these icons appear on the payline. During the Free Spins round, a Multiplier Symbol is active, and each time it appears, the collected winnings are doubled.\n\nWazdan's unique features\n\nWazdan's unique features allow you to customize the game to make the experience on your favorite online slots as comfortable as possible. Magic Target Deluxe comes with a complete set of Wazdan's unique features, such as Volatility Levels, Ultra Fast Mode, Big Screen Mode, and Ultra Lite Mode, to match your gaming experience to your needs.\n\nOther similar games by Wazdan\n\nIf you enjoyed Magic Target Deluxe, you should know that Wazdan has released a very similar Slot Machine called Magic Target, which offers an incredible RTP of 96.63% and excellent graphics.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5Gn53yxRL6MFGzX8ctwhBkN72Xn",
+                "id": "chatcmpl-7WX7w1Eda32f1LT3Nl0QQCA6ol276",
                 "object": "chat.completion",
-                "created": 1687404453,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988192,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic gameplay with special bonus features.\",\n        \"Large range of betting options.\",\n        \"Unique Wazdan features for customization.\",\n        \"Similar game with high RTP and great graphics available.\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines.\",\n        \"No progressive jackpot.\"\n    ],\n    \"meta_title\": \"Play Magic Target Deluxe for Free - Review & Ratings\",\n    \"meta_description\": \"Read our review of Magic Target Deluxe, a classic online slot game with bonus features. Play for free and learn about betting options and Wazdan features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic gameplay with special features\",\n    \"Juicy fruit symbols and icons\",\n    \"High jackpot potential\",\n    \"Free spins with doubled winnings\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Magic Target Deluxe for Free\",\n  \"meta_description\": \"Read our review of Magic Target Deluxe and play this slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 546,
-                    "completion_tokens": 125,
-                    "total_tokens": 671
+                    "prompt_tokens": 543,
+                    "completion_tokens": 94,
+                    "total_tokens": 637
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-target-deluxe.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_featuring_a_happy_Maya_warrior_with_glas_a4b096ac-69c0-4460-8ba6-a5c6b31adf54_3.png",
+        "arved__Create_an_image_featuring_a_happy_Maya_warrior_with_glas_a4b096ac-69c0-4460-8ba6-a5c6b31adf54_4.png",
+        "arved__Create_an_image_featuring_a_happy_Maya_warrior_with_glas_a4b096ac-69c0-4460-8ba6-a5c6b31adf54_1.png",
+        "arved__Create_an_image_featuring_a_happy_Maya_warrior_with_glas_a4b096ac-69c0-4460-8ba6-a5c6b31adf54_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Target Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Magic Target Deluxe (Version 2).webp",
+        "game_reviews/processed_images/Magic Target Deluxe (Version 4).webp",
+        "game_reviews/processed_images/Magic Target Deluxe (Version 3).webp"
+    ],
+    "slug": "magic-target-deluxe",
+    "name": "Magic Target Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Target-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Target Deluxe for Free' ### Meta set: 'Read our review of Magic Target Deluxe and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

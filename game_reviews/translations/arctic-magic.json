@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and winter-themed visuals with a magical touch",
-                    "High volatility and a maximum jackpot of up to €150,000",
-                    "Wild and Scatter symbols add excitement to the gameplay",
-                    "Free Spins feature with tripled winnings"
+                    "Top-notch graphics with a winter-themed and magical atmosphere",
+                    "High volatility for a chance at a jackpot of up to 150,000 €",
+                    "Affordable betting range starting from 9 cents per spin",
+                    "Lucrative Free Spins feature with tripled winnings"
                 ],
                 "cons": [
-                    "Low number of paylines compared to other slots",
-                    "Less frequent wins due to the high volatility"
+                    "Wins may be less frequent due to the high volatility",
+                    "Limited number of paylines with only nine available"
                 ],
-                "meta_title": "Play Arctic Magic for Free - Review and Game Information",
-                "meta_description": "Read our review of Arctic Magic, a high volatility slot with stunning graphics and a winter theme. Play for free and take a shot at the jackpot of up to €150,000."
+                "meta_title": "Play Arctic Magic Free: Winter-themed Slot with High Volatility",
+                "meta_description": "Discover the magic of Arctic Magic slot. Play for free and win big with high volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Arctic Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisuals and Theme\n\nArctic Magic's graphics are top-notch - it's a winter-themed slot with an Arctic snowscape background during a purple-toned aurora borealis. The symbols are a mix of realism and magic, using cold colors to enhance their fairy tale-like quality.\n\nGameplay and Betting\n\nArctic Magic has a traditional five-reel, three-row gameplay structure and only nine paylines. You can bet per spin starting from 9 cents up to a maximum of 45 €. Despite the modest maximum bet, the game still has high volatility, meaning that you can take a shot at the jackpot of up to 150,000 € without investing large amounts. However, don't expect to win frequently - high volatility slots excel in delivering big wins, albeit less frequently.\n\nJackpot and Volatility\n\nArctic Magic has a high volatility, meaning that you can take a shot at the jackpot of up to 150,000 € without investing large amounts. However, don't expect to win frequently - high volatility slots excel in delivering big wins, albeit less frequently.\n\nReturn to Player (RTP)\n\nThe return to player (RTP) of Arctic Magic is just above average: at 96.10%, it's a good slot to invest your money in.\n\nSymbols and Features\n\nThe symbols in Arctic Magic signify the animals that populate the Arctic circle: a snowshoe hare, wolf, fox, deer, and an imposing polar bear. Alongside these are numbers and letters referencing playing cards from 9 to Ace with a thematically consistent graphic design. The Wild symbol is represented by a snow-capped mountain and acts as a substitute for all symbols except the Scatter to complete winning combinations. When appearing on all five reels, the Wild offers significant wins. Arctic Magic's Scatter is a snowflake that enables access to the lucrative Free Spins feature - land three or more snowflakes on the reels to unlock a variable number of free spins, and all winnings during the feature are automatically tripled.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Arctic Magic\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisuals and Theme\n\nArctic Magic's graphics are top-notch - it's a winter-themed slot with an Arctic snowscape background during a purple-toned aurora borealis. The symbols are a mix of realism and magic, using cold colors to enhance their fairy tale-like quality.\n\nGameplay and Betting\n\nArctic Magic has a traditional five-reel, three-row gameplay structure and only nine paylines. You can bet per spin starting from 9 cents up to a maximum of 45 €. Despite the modest maximum bet, the game still has high volatility, meaning that you can take a shot at the jackpot of up to 150,000 € without investing large amounts. However, don't expect to win frequently - high volatility slots excel in delivering big wins, albeit less frequently.\n\nJackpot and Volatility\n\nArctic Magic has a high volatility, meaning that you can take a shot at the jackpot of up to 150,000 € without investing large amounts. However, don't expect to win frequently - high volatility slots excel in delivering big wins, albeit less frequently.\n\nReturn to Player (RTP)\n\nThe return to player (RTP) of Arctic Magic is just above average: at 96.10%, it's a good slot to invest your money in.\n\nSymbols and Features\n\nThe symbols in Arctic Magic signify the animals that populate the Arctic circle: a snowshoe hare, wolf, fox, deer, and an imposing polar bear. Alongside these are numbers and letters referencing playing cards from 9 to Ace with a thematically consistent graphic design. The Wild symbol is represented by a snow-capped mountain and acts as a substitute for all symbols except the Scatter to complete winning combinations. When appearing on all five reels, the Wild offers significant wins. Arctic Magic's Scatter is a snowflake that enables access to the lucrative Free Spins feature - land three or more snowflakes on the reels to unlock a variable number of free spins, and all winnings during the feature are automatically tripled.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SYIJHDEswtZn0QdRufhTOzp77w5Y",
+                "id": "chatcmpl-7WNOz1BFGHonCYtTOxrHXgqwTqhaF",
                 "object": "chat.completion",
-                "created": 1687039367,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 585,
-                    "completion_tokens": 154,
-                    "total_tokens": 739
-                },
+                "created": 1687950809,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and winter-themed visuals with a magical touch\",\n        \"High volatility and a maximum jackpot of up to €150,000\",\n        \"Wild and Scatter symbols add excitement to the gameplay\",\n        \"Free Spins feature with tripled winnings\"\n    ],\n    \"cons\": [\n        \"Low number of paylines compared to other slots\",\n        \"Less frequent wins due to the high volatility\"\n    ],\n    \"meta_title\": \"Play Arctic Magic for Free - Review and Game Information\",\n    \"meta_description\": \"Read our review of Arctic Magic, a high volatility slot with stunning graphics and a winter theme. Play for free and take a shot at the jackpot of up to €150,000.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Top-notch graphics with a winter-themed and magical atmosphere\",\n    \"High volatility for a chance at a jackpot of up to 150,000 €\",\n    \"Affordable betting range starting from 9 cents per spin\",\n    \"Lucrative Free Spins feature with tripled winnings\"\n  ],\n  \"cons\": [\n    \"Wins may be less frequent due to the high volatility\",\n    \"Limited number of paylines with only nine available\"\n  ],\n  \"meta_title\": \"Play Arctic Magic Free: Winter-themed Slot with High Volatility\",\n  \"meta_description\": \"Discover the magic of Arctic Magic slot. Play for free and win big with high volatility.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 582,
+                    "completion_tokens": 145,
+                    "total_tokens": 727
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/arctic-magic.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_1.png",
         "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_3.png",
-        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_2.png",
-        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_4.png"
+        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_1.png",
+        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_4.png",
+        "arved__Create_a_feature_image_for_Arctic_Magic_Can_you_create_a_c3119a40-1d05-4247-990f-581143f0b6f8_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Arctic Magic (Version 4).webp",
         "game_reviews/processed_images/Arctic Magic (Version 2).webp",
         "game_reviews/processed_images/Arctic Magic (Version 1).webp",
+        "game_reviews/processed_images/Arctic Magic (Version 4).webp",
         "game_reviews/processed_images/Arctic Magic (Version 3).webp"
-    ]
+    ],
+    "slug": "arctic-magic",
+    "name": "Arctic Magic",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Arctic-Magic-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Arctic Magic Free: Winter-themed Slot with High Volatility' ### Meta set: 'Discover the magic of Arctic Magic slot. Play for free and win big with high volatility.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning Japanese-inspired design",
-                    "Unique Western letter symbols inspired by Japanese ideograms",
-                    "Free spins with expanding symbols feature",
+                    "Beautiful Japanese-inspired design",
+                    "Unique Western letter symbols",
+                    "Expanding symbols during free spins",
                     "Pleasant Eastern-inspired music"
                 ],
                 "cons": [
-                    "Audio design is only sufficient",
-                    "Only 9 winning lines"
+                    "Facing strong competition from other Eastern-inspired slot games",
+                    "Music is more Chinese than Japanese"
                 ],
-                "meta_title": "Play Geisha's Fan Free Slot | Stunning Japanese-Inspired Design",
-                "meta_description": "Read our review of Geisha's Fan, a stunning Japanese-inspired slot game with unique Western letter symbols and free spins with expanding symbols. Play for free now."
+                "meta_title": "Play Geisha's Fan for Free: Stunning Japanese-inspired Slot",
+                "meta_description": "Read our review of Geisha's Fan, a stunning Japanese-inspired slot game to play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Geisha’s Fan\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and symbols\n\nGeisha's Fan is a 5x3 slot game with 9 winning lines. The symbols are inspired by Eastern culture and include objects such as traditional bamboo and paper umbrellas, Chinese gold ingots, and lotus flowers. The high-value symbol is the beautiful face of the geisha, while her white fan serves as both the WILD and SCATTER symbol. The slot also features unique Western letter symbols that resemble Japanese ideograms.\n\nTheme and design\n\nGeisha's Fan has a beautiful Japanese-inspired design that features cherry blossoms, a wooden bridge crossing a river, and an ancient Japanese castle in the distance. The game grid is full of Eastern symbols, all in perfect harmony with the setting. The unique Western letter symbols are inspired by Japanese ideograms and are also pleasing to the eye. Overall, Geisha's Fan is a stunningly designed slot.\n\nFree spins and expanding symbols\n\nGeisha's Fan features a special symbol represented by the white fan that serves as both the WILD and SCATTER symbol and can cover the function of a wild card to obtain more winning combinations and access the free spins. During the free spins, a symbol is randomly chosen to have the characteristic of expanding on the entire reel where it appears. This function can lead to significant winnings, particularly if the symbol randomly chosen to expand is one of the higher-value symbols.\n\nComparison with similar slots\n\nGeisha's Fan is one of many slot games inspired by Eastern culture, including Dragon Dance, Emperor of the Sea, Aristocrat's Geisha, and Eastern Emeralds. However, despite facing strong competition, Geisha's Fan stands out due to its unique Western letter symbols inspired by Japanese ideograms and its beautiful design.\n\nMusic and audio\n\nGeisha's Fan features Eastern-inspired music that is pleasant to listen to. While the music is more Chinese than Japanese, it still fits well with the theme of the slot. Additionally, there are sound effects that accompany wins and the spinning of the reels. Overall, the audio design of Geisha's Fan is sufficient and adds to the overall enjoyment of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Geisha’s Fan\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and symbols\n\nGeisha's Fan is a 5x3 slot game with 9 winning lines. The symbols are inspired by Eastern culture and include objects such as traditional bamboo and paper umbrellas, Chinese gold ingots, and lotus flowers. The high-value symbol is the beautiful face of the geisha, while her white fan serves as both the WILD and SCATTER symbol. The slot also features unique Western letter symbols that resemble Japanese ideograms.\n\nTheme and design\n\nGeisha's Fan has a beautiful Japanese-inspired design that features cherry blossoms, a wooden bridge crossing a river, and an ancient Japanese castle in the distance. The game grid is full of Eastern symbols, all in perfect harmony with the setting. The unique Western letter symbols are inspired by Japanese ideograms and are also pleasing to the eye. Overall, Geisha's Fan is a stunningly designed slot.\n\nFree spins and expanding symbols\n\nGeisha's Fan features a special symbol represented by the white fan that serves as both the WILD and SCATTER symbol and can cover the function of a wild card to obtain more winning combinations and access the free spins. During the free spins, a symbol is randomly chosen to have the characteristic of expanding on the entire reel where it appears. This function can lead to significant winnings, particularly if the symbol randomly chosen to expand is one of the higher-value symbols.\n\nComparison with similar slots\n\nGeisha's Fan is one of many slot games inspired by Eastern culture, including Dragon Dance, Emperor of the Sea, Aristocrat's Geisha, and Eastern Emeralds. However, despite facing strong competition, Geisha's Fan stands out due to its unique Western letter symbols inspired by Japanese ideograms and its beautiful design.\n\nMusic and audio\n\nGeisha's Fan features Eastern-inspired music that is pleasant to listen to. While the music is more Chinese than Japanese, it still fits well with the theme of the slot. Additionally, there are sound effects that accompany wins and the spinning of the reels. Overall, the audio design of Geisha's Fan is sufficient and adds to the overall enjoyment of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TNPSdC5pzU7soeUbsWubF0SErk6n",
+                "id": "chatcmpl-7WTelUdby0c4guVEXlqeBRdMqK7ML",
                 "object": "chat.completion",
-                "created": 1687235854,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 605,
-                    "completion_tokens": 131,
-                    "total_tokens": 736
-                },
+                "created": 1687974851,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning Japanese-inspired design\",\n        \"Unique Western letter symbols inspired by Japanese ideograms\",\n        \"Free spins with expanding symbols feature\",\n        \"Pleasant Eastern-inspired music\"\n    ],\n    \"cons\": [\n        \"Audio design is only sufficient\",\n        \"Only 9 winning lines\"\n    ],\n    \"meta_title\": \"Play Geisha's Fan Free Slot | Stunning Japanese-Inspired Design\",\n    \"meta_description\": \"Read our review of Geisha's Fan, a stunning Japanese-inspired slot game with unique Western letter symbols and free spins with expanding symbols. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful Japanese-inspired design\",\n    \"Unique Western letter symbols\",\n    \"Expanding symbols during free spins\",\n    \"Pleasant Eastern-inspired music\"\n  ],\n  \"cons\": [\n    \"Facing strong competition from other Eastern-inspired slot games\",\n    \"Music is more Chinese than Japanese\"\n  ],\n  \"meta_title\": \"Play Geisha's Fan for Free: Stunning Japanese-inspired Slot\",\n  \"meta_description\": \"Read our review of Geisha's Fan, a stunning Japanese-inspired slot game to play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 602,
+                    "completion_tokens": 115,
+                    "total_tokens": 717
+                }
             }
         },
         {
@@ -811,5 +811,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/geishas-fan.json"
+    "filename": "game_reviews/translations/geishas-fan.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__e7428c5c-1bff-4b1b-8782-ad171c9aa2ca_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__d371b867-4eb7-459a-b89a-0cc2306efae5_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__d371b867-4eb7-459a-b89a-0cc2306efae5_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__e7428c5c-1bff-4b1b-8782-ad171c9aa2ca_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__e7428c5c-1bff-4b1b-8782-ad171c9aa2ca_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__d371b867-4eb7-459a-b89a-0cc2306efae5_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__e7428c5c-1bff-4b1b-8782-ad171c9aa2ca_3.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Geishas_Fan__d371b867-4eb7-459a-b89a-0cc2306efae5_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Geishas Fan (Version 6).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 7).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 4).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 5).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 1).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 3).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 2).webp",
+        "game_reviews/processed_images/Geishas Fan (Version 8).webp"
+    ],
+    "slug": "geishas-fan",
+    "name": "Geisha’s Fan",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Geishas-Fan-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Geisha's Fan for Free: Stunning Japanese-inspired Slot' ### Meta set: 'Read our review of Geisha's Fan, a stunning Japanese-inspired slot game to play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

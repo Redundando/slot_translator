@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Exciting gameplay with bonus features",
-                    "User-friendly layout and engaging graphics",
-                    "Possible maximum payout of 619,000 coins",
-                    "Well-placed sound effects"
+                    "User-friendly and engaging layout",
+                    "Well-designed graphics and sound effects",
+                    "Attractive jackpot and bonus games"
                 ],
                 "cons": [
-                    "Linear gameplay may not be for everyone",
-                    "RTP of 95.6% is average compared to other slots"
+                    "Limited betting options with a maximum bet of €1,000",
+                    "RTP of 95.6% is relatively average"
                 ],
-                "meta_title": "Play Gold Factory Slot Game for Free",
-                "meta_description": "Explore the imaginary factory of the Gold Factory slot game and win big by playing for free. Enjoy exciting bonus features and a user-friendly layout."
+                "meta_title": "Play Gold Factory Slot For Free",
+                "meta_description": "Read our review of Gold Factory slot game and try it out for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gold Factory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGold Factory slot game\n\nGold Factory is a classic 5-reel slot machine with 50 paylines, set in an imaginary factory where gold is produced, created by Microgaming. Players can place bets ranging from a minimum of 1 up to a maximum of 20 coins, with a value in euros ranging from €0.1 to €0.5. The maximum bet can reach €1,000. The return to player (RTP) is 95.6%.\n\nGameplay and layout\n\nThe gameplay of Gold Factory is quite linear but exciting, with bonus features and the chance to win a jackpot of 619,000 coins. The layout is user-friendly, easy to navigate, and particularly engaging thanks to the graphics and background music.\n\nSymbols and bonus features\n\nGold Factory has symbols themed around a gold factory, including the Boss, an alchemist, a cart full of gold bars, coins, a train, a submarine, and a hot air balloon. The Wild symbol is the slot logo, which acts as a joker and replaces other symbols except for the Scatter. The Scatter is the Bonus symbol and activates the Boiler Room Bonus Game, where the player can win prizes or trigger additional special functionality called Chambers Room.\n\nGraphics and sound effects\n\nThe graphics and sound effects of Gold Factory are very well done, making the players' experience highly enjoyable and engaging. The slot machine is set in a glittering and rich backdrop, creating a perfect ambiance for players in search of something dynamic.\n\nJackpot and incentives\n\nThe jackpot of Gold Factory is an attractive incentive, with a possible maximum payout of 619,000 coins. The bonus games make the slot machine exciting, and the possibility of winning big adds to the overall allure of the game. It is a cute game, easy to use for the players who want to avoid complicated gameplay.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gold Factory\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGold Factory slot game\n\nGold Factory is a classic 5-reel slot machine with 50 paylines, set in an imaginary factory where gold is produced, created by Microgaming. Players can place bets ranging from a minimum of 1 up to a maximum of 20 coins, with a value in euros ranging from €0.1 to €0.5. The maximum bet can reach €1,000. The return to player (RTP) is 95.6%.\n\nGameplay and layout\n\nThe gameplay of Gold Factory is quite linear but exciting, with bonus features and the chance to win a jackpot of 619,000 coins. The layout is user-friendly, easy to navigate, and particularly engaging thanks to the graphics and background music.\n\nSymbols and bonus features\n\nGold Factory has symbols themed around a gold factory, including the Boss, an alchemist, a cart full of gold bars, coins, a train, a submarine, and a hot air balloon. The Wild symbol is the slot logo, which acts as a joker and replaces other symbols except for the Scatter. The Scatter is the Bonus symbol and activates the Boiler Room Bonus Game, where the player can win prizes or trigger additional special functionality called Chambers Room.\n\nGraphics and sound effects\n\nThe graphics and sound effects of Gold Factory are very well done, making the players' experience highly enjoyable and engaging. The slot machine is set in a glittering and rich backdrop, creating a perfect ambiance for players in search of something dynamic.\n\nJackpot and incentives\n\nThe jackpot of Gold Factory is an attractive incentive, with a possible maximum payout of 619,000 coins. The bonus games make the slot machine exciting, and the possibility of winning big adds to the overall allure of the game. It is a cute game, easy to use for the players who want to avoid complicated gameplay.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TRys7uVTT0awfh7zKxIs2SVMPzgY",
+                "id": "chatcmpl-7WTyIng7wfQMkQCYlYMwfuMgsRB0V",
                 "object": "chat.completion",
-                "created": 1687253426,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 550,
-                    "completion_tokens": 131,
-                    "total_tokens": 681
-                },
+                "created": 1687976062,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting gameplay with bonus features\",\n        \"User-friendly layout and engaging graphics\",\n        \"Possible maximum payout of 619,000 coins\",\n        \"Well-placed sound effects\"\n    ],\n    \"cons\": [\n        \"Linear gameplay may not be for everyone\",\n        \"RTP of 95.6% is average compared to other slots\"\n    ],\n    \"meta_title\": \"Play Gold Factory Slot Game for Free\",\n    \"meta_description\": \"Explore the imaginary factory of the Gold Factory slot game and win big by playing for free. Enjoy exciting bonus features and a user-friendly layout.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with bonus features\",\n    \"User-friendly and engaging layout\",\n    \"Well-designed graphics and sound effects\",\n    \"Attractive jackpot and bonus games\"\n  ],\n  \"cons\": [\n    \"Limited betting options with a maximum bet of €1,000\",\n    \"RTP of 95.6% is relatively average\"\n  ],\n  \"meta_title\": \"Play Gold Factory Slot For Free\",\n  \"meta_description\": \"Read our review of Gold Factory slot game and try it out for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 547,
+                    "completion_tokens": 115,
+                    "total_tokens": 662
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gold-factory.json"
+    "filename": "game_reviews/translations/gold-factory.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Gold_Factory_in_cartoon_style_d2478662-7503-49ca-84ca-3441831aeeeb_3.png",
+        "arved__Create_a_feature_image_for_Gold_Factory_in_cartoon_style_d2478662-7503-49ca-84ca-3441831aeeeb_2.png",
+        "arved__Create_a_feature_image_for_Gold_Factory_in_cartoon_style_d2478662-7503-49ca-84ca-3441831aeeeb_1.png",
+        "arved__Create_a_feature_image_for_Gold_Factory_in_cartoon_style_d2478662-7503-49ca-84ca-3441831aeeeb_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gold Factory (Version 2).webp",
+        "game_reviews/processed_images/Gold Factory (Version 1).webp",
+        "game_reviews/processed_images/Gold Factory (Version 3).webp",
+        "game_reviews/processed_images/Gold Factory (Version 4).webp"
+    ],
+    "slug": "gold-factory",
+    "name": "Gold Factory",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gold-Factory-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gold Factory Slot For Free' ### Meta set: 'Read our review of Gold Factory slot game and try it out for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

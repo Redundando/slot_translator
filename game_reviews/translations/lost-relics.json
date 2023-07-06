@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique gameplay with 5x5 grid and cluster payout system",
-                    "Great attention to detail in graphics, symbols and protagonist design",
-                    "Historically accurate symbols that add to the overall experience",
-                    "Fresh take on historical-themed slots"
+                    "Unique cluster payout system",
+                    "Excellent visuals and design",
+                    "Attention to detail in symbol design",
+                    "Engaging gameplay mechanics and special features"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "May not appeal to those who prefer traditional slots"
+                    "Not available on all online casino platforms",
+                    "May take some time to understand cluster payout system"
                 ],
-                "meta_title": "Play Lost Relics for Free - Unique Cluster Payout System",
-                "meta_description": "Explore ancient cultures with NetEnt's Lost Relics. Play for free and discover its unique cluster payout system and exciting special features."
+                "meta_title": "Play Lost Relics Free - A Unique and Engaging Slot Game",
+                "meta_description": "Play Lost Relics for free and explore ancient history with unique cluster payout system."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lost Relics\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and special features\n\nLost Relics offers a unique gaming experience with its 5x5 game grid and cluster payout system. Matches occur when at least six identical symbols appear horizontally or vertically touching each other, with a maximum cluster size of 25 symbols. The game is full of special features and symbols that can make the gameplay more varied, adding to the excitement of the game.\n\nGraphics and visuals\n\nLost Relics offers an excellent visual experience thanks to its great attention to detail, with illustrations chosen for the symbols that refer to different populations and historical periods. The game has a well-designed explorer protagonist that surrounds the game grid, adding to the excitement and wonder of the game. The overall aesthetic is intricate and wonderful, keeping players engaged in a fun gaming experience.\n\nSymbol design and historical accuracy\n\nThe various symbols in Lost Relics represent objects belonging to different historical periods, adding to the sense of mystery and intrigue. The designers showed great care and attention to detail in the illustrations of these symbols, making them aesthetically pleasing and historically accurate at the same time. The overall design immerses players in a world of ancient history and cultures, adding to the enjoyment of the game.\n\nComparison to other historical-themed slots\n\nWhile many developers have produced slot games based on ancient civilizations, Lost Relics stands out for its unique cluster payout system and its attention to detail in the symbols representing different historical periods. This game offers a fresh take on the historical theme present in many slot games. Other popular historical-themed slot games include Gonzo's Quest, another title by NetEnt, and titles by other development houses such as Ancient Egypt and Rome series by Microgaming and Age of Egypt by Playtech.\n\nOverall gaming experience\n\nNetEnt's Lost Relics offers a unique and engaging gaming experience that immerses players in a world of ancient history and cultures, with excellent visuals and design. The game's cluster payout system and special features add excitement and create variability in gameplay. Lost Relics is a must-try for anyone looking for a slot game that offers something different from the traditional 5x3 grid with paylines. Overall, Lost Relics is highly recommended for anyone who loves an adventure-filled gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lost Relics\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and special features\n\nLost Relics offers a unique gaming experience with its 5x5 game grid and cluster payout system. Matches occur when at least six identical symbols appear horizontally or vertically touching each other, with a maximum cluster size of 25 symbols. The game is full of special features and symbols that can make the gameplay more varied, adding to the excitement of the game.\n\nGraphics and visuals\n\nLost Relics offers an excellent visual experience thanks to its great attention to detail, with illustrations chosen for the symbols that refer to different populations and historical periods. The game has a well-designed explorer protagonist that surrounds the game grid, adding to the excitement and wonder of the game. The overall aesthetic is intricate and wonderful, keeping players engaged in a fun gaming experience.\n\nSymbol design and historical accuracy\n\nThe various symbols in Lost Relics represent objects belonging to different historical periods, adding to the sense of mystery and intrigue. The designers showed great care and attention to detail in the illustrations of these symbols, making them aesthetically pleasing and historically accurate at the same time. The overall design immerses players in a world of ancient history and cultures, adding to the enjoyment of the game.\n\nComparison to other historical-themed slots\n\nWhile many developers have produced slot games based on ancient civilizations, Lost Relics stands out for its unique cluster payout system and its attention to detail in the symbols representing different historical periods. This game offers a fresh take on the historical theme present in many slot games. Other popular historical-themed slot games include Gonzo's Quest, another title by NetEnt, and titles by other development houses such as Ancient Egypt and Rome series by Microgaming and Age of Egypt by Playtech.\n\nOverall gaming experience\n\nNetEnt's Lost Relics offers a unique and engaging gaming experience that immerses players in a world of ancient history and cultures, with excellent visuals and design. The game's cluster payout system and special features add excitement and create variability in gameplay. Lost Relics is a must-try for anyone looking for a slot game that offers something different from the traditional 5x3 grid with paylines. Overall, Lost Relics is highly recommended for anyone who loves an adventure-filled gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U22eVLovJ59AHrv2PjBSvtqbv7TU",
+                "id": "chatcmpl-7WWY0fPmhpuIqGkSHhfiHn04DyvTT",
                 "object": "chat.completion",
-                "created": 1687392044,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985964,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gameplay with 5x5 grid and cluster payout system\",\n        \"Great attention to detail in graphics, symbols and protagonist design\",\n        \"Historically accurate symbols that add to the overall experience\",\n        \"Fresh take on historical-themed slots\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"May not appeal to those who prefer traditional slots\"\n    ],\n    \"meta_title\": \"Play Lost Relics for Free - Unique Cluster Payout System\",\n    \"meta_description\": \"Explore ancient cultures with NetEnt's Lost Relics. Play for free and discover its unique cluster payout system and exciting special features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique cluster payout system\",\n    \"Excellent visuals and design\",\n    \"Attention to detail in symbol design\",\n    \"Engaging gameplay mechanics and special features\"\n  ],\n  \"cons\": [\n    \"Not available on all online casino platforms\",\n    \"May take some time to understand cluster payout system\"\n  ],\n  \"meta_title\": \"Play Lost Relics Free - A Unique and Engaging Slot Game\",\n  \"meta_description\": \"Play Lost Relics for free and explore ancient history with unique cluster payout system.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 623,
-                    "completion_tokens": 138,
-                    "total_tokens": 761
+                    "prompt_tokens": 620,
+                    "completion_tokens": 114,
+                    "total_tokens": 734
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lost-relics.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_for_Lost_Relics_tha_304474f3-648e-40b6-be84-cb035242b6eb_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lost_Relics_tha_304474f3-648e-40b6-be84-cb035242b6eb_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lost_Relics_tha_304474f3-648e-40b6-be84-cb035242b6eb_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_Lost_Relics_tha_304474f3-648e-40b6-be84-cb035242b6eb_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lost Relics (Version 3).webp",
+        "game_reviews/processed_images/Lost Relics (Version 2).webp",
+        "game_reviews/processed_images/Lost Relics (Version 4).webp",
+        "game_reviews/processed_images/Lost Relics (Version 1).webp"
+    ],
+    "slug": "lost-relics",
+    "name": "Lost Relics",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lost-Relics-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lost Relics Free - A Unique and Engaging Slot Game' ### Meta set: 'Play Lost Relics for free and explore ancient history with unique cluster payout system.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

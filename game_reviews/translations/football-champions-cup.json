@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Classic gameplay with a football theme",
-                    "Variety of betting options",
-                    "Simulation of the tournament's knockout phase during Free Spins",
-                    "Spectacular graphics and music"
+                    "Simulation of tournament knockout phase during Free Spins",
+                    "Thrilling Penalty Kicks game in the Bonus feature",
+                    "Spectacular graphics and suitable stadium choir music"
                 ],
                 "cons": [
-                    "Only 20 paylines",
-                    "Bonus feature may not be enticing for all players"
+                    "Limited betting options",
+                    "Average volatility"
                 ],
-                "meta_title": "Play Football: Champions Cup for Free - Exciting Football-Themed Slot Game",
-                "meta_description": "Review of Football: Champions Cup - a classic 5-reel, 3-line grid with 20 paylines, offering a variety of betting options and a football-themed bonus feature. Play for free now."
+                "meta_title": "Play Football: Champions Cup for Free",
+                "meta_description": "Read our review of Football: Champions Cup and play this exciting football-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Football: Champions Cup\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nFootball: Champions Cup offers players a classic 5-reel, 3-line grid with 20 paylines. Players can bet as low as €0.01 and as high as €100, adjustable through the 8 levels of the bet. The game also allows for between 10 and 1,000 automatic spins and features a respectable RTP of 96.82% and average volatility.\n\nSymbols and bonus features\n\nSymbols in the game include playing cards 10 through ace, as well as a whistle logo, glove, shoe, jersey, and an emblem with a player in action. The Wild symbol, represented by a soccer ball, offers substantial payouts and replaces all symbols except for the Scatter and Bonus. There are also Overly Wilds, which turn some regular symbols into Wilds. The cup symbol is the Scatter, with 3 activating Free Spins set up like a real tournament starting from the round of 16. And with 3 Bonus symbols, players enter the Penalty Kicks game consisting of two moments: taking a penalty kick and saving it.\n\nBetting options and RTP\n\nFootball: Champions Cup offers a variety of betting options, allowing players to bet from as low as €0.01 to as high as €100, with up to 8 levels of the bet. The game also awards a respectable RTP of 96.82% and has average volatility.\n\nGraphics and sound\n\nFootball: Champions Cup features spectacular graphics, immersing players in the heart of the game with a stadium full of spectators. The music is also naturally suitable for stadium choirs, adding to the overall excitement and atmosphere of the game.\n\nOverall impression\n\nFootball: Champions Cup is an exciting and enjoyable online slot game that offers classic gameplay with a football theme. The simulation of the tournament's knockout phase during Free Spins and the thrill of penalties in the Bonus feature add an extra layer of excitement to the game. The graphics and music also create an immersive and enjoyable experience for players. Overall, Football: Champions Cup is a great choice for football fans and slot game enthusiasts alike.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Football: Champions Cup\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and features\n\nFootball: Champions Cup offers players a classic 5-reel, 3-line grid with 20 paylines. Players can bet as low as €0.01 and as high as €100, adjustable through the 8 levels of the bet. The game also allows for between 10 and 1,000 automatic spins and features a respectable RTP of 96.82% and average volatility.\n\nSymbols and bonus features\n\nSymbols in the game include playing cards 10 through ace, as well as a whistle logo, glove, shoe, jersey, and an emblem with a player in action. The Wild symbol, represented by a soccer ball, offers substantial payouts and replaces all symbols except for the Scatter and Bonus. There are also Overly Wilds, which turn some regular symbols into Wilds. The cup symbol is the Scatter, with 3 activating Free Spins set up like a real tournament starting from the round of 16. And with 3 Bonus symbols, players enter the Penalty Kicks game consisting of two moments: taking a penalty kick and saving it.\n\nBetting options and RTP\n\nFootball: Champions Cup offers a variety of betting options, allowing players to bet from as low as €0.01 to as high as €100, with up to 8 levels of the bet. The game also awards a respectable RTP of 96.82% and has average volatility.\n\nGraphics and sound\n\nFootball: Champions Cup features spectacular graphics, immersing players in the heart of the game with a stadium full of spectators. The music is also naturally suitable for stadium choirs, adding to the overall excitement and atmosphere of the game.\n\nOverall impression\n\nFootball: Champions Cup is an exciting and enjoyable online slot game that offers classic gameplay with a football theme. The simulation of the tournament's knockout phase during Free Spins and the thrill of penalties in the Bonus feature add an extra layer of excitement to the game. The graphics and music also create an immersive and enjoyable experience for players. Overall, Football: Champions Cup is a great choice for football fans and slot game enthusiasts alike.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7THIxMcQUSf2V5uQcsOh3Km7ZQCV7",
+                "id": "chatcmpl-7WSxclRSWxIfS2DLThpCvSYWLYZnl",
                 "object": "chat.completion",
-                "created": 1687212387,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 603,
-                    "completion_tokens": 152,
-                    "total_tokens": 755
-                },
+                "created": 1687972176,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic gameplay with a football theme\", \n        \"Variety of betting options\", \n        \"Simulation of the tournament's knockout phase during Free Spins\", \n        \"Spectacular graphics and music\"\n    ],\n    \"cons\": [\n        \"Only 20 paylines\", \n        \"Bonus feature may not be enticing for all players\"\n    ],\n    \"meta_title\": \"Play Football: Champions Cup for Free - Exciting Football-Themed Slot Game\",\n    \"meta_description\": \"Review of Football: Champions Cup - a classic 5-reel, 3-line grid with 20 paylines, offering a variety of betting options and a football-themed bonus feature. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic gameplay with a football theme\",\n    \"Simulation of tournament knockout phase during Free Spins\",\n    \"Thrilling Penalty Kicks game in the Bonus feature\",\n    \"Spectacular graphics and suitable stadium choir music\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"Average volatility\"\n  ],\n  \"meta_title\": \"Play Football: Champions Cup for Free\",\n  \"meta_description\": \"Read our review of Football: Champions Cup and play this exciting football-themed slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 600,
+                    "completion_tokens": 113,
+                    "total_tokens": 713
+                }
             }
         },
         {
@@ -812,5 +812,30 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/football-champions-cup.json"
+    "filename": "game_reviews/translations/football-champions-cup.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_75f7db9c-43cf-4b74-96ba-44249fd19790_3.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_75f7db9c-43cf-4b74-96ba-44249fd19790_1.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_75f7db9c-43cf-4b74-96ba-44249fd19790_2.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_62f5c863-2c59-4269-bc01-c5df78c41e6d_4.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_62f5c863-2c59-4269-bc01-c5df78c41e6d_3.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_75f7db9c-43cf-4b74-96ba-44249fd19790_4.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_62f5c863-2c59-4269-bc01-c5df78c41e6d_1.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_exciting_cartoon-style_62f5c863-2c59-4269-bc01-c5df78c41e6d_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Football Champions Cup (Version 6).webp",
+        "game_reviews/processed_images/Football Champions Cup (Version 5).webp",
+        "game_reviews/processed_images/Football Champions Cup (Version 8).webp",
+        "game_reviews/processed_images/Football Champions Cup (Version 7).webp"
+    ],
+    "slug": "football-champions-cup",
+    "name": "Football: Champions Cup",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Football-Champions-Cup-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Football: Champions Cup for Free' ### Meta set: 'Read our review of Football: Champions Cup and play this exciting football-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

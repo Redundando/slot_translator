@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_2.png",
-        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_1.png",
         "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_4.png",
-        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_3.png"
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_3.png",
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_2.png",
+        "arved__Prompt_Design_a_feature_image_for_Crystal_Crush_that_por_8b5a5721-b58d-4b93-a9a4-17693107a98f_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Crystal Crush (Version 3).webp",
         "game_reviews/processed_images/Crystal Crush (Version 2).webp",
-        "game_reviews/processed_images/Crystal Crush (Version 1).webp",
         "game_reviews/processed_images/Crystal Crush (Version 4).webp",
-        "game_reviews/processed_images/Crystal Crush (Version 3).webp"
+        "game_reviews/processed_images/Crystal Crush (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/crystal-crush.json"
+    "filename": "game_reviews/translations/crystal-crush.json",
+    "slug": "crystal-crush",
+    "name": "Crystal Crush",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Crystal-Crush-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Crystal Crush for Free - Online Slot Game Review' ### Meta set: 'Play Crystal Crush for free and read our review. Crystal Crush features original gameplay and a hexagon-shaped grid that makes it stand out.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

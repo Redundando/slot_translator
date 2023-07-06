@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free spins bonus with multipliers up to 8x",
-                    "Gambling game feature for a chance to double winnings",
-                    "Sharp visuals and instrumental music that fit well with the Oriental theme",
-                    "Great variety of dragon symbols"
+                    "Free spins bonus feature",
+                    "Multipliers up to 8x",
+                    "Unique reel set design",
+                    "High-quality visuals and sound"
                 ],
                 "cons": [
-                    "Standard payline structure may not suit everyone",
-                    "Paytable values for lower symbols may be less appealing"
+                    "Limited number of paylines",
+                    "Lower payouts for some symbols"
                 ],
-                "meta_title": "Play Dragons Lucky 8 Free: Review of Oriental-Themed Slot",
-                "meta_description": "Find out everything about Dragons Lucky 8 in this review. Play for free and enjoy the Oriental adventure on the reels with dragons and exciting bonuses."
+                "meta_title": "Play Dragons Lucky 8 Free | Exciting Slot Game",
+                "meta_description": "Read our review of Dragons Lucky 8 and play for free. Enjoy free spins and multipliers."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragons Lucky 8\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame mechanics and features\n\nDragons Lucky 8 is a six-reel, 20-payline slot game that features a free spins bonus, multipliers up to 8x, and a gambling game feature, played on a set of reels that deviates from the standard 3x5. Wins are paid from left to right when three or more matching symbols fall on a payline, and there may be more than one winning outcome per spin.\n\nSymbols and paylines\n\nThe dragon is the wild symbol that pays 2500x on the maximum bet of £100.00, and the scatter pays 1000x on the same maximum bet. The most valuable symbols are the two creatures that have been widely celebrated since ancient China. The rest of the symbols in terms of value are the pineapple, paying 1250x, and the orange, paying 800x. The grape, bread, peaches, and apples pay lower amounts that can sustain you in the game. There are also three scatters that pay on the winning bet and trigger a bonus.\n\nBonuses and multipliers\n\nThe slot features multipliers ranging from x1 to x8 that can appear randomly on the reels, as well as a scatter, which is the tiger. Landing three, four, five, or six tigers anywhere on the reels will respectively bring free spins to 15, 20, 25, and 30 spins. The game also includes a gambling game feature, where players have the option of risking their winnings in order to potentially double them.\n\nVisuals and sound\n\nThe Dragons Lucky 8 slot has amazing visuals for those who appreciate Oriental-themed adventure on the reels. The symbols are sharp, the background and reel set seem to create a place where you can settle, and the slot game also features instrumental melody including a flute and a Zen lute that fits well with the theme.\n\nSimilar games with dragon themes\n\nFor those who love dragon-themed slots, Triple Dragons is a great slot game with an incredible RTP percentage of 96.51%. There are also numerous other dragon-related slots available from different slot providers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragons Lucky 8\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame mechanics and features\n\nDragons Lucky 8 is a six-reel, 20-payline slot game that features a free spins bonus, multipliers up to 8x, and a gambling game feature, played on a set of reels that deviates from the standard 3x5. Wins are paid from left to right when three or more matching symbols fall on a payline, and there may be more than one winning outcome per spin.\n\nSymbols and paylines\n\nThe dragon is the wild symbol that pays 2500x on the maximum bet of £100.00, and the scatter pays 1000x on the same maximum bet. The most valuable symbols are the two creatures that have been widely celebrated since ancient China. The rest of the symbols in terms of value are the pineapple, paying 1250x, and the orange, paying 800x. The grape, bread, peaches, and apples pay lower amounts that can sustain you in the game. There are also three scatters that pay on the winning bet and trigger a bonus.\n\nBonuses and multipliers\n\nThe slot features multipliers ranging from x1 to x8 that can appear randomly on the reels, as well as a scatter, which is the tiger. Landing three, four, five, or six tigers anywhere on the reels will respectively bring free spins to 15, 20, 25, and 30 spins. The game also includes a gambling game feature, where players have the option of risking their winnings in order to potentially double them.\n\nVisuals and sound\n\nThe Dragons Lucky 8 slot has amazing visuals for those who appreciate Oriental-themed adventure on the reels. The symbols are sharp, the background and reel set seem to create a place where you can settle, and the slot game also features instrumental melody including a flute and a Zen lute that fits well with the theme.\n\nSimilar games with dragon themes\n\nFor those who love dragon-themed slots, Triple Dragons is a great slot game with an incredible RTP percentage of 96.51%. There are also numerous other dragon-related slots available from different slot providers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T8y6LFOrntrlaXc3hb654Uuypyq7",
+                "id": "chatcmpl-7WRosXh4Gh6BEoJxahHwwmwmf1jAc",
                 "object": "chat.completion",
-                "created": 1687180342,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 607,
-                    "completion_tokens": 147,
-                    "total_tokens": 754
-                },
+                "created": 1687967790,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free spins bonus with multipliers up to 8x\",\n        \"Gambling game feature for a chance to double winnings\",\n        \"Sharp visuals and instrumental music that fit well with the Oriental theme\",\n        \"Great variety of dragon symbols\"\n    ],\n    \"cons\": [\n        \"Standard payline structure may not suit everyone\",\n        \"Paytable values for lower symbols may be less appealing\"\n    ],\n    \"meta_title\": \"Play Dragons Lucky 8 Free: Review of Oriental-Themed Slot\",\n    \"meta_description\": \"Find out everything about Dragons Lucky 8 in this review. Play for free and enjoy the Oriental adventure on the reels with dragons and exciting bonuses.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Free spins bonus feature\",\n    \"Multipliers up to 8x\",\n    \"Unique reel set design\",\n    \"High-quality visuals and sound\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Lower payouts for some symbols\"\n  ],\n  \"meta_title\": \"Play Dragons Lucky 8 Free | Exciting Slot Game\",\n  \"meta_description\": \"Read our review of Dragons Lucky 8 and play for free. Enjoy free spins and multipliers.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 604,
+                    "completion_tokens": 109,
+                    "total_tokens": 713
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/dragons-lucky-8.json"
+    "filename": "game_reviews/translations/dragons-lucky-8.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_Dragons_Lucky_8_a63e19a9-14b7-4baa-9f4d-f03564e49591_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_Dragons_Lucky_8_a63e19a9-14b7-4baa-9f4d-f03564e49591_1.png",
+        "arved__Create_an_eye-catching_feature_image_for_Dragons_Lucky_8_a63e19a9-14b7-4baa-9f4d-f03564e49591_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_Dragons_Lucky_8_a63e19a9-14b7-4baa-9f4d-f03564e49591_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "dragons-lucky-8",
+    "name": "Dragons Lucky 8",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/07/dragons-lucky-8-gratis-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragons Lucky 8 Free | Exciting Slot Game' ### Meta set: 'Read our review of Dragons Lucky 8 and play for free. Enjoy free spins and multipliers.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

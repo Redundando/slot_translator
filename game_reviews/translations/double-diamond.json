@@ -815,14 +815,23 @@
     "raw_feature_images": [
         "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_2.png",
         "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_4.png",
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_1.png",
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_3.png"
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_3.png",
+        "arved__Prompt_DALLE_please_create_a_cartoon-style_feature_image_085b6cc2-a3b7-4d93-b82b-da89f83dad54_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Double Diamond (Version 3).webp",
-        "game_reviews/processed_images/Double Diamond (Version 2).webp",
         "game_reviews/processed_images/Double Diamond (Version 1).webp",
-        "game_reviews/processed_images/Double Diamond (Version 4).webp"
+        "game_reviews/processed_images/Double Diamond (Version 2).webp",
+        "game_reviews/processed_images/Double Diamond (Version 4).webp",
+        "game_reviews/processed_images/Double Diamond (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/double-diamond.json"
+    "filename": "game_reviews/translations/double-diamond.json",
+    "slug": "double-diamond",
+    "name": "Double Diamond",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Double-Diamond-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Double Diamond for Free - Classic Online Slot' ### Meta set: 'Read our review and play Double Diamond for free at top online casinos. Enjoy the classic three-reel design and Wild symbol payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

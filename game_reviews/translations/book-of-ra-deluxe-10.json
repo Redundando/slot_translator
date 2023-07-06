@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Unique gameplay mechanism with two game grids",
-                    "Reconstruction of an ancient Egyptian palace in the background",
                     "Visually pleasing graphics and design",
-                    "Part of a successful series of slots centered on Ancient Egypt"
+                    "Wide range of symbols related to Ancient Egypt",
+                    "Part of a successful series of slots"
                 ],
                 "cons": [
-                    "Common theme and symbols in Ancient Egypt-themed slots",
-                    "Design and graphics are similar to the other titles in the series"
+                    "Similar graphics and design to other titles in the Book of Ra series",
+                    "Limited variety of bonus features"
                 ],
-                "meta_title": "Play Book of Ra Deluxe 10 for Free - Review",
-                "meta_description": "Read our review of Book of Ra Deluxe 10, an online slot game with two game grids and an Ancient Egypt theme. Play for free and enjoy visually pleasing graphics."
+                "meta_title": "Play Book of Ra Deluxe 10 Free - Review",
+                "meta_description": "Read our review of Book of Ra Deluxe 10 and play it for free. Discover unique gameplay and Ancient Egypt theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Ra Deluxe 10\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nBook of Ra Deluxe 10 by Novomatic is an online slot game that is part of a successful series of slots centered on Ancient Egypt. The slot game has two game grids that resemble ancient stone slabs carved with hieroglyphs and decorated with red and blue.\n\nSymbols and Theme\n\nThe symbols in Book of Ra Deluxe 10 include playing card symbols such as A, K, Q, J, and 10, which are initials and numbers in a font reminiscent of hieroglyphs. Other symbols related to the slot's setting include the head of Tutankhamun's gold sarcophagus, the winged statue of the goddess Isis, the coin with the cat-goddess Bastet, the blue scarab, and the Book of Ra. The protagonist of the slot is a smiling adventurer who looks similar to the archaeologist with the fedora from the movies. The slot's theme is Ancient Egypt, featuring pyramids, ancient treasures, and powerful gods.\n\nLayout and Design\n\nThe background of the game is a reconstruction of an ancient Egyptian palace, colored by the red and warm light of the sunset. The graphics and design of the game are visually pleasing and well-crafted, resembling the other titles in the Book of Ra series. The slot has two separate game grids, one on the left with a 5x4 type schema, and the other on the right, which is an extension of the five reels with twelve lines of symbols. The game grids are not entirely separate, and Wild symbols can expand on both grids.\n\nSimilar Games\n\nThere are many slots centered on Ancient Egypt, such as Pyramid Quest of Immortality, Rich Wilde and The Book of the Dead, Pyramid Treasure, and Egyptian Heroes.\n\nOverall Impression\n\nBook of Ra Deluxe 10 is a well-crafted online slot game that differs from the other titles in the same Book of Ra series due to its unique gameplay mechanism with two game grids. The theme and symbols of the game are common in Ancient Egypt-themed slots. The graphics and design of the game are pleasing, but similar to the other titles in the series.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Ra Deluxe 10\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nBook of Ra Deluxe 10 by Novomatic is an online slot game that is part of a successful series of slots centered on Ancient Egypt. The slot game has two game grids that resemble ancient stone slabs carved with hieroglyphs and decorated with red and blue.\n\nSymbols and Theme\n\nThe symbols in Book of Ra Deluxe 10 include playing card symbols such as A, K, Q, J, and 10, which are initials and numbers in a font reminiscent of hieroglyphs. Other symbols related to the slot's setting include the head of Tutankhamun's gold sarcophagus, the winged statue of the goddess Isis, the coin with the cat-goddess Bastet, the blue scarab, and the Book of Ra. The protagonist of the slot is a smiling adventurer who looks similar to the archaeologist with the fedora from the movies. The slot's theme is Ancient Egypt, featuring pyramids, ancient treasures, and powerful gods.\n\nLayout and Design\n\nThe background of the game is a reconstruction of an ancient Egyptian palace, colored by the red and warm light of the sunset. The graphics and design of the game are visually pleasing and well-crafted, resembling the other titles in the Book of Ra series. The slot has two separate game grids, one on the left with a 5x4 type schema, and the other on the right, which is an extension of the five reels with twelve lines of symbols. The game grids are not entirely separate, and Wild symbols can expand on both grids.\n\nSimilar Games\n\nThere are many slots centered on Ancient Egypt, such as Pyramid Quest of Immortality, Rich Wilde and The Book of the Dead, Pyramid Treasure, and Egyptian Heroes.\n\nOverall Impression\n\nBook of Ra Deluxe 10 is a well-crafted online slot game that differs from the other titles in the same Book of Ra series due to its unique gameplay mechanism with two game grids. The theme and symbols of the game are common in Ancient Egypt-themed slots. The graphics and design of the game are pleasing, but similar to the other titles in the series.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGIUKrE5deOYjkCrOEzFt9vUnmei",
+                "id": "chatcmpl-7WOx2XOS5BCKovJOI9fbxHmUPcEtm",
                 "object": "chat.completion",
-                "created": 1686493530,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 608,
-                    "completion_tokens": 149,
-                    "total_tokens": 757
-                },
+                "created": 1687956764,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gameplay mechanism with two game grids\",\n        \"Reconstruction of an ancient Egyptian palace in the background\",\n        \"Visually pleasing graphics and design\",\n        \"Part of a successful series of slots centered on Ancient Egypt\"\n    ],\n    \"cons\": [\n        \"Common theme and symbols in Ancient Egypt-themed slots\",\n        \"Design and graphics are similar to the other titles in the series\"\n    ],\n    \"meta_title\": \"Play Book of Ra Deluxe 10 for Free - Review\",\n    \"meta_description\": \"Read our review of Book of Ra Deluxe 10, an online slot game with two game grids and an Ancient Egypt theme. Play for free and enjoy visually pleasing graphics.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanism with two game grids\",\n    \"Visually pleasing graphics and design\",\n    \"Wide range of symbols related to Ancient Egypt\",\n    \"Part of a successful series of slots\"\n  ],\n  \"cons\": [\n    \"Similar graphics and design to other titles in the Book of Ra series\",\n    \"Limited variety of bonus features\"\n  ],\n  \"meta_title\": \"Play Book of Ra Deluxe 10 Free - Review\",\n  \"meta_description\": \"Read our review of Book of Ra Deluxe 10 and play it for free. Discover unique gameplay and Ancient Egypt theme.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 605,
+                    "completion_tokens": 128,
+                    "total_tokens": 733
+                }
             }
         },
         {
@@ -816,13 +816,17 @@
     "raw_feature_images": [
         "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_3.png",
         "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_4.png",
-        "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_2.png",
-        "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_1.png"
+        "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_1.png",
+        "arved__Create_a_feature_image_for_Book_of_Ra_Deluxe_10_that_cap_a5d369a8-517d-4e18-966c-041f38effcc9_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 2).webp",
+        "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 3).webp",
         "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 4).webp",
         "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 1).webp",
-        "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 3).webp"
-    ]
+        "game_reviews/processed_images/Book Of Ra Deluxe 10 (Version 2).webp"
+    ],
+    "slug": "book-of-ra-deluxe-10",
+    "name": "Book of Ra Deluxe 10",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

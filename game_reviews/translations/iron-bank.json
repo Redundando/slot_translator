@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Innovative and fresh theme",
-                    "High RTP",
-                    "Solid gameplay mechanics",
-                    "Top-notch aesthetics"
+                    "Unique theme that humanizes animals",
+                    "Minimalist game interface with emphasis on symbols",
+                    "Good RTP rate of 96.2%",
+                    "Special mode with hidden symbol reveal for substantial wins"
                 ],
                 "cons": [
-                    "High volatility could be off-putting",
-                    "Bonus mode requires players to find enough Scatter symbols or make purchases"
+                    "High volatility may result in long dry spells",
+                    "Bonus mode may require purchases"
                 ],
-                "meta_title": "Play Iron Bank Slot Game for Free - Review",
-                "meta_description": "Enjoy the unique concept and high RTP of Iron Bank slot game. Read our review to play the game for free and experience its top-notch aesthetics and gameplay."
+                "meta_title": "Play Iron Bank Slot Game Free",
+                "meta_description": "Read our review of Iron Bank, a unique slot game with high volatility. Play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Iron Bank\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIron Bank Game Theme\n\nIron Bank is a slot game developed by Relax Gaming that has a unique theme which humanizes animals. Instead of the commonly used themes like Egyptian, Oriental, or Greek, this game stands out with its fresh and innovative concept.\n\nIron Bank Symbols\n\nIron Bank has a minimalist game interface with an emphasis on symbols. The grid that almost fills the interface has 6x4 dimensions, offering a significantly higher number of symbols than other online slot games. Along with cigars, bananas, and rum, the game provides various animal symbols, such as the Bull and the Cheetah.\n\nIron Bank RTP and Volatility\n\nIron Bank has a Return to Player (RTP) rate of 96.2%, which is well within the industry standards. The game has high volatility, meaning that players may experience long dry spells with no or low payouts, but they may also be rewarded with substantial wins later on.\n\nIron Bank Special Mode\n\nIron Bank's special feature is the mysterious folders that randomly activate from time to time. This feature will hide certain symbols and then reveal them, with all the hidden spaces revealing the same symbol. Depending on the position of the folders and the revealed symbol, the win could be substantial. The bank vault is the Scatter symbol that unlocks the bonus mode that comes with different functions, volatilities, and numbers of spins ranging from 8 to 12. Players can activate this mode by finding enough Scatter symbols or through purchases.\n\nIron Bank Aesthetics and Gameplay\n\nIron Bank's aesthetic and gameplay are top-notch. The game has an excellent aesthetic taste, with an emphasis on symbols and attention to detail. The music is barely noticeable, creating a Latin atmosphere that enhances the game's immersive experience. The game mechanics are solid, offering a high number of symbols, perfect RTP rate, and high volatility that can result in impressive wins. Overall, Iron Bank is an enjoyable slot game that stands out from others with its unique concept and excellent gameplay mechanics.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Iron Bank\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nIron Bank Game Theme\n\nIron Bank is a slot game developed by Relax Gaming that has a unique theme which humanizes animals. Instead of the commonly used themes like Egyptian, Oriental, or Greek, this game stands out with its fresh and innovative concept.\n\nIron Bank Symbols\n\nIron Bank has a minimalist game interface with an emphasis on symbols. The grid that almost fills the interface has 6x4 dimensions, offering a significantly higher number of symbols than other online slot games. Along with cigars, bananas, and rum, the game provides various animal symbols, such as the Bull and the Cheetah.\n\nIron Bank RTP and Volatility\n\nIron Bank has a Return to Player (RTP) rate of 96.2%, which is well within the industry standards. The game has high volatility, meaning that players may experience long dry spells with no or low payouts, but they may also be rewarded with substantial wins later on.\n\nIron Bank Special Mode\n\nIron Bank's special feature is the mysterious folders that randomly activate from time to time. This feature will hide certain symbols and then reveal them, with all the hidden spaces revealing the same symbol. Depending on the position of the folders and the revealed symbol, the win could be substantial. The bank vault is the Scatter symbol that unlocks the bonus mode that comes with different functions, volatilities, and numbers of spins ranging from 8 to 12. Players can activate this mode by finding enough Scatter symbols or through purchases.\n\nIron Bank Aesthetics and Gameplay\n\nIron Bank's aesthetic and gameplay are top-notch. The game has an excellent aesthetic taste, with an emphasis on symbols and attention to detail. The music is barely noticeable, creating a Latin atmosphere that enhances the game's immersive experience. The game mechanics are solid, offering a high number of symbols, perfect RTP rate, and high volatility that can result in impressive wins. Overall, Iron Bank is an enjoyable slot game that stands out from others with its unique concept and excellent gameplay mechanics.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TtvYtlKLysjRLl71qxZ6PqY8sJDt",
+                "id": "chatcmpl-7WVJ2lizk8zLDT2GGOgwLT3sm0QlD",
                 "object": "chat.completion",
-                "created": 1687360852,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687981192,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Innovative and fresh theme\",\n        \"High RTP\",\n        \"Solid gameplay mechanics\",\n        \"Top-notch aesthetics\"\n    ],\n    \"cons\": [\n        \"High volatility could be off-putting\",\n        \"Bonus mode requires players to find enough Scatter symbols or make purchases\"\n    ],\n    \"meta_title\": \"Play Iron Bank Slot Game for Free - Review\",\n    \"meta_description\": \"Enjoy the unique concept and high RTP of Iron Bank slot game. Read our review to play the game for free and experience its top-notch aesthetics and gameplay.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique theme that humanizes animals\",\n    \"Minimalist game interface with emphasis on symbols\",\n    \"Good RTP rate of 96.2%\",\n    \"Special mode with hidden symbol reveal for substantial wins\"\n  ],\n  \"cons\": [\n    \"High volatility may result in long dry spells\",\n    \"Bonus mode may require purchases\"\n  ],\n  \"meta_title\": \"Play Iron Bank Slot Game Free\",\n  \"meta_description\": \"Read our review of Iron Bank, a unique slot game with high volatility. Play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 576,
-                    "completion_tokens": 123,
-                    "total_tokens": 699
+                    "prompt_tokens": 573,
+                    "completion_tokens": 117,
+                    "total_tokens": 690
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/iron-bank.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_featuring__8a5d119d-a025-466d-8d5f-3465e7c9f952_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_featuring__8a5d119d-a025-466d-8d5f-3465e7c9f952_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_featuring__8a5d119d-a025-466d-8d5f-3465e7c9f952_4.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_image_featuring__8a5d119d-a025-466d-8d5f-3465e7c9f952_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Iron Bank (Version 2).webp",
+        "game_reviews/processed_images/Iron Bank (Version 1).webp",
+        "game_reviews/processed_images/Iron Bank (Version 3).webp",
+        "game_reviews/processed_images/Iron Bank (Version 4).webp"
+    ],
+    "slug": "iron-bank",
+    "name": "Iron Bank",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Iron-Bank-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Iron Bank Slot Game Free' ### Meta set: 'Read our review of Iron Bank, a unique slot game with high volatility. Play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

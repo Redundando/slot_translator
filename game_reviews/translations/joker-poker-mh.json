@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Simple and essential gameplay",
-                    "Clean and user-friendly design",
-                    "Bonus game that multiplies winnings",
-                    "Demo version available to refine skills"
+                    "Simple gameplay and clean design",
+                    "Joker card increases chances of winning combinations",
+                    "Bonus game adds excitement and potential for higher winnings",
+                    "Demo version available for practice before betting real money"
                 ],
                 "cons": [
                     "No Scatter or Wild symbols",
-                    "No progressive jackpot to win"
+                    "Limited betting range (1 to 5 coins)"
                 ],
-                "meta_title": "Play Joker Poker MH Free - Simple and Clean Design",
-                "meta_description": "Read our review of Joker Poker MH, a simple online slot game with clean design. Play for free and multiply your winnings with the bonus game."
+                "meta_title": "Play Joker Poker MH for Free",
+                "meta_description": "Read our review of Joker Poker MH and play for free to hone your skills."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Joker Poker MH\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJoker Poker MH is a simple online slot game that relies on essential gameplay and clean design. The game has a deck of 53 cards which include a joker that increases the chances of landing winning combinations. The bets range from 1 to 5, and the paytable is always visible on the top of the screen. The game doesn't have Scatter or Wild symbols, but it features a bonus game that will multiply the winnings if you guess the suit of the next card correctly.\n\nDeck of Cards\n\nJoker Poker MH features a standard deck of 52 cards, plus a joker card that acts as a Wild symbol to complement any winning combination. Players can bet with a minimum of 1 coin and a maximum of 5 coins on each hand. Before betting, check the paytable that shows the potential payouts on each hand combination. The deck of cards is shuffled each round, making it impossible to predict when you'll come out on top.\n\nBonus Game\n\nJoker Poker MH offers a bonus game that multiplies winnings if you guess the suit of the next card correctly. After winning, you can choose to collect your winnings or gamble them in the bonus game. In the bonus game, you'll need to guess whether the next card will be a spade, a club, a diamond, or a heart. If you guess correctly, your winnings will be multiplied by four. However, if you guess wrong, you'll lose the original winnings.\n\nWinning Combinations\n\nJoker Poker MH offers several winning combinations, including a pair of Kings or better, two pairs, three of a kind, straight, flush, full house, four of a kind, straight flush, five of a kind, a wild royal flush, and a natural royal flush. The minimum combination to win is a pair of Kings, and the highest payout is awarded for a Natural Royal Flush. Players can choose which cards to hold or discard before making the next draw, which adds an aspect of strategy to the game.\n\nDemo Version\n\nJoker Poker MH has a demo version that is available for players who want to refine their skills before betting real money. The demo version is identical to the real-money version, and players can get familiarized with the gameplay, winning combinations, and bonus game features before deciding to make a wager. The game has an RTP of 95.01%, making it a decent choice for those looking for a classic poker experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Joker Poker MH\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJoker Poker MH is a simple online slot game that relies on essential gameplay and clean design. The game has a deck of 53 cards which include a joker that increases the chances of landing winning combinations. The bets range from 1 to 5, and the paytable is always visible on the top of the screen. The game doesn't have Scatter or Wild symbols, but it features a bonus game that will multiply the winnings if you guess the suit of the next card correctly.\n\nDeck of Cards\n\nJoker Poker MH features a standard deck of 52 cards, plus a joker card that acts as a Wild symbol to complement any winning combination. Players can bet with a minimum of 1 coin and a maximum of 5 coins on each hand. Before betting, check the paytable that shows the potential payouts on each hand combination. The deck of cards is shuffled each round, making it impossible to predict when you'll come out on top.\n\nBonus Game\n\nJoker Poker MH offers a bonus game that multiplies winnings if you guess the suit of the next card correctly. After winning, you can choose to collect your winnings or gamble them in the bonus game. In the bonus game, you'll need to guess whether the next card will be a spade, a club, a diamond, or a heart. If you guess correctly, your winnings will be multiplied by four. However, if you guess wrong, you'll lose the original winnings.\n\nWinning Combinations\n\nJoker Poker MH offers several winning combinations, including a pair of Kings or better, two pairs, three of a kind, straight, flush, full house, four of a kind, straight flush, five of a kind, a wild royal flush, and a natural royal flush. The minimum combination to win is a pair of Kings, and the highest payout is awarded for a Natural Royal Flush. Players can choose which cards to hold or discard before making the next draw, which adds an aspect of strategy to the game.\n\nDemo Version\n\nJoker Poker MH has a demo version that is available for players who want to refine their skills before betting real money. The demo version is identical to the real-money version, and players can get familiarized with the gameplay, winning combinations, and bonus game features before deciding to make a wager. The game has an RTP of 95.01%, making it a decent choice for those looking for a classic poker experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Tw8t7diZv1lmSp246TL7ib3Y3fLf",
+                "id": "chatcmpl-7WVdSnYixnzVJek4aYUhSqjkwL6j1",
                 "object": "chat.completion",
-                "created": 1687369367,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982458,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple and essential gameplay\",\n        \"Clean and user-friendly design\",\n        \"Bonus game that multiplies winnings\",\n        \"Demo version available to refine skills\"\n    ],\n    \"cons\": [\n        \"No Scatter or Wild symbols\",\n        \"No progressive jackpot to win\"\n    ],\n    \"meta_title\": \"Play Joker Poker MH Free - Simple and Clean Design\",\n    \"meta_description\": \"Read our review of Joker Poker MH, a simple online slot game with clean design. Play for free and multiply your winnings with the bonus game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay and clean design\",\n    \"Joker card increases chances of winning combinations\",\n    \"Bonus game adds excitement and potential for higher winnings\",\n    \"Demo version available for practice before betting real money\"\n  ],\n  \"cons\": [\n    \"No Scatter or Wild symbols\",\n    \"Limited betting range (1 to 5 coins)\"\n  ],\n  \"meta_title\": \"Play Joker Poker MH for Free\",\n  \"meta_description\": \"Read our review of Joker Poker MH and play for free to hone your skills.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 672,
-                    "completion_tokens": 119,
-                    "total_tokens": 791
+                    "prompt_tokens": 669,
+                    "completion_tokens": 115,
+                    "total_tokens": 784
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/joker-poker-mh.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Joker_Poker_MH_that_fi_f18f20c1-569a-4043-a07e-394c6f0ea811_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Poker_MH_that_fi_f18f20c1-569a-4043-a07e-394c6f0ea811_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Poker_MH_that_fi_f18f20c1-569a-4043-a07e-394c6f0ea811_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Joker_Poker_MH_that_fi_f18f20c1-569a-4043-a07e-394c6f0ea811_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Joker Poker Mh (Version 3).webp",
+        "game_reviews/processed_images/Joker Poker Mh (Version 1).webp",
+        "game_reviews/processed_images/Joker Poker Mh (Version 2).webp",
+        "game_reviews/processed_images/Joker Poker Mh (Version 4).webp"
+    ],
+    "slug": "joker-poker-mh",
+    "name": "Joker Poker MH",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Joker-Poker-Mh-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Joker Poker MH for Free' ### Meta set: 'Read our review of Joker Poker MH and play for free to hone your skills.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

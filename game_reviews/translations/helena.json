@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Autoplay option",
+                    "Autoplay option for convenience",
+                    "Wide range of betting options",
                     "Visually stunning and refined design",
-                    "Decent payouts",
-                    "High-value symbols"
+                    "Decent payouts and high-value symbols"
                 ],
                 "cons": [
-                    "RTP is below average",
-                    "Not ideal for players seeking high volatility"
+                    "RTP slightly below average",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Helena for Free - Slot Game Review",
-                "meta_description": "Explore the world of ancient Greek mythology with the beautifully designed Helena slot game. Place bets and win up to 40,000 coins. Play for free."
+                "meta_title": "Play Helena Slot Game for Free",
+                "meta_description": "Read our review of Helena slot game and play for free. Enjoy stunning visuals and decent payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Helena\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nHelena is a five-reel, three-row slot game with ten paylines. It features an autoplay option, and players can place bets starting at ten cents up to a maximum of 100 €. The game also features a Wild symbol which can determine winning combinations that pay up to 40,000 coins when it appears on all reels. Additionally, the Scatter symbol awards 15 free spins when it appears at least three times.\n\nVisual Design and Theme\n\nHelena features a visually stunning and refined design. The game is centered around the Hellenic culture and the iconic figure of Helen of Troy, with symbols that include thematic elements such as terracotta vases, Paris of Troy, and the hero Achilles.\n\nBetting Options\n\nPlayers can place their bets starting at ten cents up to a maximum of 100 €, which is a range that caters to everyone, from penny players to high rollers.\n\nPayout Potential\n\nThe maximum prize that can be obtained thanks to this slot game is equal to 40,000 coins. Additionally, the game features high-value symbols, such as Achilles and Paris, which can pay 3,000 times the bet when they appear on all five reels.\n\nVolatility and RTP\n\nThe volatility of Helena is medium, while the theoretical return to player (RTP) stands at 95.12%. While this is almost one point below the average, the game still offers decent payouts and can be enjoyable to play for fans of the ancient civilizations theme.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Helena\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nHelena is a five-reel, three-row slot game with ten paylines. It features an autoplay option, and players can place bets starting at ten cents up to a maximum of 100 €. The game also features a Wild symbol which can determine winning combinations that pay up to 40,000 coins when it appears on all reels. Additionally, the Scatter symbol awards 15 free spins when it appears at least three times.\n\nVisual Design and Theme\n\nHelena features a visually stunning and refined design. The game is centered around the Hellenic culture and the iconic figure of Helen of Troy, with symbols that include thematic elements such as terracotta vases, Paris of Troy, and the hero Achilles.\n\nBetting Options\n\nPlayers can place their bets starting at ten cents up to a maximum of 100 €, which is a range that caters to everyone, from penny players to high rollers.\n\nPayout Potential\n\nThe maximum prize that can be obtained thanks to this slot game is equal to 40,000 coins. Additionally, the game features high-value symbols, such as Achilles and Paris, which can pay 3,000 times the bet when they appear on all five reels.\n\nVolatility and RTP\n\nThe volatility of Helena is medium, while the theoretical return to player (RTP) stands at 95.12%. While this is almost one point below the average, the game still offers decent payouts and can be enjoyable to play for fans of the ancient civilizations theme.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TpZfQGozFeji7lDYNAS5DyXwOwmv",
+                "id": "chatcmpl-7WUi37LrZlFE09t0a8PJorH5025D7",
                 "object": "chat.completion",
-                "created": 1687344119,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978899,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Autoplay option\",\n    \"Visually stunning and refined design\",\n    \"Decent payouts\",\n    \"High-value symbols\"\n],\n\"cons\": [\n    \"RTP is below average\",\n    \"Not ideal for players seeking high volatility\"\n],\n\"meta_title\": \"Play Helena for Free - Slot Game Review\",\n\"meta_description\": \"Explore the world of ancient Greek mythology with the beautifully designed Helena slot game. Place bets and win up to 40,000 coins. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Autoplay option for convenience\",\n    \"Wide range of betting options\",\n    \"Visually stunning and refined design\",\n    \"Decent payouts and high-value symbols\"\n  ],\n  \"cons\": [\n    \"RTP slightly below average\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Helena Slot Game for Free\",\n  \"meta_description\": \"Read our review of Helena slot game and play for free. Enjoy stunning visuals and decent payouts.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 483,
-                    "completion_tokens": 109,
-                    "total_tokens": 592
+                    "prompt_tokens": 480,
+                    "completion_tokens": 106,
+                    "total_tokens": 586
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/helena.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Hel_b3e75dfa-c0a4-40d9-b0a5-699cef7a7439_2.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Hel_b3e75dfa-c0a4-40d9-b0a5-699cef7a7439_3.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Hel_b3e75dfa-c0a4-40d9-b0a5-699cef7a7439_1.png",
+        "arved__DALLE_please_create_a_feature_image_fitting_the_game_Hel_b3e75dfa-c0a4-40d9-b0a5-699cef7a7439_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Helena (Version 4).webp",
+        "game_reviews/processed_images/Helena (Version 2).webp",
+        "game_reviews/processed_images/Helena (Version 3).webp",
+        "game_reviews/processed_images/Helena (Version 1).webp"
+    ],
+    "slug": "helena",
+    "name": "Helena",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Helena-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Helena Slot Game for Free' ### Meta set: 'Read our review of Helena slot game and play for free. Enjoy stunning visuals and decent payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

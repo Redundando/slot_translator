@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique 5x5 grid structure for more opportunities to win.",
-                    "18, 38, 68, or 88 winning lines to customize the gaming experience.",
-                    "Falling symbols create chances for concatenated wins.",
-                    "Smashing Wild function guarantees a win and adds excitement."
+                    "Unique gameplay mechanics",
+                    "Unique grid structure for more winning lines",
+                    "Customizable winning lines for an exciting gaming experience",
+                    "Falling symbols and Smashing Wild functions for increased value of play"
                 ],
                 "cons": [
-                    "The game may take some time to get used to for players used to classic slot games.",
-                    "The game may not be suitable for players who prefer high volatility."
+                    "Frequency of falling symbols and Smashing Wild functions may vary",
+                    "Limited number of winning line options"
                 ],
-                "meta_title": "Play Break Away Deluxe Free - Unique 5x5 Grid Slot Game",
-                "meta_description": "Read our review of Break Away Deluxe, a unique Microgaming slot game with a 5x5 grid structure, falling symbols function, and Smashing Wild feature. Play for free now."
+                "meta_title": "Play Break Away Deluxe Free",
+                "meta_description": "Read our review of Break Away Deluxe and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Break Away Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBreak Away Deluxe, developed by Microgaming, offers a unique gameplay experience compared to other online slots games. The game grid has a 5x5 mechanism that allows for 25 symbols at a time, creating more opportunities for winning lines. Players can choose between 18, 38, 68, or 88 winning lines, a choice that can significantly change the gaming experience. The game also offers two exciting functions, falling symbols and Smashing Wild, that increase the value of the play.\n\nUnique grid structure\n\nThe game grid structure in Break Away Deluxe is unlike usual slot games. The grid has a 5x5 mechanism that allows for 25 symbols in each spin. This unique structure enables a greater number of game lines and opportunities for winning combinations. It adds a fresh spin compared to the classic 5x3 mechanism.\n\nWinning lines\n\nBreak Away Deluxe offers players more opportunities to win through its numerous winning lines. Players can choose from four options: 18, 38, 68, or 88. Each option significantly changes the gaming experience and the chance to win. This customization adds an extra layer of excitement when playing Break Away Deluxe.\n\nFalling symbols\n\nBreak Away Deluxe has a falling symbols function that will be appreciated by players. Thanks to this feature, players get more chances to win as the symbols in a winning combination disappear and others fall from above. It creates the possibility of getting concatenated wins that increases the value of the play. This mechanic is present in other Microgaming slots, but the frequency in which it appears adds a level of excitement to Break Away Deluxe.\n\nSmashing Wild function\n\nBreak Away Deluxe has a Smashing Wild function that appears randomly during gameplay. The function turns the central three lines into Wild symbols that guarantee a win. The value of the win when this function is activated is exceptionally high, making it a highly valued feature of the game. This function adds another layer of excitement and opportunity for players to win.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Break Away Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBreak Away Deluxe, developed by Microgaming, offers a unique gameplay experience compared to other online slots games. The game grid has a 5x5 mechanism that allows for 25 symbols at a time, creating more opportunities for winning lines. Players can choose between 18, 38, 68, or 88 winning lines, a choice that can significantly change the gaming experience. The game also offers two exciting functions, falling symbols and Smashing Wild, that increase the value of the play.\n\nUnique grid structure\n\nThe game grid structure in Break Away Deluxe is unlike usual slot games. The grid has a 5x5 mechanism that allows for 25 symbols in each spin. This unique structure enables a greater number of game lines and opportunities for winning combinations. It adds a fresh spin compared to the classic 5x3 mechanism.\n\nWinning lines\n\nBreak Away Deluxe offers players more opportunities to win through its numerous winning lines. Players can choose from four options: 18, 38, 68, or 88. Each option significantly changes the gaming experience and the chance to win. This customization adds an extra layer of excitement when playing Break Away Deluxe.\n\nFalling symbols\n\nBreak Away Deluxe has a falling symbols function that will be appreciated by players. Thanks to this feature, players get more chances to win as the symbols in a winning combination disappear and others fall from above. It creates the possibility of getting concatenated wins that increases the value of the play. This mechanic is present in other Microgaming slots, but the frequency in which it appears adds a level of excitement to Break Away Deluxe.\n\nSmashing Wild function\n\nBreak Away Deluxe has a Smashing Wild function that appears randomly during gameplay. The function turns the central three lines into Wild symbols that guarantee a win. The value of the win when this function is activated is exceptionally high, making it a highly valued feature of the game. This function adds another layer of excitement and opportunity for players to win.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SmbIqhthW9vsEt5jxafFVLetUq8B",
+                "id": "chatcmpl-7WPLu6ZYKynYRRcBOpo70wex6VimZ",
                 "object": "chat.completion",
-                "created": 1687094360,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 579,
-                    "completion_tokens": 179,
-                    "total_tokens": 758
-                },
+                "created": 1687958306,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique 5x5 grid structure for more opportunities to win.\",\n        \"18, 38, 68, or 88 winning lines to customize the gaming experience.\",\n        \"Falling symbols create chances for concatenated wins.\",\n        \"Smashing Wild function guarantees a win and adds excitement.\"\n    ],\n    \"cons\": [\n        \"The game may take some time to get used to for players used to classic slot games.\",\n        \"The game may not be suitable for players who prefer high volatility.\"\n    ],\n    \"meta_title\": \"Play Break Away Deluxe Free - Unique 5x5 Grid Slot Game\",\n    \"meta_description\": \"Read our review of Break Away Deluxe, a unique Microgaming slot game with a 5x5 grid structure, falling symbols function, and Smashing Wild feature. Play for free now.\"  \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics\",\n    \"Unique grid structure for more winning lines\",\n    \"Customizable winning lines for an exciting gaming experience\",\n    \"Falling symbols and Smashing Wild functions for increased value of play\"\n  ],\n  \"cons\": [\n    \"Frequency of falling symbols and Smashing Wild functions may vary\",\n    \"Limited number of winning line options\"\n  ],\n  \"meta_title\": \"Play Break Away Deluxe Free\",\n  \"meta_description\": \"Read our review of Break Away Deluxe and play this exciting slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 576,
+                    "completion_tokens": 118,
+                    "total_tokens": 694
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_3.png",
+        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_2.png",
         "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_1.png",
-        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_4.png",
-        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_2.png"
+        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_3.png",
+        "arved__Create_a_feature_image_for_Break_Away_Deluxe_that_featur_d034e4ec-a14f-4821-835a-b03b3cf79cf4_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Break Away Deluxe (Version 1).webp",
         "game_reviews/processed_images/Break Away Deluxe (Version 2).webp",
-        "game_reviews/processed_images/Break Away Deluxe (Version 3).webp",
-        "game_reviews/processed_images/Break Away Deluxe (Version 4).webp"
+        "game_reviews/processed_images/Break Away Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Break Away Deluxe (Version 4).webp",
+        "game_reviews/processed_images/Break Away Deluxe (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/break-away-deluxe.json"
+    "filename": "game_reviews/translations/break-away-deluxe.json",
+    "slug": "break-away-deluxe",
+    "name": "Break Away Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Break-Away-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Break Away Deluxe Free' ### Meta set: 'Read our review of Break Away Deluxe and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

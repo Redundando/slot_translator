@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Impressive graphics and well-detailed characters",
-                    "Two exciting bonus features",
-                    "High volatility perfect for high-risk players",
-                    "Autoplay with up to 500 continuous spins available"
+                    "Impressive comic book-style graphics",
+                    "Two exciting bonus features - free spins and Gold Reserve",
+                    "High volatility for high-risk players",
+                    "Autoplay function for convenience"
                 ],
                 "cons": [
-                    "Limited bet options for low rollers",
-                    "No progressive jackpot"
+                    "Limited betting options with a minimum bet of €0.20",
+                    "Only 40 fixed paylines"
                 ],
-                "meta_title": "Play La Mafia Heist Free: Review & Gameplay",
-                "meta_description": "Read our review of La Mafia Heist, a high-volatility 5x3 slot game with 40 fixed paylines. Play for free and enjoy two exciting bonus features."
+                "meta_title": "Play La Mafia Heist and Claim Exciting Free Spins - Review",
+                "meta_description": "Read our review of La Mafia Heist, a slot game with impressive graphics and exciting free spins. Play now for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"La Mafia Heist\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLa Mafia Heist is a classic 5x3 slot game that features 40 fixed paylines and a high volatility. The minimum bet is €0.20 per spin, and the Autoplay function allows for up to 500 continuous spins. The theoretical RTP is 96.35%. The game offers two bonus features, including free spins and the Gold Reserve feature.\n\nGraphics\n\nLa Mafia Heist's comic book-style graphics are impressive, with well-detailed characters and a dark, night-time setting. The game screen features a bank door on the left side and a car parked in front, adding to the game's context and theme. The game grid has a single button on the right side that provides access to all the main functions of the game.\n\nSymbols\n\nSymbols in La Mafia Heist are divided into low-level and high-level ones. Low-level symbols include playing cards from 10 to Ace, while the high-level ones include the four characters that animate the slot. The Wild symbol is a money bag that substitutes for all symbols, while the Scatter is a safe that triggers free spins. During free spins, reels 2, 3, and 4 merge into a single reel of Big Block symbols that occupy a 3x3 space. An additional Scatter gives more free spins, and landing six gold bars awards the Gold Reserve feature.\n\nBonuses\n\nLa Mafia Heist offers two bonus features, including free spins and the Gold Reserve feature. Landing 3, 4, or 5 Scatters triggers 8, 12, or 15 free spins, respectively. During free spins, reels 2, 3, and 4 merge into a single massive reel of Big Block symbols. An additional Scatter landing during free spins awards 3 more free spins. Landing six gold bars on the reels triggers the Gold Reserve feature, where only gold bars land, each with a value between 0.8x and 100x.\n\nVolatility\n\nLa Mafia Heist has high volatility, making it ideal for high-risk players. The theoretical RTP is 96.35%, and the game offers a range of betting options for players looking to maximize their rewards. Autoplay, with up to 500 continuous spins, is available for players who prefer not to click the Start button.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"La Mafia Heist\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nLa Mafia Heist is a classic 5x3 slot game that features 40 fixed paylines and a high volatility. The minimum bet is €0.20 per spin, and the Autoplay function allows for up to 500 continuous spins. The theoretical RTP is 96.35%. The game offers two bonus features, including free spins and the Gold Reserve feature.\n\nGraphics\n\nLa Mafia Heist's comic book-style graphics are impressive, with well-detailed characters and a dark, night-time setting. The game screen features a bank door on the left side and a car parked in front, adding to the game's context and theme. The game grid has a single button on the right side that provides access to all the main functions of the game.\n\nSymbols\n\nSymbols in La Mafia Heist are divided into low-level and high-level ones. Low-level symbols include playing cards from 10 to Ace, while the high-level ones include the four characters that animate the slot. The Wild symbol is a money bag that substitutes for all symbols, while the Scatter is a safe that triggers free spins. During free spins, reels 2, 3, and 4 merge into a single reel of Big Block symbols that occupy a 3x3 space. An additional Scatter gives more free spins, and landing six gold bars awards the Gold Reserve feature.\n\nBonuses\n\nLa Mafia Heist offers two bonus features, including free spins and the Gold Reserve feature. Landing 3, 4, or 5 Scatters triggers 8, 12, or 15 free spins, respectively. During free spins, reels 2, 3, and 4 merge into a single massive reel of Big Block symbols. An additional Scatter landing during free spins awards 3 more free spins. Landing six gold bars on the reels triggers the Gold Reserve feature, where only gold bars land, each with a value between 0.8x and 100x.\n\nVolatility\n\nLa Mafia Heist has high volatility, making it ideal for high-risk players. The theoretical RTP is 96.35%, and the game offers a range of betting options for players looking to maximize their rewards. Autoplay, with up to 500 continuous spins, is available for players who prefer not to click the Start button.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TzbQ8TujcB0cSPDHNvBGRVXBWwlx",
+                "id": "chatcmpl-7WW8vUQhFVNcyI8uWAjyGVmWshlfK",
                 "object": "chat.completion",
-                "created": 1687382668,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984409,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive graphics and well-detailed characters\",\n        \"Two exciting bonus features\",\n        \"High volatility perfect for high-risk players\",\n        \"Autoplay with up to 500 continuous spins available\"\n    ],\n    \"cons\": [\n        \"Limited bet options for low rollers\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play La Mafia Heist Free: Review & Gameplay\",\n    \"meta_description\": \"Read our review of La Mafia Heist, a high-volatility 5x3 slot game with 40 fixed paylines. Play for free and enjoy two exciting bonus features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive comic book-style graphics\",\n    \"Two exciting bonus features - free spins and Gold Reserve\",\n    \"High volatility for high-risk players\",\n    \"Autoplay function for convenience\"\n  ],\n  \"cons\": [\n    \"Limited betting options with a minimum bet of €0.20\",\n    \"Only 40 fixed paylines\"\n  ],\n  \"meta_title\": \"Play La Mafia Heist and Claim Exciting Free Spins - Review\",\n  \"meta_description\": \"Read our review of La Mafia Heist, a slot game with impressive graphics and exciting free spins. Play now for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 644,
-                    "completion_tokens": 134,
-                    "total_tokens": 778
+                    "prompt_tokens": 641,
+                    "completion_tokens": 132,
+                    "total_tokens": 773
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/la-mafia-heist.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_La_Mafia_818f252f-1d6e-45f1-9245-948972be68f8_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_La_Mafia_818f252f-1d6e-45f1-9245-948972be68f8_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_La_Mafia_818f252f-1d6e-45f1-9245-948972be68f8_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_La_Mafia_818f252f-1d6e-45f1-9245-948972be68f8_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/La Mafia Heist (Version 1).webp",
+        "game_reviews/processed_images/La Mafia Heist (Version 2).webp",
+        "game_reviews/processed_images/La Mafia Heist (Version 3).webp",
+        "game_reviews/processed_images/La Mafia Heist (Version 4).webp"
+    ],
+    "slug": "la-mafia-heist",
+    "name": "La Mafia Heist",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/La-Mafia-Heist-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play La Mafia Heist and Claim Exciting Free Spins - Review' ### Meta set: 'Read our review of La Mafia Heist, a slot game with impressive graphics and exciting free spins. Play now for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

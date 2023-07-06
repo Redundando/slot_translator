@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Autoplay feature for easier gameplay",
-                    "Intuitive interface and flexible betting options",
-                    "Free spins bonus round with tripled winnings",
-                    "Playable on desktop, laptop, and mobile devices"
+                    "Flexible betting options",
+                    "Intuitive interface",
+                    "Free spins bonus round",
+                    "Available to play on desktop and mobile devices"
                 ],
                 "cons": [
-                    "Simple graphics and animations may not appeal to everyone",
-                    "No progressive jackpot feature"
+                    "Lack of flashy animations or sound effects",
+                    "Limited number of pay lines"
                 ],
-                "meta_title": "Play Lucky Lady's Charm for Free - Exciting Bonuses and Features",
-                "meta_description": "Read our review of Lucky Lady's Charm, a nostalgic slot game with exciting bonuses and features. Play for free and win big on this classic game."
+                "meta_title": "Play Lucky Lady's Charm for Free",
+                "meta_description": "Read our review of Lucky Lady's Charm and play this nostalgic slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Lady’s Charm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLucky Lady's Charm is a traditional style slot game with 5 reels and 10 pay lines. Players can bet from as low as €0.02 per pay line up to €45 per spin. The game offers an Autoplay feature as well, making gameplay even easier. You can choose to gamble your winnings and potentially double them. This game is perfect for both beginners and experienced players, with an intuitive interface and flexible betting options.\n\nSymbols and Graphics\n\nLucky Lady's Charm is a nostalgic game that takes us back to the classic land-based casino experience with its simple, yet engaging graphics. The focus of the game is on the gameplay, rather than flashy animations or sound effects. The symbols are lucky amulets, including horseshoes, clovers, ladybugs, rabbit paws, and Lady Luck herself, who also acts as the Wild Symbol. The Scatter symbol is a crystal ball, and three of these anywhere on the screen trigger 15 free spins.\n\nBonuses and Free Spins\n\nPlayers can win big in Lucky Lady's Charm with the free spins bonus round. Three crystal ball symbols anywhere on the screen trigger 15 free spins, with tripled winnings. Many online casinos offer bonuses such as free spins without deposit requirements for playing this game. Check online guides or casino websites to see which casinos offer these bonuses.\n\nAccessibility and Compatibility\n\nLucky Lady's Charm can be played for free on SlotJava without having to sign up or download any software. For real money play, players can find the game at licensed online casinos such as Starvegas, Snai, Starcasino, and Fantasyteam Casino. The game is available on desktop, laptop, and mobile devices, so you can play wherever and whenever you like. Make sure to play at licensed casinos to ensure safety and security while playing online.\n\nProvider and Reputation\n\nNovomatic is the provider of Lucky Lady's Charm and has developed many other popular games, including Polar Fox, Golden Ark, and Lord of the Ocean, which can also be played for free on SlotJava. Lucky Lady's Charm has become an iconic game in Novomatic's collection and has maintained a good reputation among online slot players. Many online casino players enjoy playing this nostalgic and versatile game, which is suitable for all types of players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Lady’s Charm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nLucky Lady's Charm is a traditional style slot game with 5 reels and 10 pay lines. Players can bet from as low as €0.02 per pay line up to €45 per spin. The game offers an Autoplay feature as well, making gameplay even easier. You can choose to gamble your winnings and potentially double them. This game is perfect for both beginners and experienced players, with an intuitive interface and flexible betting options.\n\nSymbols and Graphics\n\nLucky Lady's Charm is a nostalgic game that takes us back to the classic land-based casino experience with its simple, yet engaging graphics. The focus of the game is on the gameplay, rather than flashy animations or sound effects. The symbols are lucky amulets, including horseshoes, clovers, ladybugs, rabbit paws, and Lady Luck herself, who also acts as the Wild Symbol. The Scatter symbol is a crystal ball, and three of these anywhere on the screen trigger 15 free spins.\n\nBonuses and Free Spins\n\nPlayers can win big in Lucky Lady's Charm with the free spins bonus round. Three crystal ball symbols anywhere on the screen trigger 15 free spins, with tripled winnings. Many online casinos offer bonuses such as free spins without deposit requirements for playing this game. Check online guides or casino websites to see which casinos offer these bonuses.\n\nAccessibility and Compatibility\n\nLucky Lady's Charm can be played for free on SlotJava without having to sign up or download any software. For real money play, players can find the game at licensed online casinos such as Starvegas, Snai, Starcasino, and Fantasyteam Casino. The game is available on desktop, laptop, and mobile devices, so you can play wherever and whenever you like. Make sure to play at licensed casinos to ensure safety and security while playing online.\n\nProvider and Reputation\n\nNovomatic is the provider of Lucky Lady's Charm and has developed many other popular games, including Polar Fox, Golden Ark, and Lord of the Ocean, which can also be played for free on SlotJava. Lucky Lady's Charm has become an iconic game in Novomatic's collection and has maintained a good reputation among online slot players. Many online casino players enjoy playing this nostalgic and versatile game, which is suitable for all types of players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QGgVFTblDHZEYPoXi5MLsAR5JTpM",
+                "id": "chatcmpl-7WWhs6DWFTHu5iGfLBdSd87TXQ1hD",
                 "object": "chat.completion",
-                "created": 1686495019,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 646,
-                    "completion_tokens": 136,
-                    "total_tokens": 782
-                },
+                "created": 1687986576,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Autoplay feature for easier gameplay\",\n        \"Intuitive interface and flexible betting options\",\n        \"Free spins bonus round with tripled winnings\",\n        \"Playable on desktop, laptop, and mobile devices\"\n    ],\n    \"cons\": [\n        \"Simple graphics and animations may not appeal to everyone\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Lucky Lady's Charm for Free - Exciting Bonuses and Features\",\n    \"meta_description\": \"Read our review of Lucky Lady's Charm, a nostalgic slot game with exciting bonuses and features. Play for free and win big on this classic game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Flexible betting options\",\n    \"Intuitive interface\",\n    \"Free spins bonus round\",\n    \"Available to play on desktop and mobile devices\"\n  ],\n  \"cons\": [\n    \"Lack of flashy animations or sound effects\",\n    \"Limited number of pay lines\"\n  ],\n  \"meta_title\": \"Play Lucky Lady's Charm for Free\",\n  \"meta_description\": \"Read our review of Lucky Lady's Charm and play this nostalgic slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 643,
+                    "completion_tokens": 103,
+                    "total_tokens": 746
+                }
             }
         },
         {
@@ -802,15 +802,27 @@
     ],
     "filename": "game_reviews/translations/lucky-ladys-charm.json",
     "raw_feature_images": [
-        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_1.png",
         "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_4.png",
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_1.png",
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_3.png",
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_f2447af7-601a-492d-95eb-75e8c41573f2_3.png",
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_f2447af7-601a-492d-95eb-75e8c41573f2_4.png",
         "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_2.png",
-        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_21f8f45f-d725-4890-a058-961b4729193a_3.png"
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_f2447af7-601a-492d-95eb-75e8c41573f2_1.png",
+        "arved__Create_an_image_for_Lucky_Ladys_Charm_that_portrays_a_ha_f2447af7-601a-492d-95eb-75e8c41573f2_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 2).webp",
         "game_reviews/processed_images/Lucky Ladys Charm (Version 3).webp",
-        "game_reviews/processed_images/Lucky Ladys Charm (Version 1).webp",
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 7).webp",
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 5).webp",
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 8).webp",
         "game_reviews/processed_images/Lucky Ladys Charm (Version 4).webp",
-        "game_reviews/processed_images/Lucky Ladys Charm (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 6).webp",
+        "game_reviews/processed_images/Lucky Ladys Charm (Version 1).webp"
+    ],
+    "slug": "lucky-ladys-charm",
+    "name": "Lucky Lady’s Charm",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Offers 243 ways to win instead of paylines",
-                    "Well-detailed and thematic symbols",
+                    "243 ways to win instead of paylines",
+                    "Thematic and well-detailed symbols",
                     "Special feature with free spins and stacked symbols",
-                    "Higher theoretical RTP than most slot games"
+                    "Fun and enjoyable cartoon-style graphics"
                 ],
                 "cons": [
-                    "Medium-high volatility can lead to infrequent small wins",
-                    "No progressive jackpot"
+                    "Medium-high volatility",
+                    "Not frequent small wins"
                 ],
-                "meta_title": "Play Full Moon Madness Slot Game for Free - Review",
-                "meta_description": "Read our review of Full Moon Madness, a Skywind slot game with a medium-high volatility, featuring free spins and stacked symbols. Play for free!"
+                "meta_title": "Play Full Moon Madness Free: Exciting Slot Game with Stacked Symbols",
+                "meta_description": "Read our review of Full Moon Madness, a fun and enjoyable slot game with stacked symbols. Play for free and win big!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Full Moon Madness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Structure\n\nFull Moon Madness has a five-reel, three-row structure, and offers 243 ways to win instead of usual paylines. Players can vary the value of the token and bet from a minimum of 0.6 credits up to a maximum of 300 credits per spin. This slot machine has a theoretical RTP of 96.61%, over half a point higher than most slot games. The volatility of this slot machine is medium-high.\n\nSymbols and Payouts\n\nSymbols are entirely thematic and well-detailed. Those that pay least include the bone, beetle and torch, offering wins up to 10 times the token value. The highest-paying symbols are the Mummy, Werewolf, Frankenstein, and Count Dracula. The scatter symbol is the haunted castle with the full moon in the background. Five Count Dracula symbols in an alignment offer wins equal to 50 times the bet value. The wild symbol is represented by the slot machine logo, which acts as a wild card and replaces all other symbols except the Scatter in completing a winning combination. The wild symbol also pays in combinations of identical symbols, up to 100 times the bet.\n\nSpecial Features and Bonuses\n\nFull Moon Madness offers a special feature when six or more scatter symbols appear on the reel. Players then have access to free spins where all symbols become Stacked. The bonus feature allows for various multipliers, making winnings even more interesting.\n\nBetting Options\n\nPlayers can bet from a minimum of 0.6 credits up to a maximum of 300 credits per spin on Full Moon Madness. This slot game has a theoretical RTP of 96.61%, which is higher than most slot games. The volatility of the slot machine is medium-high, which means players shouldn't expect frequent small wins.\n\nTheme and Design\n\nFull Moon Madness is a Skywind slot game with a theme inspired by the cartoon \"Carletto il principe dei mostri\" featuring monsters including vampires, werewolves, mummies and Frankenstein. The game graphics are in cartoon style with the monsters peeking out above the slot title on the initial screen. The reels are against the backdrop of a haunted castle and the symbols are well-detailed, maki\u001f\u001fng it a really enjoyable and fun gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Full Moon Madness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Structure\n\nFull Moon Madness has a five-reel, three-row structure, and offers 243 ways to win instead of usual paylines. Players can vary the value of the token and bet from a minimum of 0.6 credits up to a maximum of 300 credits per spin. This slot machine has a theoretical RTP of 96.61%, over half a point higher than most slot games. The volatility of this slot machine is medium-high.\n\nSymbols and Payouts\n\nSymbols are entirely thematic and well-detailed. Those that pay least include the bone, beetle and torch, offering wins up to 10 times the token value. The highest-paying symbols are the Mummy, Werewolf, Frankenstein, and Count Dracula. The scatter symbol is the haunted castle with the full moon in the background. Five Count Dracula symbols in an alignment offer wins equal to 50 times the bet value. The wild symbol is represented by the slot machine logo, which acts as a wild card and replaces all other symbols except the Scatter in completing a winning combination. The wild symbol also pays in combinations of identical symbols, up to 100 times the bet.\n\nSpecial Features and Bonuses\n\nFull Moon Madness offers a special feature when six or more scatter symbols appear on the reel. Players then have access to free spins where all symbols become Stacked. The bonus feature allows for various multipliers, making winnings even more interesting.\n\nBetting Options\n\nPlayers can bet from a minimum of 0.6 credits up to a maximum of 300 credits per spin on Full Moon Madness. This slot game has a theoretical RTP of 96.61%, which is higher than most slot games. The volatility of the slot machine is medium-high, which means players shouldn't expect frequent small wins.\n\nTheme and Design\n\nFull Moon Madness is a Skywind slot game with a theme inspired by the cartoon \"Carletto il principe dei mostri\" featuring monsters including vampires, werewolves, mummies and Frankenstein. The game graphics are in cartoon style with the monsters peeking out above the slot title on the initial screen. The reels are against the backdrop of a haunted castle and the symbols are well-detailed, maki\u001f\u001fng it a really enjoyable and fun gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TMLrG7bS6jN7W5YP3UApgoANbuu3",
+                "id": "chatcmpl-7WTXIkyocHly38uShSJJL5o1bJ4zt",
                 "object": "chat.completion",
-                "created": 1687231787,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 640,
-                    "completion_tokens": 133,
-                    "total_tokens": 773
-                },
+                "created": 1687974388,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Offers 243 ways to win instead of paylines\",\n        \"Well-detailed and thematic symbols\",\n        \"Special feature with free spins and stacked symbols\",\n        \"Higher theoretical RTP than most slot games\"\n    ],\n    \"cons\": [\n        \"Medium-high volatility can lead to infrequent small wins\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Full Moon Madness Slot Game for Free - Review\",\n    \"meta_description\": \"Read our review of Full Moon Madness, a Skywind slot game with a medium-high volatility, featuring free spins and stacked symbols. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"243 ways to win instead of paylines\",\n    \"Thematic and well-detailed symbols\",\n    \"Special feature with free spins and stacked symbols\",\n    \"Fun and enjoyable cartoon-style graphics\"\n  ],\n  \"cons\": [\n    \"Medium-high volatility\",\n    \"Not frequent small wins\"\n  ],\n  \"meta_title\": \"Play Full Moon Madness Free: Exciting Slot Game with Stacked Symbols\",\n  \"meta_description\": \"Read our review of Full Moon Madness, a fun and enjoyable slot game with stacked symbols. Play for free and win big!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 637,
+                    "completion_tokens": 123,
+                    "total_tokens": 760
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/full-moon-madness.json"
+    "filename": "game_reviews/translations/full-moon-madness.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_fff2324c-fa4a-4177-8ec7-2142019d0dcf_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_fff2324c-fa4a-4177-8ec7-2142019d0dcf_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_fff2324c-fa4a-4177-8ec7-2142019d0dcf_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_94922b40-7488-48ac-8a66-26eaffb69cb2_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_fff2324c-fa4a-4177-8ec7-2142019d0dcf_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_94922b40-7488-48ac-8a66-26eaffb69cb2_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_94922b40-7488-48ac-8a66-26eaffb69cb2_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Full_Moo_94922b40-7488-48ac-8a66-26eaffb69cb2_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Full Moon Madness (Version 5).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 3).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 4).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 1).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 6).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 2).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 8).webp",
+        "game_reviews/processed_images/Full Moon Madness (Version 7).webp"
+    ],
+    "slug": "full-moon-madness",
+    "name": "Full Moon Madness",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Full-Moon-Madness-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Full Moon Madness Free: Exciting Slot Game with Stacked Symbols' ### Meta set: 'Read our review of Full Moon Madness, a fun and enjoyable slot game with stacked symbols. Play for free and win big!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

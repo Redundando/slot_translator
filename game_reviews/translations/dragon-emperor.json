@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Well-crafted graphics & engaging mystical atmosphere",
-                    "Free Spins feature with up to 15 spins & 40X multiplier",
-                    "Numerous opportunities for players to win with 243 ways to form winning combinations",
-                    "RISK feature allows players to double their winnings"
+                    "Engaging theme and storyline",
+                    "High-quality graphics and visuals",
+                    "Multiple betting options",
+                    "Exciting bonus features"
                 ],
                 "cons": [
-                    "Limited betting options for high rollers",
-                    "No progressive jackpot feature"
+                    "Limited maximum bet amount",
+                    "Risk feature may result in loss of winnings"
                 ],
-                "meta_title": "Play the Free Dragon Emperor Slot by Aristocrat - Review",
-                "meta_description": "Discover the Dragon Emperor online slot game from Aristocrat, play for free, win with numerous betting options & free spins up to 15 and 40X multiplier."
+                "meta_title": "Play Dragon Emperor Slot Game Free: Review and Bonuses",
+                "meta_description": "Discover the Dragon Emperor online slot game – play for free, read a review, and find exclusive bonuses."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Emperor\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon Emperor Slot Game Overview\n\nDragon Emperor is an online slot game developed by Aristocrat, an Australian gaming provider. This free-to-play slot game is themed on the legend of the Dragon Emperor, where players are on a quest to find the precious treasures protected by the fierce Dragon, all while being surrounded by a magical ambiance.\n\nGame Features and Symbols\n\nThe game is structured with 5 reels and offers 243 ways to form winning combinations, providing players with numerous opportunities to win. The minimum bet is €0.01, while the maximum bet is €60.00. Players can use the RISK feature to double their real money winnings by selecting the color of the card - red or black. In the game, the Golden Dragon symbol acts as the Wild and can replace all other symbols, except for the Scatter, to create a winning combination. The Golden Square is the Scatter symbol, which is used to activate the Free Spins feature.\n\nWinning Combinations and Betting Options\n\nThe Dragon Emperor online slot game offers players various betting options, with the minimum bet starting from €0.01 and a maximum bet of €60.00. The game offers 243 ways to form winning combinations, providing numerous opportunities for players to increase their winnings. Players can also use the RISK feature to double their real money winnings by selecting the color of the card - red or black.\n\nGraphics and Sound Effects\n\nThe graphics in Dragon Emperor are well-crafted, immersing players in a magical and mystical world throughout the game. The soundtrack is impactful and in line with the theme of the legendary Dragon Emperor and his treasure, contributing to the overall engaging experience of playing this online slot game.\n\nPlaying Options and Bonuses\n\nDragon Emperor offers various playing options for players, including the option to play for free in demo mode or with real money. Additionally, players can take advantage of the fantastic welcome bonus and deposit bonus promotions offered by AAMS certified online casinos. The game comes with a Shuffle Reel extra feature that can be activated when three Golden Dragon symbols land on the five reels. With the Golden Dragon acting as the Wild symbol, it can also magically appear on the fifth reel alongside the Free Spins feature, further increasing players' chances of winning. The Golden Square Scatter symbol can trigger the Free Spins feature, giving players the chance to win up to 15 free spins, with a maximum multiplier of 40X when five scatter symbols appear on the reels.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Emperor\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon Emperor Slot Game Overview\n\nDragon Emperor is an online slot game developed by Aristocrat, an Australian gaming provider. This free-to-play slot game is themed on the legend of the Dragon Emperor, where players are on a quest to find the precious treasures protected by the fierce Dragon, all while being surrounded by a magical ambiance.\n\nGame Features and Symbols\n\nThe game is structured with 5 reels and offers 243 ways to form winning combinations, providing players with numerous opportunities to win. The minimum bet is €0.01, while the maximum bet is €60.00. Players can use the RISK feature to double their real money winnings by selecting the color of the card - red or black. In the game, the Golden Dragon symbol acts as the Wild and can replace all other symbols, except for the Scatter, to create a winning combination. The Golden Square is the Scatter symbol, which is used to activate the Free Spins feature.\n\nWinning Combinations and Betting Options\n\nThe Dragon Emperor online slot game offers players various betting options, with the minimum bet starting from €0.01 and a maximum bet of €60.00. The game offers 243 ways to form winning combinations, providing numerous opportunities for players to increase their winnings. Players can also use the RISK feature to double their real money winnings by selecting the color of the card - red or black.\n\nGraphics and Sound Effects\n\nThe graphics in Dragon Emperor are well-crafted, immersing players in a magical and mystical world throughout the game. The soundtrack is impactful and in line with the theme of the legendary Dragon Emperor and his treasure, contributing to the overall engaging experience of playing this online slot game.\n\nPlaying Options and Bonuses\n\nDragon Emperor offers various playing options for players, including the option to play for free in demo mode or with real money. Additionally, players can take advantage of the fantastic welcome bonus and deposit bonus promotions offered by AAMS certified online casinos. The game comes with a Shuffle Reel extra feature that can be activated when three Golden Dragon symbols land on the five reels. With the Golden Dragon acting as the Wild symbol, it can also magically appear on the fifth reel alongside the Free Spins feature, further increasing players' chances of winning. The Golden Square Scatter symbol can trigger the Free Spins feature, giving players the chance to win up to 15 free spins, with a maximum multiplier of 40X when five scatter symbols appear on the reels.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T6zC0JzWGcyakyRxfZ0lrDm9TiBj",
+                "id": "chatcmpl-7WRe94GT8egkHfhBIFJ9rJrN7fC3o",
                 "object": "chat.completion",
-                "created": 1687172722,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 670,
-                    "completion_tokens": 150,
-                    "total_tokens": 820
-                },
+                "created": 1687967125,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Well-crafted graphics & engaging mystical atmosphere\",\n        \"Free Spins feature with up to 15 spins & 40X multiplier\",\n        \"Numerous opportunities for players to win with 243 ways to form winning combinations\",\n        \"RISK feature allows players to double their winnings\"\n    ],\n    \"cons\": [\n        \"Limited betting options for high rollers\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play the Free Dragon Emperor Slot by Aristocrat - Review\",\n    \"meta_description\": \"Discover the Dragon Emperor online slot game from Aristocrat, play for free, win with numerous betting options & free spins up to 15 and 40X multiplier.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging theme and storyline\",\n    \"High-quality graphics and visuals\",\n    \"Multiple betting options\",\n    \"Exciting bonus features\"\n  ],\n  \"cons\": [\n    \"Limited maximum bet amount\",\n    \"Risk feature may result in loss of winnings\"\n  ],\n  \"meta_title\": \"Play Dragon Emperor Slot Game Free: Review and Bonuses\",\n  \"meta_description\": \"Discover the Dragon Emperor online slot game – play for free, read a review, and find exclusive bonuses.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 667,
+                    "completion_tokens": 109,
+                    "total_tokens": 776
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_4.png",
         "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_3.png",
         "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_1.png",
+        "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_4.png",
         "arved__Create_an_image_to_capture_the_essence_of_the_Dragon_Emp_d5d01f8b-3637-4556-9e6d-cb303448f118_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Dragon Emperor (Version 1).webp",
-        "game_reviews/processed_images/Dragon Emperor (Version 3).webp",
         "game_reviews/processed_images/Dragon Emperor (Version 4).webp",
+        "game_reviews/processed_images/Dragon Emperor (Version 3).webp",
         "game_reviews/processed_images/Dragon Emperor (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/dragon-emperor.json"
+    "filename": "game_reviews/translations/dragon-emperor.json",
+    "slug": "dragon-emperor",
+    "name": "Dragon Emperor",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Emperor-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Emperor Slot Game Free: Review and Bonuses' ### Meta set: 'Discover the Dragon Emperor online slot game – play for free, read a review, and find exclusive bonuses.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting Egyptian theme",
-                    "Solid potential payouts",
+                    "Prevalent and popular theme of ancient Egypt",
+                    "Beautiful graphics and well-crafted design",
                     "Approachable for players of all levels",
-                    "Well-crafted graphics"
+                    "Solid potential payouts and exciting special features"
                 ],
                 "cons": [
-                    "Limited special features",
-                    "Traditional playing cards symbols"
+                    "Limited number of paylines",
+                    "Limited number of special features"
                 ],
-                "meta_title": "Play 'Ancient Egypt' Free - Exciting Egyptian Slot Machine",
-                "meta_description": "Explore solid payout potential in this Egyptian themed game with well-crafted graphics. Play 'Ancient Egypt' for free and check it out today."
+                "meta_title": "Play Ancient Egypt Free - Exciting Ancient Egyptian Themed Slot Game",
+                "meta_description": "Read our review of Ancient Egypt, an enjoyable and potentially rewarding slot game. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ancient Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAncient Egypt as a prevalent theme in slot games\n\nThe theme of ancient Egypt is one of the most developed in the world of slot games, with practically all major software companies offering one or more variations in their catalog. This theme never seems to tire players and offers manufacturers the opportunity to indulge in beautiful graphics, as is the case with Pragmatic Play's 'Ancient Egypt'.\n\nGame mechanics and specifications\n\n'Ancient Egypt' is a five-reel slot machine with 10 paylines and a betting range of 10 cents to 50 €, making it approachable for players of all levels. The maximum win of 5000 times the amount wagered makes it a game that is worth checking out. The volatility of this slot is medium-high, with an RTP of 96.13%.\n\nSymbol values and significance\n\nThe thematic symbols in 'Ancient Egypt' include Queen Cleopatra, paying €250 when appearing five times, the Eye of Ra, the deity Anobi, and the Egyptian cross, each with different values. The traditional playing cards from ten to ace are also present, with the lowest value. The Golden Scarab acts as both Wild and Scatter and pays a win equal to 1, 10, or 50 times the bet when appearing three, four, or five times.\n\nSpecial features and potential payouts\n\nThe Golden Scarab allows players to access the game's only special feature, where choosing one of three boxes on the screen can lead to winning a prize, ranging from the bet to up to 500 times the bet. The game also offers free spins, and a randomly chosen symbol will become an expandable Wild during these spins, which can lead to the jackpot of 5000 times the bet if Queen Cleopatra covers the entire screen.\n\nOverall design and gaming experience\n\n'Ancient Egypt' is an enjoyable slot machine experience with solid potential payouts and an exciting Egyptian theme. The graphics are well-crafted, and the game mechanics are approachable for players of all levels. It is a game worth checking out for anyone who enjoys exploring the world of slot machines.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ancient Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nAncient Egypt as a prevalent theme in slot games\n\nThe theme of ancient Egypt is one of the most developed in the world of slot games, with practically all major software companies offering one or more variations in their catalog. This theme never seems to tire players and offers manufacturers the opportunity to indulge in beautiful graphics, as is the case with Pragmatic Play's 'Ancient Egypt'.\n\nGame mechanics and specifications\n\n'Ancient Egypt' is a five-reel slot machine with 10 paylines and a betting range of 10 cents to 50 €, making it approachable for players of all levels. The maximum win of 5000 times the amount wagered makes it a game that is worth checking out. The volatility of this slot is medium-high, with an RTP of 96.13%.\n\nSymbol values and significance\n\nThe thematic symbols in 'Ancient Egypt' include Queen Cleopatra, paying €250 when appearing five times, the Eye of Ra, the deity Anobi, and the Egyptian cross, each with different values. The traditional playing cards from ten to ace are also present, with the lowest value. The Golden Scarab acts as both Wild and Scatter and pays a win equal to 1, 10, or 50 times the bet when appearing three, four, or five times.\n\nSpecial features and potential payouts\n\nThe Golden Scarab allows players to access the game's only special feature, where choosing one of three boxes on the screen can lead to winning a prize, ranging from the bet to up to 500 times the bet. The game also offers free spins, and a randomly chosen symbol will become an expandable Wild during these spins, which can lead to the jackpot of 5000 times the bet if Queen Cleopatra covers the entire screen.\n\nOverall design and gaming experience\n\n'Ancient Egypt' is an enjoyable slot machine experience with solid potential payouts and an exciting Egyptian theme. The graphics are well-crafted, and the game mechanics are approachable for players of all levels. It is a game worth checking out for anyone who enjoys exploring the world of slot machines.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SWwdQvc16udJA1UK88RInDH2cs9u",
+                "id": "chatcmpl-7WNFmgnu6uH60IIEVV683BtORAGTE",
                 "object": "chat.completion",
-                "created": 1687034179,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 116,
-                    "total_tokens": 720
-                },
+                "created": 1687950238,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting Egyptian theme\",\n        \"Solid potential payouts\",\n        \"Approachable for players of all levels\",\n        \"Well-crafted graphics\"\n    ],\n    \"cons\": [\n        \"Limited special features\",\n        \"Traditional playing cards symbols\"\n    ],\n    \"meta_title\": \"Play 'Ancient Egypt' Free - Exciting Egyptian Slot Machine\",\n    \"meta_description\": \"Explore solid payout potential in this Egyptian themed game with well-crafted graphics. Play 'Ancient Egypt' for free and check it out today.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Prevalent and popular theme of ancient Egypt\",\n    \"Beautiful graphics and well-crafted design\",\n    \"Approachable for players of all levels\",\n    \"Solid potential payouts and exciting special features\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Limited number of special features\"\n  ],\n  \"meta_title\": \"Play Ancient Egypt Free - Exciting Ancient Egyptian Themed Slot Game\",\n  \"meta_description\": \"Read our review of Ancient Egypt, an enjoyable and potentially rewarding slot game. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 601,
+                    "completion_tokens": 120,
+                    "total_tokens": 721
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/ancient-egypt.json",
     "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_4.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_2.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_1.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_3.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_4.png"
+        "arved__Please_create_a_cartoon-style_feature_image_for_Ancient__76a0d1bc-849c-4eb3-92d8-4d935207d61e_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Ancient Egypt (Version 3).webp",
+        "game_reviews/processed_images/Ancient Egypt (Version 4).webp",
         "game_reviews/processed_images/Ancient Egypt (Version 2).webp",
-        "game_reviews/processed_images/Ancient Egypt (Version 1).webp",
-        "game_reviews/processed_images/Ancient Egypt (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Ancient Egypt (Version 3).webp",
+        "game_reviews/processed_images/Ancient Egypt (Version 1).webp"
+    ],
+    "slug": "ancient-egypt",
+    "name": "Ancient Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ancient-Egypt-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ancient Egypt Free - Exciting Ancient Egyptian Themed Slot Game' ### Meta set: 'Read our review of Ancient Egypt, an enjoyable and potentially rewarding slot game. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

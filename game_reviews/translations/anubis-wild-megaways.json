@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting cascade method for winning combinations",
-                    "Lucrative free spin Bonus game",
-                    "Appealing ancient Egyptian theme",
-                    "Players can set automatic spins and win/loss limits"
+                    "Expanding game board with Megaways mechanic",
+                    "Auto spin and win/loss limit options",
+                    "Ability to reverse reel position for left-handed players",
+                    "Engaging theme and graphics"
                 ],
                 "cons": [
-                    "The RTP is average compared to other Megaways games",
-                    "Not all players may enjoy the ancient Egyptian theme"
+                    "Bonus game can only be activated by landing scatters",
+                    "Bonus game can also be purchased, which may not appeal to all players"
                 ],
-                "meta_title": "Play Anubis Wild Megaways Free - Exciting Cascading Features",
-                "meta_description": "Read our review of Anubis Wild Megaways slot game with an ancient Egyptian theme. Try it for free with exciting cascading features and free spin Bonus game."
+                "meta_title": "Play Anubis Wild Megaways Free | Review and Features",
+                "meta_description": "Discover the features and gameplay of Anubis Wild Megaways in this free slot game review."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Anubis Wild Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAnubis Wild Megaways features a 6 reel, 5 line basic game board that expands to six lines at the top. Symbols are variable in size, ranging from 2 to 6. The game allows players to set automatic spins and win and loss limits. Players can also reverse the position of the reels using the Left-Handed slider. The game's RTP is 95.9%.\n\nGraphics and Design\n\nAnubis Wild Megaways sets the reels in a mortuary room background adorned with hieroglyphics. The symbols featured include the jackal-headed Anubis, Cleopatra, golden scarabs, the Eye of Horus, pyramids, sphinxes, and playing cards. Orient melodies increase in intensity with each spin to accompany the playing experience.\n\nPayouts and RTP\n\nAnubis Wild Megaways' theoretical return to player (RTP) is 95.9%. The game accepts a total bet from €0.20 to €20 and features symbols with varying values. The most lucrative symbol in the game is the Eye of Horus.\n\nBonus Features\n\nAnubis Wild Megaways utilizes a cascade method whereby winning combinations activate cascading symbols. The God Anubis acts as the Wild symbol and substitutes for all symbols except the Scatter. Meanwhile, the Scatter symbol features the pyramid with a Bonus inscription. Upon landing three or more scatters anywhere on the grid, players activate the Bonus game, which rewards them with free spins. During the Bonus game, the Wild symbol is locked on reels 2, 3, 4, and 5. The Bonus game can alternatively be purchased. Players are given an option to increase the number of free spins or receive a mysterious cash prize before the Bonus game begins.\n\nTheme and Concept\n\nAnubis Wild Megaways is a slot game set in ancient Egypt, following the cult of Anubis, the god of cemeteries and the dead. Symbols prominently featured in the game include Anubis, Cleopatra, scarabs, the Eye of Horus, pyramids, and sphinxes. The background is a mortuary room with hieroglyphics. Sound effects supply an oriental melody that increases in volume with each spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Anubis Wild Megaways\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAnubis Wild Megaways features a 6 reel, 5 line basic game board that expands to six lines at the top. Symbols are variable in size, ranging from 2 to 6. The game allows players to set automatic spins and win and loss limits. Players can also reverse the position of the reels using the Left-Handed slider. The game's RTP is 95.9%.\n\nGraphics and Design\n\nAnubis Wild Megaways sets the reels in a mortuary room background adorned with hieroglyphics. The symbols featured include the jackal-headed Anubis, Cleopatra, golden scarabs, the Eye of Horus, pyramids, sphinxes, and playing cards. Orient melodies increase in intensity with each spin to accompany the playing experience.\n\nPayouts and RTP\n\nAnubis Wild Megaways' theoretical return to player (RTP) is 95.9%. The game accepts a total bet from €0.20 to €20 and features symbols with varying values. The most lucrative symbol in the game is the Eye of Horus.\n\nBonus Features\n\nAnubis Wild Megaways utilizes a cascade method whereby winning combinations activate cascading symbols. The God Anubis acts as the Wild symbol and substitutes for all symbols except the Scatter. Meanwhile, the Scatter symbol features the pyramid with a Bonus inscription. Upon landing three or more scatters anywhere on the grid, players activate the Bonus game, which rewards them with free spins. During the Bonus game, the Wild symbol is locked on reels 2, 3, 4, and 5. The Bonus game can alternatively be purchased. Players are given an option to increase the number of free spins or receive a mysterious cash prize before the Bonus game begins.\n\nTheme and Concept\n\nAnubis Wild Megaways is a slot game set in ancient Egypt, following the cult of Anubis, the god of cemeteries and the dead. Symbols prominently featured in the game include Anubis, Cleopatra, scarabs, the Eye of Horus, pyramids, and sphinxes. The background is a mortuary room with hieroglyphics. Sound effects supply an oriental melody that increases in volume with each spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SXTEBd9Z24s1oth84gBwAvRWCi3Y",
+                "id": "chatcmpl-7WNJGzKQUns4vu7AhIcOGb1YxpArP",
                 "object": "chat.completion",
-                "created": 1687036200,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 640,
-                    "completion_tokens": 144,
-                    "total_tokens": 784
-                },
+                "created": 1687950454,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting cascade method for winning combinations\",\n        \"Lucrative free spin Bonus game\",\n        \"Appealing ancient Egyptian theme\",\n        \"Players can set automatic spins and win/loss limits\"\n    ],\n    \"cons\": [\n        \"The RTP is average compared to other Megaways games\",\n        \"Not all players may enjoy the ancient Egyptian theme\"\n    ],\n    \"meta_title\": \"Play Anubis Wild Megaways Free - Exciting Cascading Features\",\n    \"meta_description\": \"Read our review of Anubis Wild Megaways slot game with an ancient Egyptian theme. Try it for free with exciting cascading features and free spin Bonus game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Expanding game board with Megaways mechanic\",\n    \"Auto spin and win/loss limit options\",\n    \"Ability to reverse reel position for left-handed players\",\n    \"Engaging theme and graphics\"\n  ],\n  \"cons\": [\n    \"Bonus game can only be activated by landing scatters\",\n    \"Bonus game can also be purchased, which may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Anubis Wild Megaways Free | Review and Features\",\n  \"meta_description\": \"Discover the features and gameplay of Anubis Wild Megaways in this free slot game review.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 637,
+                    "completion_tokens": 133,
+                    "total_tokens": 770
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/anubis-wild-megaways.json",
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_3.png",
+        "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_1.png",
         "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_4.png",
         "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_2.png",
-        "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_1.png"
+        "arved__Prompt_for_DALLE_Create_an_engaging_feature_image_for_An_f0dacbcd-2572-426a-9752-8a0c2b1cb3bb_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Anubis Wild Megaways (Version 4).webp",
+        "game_reviews/processed_images/Anubis Wild Megaways (Version 1).webp",
         "game_reviews/processed_images/Anubis Wild Megaways (Version 3).webp",
-        "game_reviews/processed_images/Anubis Wild Megaways (Version 2).webp",
-        "game_reviews/processed_images/Anubis Wild Megaways (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Anubis Wild Megaways (Version 4).webp",
+        "game_reviews/processed_images/Anubis Wild Megaways (Version 2).webp"
+    ],
+    "slug": "anubis-wild-megaways",
+    "name": "Anubis Wild Megaways",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Anubis-Wild-Megaways-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Anubis Wild Megaways Free | Review and Features' ### Meta set: 'Discover the features and gameplay of Anubis Wild Megaways in this free slot game review.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

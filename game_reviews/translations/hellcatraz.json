@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High amount of paylines for increased winning potential",
-                    "Exciting bonus features including Super Free Spin and Lockdown Bonus",
-                    "Retro-style graphics offer a unique arcade-style experience",
-                    "Wide range of betting options for all types of players"
+                    "High number of paylines for increased winning potential",
+                    "Unique 8-bit graphics offer a retro arcade-style experience",
+                    "Exciting bonus features including Super Free Spin and Cascading Reels",
+                    "Lockdown Bonus feature triggers free spins for big wins"
                 ],
                 "cons": [
-                    "Graphics may not appeal to all players",
-                    "May seem overwhelming to new players due to high number of paylines"
+                    "Graphics may not appeal to new players",
+                    "Limited betting range from 0.20 to 20 coins"
                 ],
-                "meta_title": "Play Hellcatraz for Free - Review of Retro-Styled Slot Game",
-                "meta_description": "Read our review of Hellcatraz, a retro-style slot game with exciting bonus features. Play for free and maximize your winnings with Super Free Spin and Lockdown Bonus."
+                "meta_title": "Play Hellcatraz Slot for Free",
+                "meta_description": "Get ready to play Hellcatraz, a retro-inspired slot game with exciting bonus features, for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hellcatraz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nHellcatraz is a 6x6 grid slot machine with 46,656 paylines and an RTP of 96.46%. Players can place bets ranging from 0.20 to 20 coins and can use the Super Free Spin function to maximize their winnings. To win, players must create combinations of three or more symbols on the game board, landing the icons from left to right. Cascading reels are activated when players get a credit, which brings in new symbols to increase the potential for winnings.\n\nPaylines\n\nHellcatraz has 46,656 paylines, which is a high number compared to other slot games. The amount of paylines offered significantly increases the potential for winning and allows players to create a variety of different winning combinations.\n\nSymbols\n\nHellcatraz's symbols are inspired by the Alcatraz prison, with the main characters being a mafioso and a prison guard. Other symbols include Cards, Handcuffs, Badges, and Sharks. The W symbol acts as the Wild and can replace other icons to help players form winning combinations. Finally, the Scatter symbol represents the mystery of the slot and is crucial for triggering bonus features.\n\nGraphics\n\nHellcatraz's graphics are designed to offer players a retro style that aligns perfectly with the 80s. The machine aims to provide high volatility and excellent payouts through slightly dated graphics. The choice to rely on 8-bit graphics is unique and may catch the attention of more experienced gamblers while going unnoticed by new players. The graphics may provide an arcade-style experience, which is unusual in modern-day slot machines.\n\nBonus Features\n\nHellcatraz has exciting bonus features to keep players engaged. The Super Free Spin function is available to maximize the value of the prize won, while the Cascading Reels feature brings in new symbols to increase the potential for winnings. The W symbol allows players to get immediate winnings and replaces other icons to help players form lucky combos. The Scatter symbol triggers the Lockdown Bonus feature, allowing players to earn free spins and increasing the chances of hitting the big score.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hellcatraz\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nHellcatraz is a 6x6 grid slot machine with 46,656 paylines and an RTP of 96.46%. Players can place bets ranging from 0.20 to 20 coins and can use the Super Free Spin function to maximize their winnings. To win, players must create combinations of three or more symbols on the game board, landing the icons from left to right. Cascading reels are activated when players get a credit, which brings in new symbols to increase the potential for winnings.\n\nPaylines\n\nHellcatraz has 46,656 paylines, which is a high number compared to other slot games. The amount of paylines offered significantly increases the potential for winning and allows players to create a variety of different winning combinations.\n\nSymbols\n\nHellcatraz's symbols are inspired by the Alcatraz prison, with the main characters being a mafioso and a prison guard. Other symbols include Cards, Handcuffs, Badges, and Sharks. The W symbol acts as the Wild and can replace other icons to help players form winning combinations. Finally, the Scatter symbol represents the mystery of the slot and is crucial for triggering bonus features.\n\nGraphics\n\nHellcatraz's graphics are designed to offer players a retro style that aligns perfectly with the 80s. The machine aims to provide high volatility and excellent payouts through slightly dated graphics. The choice to rely on 8-bit graphics is unique and may catch the attention of more experienced gamblers while going unnoticed by new players. The graphics may provide an arcade-style experience, which is unusual in modern-day slot machines.\n\nBonus Features\n\nHellcatraz has exciting bonus features to keep players engaged. The Super Free Spin function is available to maximize the value of the prize won, while the Cascading Reels feature brings in new symbols to increase the potential for winnings. The W symbol allows players to get immediate winnings and replaces other icons to help players form lucky combos. The Scatter symbol triggers the Lockdown Bonus feature, allowing players to earn free spins and increasing the chances of hitting the big score.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TpeHrP6hUeEAwxGy7uvdisvi8LLF",
+                "id": "chatcmpl-7WUidaHCSqerd9og99jb9JykkMNlI",
                 "object": "chat.completion",
-                "created": 1687344405,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978935,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High amount of paylines for increased winning potential\",\n        \"Exciting bonus features including Super Free Spin and Lockdown Bonus\",\n        \"Retro-style graphics offer a unique arcade-style experience\",\n        \"Wide range of betting options for all types of players\"\n    ],\n    \"cons\": [\n        \"Graphics may not appeal to all players\",\n        \"May seem overwhelming to new players due to high number of paylines\"\n    ],\n    \"meta_title\": \"Play Hellcatraz for Free - Review of Retro-Styled Slot Game\",\n    \"meta_description\": \"Read our review of Hellcatraz, a retro-style slot game with exciting bonus features. Play for free and maximize your winnings with Super Free Spin and Lockdown Bonus.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High number of paylines for increased winning potential\",\n    \"Unique 8-bit graphics offer a retro arcade-style experience\",\n    \"Exciting bonus features including Super Free Spin and Cascading Reels\",\n    \"Lockdown Bonus feature triggers free spins for big wins\"\n  ],\n  \"cons\": [\n    \"Graphics may not appeal to new players\",\n    \"Limited betting range from 0.20 to 20 coins\"\n  ],\n  \"meta_title\": \"Play Hellcatraz Slot for Free\",\n  \"meta_description\": \"Get ready to play Hellcatraz, a retro-inspired slot game with exciting bonus features, for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 598,
-                    "completion_tokens": 158,
-                    "total_tokens": 756
+                    "prompt_tokens": 595,
+                    "completion_tokens": 138,
+                    "total_tokens": 733
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hellcatraz.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Hellcatraz_t_b5ac34d5-998a-4907-a943-b17ec375afa9_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Hellcatraz_t_b5ac34d5-998a-4907-a943-b17ec375afa9_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Hellcatraz_t_b5ac34d5-998a-4907-a943-b17ec375afa9_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Hellcatraz_t_b5ac34d5-998a-4907-a943-b17ec375afa9_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hellcatraz (Version 1).webp",
+        "game_reviews/processed_images/Hellcatraz (Version 2).webp",
+        "game_reviews/processed_images/Hellcatraz (Version 4).webp",
+        "game_reviews/processed_images/Hellcatraz (Version 3).webp"
+    ],
+    "slug": "hellcatraz",
+    "name": "Hellcatraz",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hellcatraz-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hellcatraz Slot for Free' ### Meta set: 'Get ready to play Hellcatraz, a retro-inspired slot game with exciting bonus features, for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

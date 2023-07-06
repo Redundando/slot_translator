@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Straightforward gameplay with no special features",
-                    "Excellent RTP of 96.33%",
-                    "Two Gamble modes to choose from",
-                    "Payout level becomes really interesting with the bell and 7 symbols"
+                    "Simple and straightforward gameplay",
+                    "Ability to adjust game settings",
+                    "High RTP of 96.33%",
+                    "Option to play with Autostart feature"
                 ],
                 "cons": [
-                    "No free spins or other bonus features",
-                    "High maximum bet of €5,000 may be too steep for some players"
+                    "Lack of special features",
+                    "High maximum bet of €5,000"
                 ],
-                "meta_title": "Play Fruitnation for Free - Classic Slot Game Review",
-                "meta_description": "Read our review of Fruitnation, a classic slot game with an excellent RTP of 96.33%. Play for free and explore its straightforward gameplay and Gamble feature."
+                "meta_title": "Play Fruitnation Slot for Free",
+                "meta_description": "Read our review of Fruitnation, a classic slot game with straightforward gameplay. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruitnation\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nFruitnation is a classic slot game brought to us by Bally with straightforward gameplay and no special features. It has 5 reels and 3 rows, with 5 fixed pay lines and the Autostart button for automatic spins. The game's settings menu allows you to disable the sound, the Gamble feature, and increase the reels' rotation speed. Fruitnation has an excellent RTP of 96.33%.\n\nSymbols and Paylines\n\nThe game has just 7 symbols, with the cherry paying out even for a pair, the orange and lemon next, followed by the plum and watermelon, and then the bell and number 7 symbols. The payout level becomes really interesting with the bell symbol, which pays out €2,500 for five symbols, and the number 7 symbol, which pays €5,000 for five symbols on the reels. Winning combinations are formed from left to right.\n\nMinimum and Maximum Bets\n\nThe minimum bet in Fruitnation is €5, while the maximum is €5,000, a sum that is not for the faint of heart. The Autostart button can be used to initiate automatic spins, but there is no limit to how many spins can be set in advance. To stop the Autostart mode, simply click the same button again.\n\nGamble Feature\n\nFruitnation offers two Gamble modes to choose from after each win: the card game and the ladder game. In the card game, you need to bet on the colour of the card, choosing between red and black. If you are correct, you will double your bet up to a maximum of €150, otherwise, you will lose everything. In the ladder game, you need to climb the ladder by guessing the higher amount, up to a maximum of €150. If you are wrong, you will lose everything.\n\nReturn to Player (RTP) Percentage\n\nFruitnation has an excellent RTP of 96.33%, which is above the average for most slot games. This means that, on average, for every €100 wagered, €96.33 is returned to the player over an extended period of time.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruitnation\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nFruitnation is a classic slot game brought to us by Bally with straightforward gameplay and no special features. It has 5 reels and 3 rows, with 5 fixed pay lines and the Autostart button for automatic spins. The game's settings menu allows you to disable the sound, the Gamble feature, and increase the reels' rotation speed. Fruitnation has an excellent RTP of 96.33%.\n\nSymbols and Paylines\n\nThe game has just 7 symbols, with the cherry paying out even for a pair, the orange and lemon next, followed by the plum and watermelon, and then the bell and number 7 symbols. The payout level becomes really interesting with the bell symbol, which pays out €2,500 for five symbols, and the number 7 symbol, which pays €5,000 for five symbols on the reels. Winning combinations are formed from left to right.\n\nMinimum and Maximum Bets\n\nThe minimum bet in Fruitnation is €5, while the maximum is €5,000, a sum that is not for the faint of heart. The Autostart button can be used to initiate automatic spins, but there is no limit to how many spins can be set in advance. To stop the Autostart mode, simply click the same button again.\n\nGamble Feature\n\nFruitnation offers two Gamble modes to choose from after each win: the card game and the ladder game. In the card game, you need to bet on the colour of the card, choosing between red and black. If you are correct, you will double your bet up to a maximum of €150, otherwise, you will lose everything. In the ladder game, you need to climb the ladder by guessing the higher amount, up to a maximum of €150. If you are wrong, you will lose everything.\n\nReturn to Player (RTP) Percentage\n\nFruitnation has an excellent RTP of 96.33%, which is above the average for most slot games. This means that, on average, for every €100 wagered, €96.33 is returned to the player over an extended period of time.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TKtv9Q7waLQb2F9QPMpb6nbGwApu",
+                "id": "chatcmpl-7WTObBoeNnd0YtFlkoLOdBwCPSWbz",
                 "object": "chat.completion",
-                "created": 1687226211,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 617,
-                    "completion_tokens": 149,
-                    "total_tokens": 766
-                },
+                "created": 1687973849,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Straightforward gameplay with no special features\",\n        \"Excellent RTP of 96.33%\",\n        \"Two Gamble modes to choose from\",\n        \"Payout level becomes really interesting with the bell and 7 symbols\"\n    ],\n    \"cons\": [\n        \"No free spins or other bonus features\",\n        \"High maximum bet of €5,000 may be too steep for some players\"\n    ],\n    \"meta_title\": \"Play Fruitnation for Free - Classic Slot Game Review\",\n    \"meta_description\": \"Read our review of Fruitnation, a classic slot game with an excellent RTP of 96.33%. Play for free and explore its straightforward gameplay and Gamble feature.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and straightforward gameplay\",\n    \"Ability to adjust game settings\",\n    \"High RTP of 96.33%\",\n    \"Option to play with Autostart feature\"\n  ],\n  \"cons\": [\n    \"Lack of special features\",\n    \"High maximum bet of €5,000\"\n  ],\n  \"meta_title\": \"Play Fruitnation Slot for Free\",\n  \"meta_description\": \"Read our review of Fruitnation, a classic slot game with straightforward gameplay. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 614,
+                    "completion_tokens": 111,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruitnation.json"
+    "filename": "game_reviews/translations/fruitnation.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_4462cda1-59ce-4e29-aefe-e1eec953b39f_1.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_4462cda1-59ce-4e29-aefe-e1eec953b39f_3.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_4462cda1-59ce-4e29-aefe-e1eec953b39f_2.png",
+        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_4462cda1-59ce-4e29-aefe-e1eec953b39f_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruitnation (Version 3).webp",
+        "game_reviews/processed_images/Fruitnation (Version 1).webp",
+        "game_reviews/processed_images/Fruitnation (Version 2).webp",
+        "game_reviews/processed_images/Fruitnation (Version 4).webp"
+    ],
+    "slug": "fruitnation",
+    "name": "Fruitnation",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruitnation-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruitnation Slot for Free' ### Meta set: 'Read our review of Fruitnation, a classic slot game with straightforward gameplay. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

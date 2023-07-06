@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Simple and intuitive gameplay",
                     "Up to 54 ways to win",
-                    "Wild Phoenix symbol can replace all symbols",
-                    "Intuitive gameplay for beginners",
-                    "Big jackpots available"
+                    "Wild symbol substitutes for other symbols",
+                    "Decent jackpots and winning opportunities"
                 ],
                 "cons": [
-                    "Lacks advanced features",
-                    "May not appeal to experienced players"
+                    "Lack of additional special features",
+                    "May not appeal to advanced players"
                 ],
-                "meta_title": "Play Firebird Double 27 Free: Review and Ratings",
-                "meta_description": "Learn all about Firebird Double 27 slot game. Play for free and read our review of this traditional fruit-themed slot with big jackpots available."
+                "meta_title": "Play Firebird Double 27 for Free",
+                "meta_description": "Play Firebird Double 27, a simple and intuitive slot game with decent jackpots, for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Firebird Double 27\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFirebird Double 27 is a video slot that offers up to 54 ways to win, divided fairly between left and right. You can form a winning combination with 3 or more symbols positioned on the two opposite sides. The operation of the slot is extremely familiar and intuitive, making it a perfect opportunity to learn how to work best on your betting strategy without losing money.\n\nSymbols\n\nAs a Wild, the Phoenix symbol can replace all other game symbols, which are represented by various fruits each with different value. Melons pay 8 times the bet, grapes pay 6x, and those that are worth less than all are plums and oranges guaranteeing 4x, while lemons are set at 2x.\n\nSpecial Features\n\nIf you can make the Phoenix fly at least three times on an active payline, you can claim the big win on Firebird Double 27, worth 50 times your bet. The same goes for three flaming Sevens, while the role that has been guaranteed to the golden bell is different: it generates a prize worth 20 times the bet amount. With BAR, on the other hand, you can increase your balance by 12 times. There are no other noteworthy features, which is why we have described the machine as an extremely simple model to play.\n\nWinning Opportunities\n\nFirebird Double 27 has significant jackpots to offer. With the right strategy, players can take advantage of the 54 ways to win, giving them ample opportunity to cash in on big rewards including a maximum payout of 50 times the bet.\n\nTarget Audience\n\nThis game is recommended for novice players, or for those who enjoy traditional fruit-themed slots. Its gameplay is straightforward and intuitive, making it easy for beginners to learn how to bet better and not lose money. However, it may not necessarily excite pro gamers who may prefer a more complex slot with advanced features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Firebird Double 27\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nFirebird Double 27 is a video slot that offers up to 54 ways to win, divided fairly between left and right. You can form a winning combination with 3 or more symbols positioned on the two opposite sides. The operation of the slot is extremely familiar and intuitive, making it a perfect opportunity to learn how to work best on your betting strategy without losing money.\n\nSymbols\n\nAs a Wild, the Phoenix symbol can replace all other game symbols, which are represented by various fruits each with different value. Melons pay 8 times the bet, grapes pay 6x, and those that are worth less than all are plums and oranges guaranteeing 4x, while lemons are set at 2x.\n\nSpecial Features\n\nIf you can make the Phoenix fly at least three times on an active payline, you can claim the big win on Firebird Double 27, worth 50 times your bet. The same goes for three flaming Sevens, while the role that has been guaranteed to the golden bell is different: it generates a prize worth 20 times the bet amount. With BAR, on the other hand, you can increase your balance by 12 times. There are no other noteworthy features, which is why we have described the machine as an extremely simple model to play.\n\nWinning Opportunities\n\nFirebird Double 27 has significant jackpots to offer. With the right strategy, players can take advantage of the 54 ways to win, giving them ample opportunity to cash in on big rewards including a maximum payout of 50 times the bet.\n\nTarget Audience\n\nThis game is recommended for novice players, or for those who enjoy traditional fruit-themed slots. Its gameplay is straightforward and intuitive, making it easy for beginners to learn how to bet better and not lose money. However, it may not necessarily excite pro gamers who may prefer a more complex slot with advanced features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TFk03D1KCYQa0EyU9cJNt6qugz0l",
+                "id": "chatcmpl-7WSlxskVla6Ld7u1HdDJYEv2VLNUw",
                 "object": "chat.completion",
-                "created": 1687206376,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 566,
-                    "completion_tokens": 125,
-                    "total_tokens": 691
-                },
+                "created": 1687971453,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Up to 54 ways to win\",\n        \"Wild Phoenix symbol can replace all symbols\",\n        \"Intuitive gameplay for beginners\",\n        \"Big jackpots available\"\n    ],\n    \"cons\": [\n        \"Lacks advanced features\",\n        \"May not appeal to experienced players\"\n    ],\n    \"meta_title\": \"Play Firebird Double 27 Free: Review and Ratings\",\n    \"meta_description\": \"Learn all about Firebird Double 27 slot game. Play for free and read our review of this traditional fruit-themed slot with big jackpots available.\"\t\n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and intuitive gameplay\",\n    \"Up to 54 ways to win\",\n    \"Wild symbol substitutes for other symbols\",\n    \"Decent jackpots and winning opportunities\"\n  ],\n  \"cons\": [\n    \"Lack of additional special features\",\n    \"May not appeal to advanced players\"\n  ],\n  \"meta_title\": \"Play Firebird Double 27 for Free\",\n  \"meta_description\": \"Play Firebird Double 27, a simple and intuitive slot game with decent jackpots, for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 563,
+                    "completion_tokens": 115,
+                    "total_tokens": 678
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/firebird-double-27.json"
+    "filename": "game_reviews/translations/firebird-double-27.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_fitting_the_description_be_3145c215-c0be-4e95-b1da-ad8168450d1f_1.png",
+        "arved__Please_create_a_feature_image_fitting_the_description_be_3145c215-c0be-4e95-b1da-ad8168450d1f_4.png",
+        "arved__Please_create_a_feature_image_fitting_the_description_be_3145c215-c0be-4e95-b1da-ad8168450d1f_2.png",
+        "arved__Please_create_a_feature_image_fitting_the_description_be_3145c215-c0be-4e95-b1da-ad8168450d1f_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "firebird-double-27",
+    "name": "Firebird Double 27",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/firebird-double-27_logo-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Firebird Double 27 for Free' ### Meta set: 'Play Firebird Double 27, a simple and intuitive slot game with decent jackpots, for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

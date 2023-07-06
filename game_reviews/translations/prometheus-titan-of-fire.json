@@ -654,40 +654,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Multiple lucrative features including Fire Collect and Super Free Spins",
-                    "Beautiful design and graphics with attention to detail",
-                    "Decent payout potential offering up to 1,356x your bet",
-                    "In-game purchase option to shortcut to the bonus round"
+                    "Exciting theme based on the mythical figure of Prometheus",
+                    "Multiple features including free spins and Super Free Spins",
+                    "Visually stunning graphics and immersive gameplay",
+                    "In-game purchase option for shortcut to bonus round"
                 ],
                 "cons": [
-                    "Lower RTP of 95.7% without the in-game purchase option",
-                    "Limited betting range may not be suitable for high rollers"
+                    "Limited number of paylines",
+                    "Higher bet requirement for purchasing free spins"
                 ],
-                "meta_title": "Play Prometheus Titan of Fire for Free - Full Review",
-                "meta_description": "Discover Fantasma Games' Prometheus Titan of Fire - RTP of 95.7%, maximum payout of 1,356x your bet, and lucrative features like Fire Collect and Super Free Spins. Play for free!"
+                "meta_title": "Play Prometheus Titan of Fire for Free",
+                "meta_description": "Read our review of Prometheus Titan of Fire and play this exciting online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Prometheus Titan of Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nPrometheus Titan of Fire is an online slot game by Fantasma Games that celebrates the mythical figure of Prometheus. This game comes with 40 paylines, an RTP of 95.7%, and a maximum payout of 1,356x your bet.\n\nPaylines, RTP, and Maximum Payout\n\nPrometheus Titan of Fire offers 40 fixed paylines and an RTP of 95.7%. The maximum payout for this game is 1,356x your bet.\n\nLayout and Bet Range\n\nThe game takes place on a 5-reel grid arranged in a 3-4-4-4-3 layout. Users can set their bets anywhere between €0.20 up to €100 per spin using a tablet, mobile device, or desktop.\n\nPaying Symbols\n\nThere are eight paying symbols on the reels, which include four low-value gem icons and four higher paying symbols, including Eagle, Minotaur, Medusa, and presumably, Prometheus. Wilds appear on reels 1, 2, 3, or 4 and can replace any normal paying symbol or get their own 3 or 4 equal wins.\n\nFeatures\n\nPrometheus Titan of Fire has several features to offer, including a Fire Collect functionality, Double Collect Respin, free spins, and Super Free Spins. Players can spend 70 times their bet to purchase free spins. The game's collection mechanic is based on a table visible in the game's regulations.\n\nIn-Game Purchase Option\n\nFor players who want a shortcut to the bonus round, the Bonus Purchase option is available. Players can spend 70 times their bet to purchase free spins, giving them an RTP of 96.4%.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Prometheus Titan of Fire\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nPrometheus Titan of Fire is an online slot game by Fantasma Games that celebrates the mythical figure of Prometheus. This game comes with 40 paylines, an RTP of 95.7%, and a maximum payout of 1,356x your bet.\n\nPaylines, RTP, and Maximum Payout\n\nPrometheus Titan of Fire offers 40 fixed paylines and an RTP of 95.7%. The maximum payout for this game is 1,356x your bet.\n\nLayout and Bet Range\n\nThe game takes place on a 5-reel grid arranged in a 3-4-4-4-3 layout. Users can set their bets anywhere between €0.20 up to €100 per spin using a tablet, mobile device, or desktop.\n\nPaying Symbols\n\nThere are eight paying symbols on the reels, which include four low-value gem icons and four higher paying symbols, including Eagle, Minotaur, Medusa, and presumably, Prometheus. Wilds appear on reels 1, 2, 3, or 4 and can replace any normal paying symbol or get their own 3 or 4 equal wins.\n\nFeatures\n\nPrometheus Titan of Fire has several features to offer, including a Fire Collect functionality, Double Collect Respin, free spins, and Super Free Spins. Players can spend 70 times their bet to purchase free spins. The game's collection mechanic is based on a table visible in the game's regulations.\n\nIn-Game Purchase Option\n\nFor players who want a shortcut to the bonus round, the Bonus Purchase option is available. Players can spend 70 times their bet to purchase free spins, giving them an RTP of 96.4%.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QKovhB9Z2RcNZFSa2fkSxEPeM6ul",
+                "id": "chatcmpl-7WZqRRbO3wm7sX1vzGq0Pu8SN4eAV",
                 "object": "chat.completion",
-                "created": 1686510917,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 526,
-                    "completion_tokens": 170,
-                    "total_tokens": 696
-                },
+                "created": 1687998639,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Multiple lucrative features including Fire Collect and Super Free Spins\",\n        \"Beautiful design and graphics with attention to detail\",\n        \"Decent payout potential offering up to 1,356x your bet\",\n        \"In-game purchase option to shortcut to the bonus round\"\n    ],\n    \"cons\": [\n        \"Lower RTP of 95.7% without the in-game purchase option\",\n        \"Limited betting range may not be suitable for high rollers\"\n    ],\n    \"meta_title\": \"Play Prometheus Titan of Fire for Free - Full Review\",\n    \"meta_description\": \"Discover Fantasma Games' Prometheus Titan of Fire - RTP of 95.7%, maximum payout of 1,356x your bet, and lucrative features like Fire Collect and Super Free Spins. Play for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting theme based on the mythical figure of Prometheus\",\n    \"Multiple features including free spins and Super Free Spins\",\n    \"Visually stunning graphics and immersive gameplay\",\n    \"In-game purchase option for shortcut to bonus round\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Higher bet requirement for purchasing free spins\"\n  ],\n  \"meta_title\": \"Play Prometheus Titan of Fire for Free\",\n  \"meta_description\": \"Read our review of Prometheus Titan of Fire and play this exciting online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 523,
+                    "completion_tokens": 121,
+                    "total_tokens": 644
+                }
             }
         },
         {
@@ -886,6 +886,30 @@
             }
         }
     ],
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_7342fa01-2631-4ca0-9280-dfbdba1ddf7f_2.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_d7b44747-80ed-40e9-a649-b8c062e9d004_2.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_7342fa01-2631-4ca0-9280-dfbdba1ddf7f_4.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_d7b44747-80ed-40e9-a649-b8c062e9d004_4.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_d7b44747-80ed-40e9-a649-b8c062e9d004_1.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_d7b44747-80ed-40e9-a649-b8c062e9d004_3.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_7342fa01-2631-4ca0-9280-dfbdba1ddf7f_3.png",
+        "arved__Create_a_feature_image_for_Prometheus_Titan_of_Fire_inco_7342fa01-2631-4ca0-9280-dfbdba1ddf7f_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Prometheus Titan Of Fire (Version 5).webp",
+        "game_reviews/processed_images/Prometheus Titan Of Fire (Version 6).webp",
+        "game_reviews/processed_images/Prometheus Titan Of Fire (Version 8).webp",
+        "game_reviews/processed_images/Prometheus Titan Of Fire (Version 7).webp"
+    ],
+    "filename": "game_reviews/translations/prometheus-titan-of-fire.json",
+    "slug": "prometheus-titan-of-fire",
+    "name": "Prometheus Titan of Fire",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Prometheus-Titan-Of-Fire-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Prometheus Titan of Fire for Free' ### Meta set: 'Read our review of Prometheus Titan of Fire and play this exciting online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -655,39 +655,39 @@
             "response": {
                 "pros": [
                     "Exciting game mechanics and bonus features",
-                    "Unique and engaging cluster payouts",
-                    "Festive and colorful Oktoberfest design",
-                    "Special symbols offer free spins and multipliers"
+                    "Festive and colorful Oktoberfest theme",
+                    "Unique cluster payouts",
+                    "Special symbols for free spins and multipliers"
                 ],
                 "cons": [
-                    "No jackpot available",
-                    "Betting range may not appeal to high rollers"
+                    "No jackpot feature",
+                    "Limited betting range"
                 ],
-                "meta_title": "Play Beer Bonanza for Free - A Festive Slot Game with Exciting Features",
-                "meta_description": "Enjoy the Oktoberfest-themed Beer Bonanza slot game with cluster payouts, special symbols, and free spins. Play for free and experience the festival vibe!"
+                "meta_title": "Play Beer Bonanza for Free",
+                "meta_description": "Enjoy the festive Oktoberfest theme and exciting bonus features in the free slot game Beer Bonanza."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beer Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeer Bonanza - A Celebration of Oktoberfest\n\nBeer Bonanza is a slot game released by BGaming in the summer that celebrates the popular German event Oktoberfest. The lively game takes you to the heart of the biggest beer festival, where you can enjoy various bonus functions and many other delicacies.\n\nBGaming - A New Game Provider Making Waves in the Industry\n\nBGaming is a popular game provider in the online gaming industry. Beer Bonanza is one of their latest creations and has been very well-received among online slot game enthusiasts.\n\nOnline Slot Game - Exciting Game Mechanics and Bonus Features\n\nBeer Bonanza is a six-reel slot game that offers cluster payouts. It has a minimum and maximum betting range of €0.20 to €12 with Chance 2x activated. The game includes various bonus functions and symbols but unfortunately does not have a jackpot.\n\nOktoberfest Theme - A Festive and Colorful Design\n\nBeer Bonanza is inspired by one of the most famous festivals of all time - Oktoberfest held in Munich in mid-September. The game features bright and colorful graphics, transporting players into a frenzied gameplay where they can enjoy various types of beer and fruits, each with different values.\n\nCluster Payouts - A Unique and Engaging Feature\n\nBeer Bonanza offers cluster payouts, adding a unique and engaging element to the game mechanics. It means that once the reels stop spinning and form a cluster of matching symbols, the winnings will be automatically credited to your newly created gaming account in one of the AAMS-ADM casinos in Italy.\n\nSpecial Symbols - Scatter, Multiplier, and More!\n\nThe game includes special symbols, such as the Scatter and Multiplier, which offer free spins and random multipliers ranging from 2x to 100x, respectively. The Multiplier symbol only appears during Free Spins, and if more than one Bonus symbol appears in a spin, their multipliers are added together.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beer Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeer Bonanza - A Celebration of Oktoberfest\n\nBeer Bonanza is a slot game released by BGaming in the summer that celebrates the popular German event Oktoberfest. The lively game takes you to the heart of the biggest beer festival, where you can enjoy various bonus functions and many other delicacies.\n\nBGaming - A New Game Provider Making Waves in the Industry\n\nBGaming is a popular game provider in the online gaming industry. Beer Bonanza is one of their latest creations and has been very well-received among online slot game enthusiasts.\n\nOnline Slot Game - Exciting Game Mechanics and Bonus Features\n\nBeer Bonanza is a six-reel slot game that offers cluster payouts. It has a minimum and maximum betting range of €0.20 to €12 with Chance 2x activated. The game includes various bonus functions and symbols but unfortunately does not have a jackpot.\n\nOktoberfest Theme - A Festive and Colorful Design\n\nBeer Bonanza is inspired by one of the most famous festivals of all time - Oktoberfest held in Munich in mid-September. The game features bright and colorful graphics, transporting players into a frenzied gameplay where they can enjoy various types of beer and fruits, each with different values.\n\nCluster Payouts - A Unique and Engaging Feature\n\nBeer Bonanza offers cluster payouts, adding a unique and engaging element to the game mechanics. It means that once the reels stop spinning and form a cluster of matching symbols, the winnings will be automatically credited to your newly created gaming account in one of the AAMS-ADM casinos in Italy.\n\nSpecial Symbols - Scatter, Multiplier, and More!\n\nThe game includes special symbols, such as the Scatter and Multiplier, which offer free spins and random multipliers ranging from 2x to 100x, respectively. The Multiplier symbol only appears during Free Spins, and if more than one Bonus symbol appears in a spin, their multipliers are added together.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdD6c9CsowHHQhiRjmGV9AZo85zN",
+                "id": "chatcmpl-7WNwn6mwAEVZPccaI3b5kEA6IzcMV",
                 "object": "chat.completion",
-                "created": 1687058264,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 569,
-                    "completion_tokens": 135,
-                    "total_tokens": 704
-                },
+                "created": 1687952905,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting game mechanics and bonus features\",\n        \"Unique and engaging cluster payouts\",\n        \"Festive and colorful Oktoberfest design\",\n        \"Special symbols offer free spins and multipliers\"\n    ],\n    \"cons\": [\n        \"No jackpot available\",\n        \"Betting range may not appeal to high rollers\"\n    ],\n    \"meta_title\": \"Play Beer Bonanza for Free - A Festive Slot Game with Exciting Features\",\n    \"meta_description\": \"Enjoy the Oktoberfest-themed Beer Bonanza slot game with cluster payouts, special symbols, and free spins. Play for free and experience the festival vibe!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting game mechanics and bonus features\",\n    \"Festive and colorful Oktoberfest theme\",\n    \"Unique cluster payouts\",\n    \"Special symbols for free spins and multipliers\"\n  ],\n  \"cons\": [\n    \"No jackpot feature\",\n    \"Limited betting range\"\n  ],\n  \"meta_title\": \"Play Beer Bonanza for Free\",\n  \"meta_description\": \"Enjoy the festive Oktoberfest theme and exciting bonus features in the free slot game Beer Bonanza.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 566,
+                    "completion_tokens": 105,
+                    "total_tokens": 671
+                }
             }
         },
         {
@@ -889,14 +889,23 @@
     "filename": "game_reviews/translations/beer-bonanza.json",
     "raw_feature_images": [
         "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_3.png",
+        "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_4.png",
         "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_1.png",
-        "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_2.png",
-        "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_4.png"
+        "arved__Please_create_a_feature_image_fitting_the_game_Beer_Bona_dc824825-bce3-4f97-a72d-67cd17705280_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Beer Bonanza (Version 1).webp",
         "game_reviews/processed_images/Beer Bonanza (Version 4).webp",
         "game_reviews/processed_images/Beer Bonanza (Version 3).webp",
         "game_reviews/processed_images/Beer Bonanza (Version 2).webp"
-    ]
+    ],
+    "slug": "beer-bonanza",
+    "name": "Beer Bonanza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Beer-Bonanza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beer Bonanza for Free' ### Meta set: 'Enjoy the festive Oktoberfest theme and exciting bonus features in the free slot game Beer Bonanza.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Combos can be formed from both left to right and right to left",
-                    "Mega Stellar Wild is essential in triggering the main bonus round",
-                    "Winning combinations with just two symbols",
-                    "Exceptional graphics and immersive design"
+                    "Exciting gameplay with combo formations from both left to right and right to left",
+                    "Mega Stellar Wild enhances gameplay and triggers the main bonus round",
+                    "Stunning symbols revolving around bright planets and twinkling gems",
+                    "Exceptional graphics with a futuristic space design and immersive atmosphere"
                 ],
                 "cons": [
-                    "Limited bonus features",
-                    "Not suitable for high rollers"
+                    "Limited number of paylines",
+                    "May not appeal to players who prefer traditional slot themes"
                 ],
-                "meta_title": "Play Mega Stellar Slot for Free - Red Rake Gaming Review",
-                "meta_description": "Read our review of Mega Stellar slot by Red Rake Gaming. Play for free and explore the stunning graphics inspired by a futuristic space design."
+                "meta_title": "Play Mega Stellar Free - Exciting Slot Game Review",
+                "meta_description": "Read our review of Mega Stellar, an exciting slot game. Play for free and experience thrilling gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega stellar\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nMega Stellar is a slot game with five reels and fixed paylines. The game allows for combos to be formed from both left to right and right to left, making for some truly exciting gameplay. The highlight of this game is the Mega Stellar Wild, which is essential in triggering the main bonus round.\n\nSymbol value and combinations\n\nMega Stellar features stunning symbols revolving around bright planets and twinkling gems. The most valuable symbol is the number 7, worth 100 times your bet on a x5 line. The dollar symbol and the five multicolored gems (white, red, green, blue, and purple) are also high-value symbols. Winning combinations can be formed with just two symbols, and the game offers paylines with both left to right and right to left winning opportunities.\n\nMega Stellar Wild function and bonus round\n\nThe Mega Stellar Wild is represented by a bright yellow symbol and plays a crucial role in triggering the main bonus round. When the Wild symbol lands on reels two, three, and four, it activates the Mega Stellar Wild function, which expands to fill all the positions on that reel and awards a free Respin. Players can potentially trigger the main bonus round during the Respin, which can lead to even bigger wins.\n\nGame design and graphics\n\nMega Stellar offers exceptional graphics inspired by a futuristic space design dripping with precious crystals. Players will be drawn into this stunning world that offers endless possibilities. The combination of bright planets and twinkling gems on the reels creates an immersive and exciting atmosphere that will keep players engaged for hours. \n\nCatalogue of Red Rake Gaming slots\n\nMega Stellar is just one of the many exciting slot games offered by Red Rake Gaming. Players can check out our entire catalogue of slot games for more thrilling adventures and endless opportunities to win big. The games are available for free play or for real money, making it accessible to players of all levels. Playing Red Rake Gaming slots is an opportunity you don't want to miss.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega stellar\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and mechanics\n\nMega Stellar is a slot game with five reels and fixed paylines. The game allows for combos to be formed from both left to right and right to left, making for some truly exciting gameplay. The highlight of this game is the Mega Stellar Wild, which is essential in triggering the main bonus round.\n\nSymbol value and combinations\n\nMega Stellar features stunning symbols revolving around bright planets and twinkling gems. The most valuable symbol is the number 7, worth 100 times your bet on a x5 line. The dollar symbol and the five multicolored gems (white, red, green, blue, and purple) are also high-value symbols. Winning combinations can be formed with just two symbols, and the game offers paylines with both left to right and right to left winning opportunities.\n\nMega Stellar Wild function and bonus round\n\nThe Mega Stellar Wild is represented by a bright yellow symbol and plays a crucial role in triggering the main bonus round. When the Wild symbol lands on reels two, three, and four, it activates the Mega Stellar Wild function, which expands to fill all the positions on that reel and awards a free Respin. Players can potentially trigger the main bonus round during the Respin, which can lead to even bigger wins.\n\nGame design and graphics\n\nMega Stellar offers exceptional graphics inspired by a futuristic space design dripping with precious crystals. Players will be drawn into this stunning world that offers endless possibilities. The combination of bright planets and twinkling gems on the reels creates an immersive and exciting atmosphere that will keep players engaged for hours. \n\nCatalogue of Red Rake Gaming slots\n\nMega Stellar is just one of the many exciting slot games offered by Red Rake Gaming. Players can check out our entire catalogue of slot games for more thrilling adventures and endless opportunities to win big. The games are available for free play or for real money, making it accessible to players of all levels. Playing Red Rake Gaming slots is an opportunity you don't want to miss.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U83PdXLXfSQJZ4jMpI1nlR70d9Z8",
+                "id": "chatcmpl-7WXYDPVdRDwqm8FwIP9S0AEAdziW9",
                 "object": "chat.completion",
-                "created": 1687415155,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989821,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Combos can be formed from both left to right and right to left\",\n        \"Mega Stellar Wild is essential in triggering the main bonus round\",\n        \"Winning combinations with just two symbols\",\n        \"Exceptional graphics and immersive design\"\n    ],\n    \"cons\": [\n        \"Limited bonus features\",\n        \"Not suitable for high rollers\"\n    ],\n    \"meta_title\": \"Play Mega Stellar Slot for Free - Red Rake Gaming Review\",\n    \"meta_description\": \"Read our review of Mega Stellar slot by Red Rake Gaming. Play for free and explore the stunning graphics inspired by a futuristic space design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay with combo formations from both left to right and right to left\",\n    \"Mega Stellar Wild enhances gameplay and triggers the main bonus round\",\n    \"Stunning symbols revolving around bright planets and twinkling gems\",\n    \"Exceptional graphics with a futuristic space design and immersive atmosphere\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"May not appeal to players who prefer traditional slot themes\"\n  ],\n  \"meta_title\": \"Play Mega Stellar Free - Exciting Slot Game Review\",\n  \"meta_description\": \"Read our review of Mega Stellar, an exciting slot game. Play for free and experience thrilling gameplay.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 584,
-                    "completion_tokens": 136,
-                    "total_tokens": 720
+                    "prompt_tokens": 581,
+                    "completion_tokens": 143,
+                    "total_tokens": 724
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-stellar.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_the_game_Mega_Stellar_4.png",
+        "arved__Create_a_feature_image_for_the_game_Mega_Stellar_2.png",
+        "arved__Create_a_feature_image_for_the_game_Mega_Stellar_3.png",
+        "arved__Create_a_feature_image_for_the_game_Mega_Stellar_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Stellar (Version 2).webp",
+        "game_reviews/processed_images/Mega Stellar (Version 4).webp",
+        "game_reviews/processed_images/Mega Stellar (Version 1).webp",
+        "game_reviews/processed_images/Mega Stellar (Version 3).webp"
+    ],
+    "slug": "mega-stellar",
+    "name": "Mega stellar",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Stellar-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Stellar Free - Exciting Slot Game Review' ### Meta set: 'Read our review of Mega Stellar, an exciting slot game. Play for free and experience thrilling gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -582,38 +582,38 @@
                 "pros": [
                     "Impressive RTP of 97.01%",
                     "Innovative Scatter Pays feature",
-                    "Cascading wins create new winning combos",
-                    "Stunning design and visuals to create a tropical paradise"
+                    "Cascading wins create new winning combinations",
+                    "Stunning design and visuals"
                 ],
                 "cons": [
-                    "Juicy Multipliers are not available during free spins",
-                    "Limited number of free spins available"
+                    "Juicy Multipliers not available during free spins",
+                    "Limited number of free spins"
                 ],
-                "meta_title": "Play Aloha Fruit Bonanza Free - Review & Guide | RTP 97.01%",
-                "meta_description": "Discover the stunning visuals and innovative Scatter Pays feature in Aloha Fruit Bonanza. With an RTP of 97.01%, play for free and win up to 7,500x your stake."
+                "meta_title": "Play Aloha Fruit Bonanza for Free",
+                "meta_description": "Read our review of Aloha Fruit Bonanza and play for free. Discover exciting gameplay features and stunning design."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Aloha Fruit Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAloha Fruit Bonanza offers an impressive RTP of 97.01% and boasts an innovative Scatter Pays feature. With no traditional paylines, players can win up to 7,500x their stake. The game features cascading wins, where symbols involved in a winning combination disappear and new symbols fall into place, creating new winning combos.\n\nDesign and Visuals\n\nAloha Fruit Bonanza is visually stunning, with glossy icons that are visually appealing and a picturesque background of a sandy beach with swaying palms. The calming sounds of the Pacific Ocean add to the tropical feel of the game.\n\nWinning Symbols and Payouts\n\nFeaturing various fruit symbols that pay differently based on their respective prestige, players can earn up to 12 times their stake with watermelon, 15 times their stake with coconut cocktail, 25 times their stake with dragon fruit cocktail, and even up to 50 times their stake with the red number seven. Scatter symbols are also available, which payout from 3 to 100 times the stake.\n\nFree Spins and Multipliers\n\nFree spins can be activated with scatter symbols, providing a maximum of 10 free spins to players. Unfortunately, Juicy Multipliers ranging from 2x to 100x are not available during free spins, but they can be used during regular gameplay to increase winnings.\n\nOverall Gaming Experience\n\nAloha Fruit Bonanza is the perfect escape to a tropical paradise with its high RTP and fun, lighthearted gameplay. The game offers exciting features, including cascading wins and scatter pays, while the stunning design and visuals add to the immersive experience. With the potential to win up to 7,500x your stake, this game is definitely worth a play.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Aloha Fruit Bonanza\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAloha Fruit Bonanza offers an impressive RTP of 97.01% and boasts an innovative Scatter Pays feature. With no traditional paylines, players can win up to 7,500x their stake. The game features cascading wins, where symbols involved in a winning combination disappear and new symbols fall into place, creating new winning combos.\n\nDesign and Visuals\n\nAloha Fruit Bonanza is visually stunning, with glossy icons that are visually appealing and a picturesque background of a sandy beach with swaying palms. The calming sounds of the Pacific Ocean add to the tropical feel of the game.\n\nWinning Symbols and Payouts\n\nFeaturing various fruit symbols that pay differently based on their respective prestige, players can earn up to 12 times their stake with watermelon, 15 times their stake with coconut cocktail, 25 times their stake with dragon fruit cocktail, and even up to 50 times their stake with the red number seven. Scatter symbols are also available, which payout from 3 to 100 times the stake.\n\nFree Spins and Multipliers\n\nFree spins can be activated with scatter symbols, providing a maximum of 10 free spins to players. Unfortunately, Juicy Multipliers ranging from 2x to 100x are not available during free spins, but they can be used during regular gameplay to increase winnings.\n\nOverall Gaming Experience\n\nAloha Fruit Bonanza is the perfect escape to a tropical paradise with its high RTP and fun, lighthearted gameplay. The game offers exciting features, including cascading wins and scatter pays, while the stunning design and visuals add to the immersive experience. With the potential to win up to 7,500x your stake, this game is definitely worth a play.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SVx96J01GvrESvnMCLdjH4jGP2Nc",
+                "id": "chatcmpl-7WN5kdIqdkjuW32tQn3GnbkLvLeNm",
                 "object": "chat.completion",
-                "created": 1687030367,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 154,
-                    "total_tokens": 691
-                },
+                "created": 1687949616,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Impressive RTP of 97.01%\",\n        \"Innovative Scatter Pays feature\",\n        \"Cascading wins create new winning combos\",\n        \"Stunning design and visuals to create a tropical paradise\"\n    ],\n    \"cons\": [\n        \"Juicy Multipliers are not available during free spins\",\n        \"Limited number of free spins available\"\n    ],\n    \"meta_title\": \"Play Aloha Fruit Bonanza Free - Review & Guide | RTP 97.01%\",\n    \"meta_description\": \"Discover the stunning visuals and innovative Scatter Pays feature in Aloha Fruit Bonanza. With an RTP of 97.01%, play for free and win up to 7,500x your stake.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive RTP of 97.01%\",\n    \"Innovative Scatter Pays feature\",\n    \"Cascading wins create new winning combinations\",\n    \"Stunning design and visuals\"\n  ],\n  \"cons\": [\n    \"Juicy Multipliers not available during free spins\",\n    \"Limited number of free spins\"\n  ],\n  \"meta_title\": \"Play Aloha Fruit Bonanza for Free\",\n  \"meta_description\": \"Read our review of Aloha Fruit Bonanza and play for free. Discover exciting gameplay features and stunning design.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 534,
+                    "completion_tokens": 119,
+                    "total_tokens": 653
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/aloha-fruit-bonanza.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_2.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_4.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_4.png"
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_4e2b45b7-9267-43cd-967e-5ff8a344c797_3.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Aloha Fruit Bonanza (Version 1).webp",
         "game_reviews/processed_images/Aloha Fruit Bonanza (Version 3).webp",
-        "game_reviews/processed_images/Aloha Fruit Bonanza (Version 2).webp",
         "game_reviews/processed_images/Aloha Fruit Bonanza (Version 4).webp",
-        "game_reviews/processed_images/Aloha Fruit Bonanza (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Aloha Fruit Bonanza (Version 2).webp"
+    ],
+    "slug": "aloha-fruit-bonanza",
+    "name": "Aloha Fruit Bonanza",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Aloha-Fruit-Bonanza-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Aloha Fruit Bonanza for Free' ### Meta set: 'Read our review of Aloha Fruit Bonanza and play for free. Discover exciting gameplay features and stunning design.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

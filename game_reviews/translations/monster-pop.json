@@ -730,37 +730,37 @@
                 "pros": [
                     "Wins on consecutive reels",
                     "Expanding reels with Cloner symbols",
-                    "Exciting winning clusters mechanic",
-                    "Free spins bonus feature"
+                    "Exciting winning clusters",
+                    "Free spins bonus"
                 ],
                 "cons": [
-                    "Minimum bet may be too high for some players",
-                    "High number of consecutive wins needed to trigger bonus feature"
+                    "Higher minimum bet",
+                    "Not suitable for all budgets"
                 ],
-                "meta_title": "Play Monster Pop for Free: Exciting Winning Clusters Mechanic",
-                "meta_description": "Read our review of Monster Pop and play for free. Dynamic gameplay with winning clusters and Cloner symbols. Exciting free spins bonus feature."
+                "meta_title": "Play Monster Pop Free & Win Big with Exciting Consecutive Reels",
+                "meta_description": "Play Monster Pop for free and experience dynamic gameplay with consecutive reels and exciting winning clusters."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Monster Pop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nMonster Pop is a dynamic game that allows for wins on consecutive reels. The reels expand when Cloner symbols appear, adding even more chances for a winning cluster. Autoplay is available, and each spin starts by selecting your coin value, which affects the total bet amount.\n\nGraphics and design\n\nMonster Pop features grotesque gargoyles on a bizarre grid of easily recognizable animals. When aligned in groups of four or more, these cartoon creatures explode, making the reel-set vibrate when winning results happen on the grid. The game has an animated feel with special effects and random Monster Fury feature.\n\nWinning clusters\n\nThe game offers payouts for three or more symbols of the same kind. If the symbols are found on a different row but still connect in groups of three sharing the same symbol, the game will payout again. Multiple winning clusters can be seen, making Monster Pop an exciting game.\n\nCloner symbols\n\nCloner symbols add a row, a column, or both to the grid, giving more chances for a winning cluster. These blue plasma incandescent spheres make the reels expand for the next spin, and if another Cloner appears, they grow even more. These Cloner symbols are key to landing 1000 symbols on a 5x5 grid.\n\nFree spins bonus\n\nIf Monster Pop triggers six consecutive wins resulting from the same spin, the game awards eight free spins. Another six consecutive wins during the bonus can collect even more winnings! Although the number of consecutive wins necessary to trigger the bonus is high, this is an opportunity to make a profit.\n\nSuitability for different budgets\n\nThe smallest bet in Monster Pop is €0.50 per turn, which is higher than most slot machines. This game is not suitable for all budgets, but high rollers will love the chance to bet big and win big.\n\nOverall gaming experience\n\nOverall, Monster Pop is an engaging and dynamic game that offers many chances for a winning cluster through consecutive reels and Cloner symbols. The graphics feature a bizarre grid of grotesque gargoyles and new creatures falling from above to fill gaps. Although this game is not for all budgets, it will appeal to high rollers who seek a chance to win big.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Monster Pop\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nMonster Pop is a dynamic game that allows for wins on consecutive reels. The reels expand when Cloner symbols appear, adding even more chances for a winning cluster. Autoplay is available, and each spin starts by selecting your coin value, which affects the total bet amount.\n\nGraphics and design\n\nMonster Pop features grotesque gargoyles on a bizarre grid of easily recognizable animals. When aligned in groups of four or more, these cartoon creatures explode, making the reel-set vibrate when winning results happen on the grid. The game has an animated feel with special effects and random Monster Fury feature.\n\nWinning clusters\n\nThe game offers payouts for three or more symbols of the same kind. If the symbols are found on a different row but still connect in groups of three sharing the same symbol, the game will payout again. Multiple winning clusters can be seen, making Monster Pop an exciting game.\n\nCloner symbols\n\nCloner symbols add a row, a column, or both to the grid, giving more chances for a winning cluster. These blue plasma incandescent spheres make the reels expand for the next spin, and if another Cloner appears, they grow even more. These Cloner symbols are key to landing 1000 symbols on a 5x5 grid.\n\nFree spins bonus\n\nIf Monster Pop triggers six consecutive wins resulting from the same spin, the game awards eight free spins. Another six consecutive wins during the bonus can collect even more winnings! Although the number of consecutive wins necessary to trigger the bonus is high, this is an opportunity to make a profit.\n\nSuitability for different budgets\n\nThe smallest bet in Monster Pop is €0.50 per turn, which is higher than most slot machines. This game is not suitable for all budgets, but high rollers will love the chance to bet big and win big.\n\nOverall gaming experience\n\nOverall, Monster Pop is an engaging and dynamic game that offers many chances for a winning cluster through consecutive reels and Cloner symbols. The graphics feature a bizarre grid of grotesque gargoyles and new creatures falling from above to fill gaps. Although this game is not for all budgets, it will appeal to high rollers who seek a chance to win big.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UBgXYGSiHAPiAedblcVP04SsqV8F",
+                "id": "chatcmpl-7WY4vten8NRVeEF0dT9NOaPLpF3Bz",
                 "object": "chat.completion",
-                "created": 1687429113,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687991849,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Wins on consecutive reels\",\n        \"Expanding reels with Cloner symbols\",\n        \"Exciting winning clusters mechanic\",\n        \"Free spins bonus feature\"\n    ],\n    \"cons\": [\n        \"Minimum bet may be too high for some players\",\n        \"High number of consecutive wins needed to trigger bonus feature\"\n    ],\n    \"meta_title\": \"Play Monster Pop for Free: Exciting Winning Clusters Mechanic\",\n    \"meta_description\": \"Read our review of Monster Pop and play for free. Dynamic gameplay with winning clusters and Cloner symbols. Exciting free spins bonus feature.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Wins on consecutive reels\",\n      \"Expanding reels with Cloner symbols\",\n      \"Exciting winning clusters\",\n      \"Free spins bonus\"\n   ],\n   \"cons\": [\n      \"Higher minimum bet\",\n      \"Not suitable for all budgets\"\n   ],\n   \"meta_title\": \"Play Monster Pop Free & Win Big with Exciting Consecutive Reels\",\n   \"meta_description\": \"Play Monster Pop for free and experience dynamic gameplay with consecutive reels and exciting winning clusters.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 621,
-                    "completion_tokens": 129,
-                    "total_tokens": 750
+                    "prompt_tokens": 618,
+                    "completion_tokens": 105,
+                    "total_tokens": 723
                 }
             }
         },
@@ -959,5 +959,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/monster-pop.json",
+    "raw_feature_images": [
+        "arved__Please_create_a_feature_image_for_Monster_Pop_Create_a_c_ed894cdb-619a-4ede-b1b1-67d5b31cbc6c_2.png",
+        "arved__Please_create_a_feature_image_for_Monster_Pop_Create_a_c_ed894cdb-619a-4ede-b1b1-67d5b31cbc6c_3.png",
+        "arved__Please_create_a_feature_image_for_Monster_Pop_Create_a_c_ed894cdb-619a-4ede-b1b1-67d5b31cbc6c_1.png",
+        "arved__Please_create_a_feature_image_for_Monster_Pop_Create_a_c_ed894cdb-619a-4ede-b1b1-67d5b31cbc6c_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Monster Pop (Version 2).webp",
+        "game_reviews/processed_images/Monster Pop (Version 1).webp",
+        "game_reviews/processed_images/Monster Pop (Version 4).webp",
+        "game_reviews/processed_images/Monster Pop (Version 3).webp"
+    ],
+    "slug": "monster-pop",
+    "name": "Monster Pop",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Monster-Pop-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Monster Pop Free & Win Big with Exciting Consecutive Reels' ### Meta set: 'Play Monster Pop for free and experience dynamic gameplay with consecutive reels and exciting winning clusters.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

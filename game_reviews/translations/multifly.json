@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Exciting gameplay features",
-                    "Chameleon multiplier meters",
-                    "Vibrant colors and well-designed symbols",
-                    "Potential win of 10,000x the bet"
+                    "Potential win of 10,000 times the bet",
+                    "243 ways to win",
+                    "High-quality design"
                 ],
                 "cons": [
-                    "May not be suitable for less experienced players",
-                    "High volatility"
+                    "High volatility",
+                    "May be better suited for experienced players"
                 ],
-                "meta_title": "Play Multifly Free - Review of Exciting Jungle Themed Slot",
-                "meta_description": "Read our review of Multifly, a high-volatility, jungle-themed slot game with chameleon multipliers, dropdown menus, and potential wins of 10,000x the bet. Play for free now."
+                "meta_title": "Play Multifly Free - Exciting Gameplay and Potential Wins",
+                "meta_description": "Play Multifly for free and experience exciting gameplay features and the potential for big wins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Multifly\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExciting Gameplay Features\n\nMultifly is a 5-reel slot game with 243 ways to win. It features multipliers, dropdown menus, wilds, free spins, and a potential win of 10,000 times the bet in a single round. The chameleon multiplier meters are displayed at the top of all the reels, making the game potentially interesting from the start.\n\nSymbols\n\nIn Multifly, players can join the company of chameleons, golden wilds, parrots, toucans, frogs, or iguanas, and the royals as they spin the reels. There aren't many high-paying symbols, but there are 243 ways to win and the potential for multipliers.\n\nRTP\n\nMultifly has an RTP of 96.30%, making it a potentially profitable option for players. However, the game features high volatility and may be better suited for experienced players.\n\nSuitability\n\nDue to its high volatility, Multifly may be better suited for experienced players. Less experienced or occasional players may find that it involves too many risks.\n\nDesign\n\nMultifly is a jungle-themed slot game developed by Yggdrasil Gaming. The game features vibrant colors and well-designed symbols. The chameleon multiplier meters at the top of the reels add to the excitement of the game. Overall, the game has a high-quality design that is sure to engage players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Multifly\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nExciting Gameplay Features\n\nMultifly is a 5-reel slot game with 243 ways to win. It features multipliers, dropdown menus, wilds, free spins, and a potential win of 10,000 times the bet in a single round. The chameleon multiplier meters are displayed at the top of all the reels, making the game potentially interesting from the start.\n\nSymbols\n\nIn Multifly, players can join the company of chameleons, golden wilds, parrots, toucans, frogs, or iguanas, and the royals as they spin the reels. There aren't many high-paying symbols, but there are 243 ways to win and the potential for multipliers.\n\nRTP\n\nMultifly has an RTP of 96.30%, making it a potentially profitable option for players. However, the game features high volatility and may be better suited for experienced players.\n\nSuitability\n\nDue to its high volatility, Multifly may be better suited for experienced players. Less experienced or occasional players may find that it involves too many risks.\n\nDesign\n\nMultifly is a jungle-themed slot game developed by Yggdrasil Gaming. The game features vibrant colors and well-designed symbols. The chameleon multiplier meters at the top of the reels add to the excitement of the game. Overall, the game has a high-quality design that is sure to engage players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UD1NVt6gJnfKJTqJfaW8mfUJSq38",
+                "id": "chatcmpl-7WYGachsIZd4WWbpNn6u52aR8q9aw",
                 "object": "chat.completion",
-                "created": 1687434249,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992572,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting gameplay features\",\n        \"Chameleon multiplier meters\",\n        \"Vibrant colors and well-designed symbols\",\n        \"Potential win of 10,000x the bet\"\n    ],\n    \"cons\": [\n        \"May not be suitable for less experienced players\",\n        \"High volatility\"\n    ],\n    \"meta_title\": \"Play Multifly Free - Review of Exciting Jungle Themed Slot\",\n    \"meta_description\": \"Read our review of Multifly, a high-volatility, jungle-themed slot game with chameleon multipliers, dropdown menus, and potential wins of 10,000x the bet. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay features\",\n    \"Potential win of 10,000 times the bet\",\n    \"243 ways to win\",\n    \"High-quality design\"\n  ],\n  \"cons\": [\n    \"High volatility\",\n    \"May be better suited for experienced players\"\n  ],\n  \"meta_title\": \"Play Multifly Free - Exciting Gameplay and Potential Wins\",\n  \"meta_description\": \"Play Multifly for free and experience exciting gameplay features and the potential for big wins.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 464,
-                    "completion_tokens": 143,
-                    "total_tokens": 607
+                    "prompt_tokens": 461,
+                    "completion_tokens": 108,
+                    "total_tokens": 569
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/multifly.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Multifly_that_captures_the_es_1f9f7c89-0cad-4eb3-9b4e-ff072a313be0_2.png",
+        "arved__Create_a_feature_image_for_Multifly_that_captures_the_es_1f9f7c89-0cad-4eb3-9b4e-ff072a313be0_3.png",
+        "arved__Create_a_feature_image_for_Multifly_that_captures_the_es_1f9f7c89-0cad-4eb3-9b4e-ff072a313be0_4.png",
+        "arved__Create_a_feature_image_for_Multifly_that_captures_the_es_1f9f7c89-0cad-4eb3-9b4e-ff072a313be0_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Multifly (Version 1).webp",
+        "game_reviews/processed_images/Multifly (Version 4).webp",
+        "game_reviews/processed_images/Multifly (Version 3).webp",
+        "game_reviews/processed_images/Multifly (Version 2).webp"
+    ],
+    "slug": "multifly",
+    "name": "Multifly",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Multifly-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Multifly Free - Exciting Gameplay and Potential Wins' ### Meta set: 'Play Multifly for free and experience exciting gameplay features and the potential for big wins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

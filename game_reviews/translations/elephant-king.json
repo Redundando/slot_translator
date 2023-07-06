@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Elegant graphics and sound effects in an African savanna",
-                    "40 winning lines available for higher chance of hitting payout",
-                    "Chance to win random payouts adds an enticing element",
-                    "Combination of classic and innovative gameplay elements"
+                    "Elegant and refined graphics",
+                    "Classic and innovative gameplay elements",
+                    "Chance to win random payouts",
+                    "Beautiful African-themed visuals and soundtrack"
                 ],
                 "cons": [
-                    "Betting values can easily exceed player's budget",
-                    "Free spins mode challenging to achieve"
+                    "Betting values can quickly become high",
+                    "Achieving the free spins mode can be challenging"
                 ],
-                "meta_title": "Play Free Elephant King Online Slot Game Review",
-                "meta_description": "Explore the beauty of African savanna with the Elephant King online slot game. Play for free and experience high potential for payouts with up to 40 winning lines."
+                "meta_title": "Play Elephant King Free - Elegant African-themed Slot Game",
+                "meta_description": "Experience the elegance of Elephant King, a free online slot game with an African theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Elephant King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisuals and Sound Effects\n\nElephant King is set in the African savanna and features elegant and refined graphics. The game symbols are colored gems and animals relevant to the African wildlife, such as rhinoceros and antelope. The game's animations are simple but pleasing. The soundtrack is discreet and does not interfere with the gaming experience.\n\nGameplay Elements\n\nThe game features a 5x3 grid and up to 40 winning lines. It combines classic and innovative elements. The most enticing feature is the chance to win random payouts by landing a special elephant symbol. This can lead to the game's free spins mode, which is challenging to achieve. Players should pay attention to their betting values, which can quickly become high for any player's budget.\n\nBetting and Budgeting\n\nElephant King offers players a chance to bet high amounts, with up to 40 winning lines available. Due to the game's potential for random payouts, players should pay attention to their betting values to avoid exceeding their budget.\n\nTheme\n\nElephant King is an African-themed slot game that showcases the beauty of the continent. It features colored gems and animals that represent African wildlife, such as rhinoceros and antelope. The game's soundtrack sets the tone and enhances the African atmosphere.\n\nOverall Impression\n\nElephant King is an elegant and refined online slot game that showcases the beauty of the African continent. The game combines classic and innovative elements, with up to 40 winning lines available. The chance to win random payouts adds an enticing feature to the game, though players must keep a watchful eye on their betting values. Overall, Elephant King is a solid choice for players who enjoy African-themed slot games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Elephant King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisuals and Sound Effects\n\nElephant King is set in the African savanna and features elegant and refined graphics. The game symbols are colored gems and animals relevant to the African wildlife, such as rhinoceros and antelope. The game's animations are simple but pleasing. The soundtrack is discreet and does not interfere with the gaming experience.\n\nGameplay Elements\n\nThe game features a 5x3 grid and up to 40 winning lines. It combines classic and innovative elements. The most enticing feature is the chance to win random payouts by landing a special elephant symbol. This can lead to the game's free spins mode, which is challenging to achieve. Players should pay attention to their betting values, which can quickly become high for any player's budget.\n\nBetting and Budgeting\n\nElephant King offers players a chance to bet high amounts, with up to 40 winning lines available. Due to the game's potential for random payouts, players should pay attention to their betting values to avoid exceeding their budget.\n\nTheme\n\nElephant King is an African-themed slot game that showcases the beauty of the continent. It features colored gems and animals that represent African wildlife, such as rhinoceros and antelope. The game's soundtrack sets the tone and enhances the African atmosphere.\n\nOverall Impression\n\nElephant King is an elegant and refined online slot game that showcases the beauty of the African continent. The game combines classic and innovative elements, with up to 40 winning lines available. The chance to win random payouts adds an enticing feature to the game, though players must keep a watchful eye on their betting values. Overall, Elephant King is a solid choice for players who enjoy African-themed slot games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TCGppMJXe88AZcTOPHgC6NcLsLxQ",
+                "id": "chatcmpl-7WSC4C5keAKxQsB4rO15uvkcFyivZ",
                 "object": "chat.completion",
-                "created": 1687193035,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 520,
-                    "completion_tokens": 142,
-                    "total_tokens": 662
-                },
+                "created": 1687969228,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Elegant graphics and sound effects in an African savanna\",\n        \"40 winning lines available for higher chance of hitting payout\",\n        \"Chance to win random payouts adds an enticing element\",\n        \"Combination of classic and innovative gameplay elements\"\n    ],\n    \"cons\": [\n        \"Betting values can easily exceed player's budget\",\n        \"Free spins mode challenging to achieve\"\n    ],\n    \"meta_title\": \"Play Free Elephant King Online Slot Game Review\",\n    \"meta_description\": \"Explore the beauty of African savanna with the Elephant King online slot game. Play for free and experience high potential for payouts with up to 40 winning lines.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Elegant and refined graphics\",\n    \"Classic and innovative gameplay elements\",\n    \"Chance to win random payouts\",\n    \"Beautiful African-themed visuals and soundtrack\"\n  ],\n  \"cons\": [\n    \"Betting values can quickly become high\",\n    \"Achieving the free spins mode can be challenging\"\n  ],\n  \"meta_title\": \"Play Elephant King Free - Elegant African-themed Slot Game\",\n  \"meta_description\": \"Experience the elegance of Elephant King, a free online slot game with an African theme.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 517,
+                    "completion_tokens": 113,
+                    "total_tokens": 630
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/elephant-king.json"
+    "filename": "game_reviews/translations/elephant-king.json",
+    "raw_feature_images": [
+        "arved__Create_an_image_with_a_happy_Maya_warrior_wearing_glasse_e29994ea-3d0a-485c-88c0-6e04fdccc642_3.png",
+        "arved__Create_an_image_with_a_happy_Maya_warrior_wearing_glasse_e29994ea-3d0a-485c-88c0-6e04fdccc642_2.png",
+        "arved__Create_an_image_with_a_happy_Maya_warrior_wearing_glasse_e29994ea-3d0a-485c-88c0-6e04fdccc642_4.png",
+        "arved__Create_an_image_with_a_happy_Maya_warrior_wearing_glasse_e29994ea-3d0a-485c-88c0-6e04fdccc642_1.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "elephant-king",
+    "name": "Elephant King",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/elephant-king_featured-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Elephant King Free - Elegant African-themed Slot Game' ### Meta set: 'Experience the elegance of Elephant King, a free online slot game with an African theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

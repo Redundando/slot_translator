@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging adventure theme centered around El Dorado",
-                    "Excellent quality graphics and atmosphere",
-                    "Rich in exciting features like free spins, cash bonus, and gamble feature",
-                    "Suitable betting range for beginners"
+                    "Engaging adventure theme",
+                    "Excellent graphics",
+                    "Wide range of betting options",
+                    "Exciting bonus features"
                 ],
                 "cons": [
-                    "Purchasing free spins option is quite expensive",
-                    "No progressive jackpot"
+                    "Purchasing free spins can be expensive",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Lost Riches of El Dorado Free Slot Game Review",
-                "meta_description": "Read our unbiased review of Lost Riches of El Dorado slot game and play for free. Engaging adventure theme, excellent graphics, and rich in exciting features."
+                "meta_title": "Play Lost Riches of El Dorado for Free",
+                "meta_description": "Read our review of Lost Riches of El Dorado and play this exciting adventure-themed slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lost Riches of El Dorado\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Elements\n\nLost Riches of El Dorado is a 5-reels and 10 paylines slot game where the player has to match at least 3 symbols on a payline to secure a prize.\n\nBetting Range\n\nThe range of bets for Lost Riches of El Dorado is suitable for beginners. The minimum and maximum bets are €0.10 and €20 per spin, respectively. However, players can win up to 10,000x the bet amount.\n\nGame Graphics and Theme\n\nLost Riches of El Dorado has an adventurous theme centered around El Dorado, the city of gold. The graphics are of excellent quality and create a magnificent adventure atmosphere. The reels are set against the backdrop of two pyramids and the city of gold itself. Along with the standard symbols, there are also special symbols in the form of treasures like a statue, a gold coin, a chest full of treasures, and an explorer. There is also a special symbol that serves as both a Wild and a Scatter, depicted as a book.\n\nFeatures\n\nLost Riches of El Dorado is rich in exciting features. The game has a free spin feature where the player can get up to 10 free spins when three or more Wild/Scatter symbols appear simultaneously on the reels. If you get two Scatters, you can also trigger the Cash Bonus feature and receive an instant cash prize. The game also has a Gamble feature, where after each win in the base game, the player can guess the suit or color of a card to win a prize. There is also a Super Stake feature, which allows the player to double their bet and increase the chance of activating free spins. If you are unable to win free spins, you have the option of purchasing them by paying 80x your bet amount.\n\nOverall Verdict\n\nLost Riches of El Dorado is an excellent adventure-themed slot game with engaging graphics. The range of bets is suitable for beginners, and there is a possibility of winning up to 10,000x the bet amount. The game is also rich in features with a free spin feature, cash bonus feature, gamble feature, and super stake feature. Overall, this game is a great choice for players who love mythological adventure-themed slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lost Riches of El Dorado\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Elements\n\nLost Riches of El Dorado is a 5-reels and 10 paylines slot game where the player has to match at least 3 symbols on a payline to secure a prize.\n\nBetting Range\n\nThe range of bets for Lost Riches of El Dorado is suitable for beginners. The minimum and maximum bets are €0.10 and €20 per spin, respectively. However, players can win up to 10,000x the bet amount.\n\nGame Graphics and Theme\n\nLost Riches of El Dorado has an adventurous theme centered around El Dorado, the city of gold. The graphics are of excellent quality and create a magnificent adventure atmosphere. The reels are set against the backdrop of two pyramids and the city of gold itself. Along with the standard symbols, there are also special symbols in the form of treasures like a statue, a gold coin, a chest full of treasures, and an explorer. There is also a special symbol that serves as both a Wild and a Scatter, depicted as a book.\n\nFeatures\n\nLost Riches of El Dorado is rich in exciting features. The game has a free spin feature where the player can get up to 10 free spins when three or more Wild/Scatter symbols appear simultaneously on the reels. If you get two Scatters, you can also trigger the Cash Bonus feature and receive an instant cash prize. The game also has a Gamble feature, where after each win in the base game, the player can guess the suit or color of a card to win a prize. There is also a Super Stake feature, which allows the player to double their bet and increase the chance of activating free spins. If you are unable to win free spins, you have the option of purchasing them by paying 80x your bet amount.\n\nOverall Verdict\n\nLost Riches of El Dorado is an excellent adventure-themed slot game with engaging graphics. The range of bets is suitable for beginners, and there is a possibility of winning up to 10,000x the bet amount. The game is also rich in features with a free spin feature, cash bonus feature, gamble feature, and super stake feature. Overall, this game is a great choice for players who love mythological adventure-themed slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U26UKr2DDq40ZQcBOwaoZz0dv9gx",
+                "id": "chatcmpl-7WWYadCyLqKG91E7eTrWBJGF29SWZ",
                 "object": "chat.completion",
-                "created": 1687392282,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986000,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Engaging adventure theme centered around El Dorado\",\n    \"Excellent quality graphics and atmosphere\",\n    \"Rich in exciting features like free spins, cash bonus, and gamble feature\",\n    \"Suitable betting range for beginners\"\n  ],\n  \"cons\": [\n    \"Purchasing free spins option is quite expensive\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Lost Riches of El Dorado Free Slot Game Review\",\n  \"meta_description\": \"Read our unbiased review of Lost Riches of El Dorado slot game and play for free. Engaging adventure theme, excellent graphics, and rich in exciting features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging adventure theme\",\n    \"Excellent graphics\",\n    \"Wide range of betting options\",\n    \"Exciting bonus features\"\n  ],\n  \"cons\": [\n    \"Purchasing free spins can be expensive\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Lost Riches of El Dorado for Free\",\n  \"meta_description\": \"Read our review of Lost Riches of El Dorado and play this exciting adventure-themed slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 641,
-                    "completion_tokens": 140,
-                    "total_tokens": 781
+                    "prompt_tokens": 638,
+                    "completion_tokens": 108,
+                    "total_tokens": 746
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lost-riches-of-el-dorado.json",
+    "raw_feature_images": [
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Lost_R_9a277704-88b8-433a-81ae-44e2ff41ffda_4.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Lost_R_9a277704-88b8-433a-81ae-44e2ff41ffda_2.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Lost_R_9a277704-88b8-433a-81ae-44e2ff41ffda_3.png",
+        "arved__Create_an_eye-catching_feature_image_for_the_game_Lost_R_9a277704-88b8-433a-81ae-44e2ff41ffda_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lost Riches Of El Dorado (Version 2).webp",
+        "game_reviews/processed_images/Lost Riches Of El Dorado (Version 3).webp",
+        "game_reviews/processed_images/Lost Riches Of El Dorado (Version 1).webp",
+        "game_reviews/processed_images/Lost Riches Of El Dorado (Version 4).webp"
+    ],
+    "slug": "lost-riches-of-el-dorado",
+    "name": "Lost Riches of El Dorado",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lost-Riches-Of-El-Dorado-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lost Riches of El Dorado for Free' ### Meta set: 'Read our review of Lost Riches of El Dorado and play this exciting adventure-themed slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

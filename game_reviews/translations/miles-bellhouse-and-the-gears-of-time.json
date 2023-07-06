@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful and immersive graphics",
-                    "Thematic symbol design",
-                    "Three bonus rounds",
-                    "Demo mode available"
+                    "Unique gameplay mechanics with cluster-based payouts",
+                    "Three bonus rounds set in different time periods",
+                    "Thematic and beautifully designed symbol animations",
+                    "Range of betting options and demo mode for free play"
                 ],
                 "cons": [
-                    "Betting range is limited",
-                    "No progressive jackpot"
+                    "Limited betting range",
+                    "No progressive jackpot feature"
                 ],
                 "meta_title": "Play Miles Bellhouse and the Gears of Time for Free",
-                "meta_description": "Read our review of Miles Bellhouse and the Gears of Time and play for free. Enjoy beautiful graphics, bonus rounds, and payouts up to 2000 times your bet."
+                "meta_description": "Read our review of Miles Bellhouse and the Gears of Time and play this slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Miles Bellhouse and the Gears of Time\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nIn Miles Bellhouse and the Gears of Time, players need to form groups of three or more symbols horizontally or vertically to hit a win. The payout mechanism is cluster-based, with larger clusters yielding bigger payouts. The game features 30 paylines and three bonus rounds, set in the past, present, and future, in addition to regular and free spins.\n\nBonus features\n\nThe game includes three bonus rounds, each set in different periods, and accessed by landing three or more matching scatter symbols. In the past bonus round, you get ten free spins, while in the present, you receive seven free spins and a 2x or 3x multiplier. In the future, the game offers five free spins with a 5x or 6x multiplier. Additionally, landing at least three scatter symbols anywhere on the reels triggers free spins, which can result in generous multipliers.\n\nSymbol design\n\nAll symbols in Miles Bellhouse and the Gears of Time are thematic, featuring images of the scientist, his helper robot, gear wheels, glasses, and clocks. The Wild symbol is a spinning vortex, while the Scatter symbols are represented by past, present, and future symbols. Symbols are animated and beautifully designed, consistent with the game's steampunk theme.\n\nBet options\n\nMiles Bellhouse and the Gears of Time offers a range of betting options across the game's 30 paylines. Players can bet a minimum of 10 cents to a maximum of €5 per spin. Although the betting range is relatively limited, players can still score up to 2,000 times their bet by leveraging the game's special functions and multipliers. The game also offers demo mode, allowing players to enjoy the game without betting real money.\n\nGraphics and interface design\n\nMiles Bellhouse and the Gears of Time's graphics and interface are truly impressive and consistent with the game's steampunk theme. The game's interface features the scientist, his helper robot, and the time machine, portrayed as a vortex of emerald green lights behind the scientist. The game controls are designed like gears, further reinforcing the theme. The reels are on the right, while on the left, players can watch the time machine, Miles Bellhouse, and his helper robot. The game's symbols are beautifully designed and animated, adding to the immersive experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Miles Bellhouse and the Gears of Time\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nIn Miles Bellhouse and the Gears of Time, players need to form groups of three or more symbols horizontally or vertically to hit a win. The payout mechanism is cluster-based, with larger clusters yielding bigger payouts. The game features 30 paylines and three bonus rounds, set in the past, present, and future, in addition to regular and free spins.\n\nBonus features\n\nThe game includes three bonus rounds, each set in different periods, and accessed by landing three or more matching scatter symbols. In the past bonus round, you get ten free spins, while in the present, you receive seven free spins and a 2x or 3x multiplier. In the future, the game offers five free spins with a 5x or 6x multiplier. Additionally, landing at least three scatter symbols anywhere on the reels triggers free spins, which can result in generous multipliers.\n\nSymbol design\n\nAll symbols in Miles Bellhouse and the Gears of Time are thematic, featuring images of the scientist, his helper robot, gear wheels, glasses, and clocks. The Wild symbol is a spinning vortex, while the Scatter symbols are represented by past, present, and future symbols. Symbols are animated and beautifully designed, consistent with the game's steampunk theme.\n\nBet options\n\nMiles Bellhouse and the Gears of Time offers a range of betting options across the game's 30 paylines. Players can bet a minimum of 10 cents to a maximum of €5 per spin. Although the betting range is relatively limited, players can still score up to 2,000 times their bet by leveraging the game's special functions and multipliers. The game also offers demo mode, allowing players to enjoy the game without betting real money.\n\nGraphics and interface design\n\nMiles Bellhouse and the Gears of Time's graphics and interface are truly impressive and consistent with the game's steampunk theme. The game's interface features the scientist, his helper robot, and the time machine, portrayed as a vortex of emerald green lights behind the scientist. The game controls are designed like gears, further reinforcing the theme. The reels are on the right, while on the left, players can watch the time machine, Miles Bellhouse, and his helper robot. The game's symbols are beautifully designed and animated, adding to the immersive experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U91l2ofg5nAGjCzGj6yhAOlR5WIe",
+                "id": "chatcmpl-7WXhpHrU7loHnykYrxYShxMARUIZt",
                 "object": "chat.completion",
-                "created": 1687418897,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990417,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Beautiful and immersive graphics\",\n    \"Thematic symbol design\",\n    \"Three bonus rounds\",\n    \"Demo mode available\"\n  ],\n  \"cons\": [\n    \"Betting range is limited\",\n    \"No progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Miles Bellhouse and the Gears of Time for Free\",\n  \"meta_description\": \"Read our review of Miles Bellhouse and the Gears of Time and play for free. Enjoy beautiful graphics, bonus rounds, and payouts up to 2000 times your bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay mechanics with cluster-based payouts\",\n    \"Three bonus rounds set in different time periods\",\n    \"Thematic and beautifully designed symbol animations\",\n    \"Range of betting options and demo mode for free play\"\n  ],\n  \"cons\": [\n    \"Limited betting range\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Miles Bellhouse and the Gears of Time for Free\",\n  \"meta_description\": \"Read our review of Miles Bellhouse and the Gears of Time and play this slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 660,
-                    "completion_tokens": 119,
-                    "total_tokens": 779
+                    "prompt_tokens": 657,
+                    "completion_tokens": 120,
+                    "total_tokens": 777
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/miles-bellhouse-and-the-gears-of-time.json",
+    "raw_feature_images": [
+        "arved__Create_a_cartoon-style_feature_image_showcasing_a_happy__281e3089-abfe-4a0d-b6b3-a68c6299083a_2.png",
+        "arved__Create_a_cartoon-style_feature_image_showcasing_a_happy__281e3089-abfe-4a0d-b6b3-a68c6299083a_4.png",
+        "arved__Create_a_cartoon-style_feature_image_showcasing_a_happy__281e3089-abfe-4a0d-b6b3-a68c6299083a_3.png",
+        "arved__Create_a_cartoon-style_feature_image_showcasing_a_happy__281e3089-abfe-4a0d-b6b3-a68c6299083a_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Miles Bellhouse And The Gears Of Time (Version 2).webp",
+        "game_reviews/processed_images/Miles Bellhouse And The Gears Of Time (Version 3).webp",
+        "game_reviews/processed_images/Miles Bellhouse And The Gears Of Time (Version 1).webp",
+        "game_reviews/processed_images/Miles Bellhouse And The Gears Of Time (Version 4).webp"
+    ],
+    "slug": "miles-bellhouse-and-the-gears-of-time",
+    "name": "Miles Bellhouse and the Gears of Time",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Miles-Bellhouse-And-The-Gears-Of-Time-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Miles Bellhouse and the Gears of Time for Free' ### Meta set: 'Read our review of Miles Bellhouse and the Gears of Time and play this slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

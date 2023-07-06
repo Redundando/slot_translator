@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Fun and unique insect-themed imagery.",
-                    "Free spins feature with multiplier increases payouts.",
-                    "Wild symbol increases chances of winning combinations.",
-                    "Gamble feature adds excitement and potential for big wins."
+                    "Fun cartoon-style imagery of insects",
+                    "Musical stage background adds to the atmosphere",
+                    "Variable number of free spins with a multiplier",
+                    "Exciting Gamble feature for additional winnings"
                 ],
                 "cons": [
-                    "Low RTP may deter some players.",
-                    "Limited betting range may not appeal to high rollers."
+                    "Low RTP of 94.19%",
+                    "Limited betting range for high rollers"
                 ],
-                "meta_title": "Play Beetle Mania Deluxe Free | Fun Insect-Themed Slot Game",
-                "meta_description": "Experience the charm of Beetle Mania Deluxe - a fun video slot game with vivid graphics, free spins, and gamble feature. Play free on our site."
+                "meta_title": "Play Beetle Mania Deluxe Free - Review of Novomatic Slot Game",
+                "meta_description": "Read our review of Beetle Mania Deluxe, a fun and entertaining slot game with free play option."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Beetle Mania deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeetle Mania Deluxe Overview\n\nBeetle Mania Deluxe is a slot game by Novomatic that features cartoon-style imagery of insects and a musical stage background across the playing grid. The game offers a betting range of € 0.02 to € 50 with an RTP of 94.19%.\n\nGameplay Features\n\nBeetle Mania Deluxe offers an Autoplay button for automatic spins and a betting range between € 0.02 and € 50. The game's RTP is 94.19%, which could dissuade some players.\n\nSymbols and Their Values\n\nSymbols on the reels include card symbols from 10 to Ace along with cartoon insects like a cheerful snail, a grumpy caterpillar, and a yellow butterfly. The payment table in the game's menu indicates the value of each symbol and the various payouts for the number of times it appears on the reels.\n\nSpecial Symbols\n\nThere are three special symbols in Beetle Mania Deluxe. The bee is the game's Wild and can replace all other symbols except the Scatter and Bonus to complete a winning combination. The Scatter, depicted by a musical note, offers a variable number of free spins and awards a multiplier of up to x50. The Bonus symbol does not appear on the reels but is earned during the free spins feature.\n\nGamble Feature\n\nAfter any win, players have the option to play the Gamble feature, an extra game that offers leave or double mode. Players must guess whether a card is red or black. Correct guesses double winnings, while incorrect guesses result in losing the entire amount.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Beetle Mania deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBeetle Mania Deluxe Overview\n\nBeetle Mania Deluxe is a slot game by Novomatic that features cartoon-style imagery of insects and a musical stage background across the playing grid. The game offers a betting range of € 0.02 to € 50 with an RTP of 94.19%.\n\nGameplay Features\n\nBeetle Mania Deluxe offers an Autoplay button for automatic spins and a betting range between € 0.02 and € 50. The game's RTP is 94.19%, which could dissuade some players.\n\nSymbols and Their Values\n\nSymbols on the reels include card symbols from 10 to Ace along with cartoon insects like a cheerful snail, a grumpy caterpillar, and a yellow butterfly. The payment table in the game's menu indicates the value of each symbol and the various payouts for the number of times it appears on the reels.\n\nSpecial Symbols\n\nThere are three special symbols in Beetle Mania Deluxe. The bee is the game's Wild and can replace all other symbols except the Scatter and Bonus to complete a winning combination. The Scatter, depicted by a musical note, offers a variable number of free spins and awards a multiplier of up to x50. The Bonus symbol does not appear on the reels but is earned during the free spins feature.\n\nGamble Feature\n\nAfter any win, players have the option to play the Gamble feature, an extra game that offers leave or double mode. Players must guess whether a card is red or black. Correct guesses double winnings, while incorrect guesses result in losing the entire amount.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdKcs4KuhNiTXgzm4kaK5eTc6CLd",
+                "id": "chatcmpl-7WO11JotAx8j4c81wW6cY4ppOw7Gy",
                 "object": "chat.completion",
-                "created": 1687058730,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 500,
-                    "completion_tokens": 139,
-                    "total_tokens": 639
-                },
+                "created": 1687953167,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Fun and unique insect-themed imagery.\",\n        \"Free spins feature with multiplier increases payouts.\",\n        \"Wild symbol increases chances of winning combinations.\",\n        \"Gamble feature adds excitement and potential for big wins.\"\n    ],\n    \"cons\": [\n        \"Low RTP may deter some players.\",\n        \"Limited betting range may not appeal to high rollers.\"\n    ],\n    \"meta_title\": \"Play Beetle Mania Deluxe Free | Fun Insect-Themed Slot Game\",\n    \"meta_description\": \"Experience the charm of Beetle Mania Deluxe - a fun video slot game with vivid graphics, free spins, and gamble feature. Play free on our site.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Fun cartoon-style imagery of insects\",\n    \"Musical stage background adds to the atmosphere\",\n    \"Variable number of free spins with a multiplier\",\n    \"Exciting Gamble feature for additional winnings\"\n  ],\n  \"cons\": [\n    \"Low RTP of 94.19%\",\n    \"Limited betting range for high rollers\"\n  ],\n  \"meta_title\": \"Play Beetle Mania Deluxe Free - Review of Novomatic Slot Game\",\n  \"meta_description\": \"Read our review of Beetle Mania Deluxe, a fun and entertaining slot game with free play option.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 497,
+                    "completion_tokens": 124,
+                    "total_tokens": 621
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/beetle-mania-deluxe.json",
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_3.png",
         "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_4.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_3.png"
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Beetle_Mania_7dbbc64c-04de-4265-9eab-05fbeeaa7594_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Beetle Mania Deluxe (Version 3).webp",
         "game_reviews/processed_images/Beetle Mania Deluxe (Version 1).webp",
         "game_reviews/processed_images/Beetle Mania Deluxe (Version 4).webp",
-        "game_reviews/processed_images/Beetle Mania Deluxe (Version 3).webp",
         "game_reviews/processed_images/Beetle Mania Deluxe (Version 2).webp"
-    ]
+    ],
+    "slug": "beetle-mania-deluxe",
+    "name": "Beetle Mania deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Beetle-Mania-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Beetle Mania Deluxe Free - Review of Novomatic Slot Game' ### Meta set: 'Read our review of Beetle Mania Deluxe, a fun and entertaining slot game with free play option.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

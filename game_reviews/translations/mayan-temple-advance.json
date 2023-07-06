@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Mayan theme and symbols are immersive and authentic",
-                    "Temple Bonus Game offers big payout opportunities",
-                    "RTP of 95.09% indicates frequent winnings",
-                    "Gameplay similar to other popular games with a Maya theme"
+                    "Stunning Mayan theme with authentic symbols",
+                    "Exciting Temple Bonus Game for big payouts",
+                    "High RTP of 95.09% for frequent winnings",
+                    "Similar games available for those who enjoy the Maya theme"
                 ],
                 "cons": [
-                    "Limited number of paylines may not appeal to some players",
-                    "Graphics are not as visually stunning as some other slot games"
+                    "Limited variety of symbols on the reels",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Mayan Temple Advance for Free - Review & Free Play",
-                "meta_description": "Immerse yourself in ancient Maya civilization. Review of Mayan Temple Advance slot game with RTP, bonus features, and similar games. Play now for free."
+                "meta_title": "Play Mayan Temple Advance - Free Slot Game",
+                "meta_description": "Discover the world of the Mayans and play Mayan Temple Advance for free. Win big with the Temple Bonus Game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mayan Temple Advance\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Theme\n\nMayan Temple Advance by Capecod is a slot game released in July 2019 that focuses on pre-Columbian populations, particularly the Maya. The symbols on the slot evoke the archetypal pre-Columbian temple with rocks, plants, golden totems and native girls.\n\nGameplay Features\n\nMayan Temple Advance has a 5x3 reel layout with fifteen winning paylines. The game has an RTP of 95.09%, meaning that for every €100 played, on average, €95 is issued as winnings. The Temple Bonus Game is the best chance for big payouts.\n\nRTP\n\nMayan Temple Advance uses an RTP of 95.09%. RTP indicates the return per player, that is the amount of money issued as winnings (over the long term) in relation to the money played. A 95%, as in this case, is an excellent value that indicates that players can expect winnings often.\n\nBonus Rounds\n\nThe Temple Bonus Game is the key to winning big at Mayan Temple Advance. By obtaining five Scatter symbols (the skull), players receive access to a multi-stage prize game that has the potential for huge payouts.\n\nSimilar Games\n\nOther slot games with a Maya theme and an RTP of around 95% include Novomatic's Book of Maya or Inca's Treasure, Inca Jackpot by Playtech, which also has great special features. Although the symbols may differ, these games share similarities in gameplay with Mayan Temple Advance.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mayan Temple Advance\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMayan Theme\n\nMayan Temple Advance by Capecod is a slot game released in July 2019 that focuses on pre-Columbian populations, particularly the Maya. The symbols on the slot evoke the archetypal pre-Columbian temple with rocks, plants, golden totems and native girls.\n\nGameplay Features\n\nMayan Temple Advance has a 5x3 reel layout with fifteen winning paylines. The game has an RTP of 95.09%, meaning that for every €100 played, on average, €95 is issued as winnings. The Temple Bonus Game is the best chance for big payouts.\n\nRTP\n\nMayan Temple Advance uses an RTP of 95.09%. RTP indicates the return per player, that is the amount of money issued as winnings (over the long term) in relation to the money played. A 95%, as in this case, is an excellent value that indicates that players can expect winnings often.\n\nBonus Rounds\n\nThe Temple Bonus Game is the key to winning big at Mayan Temple Advance. By obtaining five Scatter symbols (the skull), players receive access to a multi-stage prize game that has the potential for huge payouts.\n\nSimilar Games\n\nOther slot games with a Maya theme and an RTP of around 95% include Novomatic's Book of Maya or Inca's Treasure, Inca Jackpot by Playtech, which also has great special features. Although the symbols may differ, these games share similarities in gameplay with Mayan Temple Advance.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U6kQY3nQpjEZ8jotxNfyj6G5yei9",
+                "id": "chatcmpl-7WXMmZhAyd9cn6w92jEfcTGmRKSeS",
                 "object": "chat.completion",
-                "created": 1687410134,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989112,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Mayan theme and symbols are immersive and authentic\",\n        \"Temple Bonus Game offers big payout opportunities\",\n        \"RTP of 95.09% indicates frequent winnings\",\n        \"Gameplay similar to other popular games with a Maya theme\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines may not appeal to some players\",\n        \"Graphics are not as visually stunning as some other slot games\"\n    ],\n    \"meta_title\": \"Play Mayan Temple Advance for Free - Review & Free Play\",\n    \"meta_description\": \"Immerse yourself in ancient Maya civilization. Review of Mayan Temple Advance slot game with RTP, bonus features, and similar games. Play now for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Stunning Mayan theme with authentic symbols\",\n    \"Exciting Temple Bonus Game for big payouts\",\n    \"High RTP of 95.09% for frequent winnings\",\n    \"Similar games available for those who enjoy the Maya theme\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols on the reels\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Mayan Temple Advance - Free Slot Game\",\n  \"meta_description\": \"Discover the world of the Mayans and play Mayan Temple Advance for free. Win big with the Temple Bonus Game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 482,
-                    "completion_tokens": 154,
-                    "total_tokens": 636
+                    "prompt_tokens": 479,
+                    "completion_tokens": 129,
+                    "total_tokens": 608
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mayan-temple-advance.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_80f443fd-e333-4a4f-944f-3501148bee3b_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_80f443fd-e333-4a4f-944f-3501148bee3b_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_80f443fd-e333-4a4f-944f-3501148bee3b_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_80f443fd-e333-4a4f-944f-3501148bee3b_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mayan Temple Advance (Version 4).webp",
+        "game_reviews/processed_images/Mayan Temple Advance (Version 2).webp",
+        "game_reviews/processed_images/Mayan Temple Advance (Version 1).webp",
+        "game_reviews/processed_images/Mayan Temple Advance (Version 3).webp"
+    ],
+    "slug": "mayan-temple-advance",
+    "name": "Mayan Temple Advance",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mayan-Temple-Advance-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mayan Temple Advance - Free Slot Game' ### Meta set: 'Discover the world of the Mayans and play Mayan Temple Advance for free. Win big with the Temple Bonus Game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

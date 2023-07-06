@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Interesting bonus features",
-                    "Unique and captivating theme",
-                    "Several special symbols",
-                    "Mysterious and exciting jackpot feature"
+                    "Interesting bonuses, including Duel Bonus and free spins",
+                    "Unique and captivating theme with a rebellious princess",
+                    "Special symbols can lead to lucrative wins",
+                    "Exciting mysterious jackpot feature"
                 ],
                 "cons": [
-                    "Graphics could be of better quality",
-                    "Limited number of paylines"
+                    "Graphics are not of excellent quality",
+                    "Limited number of paylines (25)"
                 ],
-                "meta_title": "Play Heavy Metal Princess free and enjoy exciting bonus features",
-                "meta_description": "Read our review of Heavy Metal Princess online slot game, play the game for free, and enjoy its captivating theme and exciting bonus features."
+                "meta_title": "Play Heavy Metal Princess for Free - Exciting Bonuses & Jackpot",
+                "meta_description": "Read our review of Heavy Metal Princess, play for free, and enjoy exciting bonuses and a mysterious jackpot."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Heavy Metal Princess\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nHeavy Metal Princess by PlayPearls has 5 reels, 25 paylines and an RTP of 95.06%. The game offers interesting bonuses, including the Duel Bonus, free spins, Dragon Bonus and the famous mysterious jackpot. It is a captivating and unusual slot game with a rockstar princess in front of us, ready to dominate the game with her guitar/sword.\n\nTheme and Visuals\n\nHeavy Metal Princess is not the typical princess slot game. It presents a unique and captivating theme with a rebellious and wild princess that battles for wins. The graphics are pleasant but not of excellent quality, developed in cartoon style, which is a must for PlayPearls. The game is set in the kingdom of Etheria and accompanied by a convincing soundtrack.\n\nSpecial Symbols\n\nHeavy Metal Princess offers several special symbols, including the Wild, the castle that becomes Scatter, and the bonus dragon. Each of them serves as a key to unlock different features and can lead to lucrative wins, especially when combined with the princess's symbols. The game features high paying symbols like the skull, the guitar, and the princess herself.\n\nBonus Games\n\nHeavy Metal Princess offers several bonus games, including the Duel Bonus, where the princess challenges a villain to accumulate money on the player's behalf. The game also features a Dragon Bonus that requires players to choose a melody for the princess and discover the cash prize associated with each choice they make. Additionally, the game has free spins that range from a minimum of 10 and can be doubled thanks to the number of Scatters collected.\n\nJackpot\n\nHeavy Metal Princess has a mysterious jackpot feature that can be activated at any moment in the game. While it is random, players should keep their eye out for it as it could bring huge rewards. The jackpot is a dream jackpot that can make for an exciting and thrilling experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Heavy Metal Princess\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nHeavy Metal Princess by PlayPearls has 5 reels, 25 paylines and an RTP of 95.06%. The game offers interesting bonuses, including the Duel Bonus, free spins, Dragon Bonus and the famous mysterious jackpot. It is a captivating and unusual slot game with a rockstar princess in front of us, ready to dominate the game with her guitar/sword.\n\nTheme and Visuals\n\nHeavy Metal Princess is not the typical princess slot game. It presents a unique and captivating theme with a rebellious and wild princess that battles for wins. The graphics are pleasant but not of excellent quality, developed in cartoon style, which is a must for PlayPearls. The game is set in the kingdom of Etheria and accompanied by a convincing soundtrack.\n\nSpecial Symbols\n\nHeavy Metal Princess offers several special symbols, including the Wild, the castle that becomes Scatter, and the bonus dragon. Each of them serves as a key to unlock different features and can lead to lucrative wins, especially when combined with the princess's symbols. The game features high paying symbols like the skull, the guitar, and the princess herself.\n\nBonus Games\n\nHeavy Metal Princess offers several bonus games, including the Duel Bonus, where the princess challenges a villain to accumulate money on the player's behalf. The game also features a Dragon Bonus that requires players to choose a melody for the princess and discover the cash prize associated with each choice they make. Additionally, the game has free spins that range from a minimum of 10 and can be doubled thanks to the number of Scatters collected.\n\nJackpot\n\nHeavy Metal Princess has a mysterious jackpot feature that can be activated at any moment in the game. While it is random, players should keep their eye out for it as it could bring huge rewards. The jackpot is a dream jackpot that can make for an exciting and thrilling experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TpOTFr718roZ2MYoJEz6IDuwIr3I",
+                "id": "chatcmpl-7WUg8d60QIRNJj5mNs2zVsinZROO5",
                 "object": "chat.completion",
-                "created": 1687343425,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687978780,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Interesting bonus features\",\n        \"Unique and captivating theme\",\n        \"Several special symbols\",\n        \"Mysterious and exciting jackpot feature\"\n    ],\n    \"cons\": [\n        \"Graphics could be of better quality\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Heavy Metal Princess free and enjoy exciting bonus features\",\n    \"meta_description\": \"Read our review of Heavy Metal Princess online slot game, play the game for free, and enjoy its captivating theme and exciting bonus features.\"\n}"
+                            "content": "{\n  \"pros\": [\n    \"Interesting bonuses, including Duel Bonus and free spins\",\n    \"Unique and captivating theme with a rebellious princess\",\n    \"Special symbols can lead to lucrative wins\",\n    \"Exciting mysterious jackpot feature\"\n  ],\n  \"cons\": [\n    \"Graphics are not of excellent quality\",\n    \"Limited number of paylines (25)\"\n  ],\n  \"meta_title\": \"Play Heavy Metal Princess for Free - Exciting Bonuses & Jackpot\",\n  \"meta_description\": \"Read our review of Heavy Metal Princess, play for free, and enjoy exciting bonuses and a mysterious jackpot.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 552,
-                    "completion_tokens": 112,
-                    "total_tokens": 664
+                    "prompt_tokens": 549,
+                    "completion_tokens": 126,
+                    "total_tokens": 675
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/heavy-metal-princess.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_fun_and_vibrant_feature_image__f87b6962-2aef-4a83-bfa8-1dad083b2c5f_1.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_vibrant_feature_image__f87b6962-2aef-4a83-bfa8-1dad083b2c5f_2.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_vibrant_feature_image__f87b6962-2aef-4a83-bfa8-1dad083b2c5f_4.png",
+        "arved__Prompt_for_DALLE_Create_a_fun_and_vibrant_feature_image__f87b6962-2aef-4a83-bfa8-1dad083b2c5f_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Heavy Metal Princess (Version 4).webp",
+        "game_reviews/processed_images/Heavy Metal Princess (Version 3).webp",
+        "game_reviews/processed_images/Heavy Metal Princess (Version 1).webp",
+        "game_reviews/processed_images/Heavy Metal Princess (Version 2).webp"
+    ],
+    "slug": "heavy-metal-princess",
+    "name": "Heavy Metal Princess",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Heavy-Metal-Princess-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Heavy Metal Princess for Free - Exciting Bonuses & Jackpot' ### Meta set: 'Read our review of Heavy Metal Princess, play for free, and enjoy exciting bonuses and a mysterious jackpot.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

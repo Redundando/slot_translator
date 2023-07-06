@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free spins and lucky symbol feature",
-                    "Traditional graphics and immersive theme",
-                    "Random symbol appearance adds excitement",
-                    "Eye of Horus symbol offers big win potential"
+                    "Egyptian theme with traditional graphics",
+                    "Special features for increased odds of success",
+                    "Immersive and exciting gameplay",
+                    "Random symbol appearances for added excitement"
                 ],
                 "cons": [
-                    "Big wins can be difficult to achieve",
+                    "Big wins may be elusive",
                     "Limited number of paylines"
                 ],
-                "meta_title": "Play Ancient Script Free - Review of Egyptian Slot Game",
-                "meta_description": "Explore the Ancient Script slot game, free to play, featuring an Egyptian theme with lucky symbols and free spins. Discover the pros and cons in our review."
+                "meta_title": "Play Ancient Script Slot Game for Free",
+                "meta_description": "Read our review of Ancient Script and play for free. Experience the Egyptian themed slot game with special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ancient Script\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Ancient Script slot game\n\nAncient Script is a 5-reel, 10-payline slot game with an Egyptian theme. The game features traditional graphics and symbols such as Ankh crosses, Bastions, Pyramids, and the Eye of Horus. Modern features include free spins and the opportunity to turn random symbols into lucky ones for extra wins. Players should keep an eye on the small pedestal to the right of the grid, as a random symbol may appear and become the focus of a winning combination.\n\nSymbols including wild and scatter\n\nThe symbols in Ancient Script include Ankh crosses, Bastions, Pyramids, the Eye of Horus, and more. The golden mask symbol acts as both the wild and scatter. The Eye of Horus is the most lucrative symbol, offering up to 400 coins.\n\nSpecial features and their benefits\n\nAncient Script offers a variety of special features to help increase the odds of success. The golden mask symbol can trigger 8-12 free spins at random. The crystal ball can turn random symbols into lucky ones, filling an entire reel and generating extra wins. Players who take advantage of these special features may have a better chance of winning big.\n\nGameplay and likelihood of winning\n\nAncient Script is a classic slot game with modern features that can make gameplay more exciting. While big wins may be elusive, taking advantage of special features may increase the odds of success. The random appearance of a symbol on the pedestal to the right of the grid adds an element of surprise to the gameplay.\n\nGraphics and theme\n\nThe graphics in Ancient Script are traditional with a gorgeous palace and palm trees in the background. The Egyptian theme is well-executed with symbols such as Ankh crosses, Bastions, Pyramids, and the Eye of Horus. Overall, the graphics and theme create an immersive and exciting gaming experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ancient Script\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Ancient Script slot game\n\nAncient Script is a 5-reel, 10-payline slot game with an Egyptian theme. The game features traditional graphics and symbols such as Ankh crosses, Bastions, Pyramids, and the Eye of Horus. Modern features include free spins and the opportunity to turn random symbols into lucky ones for extra wins. Players should keep an eye on the small pedestal to the right of the grid, as a random symbol may appear and become the focus of a winning combination.\n\nSymbols including wild and scatter\n\nThe symbols in Ancient Script include Ankh crosses, Bastions, Pyramids, the Eye of Horus, and more. The golden mask symbol acts as both the wild and scatter. The Eye of Horus is the most lucrative symbol, offering up to 400 coins.\n\nSpecial features and their benefits\n\nAncient Script offers a variety of special features to help increase the odds of success. The golden mask symbol can trigger 8-12 free spins at random. The crystal ball can turn random symbols into lucky ones, filling an entire reel and generating extra wins. Players who take advantage of these special features may have a better chance of winning big.\n\nGameplay and likelihood of winning\n\nAncient Script is a classic slot game with modern features that can make gameplay more exciting. While big wins may be elusive, taking advantage of special features may increase the odds of success. The random appearance of a symbol on the pedestal to the right of the grid adds an element of surprise to the gameplay.\n\nGraphics and theme\n\nThe graphics in Ancient Script are traditional with a gorgeous palace and palm trees in the background. The Egyptian theme is well-executed with symbols such as Ankh crosses, Bastions, Pyramids, and the Eye of Horus. Overall, the graphics and theme create an immersive and exciting gaming experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SX5Y6rnEyULUm5BWioDc4HNlBNNF",
+                "id": "chatcmpl-7WNH1Yxrr84YM3yShXRtziiJaiZ0V",
                 "object": "chat.completion",
-                "created": 1687034732,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 551,
-                    "completion_tokens": 127,
-                    "total_tokens": 678
-                },
+                "created": 1687950315,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free spins and lucky symbol feature\",\n        \"Traditional graphics and immersive theme\",\n        \"Random symbol appearance adds excitement\",\n        \"Eye of Horus symbol offers big win potential\"\n    ],\n    \"cons\": [\n        \"Big wins can be difficult to achieve\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Ancient Script Free - Review of Egyptian Slot Game\",\n    \"meta_description\": \"Explore the Ancient Script slot game, free to play, featuring an Egyptian theme with lucky symbols and free spins. Discover the pros and cons in our review.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Egyptian theme with traditional graphics\",\n    \"Special features for increased odds of success\",\n    \"Immersive and exciting gameplay\",\n    \"Random symbol appearances for added excitement\"\n  ],\n  \"cons\": [\n    \"Big wins may be elusive\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Ancient Script Slot Game for Free\",\n  \"meta_description\": \"Read our review of Ancient Script and play for free. Experience the Egyptian themed slot game with special features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 548,
+                    "completion_tokens": 111,
+                    "total_tokens": 659
+                }
             }
         },
         {
@@ -816,13 +816,22 @@
     "raw_feature_images": [
         "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_3.png",
         "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_1.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_2.png"
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_2.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_online_slot_37bce56d-018e-4f2b-8bb0-e2bab2b635d2_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Ancient Script (Version 4).webp",
-        "game_reviews/processed_images/Ancient Script (Version 3).webp",
         "game_reviews/processed_images/Ancient Script (Version 2).webp",
-        "game_reviews/processed_images/Ancient Script (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Ancient Script (Version 1).webp",
+        "game_reviews/processed_images/Ancient Script (Version 4).webp",
+        "game_reviews/processed_images/Ancient Script (Version 3).webp"
+    ],
+    "slug": "ancient-script",
+    "name": "Ancient Script",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ancient-Script-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ancient Script Slot Game for Free' ### Meta set: 'Read our review of Ancient Script and play for free. Experience the Egyptian themed slot game with special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

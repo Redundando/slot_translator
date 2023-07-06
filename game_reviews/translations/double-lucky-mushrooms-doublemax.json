@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Beautiful graphics that transport the player to the endless green fields of Ireland",
-                    "Large symbols make it easy to understand when a combo has been won",
-                    "Automatic spins feature with loss limits",
-                    "High volatility with a theoretical RTP of 95.5%"
+                    "Beautiful graphics with a natural and relaxing atmosphere",
+                    "Easy to understand when a combo has been won",
+                    "Automatic spins with the option to set limits on losses",
+                    "Demo version available to try out the game before betting with real money"
                 ],
                 "cons": [
                     "Graphics may not be the absolute best",
-                    "Demo version may not fully represent the game's true potential"
+                    "High volatility may not appeal to all players"
                 ],
-                "meta_title": "Play Double Lucky Mushrooms DoubleMax for Free - Slot Game Review",
-                "meta_description": "Experience the magic of Double Lucky Mushrooms DoubleMax with beautiful graphics, high volatility, and a theoretical RTP of 95.5%. Try it out for free now!"
+                "meta_title": "Play Double Lucky Mushrooms DoubleMax Free - Review",
+                "meta_description": "Experience the magic of Double Lucky Mushrooms DoubleMax with beautiful graphics and high volatility."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Double Lucky Mushrooms DoubleMax\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDouble Lucky Mushrooms DoubleMax features a 5x3 grid and 20 fixed paylines, with each spin costing €0,20, but the bet can be raised at will. Like many slot games, this one also offers the possibility of setting automatic spins, but with the requirement to set limits on losses, after which the Autoplay will stop.\n\nGraphics\n\nDouble Lucky Mushrooms DoubleMax has beautiful graphics that transport the player to the endless green fields of Ireland, with the rainbow in clear sight. Although the graphics may not be the absolute best, the large symbols make it easy to understand when a combo has been won, and the buttons are placed outside the screen, so they won't get in the way of your gameplay. The music sets the perfect atmosphere for the game, with a mix of relaxing flutes and natural sounds such as flowing rivers and chirping birds.\n\nVolatility and RTP\n\nDouble Lucky Mushrooms DoubleMax has high volatility, with the theoretical return to player (RTP) being 95.5%.\n\nDemo version\n\nExperience the magic of Double Lucky Mushrooms DoubleMax today, with a demo version available on our website for you to try out the game before betting with real money.\n\nCompatibility\n\nPlay this HTML5 game on any device, whether it be Android or iOS. With 20 fixed paylines, there are plenty of chances to win big in this exciting slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Double Lucky Mushrooms DoubleMax\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDouble Lucky Mushrooms DoubleMax features a 5x3 grid and 20 fixed paylines, with each spin costing €0,20, but the bet can be raised at will. Like many slot games, this one also offers the possibility of setting automatic spins, but with the requirement to set limits on losses, after which the Autoplay will stop.\n\nGraphics\n\nDouble Lucky Mushrooms DoubleMax has beautiful graphics that transport the player to the endless green fields of Ireland, with the rainbow in clear sight. Although the graphics may not be the absolute best, the large symbols make it easy to understand when a combo has been won, and the buttons are placed outside the screen, so they won't get in the way of your gameplay. The music sets the perfect atmosphere for the game, with a mix of relaxing flutes and natural sounds such as flowing rivers and chirping birds.\n\nVolatility and RTP\n\nDouble Lucky Mushrooms DoubleMax has high volatility, with the theoretical return to player (RTP) being 95.5%.\n\nDemo version\n\nExperience the magic of Double Lucky Mushrooms DoubleMax today, with a demo version available on our website for you to try out the game before betting with real money.\n\nCompatibility\n\nPlay this HTML5 game on any device, whether it be Android or iOS. With 20 fixed paylines, there are plenty of chances to win big in this exciting slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T5gscp4fXlYYr9ql2LXieVjC4hXC",
+                "id": "chatcmpl-7WRRWORiPL2IXfqKkscl0XXcnrahI",
                 "object": "chat.completion",
-                "created": 1687167742,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 468,
-                    "completion_tokens": 157,
-                    "total_tokens": 625
-                },
+                "created": 1687966342,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautiful graphics that transport the player to the endless green fields of Ireland\",\n        \"Large symbols make it easy to understand when a combo has been won\",\n        \"Automatic spins feature with loss limits\",\n        \"High volatility with a theoretical RTP of 95.5%\"\n    ],\n    \"cons\": [\n        \"Graphics may not be the absolute best\",\n        \"Demo version may not fully represent the game's true potential\"\n    ],\n    \"meta_title\": \"Play Double Lucky Mushrooms DoubleMax for Free - Slot Game Review\",\n    \"meta_description\": \"Experience the magic of Double Lucky Mushrooms DoubleMax with beautiful graphics, high volatility, and a theoretical RTP of 95.5%. Try it out for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful graphics with a natural and relaxing atmosphere\",\n    \"Easy to understand when a combo has been won\",\n    \"Automatic spins with the option to set limits on losses\",\n    \"Demo version available to try out the game before betting with real money\"\n  ],\n  \"cons\": [\n    \"Graphics may not be the absolute best\",\n    \"High volatility may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play Double Lucky Mushrooms DoubleMax Free - Review\",\n  \"meta_description\": \"Experience the magic of Double Lucky Mushrooms DoubleMax with beautiful graphics and high volatility.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 465,
+                    "completion_tokens": 130,
+                    "total_tokens": 595
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_3.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_1.png",
         "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_2.png",
-        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_4.png"
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_3.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_4.png",
+        "arved__Create_a_feature_image_that_perfectly_captures_the_excit_e9bf9239-0a2a-4789-819d-02dd7d0a7644_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 4).webp",
-        "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 3).webp",
+        "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 2).webp",
         "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 1).webp",
-        "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 2).webp"
+        "game_reviews/processed_images/Double Lucky Mushrooms Doublemax (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/double-lucky-mushrooms-doublemax.json"
+    "filename": "game_reviews/translations/double-lucky-mushrooms-doublemax.json",
+    "slug": "double-lucky-mushrooms-doublemax",
+    "name": "Double Lucky Mushrooms DoubleMax",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Double-Lucky-Mushrooms-Doublemax-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Double Lucky Mushrooms DoubleMax Free - Review' ### Meta set: 'Experience the magic of Double Lucky Mushrooms DoubleMax with beautiful graphics and high volatility.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

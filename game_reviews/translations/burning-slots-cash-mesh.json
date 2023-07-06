@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Generous payout structure",
-                    "Colorful and well-designed visuals",
-                    "Flexible and compatible with multiple devices",
-                    "Exciting bonus features"
+                    "High volatility and varying RTP rates",
+                    "Generous payout structure with a maximum payout of 50,000x your bet",
+                    "Bright and colorful fruit-themed design with smooth animations and graphics",
+                    "Multiple bonus features including Wild Symbol, Cash Mesh Feature, and Hold and Win bonus game"
                 ],
                 "cons": [
-                    "High volatility may not suit all players",
-                    "Limited number of paylines"
+                    "Limited number of paylines (only five)",
+                    "The game may be too flashy and overwhelming for some players"
                 ],
-                "meta_title": "Play Burning Slots Cash Mesh for Free - Exciting Bonus Features",
-                "meta_description": "Read our review of Burning Slots Cash Mesh, play now for free and enjoy exciting bonus features including Wild Symbol, Cash Mesh Feature and Hold and Win Bonus Game."
+                "meta_title": "Play Burning Slots Cash Mesh Free",
+                "meta_description": "Read our review of Burning Slots Cash Mesh and play the game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Burning Slots Cash Mesh\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\n\"Burning Slots Cash Mesh\" offers a field of play with five reels and three rows, with five paylines. This online slot without registration has high volatility and varying RTP rates, with the highest being 96.07%. The minimum bet you can make is €0.10, and the maximum is €50. The maximum payout for this colorful game is 50,000x your bet. In addition to fruit symbols, there's also a pot of gold, clovers, bells, horseshoes, lucky 7s, and bonus coins.\n\nVisual Design\n\nThe game design features a bright and colorful fruit-themed design with smooth animations and graphics. The symbols are well-designed, and the background is a dark-blue gradient, which complements the game's theme perfectly.\n\nBonus Features\n\nThere are a few bonus features in this game. The first is the Wild Symbol. This symbol is the clover, which can replace any other symbol except for the scatter symbol and can grow to fill the entire vertical space of the game screen. The second feature is the Cash Mesh Feature. When you get 5 coin symbols, you have a chance to win one of the four jackpots and benefit from the Respins feature, increasing your winnings by activating the Cash Mesh function. Pay attention to the symbols on the coins because some have the word \"jackpot\" written on them. The third feature is the Hold and Win bonus game, which is activated quite often and consistently increased winnings. \n\nPayout Structure\n\nThe payout structure for this game is quite generous, with a maximum payout of 50,000x your bet. The game has high volatility and varying RTP rates, with the highest being 96.07%. The minimum bet you can make is €0.10, and the maximum is €50.\n\nCompatibility with Different Devices\n\nThis game is compatible with multiple devices, making it flexible and enjoyable to many players. You can play it on your desktop, laptop, or mobile device running on iOS or Android operating system.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Burning Slots Cash Mesh\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Experience\n\n\"Burning Slots Cash Mesh\" offers a field of play with five reels and three rows, with five paylines. This online slot without registration has high volatility and varying RTP rates, with the highest being 96.07%. The minimum bet you can make is €0.10, and the maximum is €50. The maximum payout for this colorful game is 50,000x your bet. In addition to fruit symbols, there's also a pot of gold, clovers, bells, horseshoes, lucky 7s, and bonus coins.\n\nVisual Design\n\nThe game design features a bright and colorful fruit-themed design with smooth animations and graphics. The symbols are well-designed, and the background is a dark-blue gradient, which complements the game's theme perfectly.\n\nBonus Features\n\nThere are a few bonus features in this game. The first is the Wild Symbol. This symbol is the clover, which can replace any other symbol except for the scatter symbol and can grow to fill the entire vertical space of the game screen. The second feature is the Cash Mesh Feature. When you get 5 coin symbols, you have a chance to win one of the four jackpots and benefit from the Respins feature, increasing your winnings by activating the Cash Mesh function. Pay attention to the symbols on the coins because some have the word \"jackpot\" written on them. The third feature is the Hold and Win bonus game, which is activated quite often and consistently increased winnings. \n\nPayout Structure\n\nThe payout structure for this game is quite generous, with a maximum payout of 50,000x your bet. The game has high volatility and varying RTP rates, with the highest being 96.07%. The minimum bet you can make is €0.10, and the maximum is €50.\n\nCompatibility with Different Devices\n\nThis game is compatible with multiple devices, making it flexible and enjoyable to many players. You can play it on your desktop, laptop, or mobile device running on iOS or Android operating system.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SodF7RJBnnJuZp6yWLvSRNKp1pMf",
+                "id": "chatcmpl-7WPZ88pHEbWKOxvHkziCsrNP5LtOu",
                 "object": "chat.completion",
-                "created": 1687102169,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 592,
-                    "completion_tokens": 125,
-                    "total_tokens": 717
-                },
+                "created": 1687959126,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Generous payout structure\",\n    \"Colorful and well-designed visuals\",\n    \"Flexible and compatible with multiple devices\",\n    \"Exciting bonus features\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit all players\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Burning Slots Cash Mesh for Free - Exciting Bonus Features\",\n  \"meta_description\": \"Read our review of Burning Slots Cash Mesh, play now for free and enjoy exciting bonus features including Wild Symbol, Cash Mesh Feature and Hold and Win Bonus Game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High volatility and varying RTP rates\",\n    \"Generous payout structure with a maximum payout of 50,000x your bet\",\n    \"Bright and colorful fruit-themed design with smooth animations and graphics\",\n    \"Multiple bonus features including Wild Symbol, Cash Mesh Feature, and Hold and Win bonus game\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (only five)\",\n    \"The game may be too flashy and overwhelming for some players\"\n  ],\n  \"meta_title\": \"Play Burning Slots Cash Mesh Free\",\n  \"meta_description\": \"Read our review of Burning Slots Cash Mesh and play the game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 589,
+                    "completion_tokens": 138,
+                    "total_tokens": 727
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_3.png",
         "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_1.png",
-        "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_2.png",
         "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_4.png",
-        "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_3.png"
+        "arved__Can_I_play_Burning_Slots_Cash_Mesh_without_registration__c4328de5-5044-4a85-998d-144296ce6c69_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Burning Slots Cash Mesh (Version 2).webp",
         "game_reviews/processed_images/Burning Slots Cash Mesh (Version 3).webp",
         "game_reviews/processed_images/Burning Slots Cash Mesh (Version 1).webp",
-        "game_reviews/processed_images/Burning Slots Cash Mesh (Version 4).webp",
-        "game_reviews/processed_images/Burning Slots Cash Mesh (Version 2).webp"
+        "game_reviews/processed_images/Burning Slots Cash Mesh (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/burning-slots-cash-mesh.json"
+    "filename": "game_reviews/translations/burning-slots-cash-mesh.json",
+    "slug": "burning-slots-cash-mesh",
+    "name": "Burning Slots Cash Mesh",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Burning-Slots-Cash-Mesh-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Burning Slots Cash Mesh Free' ### Meta set: 'Read our review of Burning Slots Cash Mesh and play the game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

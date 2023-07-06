@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging Beat Boxes function that increases payouts",
+                    "Simple and engaging gameplay",
                     "Visually stunning graphics and animations",
                     "High volatility with great wins",
-                    "Multilevel Pick Bonus feature"
+                    "Pick Bonus feature adds excitement and rewards"
                 ],
                 "cons": [
-                    "Only 20 fixed paylines",
-                    "Bonus rounds may not trigger frequently"
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Defenders of the Realm for Free - Review",
-                "meta_description": "Read our review of Defenders of the Realm and play for free. Engaging Beat Boxes, stunning graphics, and high volatility with a multilevel Pick Bonus."
+                "meta_title": "Play Defenders of the Realm for Free",
+                "meta_description": "Read our review of Defenders of the Realm and play for free to experience the epic gameplay and stunning graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Defenders of the Realm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDefenders of the Realm has a simple 5x4 board with 20 fixed paylines. Players can set a minimum bet of €0.20 and a maximum bet of €200. The game has a high volatility with less frequent but great wins. The RTP is 96%, which is within the norm. Players can decide to set a variable number of automatic spins and choose some playing limits. The game features a Beat Boxes function where each time a horn appears, it will be framed with a color that will remain in subsequent spins. If a winning combination occurs, the payout will be doubled, and the frame will disappear.\n\nVisual Design\n\nDefenders of the Realm is set in a fantasy world and merges Nordic traditions with the epic. The game board is represented by an altar façade, with the protagonists' effigies placed on top and a city in the background with futuristic lines but also typical references to Arabic architecture. The sound effects are accompanied by an intense and invigorating music, which is not intrusive but complements some of the graphical animations. The graphics and animations of the game are visually stunning and engaging.\n\nVolatility and RTP\n\nDefenders of the Realm has a high volatility, with less frequent but still great wins. The RTP is 96%, which is within the norm.\n\nSymbols and Wilds\n\nThere are nine regular symbols in Defenders of the Realm. The low-value symbols are the cards, 5, J, Q, K, and A, carved in rock jewels. The most rewarding symbols are the four warriors, with the Nordic ones having higher rewards than the epic ones. The word Wild in front of a half-closed door is the wild card, which pays and replaces all other symbols except the special ones. The scatter, on the other hand, is a chest. If three or more appear, the Pick Bonus will be activated, a special multilevel game where players will be faced with different rows containing covered symbols. Players will have to click on them and reveal the type of reward.\n\nBonus Games\n\nIn Defenders of the Realm, the Pick Bonus feature is activated if three or more scatter symbols appear. Essentially, players will be faced with different rows containing covered symbols. Players will have to click on them and reveal the type of reward. The bonuses can either be a variable payout or a payout that allows players to advance to a new level. When players reach the last level, they may encounter the X, which will immediately end the game, or reveal the 2x symbol, doubling all payouts. Defenders of the Realm also features a special function called Beat Boxes. If the frames are aligned on all reels, the Locked Wilds feature will be activated: 10 free spins during which an extended wild card will appear, sometimes with a 2x multiplier.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Defenders of the Realm\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDefenders of the Realm has a simple 5x4 board with 20 fixed paylines. Players can set a minimum bet of €0.20 and a maximum bet of €200. The game has a high volatility with less frequent but great wins. The RTP is 96%, which is within the norm. Players can decide to set a variable number of automatic spins and choose some playing limits. The game features a Beat Boxes function where each time a horn appears, it will be framed with a color that will remain in subsequent spins. If a winning combination occurs, the payout will be doubled, and the frame will disappear.\n\nVisual Design\n\nDefenders of the Realm is set in a fantasy world and merges Nordic traditions with the epic. The game board is represented by an altar façade, with the protagonists' effigies placed on top and a city in the background with futuristic lines but also typical references to Arabic architecture. The sound effects are accompanied by an intense and invigorating music, which is not intrusive but complements some of the graphical animations. The graphics and animations of the game are visually stunning and engaging.\n\nVolatility and RTP\n\nDefenders of the Realm has a high volatility, with less frequent but still great wins. The RTP is 96%, which is within the norm.\n\nSymbols and Wilds\n\nThere are nine regular symbols in Defenders of the Realm. The low-value symbols are the cards, 5, J, Q, K, and A, carved in rock jewels. The most rewarding symbols are the four warriors, with the Nordic ones having higher rewards than the epic ones. The word Wild in front of a half-closed door is the wild card, which pays and replaces all other symbols except the special ones. The scatter, on the other hand, is a chest. If three or more appear, the Pick Bonus will be activated, a special multilevel game where players will be faced with different rows containing covered symbols. Players will have to click on them and reveal the type of reward.\n\nBonus Games\n\nIn Defenders of the Realm, the Pick Bonus feature is activated if three or more scatter symbols appear. Essentially, players will be faced with different rows containing covered symbols. Players will have to click on them and reveal the type of reward. The bonuses can either be a variable payout or a payout that allows players to advance to a new level. When players reach the last level, they may encounter the X, which will immediately end the game, or reveal the 2x symbol, doubling all payouts. Defenders of the Realm also features a special function called Beat Boxes. If the frames are aligned on all reels, the Locked Wilds feature will be activated: 10 free spins during which an extended wild card will appear, sometimes with a 2x multiplier.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T2O7RAlIJn5EfP9mpyFHeo8Bhy9F",
+                "id": "chatcmpl-7WR7JebIeSLkJYTb8KIcrN0EbrAZ0",
                 "object": "chat.completion",
-                "created": 1687155047,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 752,
-                    "completion_tokens": 129,
-                    "total_tokens": 881
-                },
+                "created": 1687965089,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging Beat Boxes function that increases payouts\",\n        \"Visually stunning graphics and animations\",\n        \"High volatility with great wins\",\n        \"Multilevel Pick Bonus feature\"\n    ],\n    \"cons\": [\n        \"Only 20 fixed paylines\",\n        \"Bonus rounds may not trigger frequently\"\n    ],\n    \"meta_title\": \"Play Defenders of the Realm for Free - Review\",\n    \"meta_description\": \"Read our review of Defenders of the Realm and play for free. Engaging Beat Boxes, stunning graphics, and high volatility with a multilevel Pick Bonus.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and engaging gameplay\",\n    \"Visually stunning graphics and animations\",\n    \"High volatility with great wins\",\n    \"Pick Bonus feature adds excitement and rewards\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Defenders of the Realm for Free\",\n  \"meta_description\": \"Read our review of Defenders of the Realm and play for free to experience the epic gameplay and stunning graphics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 749,
+                    "completion_tokens": 109,
+                    "total_tokens": 858
+                }
             }
         },
         {
@@ -814,16 +814,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_2.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_3.png",
         "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_4.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_1.png"
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_2.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_1.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_986f861d-264b-4bdc-999f-dfe0cd5f9141_3.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Defenders Of The Realm (Version 3).webp",
         "game_reviews/processed_images/Defenders Of The Realm (Version 2).webp",
-        "game_reviews/processed_images/Defenders Of The Realm (Version 1).webp",
         "game_reviews/processed_images/Defenders Of The Realm (Version 4).webp",
-        "game_reviews/processed_images/Defenders Of The Realm (Version 3).webp"
+        "game_reviews/processed_images/Defenders Of The Realm (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/defenders-of-the-realm.json"
+    "filename": "game_reviews/translations/defenders-of-the-realm.json",
+    "slug": "defenders-of-the-realm",
+    "name": "Defenders of the Realm",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Defenders-Of-The-Realm-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Defenders of the Realm for Free' ### Meta set: 'Read our review of Defenders of the Realm and play for free to experience the epic gameplay and stunning graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

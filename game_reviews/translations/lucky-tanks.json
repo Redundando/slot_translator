@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Unique combination of slot machines and lotteries",
                     "Total player control over gameplay",
-                    "Combination of slot machines and lotteries",
-                    "Valid chances of winning with fixed RTP",
-                    "Well-developed graphics and military theme"
+                    "Military theme with explosions and military equipment",
+                    "Simple and intuitive design and graphics"
                 ],
                 "cons": [
-                    "Simple gameplay may require patience",
-                    "Limited number of usable weapons"
+                    "Requires patience for gameplay",
+                    "No extra functions often expected in traditional slots"
                 ],
-                "meta_title": "Play Lucky Tanks for Free - Slot Game Review",
-                "meta_description": "Read our review of Lucky Tanks, the slot game that combines slot machines and lotteries, and play it for free. Full game features and mechanics explained."
+                "meta_title": "Play Lucky Tanks Free - Unique Slot Game with Total Player Control",
+                "meta_description": "Play Lucky Tanks for free and experience a unique combination of slot machines and lotteries with total player control over gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Tanks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Lucky Tanks game\n\nLucky Tanks is a slot game launched in November 2020, developed by Onlyplay as a combination of slot machines and lotteries. It is a game that attracts a wide range of audiences and aims to target a new market. The most exciting part of the game is the player's total control over the gameplay.\n\nCombination of slot machines and lotteries\n\nLucky Tanks is a slot game that combines slot machines and lotteries. Players have the opportunity to control the gameplay and manage a tank from the inside, ready to strike enemy players on a battlefield. The game is based on a military theme and features explosions and military equipment. For every successful shot, players can multiply their winnings and aim for the rich final prize.\n\nPlayer control over gameplay\n\nLucky Tanks allows for total player control over the gameplay. Players manage a tank from the inside, trying to aim and hit enemy players on a battlefield without firing any blank shots. However, if they miss, they will be hit by their enemy's bombs and lose their bet. The game offers a simple background with a green field where rocks and bushes form a fake game grid, behind which the enemy tanks are concealed. Players can interrupt the game at any time and collect their winnings. The RTP of the game is fixed at 93.65%, and it offers valid chances of winning.\n\nGameplay and rules\n\nThe gameplay of Lucky Tanks is simple but requires some patience. The manual choices players make are only partially related to a gaming strategy, and they will have to keep trying until they make the big shot that knocks out the opponents. Every successful shot multiplies the winnings and aims to conquer the rich final prize. If the player misses, they will be hit by their enemy's bombs and lose their bet. The game has an RTP fixed at 93.65%.\n\nDesign and graphics\n\nLucky Tanks has a military theme and features explosions and military equipment. Onlyplay opted for a simple background with a green field, rocks, and bushes forming a fake game grid. The varying number of enemy tanks is concealed behind these obstacles, providing players with the challenging opportunity to find them without firing any blank shots. The graphics are well developed and tell the story of a war field while offering the right level of joy and entertainment. The game functions are very intuitive, and there are no extra functions that are often expected in front of traditional slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Tanks\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Lucky Tanks game\n\nLucky Tanks is a slot game launched in November 2020, developed by Onlyplay as a combination of slot machines and lotteries. It is a game that attracts a wide range of audiences and aims to target a new market. The most exciting part of the game is the player's total control over the gameplay.\n\nCombination of slot machines and lotteries\n\nLucky Tanks is a slot game that combines slot machines and lotteries. Players have the opportunity to control the gameplay and manage a tank from the inside, ready to strike enemy players on a battlefield. The game is based on a military theme and features explosions and military equipment. For every successful shot, players can multiply their winnings and aim for the rich final prize.\n\nPlayer control over gameplay\n\nLucky Tanks allows for total player control over the gameplay. Players manage a tank from the inside, trying to aim and hit enemy players on a battlefield without firing any blank shots. However, if they miss, they will be hit by their enemy's bombs and lose their bet. The game offers a simple background with a green field where rocks and bushes form a fake game grid, behind which the enemy tanks are concealed. Players can interrupt the game at any time and collect their winnings. The RTP of the game is fixed at 93.65%, and it offers valid chances of winning.\n\nGameplay and rules\n\nThe gameplay of Lucky Tanks is simple but requires some patience. The manual choices players make are only partially related to a gaming strategy, and they will have to keep trying until they make the big shot that knocks out the opponents. Every successful shot multiplies the winnings and aims to conquer the rich final prize. If the player misses, they will be hit by their enemy's bombs and lose their bet. The game has an RTP fixed at 93.65%.\n\nDesign and graphics\n\nLucky Tanks has a military theme and features explosions and military equipment. Onlyplay opted for a simple background with a green field, rocks, and bushes forming a fake game grid. The varying number of enemy tanks is concealed behind these obstacles, providing players with the challenging opportunity to find them without firing any blank shots. The graphics are well developed and tell the story of a war field while offering the right level of joy and entertainment. The game functions are very intuitive, and there are no extra functions that are often expected in front of traditional slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3kMOZ7FRck6Oo1lYrEdzlhaKlt3",
+                "id": "chatcmpl-7WWoqephF6IoRKjt7Dmw1PZwtTbMr",
                 "object": "chat.completion",
-                "created": 1687398598,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687987008,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n   \"pros\": [\n      \"Total player control over gameplay\",\n      \"Combination of slot machines and lotteries\",\n      \"Valid chances of winning with fixed RTP\",\n      \"Well-developed graphics and military theme\"\n   ],\n   \"cons\": [\n      \"Simple gameplay may require patience\",\n      \"Limited number of usable weapons\"\n   ],\n   \"meta_title\": \"Play Lucky Tanks for Free - Slot Game Review\",\n   \"meta_description\": \"Read our review of Lucky Tanks, the slot game that combines slot machines and lotteries, and play it for free. Full game features and mechanics explained.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique combination of slot machines and lotteries\",\n    \"Total player control over gameplay\",\n    \"Military theme with explosions and military equipment\",\n    \"Simple and intuitive design and graphics\"\n  ],\n  \"cons\": [\n    \"Requires patience for gameplay\",\n    \"No extra functions often expected in traditional slots\"\n  ],\n  \"meta_title\": \"Play Lucky Tanks Free - Unique Slot Game with Total Player Control\",\n  \"meta_description\": \"Play Lucky Tanks for free and experience a unique combination of slot machines and lotteries with total player control over gameplay.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 667,
-                    "completion_tokens": 128,
-                    "total_tokens": 795
+                    "prompt_tokens": 664,
+                    "completion_tokens": 123,
+                    "total_tokens": 787
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-tanks.json",
+    "raw_feature_images": [
+        "arved__Prompt_Design_a_cartoon-style_image_featuring_a_happy_Ma_c5672793-dd6f-4947-a756-a2610f45e393_3.png",
+        "arved__Prompt_Design_a_cartoon-style_image_featuring_a_happy_Ma_c5672793-dd6f-4947-a756-a2610f45e393_1.png",
+        "arved__Prompt_Design_a_cartoon-style_image_featuring_a_happy_Ma_c5672793-dd6f-4947-a756-a2610f45e393_2.png",
+        "arved__Prompt_Design_a_cartoon-style_image_featuring_a_happy_Ma_c5672793-dd6f-4947-a756-a2610f45e393_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Tanks (Version 3).webp",
+        "game_reviews/processed_images/Lucky Tanks (Version 4).webp",
+        "game_reviews/processed_images/Lucky Tanks (Version 2).webp",
+        "game_reviews/processed_images/Lucky Tanks (Version 1).webp"
+    ],
+    "slug": "lucky-tanks",
+    "name": "Lucky Tanks",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Tanks-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Tanks Free - Unique Slot Game with Total Player Control' ### Meta set: 'Play Lucky Tanks for free and experience a unique combination of slot machines and lotteries with total player control over gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

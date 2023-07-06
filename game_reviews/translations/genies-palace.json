@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High potential rewards",
-                    "Free demo version available",
+                    "Traditional slot machine structure",
+                    "High volatility with rewarding wins",
                     "Special symbols and bonuses",
-                    "Traditional slot machine structure"
+                    "Demo version available for free play"
                 ],
                 "cons": [
-                    "Very high volatility",
-                    "Limited paylines compared to other slots"
+                    "Potential for significant number of losses",
+                    "Limited paylines"
                 ],
-                "meta_title": "Play Genie's Palace for Free - High Potential Rewards",
-                "meta_description": "Read our review of Genie's Palace online slot game. Play for free with high potential rewards and special bonuses. Try demo version without registration."
+                "meta_title": "Play Genie’s Palace for Free",
+                "meta_description": "Explore the features and gameplay of Genie’s Palace in this review. Play for free without registration!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Genie’s Palace\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nGenie's Palace is a slot machine with a traditional structure, with a game grid composed of 5 reels and 5 rows. There are 25 paylines, on which you can make bets ranging from 25 cents up to a maximum of €75. Genie's Palace is a high volatility game, with potentially rewarding wins of up to 2,000 times the value of the bet.\n\nSymbols and paylines\n\nThe symbols that appear on the reels of Genie's Palace are represented by a series of differently colored diamonds, which pay up to 50 credits for a combination of 5, a treasure-filled chest, a turban, and a magic carpet, which is the icon that pays the most. The Wild symbol is represented by colorful gems. It serves as a wild but also determines wins when it appears on the reels.\n\nVolatility and potential rewards\n\nGenie's Palace is characterized by a very high volatility: you will probably experience a significant number of losses before obtaining potentially rewarding wins, up to a maximum of 2,000 times the value of the bet.\n\nSpecial symbols and bonuses\n\nThere are other special symbols in Genie's Palace that allow access to extra features and award free spins and rich multipliers. When you collect 12 or more Wild symbols on the game grid, the jackpot feature is activated, and the highest prize of 2,000 times the bet is awarded.\n\nRTP and Demo version\n\nRegarding the theoretical return to the player (RTP), Genie's Palace is set at 96%, perfectly in line with the average. If you want to play without spending any money, or if you want to try the slot for free before investing real money, there is a demo version of Genie's Palace available, free and without the need for registration!\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Genie’s Palace\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nGenie's Palace is a slot machine with a traditional structure, with a game grid composed of 5 reels and 5 rows. There are 25 paylines, on which you can make bets ranging from 25 cents up to a maximum of €75. Genie's Palace is a high volatility game, with potentially rewarding wins of up to 2,000 times the value of the bet.\n\nSymbols and paylines\n\nThe symbols that appear on the reels of Genie's Palace are represented by a series of differently colored diamonds, which pay up to 50 credits for a combination of 5, a treasure-filled chest, a turban, and a magic carpet, which is the icon that pays the most. The Wild symbol is represented by colorful gems. It serves as a wild but also determines wins when it appears on the reels.\n\nVolatility and potential rewards\n\nGenie's Palace is characterized by a very high volatility: you will probably experience a significant number of losses before obtaining potentially rewarding wins, up to a maximum of 2,000 times the value of the bet.\n\nSpecial symbols and bonuses\n\nThere are other special symbols in Genie's Palace that allow access to extra features and award free spins and rich multipliers. When you collect 12 or more Wild symbols on the game grid, the jackpot feature is activated, and the highest prize of 2,000 times the bet is awarded.\n\nRTP and Demo version\n\nRegarding the theoretical return to the player (RTP), Genie's Palace is set at 96%, perfectly in line with the average. If you want to play without spending any money, or if you want to try the slot for free before investing real money, there is a demo version of Genie's Palace available, free and without the need for registration!\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TO0XOYdzFKmhZKPd26KXnPazrgN6",
+                "id": "chatcmpl-7WTj44QAvB2GrLWQqNyQ0Sdv63kAM",
                 "object": "chat.completion",
-                "created": 1687238153,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 549,
-                    "completion_tokens": 114,
-                    "total_tokens": 663
-                },
+                "created": 1687975118,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High potential rewards\",\n        \"Free demo version available\",\n        \"Special symbols and bonuses\",\n        \"Traditional slot machine structure\"\n    ],\n    \"cons\": [\n        \"Very high volatility\",\n        \"Limited paylines compared to other slots\"\n    ],\n    \"meta_title\": \"Play Genie's Palace for Free - High Potential Rewards\",\n    \"meta_description\": \"Read our review of Genie's Palace online slot game. Play for free with high potential rewards and special bonuses. Try demo version without registration.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Traditional slot machine structure\",\n    \"High volatility with rewarding wins\",\n    \"Special symbols and bonuses\",\n    \"Demo version available for free play\"\n  ],\n  \"cons\": [\n    \"Potential for significant number of losses\",\n    \"Limited paylines\"\n  ],\n  \"meta_title\": \"Play Genie’s Palace for Free\",\n  \"meta_description\": \"Explore the features and gameplay of Genie’s Palace in this review. Play for free without registration!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 546,
+                    "completion_tokens": 103,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/genies-palace.json"
+    "filename": "game_reviews/translations/genies-palace.json",
+    "raw_feature_images": [
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__9c2a5841-a573-4ac9-948d-d741ba91613e_4.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__20523adb-2c82-4fa8-9270-c71e33210f9b_3.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__20523adb-2c82-4fa8-9270-c71e33210f9b_1.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__9c2a5841-a573-4ac9-948d-d741ba91613e_1.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__9c2a5841-a573-4ac9-948d-d741ba91613e_2.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__20523adb-2c82-4fa8-9270-c71e33210f9b_4.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__20523adb-2c82-4fa8-9270-c71e33210f9b_2.png",
+        "arved__Create_an_exciting_feature_image_for_Genies_Palace_that__9c2a5841-a573-4ac9-948d-d741ba91613e_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Genies Palace (Version 5).webp",
+        "game_reviews/processed_images/Genies Palace (Version 7).webp",
+        "game_reviews/processed_images/Genies Palace (Version 3).webp",
+        "game_reviews/processed_images/Genies Palace (Version 1).webp",
+        "game_reviews/processed_images/Genies Palace (Version 4).webp",
+        "game_reviews/processed_images/Genies Palace (Version 6).webp",
+        "game_reviews/processed_images/Genies Palace (Version 2).webp",
+        "game_reviews/processed_images/Genies Palace (Version 8).webp"
+    ],
+    "slug": "genies-palace",
+    "name": "Genie’s Palace",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Genies-Palace-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Genie’s Palace for Free' ### Meta set: 'Explore the features and gameplay of Genie’s Palace in this review. Play for free without registration!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

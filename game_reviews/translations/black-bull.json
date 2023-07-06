@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Classic and simple gameplay",
-                    "Wild symbol for winning combinations",
-                    "Free spins with increasing winning opportunities",
-                    "High payout potential"
+                    "Wild symbol and free spins increase winning opportunities",
+                    "High volatility for high-value rewards",
+                    "Free version and bonus round options"
                 ],
                 "cons": [
-                    "High volatility with infrequent rewards",
-                    "Limited variety in symbols"
+                    "Rewards may not be frequent due to high volatility",
+                    "Purchasing the bonus round may require additional investment"
                 ],
-                "meta_title": "Play Black Bull Slot for Free - Pragmatic Play Game Review",
-                "meta_description": "Try your luck with Black Bull online slot game from Pragmatic Play. Review includes pro and cons, volatility, free play, and purchase options."
+                "meta_title": "Play Black Bull Slot Free - Pragmatic Play Game Review",
+                "meta_description": "Discover the gameplay, features, and winning potential of Black Bull slot game. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Black Bull\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlack Bull slot game overview\n\nBlack Bull is a slot game offered by Pragmatic Play that features a classic and simple gameplay. It has a 5-reel structure with 4 rows and 20 paylines. The game features a wild symbol and free spins that increase winning opportunities.\n\nGameplay features and symbols\n\nThe game is set against the backdrop of a bullring. The symbols on the grid include wolves, eagles, geckos, and classic playing cards. The wild symbol can replace other symbols to create winning combinations. Money icons offer values ranging from 0.5x to 50x and can trigger free spins, which range from 6 to 10 spins based on the number of coins found on the grid. In the base game, 5 identical symbols can give the player from 4 to 25 times their bet.\n\nWinning potential and RTP\n\nBlack Bull offers an RTP of 96.51%, which falls within the market average. Its high volatility means that rewards may not be frequent but can offer high value. The game has a maximum payout potential of up to 4,500 times the player's bet.\n\nVolatility and frequency of rewards\n\nBlack Bull has high volatility, which means that rewards may not be frequent but can offer high value. However, with the free spin feature triggered by money icons and the possibility of purchasing a bonus round, the game offers additional opportunities to win big.\n\nFree version and bonus round options\n\nPlayers can find Black Bull in a For Fun version to practice before betting with real money. The game's most fascinating features are its free spins and bonus round, which can be purchased in-game for the chance to play with a higher RTP rate and challenge fate for a big win.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Black Bull\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nBlack Bull slot game overview\n\nBlack Bull is a slot game offered by Pragmatic Play that features a classic and simple gameplay. It has a 5-reel structure with 4 rows and 20 paylines. The game features a wild symbol and free spins that increase winning opportunities.\n\nGameplay features and symbols\n\nThe game is set against the backdrop of a bullring. The symbols on the grid include wolves, eagles, geckos, and classic playing cards. The wild symbol can replace other symbols to create winning combinations. Money icons offer values ranging from 0.5x to 50x and can trigger free spins, which range from 6 to 10 spins based on the number of coins found on the grid. In the base game, 5 identical symbols can give the player from 4 to 25 times their bet.\n\nWinning potential and RTP\n\nBlack Bull offers an RTP of 96.51%, which falls within the market average. Its high volatility means that rewards may not be frequent but can offer high value. The game has a maximum payout potential of up to 4,500 times the player's bet.\n\nVolatility and frequency of rewards\n\nBlack Bull has high volatility, which means that rewards may not be frequent but can offer high value. However, with the free spin feature triggered by money icons and the possibility of purchasing a bonus round, the game offers additional opportunities to win big.\n\nFree version and bonus round options\n\nPlayers can find Black Bull in a For Fun version to practice before betting with real money. The game's most fascinating features are its free spins and bonus round, which can be purchased in-game for the chance to play with a higher RTP rate and challenge fate for a big win.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SfhDdxUmPVTSW3QaKsZ9pb57CWwo",
+                "id": "chatcmpl-7WOOLNZcILXDCp55cWHZYrXuC5oIU",
                 "object": "chat.completion",
-                "created": 1687067819,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 529,
-                    "completion_tokens": 120,
-                    "total_tokens": 649
-                },
+                "created": 1687954613,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Classic and simple gameplay\",\n        \"Wild symbol for winning combinations\",\n        \"Free spins with increasing winning opportunities\",\n        \"High payout potential\"\n    ],\n    \"cons\": [\n        \"High volatility with infrequent rewards\",\n        \"Limited variety in symbols\"\n    ],\n    \"meta_title\": \"Play Black Bull Slot for Free - Pragmatic Play Game Review\",\n    \"meta_description\": \"Try your luck with Black Bull online slot game from Pragmatic Play. Review includes pro and cons, volatility, free play, and purchase options.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic and simple gameplay\",\n    \"Wild symbol and free spins increase winning opportunities\",\n    \"High volatility for high-value rewards\",\n    \"Free version and bonus round options\"\n  ],\n  \"cons\": [\n    \"Rewards may not be frequent due to high volatility\",\n    \"Purchasing the bonus round may require additional investment\"\n    ],\n  \"meta_title\": \"Play Black Bull Slot Free - Pragmatic Play Game Review\",\n  \"meta_description\": \"Discover the gameplay, features, and winning potential of Black Bull slot game. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 526,
+                    "completion_tokens": 123,
+                    "total_tokens": 649
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/black-bull.json",
     "raw_feature_images": [
-        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_1.png",
         "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_3.png",
-        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_2.png",
-        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_1.png"
+        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_of_a_happy_M_2fdade67-605b-4b16-9564-9803bb16fc30_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Black Bull (Version 4).webp",
-        "game_reviews/processed_images/Black Bull (Version 3).webp",
         "game_reviews/processed_images/Black Bull (Version 1).webp",
+        "game_reviews/processed_images/Black Bull (Version 3).webp",
+        "game_reviews/processed_images/Black Bull (Version 4).webp",
         "game_reviews/processed_images/Black Bull (Version 2).webp"
-    ]
+    ],
+    "slug": "black-bull",
+    "name": "Black Bull",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Black-Bull-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Black Bull Slot Free - Pragmatic Play Game Review' ### Meta set: 'Discover the gameplay, features, and winning potential of Black Bull slot game. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

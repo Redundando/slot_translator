@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Intuitive gameplay suitable for beginners",
-                    "Up to 50 free spins available",
-                    "Includes a progressive jackpot",
-                    "Playable on all mobile devices"
+                    "Up to 50 free spins and various types of jackpots",
+                    "Playable on all mobile devices without download",
+                    "Dancing samba dancers as attractive reel symbols"
                 ],
                 "cons": [
-                    "Graphics are minimalistic and may not appeal to some players",
-                    "Limited special features"
+                    "Minimalistic graphics may not appeal to those who prefer cutting-edge visuals",
+                    "Limited special features compared to other slot games"
                 ],
-                "meta_title": "Play Dancing in Rio Slot for Free - Review",
-                "meta_description": "Read our review of Dancing in Rio to discover its features and see if you want to play it for free. Includes a progressive jackpot and up to 50 free spins."
+                "meta_title": "Play Dancing in Rio Free - Review",
+                "meta_description": "Discover the gameplay and features of Dancing in Rio and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dancing in Rio\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDancing in Rio is a five-reel, three-row slot game with 40 fixed paylines. The gameplay is intuitive, suitable even for beginners. Players can place bets ranging from a minimum of 40 cents up to a maximum of 50€ per spin. The game includes up to 50 free spins and various types of jackpots, including a progressive one.\n\nTheme and Graphics\n\nDancing in Rio is a slot game that celebrates the Carnival in Rio de Janeiro, Brazil. The game's graphics are minimalistic and resemble classic VLT machines, with bright fluorescent colors and minimal graphics. The samba dancers that populate the reels are the game's most attractive feature. The game may not satisfy players who prefer games with cutting-edge graphics and special effects.\n\nJackpots\n\nDancing in Rio features a total of six jackpots, including a progressive one. Players can win the progressive jackpot by making bets starting from 2€ per spin. The highest jackpot has a maximum value of 25,000 times the bet, while the other five jackpots reward according to the amount wagered.\n\nCompatibility and Accessibility\n\nDancing in Rio is optimized to be playable on all mobile devices, both Android and iOS. No software download is required to play the game. Players can access the game on their desktop, tablet, or mobile device with an internet connection.\n\nSymbols and Special Features\n\nDancing in Rio has limited special features, including stacked wilds and a Free Spins Bonus. The most common symbols are the royals, representing playing cards from nine to ace. There are also masks that act as scatters and the game logo that serves as the wild with a function of a joker. To trigger the free spins, players must get at least three masks on the reels. The number of free spins depends on the number of masks on the reels, ranging from 10 to 50. Players can also earn bonus spins and a multiplier based on their bet.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dancing in Rio\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nDancing in Rio is a five-reel, three-row slot game with 40 fixed paylines. The gameplay is intuitive, suitable even for beginners. Players can place bets ranging from a minimum of 40 cents up to a maximum of 50€ per spin. The game includes up to 50 free spins and various types of jackpots, including a progressive one.\n\nTheme and Graphics\n\nDancing in Rio is a slot game that celebrates the Carnival in Rio de Janeiro, Brazil. The game's graphics are minimalistic and resemble classic VLT machines, with bright fluorescent colors and minimal graphics. The samba dancers that populate the reels are the game's most attractive feature. The game may not satisfy players who prefer games with cutting-edge graphics and special effects.\n\nJackpots\n\nDancing in Rio features a total of six jackpots, including a progressive one. Players can win the progressive jackpot by making bets starting from 2€ per spin. The highest jackpot has a maximum value of 25,000 times the bet, while the other five jackpots reward according to the amount wagered.\n\nCompatibility and Accessibility\n\nDancing in Rio is optimized to be playable on all mobile devices, both Android and iOS. No software download is required to play the game. Players can access the game on their desktop, tablet, or mobile device with an internet connection.\n\nSymbols and Special Features\n\nDancing in Rio has limited special features, including stacked wilds and a Free Spins Bonus. The most common symbols are the royals, representing playing cards from nine to ace. There are also masks that act as scatters and the game logo that serves as the wild with a function of a joker. To trigger the free spins, players must get at least three masks on the reels. The number of free spins depends on the number of masks on the reels, ranging from 10 to 50. Players can also earn bonus spins and a multiplier based on their bet.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T0TIX2RRVzzvlAuTSm631V6wmgZj",
+                "id": "chatcmpl-7WQvpF1pPcO0BcZhJvpLgHdukztVi",
                 "object": "chat.completion",
-                "created": 1687147680,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 582,
-                    "completion_tokens": 124,
-                    "total_tokens": 706
-                },
+                "created": 1687964377,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Intuitive gameplay suitable for beginners\",\n    \"Up to 50 free spins available\",\n    \"Includes a progressive jackpot\",\n    \"Playable on all mobile devices\"\n    ],\n\"cons\": [\n    \"Graphics are minimalistic and may not appeal to some players\",\n    \"Limited special features\"\n    ],\n\"meta_title\": \"Play Dancing in Rio Slot for Free - Review\",\n\"meta_description\": \"Read our review of Dancing in Rio to discover its features and see if you want to play it for free. Includes a progressive jackpot and up to 50 free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Intuitive gameplay suitable for beginners\",\n    \"Up to 50 free spins and various types of jackpots\",\n    \"Playable on all mobile devices without download\",\n    \"Dancing samba dancers as attractive reel symbols\"\n  ],\n  \"cons\": [\n    \"Minimalistic graphics may not appeal to those who prefer cutting-edge visuals\",\n    \"Limited special features compared to other slot games\"\n  ],\n  \"meta_title\": \"Play Dancing in Rio Free - Review\",\n  \"meta_description\": \"Discover the gameplay and features of Dancing in Rio and play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 579,
+                    "completion_tokens": 125,
+                    "total_tokens": 704
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_3.png",
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_1.png",
         "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_4.png",
-        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_2.png",
-        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_1.png"
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_3.png",
+        "arved__Create_a_feature_image_for_the_Dancing_in_Rio_game_in_a__f6ff113b-c19f-4b38-ae98-f842c7134712_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dancing In Rio (Version 1).webp",
         "game_reviews/processed_images/Dancing In Rio (Version 2).webp",
+        "game_reviews/processed_images/Dancing In Rio (Version 3).webp",
         "game_reviews/processed_images/Dancing In Rio (Version 4).webp",
-        "game_reviews/processed_images/Dancing In Rio (Version 3).webp"
+        "game_reviews/processed_images/Dancing In Rio (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/dancing-in-rio.json"
+    "filename": "game_reviews/translations/dancing-in-rio.json",
+    "slug": "dancing-in-rio",
+    "name": "Dancing in Rio",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dancing-In-Rio-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dancing in Rio Free - Review' ### Meta set: 'Discover the gameplay and features of Dancing in Rio and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

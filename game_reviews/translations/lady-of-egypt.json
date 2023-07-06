@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique grid system for gameplay",
-                    "Tasteful and immersive graphics and theme",
-                    "Presence of Wild and Scatter symbols, multipliers, and a jackpot feature",
-                    "Comparison to other unique WMS games and popular titles from other developers"
+                    "Unique grid system",
+                    "Tastefully illustrated symbols",
+                    "Bonus features offer big wins",
+                    "High-quality music and sound effects"
                 ],
                 "cons": [
-                    "May take some time to understand the gameplay mechanics",
-                    "Players may prefer traditional reel formats"
+                    "Limited number of reels",
+                    "Not available on all online casinos"
                 ],
-                "meta_title": "Play Lady of Egypt for Free - Online Slot Review",
-                "meta_description": "Experience Lady of Egypt's unique grid system and immerse yourself in the ancient Egypt theme. Play now for free and win big with Wilds, Scatters, and more."
+                "meta_title": "Play Lady of Egypt Free - Unique Grid System and Egyptian Theme",
+                "meta_description": "Find out why Lady of Egypt is the perfect game for ancient Egypt fans. Play free and experience unique gameplay mechanics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lady of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLady of Egypt features a unique grid system that sets it apart from other online slots. It utilizes a 9x3 system with 9 reels that spin simultaneously, while the game interface shifts two reels to the right after achieving a winning combination on the first three reels. The process is repeated until the last reel or until no more winning combinations are obtained.\n\nGraphics and theme\n\nLady of Egypt is graphically pleasing, with tastefully illustrated symbols that follow the ancient Egypt theme. The music and sound effects add an extra layer of immersion, further emphasizing the overall theme of the game.\n\nBonus features\n\nLady of Egypt offers players the chance to win big with the presence of Wild and Scatter symbols, multipliers, and a jackpot feature. The multiplier increases with each win, with the fourth and final win before the jackpot having a 5x multiplier.\n\nComparison to other WMS slots\n\nWMS is known for producing unique and unusual games, and Lady of Egypt is no exception. It compares favorably with other WMS games like Fire Queen and Giant's Gold, which are also known for their unique gameplay mechanics. Lady of Egypt also shares similar themes with other WMS titles, including Roman & Egypt and Egyptian Riches, along with popular games from other developers, such as Book of Ra.\n\nMusic and sound effects\n\nMusic and sound effects are an important part of Lady of Egypt's overall gaming experience. The music chosen for the game enhances the ancient Egypt theme and emphasizes the mystery and allure of the country's rich history. The sound effects used for the game's bonus mode add to the overall excitement and fun of the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lady of Egypt\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLady of Egypt features a unique grid system that sets it apart from other online slots. It utilizes a 9x3 system with 9 reels that spin simultaneously, while the game interface shifts two reels to the right after achieving a winning combination on the first three reels. The process is repeated until the last reel or until no more winning combinations are obtained.\n\nGraphics and theme\n\nLady of Egypt is graphically pleasing, with tastefully illustrated symbols that follow the ancient Egypt theme. The music and sound effects add an extra layer of immersion, further emphasizing the overall theme of the game.\n\nBonus features\n\nLady of Egypt offers players the chance to win big with the presence of Wild and Scatter symbols, multipliers, and a jackpot feature. The multiplier increases with each win, with the fourth and final win before the jackpot having a 5x multiplier.\n\nComparison to other WMS slots\n\nWMS is known for producing unique and unusual games, and Lady of Egypt is no exception. It compares favorably with other WMS games like Fire Queen and Giant's Gold, which are also known for their unique gameplay mechanics. Lady of Egypt also shares similar themes with other WMS titles, including Roman & Egypt and Egyptian Riches, along with popular games from other developers, such as Book of Ra.\n\nMusic and sound effects\n\nMusic and sound effects are an important part of Lady of Egypt's overall gaming experience. The music chosen for the game enhances the ancient Egypt theme and emphasizes the mystery and allure of the country's rich history. The sound effects used for the game's bonus mode add to the overall excitement and fun of the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TzlXFicMbfuZLOfOKafD5ca4zgz1",
+                "id": "chatcmpl-7WWAh5mUy5FoFzE6vCl5k4pB4oaZw",
                 "object": "chat.completion",
-                "created": 1687383295,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687984519,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unique grid system for gameplay\",\n    \"Tasteful and immersive graphics and theme\",\n    \"Presence of Wild and Scatter symbols, multipliers, and a jackpot feature\",\n    \"Comparison to other unique WMS games and popular titles from other developers\"\n  ],\n  \"cons\": [\n    \"May take some time to understand the gameplay mechanics\",\n    \"Players may prefer traditional reel formats\"\n  ],\n  \"meta_title\": \"Play Lady of Egypt for Free - Online Slot Review\",\n  \"meta_description\": \"Experience Lady of Egypt's unique grid system and immerse yourself in the ancient Egypt theme. Play now for free and win big with Wilds, Scatters, and more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique grid system\",\n    \"Tastefully illustrated symbols\",\n    \"Bonus features offer big wins\",\n    \"High-quality music and sound effects\"\n  ],\n  \"cons\": [\n    \"Limited number of reels\",\n    \"Not available on all online casinos\"\n  ],\n  \"meta_title\": \"Play Lady of Egypt Free - Unique Grid System and Egyptian Theme\",\n  \"meta_description\": \"Find out why Lady of Egypt is the perfect game for ancient Egypt fans. Play free and experience unique gameplay mechanics.\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 508,
-                    "completion_tokens": 149,
-                    "total_tokens": 657
+                    "prompt_tokens": 505,
+                    "completion_tokens": 113,
+                    "total_tokens": 618
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lady-of-egypt.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_featured_image_for_Lady_of_Egy_a896f1b2-2a32-4e97-9661-54340a90ac77_4.png",
+        "arved__Prompt_for_DALLE_Create_a_featured_image_for_Lady_of_Egy_a896f1b2-2a32-4e97-9661-54340a90ac77_3.png",
+        "arved__Prompt_for_DALLE_Create_a_featured_image_for_Lady_of_Egy_a896f1b2-2a32-4e97-9661-54340a90ac77_1.png",
+        "arved__Prompt_for_DALLE_Create_a_featured_image_for_Lady_of_Egy_a896f1b2-2a32-4e97-9661-54340a90ac77_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lady Of Egypt (Version 4).webp",
+        "game_reviews/processed_images/Lady Of Egypt (Version 3).webp",
+        "game_reviews/processed_images/Lady Of Egypt (Version 2).webp",
+        "game_reviews/processed_images/Lady Of Egypt (Version 1).webp"
+    ],
+    "slug": "lady-of-egypt",
+    "name": "Lady of Egypt",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lady-Of-Egypt-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lady of Egypt Free - Unique Grid System and Egyptian Theme' ### Meta set: 'Find out why Lady of Egypt is the perfect game for ancient Egypt fans. Play free and experience unique gameplay mechanics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

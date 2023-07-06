@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Features a stacked symbol feature with multipliers of up to x5",
-                    "Max payout of 1000x the bet",
-                    "Includes a scatter symbol that can appear anywhere on the reel set to award a prize",
-                    "Classic fruit and bar symbols"
+                    "Classic fruit and bar symbols",
+                    "Stacked symbol feature with multipliers",
+                    "Scatter symbol for additional prizes",
+                    "Medium-high variance with chance for big wins"
                 ],
                 "cons": [
                     "Relatively low RTP of 95.66%",
-                    "No wild symbol"
+                    "No wild symbol in the game"
                 ],
-                "meta_title": "Play Fruit Xtreme for Free - Review and Gameplay Features",
-                "meta_description": "Read our review of Fruit Xtreme, a classic slot game with simple gameplay. Play for free with up to x5 multipliers and a max payout of 1000x the bet."
+                "meta_title": "Play Fruit Xtreme Free: Classic Slot Game Review",
+                "meta_description": "Discover the gameplay features and symbols of Fruit Xtreme and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Fruit Xtreme\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nFruit Xtreme is a classic slot game with five reels and five paylines. The game has three rows and symbols can enjoy a multiplier of up to x5. The slot machine has a scatter symbol that can appear anywhere on the reel set to award a prize, multipliers up to x5, and a max payout of 1000x the bet. There is no wild symbol, but there is a stacked symbol feature that triggers wins with multipliers of x3, x4, or x5.\n\nSymbols\n\nThe slot machine features traditional fruit and bar symbols, including watermelons, lemons, oranges, cherries, plums, sevens, and bars. The most lucrative symbol on the game is the seven, which pays out 1000x the bet for five symbols on a payline. The watermelon symbol pays 200x for five symbols, and the rest of the fruit symbols carry a payout of 20x for all symbols. The scatter symbol is a gold star that pays 50x for five symbols.\n\nPayouts\n\nWinning results in Fruit Xtreme are obtained with three symbols of the same type, appearing on one or more paylines, starting from the leftmost reel. The most profitable symbol in the game is the seven, which pays out 1000x the bet for five symbols on a payline. The watermelon symbol pays 200x for five symbols, and the rest of the fruit symbols carry a payout of 20x for all symbols. The scatter symbol pays 50x for five symbols, and can appear anywhere on the reel set to award a prize.\n\nVariance and RTP\n\nThe theoretical return to player of Fruit Xtreme is 95.66%, which is relatively low compared to other online slot games. The variance of the game is medium-high, which means it can provide players with the chance to win big. The stacked symbol feature triggers wins with multipliers of x3, x4, or x5, which increases the chance of hitting big payouts.\n\nSimilar Games\n\nIf you enjoy classic fruit and number 7 symbols, and simple gameplay, then Fruit Xtreme may be the right slot game for you. The online market is full of similar games, but Imperial Fruits, also produced by Playson, is a good alternative, allowing players to win up to 40,000 coins on a single spin.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Fruit Xtreme\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nFruit Xtreme is a classic slot game with five reels and five paylines. The game has three rows and symbols can enjoy a multiplier of up to x5. The slot machine has a scatter symbol that can appear anywhere on the reel set to award a prize, multipliers up to x5, and a max payout of 1000x the bet. There is no wild symbol, but there is a stacked symbol feature that triggers wins with multipliers of x3, x4, or x5.\n\nSymbols\n\nThe slot machine features traditional fruit and bar symbols, including watermelons, lemons, oranges, cherries, plums, sevens, and bars. The most lucrative symbol on the game is the seven, which pays out 1000x the bet for five symbols on a payline. The watermelon symbol pays 200x for five symbols, and the rest of the fruit symbols carry a payout of 20x for all symbols. The scatter symbol is a gold star that pays 50x for five symbols.\n\nPayouts\n\nWinning results in Fruit Xtreme are obtained with three symbols of the same type, appearing on one or more paylines, starting from the leftmost reel. The most profitable symbol in the game is the seven, which pays out 1000x the bet for five symbols on a payline. The watermelon symbol pays 200x for five symbols, and the rest of the fruit symbols carry a payout of 20x for all symbols. The scatter symbol pays 50x for five symbols, and can appear anywhere on the reel set to award a prize.\n\nVariance and RTP\n\nThe theoretical return to player of Fruit Xtreme is 95.66%, which is relatively low compared to other online slot games. The variance of the game is medium-high, which means it can provide players with the chance to win big. The stacked symbol feature triggers wins with multipliers of x3, x4, or x5, which increases the chance of hitting big payouts.\n\nSimilar Games\n\nIf you enjoy classic fruit and number 7 symbols, and simple gameplay, then Fruit Xtreme may be the right slot game for you. The online market is full of similar games, but Imperial Fruits, also produced by Playson, is a good alternative, allowing players to win up to 40,000 coins on a single spin.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TKjD3frhTobO8kraDDUJqNb4ngFu",
+                "id": "chatcmpl-7WTNPc5ig3fD5OySHzc8VYVBHPodT",
                 "object": "chat.completion",
-                "created": 1687225547,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 667,
-                    "completion_tokens": 153,
-                    "total_tokens": 820
-                },
+                "created": 1687973775,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Features a stacked symbol feature with multipliers of up to x5\",\n        \"Max payout of 1000x the bet\",\n        \"Includes a scatter symbol that can appear anywhere on the reel set to award a prize\",\n        \"Classic fruit and bar symbols\"\n    ],\n    \"cons\": [\n        \"Relatively low RTP of 95.66%\",\n        \"No wild symbol\"\n    ],\n    \"meta_title\": \"Play Fruit Xtreme for Free - Review and Gameplay Features\",\n    \"meta_description\": \"Read our review of Fruit Xtreme, a classic slot game with simple gameplay. Play for free with up to x5 multipliers and a max payout of 1000x the bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic fruit and bar symbols\",\n    \"Stacked symbol feature with multipliers\",\n    \"Scatter symbol for additional prizes\",\n    \"Medium-high variance with chance for big wins\"\n  ],\n  \"cons\": [\n    \"Relatively low RTP of 95.66%\",\n    \"No wild symbol in the game\"\n  ],\n  \"meta_title\": \"Play Fruit Xtreme Free: Classic Slot Game Review\",\n  \"meta_description\": \"Discover the gameplay features and symbols of Fruit Xtreme and play for free.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 664,
+                    "completion_tokens": 115,
+                    "total_tokens": 779
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/fruit-xtreme.json"
+    "filename": "game_reviews/translations/fruit-xtreme.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_0974e1ab-3492-4afe-ad31-be82b99f4530_2.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_39940332-787b-4116-b4f9-181ca34fa0ca_3.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_0974e1ab-3492-4afe-ad31-be82b99f4530_3.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_0974e1ab-3492-4afe-ad31-be82b99f4530_4.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_39940332-787b-4116-b4f9-181ca34fa0ca_1.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_39940332-787b-4116-b4f9-181ca34fa0ca_2.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_0974e1ab-3492-4afe-ad31-be82b99f4530_1.png",
+        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_Fr_39940332-787b-4116-b4f9-181ca34fa0ca_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Fruit Xtreme (Version 5).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 4).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 3).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 7).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 6).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 8).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 1).webp",
+        "game_reviews/processed_images/Fruit Xtreme (Version 2).webp"
+    ],
+    "slug": "fruit-xtreme",
+    "name": "Fruit Xtreme",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Fruit-Xtreme-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Fruit Xtreme Free: Classic Slot Game Review' ### Meta set: 'Discover the gameplay features and symbols of Fruit Xtreme and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

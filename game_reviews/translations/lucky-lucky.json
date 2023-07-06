@@ -802,39 +802,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High player return rate of 98.02%",
-                    "Maximum prize of €15,000",
-                    "Autoplay option available",
-                    "Oriental-flavored graphics and soothing soundtrack"
+                    "High maximum prize of €15,000",
+                    "Autoplay option for convenient play",
+                    "Oriental-themed graphics and relaxing soundtrack",
+                    "Dynamic paytable with valuable wild symbol"
                 ],
                 "cons": [
                     "No bonus features",
-                    "Only one payline"
+                    "Limited number of reels and paylines"
                 ],
-                "meta_title": "Play Lucky Lucky Slot for Free - Review",
-                "meta_description": "Explore the review of Lucky Lucky slot game, check out its features, and play it for free. Read what we like and what we don't like about it."
+                "meta_title": "Play Lucky Lucky Free - Review of Lucky Lucky Slot",
+                "meta_description": "Play Lucky Lucky for free and read our review of this Oriental-themed online slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Lucky\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nPrize amount and betting limits\n\nLucky Lucky is a one-line slot with three reels. The maximum prize is €15,000 and can be won by playing with the maximum bet of €100 and hitting three reels in a row with a random x3 multiplier. The coins that can be bet range from 0.2 up to 100. The betting level feature allows players to multiply their bet amount in increments up to 10x.\n\nGameplay and features\n\nLucky Lucky is a simple three-reel, single-line pay-to-play game. The Autoplay option is available to set a certain number of automatic spins with the currently selected bet. The game has a theoretical player return rate of 98.02%.\n\nReturn-to-player percentage\n\nThe game has a theoretical player return rate of 98.02%, which is higher than the average in the online casino industry at 95.00%.\n\nGraphics and soundtrack\n\nLucky Lucky has Oriental-flavored graphics, including luxury Asian-style objects like golden trees, luxury money bags, and golden urns. The soothing and cheerful soundtrack complements the overall relaxing atmosphere of the game.\n\nSymbols and theme\n\nThe symbols in Lucky Lucky include luxury Asian-style objects like golden trees, luxury money bags, golden urns, and other expensive-looking objects. There are no traditional slot symbols like cherries, lemons, or plums. The theme of the game revolves around a far-off land in the Far East.\n\nPaytable\n\nThe paytable provides players with all the payment symbols, game details, and game rules. The paytable is dynamic, and the value of the win symbol changes according to the selected bet. The Wild symbol is the most valuable, and three on a single payline are equivalent to €5,000. The wild symbol replaces all other symbols and creates random x2 or x3 multipliers. The biggest win in the game comes with a line of wild symbols that raises the x3 multiplier, resulting in a prize of €15,000 on the maximum bet of the Lucky Lucky slot.\n\nComparison to similar slots\n\nOther similar slot machines are the 5 Lucky Lions slot, which features many dragons as symbols on the reel-set, but the entire game revolves around the number 88. In addition to the maximum bet of 880, the 5 Lucky Lions slot also has 88 always active paylines.\n\nBonus features\n\nThere are no bonus features in Lucky Lucky.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Lucky\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nPrize amount and betting limits\n\nLucky Lucky is a one-line slot with three reels. The maximum prize is €15,000 and can be won by playing with the maximum bet of €100 and hitting three reels in a row with a random x3 multiplier. The coins that can be bet range from 0.2 up to 100. The betting level feature allows players to multiply their bet amount in increments up to 10x.\n\nGameplay and features\n\nLucky Lucky is a simple three-reel, single-line pay-to-play game. The Autoplay option is available to set a certain number of automatic spins with the currently selected bet. The game has a theoretical player return rate of 98.02%.\n\nReturn-to-player percentage\n\nThe game has a theoretical player return rate of 98.02%, which is higher than the average in the online casino industry at 95.00%.\n\nGraphics and soundtrack\n\nLucky Lucky has Oriental-flavored graphics, including luxury Asian-style objects like golden trees, luxury money bags, and golden urns. The soothing and cheerful soundtrack complements the overall relaxing atmosphere of the game.\n\nSymbols and theme\n\nThe symbols in Lucky Lucky include luxury Asian-style objects like golden trees, luxury money bags, golden urns, and other expensive-looking objects. There are no traditional slot symbols like cherries, lemons, or plums. The theme of the game revolves around a far-off land in the Far East.\n\nPaytable\n\nThe paytable provides players with all the payment symbols, game details, and game rules. The paytable is dynamic, and the value of the win symbol changes according to the selected bet. The Wild symbol is the most valuable, and three on a single payline are equivalent to €5,000. The wild symbol replaces all other symbols and creates random x2 or x3 multipliers. The biggest win in the game comes with a line of wild symbols that raises the x3 multiplier, resulting in a prize of €15,000 on the maximum bet of the Lucky Lucky slot.\n\nComparison to similar slots\n\nOther similar slot machines are the 5 Lucky Lions slot, which features many dragons as symbols on the reel-set, but the entire game revolves around the number 88. In addition to the maximum bet of 880, the 5 Lucky Lions slot also has 88 always active paylines.\n\nBonus features\n\nThere are no bonus features in Lucky Lucky.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U3MW6jfSZmYaa8cYKV0HwDvWbjNG",
+                "id": "chatcmpl-7WWlMXuWLPSNgRyUBZdgp8f3PkBMD",
                 "object": "chat.completion",
-                "created": 1687397120,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986792,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High player return rate of 98.02%\",\n        \"Maximum prize of €15,000\",\n        \"Autoplay option available\",\n        \"Oriental-flavored graphics and soothing soundtrack\"\n    ],\n    \"cons\": [\n        \"No bonus features\",\n        \"Only one payline\"\n    ],\n    \"meta_title\": \"Play Lucky Lucky Slot for Free - Review\",\n    \"meta_description\": \"Explore the review of Lucky Lucky slot game, check out its features, and play it for free. Read what we like and what we don't like about it.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High maximum prize of €15,000\",\n    \"Autoplay option for convenient play\",\n    \"Oriental-themed graphics and relaxing soundtrack\",\n    \"Dynamic paytable with valuable wild symbol\"\n  ],\n  \"cons\": [\n    \"No bonus features\",\n    \"Limited number of reels and paylines\"\n  ],\n  \"meta_title\": \"Play Lucky Lucky Free - Review of Lucky Lucky Slot\",\n  \"meta_description\": \"Play Lucky Lucky for free and read our review of this Oriental-themed online slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 669,
-                    "completion_tokens": 126,
-                    "total_tokens": 795
+                    "prompt_tokens": 666,
+                    "completion_tokens": 114,
+                    "total_tokens": 780
                 }
             }
         },
@@ -1033,5 +1033,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-lucky.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Lucky_Lucky_that_showcases_a__9ce7b92d-b6b6-4f15-9e4f-b5bca91e94f6_1.png",
+        "arved__Create_a_feature_image_for_Lucky_Lucky_that_showcases_a__9ce7b92d-b6b6-4f15-9e4f-b5bca91e94f6_2.png",
+        "arved__Create_a_feature_image_for_Lucky_Lucky_that_showcases_a__9ce7b92d-b6b6-4f15-9e4f-b5bca91e94f6_4.png",
+        "arved__Create_a_feature_image_for_Lucky_Lucky_that_showcases_a__9ce7b92d-b6b6-4f15-9e4f-b5bca91e94f6_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Lucky (Version 2).webp",
+        "game_reviews/processed_images/Lucky Lucky (Version 1).webp",
+        "game_reviews/processed_images/Lucky Lucky (Version 3).webp",
+        "game_reviews/processed_images/Lucky Lucky (Version 4).webp"
+    ],
+    "slug": "lucky-lucky",
+    "name": "Lucky Lucky",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Lucky-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Lucky Free - Review of Lucky Lucky Slot' ### Meta set: 'Play Lucky Lucky for free and read our review of this Oriental-themed online slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

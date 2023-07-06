@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting bonus features with cash prizes and free spins",
-                    "Classic yet appealing graphics with modern features",
-                    "Developed by a well-known and experienced game developer",
-                    "In line with modern standards for RTP"
+                    "Seamlessly blends classic slot themes with modern features",
+                    "Offers two bonus modes with cash prizes and free spins",
+                    "Includes a Wild symbol to increase winning potential",
+                    "Developed by a well-known and reputable developer, Bally"
                 ],
                 "cons": [
-                    "Limited theme and symbols may not appeal to all players",
-                    "The RTP is slightly lower than some other modern slot games"
+                    "Limited variety of symbols",
+                    "Graphics may not appeal to players looking for more visually stimulating games"
                 ],
-                "meta_title": "Play Cash Spin Slot Game for Free - Exciting Bonuses and Classic Graphics",
-                "meta_description": "Get a taste of classic slot gaming with modern features. Play Cash Spin for free and activate its exciting bonuses with cash prizes and free spins."
+                "meta_title": "Play Cash Spin Slot Game for Free",
+                "meta_description": "Read our review of Cash Spin, a slot game that seamlessly blends classic themes with modern features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Spin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Spin Slot Game\n\nCash Spin is an online slot game seamlessly blending classic slot themes with modern features. Developed by Bally, it is a 5x3 grid slot machine with an RTP of 94.2%. Its symbols include playing cards (A, K, Q, J and 10), Diamonds, Rubies, Emeralds, the Dollar symbol and the wheel of fortune.\n\nGame Features and Mechanics\n\nBally's Cash Spin has a 5x3 game grid, which puts it right in the middle of the modern market compared to classic 3x3 slots. Its RTP of 94.2% is in line with modern standards. Among the special symbols found in the slot are the U-spin symbol and the money bag, which act as Scatters. Both require at least three identical symbols in a single play to trigger one of the two bonus modes. The U-Spin function allows you to spin a wheel with cash prizes and offers the possibility of getting free spins while the money bag activates the Coin purse function, where you can choose between three hidden cash prizes for corresponding wins. The game also features a Wild symbol that can replace the other normal symbols.\n\nSymbols and Bonuses\n\nCash Spin has a variety of symbols, including playing cards (A, K, Q, J and 10), Diamonds, Rubies, Emeralds, the Dollar symbol and the wheel of fortune. The symbols are not poorly drawn despite the classic style, conveying simple graphics that may appeal to experienced players. The game also features two special Scatter symbols, the U-spin symbol and the money bag. The U-Spin function lets you spin a wheel with cash prizes and free spins while the money bag symbol activates the Coin purse function that rewards hidden cash prizes.\n\nSimilar Slot Games\n\nPlayers looking for a nostalgic taste can enjoy slot games containing classic fruit themes, such as Playson's Fruit Xtreme and Novomatic's Fruitilicious.\n\nDeveloper - Bally\n\nBally is a well-known developer that has been in the gaming market for over 50 years. They have developed some of the most iconic slots in the industry. Cash Spin is one of their classic-style slot games that infuses modern gaming concepts.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Spin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Spin Slot Game\n\nCash Spin is an online slot game seamlessly blending classic slot themes with modern features. Developed by Bally, it is a 5x3 grid slot machine with an RTP of 94.2%. Its symbols include playing cards (A, K, Q, J and 10), Diamonds, Rubies, Emeralds, the Dollar symbol and the wheel of fortune.\n\nGame Features and Mechanics\n\nBally's Cash Spin has a 5x3 game grid, which puts it right in the middle of the modern market compared to classic 3x3 slots. Its RTP of 94.2% is in line with modern standards. Among the special symbols found in the slot are the U-spin symbol and the money bag, which act as Scatters. Both require at least three identical symbols in a single play to trigger one of the two bonus modes. The U-Spin function allows you to spin a wheel with cash prizes and offers the possibility of getting free spins while the money bag activates the Coin purse function, where you can choose between three hidden cash prizes for corresponding wins. The game also features a Wild symbol that can replace the other normal symbols.\n\nSymbols and Bonuses\n\nCash Spin has a variety of symbols, including playing cards (A, K, Q, J and 10), Diamonds, Rubies, Emeralds, the Dollar symbol and the wheel of fortune. The symbols are not poorly drawn despite the classic style, conveying simple graphics that may appeal to experienced players. The game also features two special Scatter symbols, the U-spin symbol and the money bag. The U-Spin function lets you spin a wheel with cash prizes and free spins while the money bag symbol activates the Coin purse function that rewards hidden cash prizes.\n\nSimilar Slot Games\n\nPlayers looking for a nostalgic taste can enjoy slot games containing classic fruit themes, such as Playson's Fruit Xtreme and Novomatic's Fruitilicious.\n\nDeveloper - Bally\n\nBally is a well-known developer that has been in the gaming market for over 50 years. They have developed some of the most iconic slots in the industry. Cash Spin is one of their classic-style slot games that infuses modern gaming concepts.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SrDsEIrfr14IeTppdLtt5KvjQXqF",
+                "id": "chatcmpl-7WPq5gWJTpOV1DNBygs2x97A1Mw1e",
                 "object": "chat.completion",
-                "created": 1687112128,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 621,
-                    "completion_tokens": 147,
-                    "total_tokens": 768
-                },
+                "created": 1687960177,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Exciting bonus features with cash prizes and free spins\",\n    \"Classic yet appealing graphics with modern features\",\n    \"Developed by a well-known and experienced game developer\",\n    \"In line with modern standards for RTP\"\n  ],\n  \"cons\": [\n    \"Limited theme and symbols may not appeal to all players\",\n    \"The RTP is slightly lower than some other modern slot games\"\n  ],\n  \"meta_title\": \"Play Cash Spin Slot Game for Free - Exciting Bonuses and Classic Graphics\",\n  \"meta_description\": \"Get a taste of classic slot gaming with modern features. Play Cash Spin for free and activate its exciting bonuses with cash prizes and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Seamlessly blends classic slot themes with modern features\",\n    \"Offers two bonus modes with cash prizes and free spins\",\n    \"Includes a Wild symbol to increase winning potential\",\n    \"Developed by a well-known and reputable developer, Bally\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"Graphics may not appeal to players looking for more visually stimulating games\"\n  ],\n  \"meta_title\": \"Play Cash Spin Slot Game for Free\",\n  \"meta_description\": \"Read our review of Cash Spin, a slot game that seamlessly blends classic themes with modern features. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 618,
+                    "completion_tokens": 134,
+                    "total_tokens": 752
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "raw_feature_images": [
         "arved__Create_a_feature_image_for_the_game_Cash_Spin_that_fits__dc056682-e15c-438a-ac15-a3e098f0b373_1.png",
-        "arved__Create_a_feature_image_for_the_game_Cash_Spin_that_fits__dc056682-e15c-438a-ac15-a3e098f0b373_4.png",
         "arved__Create_a_feature_image_for_the_game_Cash_Spin_that_fits__dc056682-e15c-438a-ac15-a3e098f0b373_2.png",
+        "arved__Create_a_feature_image_for_the_game_Cash_Spin_that_fits__dc056682-e15c-438a-ac15-a3e098f0b373_4.png",
         "arved__Create_a_feature_image_for_the_game_Cash_Spin_that_fits__dc056682-e15c-438a-ac15-a3e098f0b373_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cash Spin (Version 3).webp",
-        "game_reviews/processed_images/Cash Spin (Version 1).webp",
+        "game_reviews/processed_images/Cash Spin (Version 4).webp",
         "game_reviews/processed_images/Cash Spin (Version 2).webp",
-        "game_reviews/processed_images/Cash Spin (Version 4).webp"
+        "game_reviews/processed_images/Cash Spin (Version 3).webp",
+        "game_reviews/processed_images/Cash Spin (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cash-spin.json"
+    "filename": "game_reviews/translations/cash-spin.json",
+    "slug": "cash-spin",
+    "name": "Cash Spin",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Spin-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Spin Slot Game for Free' ### Meta set: 'Read our review of Cash Spin, a slot game that seamlessly blends classic themes with modern features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

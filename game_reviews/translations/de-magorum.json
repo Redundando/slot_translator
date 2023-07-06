@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High RTP of 94.38%",
-                    "Exciting and rewarding Bonus Game feature",
-                    "Wide range of betting options",
-                    "Thematic symbols and special features"
+                    "Exciting gameplay moments for slot game lovers",
+                    "Thematic symbols and great payouts",
+                    "Generous special symbols and multipliers",
+                    "Unique and lucrative Bonus Game feature"
                 ],
                 "cons": [
-                    "May not appeal to players who prefer games with higher volatility",
-                    "Free spins round can be difficult to trigger"
+                    "Limited betting options",
+                    "Medium volatility may not appeal to all players"
                 ],
-                "meta_title": "Play De Magorum free and discover its magical features",
-                "meta_description": "Read our review of De Magorum, play for free, and experience its magical symbols and Bonus Game feature with a high RTP and wide betting range."
+                "meta_title": "Play De Magorum Slot Game for Free",
+                "meta_description": "Discover the exciting gameplay and lucrative features of De Magorum. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"De Magorum\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDe Magorum follows traditional gameplay with five reels and thirty paylines. The game features a minimum betting option of 0.01 € per line and a maximum betting option of 1 € per line. With medium volatility and an impressive RTP of 94.38%, this game offers exciting gameplay moments for slot game lovers.\n\nSymbols\n\nDe Magorum boasts thematic symbols, including four magical props and four magicians. The highest-paying symbols on the reels are the four magicians, who provide great payouts of up to 300 times your bet for Septimus and 1,000 times your wager for Palladio.\n\nSpecial Features\n\nDe Magorum offers three special symbols, including the Wild represented by a book, which replaces all regular symbols and pays out generously. The Scatter, represented by a magical staff, also provides financial rewards and multiplies your winnings. The crystal sphere, which appears only on reels 2, 3, and 4, awards three free spins. Additionally, players can choose one of the magical props for an additional multiplier of 2x to 5x in the Bonus Game.\n\nBonus Game\n\nIn the Bonus Game, players can select one magician and receive between 5 and 11 free spins. With a constant multiplier of 2x to 5x through the selected magical prop, the free spins can be incredibly rewarding. Collecting three crystal spheres during the free spins awards up to eight additional spins, for a total of 100. The Bonus Game is a unique, exciting, and lucrative feature of De Magorum that many players will love.\n\nRTP and Betting Range\n\nDe Magorum has a high RTP of 94.38%, making it a high-reward slot game. The game has a wide range of betting options, from a minimum of 0.01 € per line to a maximum of 1 € per line, for a total bet of 30 €. With such a wide betting range, players can gradually increase their wagers and enjoy the experience that De Magorum offers.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"De Magorum\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nDe Magorum follows traditional gameplay with five reels and thirty paylines. The game features a minimum betting option of 0.01 € per line and a maximum betting option of 1 € per line. With medium volatility and an impressive RTP of 94.38%, this game offers exciting gameplay moments for slot game lovers.\n\nSymbols\n\nDe Magorum boasts thematic symbols, including four magical props and four magicians. The highest-paying symbols on the reels are the four magicians, who provide great payouts of up to 300 times your bet for Septimus and 1,000 times your wager for Palladio.\n\nSpecial Features\n\nDe Magorum offers three special symbols, including the Wild represented by a book, which replaces all regular symbols and pays out generously. The Scatter, represented by a magical staff, also provides financial rewards and multiplies your winnings. The crystal sphere, which appears only on reels 2, 3, and 4, awards three free spins. Additionally, players can choose one of the magical props for an additional multiplier of 2x to 5x in the Bonus Game.\n\nBonus Game\n\nIn the Bonus Game, players can select one magician and receive between 5 and 11 free spins. With a constant multiplier of 2x to 5x through the selected magical prop, the free spins can be incredibly rewarding. Collecting three crystal spheres during the free spins awards up to eight additional spins, for a total of 100. The Bonus Game is a unique, exciting, and lucrative feature of De Magorum that many players will love.\n\nRTP and Betting Range\n\nDe Magorum has a high RTP of 94.38%, making it a high-reward slot game. The game has a wide range of betting options, from a minimum of 0.01 € per line to a maximum of 1 € per line, for a total bet of 30 €. With such a wide betting range, players can gradually increase their wagers and enjoy the experience that De Magorum offers.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T1VH02eLDlRohkDGi3OxCxodIx94",
+                "id": "chatcmpl-7WR2loqulcBP7ybbanliPU0f0Z2V8",
                 "object": "chat.completion",
-                "created": 1687151647,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 591,
-                    "completion_tokens": 133,
-                    "total_tokens": 724
-                },
+                "created": 1687964807,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 94.38%\",\n        \"Exciting and rewarding Bonus Game feature\",\n        \"Wide range of betting options\",\n        \"Thematic symbols and special features\"\n    ],\n    \"cons\": [\n        \"May not appeal to players who prefer games with higher volatility\",\n        \"Free spins round can be difficult to trigger\"\n    ],\n    \"meta_title\": \"Play De Magorum free and discover its magical features\",\n    \"meta_description\": \"Read our review of De Magorum, play for free, and experience its magical symbols and Bonus Game feature with a high RTP and wide betting range.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting gameplay moments for slot game lovers\",\n    \"Thematic symbols and great payouts\",\n    \"Generous special symbols and multipliers\",\n    \"Unique and lucrative Bonus Game feature\"\n  ],\n  \"cons\": [\n    \"Limited betting options\",\n    \"Medium volatility may not appeal to all players\"\n  ],\n  \"meta_title\": \"Play De Magorum Slot Game for Free\",\n  \"meta_description\": \"Discover the exciting gameplay and lucrative features of De Magorum. Play for free now!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 588,
+                    "completion_tokens": 112,
+                    "total_tokens": 700
+                }
             }
         },
         {
@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_809df1e4-4281-4bbc-973e-b10a9bfc3c60_4.png",
         "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_809df1e4-4281-4bbc-973e-b10a9bfc3c60_2.png",
         "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_809df1e4-4281-4bbc-973e-b10a9bfc3c60_3.png",
+        "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_809df1e4-4281-4bbc-973e-b10a9bfc3c60_4.png",
         "arved__Please_create_a_cartoon-style_image_of_a_happy_Maya_warr_809df1e4-4281-4bbc-973e-b10a9bfc3c60_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/De Magorum (Version 4).webp",
         "game_reviews/processed_images/De Magorum (Version 3).webp",
         "game_reviews/processed_images/De Magorum (Version 2).webp",
+        "game_reviews/processed_images/De Magorum (Version 4).webp",
         "game_reviews/processed_images/De Magorum (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/de-magorum.json"
+    "filename": "game_reviews/translations/de-magorum.json",
+    "slug": "de-magorum",
+    "name": "De Magorum",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/De-Magorum-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play De Magorum Slot Game for Free' ### Meta set: 'Discover the exciting gameplay and lucrative features of De Magorum. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Unique hexagonal game structure",
-                    "Captivating and animated graphics",
                     "Cluster Pays system for generating winnings",
-                    "Good volatility and payouts"
+                    "Captivating and animated graphics",
+                    "Good volatility and excellent payouts"
                 ],
                 "cons": [
-                    "No progressive jackpot",
-                    "No gamble feature"
+                    "Limited bonus game with only 5 free spins",
+                    "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Mystic Hive Free - Slot Game Review",
-                "meta_description": "Read our review of the Betsoft slot game Mystic Hive and play for free. Unique hexagonal game structure, captivating graphics, Cluster Pays system, good volatility."
+                "meta_title": "Play Mystic Hive Free - Unique Hexagonal Slot Game",
+                "meta_description": "Discover the captivating and animated Mystic Hive slot game with unique hexagonal gameplay. Play for free and enjoy excellent payouts."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystic Hive\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and structure\n\nMystic Hive is a slot game that features a unique hexagonal game structure, offering a different and unusual experience for players. Instead of regular paylines, the game relies on real combinations to unlock payments. The game uses the Cluster Pays system to generate winnings, which combines a series of symbols with one another to create a connection. The game also features a Honey Meter, which fills up to award players with 5 free spins and initiate a bonus game that spreads Wilds on the board.\n\nGraphics and theme\n\nThe graphics of Mystic Hive are well-done, with a fantastical forest backdrop inhabited by bees and fireflies. The game has a unique design with a 3-4-5-4-3 pattern set on a honeycomb. The icons include precious stones in different colours, mushrooms and honey, which has considerable weight in this game as it is the Wild symbol. The overall design is captivating and animated.\n\nSpecial symbols and features\n\nThe special symbols in Mystic Hive include the honey symbol as the Wild, which matches up with any other icon to unlock a payment or increase its value. The game also features a Honey Meter, which awards 5 free spins every time it is loaded, initiating a bonus game that spreads Wilds on the board until all the boxes are occupied or the spins run out.\n\nVolatility and payouts\n\nMystic Hive has an RTP of 97% and offers good volatility. The payouts in the game are excellent, with the chance to unlock considerable wins through symbol combinations and the bonus game. The game is suited for both casual and experienced players, with a variety of betting options available.\n\nOverall gaming experience\n\nMystic Hive by Betsoft is an exciting and unique slot game with exceptional graphics and design. The gameplay mechanics and structure of the game offer a different and enjoyable experience, and the game's payout system and good volatility make it fun and rewarding to play. The musical accompaniment adds to the overall experience, and the game runs smoothly on any device. Gaming sessions are neither particularly lively nor boring, making it perfect for those looking for a complete and immersive gambling experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystic Hive\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and structure\n\nMystic Hive is a slot game that features a unique hexagonal game structure, offering a different and unusual experience for players. Instead of regular paylines, the game relies on real combinations to unlock payments. The game uses the Cluster Pays system to generate winnings, which combines a series of symbols with one another to create a connection. The game also features a Honey Meter, which fills up to award players with 5 free spins and initiate a bonus game that spreads Wilds on the board.\n\nGraphics and theme\n\nThe graphics of Mystic Hive are well-done, with a fantastical forest backdrop inhabited by bees and fireflies. The game has a unique design with a 3-4-5-4-3 pattern set on a honeycomb. The icons include precious stones in different colours, mushrooms and honey, which has considerable weight in this game as it is the Wild symbol. The overall design is captivating and animated.\n\nSpecial symbols and features\n\nThe special symbols in Mystic Hive include the honey symbol as the Wild, which matches up with any other icon to unlock a payment or increase its value. The game also features a Honey Meter, which awards 5 free spins every time it is loaded, initiating a bonus game that spreads Wilds on the board until all the boxes are occupied or the spins run out.\n\nVolatility and payouts\n\nMystic Hive has an RTP of 97% and offers good volatility. The payouts in the game are excellent, with the chance to unlock considerable wins through symbol combinations and the bonus game. The game is suited for both casual and experienced players, with a variety of betting options available.\n\nOverall gaming experience\n\nMystic Hive by Betsoft is an exciting and unique slot game with exceptional graphics and design. The gameplay mechanics and structure of the game offer a different and enjoyable experience, and the game's payout system and good volatility make it fun and rewarding to play. The musical accompaniment adds to the overall experience, and the game runs smoothly on any device. Gaming sessions are neither particularly lively nor boring, making it perfect for those looking for a complete and immersive gambling experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UE5ChxBGLAAZJGbiIQgLJOg9ZKaH",
+                "id": "chatcmpl-7WYQjiAM6G0hH13dcrbRgTE4mGqTT",
                 "object": "chat.completion",
-                "created": 1687438330,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993201,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique hexagonal game structure\",\n        \"Captivating and animated graphics\",\n        \"Cluster Pays system for generating winnings\",\n        \"Good volatility and payouts\"\n    ],\n    \"cons\": [\n        \"No progressive jackpot\",\n        \"No gamble feature\"\n    ],\n    \"meta_title\": \"Play Mystic Hive Free - Slot Game Review\",\n    \"meta_description\": \"Read our review of the Betsoft slot game Mystic Hive and play for free. Unique hexagonal game structure, captivating graphics, Cluster Pays system, good volatility.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique hexagonal game structure\",\n    \"Cluster Pays system for generating winnings\",\n    \"Captivating and animated graphics\",\n    \"Good volatility and excellent payouts\"\n  ],\n  \"cons\": [\n    \"Limited bonus game with only 5 free spins\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Mystic Hive Free - Unique Hexagonal Slot Game\",\n  \"meta_description\": \"Discover the captivating and animated Mystic Hive slot game with unique hexagonal gameplay. Play for free and enjoy excellent payouts.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 611,
+                    "prompt_tokens": 608,
                     "completion_tokens": 115,
-                    "total_tokens": 726
+                    "total_tokens": 723
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystic-hive.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_image_f_69c684fb-5a14-4b0a-bc15-1ee1301281ec_2.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_image_f_69c684fb-5a14-4b0a-bc15-1ee1301281ec_1.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_image_f_69c684fb-5a14-4b0a-bc15-1ee1301281ec_3.png",
+        "arved__Prompt_for_DALLE_Create_a_colorful_cartoon-style_image_f_69c684fb-5a14-4b0a-bc15-1ee1301281ec_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystic Hive (Version 3).webp",
+        "game_reviews/processed_images/Mystic Hive (Version 2).webp",
+        "game_reviews/processed_images/Mystic Hive (Version 4).webp",
+        "game_reviews/processed_images/Mystic Hive (Version 1).webp"
+    ],
+    "slug": "mystic-hive",
+    "name": "Mystic Hive",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystic-Hive-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystic Hive Free - Unique Hexagonal Slot Game' ### Meta set: 'Discover the captivating and animated Mystic Hive slot game with unique hexagonal gameplay. Play for free and enjoy excellent payouts.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

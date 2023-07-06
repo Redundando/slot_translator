@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free spins mode with potential for big rewards",
-                    "Options to win Mini, Maxi, and Grand jackpots",
-                    "Gold Meter increases bet value and improves symbol chances",
-                    "Unique combination of animal and desert themes"
+                    "High-quality graphics with an attractive animal and desert theme",
+                    "Exciting gameplay with multiple jackpots and bonus features",
+                    "Adjustable Gold Meter adds an extra layer of strategy",
+                    "Free spins offer a high chance of winning big rewards"
                 ],
                 "cons": [
-                    "Higher volatility means potential for bigger losses",
-                    "Limited number of paylines (25) compared to other slot games"
+                    "Medium-high volatility might not appeal to players seeking frequent small wins",
+                    "Limited number of paylines compared to some other slot games"
                 ],
-                "meta_title": "Play Gold Pile Tigers Pride for Free - Pros and Cons",
-                "meta_description": "Read our review of Gold Pile Tigers Pride, a medium-high volatility slot game with free spins and Mini, Maxi, and Grand jackpots. Play for free now."
+                "meta_title": "Play Gold Pile Tigers Pride for Free - Review and Bonus Features",
+                "meta_description": "Discover the excitement of Gold Pile Tigers Pride and play for free. Multiple jackpots and free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gold Pile Tigers Pride\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nGold Pile Tigers Pride is a video slot game with 5 reels and 25 paylines. Rarestone Gaming (Playtech) has developed this game that combines the world of animals and the desert theme.\n\nVolatility and RTP\n\nGold Pile Tigers Pride has medium-high volatility and an RTP fixed at 96.47%. Players can try to win Mini and Maxi awards by forming 5 combinations, and can also try their luck for the Grand prize. The amount of betting played plays a key role in determining the win.\n\nSymbols and Paylines\n\nTigers and their imprint are the symbols with the highest value, followed by the emerald ring, the tiger's tooth, its statue, and the luxurious vase. The value decreases with cards from K to 9, which are made with an Asian-style. The Gold Meter plays a key role with its 25 paylines, increasing the value of the bet. The Mini, Maxi, and Grand jackpots are available depending on the amount of betting.\n\nExtra Features\n\nThe Gold Meter is located on the left side of the grid and can be adjusted with a value ranging from 10% to 100%. The higher the Gold Meter, the easier it will be for symbols to arrive on the fifth reel. Free spins can be activated with three Scatters, which starts with eight, and then adds 4 or 8 additional spins if more Scatters appear during the round. \n\nFree Spins\n\nGold Pile Tigers Pride offers free spins that can be activated with three Scatters. This results in 8 free spins that can be increased to 12 or 16 spins if more Scatters appear during the round. Free spins offer a high chance of winning big rewards.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gold Pile Tigers Pride\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Description\n\nGold Pile Tigers Pride is a video slot game with 5 reels and 25 paylines. Rarestone Gaming (Playtech) has developed this game that combines the world of animals and the desert theme.\n\nVolatility and RTP\n\nGold Pile Tigers Pride has medium-high volatility and an RTP fixed at 96.47%. Players can try to win Mini and Maxi awards by forming 5 combinations, and can also try their luck for the Grand prize. The amount of betting played plays a key role in determining the win.\n\nSymbols and Paylines\n\nTigers and their imprint are the symbols with the highest value, followed by the emerald ring, the tiger's tooth, its statue, and the luxurious vase. The value decreases with cards from K to 9, which are made with an Asian-style. The Gold Meter plays a key role with its 25 paylines, increasing the value of the bet. The Mini, Maxi, and Grand jackpots are available depending on the amount of betting.\n\nExtra Features\n\nThe Gold Meter is located on the left side of the grid and can be adjusted with a value ranging from 10% to 100%. The higher the Gold Meter, the easier it will be for symbols to arrive on the fifth reel. Free spins can be activated with three Scatters, which starts with eight, and then adds 4 or 8 additional spins if more Scatters appear during the round. \n\nFree Spins\n\nGold Pile Tigers Pride offers free spins that can be activated with three Scatters. This results in 8 free spins that can be increased to 12 or 16 spins if more Scatters appear during the round. Free spins offer a high chance of winning big rewards.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TSJCXiHJ0z0RmQOSNkgNnuVYcvEr",
+                "id": "chatcmpl-7WU0UvdrfZvQrHXPPzH0xd2UuVfTR",
                 "object": "chat.completion",
-                "created": 1687254686,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 534,
-                    "completion_tokens": 154,
-                    "total_tokens": 688
-                },
+                "created": 1687976198,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free spins mode with potential for big rewards\",\n        \"Options to win Mini, Maxi, and Grand jackpots\",\n        \"Gold Meter increases bet value and improves symbol chances\",\n        \"Unique combination of animal and desert themes\"\n    ],\n    \"cons\": [\n        \"Higher volatility means potential for bigger losses\",\n        \"Limited number of paylines (25) compared to other slot games\"\n    ],\n    \"meta_title\": \"Play Gold Pile Tigers Pride for Free - Pros and Cons\",\n    \"meta_description\": \"Read our review of Gold Pile Tigers Pride, a medium-high volatility slot game with free spins and Mini, Maxi, and Grand jackpots. Play for free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality graphics with an attractive animal and desert theme\",\n    \"Exciting gameplay with multiple jackpots and bonus features\",\n    \"Adjustable Gold Meter adds an extra layer of strategy\",\n    \"Free spins offer a high chance of winning big rewards\"\n  ],\n  \"cons\": [\n    \"Medium-high volatility might not appeal to players seeking frequent small wins\",\n    \"Limited number of paylines compared to some other slot games\"\n  ],\n  \"meta_title\": \"Play Gold Pile Tigers Pride for Free - Review and Bonus Features\",\n  \"meta_description\": \"Discover the excitement of Gold Pile Tigers Pride and play for free. Multiple jackpots and free spins.\" \n}\n"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 531,
+                    "completion_tokens": 148,
+                    "total_tokens": 679
+                }
             }
         },
         {
@@ -812,5 +812,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gold-pile-tigers-pride.json"
+    "filename": "game_reviews/translations/gold-pile-tigers-pride.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_onli_f6c0ad80-5b48-481b-bf1c-0e3dde3cd49a_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_onli_f6c0ad80-5b48-481b-bf1c-0e3dde3cd49a_4.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_onli_f6c0ad80-5b48-481b-bf1c-0e3dde3cd49a_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_onli_f6c0ad80-5b48-481b-bf1c-0e3dde3cd49a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gold Pile Tigers Pride (Version 1).webp",
+        "game_reviews/processed_images/Gold Pile Tigers Pride (Version 3).webp",
+        "game_reviews/processed_images/Gold Pile Tigers Pride (Version 2).webp",
+        "game_reviews/processed_images/Gold Pile Tigers Pride (Version 4).webp"
+    ],
+    "slug": "gold-pile-tigers-pride",
+    "name": "Gold Pile Tigers Pride",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gold-Pile-Tigers-Pride-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gold Pile Tigers Pride for Free - Review and Bonus Features' ### Meta set: 'Discover the excitement of Gold Pile Tigers Pride and play for free. Multiple jackpots and free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

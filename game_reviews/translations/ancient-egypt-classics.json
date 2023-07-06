@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High payout potential",
-                    "Immersive theme and graphics",
-                    "Golden Scarab symbol provides big wins",
-                    "Simple gameplay"
+                    "High RTP of 96.47%",
+                    "Simple and immersive graphics",
+                    "Thematic symbols and references",
+                    "Potential for large payouts"
                 ],
                 "cons": [
-                    "Lacks special features",
-                    "Rarely hits wins"
+                    "Few special features",
+                    "Wins are not frequently obtained"
                 ],
-                "meta_title": "Play Ancient Egypt Classic for Free – Slot Game Review",
-                "meta_description": "Experience Ancient Egypt in Ancient Egypt Classic slot game. Play free and earn up to x200 wins with the Golden Scarab. Read our in-depth review."
+                "meta_title": "Play Ancient Egypt Classics Free: Review and Gameplay",
+                "meta_description": "Read our review of Ancient Egypt Classics and play for free. Find out about gameplay features and symbols."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Ancient Egypt Classics\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAncient Egypt Classic has five reels and ten paylines with an RTP of 96.47% and high volatility. Players can potentially earn large payouts, but wins are not frequently obtained.\n\nGraphics and Design\n\nThe graphics in Ancient Egypt Classic are simple but well done. Players find themselves in front of a temple dedicated to Egyptian deities. Symbols on the reels also reference these gods, resulting in an immersive experience.\n\nSymbols and Theme\n\nThe symbols in Ancient Egypt Classic are a mix of thematic and non-thematic references. Non-thematic symbols include playing cards from 10 to Ace. Thematic symbols include hieroglyphs, the cross of life, the Eye of Horus, Anubis, and Queen Cleopatra. The Golden Scarab acts as the Wild symbol, which is an essential part of Egyptian culture and can bring players wins up to x200.\n\nSpecial Feature: Golden Scarab and Free Spins\n\nThe Golden Scarab represents the Wild symbol and can bring players wins up to x200. In addition, the Golden Scarab can grant players access to free spins. Unfortunately, the slot does not offer many special features besides this.\n\nComparison to Other Ancient Egypt-Themed Slots\n\nThere are many slots with an Ancient Egypt theme in online casinos. Some notable examples include Ramses Treasures, Sphinx, Ramses Riches, Golden Ark, Queen of Riches, A While on the Nile, Hidden, Horus Gold, Blaze of Ra, Rise of Ra, and Platinum Pyramid. While Ancient Egypt Classic may lack many special features compared to other Egypt-themed slots, the game still provides a rewarding and immersive experience.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Ancient Egypt Classics\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nAncient Egypt Classic has five reels and ten paylines with an RTP of 96.47% and high volatility. Players can potentially earn large payouts, but wins are not frequently obtained.\n\nGraphics and Design\n\nThe graphics in Ancient Egypt Classic are simple but well done. Players find themselves in front of a temple dedicated to Egyptian deities. Symbols on the reels also reference these gods, resulting in an immersive experience.\n\nSymbols and Theme\n\nThe symbols in Ancient Egypt Classic are a mix of thematic and non-thematic references. Non-thematic symbols include playing cards from 10 to Ace. Thematic symbols include hieroglyphs, the cross of life, the Eye of Horus, Anubis, and Queen Cleopatra. The Golden Scarab acts as the Wild symbol, which is an essential part of Egyptian culture and can bring players wins up to x200.\n\nSpecial Feature: Golden Scarab and Free Spins\n\nThe Golden Scarab represents the Wild symbol and can bring players wins up to x200. In addition, the Golden Scarab can grant players access to free spins. Unfortunately, the slot does not offer many special features besides this.\n\nComparison to Other Ancient Egypt-Themed Slots\n\nThere are many slots with an Ancient Egypt theme in online casinos. Some notable examples include Ramses Treasures, Sphinx, Ramses Riches, Golden Ark, Queen of Riches, A While on the Nile, Hidden, Horus Gold, Blaze of Ra, Rise of Ra, and Platinum Pyramid. While Ancient Egypt Classic may lack many special features compared to other Egypt-themed slots, the game still provides a rewarding and immersive experience.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SX1gw6n4TogQ3kaCguv9aViDlzCa",
+                "id": "chatcmpl-7WNGP6WgQIXcyby5dOmdQdst3lwh1",
                 "object": "chat.completion",
-                "created": 1687034492,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 512,
-                    "completion_tokens": 116,
-                    "total_tokens": 628
-                },
+                "created": 1687950277,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High payout potential\",\n        \"Immersive theme and graphics\",\n        \"Golden Scarab symbol provides big wins\",\n        \"Simple gameplay\"\n    ],\n    \"cons\": [\n        \"Lacks special features\",\n        \"Rarely hits wins\"\n    ],\n    \"meta_title\": \"Play Ancient Egypt Classic for Free – Slot Game Review\",\n    \"meta_description\": \"Experience Ancient Egypt in Ancient Egypt Classic slot game. Play free and earn up to x200 wins with the Golden Scarab. Read our in-depth review.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"High RTP of 96.47%\",\n      \"Simple and immersive graphics\",\n      \"Thematic symbols and references\",\n      \"Potential for large payouts\"\n   ],\n   \"cons\": [\n      \"Few special features\",\n      \"Wins are not frequently obtained\"\n   ],\n   \"meta_title\": \"Play Ancient Egypt Classics Free: Review and Gameplay\",\n   \"meta_description\": \"Read our review of Ancient Egypt Classics and play for free. Find out about gameplay features and symbols.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 509,
+                    "completion_tokens": 105,
+                    "total_tokens": 614
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/ancient-egypt-classics.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_3.png",
-        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_2.png",
         "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_4.png",
-        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_1.png"
+        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_1.png",
+        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_3.png",
+        "arved__Create_a_feature_image_for_Ancient_Egypt_Classic_that_de_120556c6-66ab-45c7-a7d3-4d5c88e2bb01_2.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Ancient Egypt Classics (Version 1).webp",
         "game_reviews/processed_images/Ancient Egypt Classics (Version 4).webp",
         "game_reviews/processed_images/Ancient Egypt Classics (Version 3).webp",
-        "game_reviews/processed_images/Ancient Egypt Classics (Version 1).webp",
         "game_reviews/processed_images/Ancient Egypt Classics (Version 2).webp"
-    ]
+    ],
+    "slug": "ancient-egypt-classics",
+    "name": "Ancient Egypt Classics",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Ancient-Egypt-Classics-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Ancient Egypt Classics Free: Review and Gameplay' ### Meta set: 'Read our review of Ancient Egypt Classics and play for free. Find out about gameplay features and symbols.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

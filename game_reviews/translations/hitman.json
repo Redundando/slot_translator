@@ -581,38 +581,38 @@
             "response": {
                 "pros": [
                     "Exciting bonus games",
-                    "Multiple winning combinations",
-                    "Straightforward gameplay",
+                    "Engaging gameplay",
+                    "Good payout average",
                     "Attractive RTP value"
                 ],
                 "cons": [
-                    "Graphics could be improved",
-                    "No additional free spins during free spin phase"
+                    "Graphics could be better",
+                    "Limited free spins"
                 ],
-                "meta_title": "Play Hitman Slot for Free - Exciting Bonus Games Included",
-                "meta_description": "Read our review of Hitman, a Microgaming-made online slot game with 15 paylines and bonus features. Play it for free and enjoy exciting bonus games."
+                "meta_title": "Play Hitman Free: Exciting Bonus Games & Attractive RTP",
+                "meta_description": "Play Hitman for free and enjoy its exciting bonus games and attractive RTP value."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Hitman\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Hitman slot game\n\nHitman is a five-reel, three-row online slot game developed by Microgaming with 15 paylines. The game draws inspiration from the eponymous video game character and features exciting bonus games, including Contract, Insignia, and expanding Wild. The game's theme and bonus features make it an excellent choice for experienced gamblers.\n\nGameplay and features of Hitman slot\n\nHitman's gameplay is straightforward and starts with placing bets by choosing between 1 and 15 paylines with a value range from 0.01 to 0.5. The game has over 30 winning combinations, and to complete combinations when symbols are missing, Agent 47/Wild appears as the Joker and can replace all game symbols. The Scatter is represented by multiple images. The game's bonus features include Contract, Insignia, and expanding Wild, which add to the excitement and keep the gameplay fresh and engaging with every spin.\n\nSymbols and paylines of Hitman slot\n\nThe game's symbols include the famous Agent 47, his revolvers, a knife, machine guns, and special icons. There are 15 paylines available, and the game has over 30 winning combinations. Players will be delighted to see different animations on the screen when they realize a winning combination. Agent 47/Wild appears as the Joker and can replace all game symbols to complete combinations even when symbols are missing. The Scatter is represented by multiple images.\n\nBonus games and free spins in Hitman slot\n\nHitman features three bonus games that make the gameplay exciting and engaging. Contract, Insignia, and expanding Wild are the bonus games available in the game. Players can activate Contract by getting three bonus symbols on reels 3, 4, and 5. In this bonus game, players must choose a target and a weapon. Insignia is unlocked with three Scatter symbols on reels 1, 2, and 3, in which players must choose one of the symbols to win the associated amount. To get free spins, players need to find the Free Spin icon on the grid three or more times. During this phase, players can find new bonus games, but they will not receive any more free spins.\n\nReturn to Player (RTP) value of Hitman slot\n\nHitman has an attractive RTP value of 95.84%, making it a good choice for players looking for a high payout. Although Hitman's graphics may not be its strongest point, it compensates for this with its exciting bonus features, good payout average, and gameplay that is never boring.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Hitman\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nOverview of Hitman slot game\n\nHitman is a five-reel, three-row online slot game developed by Microgaming with 15 paylines. The game draws inspiration from the eponymous video game character and features exciting bonus games, including Contract, Insignia, and expanding Wild. The game's theme and bonus features make it an excellent choice for experienced gamblers.\n\nGameplay and features of Hitman slot\n\nHitman's gameplay is straightforward and starts with placing bets by choosing between 1 and 15 paylines with a value range from 0.01 to 0.5. The game has over 30 winning combinations, and to complete combinations when symbols are missing, Agent 47/Wild appears as the Joker and can replace all game symbols. The Scatter is represented by multiple images. The game's bonus features include Contract, Insignia, and expanding Wild, which add to the excitement and keep the gameplay fresh and engaging with every spin.\n\nSymbols and paylines of Hitman slot\n\nThe game's symbols include the famous Agent 47, his revolvers, a knife, machine guns, and special icons. There are 15 paylines available, and the game has over 30 winning combinations. Players will be delighted to see different animations on the screen when they realize a winning combination. Agent 47/Wild appears as the Joker and can replace all game symbols to complete combinations even when symbols are missing. The Scatter is represented by multiple images.\n\nBonus games and free spins in Hitman slot\n\nHitman features three bonus games that make the gameplay exciting and engaging. Contract, Insignia, and expanding Wild are the bonus games available in the game. Players can activate Contract by getting three bonus symbols on reels 3, 4, and 5. In this bonus game, players must choose a target and a weapon. Insignia is unlocked with three Scatter symbols on reels 1, 2, and 3, in which players must choose one of the symbols to win the associated amount. To get free spins, players need to find the Free Spin icon on the grid three or more times. During this phase, players can find new bonus games, but they will not receive any more free spins.\n\nReturn to Player (RTP) value of Hitman slot\n\nHitman has an attractive RTP value of 95.84%, making it a good choice for players looking for a high payout. Although Hitman's graphics may not be its strongest point, it compensates for this with its exciting bonus features, good payout average, and gameplay that is never boring.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TqLUtChz4P26qV57zKNGu9qlvMkZ",
+                "id": "chatcmpl-7WUoo9Ex1dLXeuGWuZjyEXtKj1Wen",
                 "object": "chat.completion",
-                "created": 1687347084,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687979318,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\"Exciting bonus games\", \"Multiple winning combinations\", \"Straightforward gameplay\", \"Attractive RTP value\"],\n    \"cons\": [\"Graphics could be improved\", \"No additional free spins during free spin phase\"],\n    \"meta_title\": \"Play Hitman Slot for Free - Exciting Bonus Games Included\",\n    \"meta_description\": \"Read our review of Hitman, a Microgaming-made online slot game with 15 paylines and bonus features. Play it for free and enjoy exciting bonus games.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting bonus games\",\n    \"Engaging gameplay\",\n    \"Good payout average\",\n    \"Attractive RTP value\"\n  ],\n  \"cons\": [\n    \"Graphics could be better\",\n    \"Limited free spins\"\n  ],\n  \"meta_title\": \"Play Hitman Free: Exciting Bonus Games & Attractive RTP\",\n  \"meta_description\": \"Play Hitman for free and enjoy its exciting bonus games and attractive RTP value.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 704,
-                    "completion_tokens": 109,
-                    "total_tokens": 813
+                    "prompt_tokens": 701,
+                    "completion_tokens": 98,
+                    "total_tokens": 799
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/hitman.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_the_game_Hitman_DALLE_ple_42a7d791-4f37-424e-acc3-df01876b4599_3.png",
+        "arved__Create_a_feature_image_fitting_the_game_Hitman_DALLE_ple_42a7d791-4f37-424e-acc3-df01876b4599_4.png",
+        "arved__Create_a_feature_image_fitting_the_game_Hitman_DALLE_ple_42a7d791-4f37-424e-acc3-df01876b4599_1.png",
+        "arved__Create_a_feature_image_fitting_the_game_Hitman_DALLE_ple_42a7d791-4f37-424e-acc3-df01876b4599_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Hitman (Version 3).webp",
+        "game_reviews/processed_images/Hitman (Version 1).webp",
+        "game_reviews/processed_images/Hitman (Version 2).webp",
+        "game_reviews/processed_images/Hitman (Version 4).webp"
+    ],
+    "slug": "hitman",
+    "name": "Hitman",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Hitman-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Hitman Free: Exciting Bonus Games & Attractive RTP' ### Meta set: 'Play Hitman for free and enjoy its exciting bonus games and attractive RTP value.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

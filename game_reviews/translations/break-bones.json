@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Appealing Urban Graffiti theme",
-                    "Medium volatility and high RTP (96.22%)",
-                    "Advanced settings for automatic spins",
-                    "Global Multiplier feature for bigger winnings"
+                    "Eye-catching graphics and Urban Graffiti theme",
+                    "Medium volatility and high RTP",
+                    "Advanced settings for betting and automatic spins",
+                    "Multiple special features including Wild multipliers and Echo Spins"
                 ],
                 "cons": [
                     "Limited number of paylines (17)",
-                    "No progressive jackpot feature"
+                    "Standard paytable symbols may feel repetitive after extended gameplay"
                 ],
-                "meta_title": "Play Break Bones for Free - Review of Hacksaw Gaming's Slot Game",
-                "meta_description": "Read our review of Break Bones, a 3-reel, 17-fixed-payline video slot game by Hacksaw Gaming. Play for free and learn about its special features."
+                "meta_title": "Play Break Bones Free - Review of Hacksaw Gaming's Video Slot",
+                "meta_description": "Read our review of Break Bones, an Urban Graffiti-themed video slot game. Play for free and enjoy multiple special features."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Break Bones\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Key Features\n\nBreak Bones is a 3-reel, 3-row, and 17-fixed-paylines video slot game by Hacksaw Gaming. The game features an Urban Graffiti theme with eye-catching graphics and an electronic music background. It has a medium volatility and an RTP of 96.22%, making it suitable for both experienced and novice players. You can set your bet from 0.1€ up to 100€ and choose from 10 to 1,000 automatic spins using the advanced settings.\n\nSymbols and Paytable\n\nThe slot game features standard and extra symbols. Lower value symbols are the card suits (A, J), while the higher value symbols are graffiti of various skulls in four colors: orange, blue with purple eyes, green, and a blue skull with a green geometric shape on it. The last skull is the most expensive symbol in the standard paytable. Three extra symbols include the Wild, the Skeleton Hand Scatter symbol, and the Bones Game Scatter symbol.\n\nSpecial Features - Wild and Global Multipliers\n\nThe Wild symbol, represented by the letter \"W\", can substitute any icon on paylines, except for the Scatter symbols. The Wild can also appear on reels as a Wild multiplier, increasing your payout by 2x, 3x, 4x, 5x, 10x, 25x, 50x, or 100x. The Global Multiplier feature will be triggered when a large number of Wilds appear on reels, multiplying your winnings.\n\nSpecial Features - Echo Spins Feature\n\nThe Echo Spins feature is activated when the Skeleton Hand Scatter symbol appears along with at least 1 winning payline. You will be awarded 1 to 5 Echo Spins, and the position of the symbols on the reels will be identical to those that activated the bonus round. This means that you will receive a win on every respin. \n\nSpecial Features - Bones Game\n\nThe Bones Game feature is the free spin bonus round. When 3 Bones Game Scatter symbols appear on reels, you will automatically receive 10 free spins. During the bonus round, you can also get the previous bonus features, such as Wild multipliers and Echo Spins, that can increase your payout significantly. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Break Bones\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Key Features\n\nBreak Bones is a 3-reel, 3-row, and 17-fixed-paylines video slot game by Hacksaw Gaming. The game features an Urban Graffiti theme with eye-catching graphics and an electronic music background. It has a medium volatility and an RTP of 96.22%, making it suitable for both experienced and novice players. You can set your bet from 0.1€ up to 100€ and choose from 10 to 1,000 automatic spins using the advanced settings.\n\nSymbols and Paytable\n\nThe slot game features standard and extra symbols. Lower value symbols are the card suits (A, J), while the higher value symbols are graffiti of various skulls in four colors: orange, blue with purple eyes, green, and a blue skull with a green geometric shape on it. The last skull is the most expensive symbol in the standard paytable. Three extra symbols include the Wild, the Skeleton Hand Scatter symbol, and the Bones Game Scatter symbol.\n\nSpecial Features - Wild and Global Multipliers\n\nThe Wild symbol, represented by the letter \"W\", can substitute any icon on paylines, except for the Scatter symbols. The Wild can also appear on reels as a Wild multiplier, increasing your payout by 2x, 3x, 4x, 5x, 10x, 25x, 50x, or 100x. The Global Multiplier feature will be triggered when a large number of Wilds appear on reels, multiplying your winnings.\n\nSpecial Features - Echo Spins Feature\n\nThe Echo Spins feature is activated when the Skeleton Hand Scatter symbol appears along with at least 1 winning payline. You will be awarded 1 to 5 Echo Spins, and the position of the symbols on the reels will be identical to those that activated the bonus round. This means that you will receive a win on every respin. \n\nSpecial Features - Bones Game\n\nThe Bones Game feature is the free spin bonus round. When 3 Bones Game Scatter symbols appear on reels, you will automatically receive 10 free spins. During the bonus round, you can also get the previous bonus features, such as Wild multipliers and Echo Spins, that can increase your payout significantly. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SmiK2FV8rANjZ1OqvnAHTKeFEVke",
+                "id": "chatcmpl-7WPMTYRLORfgtHWTwpPlxro23nWBB",
                 "object": "chat.completion",
-                "created": 1687094796,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 636,
-                    "completion_tokens": 140,
-                    "total_tokens": 776
-                },
+                "created": 1687958341,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Appealing Urban Graffiti theme\",\n        \"Medium volatility and high RTP (96.22%)\",\n        \"Advanced settings for automatic spins\",\n        \"Global Multiplier feature for bigger winnings\"\n    ],\n    \"cons\": [\n        \"Limited number of paylines (17)\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Break Bones for Free - Review of Hacksaw Gaming's Slot Game\",\n    \"meta_description\": \"Read our review of Break Bones, a 3-reel, 17-fixed-payline video slot game by Hacksaw Gaming. Play for free and learn about its special features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Eye-catching graphics and Urban Graffiti theme\",\n    \"Medium volatility and high RTP\",\n    \"Advanced settings for betting and automatic spins\",\n    \"Multiple special features including Wild multipliers and Echo Spins\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (17)\",\n    \"Standard paytable symbols may feel repetitive after extended gameplay\"\n  ],\n  \"meta_title\": \"Play Break Bones Free - Review of Hacksaw Gaming's Video Slot\",\n  \"meta_description\": \"Read our review of Break Bones, an Urban Graffiti-themed video slot game. Play for free and enjoy multiple special features.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 633,
+                    "completion_tokens": 135,
+                    "total_tokens": 768
+                }
             }
         },
         {
@@ -813,16 +813,33 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_1.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_1bb80e9c-4e15-48e7-b644-248d7b04501e_4.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_1bb80e9c-4e15-48e7-b644-248d7b04501e_3.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_1bb80e9c-4e15-48e7-b644-248d7b04501e_1.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_4.png",
         "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_3.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_2.png",
-        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_1.png"
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_1bb80e9c-4e15-48e7-b644-248d7b04501e_2.png",
+        "arved__Please_create_a_cartoon-style_feature_image_for_Break_Bo_5db68256-f60d-4b37-89d3-37c6e65aa9b6_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Break Bones (Version 3).webp",
-        "game_reviews/processed_images/Break Bones (Version 2).webp",
+        "game_reviews/processed_images/Break Bones (Version 6).webp",
+        "game_reviews/processed_images/Break Bones (Version 8).webp",
+        "game_reviews/processed_images/Break Bones (Version 4).webp",
         "game_reviews/processed_images/Break Bones (Version 1).webp",
-        "game_reviews/processed_images/Break Bones (Version 4).webp"
+        "game_reviews/processed_images/Break Bones (Version 7).webp",
+        "game_reviews/processed_images/Break Bones (Version 3).webp",
+        "game_reviews/processed_images/Break Bones (Version 5).webp",
+        "game_reviews/processed_images/Break Bones (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/break-bones.json"
+    "filename": "game_reviews/translations/break-bones.json",
+    "slug": "break-bones",
+    "name": "Break Bones",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Break-Bones-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Break Bones Free - Review of Hacksaw Gaming's Video Slot' ### Meta set: 'Read our review of Break Bones, an Urban Graffiti-themed video slot game. Play for free and enjoy multiple special features.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

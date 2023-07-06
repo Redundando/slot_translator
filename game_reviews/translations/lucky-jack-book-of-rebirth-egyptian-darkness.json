@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Egyptian theme with well-designed graphics",
-                    "Wild/Scatter symbol with multiplier",
-                    "Expanding symbol during Free Spins",
-                    "Turbo function for faster gameplay"
+                    "Engaging Egyptian theme",
+                    "High potential for big wins",
+                    "Expanding symbols during Free Spins",
+                    "Fast-paced gameplay with Turbo function"
                 ],
                 "cons": [
-                    "Only 10 fixed paylines",
-                    "Minimum bet may not appeal to high rollers"
+                    "Limited number of paylines",
+                    "No progressive jackpot feature"
                 ],
                 "meta_title": "Play Lucky Jack Book of Rebirth Egyptian Darkness for Free",
-                "meta_description": "Read our review of Lucky Jack Book of Rebirth Egyptian Darkness and play for free. Enjoy expanding symbols and a Wild/Scatter symbol with multiplier."
+                "meta_description": "Read our review of Lucky Jack Book of Rebirth Egyptian Darkness and play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Jack Book of Rebirth Egyptian Darkness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nLucky Jack Book of Rebirth Egyptian Darkness is a 6x3 slot game with an Egyptian theme. The game has 10 fixed paylines and a minimum bet of 0.1 coin per line. Players can win up to 1,000,000x their bet.\n\nGame Features\n\nLucky Jack Book of Rebirth Egyptian Darkness has a Wild/Scatter symbol, which acts as both a Joker and multiplier. The game also offers 10 Free Spins during which a random symbol will expand, covering the entire reel. Additional Free Spins can be earned by landing more Scatters. As with other Spinomenal slots, players can activate the Turbo function for faster spins.\n\nEgyptian Theme\n\nLucky Jack Book of Rebirth Egyptian Darkness has an Egyptian theme, with symbols and graphics that evoke the ancient civilization. The game's background music sets an intense, moody atmosphere that is fitting for the setting.\n\nGraphics and Sound\n\nThe graphics in Lucky Jack Book of Rebirth Egyptian Darkness are well-defined, with sharp lines and bright colors that contrast with the dark nighttime setting. The background music is intense and moody, which is fitting for the game's Egyptian theme.\n\nBetting Options\n\nThe minimum bet in Lucky Jack Book of Rebirth Egyptian Darkness is 0.1 coin per line, and a single spin costs 1 coin. Players can increase their bet as desired. The game has a theoretical return to player (RTP) of 96.01%.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Jack Book of Rebirth Egyptian Darkness\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Overview\n\nLucky Jack Book of Rebirth Egyptian Darkness is a 6x3 slot game with an Egyptian theme. The game has 10 fixed paylines and a minimum bet of 0.1 coin per line. Players can win up to 1,000,000x their bet.\n\nGame Features\n\nLucky Jack Book of Rebirth Egyptian Darkness has a Wild/Scatter symbol, which acts as both a Joker and multiplier. The game also offers 10 Free Spins during which a random symbol will expand, covering the entire reel. Additional Free Spins can be earned by landing more Scatters. As with other Spinomenal slots, players can activate the Turbo function for faster spins.\n\nEgyptian Theme\n\nLucky Jack Book of Rebirth Egyptian Darkness has an Egyptian theme, with symbols and graphics that evoke the ancient civilization. The game's background music sets an intense, moody atmosphere that is fitting for the setting.\n\nGraphics and Sound\n\nThe graphics in Lucky Jack Book of Rebirth Egyptian Darkness are well-defined, with sharp lines and bright colors that contrast with the dark nighttime setting. The background music is intense and moody, which is fitting for the game's Egyptian theme.\n\nBetting Options\n\nThe minimum bet in Lucky Jack Book of Rebirth Egyptian Darkness is 0.1 coin per line, and a single spin costs 1 coin. Players can increase their bet as desired. The game has a theoretical return to player (RTP) of 96.01%.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QLPevO5taQooWT8ngKqtAQ9En8U5",
+                "id": "chatcmpl-7WWfgVVi9N1TuvthSVEWitVsmGz1E",
                 "object": "chat.completion",
-                "created": 1686513194,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 487,
-                    "completion_tokens": 131,
-                    "total_tokens": 618
-                },
+                "created": 1687986440,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Egyptian theme with well-designed graphics\",\n        \"Wild/Scatter symbol with multiplier\",\n        \"Expanding symbol during Free Spins\",\n        \"Turbo function for faster gameplay\"\n    ],\n    \"cons\": [\n        \"Only 10 fixed paylines\",\n        \"Minimum bet may not appeal to high rollers\"\n    ],\n    \"meta_title\": \"Play Lucky Jack Book of Rebirth Egyptian Darkness for Free\",\n    \"meta_description\": \"Read our review of Lucky Jack Book of Rebirth Egyptian Darkness and play for free. Enjoy expanding symbols and a Wild/Scatter symbol with multiplier.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging Egyptian theme\",\n    \"High potential for big wins\",\n    \"Expanding symbols during Free Spins\",\n    \"Fast-paced gameplay with Turbo function\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Lucky Jack Book of Rebirth Egyptian Darkness for Free\",\n  \"meta_description\": \"Read our review of Lucky Jack Book of Rebirth Egyptian Darkness and play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 484,
+                    "completion_tokens": 107,
+                    "total_tokens": 591
+                }
             }
         },
         {
@@ -813,15 +813,33 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_ffe7e7a2-d94b-4eb8-90dc-dfd01dbe38ed_2.png",
         "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_4.png",
-        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_2.png"
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_ffe7e7a2-d94b-4eb8-90dc-dfd01dbe38ed_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_ffe7e7a2-d94b-4eb8-90dc-dfd01dbe38ed_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_ffe7e7a2-d94b-4eb8-90dc-dfd01dbe38ed_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Lucky_Jack_Book_of_Reb_a1e787ef-8f31-4e02-a80b-e30f178cbed5_3.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 3).webp",
         "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 1).webp",
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 3).webp",
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 7).webp",
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 6).webp",
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 4).webp",
         "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 2).webp",
-        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 8).webp",
+        "game_reviews/processed_images/Lucky Jack Book Of Rebirth Egyptian Darkness (Version 5).webp"
+    ],
+    "filename": "game_reviews/translations/lucky-jack-book-of-rebirth-egyptian-darkness.json",
+    "slug": "lucky-jack-book-of-rebirth-egyptian-darkness",
+    "name": "Lucky Jack Book of Rebirth Egyptian Darkness",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Jack-Book-Of-Rebirth-Egyptian-Darkness-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Jack Book of Rebirth Egyptian Darkness for Free' ### Meta set: 'Read our review of Lucky Jack Book of Rebirth Egyptian Darkness and play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

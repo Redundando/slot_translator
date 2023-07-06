@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Enjoyable gameplay with multiple free spins and multipliers",
-                    "Themed symbols and design with Ancient Egypt artifacts",
-                    "Medium volatility and high maximum win of x10,500",
-                    "Available to play on both desktop and mobile devices"
+                    "Original and linear gameplay",
+                    "Free spins and multipliers up to x25",
+                    "Themed symbols and immersive design",
+                    "Available on both desktop and mobile devices"
                 ],
                 "cons": [
-                    "Limited paylines compared to other slot games",
-                    "Cards from J to Ace lack creativity in design"
+                    "Medium volatility may not appeal to all players",
+                    "Maximum bet amount of €125 per spin may be too high for some players"
                 ],
-                "meta_title": "Play John Hunter Tomb of the Scarab Queen for Free",
-                "meta_description": "Read our review of John Hunter Tomb of the Scarab Queen, a Pragmatic Play slot game. Play for free with enjoyable gameplay and multipliers up to x25."
+                "meta_title": "Play John Hunter Tomb of the Scarab Queen Free",
+                "meta_description": "Read our review of John Hunter Tomb of the Scarab Queen and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"John Hunter Tomb of the Scarab Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nJohn Hunter and the Tomb of the Scarab Queen is an original and linear slot game from developer Pragmatic Play. With 5 reels and 25 paylines, players are taken on a journey through the great pyramids of Giza. The game offers various free spins and multipliers up to x25, making the gameplay quite enjoyable.\n\nSymbols and Design\n\nThe background of John Hunter and the Tomb of the Scarab Queen features a desert environment with the great pyramids flanking the reels. The highest value symbols are themed around Ancient Egypt, including a leather bag, a gun in a holster, the explorer John Hunter, and the deity Anobi. Queen Cleopatra is the Wild of the game and can replace other symbols to achieve a winning combination. The Scatter is represented by the majestic pyramid and allows access to free spins, where various multipliers are available. In addition to the themed symbols, the game also includes the cards from J to Ace.\n\nVolatility and RTP\n\nJohn Hunter and the Tomb of the Scarab Queen has a medium volatility and a return to player (RTP) of 96.5%. The maximum win is x10,500 times the bet, which is high but not entirely improbable.\n\nCompatibility and Accessibility\n\nThis slot game is available to play on both desktop computers and mobile devices in various online casinos. The minimum bet amount is €0.20, and the maximum bet amount is €125 per spin.\n\nMax Bet and Potential Winnings\n\nPlayers can bet up to €125 per spin in John Hunter and the Tomb of the Scarab Queen. The game offers a maximum win of x10,500 times the bet, which is an impressive amount for a medium volatility slot game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"John Hunter Tomb of the Scarab Queen\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nJohn Hunter and the Tomb of the Scarab Queen is an original and linear slot game from developer Pragmatic Play. With 5 reels and 25 paylines, players are taken on a journey through the great pyramids of Giza. The game offers various free spins and multipliers up to x25, making the gameplay quite enjoyable.\n\nSymbols and Design\n\nThe background of John Hunter and the Tomb of the Scarab Queen features a desert environment with the great pyramids flanking the reels. The highest value symbols are themed around Ancient Egypt, including a leather bag, a gun in a holster, the explorer John Hunter, and the deity Anobi. Queen Cleopatra is the Wild of the game and can replace other symbols to achieve a winning combination. The Scatter is represented by the majestic pyramid and allows access to free spins, where various multipliers are available. In addition to the themed symbols, the game also includes the cards from J to Ace.\n\nVolatility and RTP\n\nJohn Hunter and the Tomb of the Scarab Queen has a medium volatility and a return to player (RTP) of 96.5%. The maximum win is x10,500 times the bet, which is high but not entirely improbable.\n\nCompatibility and Accessibility\n\nThis slot game is available to play on both desktop computers and mobile devices in various online casinos. The minimum bet amount is €0.20, and the maximum bet amount is €125 per spin.\n\nMax Bet and Potential Winnings\n\nPlayers can bet up to €125 per spin in John Hunter and the Tomb of the Scarab Queen. The game offers a maximum win of x10,500 times the bet, which is an impressive amount for a medium volatility slot game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TvjABtFZAWYXfwYQXFkcJxDXUjFg",
+                "id": "chatcmpl-7WVZSAznj5F3xHktUECLRRztQGFGo",
                 "object": "chat.completion",
-                "created": 1687367772,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982210,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Enjoyable gameplay with multiple free spins and multipliers\",\n        \"Themed symbols and design with Ancient Egypt artifacts\",\n        \"Medium volatility and high maximum win of x10,500\",\n        \"Available to play on both desktop and mobile devices\"\n    ],\n    \"cons\": [\n        \"Limited paylines compared to other slot games\",\n        \"Cards from J to Ace lack creativity in design\"\n    ],\n    \"meta_title\": \"Play John Hunter Tomb of the Scarab Queen for Free\",\n    \"meta_description\": \"Read our review of John Hunter Tomb of the Scarab Queen, a Pragmatic Play slot game. Play for free with enjoyable gameplay and multipliers up to x25.\" \n}"
+                            "content": "{\n   \"pros\":[\n      \"Original and linear gameplay\",\n      \"Free spins and multipliers up to x25\",\n      \"Themed symbols and immersive design\",\n      \"Available on both desktop and mobile devices\"\n   ],\n   \"cons\":[\n      \"Medium volatility may not appeal to all players\",\n      \"Maximum bet amount of €125 per spin may be too high for some players\"\n   ],\n   \"meta_title\":\"Play John Hunter Tomb of the Scarab Queen Free\",\n   \"meta_description\":\"Read our review of John Hunter Tomb of the Scarab Queen and play for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 535,
-                    "completion_tokens": 151,
-                    "total_tokens": 686
+                    "prompt_tokens": 532,
+                    "completion_tokens": 122,
+                    "total_tokens": 654
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/john-hunter-tomb-of-the-scarab-queen.json",
+    "raw_feature_images": [
+        "arved__Create_a_featured_image_for_John_Hunter_Tomb_of_the_Scar_0a93fb74-5390-4525-98f3-24037d970cde_2.png",
+        "arved__Create_a_featured_image_for_John_Hunter_Tomb_of_the_Scar_0a93fb74-5390-4525-98f3-24037d970cde_1.png",
+        "arved__Create_a_featured_image_for_John_Hunter_Tomb_of_the_Scar_0a93fb74-5390-4525-98f3-24037d970cde_4.png",
+        "arved__Create_a_featured_image_for_John_Hunter_Tomb_of_the_Scar_0a93fb74-5390-4525-98f3-24037d970cde_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/John Hunter Tomb Of The Scarab Queen (Version 1).webp",
+        "game_reviews/processed_images/John Hunter Tomb Of The Scarab Queen (Version 4).webp",
+        "game_reviews/processed_images/John Hunter Tomb Of The Scarab Queen (Version 2).webp",
+        "game_reviews/processed_images/John Hunter Tomb Of The Scarab Queen (Version 3).webp"
+    ],
+    "slug": "john-hunter-tomb-of-the-scarab-queen",
+    "name": "John Hunter Tomb of the Scarab Queen",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/John-Hunter-Tomb-Of-The-Scarab-Queen-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play John Hunter Tomb of the Scarab Queen Free' ### Meta set: 'Read our review of John Hunter Tomb of the Scarab Queen and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

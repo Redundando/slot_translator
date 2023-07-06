@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Highly volatile with a default RTP of 96.50%",
-                    "Girl Power bonus game and Free Spin function",
-                    "Anime-themed slot game with charming graphics",
-                    "Available on both desktop and mobile devices"
+                    "Highly volatile with the chance to win up to 5,000 coins",
+                    "Symbols being eliminated when a winning combination is achieved",
+                    "Girl Power bonus game with different functions",
+                    "Amazing anime-themed graphics and animations"
                 ],
                 "cons": [
-                    "May not suit players who prefer low volatility",
-                    "Not many bonus features"
+                    "Limited number of paylines (20)",
+                    "Default RTP of 96.50% is slightly lower than some other slots"
                 ],
-                "meta_title": "Play Moon Princess Free - Review & Game Info",
-                "meta_description": "Moon Princess is a highly volatile anime-themed online slot game by Play N Go. Learn its features and try it for free. Play on desktop or mobile devices."
+                "meta_title": "Play Moon Princess | Free Slot Game",
+                "meta_description": "Read our review of Moon Princess, an online slot game with amazing anime-themed graphics. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Moon Princess\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoon Princess online slot game\n\nMoon Princess is an online slot machine with 5 reels and 20 paylines. It is highly volatile with a default RTP of 96.50%. The game allows you to bet from 0.20 to 100 coins per spin and offers the chance to win up to 5,000 coins.\n\nGameplay features and how to win\n\nMoon Princess offers gameplay features such as symbols being eliminated when a winning combination is achieved, creating room for new symbols. The center symbol is the Wild which allows you to replace any icon, as well as transform your bet up to 50 times with a 5x multiplier. To win, you need to get 3 or more symbols in a row, both vertically and horizontally aligned. To win more, you need to find the multiplier, which can offer up to 20 times your bet.\n\nGirl Power bonus game and Free Spin function\n\nThe Girl Power bonus game can be activated at random on a spin that is not winning. Depending on the princess that appears, there are different functions that favor the union of winning symbols. If you achieve a winning combination only with the princess symbols, Trinity princess will appear and award a number of free spins. Additionally, by clearing the game board, you can receive a prize of up to 100 times the bet made.\n\nAnime theme and characters\n\nMoon Princess is an anime-themed slot game that features princesses in the perfect Japanese anime style. The graphics incredibly evoke the colors and idea of Sailor Moon: the drawings do well to respect the classic Japanese style and delight the player with game animations. The protagonists of this game are Love, Star, and Storm.\n\nAvailability on desktop and mobile devices\n\nMoon Princess is available on both desktop and mobile devices. The game does not lose anything in terms of gameplay and graphics even on smaller screens. It has amazing new features that differentiate it from many titles present in the online gambling sector and was created by the software house Play N Go.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Moon Princess\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoon Princess online slot game\n\nMoon Princess is an online slot machine with 5 reels and 20 paylines. It is highly volatile with a default RTP of 96.50%. The game allows you to bet from 0.20 to 100 coins per spin and offers the chance to win up to 5,000 coins.\n\nGameplay features and how to win\n\nMoon Princess offers gameplay features such as symbols being eliminated when a winning combination is achieved, creating room for new symbols. The center symbol is the Wild which allows you to replace any icon, as well as transform your bet up to 50 times with a 5x multiplier. To win, you need to get 3 or more symbols in a row, both vertically and horizontally aligned. To win more, you need to find the multiplier, which can offer up to 20 times your bet.\n\nGirl Power bonus game and Free Spin function\n\nThe Girl Power bonus game can be activated at random on a spin that is not winning. Depending on the princess that appears, there are different functions that favor the union of winning symbols. If you achieve a winning combination only with the princess symbols, Trinity princess will appear and award a number of free spins. Additionally, by clearing the game board, you can receive a prize of up to 100 times the bet made.\n\nAnime theme and characters\n\nMoon Princess is an anime-themed slot game that features princesses in the perfect Japanese anime style. The graphics incredibly evoke the colors and idea of Sailor Moon: the drawings do well to respect the classic Japanese style and delight the player with game animations. The protagonists of this game are Love, Star, and Storm.\n\nAvailability on desktop and mobile devices\n\nMoon Princess is available on both desktop and mobile devices. The game does not lose anything in terms of gameplay and graphics even on smaller screens. It has amazing new features that differentiate it from many titles present in the online gambling sector and was created by the software house Play N Go.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UC5wR87WP3JsJg2z7sZ5XssGIqcU",
+                "id": "chatcmpl-7WY8MM3Io9ri4dXAj31jLVGcf6pbR",
                 "object": "chat.completion",
-                "created": 1687430688,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992062,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Highly volatile with a default RTP of 96.50%\",\n        \"Girl Power bonus game and Free Spin function\",\n        \"Anime-themed slot game with charming graphics\",\n        \"Available on both desktop and mobile devices\"\n    ],\n    \"cons\": [\n        \"May not suit players who prefer low volatility\",\n        \"Not many bonus features\"\n    ],\n    \"meta_title\": \"Play Moon Princess Free - Review & Game Info\",\n    \"meta_description\": \"Moon Princess is a highly volatile anime-themed online slot game by Play N Go. Learn its features and try it for free. Play on desktop or mobile devices.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Highly volatile with the chance to win up to 5,000 coins\",\n    \"Symbols being eliminated when a winning combination is achieved\",\n    \"Girl Power bonus game with different functions\",\n    \"Amazing anime-themed graphics and animations\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines (20)\",\n    \"Default RTP of 96.50% is slightly lower than some other slots\"\n  ],\n  \"meta_title\": \"Play Moon Princess | Free Slot Game\",\n  \"meta_description\": \"Read our review of Moon Princess, an online slot game with amazing anime-themed graphics. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 576,
-                    "completion_tokens": 136,
-                    "total_tokens": 712
+                    "prompt_tokens": 573,
+                    "completion_tokens": 135,
+                    "total_tokens": 708
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/moon-princess.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Moon_Princess_slot_game_that__9a6c5c23-e086-4868-8a07-61345ecdee3d_4.png",
+        "arved__Create_a_feature_image_for_Moon_Princess_slot_game_that__9a6c5c23-e086-4868-8a07-61345ecdee3d_3.png",
+        "arved__Create_a_feature_image_for_Moon_Princess_slot_game_that__9a6c5c23-e086-4868-8a07-61345ecdee3d_1.png",
+        "arved__Create_a_feature_image_for_Moon_Princess_slot_game_that__9a6c5c23-e086-4868-8a07-61345ecdee3d_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Moon Princess (Version 3).webp",
+        "game_reviews/processed_images/Moon Princess (Version 4).webp",
+        "game_reviews/processed_images/Moon Princess (Version 2).webp",
+        "game_reviews/processed_images/Moon Princess (Version 1).webp"
+    ],
+    "slug": "moon-princess",
+    "name": "Moon Princess",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Moon-Princess-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Moon Princess | Free Slot Game' ### Meta set: 'Read our review of Moon Princess, an online slot game with amazing anime-themed graphics. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

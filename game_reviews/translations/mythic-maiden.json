@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Immersive gothic theme",
-                    "High-quality graphics",
+                    "Hauntingly beautiful graphics",
                     "Intricately designed symbols",
-                    "Exciting Free Spins Bonus"
+                    "Free Spins Bonus with multipliers",
+                    "Option to play for free or for real money"
                 ],
                 "cons": [
-                    "Lack of bonus games",
-                    "Lower RTP than some other NetEnt games"
+                    "Limited theme appeal",
+                    "Lack of bonus features"
                 ],
-                "meta_title": "Play Mythic Maiden Free | NetEnt Slot Review 2021",
-                "meta_description": "Read our unbiased review of Mythic Maiden by NetEnt. Play for free or real money & enjoy a thrilling Gothe-theme game with Free Spins & multipliers."
+                "meta_title": "Play Mythic Maiden Free Slot Game",
+                "meta_description": "Read our review of Mythic Maiden, a gothic-themed slot game. Play for free and win thrilling prizes."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mythic Maiden\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMythic Maiden Theme\n\nMythic Maiden is a slot game developed by NetEnt, featuring a gothic theme that takes place in an eerie vault. The game's graphics are hauntingly beautiful and bring to mind the Addams Family as symbols and characters roam around the screen. The night blue background shrouded in mist creates an ominous atmosphere, while trinkets scattered about give a sense of mystery and intrigue.\n\nNetEnt Graphics\n\nNetEnt is known for creating high-quality graphics and Mythic Maiden is no exception. The symbols are intricately designed and even the poker card numbers and letters are represented as melting candles. The attention to detail is impressive throughout the game, from the background to the design of each symbol.\n\nSymbols Design\n\nThe symbols in Mythic Maiden are in line with the spooky gothic theme. Even the standard poker card numbers and letters are represented as melting candles, adding to the overall macabre aesthetic. Character symbols include skulls, tarantulas, and even a monkey's paw. The iron maiden, the game's namesake, serves as the game's Wild symbol, while red ectoplasms act as the Scatter.\n\nFree Spins Bonus\n\nMythic Maiden offers a Free Spins Bonus triggered by the Scatter symbol. Three, four, or five Scatters in a row will award players 10, 15, or 30 free spins, respectively. During the Free Spins Bonus round, the iron maiden symbol can award multipliers up to 10x and grant additional free spins. The Wild symbol can also trigger a 3x multiplier when it appears in a winning combination.\n\nReal Money vs. Demo Version\n\nPlayers can choose to play Mythic Maiden in a demo version for free or for real money. Trying the demo version is a great way to familiarize yourself with the game's mechanics before playing with real money. The game's features, such as the Wild and Scatter symbols, add excitement to the straightforward gameplay, offering players a chance to potentially win thrilling prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mythic Maiden\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMythic Maiden Theme\n\nMythic Maiden is a slot game developed by NetEnt, featuring a gothic theme that takes place in an eerie vault. The game's graphics are hauntingly beautiful and bring to mind the Addams Family as symbols and characters roam around the screen. The night blue background shrouded in mist creates an ominous atmosphere, while trinkets scattered about give a sense of mystery and intrigue.\n\nNetEnt Graphics\n\nNetEnt is known for creating high-quality graphics and Mythic Maiden is no exception. The symbols are intricately designed and even the poker card numbers and letters are represented as melting candles. The attention to detail is impressive throughout the game, from the background to the design of each symbol.\n\nSymbols Design\n\nThe symbols in Mythic Maiden are in line with the spooky gothic theme. Even the standard poker card numbers and letters are represented as melting candles, adding to the overall macabre aesthetic. Character symbols include skulls, tarantulas, and even a monkey's paw. The iron maiden, the game's namesake, serves as the game's Wild symbol, while red ectoplasms act as the Scatter.\n\nFree Spins Bonus\n\nMythic Maiden offers a Free Spins Bonus triggered by the Scatter symbol. Three, four, or five Scatters in a row will award players 10, 15, or 30 free spins, respectively. During the Free Spins Bonus round, the iron maiden symbol can award multipliers up to 10x and grant additional free spins. The Wild symbol can also trigger a 3x multiplier when it appears in a winning combination.\n\nReal Money vs. Demo Version\n\nPlayers can choose to play Mythic Maiden in a demo version for free or for real money. Trying the demo version is a great way to familiarize yourself with the game's mechanics before playing with real money. The game's features, such as the Wild and Scatter symbols, add excitement to the straightforward gameplay, offering players a chance to potentially win thrilling prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UEMt3ylEJ8yFC8AkgOrcVcg5WDrJ",
+                "id": "chatcmpl-7WYTivhacV4tGgDCaUCeogsV1Lpmg",
                 "object": "chat.completion",
-                "created": 1687439427,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993386,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Immersive gothic theme\",\n        \"High-quality graphics\",\n        \"Intricately designed symbols\",\n        \"Exciting Free Spins Bonus\"\n    ],\n    \"cons\": [\n        \"Lack of bonus games\",\n        \"Lower RTP than some other NetEnt games\"\n    ],\n    \"meta_title\": \"Play Mythic Maiden Free | NetEnt Slot Review 2021\",\n    \"meta_description\": \"Read our unbiased review of Mythic Maiden by NetEnt. Play for free or real money & enjoy a thrilling Gothe-theme game with Free Spins & multipliers.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Hauntingly beautiful graphics\",\n    \"Intricately designed symbols\",\n    \"Free Spins Bonus with multipliers\",\n    \"Option to play for free or for real money\"\n  ],\n  \"cons\": [\n    \"Limited theme appeal\",\n    \"Lack of bonus features\"\n  ],\n  \"meta_title\": \"Play Mythic Maiden Free Slot Game\",\n  \"meta_description\": \"Read our review of Mythic Maiden, a gothic-themed slot game. Play for free and win thrilling prizes.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 583,
-                    "completion_tokens": 130,
-                    "total_tokens": 713
+                    "prompt_tokens": 580,
+                    "completion_tokens": 113,
+                    "total_tokens": 693
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mythic-maiden.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_4.png",
+        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_2.png",
+        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_1.png",
+        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mythic Maiden (Version 2).webp",
+        "game_reviews/processed_images/Mythic Maiden (Version 4).webp",
+        "game_reviews/processed_images/Mythic Maiden (Version 1).webp",
+        "game_reviews/processed_images/Mythic Maiden (Version 3).webp"
+    ],
+    "slug": "mythic-maiden",
+    "name": "Mythic Maiden",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mythic-Maiden-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mythic Maiden Free Slot Game' ### Meta set: 'Read our review of Mythic Maiden, a gothic-themed slot game. Play for free and win thrilling prizes.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

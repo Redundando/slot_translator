@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging Chinese culture theme",
-                    "Well-executed graphics and sound effects",
-                    "Variety of features and bonuses for maximizing earnings",
-                    "Intuitive and easy-to-understand gameplay"
+                    "Engaging graphics and symbols",
+                    "Variety of features and bonuses",
+                    "Immerses players in Chinese culture",
+                    "Captures the atmosphere of ancient Orient"
                 ],
                 "cons": [
-                    "Lack of unique and innovative features compared to other slot games",
-                    "Limited availability on online casino platforms"
+                    "Limited range of high-value symbols",
+                    "Similar to other Oriental-themed slot games"
                 ],
-                "meta_title": "Play Moon Festival Slot Game for Free - Aristocrat",
-                "meta_description": "Discover the essence of the Moon Festival with Aristocrat's slot game. Enjoy features and bonuses. Play Moon Festival for free at selected casinos."
+                "meta_title": "Play Moon Festival Slot for Free",
+                "meta_description": "Learn about the Moon Festival slot game and play for free. Enjoy engaging graphics and immerse yourself in Chinese culture."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Moon Festival\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoon Festival slot game\n\nMoon Festival is a slot game inspired by the Chinese festival celebrating the moon. Developed by Aristocrat, the game is very engaging and has a variety of features and bonuses that allow the player to maximize their earnings.\n\nChinese culture and traditions\n\nThe Moon Festival slot offers players the opportunity to immerse themselves in Chinese culture and learn about the importance of this festival to the Chinese people. The festival celebrates the autumn full moon and is an occasion for families and friends to come together and enjoy traditional Chinese food and drink.\n\nGame graphics and symbols\n\nThe Moon Festival slot game has engaging graphics that are simple yet captivating. The game's symbols are related to Chinese festivities and have been curated carefully by Aristocrat's designers. Players will find a Geisha's face, colorful Chinese lanterns, lotus flowers, and a sharp image of a full moon, which is the game's central symbol. The soundtrack and sound effects are well executed and contribute to the overall feeling of celebrating ancient Orient.\n\nFeatures and bonuses\n\nThe Moon Festival slot game has a wide range of features and bonuses that help players maximize their earnings and improve their gaming experience. The game's protagonist is the full moon, which serves as the Wild symbol, replacing any other symbol needed to score a win. The Chinese lanterns represent the Scatter symbol and multiply the player's bets. Other high-value symbols include lotus flowers, golden coins, rabbits, and the Geisha girls who can bring in large sums of money.\n\nOriental theme\n\nThe Moon Festival slot game has an Oriental theme that is both engaging and intuitive. The game's design and features transport players back to ancient Orient, creating an atmosphere of celebration and joy. Players who enjoy the Oriental theme can try the Red Temple Slot Machine, produced by Fuga Gaming.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Moon Festival\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nMoon Festival slot game\n\nMoon Festival is a slot game inspired by the Chinese festival celebrating the moon. Developed by Aristocrat, the game is very engaging and has a variety of features and bonuses that allow the player to maximize their earnings.\n\nChinese culture and traditions\n\nThe Moon Festival slot offers players the opportunity to immerse themselves in Chinese culture and learn about the importance of this festival to the Chinese people. The festival celebrates the autumn full moon and is an occasion for families and friends to come together and enjoy traditional Chinese food and drink.\n\nGame graphics and symbols\n\nThe Moon Festival slot game has engaging graphics that are simple yet captivating. The game's symbols are related to Chinese festivities and have been curated carefully by Aristocrat's designers. Players will find a Geisha's face, colorful Chinese lanterns, lotus flowers, and a sharp image of a full moon, which is the game's central symbol. The soundtrack and sound effects are well executed and contribute to the overall feeling of celebrating ancient Orient.\n\nFeatures and bonuses\n\nThe Moon Festival slot game has a wide range of features and bonuses that help players maximize their earnings and improve their gaming experience. The game's protagonist is the full moon, which serves as the Wild symbol, replacing any other symbol needed to score a win. The Chinese lanterns represent the Scatter symbol and multiply the player's bets. Other high-value symbols include lotus flowers, golden coins, rabbits, and the Geisha girls who can bring in large sums of money.\n\nOriental theme\n\nThe Moon Festival slot game has an Oriental theme that is both engaging and intuitive. The game's design and features transport players back to ancient Orient, creating an atmosphere of celebration and joy. Players who enjoy the Oriental theme can try the Red Temple Slot Machine, produced by Fuga Gaming.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UC2ONE4Ks69NLH1AtQtE4iqJMRFL",
+                "id": "chatcmpl-7WY7mGMJgMWX43tyuJFfuhAWBXGLq",
                 "object": "chat.completion",
-                "created": 1687430468,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687992026,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging Chinese culture theme\",\n        \"Well-executed graphics and sound effects\",\n        \"Variety of features and bonuses for maximizing earnings\",\n        \"Intuitive and easy-to-understand gameplay\"\n    ],\n    \"cons\": [\n        \"Lack of unique and innovative features compared to other slot games\",\n        \"Limited availability on online casino platforms\"\n    ],\n    \"meta_title\": \"Play Moon Festival Slot Game for Free - Aristocrat\",\n    \"meta_description\": \"Discover the essence of the Moon Festival with Aristocrat's slot game. Enjoy features and bonuses. Play Moon Festival for free at selected casinos.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging graphics and symbols\",\n    \"Variety of features and bonuses\",\n    \"Immerses players in Chinese culture\",\n    \"Captures the atmosphere of ancient Orient\"\n  ],\n  \"cons\": [\n    \"Limited range of high-value symbols\",\n    \"Similar to other Oriental-themed slot games\"\n  ],\n  \"meta_title\": \"Play Moon Festival Slot for Free\",\n  \"meta_description\": \"Learn about the Moon Festival slot game and play for free. Enjoy engaging graphics and immerse yourself in Chinese culture.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 537,
-                    "completion_tokens": 134,
-                    "total_tokens": 671
+                    "prompt_tokens": 534,
+                    "completion_tokens": 115,
+                    "total_tokens": 649
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/moon-festival.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_fitting_for_Moon_Festival_The_fea_9498591a-0ce3-4f38-b532-35f6c4a6908d_2.png",
+        "arved__Create_a_feature_image_fitting_for_Moon_Festival_The_fea_9498591a-0ce3-4f38-b532-35f6c4a6908d_3.png",
+        "arved__Create_a_feature_image_fitting_for_Moon_Festival_The_fea_9498591a-0ce3-4f38-b532-35f6c4a6908d_4.png",
+        "arved__Create_a_feature_image_fitting_for_Moon_Festival_The_fea_9498591a-0ce3-4f38-b532-35f6c4a6908d_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Moon Festival (Version 1).webp",
+        "game_reviews/processed_images/Moon Festival (Version 2).webp",
+        "game_reviews/processed_images/Moon Festival (Version 3).webp",
+        "game_reviews/processed_images/Moon Festival (Version 4).webp"
+    ],
+    "slug": "moon-festival",
+    "name": "Moon Festival",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Moon-Festival-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Moon Festival Slot for Free' ### Meta set: 'Learn about the Moon Festival slot game and play for free. Enjoy engaging graphics and immerse yourself in Chinese culture.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

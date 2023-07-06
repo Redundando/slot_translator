@@ -577,39 +577,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique gambling features",
-                    "Customization options",
-                    "Suitable for high-rollers and newbies",
-                    "High-quality gameplay"
+                    "High-quality gameplay with unique gambling features",
+                    "Customizable options to enhance the gaming experience",
+                    "Suitable for both high-rollers and newbies",
+                    "Exciting gambling feature with the option to double winnings"
                 ],
                 "cons": [
-                    "Limited paylines",
-                    "No progressive jackpot"
+                    "Limited number of paylines",
+                    "Limited number of bonus features"
                 ],
-                "meta_title": "Play Magic Stars 5 for Free – Slots Review 2021",
-                "meta_description": "Read our 2021 review of Magic Stars 5, a space-themed online slot game with customizable features and unique gambling options. Play for free today!"
+                "meta_title": "Play Magic Stars 5 for Free - Exciting Gameplay and Customizable Options",
+                "meta_description": "Read our review of Magic Stars 5 and play for free. Enjoy high-quality gameplay and customizable options."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Magic Stars 5\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nMagic Stars 5 is a 5-reel, 20-payline online slot game that offers high-quality gameplay with unique gambling features. It comes with various customizable features to enhance the gaming experience and allow players to adjust to their personal preference. The game has a unique feeling, making every spin as exciting as possible. Magic Stars 5 is suitable for both high-rollers and newbies because of its simple gameplay rules.\n\nScatter symbol\n\nIn Magic Stars 5, the scatter symbol is a colorful star-shaped crystal with the word 'scatter' written in the center. The scatter symbol can land anywhere on the reels to award the player a cash prize. Players can increase their winnings by landing a minimum of three scattered symbols in one spin.\n\nCustomization options\n\nMagic Stars 5 offers Wazdan's unique features such as Volatility Levels, Double-Screen Mode, Energy-Saving Mode, Ultra-Fast Mode, Ultra-Light Mode, and Large-Screen Mode. The Volatility Levels allow players to change the frequency and amount of potential cash prizes. Players can customize the game to meet their personal needs and preferences, with options to adjust the loading time, speed of the game, or enlarge the reels.\n\nGambling feature\n\nMagic Stars 5 has a unique gambling feature where players can choose to play the card gamble or the ladder gamble. Once triggered, players can collect their win. For the card gamble, players have to choose the color that they think the next card will be. If they guess correctly, their win doubles, and they can play again if they wish. If they guess incorrectly, they lose their win and are returned to the base game.\n\nOther space-themed slot machines\n\nWazdan has designed several space-themed slot machines for players to enjoy. Magic Stars 5 is part of the collection that includes Magic Stars 3. These games have high RTP percentages and provide an exciting and unique gaming experience with their stunning graphics and innovative features that set them apart from other online slots.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Magic Stars 5\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features\n\nMagic Stars 5 is a 5-reel, 20-payline online slot game that offers high-quality gameplay with unique gambling features. It comes with various customizable features to enhance the gaming experience and allow players to adjust to their personal preference. The game has a unique feeling, making every spin as exciting as possible. Magic Stars 5 is suitable for both high-rollers and newbies because of its simple gameplay rules.\n\nScatter symbol\n\nIn Magic Stars 5, the scatter symbol is a colorful star-shaped crystal with the word 'scatter' written in the center. The scatter symbol can land anywhere on the reels to award the player a cash prize. Players can increase their winnings by landing a minimum of three scattered symbols in one spin.\n\nCustomization options\n\nMagic Stars 5 offers Wazdan's unique features such as Volatility Levels, Double-Screen Mode, Energy-Saving Mode, Ultra-Fast Mode, Ultra-Light Mode, and Large-Screen Mode. The Volatility Levels allow players to change the frequency and amount of potential cash prizes. Players can customize the game to meet their personal needs and preferences, with options to adjust the loading time, speed of the game, or enlarge the reels.\n\nGambling feature\n\nMagic Stars 5 has a unique gambling feature where players can choose to play the card gamble or the ladder gamble. Once triggered, players can collect their win. For the card gamble, players have to choose the color that they think the next card will be. If they guess correctly, their win doubles, and they can play again if they wish. If they guess incorrectly, they lose their win and are returned to the base game.\n\nOther space-themed slot machines\n\nWazdan has designed several space-themed slot machines for players to enjoy. Magic Stars 5 is part of the collection that includes Magic Stars 3. These games have high RTP percentages and provide an exciting and unique gaming experience with their stunning graphics and innovative features that set them apart from other online slots.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U4zzZGpvWHd5tLTBQwC9CKH0QJzW",
+                "id": "chatcmpl-7WX69hBgEZYn2kjAyFYYfCoG7XTjx",
                 "object": "chat.completion",
-                "created": 1687403411,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988081,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Unique gambling features\",\n        \"Customization options\",\n        \"Suitable for high-rollers and newbies\",\n        \"High-quality gameplay\"\n    ],\n    \"cons\": [\n        \"Limited paylines\",\n        \"No progressive jackpot\"\n    ],\n    \"meta_title\": \"Play Magic Stars 5 for Free – Slots Review 2021\",\n    \"meta_description\": \"Read our 2021 review of Magic Stars 5, a space-themed online slot game with customizable features and unique gambling options. Play for free today!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-quality gameplay with unique gambling features\",\n    \"Customizable options to enhance the gaming experience\",\n    \"Suitable for both high-rollers and newbies\",\n    \"Exciting gambling feature with the option to double winnings\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"Limited number of bonus features\"\n  ],\n  \"meta_title\": \"Play Magic Stars 5 for Free - Exciting Gameplay and Customizable Options\",\n  \"meta_description\": \"Read our review of Magic Stars 5 and play for free. Enjoy high-quality gameplay and customizable options.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 586,
-                    "completion_tokens": 117,
-                    "total_tokens": 703
+                    "prompt_tokens": 583,
+                    "completion_tokens": 129,
+                    "total_tokens": 712
                 }
             }
         },
@@ -808,5 +808,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/magic-stars-5.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Magic_Stars_5_that_features_a_3afc593f-62e0-48b7-be3f-55e22b32c17a_3.png",
+        "arved__Create_a_feature_image_for_Magic_Stars_5_that_features_a_3afc593f-62e0-48b7-be3f-55e22b32c17a_2.png",
+        "arved__Create_a_feature_image_for_Magic_Stars_5_that_features_a_3afc593f-62e0-48b7-be3f-55e22b32c17a_1.png",
+        "arved__Create_a_feature_image_for_Magic_Stars_5_that_features_a_3afc593f-62e0-48b7-be3f-55e22b32c17a_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Magic Stars 5 (Version 2).webp",
+        "game_reviews/processed_images/Magic Stars 5 (Version 1).webp",
+        "game_reviews/processed_images/Magic Stars 5 (Version 4).webp",
+        "game_reviews/processed_images/Magic Stars 5 (Version 3).webp"
+    ],
+    "slug": "magic-stars-5",
+    "name": "Magic Stars 5",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Magic-Stars-5-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Magic Stars 5 for Free - Exciting Gameplay and Customizable Options' ### Meta set: 'Read our review of Magic Stars 5 and play for free. Enjoy high-quality gameplay and customizable options.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

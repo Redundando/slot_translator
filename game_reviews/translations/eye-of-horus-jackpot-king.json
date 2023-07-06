@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Wide betting range",
-                    "Free play available",
-                    "Visually appealing graphics",
-                    "Straightforward gameplay for beginners"
+                    "Straightforward gameplay ideal for beginners",
+                    "Well-crafted graphics with an ancient Egypt theme",
+                    "Wide range of betting options for any budget",
+                    "Free gameplay available for testing"
                 ],
                 "cons": [
                     "Lower-than-average RTP at 93.2%",
-                    "High volatility may be off-putting for some players"
+                    "High volatility may deter some players"
                 ],
-                "meta_title": "Play Eye of Horus Jackpot King for Free - Review",
-                "meta_description": "Eye of Horus Jackpot King review: wide betting range, free play option, and visually appealing graphics. However, below-average RTP and high volatility."
+                "meta_title": "Play Eye of Horus Jackpot King Free | Review",
+                "meta_description": "Discover the gameplay, graphics, and betting options of Eye of Horus Jackpot King in our review. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Eye Of Horus Jackpot King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nEye Of Horus Jackpot King delivers straightforward gameplay that makes it ideal for beginners. With just five reels and ten paylines, the game is easy to understand and navigate. Its special symbols, the Wild and Scatter, have the usual functions of completing winning combinations and triggering free spins, respectively.\n\nGraphics\n\nEye Of Horus Jackpot King has well-crafted graphics, and it's obvious that Blueprint Gaming put some effort into creating a visually appealing game. Despite lacking unique effects or creative flourishes, the game still manages to transport players to the ancient land of Egypt. The game's thematic icons and hieroglyphics offer a clear overview of the game's ancient Egypt theme.\n\nBetting Range\n\nEye Of Horus Jackpot King offers a wide range of bet sizes, starting at just ten cents and going all the way up to €100 per spin. The game's betting range is great for players with any budget or experience level, giving them more control over their gameplay. Additionally, Eye Of Horus Jackpot King offers free gameplay for those who want to try it out before betting real money.\n\nSymbols\n\nEye Of Horus Jackpot King's symbols alternate between thematic hieroglyphs and non-thematic playing cards from Jack to Ace. The Wild symbol can help complete winning combinations, while the Scatter (Horus) triggers free spins when it appears at least three times on the reels. While the symbols are well-designed, they're not especially unique or memorable.\n\nRTP and Volatility\n\nOne downside to Eye Of Horus Jackpot King is its lower-than-average 93.2% RTP. Meanwhile, the game's high volatility makes it challenging to hit winning combinations. This may deter some players who are seeking a game that's more generous with its payouts. However, the option to play for free makes it easy for players to test the game's volatility before investing in real-money gameplay.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Eye Of Horus Jackpot King\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nEye Of Horus Jackpot King delivers straightforward gameplay that makes it ideal for beginners. With just five reels and ten paylines, the game is easy to understand and navigate. Its special symbols, the Wild and Scatter, have the usual functions of completing winning combinations and triggering free spins, respectively.\n\nGraphics\n\nEye Of Horus Jackpot King has well-crafted graphics, and it's obvious that Blueprint Gaming put some effort into creating a visually appealing game. Despite lacking unique effects or creative flourishes, the game still manages to transport players to the ancient land of Egypt. The game's thematic icons and hieroglyphics offer a clear overview of the game's ancient Egypt theme.\n\nBetting Range\n\nEye Of Horus Jackpot King offers a wide range of bet sizes, starting at just ten cents and going all the way up to €100 per spin. The game's betting range is great for players with any budget or experience level, giving them more control over their gameplay. Additionally, Eye Of Horus Jackpot King offers free gameplay for those who want to try it out before betting real money.\n\nSymbols\n\nEye Of Horus Jackpot King's symbols alternate between thematic hieroglyphs and non-thematic playing cards from Jack to Ace. The Wild symbol can help complete winning combinations, while the Scatter (Horus) triggers free spins when it appears at least three times on the reels. While the symbols are well-designed, they're not especially unique or memorable.\n\nRTP and Volatility\n\nOne downside to Eye Of Horus Jackpot King is its lower-than-average 93.2% RTP. Meanwhile, the game's high volatility makes it challenging to hit winning combinations. This may deter some players who are seeking a game that's more generous with its payouts. However, the option to play for free makes it easy for players to test the game's volatility before investing in real-money gameplay.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TDVyr9CcwFEy6FNs8CtVlOyyBFAK",
+                "id": "chatcmpl-7WSUgh4eGQ0SwNupeeJrN4v592j7G",
                 "object": "chat.completion",
-                "created": 1687197818,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 568,
-                    "completion_tokens": 127,
-                    "total_tokens": 695
-                },
+                "created": 1687970382,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Wide betting range\",\n        \"Free play available\",\n        \"Visually appealing graphics\",\n        \"Straightforward gameplay for beginners\"\n    ],\n    \"cons\": [\n        \"Lower-than-average RTP at 93.2%\",\n        \"High volatility may be off-putting for some players\"\n    ],\n    \"meta_title\": \"Play Eye of Horus Jackpot King for Free - Review\",\n    \"meta_description\": \"Eye of Horus Jackpot King review: wide betting range, free play option, and visually appealing graphics. However, below-average RTP and high volatility.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Straightforward gameplay ideal for beginners\",\n    \"Well-crafted graphics with an ancient Egypt theme\",\n    \"Wide range of betting options for any budget\",\n    \"Free gameplay available for testing\"\n  ],\n  \"cons\": [\n    \"Lower-than-average RTP at 93.2%\",\n    \"High volatility may deter some players\"\n  ],\n  \"meta_title\": \"Play Eye of Horus Jackpot King Free | Review\",\n  \"meta_description\": \"Discover the gameplay, graphics, and betting options of Eye of Horus Jackpot King in our review. Play for free!\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 565,
+                    "completion_tokens": 128,
+                    "total_tokens": 693
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/eye-of-horus-jackpot-king.json"
+    "filename": "game_reviews/translations/eye-of-horus-jackpot-king.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Eye_Of_Horus_Jackpot_King_tha_61783706-3c03-474f-a58f-e1cd0d54847c_2.png",
+        "arved__Create_a_feature_image_for_Eye_Of_Horus_Jackpot_King_tha_61783706-3c03-474f-a58f-e1cd0d54847c_3.png",
+        "arved__Create_a_feature_image_for_Eye_Of_Horus_Jackpot_King_tha_61783706-3c03-474f-a58f-e1cd0d54847c_1.png",
+        "arved__Create_a_feature_image_for_Eye_Of_Horus_Jackpot_King_tha_61783706-3c03-474f-a58f-e1cd0d54847c_4.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "eye-of-horus-jackpot-king",
+    "name": "Eye Of Horus Jackpot King",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/eye-of-horus-jackpot-king_thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Eye of Horus Jackpot King Free | Review' ### Meta set: 'Discover the gameplay, graphics, and betting options of Eye of Horus Jackpot King in our review. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

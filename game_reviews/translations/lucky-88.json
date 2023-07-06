@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Variety of bonuses and symbols",
-                    "Bright, celebratory visual design",
-                    "Culturally significant concept of luck",
-                    "Lucrative bonus features"
+                    "Numerous symbols and bonuses",
+                    "Bright and lively visuals",
+                    "Incorporates Asian cultural themes",
+                    "Exciting bonus features"
                 ],
                 "cons": [
-                    "Limited paylines compared to other games",
-                    "Some may find the cultural theme too specific"
+                    "Low-value symbols",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Lucky 88 for Free: A Review of Aristocrat's Slot Game",
-                "meta_description": "Read our review of Aristocrat's Lucky 88 slot game, play for free, and learn about its gameplay mechanics, visuals, bonus features, and cultural significance."
+                "meta_title": "Play Lucky 88 for Free - Exciting Asian Slot Game",
+                "meta_description": "Read our review of Lucky 88, an Asian-themed slot game with exciting bonus features. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky 88\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nAristocrat's Lucky 88 is a five-reel, 25-payline slot game that has numerous symbols and bonuses and enables the player to earn substantial winnings; the symbols used in the game are related to Asian culture, and their combination is the best way to win big.\n\nVisuals and design\n\nThe visuals of Aristocrat's Lucky 88 are bright and lively, with a celebratory theme that will instantly uplift your mood. The game's Eastern-themed setting incorporates details that evoke the perfect ambience of an Asian landscape, using colours of red, yellow, and orange, which are closely tied to Asian traditions.\n\nTheme and cultural significance\n\nThe game revolves around the concept of luck, which holds great significance in Eastern culture and particularly in Chinese culture, as exemplified by both the name of the slot and its main symbol. The value of the number 8 is regarded as extremely auspicious in Asian cultures, which has consequently contributed to the game's popularity worldwide.\n\nBonus features\n\nApart from the symbols with the lowest value, i.e. the classic playing card symbols J, Q, K and A, you will also encounter more valuable symbols, such as a drum, a golden lion, a golden monument, and a Chinese heron. The Chinese emperor symbol is undoubtedly the most precious since it can retrieve multipliers up to 88 or represent the coveted 'Wild' symbol. On the other hand, the 'Scatter' symbol can secure the player up to 188 coins, a payout that more than doubles the amount rewarded by other thematic symbols in the game, like the golden lion and the Chinese heron.\n\nRecommended similar games\n\nIf you enjoyed Aristocrat's Lucky 88 and are looking for similar games, we recommend trying out Lightning Box's Fortune 8 Cat, another oriental-themed game based on the concept of good luck.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky 88\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nAristocrat's Lucky 88 is a five-reel, 25-payline slot game that has numerous symbols and bonuses and enables the player to earn substantial winnings; the symbols used in the game are related to Asian culture, and their combination is the best way to win big.\n\nVisuals and design\n\nThe visuals of Aristocrat's Lucky 88 are bright and lively, with a celebratory theme that will instantly uplift your mood. The game's Eastern-themed setting incorporates details that evoke the perfect ambience of an Asian landscape, using colours of red, yellow, and orange, which are closely tied to Asian traditions.\n\nTheme and cultural significance\n\nThe game revolves around the concept of luck, which holds great significance in Eastern culture and particularly in Chinese culture, as exemplified by both the name of the slot and its main symbol. The value of the number 8 is regarded as extremely auspicious in Asian cultures, which has consequently contributed to the game's popularity worldwide.\n\nBonus features\n\nApart from the symbols with the lowest value, i.e. the classic playing card symbols J, Q, K and A, you will also encounter more valuable symbols, such as a drum, a golden lion, a golden monument, and a Chinese heron. The Chinese emperor symbol is undoubtedly the most precious since it can retrieve multipliers up to 88 or represent the coveted 'Wild' symbol. On the other hand, the 'Scatter' symbol can secure the player up to 188 coins, a payout that more than doubles the amount rewarded by other thematic symbols in the game, like the golden lion and the Chinese heron.\n\nRecommended similar games\n\nIf you enjoyed Aristocrat's Lucky 88 and are looking for similar games, we recommend trying out Lightning Box's Fortune 8 Cat, another oriental-themed game based on the concept of good luck.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U2MizujDkEowTSst7EcP54qwOzb6",
+                "id": "chatcmpl-7WWb25Tz8sQHVBG2KKJC0dSvxPGu4",
                 "object": "chat.completion",
-                "created": 1687393288,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986152,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Variety of bonuses and symbols\",\n        \"Bright, celebratory visual design\",\n        \"Culturally significant concept of luck\",\n        \"Lucrative bonus features\"\n    ],\n    \"cons\": [\n        \"Limited paylines compared to other games\",\n        \"Some may find the cultural theme too specific\"\n    ],\n    \"meta_title\": \"Play Lucky 88 for Free: A Review of Aristocrat's Slot Game\",\n    \"meta_description\": \"Read our review of Aristocrat's Lucky 88 slot game, play for free, and learn about its gameplay mechanics, visuals, bonus features, and cultural significance.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Numerous symbols and bonuses\",\n    \"Bright and lively visuals\",\n    \"Incorporates Asian cultural themes\",\n    \"Exciting bonus features\"\n  ],\n  \"cons\": [\n    \"Low-value symbols\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Lucky 88 for Free - Exciting Asian Slot Game\",\n  \"meta_description\": \"Read our review of Lucky 88, an Asian-themed slot game with exciting bonus features. Play for free!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 555,
-                    "completion_tokens": 136,
-                    "total_tokens": 691
+                    "prompt_tokens": 552,
+                    "completion_tokens": 110,
+                    "total_tokens": 662
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-88.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Lucky_88_that_features_a_happ_96701ca9-1f55-4204-a76f-bb68d148ad7a_3.png",
+        "arved__Create_a_feature_image_for_Lucky_88_that_features_a_happ_96701ca9-1f55-4204-a76f-bb68d148ad7a_1.png",
+        "arved__Create_a_feature_image_for_Lucky_88_that_features_a_happ_96701ca9-1f55-4204-a76f-bb68d148ad7a_2.png",
+        "arved__Create_a_feature_image_for_Lucky_88_that_features_a_happ_96701ca9-1f55-4204-a76f-bb68d148ad7a_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky 88 (Version 1).webp",
+        "game_reviews/processed_images/Lucky 88 (Version 2).webp",
+        "game_reviews/processed_images/Lucky 88 (Version 4).webp",
+        "game_reviews/processed_images/Lucky 88 (Version 3).webp"
+    ],
+    "slug": "lucky-88",
+    "name": "Lucky 88",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-88-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky 88 for Free - Exciting Asian Slot Game' ### Meta set: 'Read our review of Lucky 88, an Asian-themed slot game with exciting bonus features. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

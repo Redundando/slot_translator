@@ -799,40 +799,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Cluster pays for wins with random features",
-                    "RTP of 96.20% with medium-high volatility",
-                    "Well-designed graphic and sound effects",
-                    "Great winning potential of up to 10,000x the bet"
+                    "Exciting volcanic theme with catchy visual effects",
+                    "Random features and bonus features add excitement and potential wins",
+                    "Engaging soundtrack and sound effects enhance the gameplay experience",
+                    "High winning potential with an RTP of 96.20% and up to 10,000x multiplier"
                 ],
                 "cons": [
-                    "May not appeal to players who prefer traditional payline slots",
+                    "Medium-high volatility may not appeal to players seeking more frequent wins",
                     "No progressive jackpot feature"
                 ],
-                "meta_title": "Play Gold Volcano Free: Exciting Cluster Slot Game",
-                "meta_description": "Read our review of Gold Volcano, a cluster pay slot with random features and up to 10,000x wins. Play Gold Volcano for free at top online casinos."
+                "meta_title": "Play Gold Volcano Free and Experience the Exciting Volcanic Slot Game",
+                "meta_description": "Read our review of Gold Volcano and play for free to enjoy the thrilling gameplay and high winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Gold Volcano\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGold Volcano is an 8-reel slot game with cluster pays for wins. Players can spin from 20 cents and the game comes packed with random features that can trigger helpful events, as well as the Crystallization and Eruption Features that can kick things up a notch.\n\nWinning Potential\n\nWith wins up to 10,000x multiplied by the bet, Gold Volcano has an RTP of 96.20% and medium-high volatility. Players can access bonus features such as random wilds, symbol shuffles, and pressure points that add wilds to the grid and potentially double potential payouts.\n\nVisual Effects\n\nThe graphic design is very catchy and features an exciting volcanic theme. The game's symbols and the volcano imagery are well-drawn, and the lava flow and symbol shifting add an extra challenge to the game.\n\nSound Design\n\nGold Volcano's soundtrack is a dramatic and engaging musical theme that suits the exciting gameplay. It features a good set of sound effects that make the experience more immersive.\n\nSymbols Design\n\nGold Volcano is set on the island of Cash-a-Mundo and includes symbols such as low-value cart suits in stone and precious materials. The most valuable symbol is gold, which can give players 1,000 x their total stake for 30 or more on the grid. There are also two wild symbols, and the scatter symbol is a piece of volcanic rock.\n\nRandom Features\n\nPlayers can access random features in the base game that can trigger symbol shuffles, layout changes for more ways to win, wilds additions, and wild multipliers. In the Pressure feature, players can add wild symbols to the grid in random squares for better potential wins.\n\nWild Symbols\n\nGold Volcano includes two wild symbols. The standard wild symbol (W) that substitutes for all symbols except the scatter. The second wild symbol also substitutes for all symbols (except the scatter) but adds a 2x multiplier - this appears in the Pressure and Free Spins feature.\n\nVolatility and RTP\n\nGold Volcano offers an RTP of 96.20% and medium-high volatility. With a maximum win of up to 10,000x multiplied by the bet, there is great potential for big payouts for players. As with any slot game, players should be aware of volatility and budget accordingly.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Gold Volcano\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nGold Volcano is an 8-reel slot game with cluster pays for wins. Players can spin from 20 cents and the game comes packed with random features that can trigger helpful events, as well as the Crystallization and Eruption Features that can kick things up a notch.\n\nWinning Potential\n\nWith wins up to 10,000x multiplied by the bet, Gold Volcano has an RTP of 96.20% and medium-high volatility. Players can access bonus features such as random wilds, symbol shuffles, and pressure points that add wilds to the grid and potentially double potential payouts.\n\nVisual Effects\n\nThe graphic design is very catchy and features an exciting volcanic theme. The game's symbols and the volcano imagery are well-drawn, and the lava flow and symbol shifting add an extra challenge to the game.\n\nSound Design\n\nGold Volcano's soundtrack is a dramatic and engaging musical theme that suits the exciting gameplay. It features a good set of sound effects that make the experience more immersive.\n\nSymbols Design\n\nGold Volcano is set on the island of Cash-a-Mundo and includes symbols such as low-value cart suits in stone and precious materials. The most valuable symbol is gold, which can give players 1,000 x their total stake for 30 or more on the grid. There are also two wild symbols, and the scatter symbol is a piece of volcanic rock.\n\nRandom Features\n\nPlayers can access random features in the base game that can trigger symbol shuffles, layout changes for more ways to win, wilds additions, and wild multipliers. In the Pressure feature, players can add wild symbols to the grid in random squares for better potential wins.\n\nWild Symbols\n\nGold Volcano includes two wild symbols. The standard wild symbol (W) that substitutes for all symbols except the scatter. The second wild symbol also substitutes for all symbols (except the scatter) but adds a 2x multiplier - this appears in the Pressure and Free Spins feature.\n\nVolatility and RTP\n\nGold Volcano offers an RTP of 96.20% and medium-high volatility. With a maximum win of up to 10,000x multiplied by the bet, there is great potential for big payouts for players. As with any slot game, players should be aware of volatility and budget accordingly.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TSWCeout6fOugTMKrKO39RQ2z85X",
+                "id": "chatcmpl-7WU1fuQL1SOtJhe4s11rusMPYiLl0",
                 "object": "chat.completion",
-                "created": 1687255492,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 149,
-                    "total_tokens": 794
-                },
+                "created": 1687976271,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Cluster pays for wins with random features\",\n        \"RTP of 96.20% with medium-high volatility\",\n        \"Well-designed graphic and sound effects\",\n        \"Great winning potential of up to 10,000x the bet\"\n    ],\n    \"cons\": [\n        \"May not appeal to players who prefer traditional payline slots\",\n        \"No progressive jackpot feature\"\n    ],\n    \"meta_title\": \"Play Gold Volcano Free: Exciting Cluster Slot Game\",\n    \"meta_description\": \"Read our review of Gold Volcano, a cluster pay slot with random features and up to 10,000x wins. Play Gold Volcano for free at top online casinos.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting volcanic theme with catchy visual effects\",\n    \"Random features and bonus features add excitement and potential wins\",\n    \"Engaging soundtrack and sound effects enhance the gameplay experience\",\n    \"High winning potential with an RTP of 96.20% and up to 10,000x multiplier\"\n  ],\n  \"cons\": [\n    \"Medium-high volatility may not appeal to players seeking more frequent wins\",\n    \"No progressive jackpot feature\"\n  ],\n  \"meta_title\": \"Play Gold Volcano Free and Experience the Exciting Volcanic Slot Game\",\n  \"meta_description\": \"Read our review of Gold Volcano and play for free to enjoy the thrilling gameplay and high winning potential.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 642,
+                    "completion_tokens": 149,
+                    "total_tokens": 791
+                }
             }
         },
         {
@@ -1031,5 +1031,26 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/gold-volcano.json"
+    "filename": "game_reviews/translations/gold-volcano.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Gold_Volcano_that_captures_th_427ea4b1-1b94-48e5-a4d2-6f5280ce048a_3.png",
+        "arved__Create_a_feature_image_for_Gold_Volcano_that_captures_th_427ea4b1-1b94-48e5-a4d2-6f5280ce048a_1.png",
+        "arved__Create_a_feature_image_for_Gold_Volcano_that_captures_th_427ea4b1-1b94-48e5-a4d2-6f5280ce048a_2.png",
+        "arved__Create_a_feature_image_for_Gold_Volcano_that_captures_th_427ea4b1-1b94-48e5-a4d2-6f5280ce048a_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Gold Volcano (Version 1).webp",
+        "game_reviews/processed_images/Gold Volcano (Version 3).webp",
+        "game_reviews/processed_images/Gold Volcano (Version 2).webp",
+        "game_reviews/processed_images/Gold Volcano (Version 4).webp"
+    ],
+    "slug": "gold-volcano",
+    "name": "Gold Volcano",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Gold-Volcano-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Gold Volcano Free and Experience the Exciting Volcanic Slot Game' ### Meta set: 'Read our review of Gold Volcano and play for free to enjoy the thrilling gameplay and high winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

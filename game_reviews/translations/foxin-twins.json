@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Exciting Super Bet feature with frequent drops of Wild symbols and multipliers",
+                    "Top-notch graphics with immersive animations",
                     "Engaging gameplay with two game grids",
-                    "Super Bet feature with frequent Wild symbols and multipliers",
-                    "Top-notch graphics and sound effects",
-                    "Fair and rewarding paytable with 96.75% RTP"
+                    "Fair paytable and RTP of 96.75%"
                 ],
                 "cons": [
-                    "Medium volatility may not appeal to high-risk players",
-                    "Lack of original theme"
+                    "Limited variety of symbols",
+                    "Does not offer progressive jackpot"
                 ],
-                "meta_title": "Play Foxin Twins Free Slot Game | Super Bet & Wild Symbols",
-                "meta_description": "Read our review of Foxin Twins online slot game. Play for free, activate Super Bet, and enjoy frequent Wild symbols and multipliers on two game grids."
+                "meta_title": "Play Foxin Twins Free - Exciting Slot Game with Super Bet Feature",
+                "meta_description": "Play Foxin Twins for free and enjoy an engaging slot game with a Super Bet feature and top-notch graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Foxin Twins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and bonuses\n\nFoxin' Twins is a highly entertaining slot game with two game grids, where players can activate the Super Bet feature to benefit from frequent drops of Wild symbols and multipliers. The left grid features a green Wild that activates a multiplier of x2, x3, or x5, while the blue Wild in the right grid turns entire reels Wild before winnings are paid out. Additional bonus features include the possibility of transforming random symbols into Wilds and multiplying winnings randomly by x3, x5, x10, x20.\n\nGraphics and sound design\n\nThe graphics in Foxin' Twins are top-notch, with cartoon-style symbols that come to life with superior animations. The two game grids, the aristocratic fox family, and the lush greenery surrounding the estate are beautifully portrayed, making for an immersive gaming experience. The sound effects are rich, emphasizing the excitement of the slots and adding to the overall entertainment factor.\n\nSymbol design and paytable\n\nThe symbols in Foxin' Twins match the game's aristocratic theme, with low-value symbols represented by playing cards from 9 to Ace, and high-value symbols featuring champagne, a gate, an airplane, and a fox on horseback. The most rewarding symbols are the two Wilds, represented by a fox with a pipe in either blue or green colors, that pay out for 3, 4, or 5 of a kind. The Scatter symbol is represented by gold bars and pays out with free spins.\n\nVolatility and RTP\n\nWith an RTP of 96.75% and medium volatility, Foxin' Twins strikes a good balance between payouts and risk, making for a fair and enjoyable gameplay experience. The Super Bet feature at levels 1 and 2 provides additional chances to win big, with frequent drops of Wild symbols and multipliers.\n\nOverall gaming experience\n\nIn conclusion, Foxin' Twins is a fantastic slot game that manages to combine an engaging gameplay experience with top-notch graphics and sound effects. The two game grids and the Super Bet feature bring a welcome element of excitement and anticipation, while the aristocratic fox family adds a touch of humor and charm. The paytable is fair and rewarding, and with an RTP of 96.75%, players can expect to enjoy an entertaining and potentially profitable gaming experience that is sure to captivate them for hours on end.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Foxin Twins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay features and bonuses\n\nFoxin' Twins is a highly entertaining slot game with two game grids, where players can activate the Super Bet feature to benefit from frequent drops of Wild symbols and multipliers. The left grid features a green Wild that activates a multiplier of x2, x3, or x5, while the blue Wild in the right grid turns entire reels Wild before winnings are paid out. Additional bonus features include the possibility of transforming random symbols into Wilds and multiplying winnings randomly by x3, x5, x10, x20.\n\nGraphics and sound design\n\nThe graphics in Foxin' Twins are top-notch, with cartoon-style symbols that come to life with superior animations. The two game grids, the aristocratic fox family, and the lush greenery surrounding the estate are beautifully portrayed, making for an immersive gaming experience. The sound effects are rich, emphasizing the excitement of the slots and adding to the overall entertainment factor.\n\nSymbol design and paytable\n\nThe symbols in Foxin' Twins match the game's aristocratic theme, with low-value symbols represented by playing cards from 9 to Ace, and high-value symbols featuring champagne, a gate, an airplane, and a fox on horseback. The most rewarding symbols are the two Wilds, represented by a fox with a pipe in either blue or green colors, that pay out for 3, 4, or 5 of a kind. The Scatter symbol is represented by gold bars and pays out with free spins.\n\nVolatility and RTP\n\nWith an RTP of 96.75% and medium volatility, Foxin' Twins strikes a good balance between payouts and risk, making for a fair and enjoyable gameplay experience. The Super Bet feature at levels 1 and 2 provides additional chances to win big, with frequent drops of Wild symbols and multipliers.\n\nOverall gaming experience\n\nIn conclusion, Foxin' Twins is a fantastic slot game that manages to combine an engaging gameplay experience with top-notch graphics and sound effects. The two game grids and the Super Bet feature bring a welcome element of excitement and anticipation, while the aristocratic fox family adds a touch of humor and charm. The paytable is fair and rewarding, and with an RTP of 96.75%, players can expect to enjoy an entertaining and potentially profitable gaming experience that is sure to captivate them for hours on end.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TJ2wPJmPJgQoEZp4l97HKKObZ7dA",
+                "id": "chatcmpl-7WTBzXDP7xeH4z1gxNnsnZSZJ4V53",
                 "object": "chat.completion",
-                "created": 1687219082,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 653,
-                    "completion_tokens": 143,
-                    "total_tokens": 796
-                },
+                "created": 1687973067,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging gameplay with two game grids\",\n        \"Super Bet feature with frequent Wild symbols and multipliers\",\n        \"Top-notch graphics and sound effects\",\n        \"Fair and rewarding paytable with 96.75% RTP\"\n    ],\n    \"cons\": [\n        \"Medium volatility may not appeal to high-risk players\",\n        \"Lack of original theme\"\n    ],\n    \"meta_title\": \"Play Foxin Twins Free Slot Game | Super Bet & Wild Symbols\",\n    \"meta_description\": \"Read our review of Foxin Twins online slot game. Play for free, activate Super Bet, and enjoy frequent Wild symbols and multipliers on two game grids.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting Super Bet feature with frequent drops of Wild symbols and multipliers\",\n    \"Top-notch graphics with immersive animations\",\n    \"Engaging gameplay with two game grids\",\n    \"Fair paytable and RTP of 96.75%\"\n  ],\n  \"cons\": [\n    \"Limited variety of symbols\",\n    \"Does not offer progressive jackpot\"\n  ],\n  \"meta_title\": \"Play Foxin Twins Free - Exciting Slot Game with Super Bet Feature\",\n  \"meta_description\": \"Play Foxin Twins for free and enjoy an engaging slot game with a Super Bet feature and top-notch graphics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 650,
+                    "completion_tokens": 130,
+                    "total_tokens": 780
+                }
             }
         },
         {
@@ -812,5 +812,34 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/foxin-twins.json"
+    "filename": "game_reviews/translations/foxin-twins.json",
+    "raw_feature_images": [
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_1b40ca3e-40ed-4f3c-b608-46cbd2da4cbc_1.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_b3ef8a0d-2f5b-48eb-977d-657a0d3953cf_3.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_b3ef8a0d-2f5b-48eb-977d-657a0d3953cf_4.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_1b40ca3e-40ed-4f3c-b608-46cbd2da4cbc_3.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_1b40ca3e-40ed-4f3c-b608-46cbd2da4cbc_2.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_1b40ca3e-40ed-4f3c-b608-46cbd2da4cbc_4.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_b3ef8a0d-2f5b-48eb-977d-657a0d3953cf_1.png",
+        "arved__DALLE_I_need_your_help_to_create_a_feature_image_that_pe_b3ef8a0d-2f5b-48eb-977d-657a0d3953cf_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Foxin Twins (Version 5).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 7).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 1).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 4).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 2).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 3).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 8).webp",
+        "game_reviews/processed_images/Foxin Twins (Version 6).webp"
+    ],
+    "slug": "foxin-twins",
+    "name": "Foxin Twins",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Foxin-Twins-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Foxin Twins Free - Exciting Slot Game with Super Bet Feature' ### Meta set: 'Play Foxin Twins for free and enjoy an engaging slot game with a Super Bet feature and top-notch graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Unique gameplay structure with five rooms in Tudor Hall.",
-                    "Faithful graphics and theme to the iconic board game.",
-                    "Numerous bonus features and high volatility.",
-                    "Acceptable RTP ratio of 96.06%."
+                    "Unique gameplay structure with multiple rooms and functionalities",
+                    "Graphics faithfully capture the famous Cluedo game",
+                    "Thematic symbols add to the immersive experience",
+                    "High volatility and potential for impressive prizes"
                 ],
                 "cons": [
-                    "Minimalistic lines may not be appealing to players who prefer more elaborate graphics.",
-                    "Not recommended for novice players due to its intricacy."
+                    "Minimalistic lines may not appeal to everyone",
+                    "Not suitable for players seeking frequent small prizes"
                 ],
-                "meta_title": "Play Cluedo Spinning Detectives Free Online",
-                "meta_description": "Read our review of Cluedo Spinning Detectives online slot game, with numerous bonus features, and play it for free. Suitable for experienced gamblers."
+                "meta_title": "Play Cluedo Spinning Detectives for Free",
+                "meta_description": "Read our review of Cluedo Spinning Detectives and play the game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"CLUEDO Spinning Detectives\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay structure and features\n\nCluedo Spinning Detectives has a unique gameplay structure that moves the game to one of five rooms in Tudor Hall, depending on the symbols that appear on the main screen. Each room has different functionalities, such as bonuses and free spins, providing numerous and varied possibilities for players to win. The game has five reels and 40 pay lines, offering high volatility and prizes that can reach impressive numbers.\n\nGraphics and theme\n\nCluedo Spinning Detectives faithfully captures the famous game in both graphics and symbolism. The lines are minimalistic, but overall, the graphics are effective, giving players the sensation that they are playing the original board game online. The symbols consist of both thematic and royal symbols, with the thematic ones being loyal to the dynamics of the board game, such as the magnifying glass, the Stanze Bonus logo, the interrogation point, and the Clue logo, serving as the wild symbol that can replace any other symbol to complete a winning combination.\n\nSymbolism and bonus features\n\nThe symbols in Cluedo Spinning Detectives consist of both thematic and royal symbols, with the thematic ones being loyal to the dynamics of the board game. The Clue logo serves as the wild symbol that can replace any other symbol to complete a winning combination. The game also has several bonus features, such as the Room Bonus, where players can access one of the five rooms in Tudor Hall, each with different functionalities, such as bonuses and free spins.\n\nRTP and paylines\n\nThe return to player (RTP) ratio of Cluedo Spinning Detectives is set at 96.06%, which is an acceptable percentage, in line with most online slot games. The game has five reels and 40 pay lines, offering high volatility and prizes that can reach impressive numbers.\n\nTarget audience\n\nCluedo Spinning Detectives is a fun and unconventional game that deviates from traditional slot machines due to its original and intricate gameplay. It is recommended for experienced gamblers who are looking for big wins and do not settle for frequent small prizes.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"CLUEDO Spinning Detectives\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay structure and features\n\nCluedo Spinning Detectives has a unique gameplay structure that moves the game to one of five rooms in Tudor Hall, depending on the symbols that appear on the main screen. Each room has different functionalities, such as bonuses and free spins, providing numerous and varied possibilities for players to win. The game has five reels and 40 pay lines, offering high volatility and prizes that can reach impressive numbers.\n\nGraphics and theme\n\nCluedo Spinning Detectives faithfully captures the famous game in both graphics and symbolism. The lines are minimalistic, but overall, the graphics are effective, giving players the sensation that they are playing the original board game online. The symbols consist of both thematic and royal symbols, with the thematic ones being loyal to the dynamics of the board game, such as the magnifying glass, the Stanze Bonus logo, the interrogation point, and the Clue logo, serving as the wild symbol that can replace any other symbol to complete a winning combination.\n\nSymbolism and bonus features\n\nThe symbols in Cluedo Spinning Detectives consist of both thematic and royal symbols, with the thematic ones being loyal to the dynamics of the board game. The Clue logo serves as the wild symbol that can replace any other symbol to complete a winning combination. The game also has several bonus features, such as the Room Bonus, where players can access one of the five rooms in Tudor Hall, each with different functionalities, such as bonuses and free spins.\n\nRTP and paylines\n\nThe return to player (RTP) ratio of Cluedo Spinning Detectives is set at 96.06%, which is an acceptable percentage, in line with most online slot games. The game has five reels and 40 pay lines, offering high volatility and prizes that can reach impressive numbers.\n\nTarget audience\n\nCluedo Spinning Detectives is a fun and unconventional game that deviates from traditional slot machines due to its original and intricate gameplay. It is recommended for experienced gamblers who are looking for big wins and do not settle for frequent small prizes.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SwC5M719LNGFwCIX5UHXjDCfdBp1",
+                "id": "chatcmpl-7WQQ0niJpNOwgFslAQfLwnWLPFCse",
                 "object": "chat.completion",
-                "created": 1687131237,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 604,
-                    "completion_tokens": 153,
-                    "total_tokens": 757
-                },
+                "created": 1687962404,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Unique gameplay structure with five rooms in Tudor Hall.\",\n    \"Faithful graphics and theme to the iconic board game.\",\n    \"Numerous bonus features and high volatility.\",\n    \"Acceptable RTP ratio of 96.06%.\"\n  ],\n  \"cons\": [\n    \"Minimalistic lines may not be appealing to players who prefer more elaborate graphics.\",\n    \"Not recommended for novice players due to its intricacy.\"\n  ],\n  \"meta_title\": \"Play Cluedo Spinning Detectives Free Online\",\n  \"meta_description\": \"Read our review of Cluedo Spinning Detectives online slot game, with numerous bonus features, and play it for free. Suitable for experienced gamblers.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Unique gameplay structure with multiple rooms and functionalities\",\n    \"Graphics faithfully capture the famous Cluedo game\",\n    \"Thematic symbols add to the immersive experience\",\n    \"High volatility and potential for impressive prizes\"\n  ],\n  \"cons\": [\n    \"Minimalistic lines may not appeal to everyone\",\n    \"Not suitable for players seeking frequent small prizes\"\n  ],\n  \"meta_title\": \"Play Cluedo Spinning Detectives for Free\",\n  \"meta_description\": \"Read our review of Cluedo Spinning Detectives and play the game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 601,
+                    "completion_tokens": 124,
+                    "total_tokens": 725
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Please_create_a_feature_image_in_a_cartoon_style_with_a__37cc4227-a791-4b55-9bfd-81256a4b5c33_3.png",
         "arved__Please_create_a_feature_image_in_a_cartoon_style_with_a__37cc4227-a791-4b55-9bfd-81256a4b5c33_2.png",
         "arved__Please_create_a_feature_image_in_a_cartoon_style_with_a__37cc4227-a791-4b55-9bfd-81256a4b5c33_4.png",
+        "arved__Please_create_a_feature_image_in_a_cartoon_style_with_a__37cc4227-a791-4b55-9bfd-81256a4b5c33_3.png",
         "arved__Please_create_a_feature_image_in_a_cartoon_style_with_a__37cc4227-a791-4b55-9bfd-81256a4b5c33_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cluedo Spinning Detectives (Version 3).webp",
-        "game_reviews/processed_images/Cluedo Spinning Detectives (Version 1).webp",
         "game_reviews/processed_images/Cluedo Spinning Detectives (Version 4).webp",
-        "game_reviews/processed_images/Cluedo Spinning Detectives (Version 2).webp"
+        "game_reviews/processed_images/Cluedo Spinning Detectives (Version 2).webp",
+        "game_reviews/processed_images/Cluedo Spinning Detectives (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/cluedo-spinning-detectives.json"
+    "filename": "game_reviews/translations/cluedo-spinning-detectives.json",
+    "slug": "cluedo-spinning-detectives",
+    "name": "CLUEDO Spinning Detectives",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cluedo-Spinning-Detectives-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cluedo Spinning Detectives for Free' ### Meta set: 'Read our review of Cluedo Spinning Detectives and play the game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

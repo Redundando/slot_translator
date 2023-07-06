@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding grid increases ways to win",
-                    "Unique playing grid",
-                    "Free Spins with multiplier feature",
-                    "Playable on all devices"
+                    "Colorful candy symbols create an appealing visual experience",
+                    "Unique grid expansion mechanic adds excitement to gameplay",
+                    "Free Spins and Multiplier Wheel offer the potential for big wins",
+                    "Accessible gameplay on all devices with HTML5 technology"
                 ],
                 "cons": [
-                    "High volatility",
-                    "Average RTP rate"
+                    "High volatility may result in less frequent wins",
+                    "Factor multiplier feature can be randomly activated and may affect gameplay"
                 ],
-                "meta_title": "Play Delicious Candy PopWins for Free – Review",
-                "meta_description": "Read our review of Delicious Candy PopWins. Play this unique expanding grid game for free and win big during Free Spins with multiplier feature."
+                "meta_title": "Play Delicious Candy PopWins for Free",
+                "meta_description": "Read a review of Delicious Candy PopWins and play for free. Discover the game's features and gameplay mechanics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Delicious Candy PopWins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSymbols and Gameplay Mechanics\n\nDelicious Candy PopWins features colorful candy symbols, the number seven, the star, the BAR sign, and the crown. The crown is the most valuable symbol, paying up to 12.50 times for a combination of five. The game grid is a tray of sponge cake divided into squares and starts with a 5x3 design. The game expands the grid and adds new positions with every win, increasing the ways to win up to a maximum of 118,098 during Free Spins.\n\nPlaying Grid Expansion\n\nDelicious Candy PopWins has a unique playing grid that expands after every win. The new positions have added symbols, which, if involved in a winning combination, will lead to further growth of the grid. Expanding the grid also increases the number of ways to win. The grid's maximum size during the base game is six rows, and during Free Spins, it can grow up to nine rows.\n\nFree Spins and Multiplier Wheel\n\nUnlike many other slot games, Delicious Candy PopWins activates Free Spins when the grid reaches the maximum size of six rows during the base game. Players then spin the wheel to determine the number of Free Spins and the value of the multiplier applied to the winnings. At the highest multiplier, players can win up to 27,000 times their bet. During Free Spins, the grid can expand up to nine rows, and the maximum number of ways to win is 118,098.\n\nVolatility and RTP Rate\n\nThe Volatility of Delicious Candy PopWins is high, meaning that wins are less frequent. The Return To Player (RTP) rate is 95.8%, which is considered average for slots games. However, when making use of the factor multiplier feature, players must have an eye for volatility as this feature tends to be randomly activated.\n\nGame Technology and Betting Options\n\nDelicious Candy PopWins is built with HTML5 technology, making the game accessible across all devices. Players can choose the minimum bet of €0.20, with the Super Stake function, which activates a random multiplier symbol that lands on the reels, resulting in a win between x2 and x100. The game also features an automatic spins function and the ability to buy Bonus games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Delicious Candy PopWins\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nSymbols and Gameplay Mechanics\n\nDelicious Candy PopWins features colorful candy symbols, the number seven, the star, the BAR sign, and the crown. The crown is the most valuable symbol, paying up to 12.50 times for a combination of five. The game grid is a tray of sponge cake divided into squares and starts with a 5x3 design. The game expands the grid and adds new positions with every win, increasing the ways to win up to a maximum of 118,098 during Free Spins.\n\nPlaying Grid Expansion\n\nDelicious Candy PopWins has a unique playing grid that expands after every win. The new positions have added symbols, which, if involved in a winning combination, will lead to further growth of the grid. Expanding the grid also increases the number of ways to win. The grid's maximum size during the base game is six rows, and during Free Spins, it can grow up to nine rows.\n\nFree Spins and Multiplier Wheel\n\nUnlike many other slot games, Delicious Candy PopWins activates Free Spins when the grid reaches the maximum size of six rows during the base game. Players then spin the wheel to determine the number of Free Spins and the value of the multiplier applied to the winnings. At the highest multiplier, players can win up to 27,000 times their bet. During Free Spins, the grid can expand up to nine rows, and the maximum number of ways to win is 118,098.\n\nVolatility and RTP Rate\n\nThe Volatility of Delicious Candy PopWins is high, meaning that wins are less frequent. The Return To Player (RTP) rate is 95.8%, which is considered average for slots games. However, when making use of the factor multiplier feature, players must have an eye for volatility as this feature tends to be randomly activated.\n\nGame Technology and Betting Options\n\nDelicious Candy PopWins is built with HTML5 technology, making the game accessible across all devices. Players can choose the minimum bet of €0.20, with the Super Stake function, which activates a random multiplier symbol that lands on the reels, resulting in a win between x2 and x100. The game also features an automatic spins function and the ability to buy Bonus games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T2SSl8SpDdxXPkBm5v2NxbGKdKQF",
+                "id": "chatcmpl-7WR7z7MoSiQ95lMr4A8dY8kDLoZb8",
                 "object": "chat.completion",
-                "created": 1687155316,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 636,
-                    "completion_tokens": 116,
-                    "total_tokens": 752
-                },
+                "created": 1687965131,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding grid increases ways to win\", \n        \"Unique playing grid\", \n        \"Free Spins with multiplier feature\", \n        \"Playable on all devices\"\n    ],\n    \"cons\": [\n        \"High volatility\", \n        \"Average RTP rate\"\n    ],\n    \"meta_title\": \"Play Delicious Candy PopWins for Free – Review\", \n    \"meta_description\": \"Read our review of Delicious Candy PopWins. Play this unique expanding grid game for free and win big during Free Spins with multiplier feature.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"Colorful candy symbols create an appealing visual experience\",\n      \"Unique grid expansion mechanic adds excitement to gameplay\",\n      \"Free Spins and Multiplier Wheel offer the potential for big wins\",\n      \"Accessible gameplay on all devices with HTML5 technology\"\n   ],\n   \"cons\": [\n      \"High volatility may result in less frequent wins\",\n      \"Factor multiplier feature can be randomly activated and may affect gameplay\"\n   ],\n   \"meta_title\": \"Play Delicious Candy PopWins for Free\",\n   \"meta_description\": \"Read a review of Delicious Candy PopWins and play for free. Discover the game's features and gameplay mechanics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 633,
+                    "completion_tokens": 135,
+                    "total_tokens": 768
+                }
             }
         },
         {
@@ -813,10 +813,10 @@
         }
     ],
     "raw_feature_images": [
+        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_3.png",
         "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_4.png",
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_2.png",
         "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_1.png",
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_3.png"
+        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Delicious Candy Popwins (Version 4).webp",
@@ -824,5 +824,14 @@
         "game_reviews/processed_images/Delicious Candy Popwins (Version 3).webp",
         "game_reviews/processed_images/Delicious Candy Popwins (Version 1).webp"
     ],
-    "filename": "game_reviews/translations/delicious-candy-popwins.json"
+    "filename": "game_reviews/translations/delicious-candy-popwins.json",
+    "slug": "delicious-candy-popwins",
+    "name": "Delicious Candy PopWins",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Delicious-Candy-Popwins-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Delicious Candy PopWins for Free' ### Meta set: 'Read a review of Delicious Candy PopWins and play for free. Discover the game's features and gameplay mechanics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

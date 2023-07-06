@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Intricate and interesting design",
-                    "Well-executed theme of astrology with steampunk mechanics",
-                    "Bonus mode with expanding symbols",
-                    "Typical grid size and number of winning lines"
+                    "Interesting and intricate design",
+                    "Theme of astrology with steampunk mechanics",
+                    "Twenty winning lines and 5x3 grid",
+                    "Expanding symbols in bonus mode"
                 ],
                 "cons": [
-                    "Gambling mechanism can result in losing original winnings",
-                    "Gameplay is similar to other Novomatic titles"
+                    "Gambling mechanism can result in loss of winnings",
+                    "Limited comparison to similar space-themed slots"
                 ],
-                "meta_title": "Play Book of Stars Free | Review of Online Slot Game",
-                "meta_description": "Experience Book of Stars online slot game for free with this review. Learn about the game design, mechanics, bonus features, and how it compares to similar slots."
+                "meta_title": "Play Book of Stars Free - Review of Online Slot Game",
+                "meta_description": "Read our review of Book of Stars and play this online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Stars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design and mechanics\n\nBook of Stars has an interesting and intricate design. The background of the game grid has an astral theme, and various symbols are enriched with gold details. Despite the complex design, the theme of astrology with steampunk mechanics is carried out well. The game mechanics are on par with other online titles, with twenty winning lines with a 5x3 grid showing 15 symbols at each play.\n\nNumber of winning lines and grid size\n\nBook of Stars has twenty winning lines with a 5x3 grid showing 15 symbols at each play. The size of the grid and number of winning lines are typical of online slot games.\n\nWild symbols and bonus features\n\nThe Book of Stars slot has two Wild symbols. The first is the Book of Stars itself, which can replace all symbols except the special ones. The second is a ring, which can replace all symbols in the game. Finding three books grants access to the bonus mode, where expanding symbols appear along the entire reel. The game also has a gambling mechanism, which is a mini-game in which players guess the color of a hidden card after a minor win.\n\nGambling mechanism\n\nBook of Stars has a gambling mechanism where players can decide to play a game of chance in which they have to guess the color of a hidden card after a minor win. While this can increase potential payouts, it can also result in losing the original winnings.\n\nComparison to similar slots\n\nBook of Stars is the spiritual sequel to another Novomatic game, Book of Ra. While both games share similar mechanics, Book of Stars has its own unique identity with a space theme combining astrology with steampunk mechanics. For a space-themed slot, Stars Awakening from Playtech is also worth mentioning, but the gameplay and design are different from Book of Stars.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Stars\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame design and mechanics\n\nBook of Stars has an interesting and intricate design. The background of the game grid has an astral theme, and various symbols are enriched with gold details. Despite the complex design, the theme of astrology with steampunk mechanics is carried out well. The game mechanics are on par with other online titles, with twenty winning lines with a 5x3 grid showing 15 symbols at each play.\n\nNumber of winning lines and grid size\n\nBook of Stars has twenty winning lines with a 5x3 grid showing 15 symbols at each play. The size of the grid and number of winning lines are typical of online slot games.\n\nWild symbols and bonus features\n\nThe Book of Stars slot has two Wild symbols. The first is the Book of Stars itself, which can replace all symbols except the special ones. The second is a ring, which can replace all symbols in the game. Finding three books grants access to the bonus mode, where expanding symbols appear along the entire reel. The game also has a gambling mechanism, which is a mini-game in which players guess the color of a hidden card after a minor win.\n\nGambling mechanism\n\nBook of Stars has a gambling mechanism where players can decide to play a game of chance in which they have to guess the color of a hidden card after a minor win. While this can increase potential payouts, it can also result in losing the original winnings.\n\nComparison to similar slots\n\nBook of Stars is the spiritual sequel to another Novomatic game, Book of Ra. While both games share similar mechanics, Book of Stars has its own unique identity with a space theme combining astrology with steampunk mechanics. For a space-themed slot, Stars Awakening from Playtech is also worth mentioning, but the gameplay and design are different from Book of Stars.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SlA31jYgpJGpChVPSVhIUnwWLaqh",
+                "id": "chatcmpl-7WPBnzIEacWL7fQ4e4rj5Y7SZyEdj",
                 "object": "chat.completion",
-                "created": 1687088827,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 540,
-                    "completion_tokens": 141,
-                    "total_tokens": 681
-                },
+                "created": 1687957679,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Intricate and interesting design\",\n        \"Well-executed theme of astrology with steampunk mechanics\",\n        \"Bonus mode with expanding symbols\",\n        \"Typical grid size and number of winning lines\"\n    ],\n    \"cons\": [\n        \"Gambling mechanism can result in losing original winnings\",\n        \"Gameplay is similar to other Novomatic titles\"\n    ],\n    \"meta_title\": \"Play Book of Stars Free | Review of Online Slot Game\",\n    \"meta_description\": \"Experience Book of Stars online slot game for free with this review. Learn about the game design, mechanics, bonus features, and how it compares to similar slots.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Interesting and intricate design\",\n    \"Theme of astrology with steampunk mechanics\",\n    \"Twenty winning lines and 5x3 grid\",\n    \"Expanding symbols in bonus mode\"\n  ],\n  \"cons\": [\n    \"Gambling mechanism can result in loss of winnings\",\n    \"Limited comparison to similar space-themed slots\"\n  ],\n  \"meta_title\": \"Play Book of Stars Free - Review of Online Slot Game\",\n  \"meta_description\": \"Read our review of Book of Stars and play this online slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 537,
+                    "completion_tokens": 118,
+                    "total_tokens": 655
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__f8c0b8ae-cf71-4502-be05-9ed7f6743efc_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__f8c0b8ae-cf71-4502-be05-9ed7f6743efc_1.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__f8c0b8ae-cf71-4502-be05-9ed7f6743efc_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__f8c0b8ae-cf71-4502-be05-9ed7f6743efc_3.png",
         "arved__Prompt_Create_a_cartoon-style_feature_image_for_Book_of__f8c0b8ae-cf71-4502-be05-9ed7f6743efc_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Stars (Version 4).webp",
-        "game_reviews/processed_images/Book Of Stars (Version 3).webp",
         "game_reviews/processed_images/Book Of Stars (Version 2).webp",
-        "game_reviews/processed_images/Book Of Stars (Version 1).webp"
+        "game_reviews/processed_images/Book Of Stars (Version 1).webp",
+        "game_reviews/processed_images/Book Of Stars (Version 3).webp",
+        "game_reviews/processed_images/Book Of Stars (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/book-of-stars.json"
+    "filename": "game_reviews/translations/book-of-stars.json",
+    "slug": "book-of-stars",
+    "name": "Book of Stars",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Book-Of-Stars-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Stars Free - Review of Online Slot Game' ### Meta set: 'Read our review of Book of Stars and play this online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Interesting gameplay features",
-                    "Attractive visuals and sound effects",
-                    "Flexible betting range",
-                    "Demo version available to try for free"
+                    "Exciting fruit-themed slot with bonus game modes",
+                    "Attractive and lively graphics with colorful backgrounds",
+                    "Betting range suitable for all types of gamblers",
+                    "Optimized for mobile devices for on-the-go play"
                 ],
                 "cons": [
-                    "May lack depth for some players",
-                    "Limited number of paylines"
+                    "Only available in demo version",
+                    "Limited betting range compared to other slot games"
                 ],
-                "meta_title": "Play Cheeky Fruits 6 Deluxe for Free | Game Review",
-                "meta_description": "Get the full scoop on the Cheeky Fruits 6 Deluxe online slot game. Play this fruit-themed slot free today and experience exciting features and betting options."
+                "meta_title": "Play Cheeky Fruits 6 Deluxe - Free Slot Game",
+                "meta_description": "Read our review of Cheeky Fruits 6 Deluxe - a free slot game with exciting gameplay and attractive graphics."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cheeky Fruits 6 Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nCheeky Fruits 6 Deluxe is a simple and exciting fruit-themed slot game with well-designed symbols that hold their own winning value. Players can activate bonus game modes and many in-game features that can lead to huge money wins. The game is suitable for all types of gamblers and their goals.\n\nVisuals and Sound Effects\n\nThe graphics are very attractive and lively, with colorful backgrounds and animations that will keep gamblers attached to their computer or smartphone screen. The sound effects also perfectly match the theme, providing an excellent gaming experience.\n\nBetting Range and RTP\n\nCheeky Fruits 6 Deluxe offers a betting range that caters to all types of gamblers. Bets range from a minimum of 0.10 credits to a maximum of 20 credits, with high RTP that can lead to significant wins. The minimum betting value of 0.10 credits enables new players to start with minimal risks.\n\nCompatibility with Mobile Devices\n\nCheeky Fruits 6 Deluxe is optimized for mobile devices and is suitable for playing on-the-go or during leisure time, providing players with the flexibility to enjoy their favorite slot game from their tablets or smartphones.\n\nAvailability of Demo Version\n\nG Games has made the demo version of Cheeky Fruits 6 Deluxe available for all players online. This feature allows players to enjoy the gameplay without registering or risking their money. It is a perfect way to understand the game dynamics and develop gameplay tactics to maximize potential winnings.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cheeky Fruits 6 Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Features\n\nCheeky Fruits 6 Deluxe is a simple and exciting fruit-themed slot game with well-designed symbols that hold their own winning value. Players can activate bonus game modes and many in-game features that can lead to huge money wins. The game is suitable for all types of gamblers and their goals.\n\nVisuals and Sound Effects\n\nThe graphics are very attractive and lively, with colorful backgrounds and animations that will keep gamblers attached to their computer or smartphone screen. The sound effects also perfectly match the theme, providing an excellent gaming experience.\n\nBetting Range and RTP\n\nCheeky Fruits 6 Deluxe offers a betting range that caters to all types of gamblers. Bets range from a minimum of 0.10 credits to a maximum of 20 credits, with high RTP that can lead to significant wins. The minimum betting value of 0.10 credits enables new players to start with minimal risks.\n\nCompatibility with Mobile Devices\n\nCheeky Fruits 6 Deluxe is optimized for mobile devices and is suitable for playing on-the-go or during leisure time, providing players with the flexibility to enjoy their favorite slot game from their tablets or smartphones.\n\nAvailability of Demo Version\n\nG Games has made the demo version of Cheeky Fruits 6 Deluxe available for all players online. This feature allows players to enjoy the gameplay without registering or risking their money. It is a perfect way to understand the game dynamics and develop gameplay tactics to maximize potential winnings.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7StTRBZtH404MZhUf7M1ip4wWAy8n",
+                "id": "chatcmpl-7WQ6H2jdjfhKwg9ZoawK3iuy629x9",
                 "object": "chat.completion",
-                "created": 1687120781,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 483,
-                    "completion_tokens": 120,
-                    "total_tokens": 603
-                },
+                "created": 1687961181,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\n    \"Interesting gameplay features\",\n    \"Attractive visuals and sound effects\",\n    \"Flexible betting range\",\n    \"Demo version available to try for free\"\n],\n\"cons\": [\n    \"May lack depth for some players\",\n    \"Limited number of paylines\"\n],\n\"meta_title\": \"Play Cheeky Fruits 6 Deluxe for Free | Game Review\",\n\"meta_description\": \"Get the full scoop on the Cheeky Fruits 6 Deluxe online slot game. Play this fruit-themed slot free today and experience exciting features and betting options.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting fruit-themed slot with bonus game modes\",\n    \"Attractive and lively graphics with colorful backgrounds\",\n    \"Betting range suitable for all types of gamblers\",\n    \"Optimized for mobile devices for on-the-go play\"\n  ],\n  \"cons\": [\n    \"Only available in demo version\",\n    \"Limited betting range compared to other slot games\"\n  ],\n  \"meta_title\": \"Play Cheeky Fruits 6 Deluxe - Free Slot Game\",\n  \"meta_description\": \"Read our review of Cheeky Fruits 6 Deluxe - a free slot game with exciting gameplay and attractive graphics.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 480,
+                    "completion_tokens": 135,
+                    "total_tokens": 615
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_1.png",
-        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_3.png",
         "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_4.png",
-        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_2.png"
+        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_2.png",
+        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_3.png",
+        "arved__Create_a_feature_image_that_fits_the_game_Cheeky_Fruits__b2b0f3e2-4a9e-492d-9c5b-ec8d2e32e277_1.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 4).webp",
         "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 1).webp",
-        "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 3).webp",
         "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 2).webp",
-        "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 4).webp"
+        "game_reviews/processed_images/Cheeky Fruits 6 Deluxe (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/cheeky-fruits-6-deluxe.json"
+    "filename": "game_reviews/translations/cheeky-fruits-6-deluxe.json",
+    "slug": "cheeky-fruits-6-deluxe",
+    "name": "Cheeky Fruits 6 Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cheeky-Fruits-6-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cheeky Fruits 6 Deluxe - Free Slot Game' ### Meta set: 'Read our review of Cheeky Fruits 6 Deluxe - a free slot game with exciting gameplay and attractive graphics.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

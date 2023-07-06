@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Golden Touch bonus feature",
-                    "Unique female protagonist",
-                    "Beautifully designed symbols",
-                    "Exciting free spins"
+                    "Simple gameplay mechanics",
+                    "Golden Touch feature",
+                    "Visually stunning design",
+                    "Unique female protagonist"
                 ],
                 "cons": [
-                    "Relatively low RTP",
-                    "No multiple bonus features"
+                    "No multiple bonus games",
+                    "Relatively low RTP"
                 ],
-                "meta_title": "Play Miss Midas Free - Review of Miss Midas Slot Game",
-                "meta_description": "Play Miss Midas slot game for free and read our comprehensive review of its gameplay mechanics, theme, symbol design, and jackpot & RTP. Get ready for a unique adventure!"
+                "meta_title": "Play Miss Midas for Free - Review and Gameplay Overview",
+                "meta_description": "Read our review of Miss Midas, a visually stunning slot game with the Golden Touch feature. Play for free and experience the adventure!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Miss Midas\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonus features\n\nMiss Midas is a straightforward game with no complicated mechanics or multiple bonus games. The only bonus feature is the Golden Touch, activated by the Scatter symbol in the main game. During this feature, symbols are transformed into others, increasing the player's chances of winning. The game offers free spins activated by the Scatter symbol. The RTP is relatively low, at 95%, while the jackpot can be worth up to 2500 times the bet.\n\nTheme and story\n\nMiss Midas is a slot game that imagines a female protagonist with the same fantastic power as King Midas. The game revolves around the theme of gold, from the symbol design to the bonus features. The symbols are depicted within golden frames, with playing cards from 9 to Ace also framed in gold. The game's star, Miss Midas herself, takes center stage in a beautifully designed game that offers a unique twist on Greek mythology.\n\nSymbol design and payouts\n\nAll symbols in Miss Midas fit the game's theme of gold and wealth. The playing cards offer the lowest payouts, while the thematic symbols offer greater rewards, such as a castle against a purple sky, a throne, a rose, a basket of fruit, a peacock, and Miss Midas herself. Miss Midas is the Wild symbol and can replace all other symbols except the Scatter. The Scatter is represented by the enchanted castle and offers a variable number of free spins, along with determining the highest possible payout, worth 2500 times the bet. The game offers a 500x payout for those who manage to get the Miss Midas symbol on all five reels.\n\nJackpot and Return To Player\n\nMiss Midas offers a relatively low Return To Player of 95%. However, this may be compensated for some players by the jackpot, which can be worth up to 2500 times the bet. In comparison, the Midas Golden Touch slot machine by Thunderkick, which revolves around King Midas, offers a much higher jackpot of 7500 coins.\n\nOverall enjoyment and entertainment value\n\nMiss Midas offers players an entertaining slot game experience, with a unique female protagonist and a visually stunning design. While the lack of multiple bonus features may be underwhelming for some, the Golden Touch feature and free spins offer enough excitement to keep players engaged. However, the low RTP may deter some players from this game in favor of others with higher payouts. Overall, Miss Midas is a solid choice for those seeking adventure within the realm of slot games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Miss Midas\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and bonus features\n\nMiss Midas is a straightforward game with no complicated mechanics or multiple bonus games. The only bonus feature is the Golden Touch, activated by the Scatter symbol in the main game. During this feature, symbols are transformed into others, increasing the player's chances of winning. The game offers free spins activated by the Scatter symbol. The RTP is relatively low, at 95%, while the jackpot can be worth up to 2500 times the bet.\n\nTheme and story\n\nMiss Midas is a slot game that imagines a female protagonist with the same fantastic power as King Midas. The game revolves around the theme of gold, from the symbol design to the bonus features. The symbols are depicted within golden frames, with playing cards from 9 to Ace also framed in gold. The game's star, Miss Midas herself, takes center stage in a beautifully designed game that offers a unique twist on Greek mythology.\n\nSymbol design and payouts\n\nAll symbols in Miss Midas fit the game's theme of gold and wealth. The playing cards offer the lowest payouts, while the thematic symbols offer greater rewards, such as a castle against a purple sky, a throne, a rose, a basket of fruit, a peacock, and Miss Midas herself. Miss Midas is the Wild symbol and can replace all other symbols except the Scatter. The Scatter is represented by the enchanted castle and offers a variable number of free spins, along with determining the highest possible payout, worth 2500 times the bet. The game offers a 500x payout for those who manage to get the Miss Midas symbol on all five reels.\n\nJackpot and Return To Player\n\nMiss Midas offers a relatively low Return To Player of 95%. However, this may be compensated for some players by the jackpot, which can be worth up to 2500 times the bet. In comparison, the Midas Golden Touch slot machine by Thunderkick, which revolves around King Midas, offers a much higher jackpot of 7500 coins.\n\nOverall enjoyment and entertainment value\n\nMiss Midas offers players an entertaining slot game experience, with a unique female protagonist and a visually stunning design. While the lack of multiple bonus features may be underwhelming for some, the Golden Touch feature and free spins offer enough excitement to keep players engaged. However, the low RTP may deter some players from this game in favor of others with higher payouts. Overall, Miss Midas is a solid choice for those seeking adventure within the realm of slot games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9cy7BeqR3iqA1Ry5cD26cU7OYdE",
+                "id": "chatcmpl-7WXn5GbM8a2RAPPEY9wUt0u4zB52u",
                 "object": "chat.completion",
-                "created": 1687421204,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990743,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Golden Touch bonus feature\",\n        \"Unique female protagonist\",\n        \"Beautifully designed symbols\",\n        \"Exciting free spins\"\n    ],\n    \"cons\": [\n        \"Relatively low RTP\",\n        \"No multiple bonus features\"\n    ],\n    \"meta_title\": \"Play Miss Midas Free - Review of Miss Midas Slot Game\",\n    \"meta_description\": \"Play Miss Midas slot game for free and read our comprehensive review of its gameplay mechanics, theme, symbol design, and jackpot & RTP. Get ready for a unique adventure!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple gameplay mechanics\",\n    \"Golden Touch feature\",\n    \"Visually stunning design\",\n    \"Unique female protagonist\"\n  ],\n  \"cons\": [\n    \"No multiple bonus games\",\n    \"Relatively low RTP\"\n  ],\n  \"meta_title\": \"Play Miss Midas for Free - Review and Gameplay Overview\",\n  \"meta_description\": \"Read our review of Miss Midas, a visually stunning slot game with the Golden Touch feature. Play for free and experience the adventure!\" \n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 685,
-                    "completion_tokens": 120,
-                    "total_tokens": 805
+                    "prompt_tokens": 682,
+                    "completion_tokens": 108,
+                    "total_tokens": 790
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/miss-midas.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon_image_featuring_a_happy_Maya_war_df3438f8-a703-4df1-a2a6-320f8261eb81_1.png",
+        "arved__Prompt_Create_a_cartoon_image_featuring_a_happy_Maya_war_df3438f8-a703-4df1-a2a6-320f8261eb81_2.png",
+        "arved__Prompt_Create_a_cartoon_image_featuring_a_happy_Maya_war_df3438f8-a703-4df1-a2a6-320f8261eb81_4.png",
+        "arved__Prompt_Create_a_cartoon_image_featuring_a_happy_Maya_war_df3438f8-a703-4df1-a2a6-320f8261eb81_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Miss Midas (Version 3).webp",
+        "game_reviews/processed_images/Miss Midas (Version 2).webp",
+        "game_reviews/processed_images/Miss Midas (Version 1).webp",
+        "game_reviews/processed_images/Miss Midas (Version 4).webp"
+    ],
+    "slug": "miss-midas",
+    "name": "Miss Midas",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Miss-Midas-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Miss Midas for Free - Review and Gameplay Overview' ### Meta set: 'Read our review of Miss Midas, a visually stunning slot game with the Golden Touch feature. Play for free and experience the adventure!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

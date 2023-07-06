@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Original twist on Egyptian theme with superhero figures",
-                    "Visually striking symbols and design",
-                    "Easy to understand and master gameplay mechanics",
-                    "Various bonus features and multipliers available"
+                    "Visually striking design inspired by superhero comics",
+                    "Easy to understand gameplay mechanics",
+                    "Bonus features and Wild symbols for increased winnings"
                 ],
                 "cons": [
                     "Playing card symbols lack detail and decoration",
-                    "Base game payouts can be relatively low"
+                    "Background imagery is simple and lacks intricacy"
                 ],
-                "meta_title": "Play Egyptian Heroes Free: Review of NetEnt's Slot Game",
-                "meta_description": "Read our review of Egyptian Heroes by NetEnt, an Egyptian themed slot game with bonus features, free spins, and an original twist. Play for free now."
+                "meta_title": "Play Egyptian Heroes for Free",
+                "meta_description": "Read our review of Egyptian Heroes and play for free. Discover bonus features and Wild symbols!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Egyptian Heroes\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame theme and design\n\nEgyptian Heroes by NetEnt is an online slot game that takes place in ancient Egypt. The theme is given an original twist with the presentation of the Egyptian deities as modern superhero figures. The design of the symbols is inspired by superhero comics and is visually striking. Other symbols, such as playing card symbols, are less detailed and lack decoration. The game's frame is simple, with background imagery of stone structures found in Egypt.\n\nGame mechanism and layout\n\nEgyptian Heroes has a classic game mechanism. The grid is arranged in a 5x3 pattern with 15 symbols displayed for each game. The game has 20 win lines, which is the average for online titles. The Wild symbols can expand along the entire reel, allowing for increased winnings if the bonus feature is activated. The basic gameplay mechanics are easy to understand and can be quickly mastered. \n\nBonus features and Wild symbols\n\nThe Wild symbols in Egyptian Heroes have the ability to expand along the entire reel if the bonus feature is triggered. This allows players to increase their chances of winning larger payouts. The bonus feature is activated when three or more Scatter symbols appear on the reels. In addition to the Wild symbols, there are various bonus features that can be triggered during gameplay. These include additional bonus rounds, free spins, and multipliers.\n\nPharaoh Scatter symbol and special mode\n\nThe Pharaoh symbol in Egyptian Heroes is a Scatter symbol that can help players activate the special mode. When three or more Scatter symbols appear on the reels, the special mode is activated, and players can enjoy additional bonus rounds and free spins. The special mode can offer even larger payouts than the base game, making it an attractive proposition for players looking for big wins.\n\nSimilar slot games to Egyptian Heroes\n\nThe ancient Egyptian theme is common across many online slots. If players enjoy the theme of Egyptian Heroes, they may also like A While on the Nile, another ancient Egyptian-themed slot with an alternative illustration style. Book of Gods is another popular choice amongst players, offering a range of bonus features and extra rounds. Ancient Egypt Classic is a must-play for enthusiasts of the genre and offers a traditional take on the theme with simplistic graphics and a classic soundtrack.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Egyptian Heroes\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame theme and design\n\nEgyptian Heroes by NetEnt is an online slot game that takes place in ancient Egypt. The theme is given an original twist with the presentation of the Egyptian deities as modern superhero figures. The design of the symbols is inspired by superhero comics and is visually striking. Other symbols, such as playing card symbols, are less detailed and lack decoration. The game's frame is simple, with background imagery of stone structures found in Egypt.\n\nGame mechanism and layout\n\nEgyptian Heroes has a classic game mechanism. The grid is arranged in a 5x3 pattern with 15 symbols displayed for each game. The game has 20 win lines, which is the average for online titles. The Wild symbols can expand along the entire reel, allowing for increased winnings if the bonus feature is activated. The basic gameplay mechanics are easy to understand and can be quickly mastered. \n\nBonus features and Wild symbols\n\nThe Wild symbols in Egyptian Heroes have the ability to expand along the entire reel if the bonus feature is triggered. This allows players to increase their chances of winning larger payouts. The bonus feature is activated when three or more Scatter symbols appear on the reels. In addition to the Wild symbols, there are various bonus features that can be triggered during gameplay. These include additional bonus rounds, free spins, and multipliers.\n\nPharaoh Scatter symbol and special mode\n\nThe Pharaoh symbol in Egyptian Heroes is a Scatter symbol that can help players activate the special mode. When three or more Scatter symbols appear on the reels, the special mode is activated, and players can enjoy additional bonus rounds and free spins. The special mode can offer even larger payouts than the base game, making it an attractive proposition for players looking for big wins.\n\nSimilar slot games to Egyptian Heroes\n\nThe ancient Egyptian theme is common across many online slots. If players enjoy the theme of Egyptian Heroes, they may also like A While on the Nile, another ancient Egyptian-themed slot with an alternative illustration style. Book of Gods is another popular choice amongst players, offering a range of bonus features and extra rounds. Ancient Egypt Classic is a must-play for enthusiasts of the genre and offers a traditional take on the theme with simplistic graphics and a classic soundtrack.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TBAoLbb8a1ppVqulDVLYS8UZuwMe",
+                "id": "chatcmpl-7WS49zFGRU8eggAnr6YBVcEMnwagp",
                 "object": "chat.completion",
-                "created": 1687188818,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 621,
-                    "completion_tokens": 135,
-                    "total_tokens": 756
-                },
+                "created": 1687968737,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Original twist on Egyptian theme with superhero figures\",\n        \"Visually striking symbols and design\",\n        \"Easy to understand and master gameplay mechanics\",\n        \"Various bonus features and multipliers available\"\n    ],\n    \"cons\": [\n        \"Playing card symbols lack detail and decoration\",\n        \"Base game payouts can be relatively low\"\n    ],\n    \"meta_title\": \"Play Egyptian Heroes Free: Review of NetEnt's Slot Game\",\n    \"meta_description\": \"Read our review of Egyptian Heroes by NetEnt, an Egyptian themed slot game with bonus features, free spins, and an original twist. Play for free now.\" \n}"
+                            "content": "{\n\"pros\": [\n    \"Original twist on Egyptian theme with superhero figures\",\n    \"Visually striking design inspired by superhero comics\",\n    \"Easy to understand gameplay mechanics\",\n    \"Bonus features and Wild symbols for increased winnings\"\n],\n\"cons\": [\n    \"Playing card symbols lack detail and decoration\",\n    \"Background imagery is simple and lacks intricacy\"\n],\n\"meta_title\": \"Play Egyptian Heroes for Free\",\n\"meta_description\": \"Read our review of Egyptian Heroes and play for free. Discover bonus features and Wild symbols!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 618,
+                    "completion_tokens": 109,
+                    "total_tokens": 727
+                }
             }
         },
         {
@@ -812,5 +812,21 @@
             }
         }
     ],
-    "filename": "game_reviews/translations/egyptian-heroes.json"
+    "filename": "game_reviews/translations/egyptian-heroes.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_Create_a_feature_image_fitting_the_game_cab43a27-228e-4195-b85c-43a5b7379660_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_fitting_the_game_cab43a27-228e-4195-b85c-43a5b7379660_1.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_fitting_the_game_cab43a27-228e-4195-b85c-43a5b7379660_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_fitting_the_game_cab43a27-228e-4195-b85c-43a5b7379660_3.png"
+    ],
+    "processed_feature_images": [],
+    "slug": "egyptian-heroes",
+    "name": "Egyptian Heroes",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/egyptian-heroes_thumb-300x228.jpg",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Egyptian Heroes for Free' ### Meta set: 'Read our review of Egyptian Heroes and play for free. Discover bonus features and Wild symbols!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -692,39 +692,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High return to player percentage",
-                    "Accessibly low betting range",
                     "Free spins with increasing win multipliers",
-                    "Autoplay option for convenient play"
+                    "High return to player percentage",
+                    "Wide betting range",
+                    "Autoplay option for easy gameplay"
                 ],
                 "cons": [
-                    "Graphics and sound effects not particularly impressive",
-                    "Limited number of paylines"
+                    "Graphics are not state-of-the-art",
+                    "Lacks impressive soundtrack"
                 ],
-                "meta_title": "Play Marco Polo Deluxe Free | High RTP and Free Spins",
-                "meta_description": "Explore the adventurous Marco Polo Deluxe video slot game, with free spins and a high RTP. Play for free to see if you can win up to 500x your bet."
+                "meta_title": "Play Marco Polo Deluxe Free - Review",
+                "meta_description": "Read our review of Marco Polo Deluxe, a video slot game with free spins and a high RTP. Play for free today!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Marco Polo Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMarco Polo Deluxe is a video slot game with five reels and ten paylines. Features include free spins with increasing win multipliers and wild camels, and the chance to win up to 500x the total bet when the explorer symbol crosses an active payline. The slot's autoplay option makes it easy to spin the reels without manual intervention.\n\nReliability and Fairness\n\nAs a Novomatic game, Marco Polo Deluxe is completely fair and reliable. The Austrian developer has a reputation for creating high-quality games with above-average return to player percentages, and this slot is no exception, with a RTP of over 95%.\n\nReturn to Player Percentage\n\nMarco Polo Deluxe has a high return to player percentage of over 95%. This makes it an attractive option for those looking to maximize their chances of winning while playing online slots.\n\nBetting Range\n\nThe betting range for Marco Polo Deluxe starts at 0.10 per spin, making it accessible to players with a range of budgets. The maximum bet is 100.00, making it suitable for high rollers as well. Players can adjust the bet size and number of paylines to suit their preferences.\n\nAutoplay Option\n\nMarco Polo Deluxe features an autoplay option, allowing players to spin the reels without manual intervention. This feature is simple to use and can help players to save time and increase their chances of winning.\n\nSimilar Slot Machines\n\nPlayers who enjoy Marco Polo Deluxe may also appreciate similar themed slot machines, such as The Voyages of Sinbad, which features more free spins with doubled value wins, and the Hat Trick slot, which has virtually identical bonus spins and a magical theme.\n\nTheme and Design\n\nMarco Polo Deluxe is an adventurous themed video slot game. While the graphics are not state-of-the-art, the game offers some semi-realistic character symbols, maps, treasure chests, and high card icons. The playing card symbols have a subtle Chinese style, which fits well with the overall theme. The generic series of fruit machine-like noises may disappoint those looking for an impressive soundtrack capturing the adventure of exploring new lands.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Marco Polo Deluxe\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMarco Polo Deluxe is a video slot game with five reels and ten paylines. Features include free spins with increasing win multipliers and wild camels, and the chance to win up to 500x the total bet when the explorer symbol crosses an active payline. The slot's autoplay option makes it easy to spin the reels without manual intervention.\n\nReliability and Fairness\n\nAs a Novomatic game, Marco Polo Deluxe is completely fair and reliable. The Austrian developer has a reputation for creating high-quality games with above-average return to player percentages, and this slot is no exception, with a RTP of over 95%.\n\nReturn to Player Percentage\n\nMarco Polo Deluxe has a high return to player percentage of over 95%. This makes it an attractive option for those looking to maximize their chances of winning while playing online slots.\n\nBetting Range\n\nThe betting range for Marco Polo Deluxe starts at 0.10 per spin, making it accessible to players with a range of budgets. The maximum bet is 100.00, making it suitable for high rollers as well. Players can adjust the bet size and number of paylines to suit their preferences.\n\nAutoplay Option\n\nMarco Polo Deluxe features an autoplay option, allowing players to spin the reels without manual intervention. This feature is simple to use and can help players to save time and increase their chances of winning.\n\nSimilar Slot Machines\n\nPlayers who enjoy Marco Polo Deluxe may also appreciate similar themed slot machines, such as The Voyages of Sinbad, which features more free spins with doubled value wins, and the Hat Trick slot, which has virtually identical bonus spins and a magical theme.\n\nTheme and Design\n\nMarco Polo Deluxe is an adventurous themed video slot game. While the graphics are not state-of-the-art, the game offers some semi-realistic character symbols, maps, treasure chests, and high card icons. The playing card symbols have a subtle Chinese style, which fits well with the overall theme. The generic series of fruit machine-like noises may disappoint those looking for an impressive soundtrack capturing the adventure of exploring new lands.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U5lt0l1BzSNb9O11Vx4zHPXBc20O",
+                "id": "chatcmpl-7WXCdjRhLXJURaduKlnAcTIL5Zksb",
                 "object": "chat.completion",
-                "created": 1687406381,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687988483,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High return to player percentage\",\n        \"Accessibly low betting range\",\n        \"Free spins with increasing win multipliers\",\n        \"Autoplay option for convenient play\"\n    ],\n    \"cons\": [\n        \"Graphics and sound effects not particularly impressive\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Marco Polo Deluxe Free | High RTP and Free Spins\",\n    \"meta_description\": \"Explore the adventurous Marco Polo Deluxe video slot game, with free spins and a high RTP. Play for free to see if you can win up to 500x your bet.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Free spins with increasing win multipliers\",\n    \"High return to player percentage\",\n    \"Wide betting range\",\n    \"Autoplay option for easy gameplay\"\n  ],\n  \"cons\": [\n    \"Graphics are not state-of-the-art\",\n    \"Lacks impressive soundtrack\"\n  ],\n  \"meta_title\": \"Play Marco Polo Deluxe Free - Review\",\n  \"meta_description\": \"Read our review of Marco Polo Deluxe, a video slot game with free spins and a high RTP. Play for free today!\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 595,
-                    "completion_tokens": 131,
-                    "total_tokens": 726
+                    "prompt_tokens": 592,
+                    "completion_tokens": 112,
+                    "total_tokens": 704
                 }
             }
         },
@@ -923,5 +923,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/marco-polo-deluxe.json",
+    "raw_feature_images": [
+        "arved__Design_a_feature_image_for_Marco_Polo_Deluxe_that_captur_b5a5d5c7-1762-4b79-b90d-2e115ff53541_3.png",
+        "arved__Design_a_feature_image_for_Marco_Polo_Deluxe_that_captur_b5a5d5c7-1762-4b79-b90d-2e115ff53541_1.png",
+        "arved__Design_a_feature_image_for_Marco_Polo_Deluxe_that_captur_b5a5d5c7-1762-4b79-b90d-2e115ff53541_2.png",
+        "arved__Design_a_feature_image_for_Marco_Polo_Deluxe_that_captur_b5a5d5c7-1762-4b79-b90d-2e115ff53541_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Marco Polo Deluxe (Version 1).webp",
+        "game_reviews/processed_images/Marco Polo Deluxe (Version 2).webp",
+        "game_reviews/processed_images/Marco Polo Deluxe (Version 4).webp",
+        "game_reviews/processed_images/Marco Polo Deluxe (Version 3).webp"
+    ],
+    "slug": "marco-polo-deluxe",
+    "name": "Marco Polo Deluxe",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Marco-Polo-Deluxe-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Marco Polo Deluxe Free - Review' ### Meta set: 'Read our review of Marco Polo Deluxe, a video slot game with free spins and a high RTP. Play for free today!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

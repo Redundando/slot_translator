@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Four jackpot prizes with high payouts",
+                    "Four jackpots with high payout potential",
                     "Beautiful game theme and graphics",
-                    "Average volatility level for more consistent wins",
-                    "Bonus symbols and features increase payout opportunities"
+                    "Average volatility level for more frequent wins",
+                    "Bonus symbols and free spin rounds"
                 ],
                 "cons": [
-                    "RTP is lower than other slots",
-                    "Animal symbols may be too human-like for some players"
+                    "RTP of only 88.12%",
+                    "Some players may find the animal symbols unsettling"
                 ],
-                "meta_title": "Play Mega Moolah for Free - Exciting African Wildlife Slot Game",
-                "meta_description": "Experience the African wildlife-themed Mega Moolah slot game and play for free. With four jackpots, bonus symbols, and average volatility, it offers exciting payout opportunities."
+                "meta_title": "Play Mega Moolah Free: Review and Gameplay",
+                "meta_description": "Discover the features, pros, and cons of Mega Moolah and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mega Moolah\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot prizes\n\nOne of the most prominent features of Mega Moolah is its four jackpots that can be won by landing paw print symbols. These jackpots range from Mini to Mega, with the Mega jackpot being the most coveted with an average payout of over $4 million. This makes it one of the most lucrative slots available in the market.\n\nGame theme and graphics\n\nMega Moolah's game theme revolves around the animals of the Savanna, with excellent graphics that showcase the theme beautifully. The animal symbols are designed realistically, but some players might find their winking faces too human-like and unsettling. However, this is subjective, and the theme and graphics will appeal to those who enjoy the African wildlife theme.\n\nVolatility level\n\nMega Moolah has an average volatility level, meaning that the player can expect to win more often than in other high-volatility slots. However, with an RTP of only 88.12%, players might not expect to receive high payouts with each win, despite the four jackpots that add a significant bonus element to the game.\n\nBonus symbols\n\nThe bonus symbols in Mega Moolah come in the form of the Monkey, who triggers free spins rounds, and the Lion, which is the Wild symbol and replaces other symbols to form winning combinations. The four jackpots are also considered bonus elements, as they add significant payout opportunities to the game.\n\nSimilar slot games\n\nAfrica and its wildlife are a popular theme among slot game developers, and there are many slots with similar themes available in the market. Examples of African wildlife-themed slots are Mighty Africa by Playson, African Simba by Novomatic, African Quest by Triple Edge Studios, and African Riches by IGT. These games share the same general theme as Mega Moolah but offer unique gameplay mechanics and additional bonus features.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mega Moolah\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nJackpot prizes\n\nOne of the most prominent features of Mega Moolah is its four jackpots that can be won by landing paw print symbols. These jackpots range from Mini to Mega, with the Mega jackpot being the most coveted with an average payout of over $4 million. This makes it one of the most lucrative slots available in the market.\n\nGame theme and graphics\n\nMega Moolah's game theme revolves around the animals of the Savanna, with excellent graphics that showcase the theme beautifully. The animal symbols are designed realistically, but some players might find their winking faces too human-like and unsettling. However, this is subjective, and the theme and graphics will appeal to those who enjoy the African wildlife theme.\n\nVolatility level\n\nMega Moolah has an average volatility level, meaning that the player can expect to win more often than in other high-volatility slots. However, with an RTP of only 88.12%, players might not expect to receive high payouts with each win, despite the four jackpots that add a significant bonus element to the game.\n\nBonus symbols\n\nThe bonus symbols in Mega Moolah come in the form of the Monkey, who triggers free spins rounds, and the Lion, which is the Wild symbol and replaces other symbols to form winning combinations. The four jackpots are also considered bonus elements, as they add significant payout opportunities to the game.\n\nSimilar slot games\n\nAfrica and its wildlife are a popular theme among slot game developers, and there are many slots with similar themes available in the market. Examples of African wildlife-themed slots are Mighty Africa by Playson, African Simba by Novomatic, African Quest by Triple Edge Studios, and African Riches by IGT. These games share the same general theme as Mega Moolah but offer unique gameplay mechanics and additional bonus features.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U7rPsWpjCyt6SapJz6QE4jOq8IMS",
+                "id": "chatcmpl-7WXWyCaAlUNRonY9DywnAM5890Bv0",
                 "object": "chat.completion",
-                "created": 1687414411,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687989744,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Four jackpot prizes with high payouts\",\n        \"Beautiful game theme and graphics\",\n        \"Average volatility level for more consistent wins\",\n        \"Bonus symbols and features increase payout opportunities\"\n    ],\n    \"cons\": [\n        \"RTP is lower than other slots\",\n        \"Animal symbols may be too human-like for some players\"\n    ],\n    \"meta_title\": \"Play Mega Moolah for Free - Exciting African Wildlife Slot Game\",\n    \"meta_description\": \"Experience the African wildlife-themed Mega Moolah slot game and play for free. With four jackpots, bonus symbols, and average volatility, it offers exciting payout opportunities.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Four jackpots with high payout potential\",\n    \"Beautiful game theme and graphics\",\n    \"Average volatility level for more frequent wins\",\n    \"Bonus symbols and free spin rounds\"\n  ],\n  \"cons\": [\n    \"RTP of only 88.12%\",\n    \"Some players may find the animal symbols unsettling\"\n  ],\n  \"meta_title\": \"Play Mega Moolah Free: Review and Gameplay\",\n  \"meta_description\": \"Discover the features, pros, and cons of Mega Moolah and play this exciting slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 554,
-                    "completion_tokens": 140,
-                    "total_tokens": 694
+                    "prompt_tokens": 551,
+                    "completion_tokens": 122,
+                    "total_tokens": 673
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mega-moolah.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Mega_Moolah_a_cartoon-_98cd699a-3d10-43dc-b03d-d882df8186cd_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Moolah_a_cartoon-_98cd699a-3d10-43dc-b03d-d882df8186cd_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Moolah_a_cartoon-_98cd699a-3d10-43dc-b03d-d882df8186cd_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Mega_Moolah_a_cartoon-_98cd699a-3d10-43dc-b03d-d882df8186cd_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mega Moolah (Version 3).webp",
+        "game_reviews/processed_images/Mega Moolah (Version 1).webp",
+        "game_reviews/processed_images/Mega Moolah (Version 2).webp",
+        "game_reviews/processed_images/Mega Moolah (Version 4).webp"
+    ],
+    "slug": "mega-moolah",
+    "name": "Mega Moolah",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mega-Moolah-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mega Moolah Free: Review and Gameplay' ### Meta set: 'Discover the features, pros, and cons of Mega Moolah and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

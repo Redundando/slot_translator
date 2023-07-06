@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "High number of ways to win",
-                    "Jackpot opportunities",
-                    "Multiple bonus features",
-                    "Turbo and Autoplay options"
+                    "Beautiful Caribbean beach theme",
+                    "Large number of ways to win",
+                    "Exciting gameplay features like Cash Falls and Jackpots",
+                    "Opportunity for high payouts"
                 ],
                 "cons": [
                     "High volatility may not suit all players",
-                    "RTP is lower than some other slot games"
+                    "Not available for free play"
                 ],
-                "meta_title": "Play Cash Falls Island Bounty for Free - Review",
-                "meta_description": "Read our neutral review of Cash Falls Island Bounty. Play this online slot game for free and find out about its gameplay features, symbols, and much more."
+                "meta_title": "Play Cash Falls Island Bounty for Free",
+                "meta_description": "Read our review of Cash Falls Island Bounty and play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cash Falls Island Bounty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Falls Island Bounty\n\nCash Falls Island Bounty is an online slot game produced by Light & Wonder, with a Caribbean beach as its main theme. The game grid has 5 reels and variable rows with a total of 4,608 ways to win.\n\nGameplay Features\n\nThe game has a high volatility and a theoretical return to player (RTP) of 95.92%. The minimum bet starts from €0.10 and can go up to a maximum of €50. To speed up the rotation of the reels, players can activate the Turbo by adjusting the slider of the seashell, or activate Autoplay.\n\nSymbols and Functions\n\nThe playing cards from Jack to Ace are the symbols of lower value, while higher sums are obtained thanks to the starfish, crab, and dolphin. The Wild symbol is represented by the yacht, while the Scatter coin comes with a multiplier and stays in place for the next 3 spins. Filling the entire reel with Scatters activates the Cash Falls function, while filling the reel with Mini, Minor, Major, or Mega jackpots award the corresponding jackpot. The bonfire is another Scatter symbol that triggers a variable number of free spins with a chance to add multipliers.\n\nScatter Coin and Jackpots\n\nThe Scatter coin always lands accompanied by a multiplier and stays in place for the next 3 spins. Filling the entire reel with Scatters activates the Cash Falls function, which assigns a sum equal to the total of the multipliers shown on the reel. If the coin appears accompanied by Mini, Minor, Major, or Mega instead of the multiplier, the corresponding jackpot is awarded.\n\nVolatility and RTP\n\nCash Falls Island Bounty has a high volatility and a theoretical return to player (RTP) of 95.92%, which means that players can expect a considerable amount of risk when playing this game. It is worth taking note of the RTP before playing, so you have a good understanding of the game's potential payout.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cash Falls Island Bounty\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCash Falls Island Bounty\n\nCash Falls Island Bounty is an online slot game produced by Light & Wonder, with a Caribbean beach as its main theme. The game grid has 5 reels and variable rows with a total of 4,608 ways to win.\n\nGameplay Features\n\nThe game has a high volatility and a theoretical return to player (RTP) of 95.92%. The minimum bet starts from €0.10 and can go up to a maximum of €50. To speed up the rotation of the reels, players can activate the Turbo by adjusting the slider of the seashell, or activate Autoplay.\n\nSymbols and Functions\n\nThe playing cards from Jack to Ace are the symbols of lower value, while higher sums are obtained thanks to the starfish, crab, and dolphin. The Wild symbol is represented by the yacht, while the Scatter coin comes with a multiplier and stays in place for the next 3 spins. Filling the entire reel with Scatters activates the Cash Falls function, while filling the reel with Mini, Minor, Major, or Mega jackpots award the corresponding jackpot. The bonfire is another Scatter symbol that triggers a variable number of free spins with a chance to add multipliers.\n\nScatter Coin and Jackpots\n\nThe Scatter coin always lands accompanied by a multiplier and stays in place for the next 3 spins. Filling the entire reel with Scatters activates the Cash Falls function, which assigns a sum equal to the total of the multipliers shown on the reel. If the coin appears accompanied by Mini, Minor, Major, or Mega instead of the multiplier, the corresponding jackpot is awarded.\n\nVolatility and RTP\n\nCash Falls Island Bounty has a high volatility and a theoretical return to player (RTP) of 95.92%, which means that players can expect a considerable amount of risk when playing this game. It is worth taking note of the RTP before playing, so you have a good understanding of the game's potential payout.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sr4kfMEPauvsP48E1UqTLM57Jw4w",
+                "id": "chatcmpl-7WPovlf4USGcOnYtlUmnxkPmk5uMg",
                 "object": "chat.completion",
-                "created": 1687111562,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 579,
-                    "completion_tokens": 123,
-                    "total_tokens": 702
-                },
+                "created": 1687960105,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"High number of ways to win\",\n    \"Jackpot opportunities\",\n    \"Multiple bonus features\",\n    \"Turbo and Autoplay options\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit all players\",\n    \"RTP is lower than some other slot games\"\n  ],\n  \"meta_title\": \"Play Cash Falls Island Bounty for Free - Review\",\n  \"meta_description\": \"Read our neutral review of Cash Falls Island Bounty. Play this online slot game for free and find out about its gameplay features, symbols, and much more.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautiful Caribbean beach theme\",\n    \"Large number of ways to win\",\n    \"Exciting gameplay features like Cash Falls and Jackpots\",\n    \"Opportunity for high payouts\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit all players\",\n    \"Not available for free play\"\n  ],\n  \"meta_title\": \"Play Cash Falls Island Bounty for Free\",\n  \"meta_description\": \"Read our review of Cash Falls Island Bounty and play this exciting slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 576,
+                    "completion_tokens": 110,
+                    "total_tokens": 686
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_3.png",
         "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_2.png",
         "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_4.png",
-        "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_1.png"
+        "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_1.png",
+        "arved__Create_a_feature_image_fitting_for_the_game_Cash_Falls_I_760e2d28-36b0-4851-b1ad-a35d318fee0b_3.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Cash Falls Island Bounty (Version 2).webp",
         "game_reviews/processed_images/Cash Falls Island Bounty (Version 4).webp",
-        "game_reviews/processed_images/Cash Falls Island Bounty (Version 3).webp",
         "game_reviews/processed_images/Cash Falls Island Bounty (Version 1).webp",
-        "game_reviews/processed_images/Cash Falls Island Bounty (Version 2).webp"
+        "game_reviews/processed_images/Cash Falls Island Bounty (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/cash-falls-island-bounty.json"
+    "filename": "game_reviews/translations/cash-falls-island-bounty.json",
+    "slug": "cash-falls-island-bounty",
+    "name": "Cash Falls Island Bounty",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cash-Falls-Island-Bounty-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cash Falls Island Bounty for Free' ### Meta set: 'Read our review of Cash Falls Island Bounty and play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

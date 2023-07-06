@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Bonus game with Free Spins and increasing multipliers",
+                    "Bonus game with Free Spins and increasing multiplier",
                     "Optimized for mobile devices",
-                    "Reputable developer with a history of creating online slots",
-                    "Captivating theme and design"
+                    "Reputable developer",
+                    "Various titles available from the developer"
                 ],
                 "cons": [
-                    "Fixed RTP below industry average",
+                    "Below average RTP",
                     "Limited number of paylines"
                 ],
-                "meta_title": "Play Mystery Woods for Free - Pros, Cons, and Gameplay Features",
-                "meta_description": "Discover the pros and cons of playing Mystery Woods, a captivating slot game by 1x2 Gaming that offers a bonus game with Free Spins. Play for free now!"
+                "meta_title": "Play Mystery Woods for Free - Exciting Bonus Game & Mobile Optimized",
+                "meta_description": "Discover the mystery in Mystery Woods, play for free and enjoy the exciting bonus game on mobile."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystery Woods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMystery Woods is a 5-reel, 3-row, 20-payline online slot from 1x2 Gaming. The slot offers a fixed RTP of 94%, which is below the average for the online industry.\n\nBonus Game\n\nMystery Woods has a bonus game that is triggered by landing three Scatter symbols on reels 1, 3, and 5. This starts an adventure with 10 Free Spins and a multiplier that increases by one every time a goal is shown in the Golden Tree symbol function.\n\nRTP\n\nMystery Woods has a fixed RTP of 94%, which is below the average for the online industry.\n\nMobile Optimization\n\nMystery Woods is optimized for mobile devices and can be played on both phones and tablets via a web browser.\n\nDeveloper Reputation\n\n1x2 Gaming is a reputable provider that was founded in the United Kingdom in 2003. The company has created numerous titles for online gaming.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystery Woods\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMystery Woods is a 5-reel, 3-row, 20-payline online slot from 1x2 Gaming. The slot offers a fixed RTP of 94%, which is below the average for the online industry.\n\nBonus Game\n\nMystery Woods has a bonus game that is triggered by landing three Scatter symbols on reels 1, 3, and 5. This starts an adventure with 10 Free Spins and a multiplier that increases by one every time a goal is shown in the Golden Tree symbol function.\n\nRTP\n\nMystery Woods has a fixed RTP of 94%, which is below the average for the online industry.\n\nMobile Optimization\n\nMystery Woods is optimized for mobile devices and can be played on both phones and tablets via a web browser.\n\nDeveloper Reputation\n\n1x2 Gaming is a reputable provider that was founded in the United Kingdom in 2003. The company has created numerous titles for online gaming.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDxyf0BmzPMvYODIa40aXpVaixpM",
+                "id": "chatcmpl-7WYPZCrj60lfhL1wStAt85DsNX0so",
                 "object": "chat.completion",
-                "created": 1687437882,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993129,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Bonus game with Free Spins and increasing multipliers\",\n        \"Optimized for mobile devices\",\n        \"Reputable developer with a history of creating online slots\",\n        \"Captivating theme and design\"\n    ],\n    \"cons\": [\n        \"Fixed RTP below industry average\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Mystery Woods for Free - Pros, Cons, and Gameplay Features\",\n    \"meta_description\": \"Discover the pros and cons of playing Mystery Woods, a captivating slot game by 1x2 Gaming that offers a bonus game with Free Spins. Play for free now!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Bonus game with Free Spins and increasing multiplier\",\n    \"Optimized for mobile devices\",\n    \"Reputable developer\",\n    \"Various titles available from the developer\"\n  ],\n  \"cons\": [\n    \"Below average RTP\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Mystery Woods for Free - Exciting Bonus Game & Mobile Optimized\",\n  \"meta_description\": \"Discover the mystery in Mystery Woods, play for free and enjoy the exciting bonus game on mobile.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 372,
-                    "completion_tokens": 138,
-                    "total_tokens": 510
+                    "prompt_tokens": 369,
+                    "completion_tokens": 113,
+                    "total_tokens": 482
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystery-woods.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Mystery_Woods_slot_game_featu_1a330c90-668c-481d-abad-75c21c1ea81e_4.png",
+        "arved__Create_a_feature_image_for_Mystery_Woods_slot_game_featu_1a330c90-668c-481d-abad-75c21c1ea81e_2.png",
+        "arved__Create_a_feature_image_for_Mystery_Woods_slot_game_featu_1a330c90-668c-481d-abad-75c21c1ea81e_1.png",
+        "arved__Create_a_feature_image_for_Mystery_Woods_slot_game_featu_1a330c90-668c-481d-abad-75c21c1ea81e_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystery Woods (Version 4).webp",
+        "game_reviews/processed_images/Mystery Woods (Version 2).webp",
+        "game_reviews/processed_images/Mystery Woods (Version 3).webp",
+        "game_reviews/processed_images/Mystery Woods (Version 1).webp"
+    ],
+    "slug": "mystery-woods",
+    "name": "Mystery Woods",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystery-Woods-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystery Woods for Free - Exciting Bonus Game & Mobile Optimized' ### Meta set: 'Discover the mystery in Mystery Woods, play for free and enjoy the exciting bonus game on mobile.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

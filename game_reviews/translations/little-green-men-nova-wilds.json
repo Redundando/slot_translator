@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Variety of special functions keeps gameplay exciting",
-                    "Cartoonish graphics and sound fit the sci-fi theme",
-                    "Free spins mode comes with a 5x6 layout",
-                    "Good winning potential with an RTP of 96.17%"
+                    "Exciting and varied gameplay mechanics",
+                    "Cartoonish graphics style with bright colors",
+                    "Alien theme with unique symbols",
+                    "Multiple special functions and free spins"
                 ],
                 "cons": [
-                    "Standard RTP may not appeal to players looking for higher odds",
-                    "Not much variety in symbols beyond the sci-fi theme"
+                    "RTP is average compared to other slots",
+                    "Limited number of paylines"
                 ],
-                "meta_title": "Play Little Green Men Nova Wilds for Free!",
-                "meta_description": "Read our review of Little Green Men Nova Wilds and play for free - enjoy exciting gameplay and a good winning potential with an RTP of 96.17%."
+                "meta_title": "Play Little Green Men Nova Wilds for Free",
+                "meta_description": "Read our review of Little Green Men Nova Wilds and play for free to experience the exciting gameplay and unique alien theme."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Little Green Men Nova Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nLittle Green Men: Nova Wilds is a 5x3 online slot with 20 paylines and an RTP of 96.17%. The symbols include sci-fi objects such as hyper-tech helmets, robots, supercomputers, and laser guns. The playing card symbols are carved like rock on small asteroids. The Bonus symbol is a Scatter that triggers free spins. During free spins, the slot changes to a 5x6 type slot with thirty symbols showing. There are also several special functions that can be triggered randomly.\n\nGraphics and visual style\n\nLittle Green Men: Nova Wilds has a cartoonish graphics style with bright colors and round shapes. The absence of a real grid creates the impression that symbols are floating in space. The representation of the playing card symbols is carved like rock on small asteroids. The sound part is also well-cured with music and sounds that refer to the sci-fi and cartoonish theme of the slot.\n\nTheme and symbols\n\nLittle Green Men: Nova Wilds has an alien theme with symbols that include hyper-tech helmets, robots, supercomputers, and laser guns. The playing card symbols are carved like rock on small asteroids. The Bonus symbol is a spaceship Scatter that triggers free spins. A small green alien with three eyes accompanies players during the game with funny animations that trigger on special combinations.\n\nWinning potential and RTP\n\nLittle Green Men: Nova Wilds has an RTP of 96.17%, which is quite common among the standards of the market. The minimum value is 90%, and the maximum (which is rarely reached) is 99%. There are twenty paylines, and the winnings promised by this slot are not negligible.\n\nBonus and special functions\n\nLittle Green Men: Nova Wilds has several special functions that can be triggered randomly, including Wilds and multipliers. The Bonus symbol is a Scatter that triggers free spins. During free spins, the reels double in length, becoming a 5x6 type slot with thirty symbols showing. These special functions make the gameplay of this slot extremely varied and fun to try.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Little Green Men Nova Wilds\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nLittle Green Men: Nova Wilds is a 5x3 online slot with 20 paylines and an RTP of 96.17%. The symbols include sci-fi objects such as hyper-tech helmets, robots, supercomputers, and laser guns. The playing card symbols are carved like rock on small asteroids. The Bonus symbol is a Scatter that triggers free spins. During free spins, the slot changes to a 5x6 type slot with thirty symbols showing. There are also several special functions that can be triggered randomly.\n\nGraphics and visual style\n\nLittle Green Men: Nova Wilds has a cartoonish graphics style with bright colors and round shapes. The absence of a real grid creates the impression that symbols are floating in space. The representation of the playing card symbols is carved like rock on small asteroids. The sound part is also well-cured with music and sounds that refer to the sci-fi and cartoonish theme of the slot.\n\nTheme and symbols\n\nLittle Green Men: Nova Wilds has an alien theme with symbols that include hyper-tech helmets, robots, supercomputers, and laser guns. The playing card symbols are carved like rock on small asteroids. The Bonus symbol is a spaceship Scatter that triggers free spins. A small green alien with three eyes accompanies players during the game with funny animations that trigger on special combinations.\n\nWinning potential and RTP\n\nLittle Green Men: Nova Wilds has an RTP of 96.17%, which is quite common among the standards of the market. The minimum value is 90%, and the maximum (which is rarely reached) is 99%. There are twenty paylines, and the winnings promised by this slot are not negligible.\n\nBonus and special functions\n\nLittle Green Men: Nova Wilds has several special functions that can be triggered randomly, including Wilds and multipliers. The Bonus symbol is a Scatter that triggers free spins. During free spins, the reels double in length, becoming a 5x6 type slot with thirty symbols showing. These special functions make the gameplay of this slot extremely varied and fun to try.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U1XECm1FeDjvGYF8h4lmKVKmhSRs",
+                "id": "chatcmpl-7WWS8HYtDvTF5hqUe7htIMvtZDsgi",
                 "object": "chat.completion",
-                "created": 1687390096,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687985600,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Variety of special functions keeps gameplay exciting\",\n        \"Cartoonish graphics and sound fit the sci-fi theme\",\n        \"Free spins mode comes with a 5x6 layout\",\n        \"Good winning potential with an RTP of 96.17%\"\n    ],\n    \"cons\": [\n        \"Standard RTP may not appeal to players looking for higher odds\",\n        \"Not much variety in symbols beyond the sci-fi theme\"\n    ],\n    \"meta_title\": \"Play Little Green Men Nova Wilds for Free!\",\n    \"meta_description\": \"Read our review of Little Green Men Nova Wilds and play for free - enjoy exciting gameplay and a good winning potential with an RTP of 96.17%.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exciting and varied gameplay mechanics\",\n    \"Cartoonish graphics style with bright colors\",\n    \"Alien theme with unique symbols\",\n    \"Multiple special functions and free spins\"\n  ],\n  \"cons\": [\n    \"RTP is average compared to other slots\",\n    \"Limited number of paylines\"\n  ],\n  \"meta_title\": \"Play Little Green Men Nova Wilds for Free\",\n  \"meta_description\": \"Read our review of Little Green Men Nova Wilds and play for free to experience the exciting gameplay and unique alien theme.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 603,
-                    "completion_tokens": 153,
-                    "total_tokens": 756
+                    "prompt_tokens": 600,
+                    "completion_tokens": 120,
+                    "total_tokens": 720
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/little-green-men-nova-wilds.json",
+    "raw_feature_images": [
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_fitting_the_g_b5c58124-eccd-41e0-9323-4691dfc667dc_3.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_fitting_the_g_b5c58124-eccd-41e0-9323-4691dfc667dc_2.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_fitting_the_g_b5c58124-eccd-41e0-9323-4691dfc667dc_4.png",
+        "arved__Prompt_for_DALLE_to_create_a_feature_image_fitting_the_g_b5c58124-eccd-41e0-9323-4691dfc667dc_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Little Green Men Nova Wilds (Version 4).webp",
+        "game_reviews/processed_images/Little Green Men Nova Wilds (Version 2).webp",
+        "game_reviews/processed_images/Little Green Men Nova Wilds (Version 3).webp",
+        "game_reviews/processed_images/Little Green Men Nova Wilds (Version 1).webp"
+    ],
+    "slug": "little-green-men-nova-wilds",
+    "name": "Little Green Men Nova Wilds",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Little-Green-Men-Nova-Wilds-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Little Green Men Nova Wilds for Free' ### Meta set: 'Read our review of Little Green Men Nova Wilds and play for free to experience the exciting gameplay and unique alien theme.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

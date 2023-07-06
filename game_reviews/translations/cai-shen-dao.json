@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Thematic symbols related to Chinese culture",
-                    "Cascading reels and 243 pay lines",
-                    "Free spins feature with chances to win more",
-                    "Neutral tone and no FAQ-like content"
+                    "Journey into Chinese culture during Chinese New Year celebrations",
+                    "Cascading reels and plenty of pay lines",
+                    "Thematic symbols and free spins",
+                    "Engaging graphics and theme"
                 ],
                 "cons": [
                     "Graphics may not be hyper-technological",
-                    "Medium volatility may not appeal to all players"
+                    "No FAQ-like content or promotional language"
                 ],
-                "meta_title": "Play Cai Shen Dao Free - Review of Chinese Culture Slot Game",
-                "meta_description": "Experience the joy of Chinese New Year while you play Cai Shen Dao for free. Read our review of this DreamTech Gaming slot that features cascading reels and free spins."
+                "meta_title": "Play Cai Shen Dao for Free - A Journey into Chinese Culture",
+                "meta_description": "Read our review of Cai Shen Dao and experience Chinese culture for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cai Shen Dao\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCai Shen Dao: A Journey into Chinese Culture During Chinese New Year Celebrations\n\nCai Shen Dao is a slot game developed by DreamTech Gaming that offers a journey into Chinese culture during a special period, the New Year, a celebration that is truly felt. During Chinese New Year celebrations, people pray for good luck in the coming year and welcome Cai Shen, the god of fortune.\n\nKey Features of Cai Shen Dao: Cascading Reels and Plenty of Pay Lines\n\nCai Shen Dao is a cascading reel slot machine with a structure of five reels and three rows, and which provides 243 pay lines. For each spin, up to 30 coins can be bet, with the value of the token ranging from one cent to ten euros. The total bet ranges from 30 cents to 300 euros. The theoretical return to the player (RTP) of Cai Shen Dao is 96.09%, while the volatility is medium.\n\nSymbols and Special Functions of Cai Shen Dao: Thematic Icons and Free Spins\n\nCai Shen Dao features entirely thematic symbols, such as the carp, the fan, and a series of amulets of different shapes and colors, all of which are believed to be auspicious. The Wild symbol helps form winning combinations by substituting other symbols except the Scatter. The Scatter symbol, represented by the smiling Cai Shen, triggers 15 free spins when it appears at least three times in any position on the reels. During the free spins, a Cai Shen symbol allows access to different levels of the game, providing even more chances to win.\n\nGraphics and Theme of Cai Shen Dao\n\nWhile the graphics department of Cai Shen Dao may not make hyper-technological graphics its strong point, we appreciate the richness of symbols related to Chinese culture and their wise use for a valid development of the theme, making the game engaging.\n\nNeutral Tone and Removal of FAQ-like Content\n\nThe rewritten review for Cai Shen Dao features a neutral tone of voice and focuses on detailed discussion of the key features, symbols and special functions, and graphics and theme of the game. There are no FAQ-like content or promotional language used.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cai Shen Dao\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nCai Shen Dao: A Journey into Chinese Culture During Chinese New Year Celebrations\n\nCai Shen Dao is a slot game developed by DreamTech Gaming that offers a journey into Chinese culture during a special period, the New Year, a celebration that is truly felt. During Chinese New Year celebrations, people pray for good luck in the coming year and welcome Cai Shen, the god of fortune.\n\nKey Features of Cai Shen Dao: Cascading Reels and Plenty of Pay Lines\n\nCai Shen Dao is a cascading reel slot machine with a structure of five reels and three rows, and which provides 243 pay lines. For each spin, up to 30 coins can be bet, with the value of the token ranging from one cent to ten euros. The total bet ranges from 30 cents to 300 euros. The theoretical return to the player (RTP) of Cai Shen Dao is 96.09%, while the volatility is medium.\n\nSymbols and Special Functions of Cai Shen Dao: Thematic Icons and Free Spins\n\nCai Shen Dao features entirely thematic symbols, such as the carp, the fan, and a series of amulets of different shapes and colors, all of which are believed to be auspicious. The Wild symbol helps form winning combinations by substituting other symbols except the Scatter. The Scatter symbol, represented by the smiling Cai Shen, triggers 15 free spins when it appears at least three times in any position on the reels. During the free spins, a Cai Shen symbol allows access to different levels of the game, providing even more chances to win.\n\nGraphics and Theme of Cai Shen Dao\n\nWhile the graphics department of Cai Shen Dao may not make hyper-technological graphics its strong point, we appreciate the richness of symbols related to Chinese culture and their wise use for a valid development of the theme, making the game engaging.\n\nNeutral Tone and Removal of FAQ-like Content\n\nThe rewritten review for Cai Shen Dao features a neutral tone of voice and focuses on detailed discussion of the key features, symbols and special functions, and graphics and theme of the game. There are no FAQ-like content or promotional language used.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SpAMcx6ZMfNL4svcCiLvJK2QQ2K5",
+                "id": "chatcmpl-7WPbwfn0bvZwg6PklYvHQvlr53RA2",
                 "object": "chat.completion",
-                "created": 1687104222,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 618,
-                    "completion_tokens": 144,
-                    "total_tokens": 762
-                },
+                "created": 1687959300,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Thematic symbols related to Chinese culture\",\n        \"Cascading reels and 243 pay lines\",\n        \"Free spins feature with chances to win more\",\n        \"Neutral tone and no FAQ-like content\"\n    ],\n    \"cons\": [\n        \"Graphics may not be hyper-technological\",\n        \"Medium volatility may not appeal to all players\"\n    ],\n    \"meta_title\": \"Play Cai Shen Dao Free - Review of Chinese Culture Slot Game\",\n    \"meta_description\": \"Experience the joy of Chinese New Year while you play Cai Shen Dao for free. Read our review of this DreamTech Gaming slot that features cascading reels and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Journey into Chinese culture during Chinese New Year celebrations\",\n    \"Cascading reels and plenty of pay lines\",\n    \"Thematic symbols and free spins\",\n    \"Engaging graphics and theme\"\n  ],\n  \"cons\": [\n    \"Graphics may not be hyper-technological\",\n    \"No FAQ-like content or promotional language\"\n  ],\n  \"meta_title\": \"Play Cai Shen Dao for Free - A Journey into Chinese Culture\",\n  \"meta_description\": \"Read our review of Cai Shen Dao and experience Chinese culture for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 615,
+                    "completion_tokens": 121,
+                    "total_tokens": 736
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_4.png",
         "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_3.png",
         "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_1.png",
-        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_2.png",
-        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_4.png"
+        "arved__Prompt_Create_a_fun_and_engaging_feature_image_for_Cai_S_a0c8e632-9524-4e13-bb38-bfee58a485f5_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cai Shen Dao (Version 4).webp",
+        "game_reviews/processed_images/Cai Shen Dao (Version 3).webp",
         "game_reviews/processed_images/Cai Shen Dao (Version 1).webp",
-        "game_reviews/processed_images/Cai Shen Dao (Version 2).webp",
-        "game_reviews/processed_images/Cai Shen Dao (Version 3).webp"
+        "game_reviews/processed_images/Cai Shen Dao (Version 4).webp",
+        "game_reviews/processed_images/Cai Shen Dao (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/cai-shen-dao.json"
+    "filename": "game_reviews/translations/cai-shen-dao.json",
+    "slug": "cai-shen-dao",
+    "name": "Cai Shen Dao",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cai-Shen-Dao-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cai Shen Dao for Free - A Journey into Chinese Culture' ### Meta set: 'Read our review of Cai Shen Dao and experience Chinese culture for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

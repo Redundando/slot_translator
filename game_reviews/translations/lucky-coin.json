@@ -583,36 +583,36 @@
                     "Simple gameplay mechanics",
                     "Opportunities to double winnings",
                     "Decent RTP of 97%",
-                    "Minimalistic style for those who prefer it"
+                    "Attractive option for maximizing winnings"
                 ],
                 "cons": [
                     "Lack of bonus features",
-                    "Not very engaging for players looking for plot twists"
+                    "No dynamic slots or special features"
                 ],
-                "meta_title": "Play Lucky Coin Free: A Simple Game With Opportunities to Double Winnings",
-                "meta_description": "Read our review of Lucky Coin, a simple online slot game with opportunities to double winnings. Play for free and enjoy straightforward gameplay mechanics."
+                "meta_title": "Play Lucky Coin for Free",
+                "meta_description": "Read our review of Lucky Coin and play for free. Discover simple gameplay and decent RTP."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Coin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nThe gameplay mechanics of Lucky Coin are very simple - the player only needs to set the amount of their bet and then spin the coin. The coin can either double or halve the value of the bet, but even when halving the bet, part of the initial bet will still return to the player. There are many opportunities to double winnings, ensuring the player's balance never drops to zero. The mechanism moves along and follows its path, but the reward will have to be manually activated once revealed.\n\nGraphics\n\nThere isn't much to say about the graphics of Lucky Coin - the game features a coin, a pointer to set the value of the bet, and some slot information. The game screen is devoid of frills, eccentric backgrounds, or any other such dynamics. The only animation is that of the coin spinning to simulate a toss. While an accompanying soundtrack could've made the situation livelier, the game confirms what has already been said - it's a very simple game that focuses solely on the outcome.\n\nSimplicity vs. entertainment\n\nLucky Coin is a game that focuses heavily on simplicity in every aspect of gameplay rather than engaging slot dynamics and special bonuses. If you're a minimalist, it might be perfect for you, but if you're looking for an immersive gameplay experience with plenty of plot twists, it might not be the best game for you. Evaluate your play style and see if a Big Win with a double is enough to satisfy your entertainment needs with this title.\n\nRTP\n\nLucky Coin has a decent RTP of 97%, which is higher than the average slot game. This could make it an attractive option for players looking to maximize their winning potential while playing a simple game without too many frills.\n\nLack of bonus features\n\nUnlike other slot games, Lucky Coin lacks any kind of bonus features like free spins, wilds, or scatters. The game's mechanics are straightforward, and the only thing that makes a difference is the amount of money the player decides to bet. Onlyplay opted for a new function in remote machines, with a mechanic devoid of promotions for players, without reels or cascading symbols. This could be a downside for players who enjoy dynamic slots with special features and bonuses.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Coin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nThe gameplay mechanics of Lucky Coin are very simple - the player only needs to set the amount of their bet and then spin the coin. The coin can either double or halve the value of the bet, but even when halving the bet, part of the initial bet will still return to the player. There are many opportunities to double winnings, ensuring the player's balance never drops to zero. The mechanism moves along and follows its path, but the reward will have to be manually activated once revealed.\n\nGraphics\n\nThere isn't much to say about the graphics of Lucky Coin - the game features a coin, a pointer to set the value of the bet, and some slot information. The game screen is devoid of frills, eccentric backgrounds, or any other such dynamics. The only animation is that of the coin spinning to simulate a toss. While an accompanying soundtrack could've made the situation livelier, the game confirms what has already been said - it's a very simple game that focuses solely on the outcome.\n\nSimplicity vs. entertainment\n\nLucky Coin is a game that focuses heavily on simplicity in every aspect of gameplay rather than engaging slot dynamics and special bonuses. If you're a minimalist, it might be perfect for you, but if you're looking for an immersive gameplay experience with plenty of plot twists, it might not be the best game for you. Evaluate your play style and see if a Big Win with a double is enough to satisfy your entertainment needs with this title.\n\nRTP\n\nLucky Coin has a decent RTP of 97%, which is higher than the average slot game. This could make it an attractive option for players looking to maximize their winning potential while playing a simple game without too many frills.\n\nLack of bonus features\n\nUnlike other slot games, Lucky Coin lacks any kind of bonus features like free spins, wilds, or scatters. The game's mechanics are straightforward, and the only thing that makes a difference is the amount of money the player decides to bet. Onlyplay opted for a new function in remote machines, with a mechanic devoid of promotions for players, without reels or cascading symbols. This could be a downside for players who enjoy dynamic slots with special features and bonuses.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U2WzPp55mwjXhhOz00RBazdJbnTz",
+                "id": "chatcmpl-7WWch3UeZRzdYxJHTbeX2DAIkIa6D",
                 "object": "chat.completion",
-                "created": 1687393925,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986255,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Simple gameplay mechanics\",\n        \"Opportunities to double winnings\",\n        \"Decent RTP of 97%\",\n        \"Minimalistic style for those who prefer it\"\n    ],\n    \"cons\": [\n        \"Lack of bonus features\",\n        \"Not very engaging for players looking for plot twists\"\n    ],\n    \"meta_title\": \"Play Lucky Coin Free: A Simple Game With Opportunities to Double Winnings\",\n    \"meta_description\": \"Read our review of Lucky Coin, a simple online slot game with opportunities to double winnings. Play for free and enjoy straightforward gameplay mechanics.\"  \n}"
+                            "content": "{\n   \"pros\": [\n      \"Simple gameplay mechanics\",\n      \"Opportunities to double winnings\",\n      \"Decent RTP of 97%\",\n      \"Attractive option for maximizing winnings\"\n   ],\n   \"cons\": [\n      \"Lack of bonus features\",\n      \"No dynamic slots or special features\"\n   ],\n   \"meta_title\": \"Play Lucky Coin for Free\",\n   \"meta_description\": \"Read our review of Lucky Coin and play for free. Discover simple gameplay and decent RTP.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 629,
-                    "completion_tokens": 127,
-                    "total_tokens": 756
+                    "prompt_tokens": 626,
+                    "completion_tokens": 103,
+                    "total_tokens": 729
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-coin.json",
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Co_b0cccf1e-a2e8-4bbb-a2d5-0cb8a5e48ad1_2.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Co_b0cccf1e-a2e8-4bbb-a2d5-0cb8a5e48ad1_3.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Co_b0cccf1e-a2e8-4bbb-a2d5-0cb8a5e48ad1_1.png",
+        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Lucky_Co_b0cccf1e-a2e8-4bbb-a2d5-0cb8a5e48ad1_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Coin (Version 3).webp",
+        "game_reviews/processed_images/Lucky Coin (Version 2).webp",
+        "game_reviews/processed_images/Lucky Coin (Version 4).webp",
+        "game_reviews/processed_images/Lucky Coin (Version 1).webp"
+    ],
+    "slug": "lucky-coin",
+    "name": "Lucky Coin",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Coin-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Coin for Free' ### Meta set: 'Read our review of Lucky Coin and play for free. Discover simple gameplay and decent RTP.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

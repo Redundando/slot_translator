@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Intuitive and simple gameplay",
-                    "Engaging graphics and storyline",
+                    "Simple and intuitive gameplay",
+                    "Well-crafted and clean graphics",
                     "Thematic symbols and features",
-                    "High potential for winnings"
+                    "High winning potential for experienced players"
                 ],
                 "cons": [
-                    "Medium-high variance",
-                    "Bonus features not frequently triggered"
+                    "Medium-high variance may not appeal to all players",
+                    "Not frequently triggered bonus features"
                 ],
-                "meta_title": "Play Jungle Jim and the Lost Sphinx Free - Game Review",
-                "meta_description": "Read our review of Jungle Jim and the Lost Sphinx - a free online slot game with simple gameplay and high potential winnings. Play now for free!"
+                "meta_title": "Play Jungle Jim and the Lost Sphinx for Free",
+                "meta_description": "Read our review of Jungle Jim and the Lost Sphinx and play this thrilling online slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jungle Jim and the Lost Sphinx\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJungle Jim and the Lost Sphinx has a classic five-reel and 35-payline base game that levels up as you play, with multipliers that increase from 2x to 10x with each level. The gameplay is simple and intuitive, making it accessible for both novice and experienced players.\n\nGraphics\n\nThe graphics in Jungle Jim and the Lost Sphinx are essential but well-crafted and clean. The game is set against a desert landscape at sunset with a temple adorned with hieroglyphics as the backdrop, while the symbols are neatly displayed on the screen.\n\nSymbols and Features\n\nJungle Jim and the Lost Sphinx has an Ancient Egyptian theme with thematic symbols such as the Book of Ra, an amphora, an inlaid box, and a shield. The wild symbol is the explorer Jim himself, which substitutes for all other symbols except for the scatter. The scatter symbol is the game logo and triggers the bonus free spins feature. Along with themed symbols, there are gems of various colors, providing continuity between the previous title and this enhanced version.\n\nWinning Potential\n\nJungle Jim and the Lost Sphinx has a medium-high variance, offering substantial winnings despite not being frequently triggered. The game offers up to 6,250 times the bet amount in free spins, almost twice as much as its predecessor, Jungle Jim and El Dorado, which only offered 3,680x. The potential for winnings in this game is high, making it a game suited for experienced gamblers.\n\nSuitability for Players\n\nJungle Jim and the Lost Sphinx is a game that novice players can easily enjoy as its gameplay is simple and welcoming. However, the game's medium-high variance and potential for significant winnings make it an excellent choice for experienced players looking for a thrilling gaming experience. The engaging graphics and storyline add to the overall appeal of the game, making it a recommended title in the world of online slot games.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jungle Jim and the Lost Sphinx\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJungle Jim and the Lost Sphinx has a classic five-reel and 35-payline base game that levels up as you play, with multipliers that increase from 2x to 10x with each level. The gameplay is simple and intuitive, making it accessible for both novice and experienced players.\n\nGraphics\n\nThe graphics in Jungle Jim and the Lost Sphinx are essential but well-crafted and clean. The game is set against a desert landscape at sunset with a temple adorned with hieroglyphics as the backdrop, while the symbols are neatly displayed on the screen.\n\nSymbols and Features\n\nJungle Jim and the Lost Sphinx has an Ancient Egyptian theme with thematic symbols such as the Book of Ra, an amphora, an inlaid box, and a shield. The wild symbol is the explorer Jim himself, which substitutes for all other symbols except for the scatter. The scatter symbol is the game logo and triggers the bonus free spins feature. Along with themed symbols, there are gems of various colors, providing continuity between the previous title and this enhanced version.\n\nWinning Potential\n\nJungle Jim and the Lost Sphinx has a medium-high variance, offering substantial winnings despite not being frequently triggered. The game offers up to 6,250 times the bet amount in free spins, almost twice as much as its predecessor, Jungle Jim and El Dorado, which only offered 3,680x. The potential for winnings in this game is high, making it a game suited for experienced gamblers.\n\nSuitability for Players\n\nJungle Jim and the Lost Sphinx is a game that novice players can easily enjoy as its gameplay is simple and welcoming. However, the game's medium-high variance and potential for significant winnings make it an excellent choice for experienced players looking for a thrilling gaming experience. The engaging graphics and storyline add to the overall appeal of the game, making it a recommended title in the world of online slot games.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TxJDLUtjmX1Ec6q6aZgJn80NI64y",
+                "id": "chatcmpl-7WVoTRYH1NbZswFMklfbOqkVgQ8gc",
                 "object": "chat.completion",
-                "created": 1687373851,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687983141,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Intuitive and simple gameplay\",\n        \"Engaging graphics and storyline\",\n        \"Thematic symbols and features\",\n        \"High potential for winnings\"\n    ],\n    \"cons\": [\n        \"Medium-high variance\",\n        \"Bonus features not frequently triggered\"\n    ],\n    \"meta_title\": \"Play Jungle Jim and the Lost Sphinx Free - Game Review\",\n    \"meta_description\": \"Read our review of Jungle Jim and the Lost Sphinx - a free online slot game with simple gameplay and high potential winnings. Play now for free!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and intuitive gameplay\",\n    \"Well-crafted and clean graphics\",\n    \"Thematic symbols and features\",\n    \"High winning potential for experienced players\"\n  ],\n  \"cons\": [\n    \"Medium-high variance may not appeal to all players\",\n    \"Not frequently triggered bonus features\"\n  ],\n  \"meta_title\": \"Play Jungle Jim and the Lost Sphinx for Free\",\n  \"meta_description\": \"Read our review of Jungle Jim and the Lost Sphinx and play this thrilling online slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 569,
-                    "completion_tokens": 116,
-                    "total_tokens": 685
+                    "prompt_tokens": 566,
+                    "completion_tokens": 112,
+                    "total_tokens": 678
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jungle-jim-and-the-lost-sphinx.json",
+    "raw_feature_images": [
+        "arved__DALLE_please_create_a_feature_image_for_Jungle_Jim_and_t_d0d6a924-8889-4eff-8feb-6ff6aa95e7c5_2.png",
+        "arved__DALLE_please_create_a_feature_image_for_Jungle_Jim_and_t_d0d6a924-8889-4eff-8feb-6ff6aa95e7c5_1.png",
+        "arved__DALLE_please_create_a_feature_image_for_Jungle_Jim_and_t_d0d6a924-8889-4eff-8feb-6ff6aa95e7c5_3.png",
+        "arved__DALLE_please_create_a_feature_image_for_Jungle_Jim_and_t_d0d6a924-8889-4eff-8feb-6ff6aa95e7c5_4.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jungle Jim And The Lost Sphinx (Version 3).webp",
+        "game_reviews/processed_images/Jungle Jim And The Lost Sphinx (Version 4).webp",
+        "game_reviews/processed_images/Jungle Jim And The Lost Sphinx (Version 1).webp",
+        "game_reviews/processed_images/Jungle Jim And The Lost Sphinx (Version 2).webp"
+    ],
+    "slug": "jungle-jim-and-the-lost-sphinx",
+    "name": "Jungle Jim and the Lost Sphinx",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jungle-Jim-And-The-Lost-Sphinx-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jungle Jim and the Lost Sphinx for Free' ### Meta set: 'Read our review of Jungle Jim and the Lost Sphinx and play this thrilling online slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

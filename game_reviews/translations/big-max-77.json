@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "Classic fruit-themed slot machine",
                     "High RTP of 97.01%",
-                    "Possibility of winning up to 5,000x your bet",
-                    "Gamble bet allows players to increase their chances of winning",
-                    "Mobile compatibility for playing on-the-go"
+                    "Possibility of winning up to 5,000 times your bet",
+                    "Optimized for mobile play"
                 ],
                 "cons": [
-                    "Limited special symbols, with only a Scatter symbol available",
-                    "High volatility means wins may be infrequent"
+                    "High volatility with low frequency wins",
+                    "Limited special symbols"
                 ],
-                "meta_title": "Play Big Max 77 Free - Review & Demo | RTP 97.01%",
-                "meta_description": "Read our unbiased review of Big Max 77, the classic fruit-themed slot game with high volatility and an RTP of 97.01%. Play for free and learn more!"
+                "meta_title": "Play Big Max 77 for Free - Classic Fruit-Themed Slot Game",
+                "meta_description": "In this review, we explore Big Max 77, a classic fruit-themed slot game available for free play."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Big Max 77\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBig Max 77 is a classic fruit-themed slot machine with 5 reels and 10 active paylines. The game has an RTP of 97.01% and high volatility, offering the possibility of winning up to 5,000 times your bet. The gambling range is €0.10 to €100 per round, and the game's extra feature is the Gamble bet. You can play up to 10 games at the same time and boost your chances of winning.\n\nSymbols\n\nThe symbols on Big Max 77's reels are four different types of fruits (cherries, oranges, grapes, lemons, plums, and watermelons) and a red 7. The Scatter symbol - represented by a blazing flame - is the only special symbol of the game.\n\nPaylines\n\nBig Max 77 has 10 active paylines that pay from left to right. Winning combinations are made by landing matching symbols on adjacent reels, beginning from the leftmost reel. The only exception is the Scatter symbol, which pays regardless of fixed paylines.\n\nVolatility\n\nBig Max 77 has high volatility, meaning that the game offers the possibility of big wins but with low frequency. The game's RTP is quite attractive, standing at 97.01%. Players have a chance of winning up to 5,000 times their bet when playing Big Max 77.\n\nMobile Compatibility\n\nPlayers can enjoy Big Max 77 on their mobile devices or tablets, as the game is optimized for mobile play. Thanks to technologies such as HTML5 and JavaScript, players can launch the game in their mobile browser and enjoy a seamless experience wherever they are. Whether players are on-the-go or playing from home, Big Max 77 is available on their preferred device.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Big Max 77\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nBig Max 77 is a classic fruit-themed slot machine with 5 reels and 10 active paylines. The game has an RTP of 97.01% and high volatility, offering the possibility of winning up to 5,000 times your bet. The gambling range is €0.10 to €100 per round, and the game's extra feature is the Gamble bet. You can play up to 10 games at the same time and boost your chances of winning.\n\nSymbols\n\nThe symbols on Big Max 77's reels are four different types of fruits (cherries, oranges, grapes, lemons, plums, and watermelons) and a red 7. The Scatter symbol - represented by a blazing flame - is the only special symbol of the game.\n\nPaylines\n\nBig Max 77 has 10 active paylines that pay from left to right. Winning combinations are made by landing matching symbols on adjacent reels, beginning from the leftmost reel. The only exception is the Scatter symbol, which pays regardless of fixed paylines.\n\nVolatility\n\nBig Max 77 has high volatility, meaning that the game offers the possibility of big wins but with low frequency. The game's RTP is quite attractive, standing at 97.01%. Players have a chance of winning up to 5,000 times their bet when playing Big Max 77.\n\nMobile Compatibility\n\nPlayers can enjoy Big Max 77 on their mobile devices or tablets, as the game is optimized for mobile play. Thanks to technologies such as HTML5 and JavaScript, players can launch the game in their mobile browser and enjoy a seamless experience wherever they are. Whether players are on-the-go or playing from home, Big Max 77 is available on their preferred device.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SelJykd8ZePGNHfDhJcDTnBOc4PM",
+                "id": "chatcmpl-7WOCPrXPPOE40Diz1GhwNakyyPSe2",
                 "object": "chat.completion",
-                "created": 1687064229,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 535,
-                    "completion_tokens": 156,
-                    "total_tokens": 691
-                },
+                "created": 1687953873,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"High RTP of 97.01%\",\n        \"Possibility of winning up to 5,000x your bet\",\n        \"Gamble bet allows players to increase their chances of winning\",\n        \"Mobile compatibility for playing on-the-go\"\n    ],\n    \"cons\": [\n        \"Limited special symbols, with only a Scatter symbol available\",\n        \"High volatility means wins may be infrequent\"\n    ],\n    \"meta_title\": \"Play Big Max 77 Free - Review & Demo | RTP 97.01%\",\n    \"meta_description\": \"Read our unbiased review of Big Max 77, the classic fruit-themed slot game with high volatility and an RTP of 97.01%. Play for free and learn more!\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Classic fruit-themed slot machine\",\n    \"High RTP of 97.01%\",\n    \"Possibility of winning up to 5,000 times your bet\",\n    \"Optimized for mobile play\"\n  ],\n  \"cons\": [\n    \"High volatility with low frequency wins\",\n    \"Limited special symbols\"\n  ],\n  \"meta_title\": \"Play Big Max 77 for Free - Classic Fruit-Themed Slot Game\",\n  \"meta_description\": \"In this review, we explore Big Max 77, a classic fruit-themed slot game available for free play.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 532,
+                    "completion_tokens": 123,
+                    "total_tokens": 655
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/big-max-77.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_1.png",
+        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_3.png",
         "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_2.png",
-        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_4.png",
-        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_3.png"
+        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_1.png",
+        "arved__Create_a_feature_image_for_Big_Max_77_to_use_on_social_m_d9c70d0b-4ab2-4391-81fd-adcd762ab63b_4.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Big Max 77 (Version 4).webp",
         "game_reviews/processed_images/Big Max 77 (Version 2).webp",
-        "game_reviews/processed_images/Big Max 77 (Version 3).webp",
-        "game_reviews/processed_images/Big Max 77 (Version 1).webp"
-    ]
+        "game_reviews/processed_images/Big Max 77 (Version 1).webp",
+        "game_reviews/processed_images/Big Max 77 (Version 3).webp"
+    ],
+    "slug": "big-max-77",
+    "name": "Big Max 77",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Big-Max-77-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Big Max 77 for Free - Classic Fruit-Themed Slot Game' ### Meta set: 'In this review, we explore Big Max 77, a classic fruit-themed slot game available for free play.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

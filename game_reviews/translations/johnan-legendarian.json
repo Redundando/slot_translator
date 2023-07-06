@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
+                    "High volatility and 10 paylines",
                     "Super Bonus feature with 10 free spins",
-                    "Possibility of winning up to 5000 times your bet",
-                    "Great graphics and epic soundtrack",
-                    "High RTP of 96.03%"
+                    "Epic soundtrack and immersive graphics",
+                    "Good chances of winning with extra features"
                 ],
                 "cons": [
-                    "Base game winning potential is not as high",
-                    "Requires patience to unlock bonus features"
+                    "Not as high winning potential in the base game",
+                    "Requires patience to unlock Super Bonus feature"
                 ],
-                "meta_title": "Play Johnan Legendarian for Free - Features Super Bonus and High RTP",
-                "meta_description": "Read our review of Johnan Legendarian, a high volatility slot game with 10 paylines, featuring a Super Bonus and possibility of winning up to 5000x your bet. Play for free."
+                "meta_title": "Play Johnan Legendarian for Free - Review and Features",
+                "meta_description": "Read our review of Johnan Legendarian and play this game for free. Discover its features and winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Johnan Legendarian\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nJohnan Legendarian features a 5×3 gameplay structure with high volatility and 10 paylines. The game has Wild, Scatter, and two bonus games with free spins. The possibility of winning up to 5000 times your bet is also present.\n\nBonus Features\n\nThe Super Bonus is the slot's most interesting feature. It assigns 10 free spins and is obtained only by collecting special Bonus symbols. The game also has a point accumulation mechanism that can lead to 10 Super Free Spins, adding more possibilities for winning.\n\nGraphics and Sound\n\nThe protagonist appears as a \"good-natured\" character, standing out on a dark background with giant wooden columns on both sides. Johnan Legendarian has an epic soundtrack and graphics that marry perfectly together to create an immersive experience.\n\nWinning Potential\n\nWith an RTP of 96.03% and the possibility of winning up to 5000 times your bet, there are good chances of winning with the slot's extra features. It is worth noting that the winning potential is not as high in the base game.\n\nPatience and Accumulation Mechanism\n\nJohnan Legendarian requires patience to unlock its Super Bonus feature. On average, a wait of at least two thousand spins is expected. This accumulation mechanic, through Scatters, provides an extra layer of excitement but is not a guarantee for a quick win.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Johnan Legendarian\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay and Mechanics\n\nJohnan Legendarian features a 5×3 gameplay structure with high volatility and 10 paylines. The game has Wild, Scatter, and two bonus games with free spins. The possibility of winning up to 5000 times your bet is also present.\n\nBonus Features\n\nThe Super Bonus is the slot's most interesting feature. It assigns 10 free spins and is obtained only by collecting special Bonus symbols. The game also has a point accumulation mechanism that can lead to 10 Super Free Spins, adding more possibilities for winning.\n\nGraphics and Sound\n\nThe protagonist appears as a \"good-natured\" character, standing out on a dark background with giant wooden columns on both sides. Johnan Legendarian has an epic soundtrack and graphics that marry perfectly together to create an immersive experience.\n\nWinning Potential\n\nWith an RTP of 96.03% and the possibility of winning up to 5000 times your bet, there are good chances of winning with the slot's extra features. It is worth noting that the winning potential is not as high in the base game.\n\nPatience and Accumulation Mechanism\n\nJohnan Legendarian requires patience to unlock its Super Bonus feature. On average, a wait of at least two thousand spins is expected. This accumulation mechanic, through Scatters, provides an extra layer of excitement but is not a guarantee for a quick win.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TvmK5j6jf4DWWOh5lcKgTE9rW6XR",
+                "id": "chatcmpl-7WVa4MZCKAd9BW7qGTzI0uECV6ZOJ",
                 "object": "chat.completion",
-                "created": 1687367968,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982248,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Super Bonus feature with 10 free spins\",\n        \"Possibility of winning up to 5000 times your bet\",\n        \"Great graphics and epic soundtrack\",\n        \"High RTP of 96.03%\"\n    ],\n    \"cons\": [\n        \"Base game winning potential is not as high\",\n        \"Requires patience to unlock bonus features\"\n    ],\n    \"meta_title\": \"Play Johnan Legendarian for Free - Features Super Bonus and High RTP\",\n    \"meta_description\": \"Read our review of Johnan Legendarian, a high volatility slot game with 10 paylines, featuring a Super Bonus and possibility of winning up to 5000x your bet. Play for free.\" \n}"
+                            "content": "{\n   \"pros\": [\n      \"High volatility and 10 paylines\",\n      \"Super Bonus feature with 10 free spins\",\n      \"Epic soundtrack and immersive graphics\",\n      \"Good chances of winning with extra features\"\n   ],\n   \"cons\": [\n      \"Not as high winning potential in the base game\",\n      \"Requires patience to unlock Super Bonus feature\"\n   ],\n   \"meta_title\": \"Play Johnan Legendarian for Free - Review and Features\",\n   \"meta_description\": \"Read our review of Johnan Legendarian and play this game for free. Discover its features and winning potential.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 463,
-                    "completion_tokens": 152,
-                    "total_tokens": 615
+                    "prompt_tokens": 460,
+                    "completion_tokens": 127,
+                    "total_tokens": 587
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/johnan-legendarian.json",
+    "raw_feature_images": [
+        "arved__Create_an_appealing_feature_image_for_the_game_Johnan_Le_83fd9188-a0ce-4acf-af96-ee0d15085f72_4.png",
+        "arved__Create_an_appealing_feature_image_for_the_game_Johnan_Le_83fd9188-a0ce-4acf-af96-ee0d15085f72_1.png",
+        "arved__Create_an_appealing_feature_image_for_the_game_Johnan_Le_83fd9188-a0ce-4acf-af96-ee0d15085f72_3.png",
+        "arved__Create_an_appealing_feature_image_for_the_game_Johnan_Le_83fd9188-a0ce-4acf-af96-ee0d15085f72_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Johnan Legendarian (Version 2).webp",
+        "game_reviews/processed_images/Johnan Legendarian (Version 3).webp",
+        "game_reviews/processed_images/Johnan Legendarian (Version 4).webp",
+        "game_reviews/processed_images/Johnan Legendarian (Version 1).webp"
+    ],
+    "slug": "johnan-legendarian",
+    "name": "Johnan Legendarian",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Johnan-Legendarian-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Johnan Legendarian for Free - Review and Features' ### Meta set: 'Read our review of Johnan Legendarian and play this game for free. Discover its features and winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

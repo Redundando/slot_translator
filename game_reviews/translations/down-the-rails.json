@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Beautifully designed with detailed graphics",
-                    "Iconic historical figures portrayed as caricatures",
+                    "Interesting theme based on the London subway",
                     "Variety of bonus games and random functions",
-                    "Available on both PC and portable devices"
+                    "Compatible with PC and portable devices"
                 ],
                 "cons": [
-                    "High volatility may not be suitable for all players",
-                    "Limited betting options compared to some other slot games"
+                    "High volatility may not appeal to all players",
+                    "RTP value of 95.58% is slightly below average"
                 ],
                 "meta_title": "Play Down the Rails Free - Review of Pragmatic Play's Slot Game",
-                "meta_description": "Read our review of Down the Rails, the London subway-themed slot game from Pragmatic Play. Play Down the Rails for free and enjoy bonus games and random features."
+                "meta_description": "Read our review of Down the Rails, a beautifully designed slot game by Pragmatic Play. Play for free and experience the London subway-themed gameplay."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Down the Rails\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design\n\nPragmatic Play's Down the Rails is a beautifully designed slot game that reflects perfection in every aspect. The graphics are detailed and the choice of theme, the London subway, is commendable. Iconic characters like Isaac Newton, Winston Churchill, Henry VIII, Florence Nightingale, and William Shakespeare are also portrayed through caricatures in the game.\n\nSymbols and Bonuses\n\nDown the Rails has three main categories of symbols: low level, high level, and bonus. The Wild symbol can substitute for all the other symbols except for the Scatter and bonus symbols. The carriage represents the Scatter, and landing three or more of them triggers one of the four different bonus games: Pentonville, King Cross, Buckingham Palace, and Canary Wharf. Additionally, the End of the Line Bonus game is available, which offers three Respins, cash prizes, extra lives, symbol value increases, expanding reels, and multipliers. There are also random functions available during the base game, such as Tunnel Vision, The Big Smoke, Wild Strike, Shifting Stack, and Bonus Blitz.\n\nGameplay Mechanics\n\nDown the Rails has a classic game grid with 5 reels, 3 rows, and 20 fixed pay lines. The Autoplay function is available and can be customized with win limits. The game has high volatility and an RTP value of 95.58%.\n\nBetting Options\n\nBets can be made with a minimum of €0.20 and a maximum of €100.\n\nDevice Compatibility\n\nDown the Rails is available on both PC and portable devices, including tablets. The game can be found in all the most famous online casinos with AAMS/ADM certification.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Down the Rails\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGame Design\n\nPragmatic Play's Down the Rails is a beautifully designed slot game that reflects perfection in every aspect. The graphics are detailed and the choice of theme, the London subway, is commendable. Iconic characters like Isaac Newton, Winston Churchill, Henry VIII, Florence Nightingale, and William Shakespeare are also portrayed through caricatures in the game.\n\nSymbols and Bonuses\n\nDown the Rails has three main categories of symbols: low level, high level, and bonus. The Wild symbol can substitute for all the other symbols except for the Scatter and bonus symbols. The carriage represents the Scatter, and landing three or more of them triggers one of the four different bonus games: Pentonville, King Cross, Buckingham Palace, and Canary Wharf. Additionally, the End of the Line Bonus game is available, which offers three Respins, cash prizes, extra lives, symbol value increases, expanding reels, and multipliers. There are also random functions available during the base game, such as Tunnel Vision, The Big Smoke, Wild Strike, Shifting Stack, and Bonus Blitz.\n\nGameplay Mechanics\n\nDown the Rails has a classic game grid with 5 reels, 3 rows, and 20 fixed pay lines. The Autoplay function is available and can be customized with win limits. The game has high volatility and an RTP value of 95.58%.\n\nBetting Options\n\nBets can be made with a minimum of €0.20 and a maximum of €100.\n\nDevice Compatibility\n\nDown the Rails is available on both PC and portable devices, including tablets. The game can be found in all the most famous online casinos with AAMS/ADM certification.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T5pUB87duLIwiPlSWbL0iJuKk1On",
+                "id": "chatcmpl-7WRXp76K4xzbS5R6VwyE3pLGVyFy8",
                 "object": "chat.completion",
-                "created": 1687168276,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 515,
-                    "completion_tokens": 145,
-                    "total_tokens": 660
-                },
+                "created": 1687966733,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Beautifully designed with detailed graphics\",\n        \"Iconic historical figures portrayed as caricatures\",\n        \"Variety of bonus games and random functions\",\n        \"Available on both PC and portable devices\"\n    ],\n    \"cons\": [\n        \"High volatility may not be suitable for all players\",\n        \"Limited betting options compared to some other slot games\"\n    ],\n    \"meta_title\": \"Play Down the Rails Free - Review of Pragmatic Play's Slot Game\",\n    \"meta_description\": \"Read our review of Down the Rails, the London subway-themed slot game from Pragmatic Play. Play Down the Rails for free and enjoy bonus games and random features.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Beautifully designed with detailed graphics\",\n    \"Interesting theme based on the London subway\",\n    \"Variety of bonus games and random functions\",\n    \"Compatible with PC and portable devices\"\n  ],\n  \"cons\": [\n    \"High volatility may not appeal to all players\",\n    \"RTP value of 95.58% is slightly below average\"\n  ],\n  \"meta_title\": \"Play Down the Rails Free - Review of Pragmatic Play's Slot Game\",\n  \"meta_description\": \"Read our review of Down the Rails, a beautifully designed slot game by Pragmatic Play. Play for free and experience the London subway-themed gameplay.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 512,
+                    "completion_tokens": 141,
+                    "total_tokens": 653
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_3.png",
         "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_4.png"
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_4.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_2.png",
+        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Down_the_Rai_bbbf9d17-bce1-44b5-adaa-567afec0805c_3.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Down The Rails (Version 2).webp",
-        "game_reviews/processed_images/Down The Rails (Version 3).webp",
         "game_reviews/processed_images/Down The Rails (Version 4).webp",
-        "game_reviews/processed_images/Down The Rails (Version 1).webp"
+        "game_reviews/processed_images/Down The Rails (Version 1).webp",
+        "game_reviews/processed_images/Down The Rails (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/down-the-rails.json"
+    "filename": "game_reviews/translations/down-the-rails.json",
+    "slug": "down-the-rails",
+    "name": "Down the Rails",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Down-The-Rails-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Down the Rails Free - Review of Pragmatic Play's Slot Game' ### Meta set: 'Read our review of Down the Rails, a beautifully designed slot game by Pragmatic Play. Play for free and experience the London subway-themed gameplay.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

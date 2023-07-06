@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "4806 ways to win",
-                    "Affordable minimum bet at €0.40",
-                    "Detailed and colorful graphics",
-                    "Several bonuses and jackpots available"
+                    "Simple and straightforward gameplay",
+                    "Highly detailed and colorful graphics",
+                    "Special symbols and bonuses increase winnings",
+                    "Three variable jackpots to strive for"
                 ],
                 "cons": [
-                    "Only three jackpots available",
-                    "RTP value could be higher"
+                    "Limited number of free spins",
+                    "Jackpots can be difficult to win"
                 ],
-                "meta_title": "Play Cafelito Slot for Free - Review 2021",
-                "meta_description": "Read our review of Cafelito slot game and play for free. Discover the graphics, gameplay, bonuses, RTP value, and jackpots. Start playing now."
+                "meta_title": "Play Cafelito Free- A Slot Game Review",
+                "meta_description": "Read our review of Cafelito, a slot game with simple gameplay and three variable jackpots. Play for free now!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cafelito\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCafelito has a simple and straightforward gameplay with 5 reels and 3 rows, featuring 4806 ways to win. The game pays out winnings from adjacent identical symbol combinations from left to right. Players can choose from a range of affordable bets starting at €0.40.\n\nGraphics\n\nThe graphics in Cafelito are highly detailed and colorful, featuring cute and vibrant coffee beans on a pizza in an imaginary city with a fountain in the center. The game also includes a guitar-playing bean standing in front of a wooden cart with three coffee bags, each indicating a different jackpot.\n\nSpecial Symbols and Bonuses\n\nCafelito features several special symbols and bonuses that can increase winnings, including the Wild symbol, which can substitute for coffee bean symbols. The door symbol triggers the \"Serenade de amor\" bonus round, while the multicolored cup symbol can award players three to eight free spins and two extra reels added to the grid where multiplying symbols appear. There are also several jackpots to strive for, indicated by the number of cart symbols that appear on the first reel.\n\nJackpot\n\nCafelito features three variable jackpots: pequeno, grande, and giant. One cart symbol results in pequeno jackpot, two produce the grande jackpot, and three result in the giant jackpot. Any jackpot winnings are added to the total winnings from that spin. Players can win big by landing the necessary symbols on the reels.\n\nRTP Value\n\nCafelito has a respectable RTP value of 94.58%, which means players have good chances of winning back a portion of their bets. This RTP value ensures fair and enjoyable gameplay for all players.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cafelito\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nCafelito has a simple and straightforward gameplay with 5 reels and 3 rows, featuring 4806 ways to win. The game pays out winnings from adjacent identical symbol combinations from left to right. Players can choose from a range of affordable bets starting at €0.40.\n\nGraphics\n\nThe graphics in Cafelito are highly detailed and colorful, featuring cute and vibrant coffee beans on a pizza in an imaginary city with a fountain in the center. The game also includes a guitar-playing bean standing in front of a wooden cart with three coffee bags, each indicating a different jackpot.\n\nSpecial Symbols and Bonuses\n\nCafelito features several special symbols and bonuses that can increase winnings, including the Wild symbol, which can substitute for coffee bean symbols. The door symbol triggers the \"Serenade de amor\" bonus round, while the multicolored cup symbol can award players three to eight free spins and two extra reels added to the grid where multiplying symbols appear. There are also several jackpots to strive for, indicated by the number of cart symbols that appear on the first reel.\n\nJackpot\n\nCafelito features three variable jackpots: pequeno, grande, and giant. One cart symbol results in pequeno jackpot, two produce the grande jackpot, and three result in the giant jackpot. Any jackpot winnings are added to the total winnings from that spin. Players can win big by landing the necessary symbols on the reels.\n\nRTP Value\n\nCafelito has a respectable RTP value of 94.58%, which means players have good chances of winning back a portion of their bets. This RTP value ensures fair and enjoyable gameplay for all players.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7Sp69WdKCtOyJVWzfArIJOJwRAG2J",
+                "id": "chatcmpl-7WPbKocezn5tyEWhVOcbRMeooFkXX",
                 "object": "chat.completion",
-                "created": 1687103961,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 520,
-                    "completion_tokens": 132,
-                    "total_tokens": 652
-                },
+                "created": 1687959262,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"4806 ways to win\",\n        \"Affordable minimum bet at €0.40\",\n        \"Detailed and colorful graphics\",\n        \"Several bonuses and jackpots available\"\n    ],\n    \"cons\": [\n        \"Only three jackpots available\",\n        \"RTP value could be higher\"\n    ],\n    \"meta_title\": \"Play Cafelito Slot for Free - Review 2021\",\n    \"meta_description\": \"Read our review of Cafelito slot game and play for free. Discover the graphics, gameplay, bonuses, RTP value, and jackpots. Start playing now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and straightforward gameplay\",\n    \"Highly detailed and colorful graphics\",\n    \"Special symbols and bonuses increase winnings\",\n    \"Three variable jackpots to strive for\"\n  ],\n  \"cons\": [\n    \"Limited number of free spins\",\n    \"Jackpots can be difficult to win\"\n  ],\n  \"meta_title\": \"Play Cafelito Free- A Slot Game Review\",\n  \"meta_description\": \"Read our review of Cafelito, a slot game with simple gameplay and three variable jackpots. Play for free now!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 517,
+                    "completion_tokens": 121,
+                    "total_tokens": 638
+                }
             }
         },
         {
@@ -810,16 +810,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_2.png",
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_1.png",
         "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_4.png",
-        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_3.png",
-        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_1.png"
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_2.png",
+        "arved__Create_a_feature_image_for_Cafelito_featuring_a_happy_Ma_21ddfd15-723f-4a58-af1a-4d4ace7fe34c_3.png"
     ],
     "processed_feature_images": [
+        "game_reviews/processed_images/Cafelito (Version 1).webp",
         "game_reviews/processed_images/Cafelito (Version 4).webp",
         "game_reviews/processed_images/Cafelito (Version 2).webp",
-        "game_reviews/processed_images/Cafelito (Version 1).webp",
         "game_reviews/processed_images/Cafelito (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/cafelito.json"
+    "filename": "game_reviews/translations/cafelito.json",
+    "slug": "cafelito",
+    "name": "Cafelito",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cafelito-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cafelito Free- A Slot Game Review' ### Meta set: 'Read our review of Cafelito, a slot game with simple gameplay and three variable jackpots. Play for free now!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

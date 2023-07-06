@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Visually stunning graphics and animations.",
-                    "Up to 294,912 ways to win.",
-                    "Automatic spins up to 1,000.",
-                    "Fair RTP value of 96%."
+                    "Gameplay mechanics and features",
+                    "High-level graphics and visually beautiful underwater scene",
+                    "Music accompanies players throughout the gaming session",
+                    "Special symbols with free spins for added excitement"
                 ],
                 "cons": [
-                    "High volatility may not suit new players.",
-                    "Free spins feature is challenging to trigger."
+                    "High volatility may not be suitable for inexperienced players",
+                    "Limited betting limits with a maximum of €40"
                 ],
-                "meta_title": "Play Atlantean GigaRise for Free - Game Review",
-                "meta_description": "Read our review of Atlantean GigaRise, a visually stunning slot game with up to 294,912 ways to win. Play it for free and learn about its features and betting limits."
+                "meta_title": "Play Atlantean GigaRise",
+                "meta_description": "Read our review of Atlantean GigaRise to play this exciting slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Atlantean GigaRise\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nAtlantean GigaRise has a game grid with 5 reels and up to a maximum of 9 rows, with a minimum bet of €0.20 and a maximum of €40. Each time a trident symbol appears on a reel, it increases by one slot, with up to 294,912 ways to win. The game also allows up to 1,000 automatic spins and has high volatility.\n\nGame graphics and music\n\nThe high-level graphics of the underwater scene in Atlantean GigaRise make it visually beautiful. The background displays the mountains and colonnades as described in Plato's books, and the scene is animated by oxygen bubbles, passing fish, and moving algae. The music also accompanies the players throughout the entire gaming session.\n\nSymbols and their value\n\nPlayers can win by matching at least 3 identical symbols, starting from the left reel, proceeding towards the right. There are 10 regular symbols, with playing cards ten to ace worth less, followed by the amphora, lyre, shield with a dagger, and golden jewel. The game also has two special symbols: the column with the \"Wild\" inscription and the oyster scatter symbol with 80 free spins for landing 5 scatters.\n\nBetting limits and automatic spins\n\nThe minimum bet in Atlantean GigaRise is €0.20, while the maximum bet is €40. Players can activate up to 1000 automatic spins or an infinite number of automatic spins.\n\nVolatility and RTP value\n\nAtlantean GigaRise has high volatility, making it more suited to experienced players. However, the game's RTP value is 96%, providing a fair chance for players to win.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Atlantean GigaRise\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nAtlantean GigaRise has a game grid with 5 reels and up to a maximum of 9 rows, with a minimum bet of €0.20 and a maximum of €40. Each time a trident symbol appears on a reel, it increases by one slot, with up to 294,912 ways to win. The game also allows up to 1,000 automatic spins and has high volatility.\n\nGame graphics and music\n\nThe high-level graphics of the underwater scene in Atlantean GigaRise make it visually beautiful. The background displays the mountains and colonnades as described in Plato's books, and the scene is animated by oxygen bubbles, passing fish, and moving algae. The music also accompanies the players throughout the entire gaming session.\n\nSymbols and their value\n\nPlayers can win by matching at least 3 identical symbols, starting from the left reel, proceeding towards the right. There are 10 regular symbols, with playing cards ten to ace worth less, followed by the amphora, lyre, shield with a dagger, and golden jewel. The game also has two special symbols: the column with the \"Wild\" inscription and the oyster scatter symbol with 80 free spins for landing 5 scatters.\n\nBetting limits and automatic spins\n\nThe minimum bet in Atlantean GigaRise is €0.20, while the maximum bet is €40. Players can activate up to 1000 automatic spins or an infinite number of automatic spins.\n\nVolatility and RTP value\n\nAtlantean GigaRise has high volatility, making it more suited to experienced players. However, the game's RTP value is 96%, providing a fair chance for players to win.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SZbB9itvUlo4M5cY3XZUvxUSzgwD",
+                "id": "chatcmpl-7WNXbwrBW6F9txcsxoDjznzCzoski",
                 "object": "chat.completion",
-                "created": 1687044381,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 536,
-                    "completion_tokens": 147,
-                    "total_tokens": 683
-                },
+                "created": 1687951343,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Visually stunning graphics and animations.\",\n    \"Up to 294,912 ways to win.\",\n    \"Automatic spins up to 1,000.\",\n    \"Fair RTP value of 96%.\"\n  ],\n  \"cons\": [\n    \"High volatility may not suit new players.\",\n    \"Free spins feature is challenging to trigger.\"\n  ],\n  \"meta_title\": \"Play Atlantean GigaRise for Free - Game Review\",\n  \"meta_description\": \"Read our review of Atlantean GigaRise, a visually stunning slot game with up to 294,912 ways to win. Play it for free and learn about its features and betting limits.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Gameplay mechanics and features\",\n    \"High-level graphics and visually beautiful underwater scene\",\n    \"Music accompanies players throughout the gaming session\",\n    \"Special symbols with free spins for added excitement\"\n  ],\n  \"cons\": [\n    \"High volatility may not be suitable for inexperienced players\",\n    \"Limited betting limits with a maximum of €40\"\n  ],\n  \"meta_title\": \"Play Atlantean GigaRise\" ,\n  \"meta_description\": \"Read our review of Atlantean GigaRise to play this exciting slot game for free.\" \n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 533,
+                    "completion_tokens": 124,
+                    "total_tokens": 657
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/atlantean-gigarise.json",
     "raw_feature_images": [
-        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_2.png",
-        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_3.png",
         "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_4.png",
-        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_1.png"
+        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_3.png",
+        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_1.png",
+        "arved__Please_create_a_feature_image_for_Atlantean_GigaRise_tha_7d5f3b66-a79d-435a-bee1-98ba6a4ff6c5_2.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Atlantean Gigarise (Version 3).webp",
         "game_reviews/processed_images/Atlantean Gigarise (Version 4).webp",
-        "game_reviews/processed_images/Atlantean Gigarise (Version 1).webp",
-        "game_reviews/processed_images/Atlantean Gigarise (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Atlantean Gigarise (Version 2).webp",
+        "game_reviews/processed_images/Atlantean Gigarise (Version 1).webp"
+    ],
+    "slug": "atlantean-gigarise",
+    "name": "Atlantean GigaRise",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "Default feature image chosen",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Atlantean GigaRise' ### Meta set: 'Read our review of Atlantean GigaRise to play this exciting slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

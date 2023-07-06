@@ -580,39 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Expanding Wild Symbols increase the chances of winning",
-                    "Mystery Scatter Symbol offers special prize",
-                    "Playable on desktop, mobile, and tablet devices",
-                    "Suitable for fans of traditional fruit slots"
+                    "Simple and classic fruit slot game",
+                    "Expanding wild symbols increase chances of winning",
+                    "Mystery scatter symbol offers special prizes",
+                    "Playable on desktop, mobile, and tablet devices"
                 ],
                 "cons": [
-                    "No bonus features available",
-                    "Limited number of paylines"
+                    "Lacks bonus features"
                 ],
-                "meta_title": "Play Jumping Jokers Free - Review of Novomatic's Classic Fruit Slot",
-                "meta_description": "Read our review of Jumping Jokers by Novomatic, a classic fruit slot game with Expanding Wild Symbols and Mystery Scatter Symbols. Play for free."
+                "meta_title": "Play Jumping Jokers Online for Free",
+                "meta_description": "Read our review of Jumping Jokers and play this classic fruit slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Jumping Jokers\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJumping Jokers by Novomatic is a simple and classic fruit slot game with colorful graphics and 5 reels and 5 fixed paylines. This game is perfect for fans of traditional fruit slots who can do without bonus features.\n\nExpanding Wild Symbols\n\nThe Jumping Joker wild symbol can appear on any of the 5 reels and it expands to fill the entire reel to increase the chances of winning. If the Joker lands on multiple reels, they will all become wild!\n\nMystery Scatter Symbol\n\nThe Golden Crown is the Mystery Scatter symbol in Jumping Jokers. When you land 3 or more crowns, you win a special prize. The size of the prize depends on the number of scatters you land.\n\nBetting Range\n\nJumping Jokers is playable from 40 cents to 100 euros per spin on desktop, mobile, and tablet devices. The payouts range from 0.5x to 100x the bet amount depending on the combination of symbols you land.\n\nAvailability on Different Devices\n\nJumping Jokers is available on desktop, mobile, and tablet devices, making it easy for players to enjoy this classic fruit slot on their preferred device.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Jumping Jokers\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay\n\nJumping Jokers by Novomatic is a simple and classic fruit slot game with colorful graphics and 5 reels and 5 fixed paylines. This game is perfect for fans of traditional fruit slots who can do without bonus features.\n\nExpanding Wild Symbols\n\nThe Jumping Joker wild symbol can appear on any of the 5 reels and it expands to fill the entire reel to increase the chances of winning. If the Joker lands on multiple reels, they will all become wild!\n\nMystery Scatter Symbol\n\nThe Golden Crown is the Mystery Scatter symbol in Jumping Jokers. When you land 3 or more crowns, you win a special prize. The size of the prize depends on the number of scatters you land.\n\nBetting Range\n\nJumping Jokers is playable from 40 cents to 100 euros per spin on desktop, mobile, and tablet devices. The payouts range from 0.5x to 100x the bet amount depending on the combination of symbols you land.\n\nAvailability on Different Devices\n\nJumping Jokers is available on desktop, mobile, and tablet devices, making it easy for players to enjoy this classic fruit slot on their preferred device.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7TwxpmEt7vXEqQ7WjTfZ8c6e9hzu9",
+                "id": "chatcmpl-7WVkzBnnnbbW4LGzNeCFP2IQC7J0z",
                 "object": "chat.completion",
-                "created": 1687372525,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687982925,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Expanding Wild Symbols increase the chances of winning\",\n        \"Mystery Scatter Symbol offers special prize\",\n        \"Playable on desktop, mobile, and tablet devices\",\n        \"Suitable for fans of traditional fruit slots\"\n    ],\n    \"cons\": [\n        \"No bonus features available\",\n        \"Limited number of paylines\"\n    ],\n    \"meta_title\": \"Play Jumping Jokers Free - Review of Novomatic's Classic Fruit Slot\",\n    \"meta_description\": \"Read our review of Jumping Jokers by Novomatic, a classic fruit slot game with Expanding Wild Symbols and Mystery Scatter Symbols. Play for free.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Simple and classic fruit slot game\",\n    \"Expanding wild symbols increase chances of winning\",\n    \"Mystery scatter symbol offers special prizes\",\n    \"Playable on desktop, mobile, and tablet devices\"\n  ],\n  \"cons\": [\n    \"Lacks bonus features\"\n  ],\n  \"meta_title\": \"Play Jumping Jokers Online for Free\",\n  \"meta_description\": \"Read our review of Jumping Jokers and play this classic fruit slot game for free.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 418,
-                    "completion_tokens": 137,
-                    "total_tokens": 555
+                    "prompt_tokens": 415,
+                    "completion_tokens": 105,
+                    "total_tokens": 520
                 }
             }
         },
@@ -811,5 +810,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/jumping-jokers.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_for_Jumping_Jokers_in_a_cartoon_s_6f72f415-7e38-4319-b5ef-5b5b76b56601_4.png",
+        "arved__Create_a_feature_image_for_Jumping_Jokers_in_a_cartoon_s_6f72f415-7e38-4319-b5ef-5b5b76b56601_2.png",
+        "arved__Create_a_feature_image_for_Jumping_Jokers_in_a_cartoon_s_6f72f415-7e38-4319-b5ef-5b5b76b56601_3.png",
+        "arved__Create_a_feature_image_for_Jumping_Jokers_in_a_cartoon_s_6f72f415-7e38-4319-b5ef-5b5b76b56601_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Jumping Jokers (Version 4).webp",
+        "game_reviews/processed_images/Jumping Jokers (Version 2).webp",
+        "game_reviews/processed_images/Jumping Jokers (Version 1).webp",
+        "game_reviews/processed_images/Jumping Jokers (Version 3).webp"
+    ],
+    "slug": "jumping-jokers",
+    "name": "Jumping Jokers",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Jumping-Jokers-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Jumping Jokers Online for Free' ### Meta set: 'Read our review of Jumping Jokers and play this classic fruit slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -814,15 +814,19 @@
     ],
     "filename": "game_reviews/translations/buffalo-toro.json",
     "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_2.png",
         "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_3.png",
+        "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_1.png",
         "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_4.png",
-        "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_1.png"
+        "arved__Create_a_feature_image_for_Buffalo_Toro_The_feature_imag_6c14f62d-e533-4c1c-8276-51853f0a4e92_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Buffalo Toro (Version 2).webp",
         "game_reviews/processed_images/Buffalo Toro (Version 3).webp",
-        "game_reviews/processed_images/Buffalo Toro (Version 1).webp",
-        "game_reviews/processed_images/Buffalo Toro (Version 4).webp"
-    ]
+        "game_reviews/processed_images/Buffalo Toro (Version 2).webp",
+        "game_reviews/processed_images/Buffalo Toro (Version 4).webp",
+        "game_reviews/processed_images/Buffalo Toro (Version 1).webp"
+    ],
+    "slug": "buffalo-toro",
+    "name": "Buffalo Toro",
+    "assume_published": true,
+    "content_status": "Page already has content"
 }

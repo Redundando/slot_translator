@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Stunning graphics and sound design",
-                    "Engaging gameplay with multipliers and classic free spins",
-                    "Aztec-inspired theme adds immersive experience",
-                    "Medium volatility with regular payouts"
+                    "Straightforward gameplay mechanics",
+                    "Excellent graphics and sound effects",
+                    "Immersive theme and design",
+                    "Unique features and charms"
                 ],
                 "cons": [
-                    "Slightly below average RTP at 94.25%",
-                    "Lack of innovative features for experienced slot players"
+                    "Slightly below average RTP",
+                    "Medium volatility"
                 ],
-                "meta_title": "Play Cat Wilde and the Eclipse of the Sun God for Free",
-                "meta_description": "Read our review of Cat Wilde and the Eclipse of the Sun God, a Play'n Go slot game with stunning graphics and medium volatility. Play free now."
+                "meta_title": "Play Cat Wilde and the Eclipse of the Sun God Free",
+                "meta_description": "Read our review of Cat Wilde and the Eclipse of the Sun God and play for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Cat Wilde and the Eclipse of the Sun God\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nThe gameplay in Cat Wilde and the Eclipse of the Sun God is straightforward and simple. The slot machine features a 5-reel grid with 3 rows, and players can activate up to 20 paylines. The slot includes multipliers and classic free spins, which can be activated with scatter symbols. Each time a player hits a winning combination, the winning positions will be destroyed, and the multiplier indicator at the top left will increase. The highest level can multiply the win up to 10 times.\n\nVisual and audio design\n\nAs expected from Play 'n Go, Cat Wilde and the Eclipse of the Sun God boasts excellent graphics and sound effects that truly capture the theme of the game. The vivid, colorful symbols include Cat Wilde and a series of Aztec-inspired icons, all set against the backdrop of an ancient temple and lush vegetation. There is no frame around the classic grid, which emphasizes the artistic graphics of the slot. The music and sound effects immerse the player in the jungle and ruins of South America, and the overall design is both visually appealing and immersive. \n\nSymbols and themes\n\nThe symbols in Cat Wilde and the Eclipse of the Sun God feature a range of Aztec-inspired icons, including playing card letters, a sundial, key, and an emerald skull. The symbols that offer higher payouts include Cat Wilde, the Wild symbol, and the effigies of two ancient Aztec deities, which also in turn resemble the sun and the moon.  This video slot machine explores the themes of treasure hunting and Aztec civilization. \n\nVolatility and RTP\n\nCat Wilde and the Eclipse of the Sun God features an RTP of 94.25%, which is slightly below average. The slot has medium volatility, which means that players can expect payouts at regular intervals. Unlike other slots from Play 'n Go, this video slot machine features a slightly lower RTP but with medium volatility, which makes it less risky. \n\nSimilar games in the series\n\nFans of Cat Wilde can enjoy two other titles in the series called 'Cat Wilde and the Doom of the Dead' and 'Cat Wilde and the Lost Chapter'. The gameplay of the other chapters is similar to 'Cat Wilde and the Eclipse of the Sun God' and feature the same Aztec-inspired theme and stunning graphics. Each slot has its unique features and charms, and they are all worth checking out for fans of the series. \n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Cat Wilde and the Eclipse of the Sun God\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics and features\n\nThe gameplay in Cat Wilde and the Eclipse of the Sun God is straightforward and simple. The slot machine features a 5-reel grid with 3 rows, and players can activate up to 20 paylines. The slot includes multipliers and classic free spins, which can be activated with scatter symbols. Each time a player hits a winning combination, the winning positions will be destroyed, and the multiplier indicator at the top left will increase. The highest level can multiply the win up to 10 times.\n\nVisual and audio design\n\nAs expected from Play 'n Go, Cat Wilde and the Eclipse of the Sun God boasts excellent graphics and sound effects that truly capture the theme of the game. The vivid, colorful symbols include Cat Wilde and a series of Aztec-inspired icons, all set against the backdrop of an ancient temple and lush vegetation. There is no frame around the classic grid, which emphasizes the artistic graphics of the slot. The music and sound effects immerse the player in the jungle and ruins of South America, and the overall design is both visually appealing and immersive. \n\nSymbols and themes\n\nThe symbols in Cat Wilde and the Eclipse of the Sun God feature a range of Aztec-inspired icons, including playing card letters, a sundial, key, and an emerald skull. The symbols that offer higher payouts include Cat Wilde, the Wild symbol, and the effigies of two ancient Aztec deities, which also in turn resemble the sun and the moon.  This video slot machine explores the themes of treasure hunting and Aztec civilization. \n\nVolatility and RTP\n\nCat Wilde and the Eclipse of the Sun God features an RTP of 94.25%, which is slightly below average. The slot has medium volatility, which means that players can expect payouts at regular intervals. Unlike other slots from Play 'n Go, this video slot machine features a slightly lower RTP but with medium volatility, which makes it less risky. \n\nSimilar games in the series\n\nFans of Cat Wilde can enjoy two other titles in the series called 'Cat Wilde and the Doom of the Dead' and 'Cat Wilde and the Lost Chapter'. The gameplay of the other chapters is similar to 'Cat Wilde and the Eclipse of the Sun God' and feature the same Aztec-inspired theme and stunning graphics. Each slot has its unique features and charms, and they are all worth checking out for fans of the series. \n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SrxEosK2tlDAwUNDIUJMnbl86E7n",
+                "id": "chatcmpl-7WPvpbhBOfoQQ9snEXMeOMWNJaZmw",
                 "object": "chat.completion",
-                "created": 1687114940,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 673,
-                    "completion_tokens": 139,
-                    "total_tokens": 812
-                },
+                "created": 1687960533,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Stunning graphics and sound design\",\n        \"Engaging gameplay with multipliers and classic free spins\",\n        \"Aztec-inspired theme adds immersive experience\",\n        \"Medium volatility with regular payouts\"\n    ],\n    \"cons\": [\n        \"Slightly below average RTP at 94.25%\",\n        \"Lack of innovative features for experienced slot players\"\n    ],\n    \"meta_title\": \"Play Cat Wilde and the Eclipse of the Sun God for Free\",\n    \"meta_description\": \"Read our review of Cat Wilde and the Eclipse of the Sun God, a Play'n Go slot game with stunning graphics and medium volatility. Play free now.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Straightforward gameplay mechanics\",\n    \"Excellent graphics and sound effects\",\n    \"Immersive theme and design\",\n    \"Unique features and charms\"\n  ],\n  \"cons\": [\n    \"Slightly below average RTP\",\n    \"Medium volatility\"\n  ],\n  \"meta_title\": \"Play Cat Wilde and the Eclipse of the Sun God Free\",\n  \"meta_description\": \"Read our review of Cat Wilde and the Eclipse of the Sun God and play for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 670,
+                    "completion_tokens": 103,
+                    "total_tokens": 773
+                }
             }
         },
         {
@@ -813,10 +813,10 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_3.png",
-        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_1.png",
         "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_2.png",
-        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_4.png"
+        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_3.png",
+        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_4.png",
+        "arved__Please_create_a_feature_image_for_Cat_Wilde_and_the_Ecli_a060e2c4-c841-42e3-ac66-76f075c99ee9_1.png"
     ],
     "processed_feature_images": [
         "game_reviews/processed_images/Cat Wilde And The Eclipse Of The Sun God (Version 3).webp",
@@ -824,5 +824,14 @@
         "game_reviews/processed_images/Cat Wilde And The Eclipse Of The Sun God (Version 1).webp",
         "game_reviews/processed_images/Cat Wilde And The Eclipse Of The Sun God (Version 4).webp"
     ],
-    "filename": "game_reviews/translations/cat-wilde-and-the-eclipse-of-the-sun-god.json"
+    "filename": "game_reviews/translations/cat-wilde-and-the-eclipse-of-the-sun-god.json",
+    "slug": "cat-wilde-and-the-eclipse-of-the-sun-god",
+    "name": "Cat Wilde and the Eclipse of the Sun God",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Cat-Wilde-And-The-Eclipse-Of-The-Sun-God-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Cat Wilde and the Eclipse of the Sun God Free' ### Meta set: 'Read our review of Cat Wilde and the Eclipse of the Sun God and play for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

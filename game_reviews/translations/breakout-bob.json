@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_3.png",
         "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_4.png",
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_1.png",
-        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_2.png"
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_3.png",
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_2.png",
+        "arved__Create_a_feature_image_that_captures_the_excitement_and__da1dd244-5dbd-4a20-8d4a-7148ae6e7579_1.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Breakout Bob (Version 1).webp",
         "game_reviews/processed_images/Breakout Bob (Version 3).webp",
-        "game_reviews/processed_images/Breakout Bob (Version 2).webp",
-        "game_reviews/processed_images/Breakout Bob (Version 4).webp"
+        "game_reviews/processed_images/Breakout Bob (Version 1).webp",
+        "game_reviews/processed_images/Breakout Bob (Version 4).webp",
+        "game_reviews/processed_images/Breakout Bob (Version 2).webp"
     ],
-    "filename": "game_reviews/translations/breakout-bob.json"
+    "filename": "game_reviews/translations/breakout-bob.json",
+    "slug": "breakout-bob",
+    "name": "Breakout Bob",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Breakout-Bob-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Breakout Bob and Win Big for Free | Review' ### Meta set: 'Read our review of Breakout Bob and play for free. Enjoy stunning graphics and bonus features as you help Bob escape the prison and win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

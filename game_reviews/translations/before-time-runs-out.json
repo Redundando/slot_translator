@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Atmospheric design that immerses players in oriental culture",
-                    "Unique mechanics of dueling that can transform regular symbols into Wild",
-                    "Fixed lines ensure constant chances for winning combinations",
-                    "Wide range of bonus games and free spins"
+                    "Well-designed symbols and background",
+                    "Atmospheric soundtrack",
+                    "Range of bonus games",
+                    "Free spins with extra spin awards"
                 ],
                 "cons": [
-                    "Limited paylines may not appeal to players who prefer more options",
-                    "High variance may lead to long stretches of play without significant wins"
+                    "Limited number of paylines",
+                    "High cost per token"
                 ],
-                "meta_title": "Play Before Time Runs Out for free today!",
-                "meta_description": "Read our review of Before Time Runs Out, an immersive slot game set in oriental culture, and play for free with exciting bonus games and free spins."
+                "meta_title": "Play Before Time Runs Out Free",
+                "meta_description": "Review of Before Time Runs Out - Play this slot game for free and enjoy bonus games and free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Before Time Runs Out\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNeutral Review: Before Time Runs Out\n\nBefore Time Runs Out is a slot game produced by Habanero, with an atmosphere that takes players on a journey through one of the tales in 'One Thousand and One Nights'. The symbols and background are excellently designed, and the soundtrack is typical of oriental culture.\n\nGame Features\n\nThe game features 5 reels and 4 rows, with players winning by creating winning combinations both horizontally and vertically. There are 15 fixed lines, with each token costing between €0.01 and €20.00. The game has a jackpot which can be randomly awarded, with an RTP of 96.72%.\n\nSymbol Payouts\n\nThere are 7 regular symbols in Before Time Runs Out, with the lower ones represented by copper, silver, and gold coins, and the higher ones featuring the scimitar, vizier, prince, and princess. The symbols of the prince and vizier give rise to duels, which can transform some regular symbols into Wild. The Wild symbol is paying and worth as much as the princess, and the Scatter symbol rewards players with free spins.\n\nBonus Games\n\nBefore Time Runs Out offers players a range of bonus games. The duels between the prince and the vizier can transform regular symbols into Wild, and the Scatter symbol grants free spins. If a duel starts during the bonus game, each prince's victory adds a gem to the ranking, with a prize of 1,000,000 coins for players who win 6 gems.\n\nFree Spins\n\nDuring free spins, two vials may appear, one blue and one pink, which can award 1 to 5 extra spins. The game rewards players with free spins ranging from 10 to 50, depending on the number of Scatter symbols landed on the reels.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Before Time Runs Out\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nNeutral Review: Before Time Runs Out\n\nBefore Time Runs Out is a slot game produced by Habanero, with an atmosphere that takes players on a journey through one of the tales in 'One Thousand and One Nights'. The symbols and background are excellently designed, and the soundtrack is typical of oriental culture.\n\nGame Features\n\nThe game features 5 reels and 4 rows, with players winning by creating winning combinations both horizontally and vertically. There are 15 fixed lines, with each token costing between €0.01 and €20.00. The game has a jackpot which can be randomly awarded, with an RTP of 96.72%.\n\nSymbol Payouts\n\nThere are 7 regular symbols in Before Time Runs Out, with the lower ones represented by copper, silver, and gold coins, and the higher ones featuring the scimitar, vizier, prince, and princess. The symbols of the prince and vizier give rise to duels, which can transform some regular symbols into Wild. The Wild symbol is paying and worth as much as the princess, and the Scatter symbol rewards players with free spins.\n\nBonus Games\n\nBefore Time Runs Out offers players a range of bonus games. The duels between the prince and the vizier can transform regular symbols into Wild, and the Scatter symbol grants free spins. If a duel starts during the bonus game, each prince's victory adds a gem to the ranking, with a prize of 1,000,000 coins for players who win 6 gems.\n\nFree Spins\n\nDuring free spins, two vials may appear, one blue and one pink, which can award 1 to 5 extra spins. The game rewards players with free spins ranging from 10 to 50, depending on the number of Scatter symbols landed on the reels.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SdSz29uUS3IZKnRv1cLN1jCotk9z",
+                "id": "chatcmpl-7WO26tYuaC43ogbsmQWi6OiBDia4n",
                 "object": "chat.completion",
-                "created": 1687059249,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 543,
-                    "completion_tokens": 153,
-                    "total_tokens": 696
-                },
+                "created": 1687953234,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Atmospheric design that immerses players in oriental culture\",\n        \"Unique mechanics of dueling that can transform regular symbols into Wild\",\n        \"Fixed lines ensure constant chances for winning combinations\",\n        \"Wide range of bonus games and free spins\"\n    ],\n    \"cons\": [\n        \"Limited paylines may not appeal to players who prefer more options\",\n        \"High variance may lead to long stretches of play without significant wins\"\n    ],\n    \"meta_title\": \"Play Before Time Runs Out for free today!\",\n    \"meta_description\": \"Read our review of Before Time Runs Out, an immersive slot game set in oriental culture, and play for free with exciting bonus games and free spins.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Well-designed symbols and background\",\n    \"Atmospheric soundtrack\",\n    \"Range of bonus games\",\n    \"Free spins with extra spin awards\"\n  ],\n  \"cons\": [\n    \"Limited number of paylines\",\n    \"High cost per token\"\n  ],\n  \"meta_title\": \"Play Before Time Runs Out Free\",\n  \"meta_description\": \"Review of Before Time Runs Out - Play this slot game for free and enjoy bonus games and free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 540,
+                    "completion_tokens": 103,
+                    "total_tokens": 643
+                }
             }
         },
         {
@@ -814,15 +814,24 @@
     ],
     "filename": "game_reviews/translations/before-time-runs-out.json",
     "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_4.png",
         "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_1.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_2.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_3.png"
+        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_4.png",
+        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_3.png",
+        "arved__Prompt_Create_a_feature_image_for_the_game_Before_Time_R_1eb61a6e-f6b0-4b73-9ad2-8cc512fdc420_2.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Before Time Runs Out (Version 1).webp",
-        "game_reviews/processed_images/Before Time Runs Out (Version 4).webp",
         "game_reviews/processed_images/Before Time Runs Out (Version 3).webp",
+        "game_reviews/processed_images/Before Time Runs Out (Version 4).webp",
+        "game_reviews/processed_images/Before Time Runs Out (Version 1).webp",
         "game_reviews/processed_images/Before Time Runs Out (Version 2).webp"
-    ]
+    ],
+    "slug": "before-time-runs-out",
+    "name": "Before Time Runs Out",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Before-Time-Runs-Out-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Before Time Runs Out Free' ### Meta set: 'Review of Before Time Runs Out - Play this slot game for free and enjoy bonus games and free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

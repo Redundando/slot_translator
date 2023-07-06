@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Engaging theme and graphics",
-                    "Easy-to-understand gameplay",
-                    "Money symbols and three jackpots offer increased payout potential",
-                    "Free spins and different animal symbols add to the excitement"
+                    "Engaging American history and native legends theme",
+                    "Aesthetically pleasing graphics with accurate colors and contrasts",
+                    "Inclusion of Money symbols and three jackpots for increased payout potential",
+                    "Engaging soundtrack with animal sounds and music"
                 ],
                 "cons": [
                     "No 3D animations or special effects",
-                    "Relatively low maximum payout compared to other online slot games"
+                    "Limited number of paylines (25)"
                 ],
-                "meta_title": "Play Wolf Gold Free: Exciting American Themed Slot Game",
-                "meta_description": "Explore the American wilderness and win big with Wolf Gold! Play for free and trigger free spins and jackpots in this exciting online slot game."
+                "meta_title": "Play Wolf Gold Online for Free",
+                "meta_description": "Read our review of Wolf Gold, an engaging online slot game with free spins and jackpots. Play for free!"
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Wolf Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme and Graphics\n\nWolf Gold by Pragmatic Play offers an American history and native legends theme, with a beautiful desert backdrop and accurate colors and contrasts. There are no 3D animations or special effects, but the engaging soundtrack includes animal sounds and music. Overall, the graphics are aesthetically pleasing and captivating.\n\nSymbols\n\nWolf Gold has both themed and non-themed symbols, including playing cards from J to Ace and various animals such as eagles, wild horses, pumas, and bison. The wolf is the Wild symbol and can replace all other symbols except for the Scatter. The Scatter symbol is represented by a desert landscape and triggers many free spins.\n\nSpecial Features\n\nWolf Gold features Money symbols, which are blue spheres that indicate cash prizes and can lead to the game's Mini, Major, and Mega jackpots. If six or more Money symbols appear on the reels, a series of free spins will activate, paying out all winning combinations on a single payline, and including values from the Money symbols in the final payout count.\n\nPayouts\n\nWith a maximum payout of X 200 times the bet, Wolf Gold has a medium volatility and a Return to Player (RTP) rate of 96%. The different animal symbols have varying values when forming a winning combination, and the Money symbols can lead to the game's three jackpots: Mini, Major, and Mega.\n\nGameplay\n\nWolf Gold has five reels and 25 paylines, with a minimum bet amount of €0.25 and a maximum bet amount of €125. The game has an engaging soundtrack and beautiful graphics, with the Wolf symbol acting as the game's joker and the Scatter symbol triggering free spins. The addition of Money symbols and the three jackpots add excitement and increased payout potential to the game.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Wolf Gold\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nTheme and Graphics\n\nWolf Gold by Pragmatic Play offers an American history and native legends theme, with a beautiful desert backdrop and accurate colors and contrasts. There are no 3D animations or special effects, but the engaging soundtrack includes animal sounds and music. Overall, the graphics are aesthetically pleasing and captivating.\n\nSymbols\n\nWolf Gold has both themed and non-themed symbols, including playing cards from J to Ace and various animals such as eagles, wild horses, pumas, and bison. The wolf is the Wild symbol and can replace all other symbols except for the Scatter. The Scatter symbol is represented by a desert landscape and triggers many free spins.\n\nSpecial Features\n\nWolf Gold features Money symbols, which are blue spheres that indicate cash prizes and can lead to the game's Mini, Major, and Mega jackpots. If six or more Money symbols appear on the reels, a series of free spins will activate, paying out all winning combinations on a single payline, and including values from the Money symbols in the final payout count.\n\nPayouts\n\nWith a maximum payout of X 200 times the bet, Wolf Gold has a medium volatility and a Return to Player (RTP) rate of 96%. The different animal symbols have varying values when forming a winning combination, and the Money symbols can lead to the game's three jackpots: Mini, Major, and Mega.\n\nGameplay\n\nWolf Gold has five reels and 25 paylines, with a minimum bet amount of €0.25 and a maximum bet amount of €125. The game has an engaging soundtrack and beautiful graphics, with the Wolf symbol acting as the game's joker and the Scatter symbol triggering free spins. The addition of Money symbols and the three jackpots add excitement and increased payout potential to the game.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7QIRY6Jp413g0wa17sTYOAUc8UJJJ",
+                "id": "chatcmpl-7WiA6zFj4qOxJkG7GAPBr5CTi7zo3",
                 "object": "chat.completion",
-                "created": 1686501780,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 542,
-                    "completion_tokens": 140,
-                    "total_tokens": 682
-                },
+                "created": 1688030610,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Engaging theme and graphics\",\n        \"Easy-to-understand gameplay\",\n        \"Money symbols and three jackpots offer increased payout potential\",\n        \"Free spins and different animal symbols add to the excitement\"\n    ],\n    \"cons\": [\n        \"No 3D animations or special effects\",\n        \"Relatively low maximum payout compared to other online slot games\"\n    ],\n    \"meta_title\": \"Play Wolf Gold Free: Exciting American Themed Slot Game\",\n    \"meta_description\": \"Explore the American wilderness and win big with Wolf Gold! Play for free and trigger free spins and jackpots in this exciting online slot game.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Engaging American history and native legends theme\",\n    \"Aesthetically pleasing graphics with accurate colors and contrasts\",\n    \"Inclusion of Money symbols and three jackpots for increased payout potential\",\n    \"Engaging soundtrack with animal sounds and music\"\n  ],\n  \"cons\": [\n    \"No 3D animations or special effects\",\n    \"Limited number of paylines (25)\"\n  ],\n  \"meta_title\": \"Play Wolf Gold Online for Free\",\n  \"meta_description\": \"Read our review of Wolf Gold, an engaging online slot game with free spins and jackpots. Play for free!\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 539,
+                    "completion_tokens": 134,
+                    "total_tokens": 673
+                }
             }
         },
         {
@@ -813,6 +813,29 @@
         }
     ],
     "filename": "game_reviews/translations/wolf-gold.json",
-    "raw_feature_images": [],
-    "processed_feature_images": []
+    "raw_feature_images": [
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2e4cacd9-e060-4e3a-971e-0dfd0e200cae_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2e4cacd9-e060-4e3a-971e-0dfd0e200cae_1.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2e4cacd9-e060-4e3a-971e-0dfd0e200cae_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2c6cb694-ce60-4a54-8845-1326fdb6bdf5_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2c6cb694-ce60-4a54-8845-1326fdb6bdf5_2.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2e4cacd9-e060-4e3a-971e-0dfd0e200cae_4.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2c6cb694-ce60-4a54-8845-1326fdb6bdf5_3.png",
+        "arved__Prompt_Create_a_feature_image_for_Wolf_Gold_that_feature_2c6cb694-ce60-4a54-8845-1326fdb6bdf5_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Wolf Gold (Version 6).webp",
+        "game_reviews/processed_images/Wolf Gold (Version 5).webp",
+        "game_reviews/processed_images/Wolf Gold (Version 8).webp",
+        "game_reviews/processed_images/Wolf Gold (Version 7).webp"
+    ],
+    "slug": "wolf-gold",
+    "name": "Wolf Gold",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Wolf-Gold-Version-8-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Wolf Gold Online for Free' ### Meta set: 'Read our review of Wolf Gold, an engaging online slot game with free spins and jackpots. Play for free!'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

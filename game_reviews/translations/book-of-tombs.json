@@ -580,40 +580,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exceptional graphics with an Egyptian theme",
-                    "High maximum payout of over 5,500x the initial bet",
-                    "Free spin bonus with expanding symbols increases chances of winning",
-                    "Game has high volatility for big payouts"
+                    "Exceptional graphics and sound design",
+                    "Rich Egyptian theme with a sense of grandeur",
+                    "High volatility with rare but big payouts",
+                    "Exciting Free Spin Bonus with expanding symbols"
                 ],
                 "cons": [
-                    "Limited background music and sound effects",
-                    "Only 10 fixed paylines"
+                    "Limited acoustic effects",
+                    "Requires at least 2 adjacent symbols for a winning combination"
                 ],
-                "meta_title": "Play Book of Tombs Free - Egyptian-themed Slot Game",
-                "meta_description": "Read our review of Book of Tombs, an Egyptian-themed slot game. Play for free and enjoy exceptional graphics, high maximum payouts and a free spin bonus."
+                "meta_title": "Play Book of Tombs Free - Exciting Egyptian Slot Game",
+                "meta_description": "Read our review of Book of Tombs and play this exciting Egyptian slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Book of Tombs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBook of Tombs is a 5x3 slot game with 10 fixed paylines and a total bet of €0.10 to €75. Winning combinations start with at least 2 adjacent identical symbols from left to right. Players can set up to 1,000 automatic spins and the game has high volatility with an RTP of 95.42%.\n\nGame graphics and sound design\n\nBook of Tombs features exceptional graphics with a resolution comparable to the best animated films. The game has a rich Egyptian theme, set within a pyramid and adorned with statues of Anubis. The color gold is predominantly utilized throughout the game to evoke a sense of grandeur and luxury. The background music is mysterious but non-invasive, while the acoustic effects are limited to winning combinations.\n\nSymbol and payline overview\n\nBook of Tombs offers both minor and major symbols. The minor symbols are represented by playing cards from 10 to Ace while the major symbols include a vase, a sarcophagus, a statue of the god Anubis, and an explorer. To win, players need at least 2 adjacent identical symbols from left to right. The maximum payout is €1.20 if 5 identical playing cards appear. The Wild and Scatter symbol is represented by the magical book and can replace all symbols except for the expanding ones. The game has 10 fixed paylines.\n\nBetting range and volatility\n\nBook of Tombs has a total bet range of €0.10 to €75. The maximum payout is over 5,500x the initial bet. With high volatility and an RTP of 95.42%, players can expect rare but big payouts.\n\nSpecial features and bonuses\n\nThe magical book symbol is both the Wild and Scatter of the game. In the event of a Free Spin Bonus, 8 free spins are awarded, and before the bonus game starts, an expanding symbol is randomly chosen. This symbol covers the entire reel, increasing the possibility of winning combinations. It is possible to have up to 9 different expanding symbols. If during the Free Spin Bonus, another 3 Scatter symbols appear, players can claim 8 additional free spins.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Book of Tombs\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBook of Tombs is a 5x3 slot game with 10 fixed paylines and a total bet of €0.10 to €75. Winning combinations start with at least 2 adjacent identical symbols from left to right. Players can set up to 1,000 automatic spins and the game has high volatility with an RTP of 95.42%.\n\nGame graphics and sound design\n\nBook of Tombs features exceptional graphics with a resolution comparable to the best animated films. The game has a rich Egyptian theme, set within a pyramid and adorned with statues of Anubis. The color gold is predominantly utilized throughout the game to evoke a sense of grandeur and luxury. The background music is mysterious but non-invasive, while the acoustic effects are limited to winning combinations.\n\nSymbol and payline overview\n\nBook of Tombs offers both minor and major symbols. The minor symbols are represented by playing cards from 10 to Ace while the major symbols include a vase, a sarcophagus, a statue of the god Anubis, and an explorer. To win, players need at least 2 adjacent identical symbols from left to right. The maximum payout is €1.20 if 5 identical playing cards appear. The Wild and Scatter symbol is represented by the magical book and can replace all symbols except for the expanding ones. The game has 10 fixed paylines.\n\nBetting range and volatility\n\nBook of Tombs has a total bet range of €0.10 to €75. The maximum payout is over 5,500x the initial bet. With high volatility and an RTP of 95.42%, players can expect rare but big payouts.\n\nSpecial features and bonuses\n\nThe magical book symbol is both the Wild and Scatter of the game. In the event of a Free Spin Bonus, 8 free spins are awarded, and before the bonus game starts, an expanding symbol is randomly chosen. This symbol covers the entire reel, increasing the possibility of winning combinations. It is possible to have up to 9 different expanding symbols. If during the Free Spin Bonus, another 3 Scatter symbols appear, players can claim 8 additional free spins.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SlP9Seu389cFqek37TdBPScZtBNd",
+                "id": "chatcmpl-7WPE3FTvxJTPNi0ZxhcplOFibpxj7",
                 "object": "chat.completion",
-                "created": 1687089763,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 617,
-                    "completion_tokens": 141,
-                    "total_tokens": 758
-                },
+                "created": 1687957819,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exceptional graphics with an Egyptian theme\",\n        \"High maximum payout of over 5,500x the initial bet\",\n        \"Free spin bonus with expanding symbols increases chances of winning\",\n        \"Game has high volatility for big payouts\"\n    ],\n    \"cons\": [\n        \"Limited background music and sound effects\",\n        \"Only 10 fixed paylines\"\n    ],\n    \"meta_title\": \"Play Book of Tombs Free - Egyptian-themed Slot Game\",\n    \"meta_description\": \"Read our review of Book of Tombs, an Egyptian-themed slot game. Play for free and enjoy exceptional graphics, high maximum payouts and a free spin bonus.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Exceptional graphics and sound design\",\n    \"Rich Egyptian theme with a sense of grandeur\",\n    \"High volatility with rare but big payouts\",\n    \"Exciting Free Spin Bonus with expanding symbols\"\n  ],\n  \"cons\": [\n    \"Limited acoustic effects\",\n    \"Requires at least 2 adjacent symbols for a winning combination\"\n  ],\n  \"meta_title\": \"Play Book of Tombs Free - Exciting Egyptian Slot Game\",\n  \"meta_description\": \"Read our review of Book of Tombs and play this exciting Egyptian slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 614,
+                    "completion_tokens": 122,
+                    "total_tokens": 736
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_3.png",
         "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_1.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_3.png",
+        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_2.png",
         "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Book Of Tombs (Version 4).webp",
         "game_reviews/processed_images/Book Of Tombs (Version 1).webp",
-        "game_reviews/processed_images/Book Of Tombs (Version 3).webp",
-        "game_reviews/processed_images/Book Of Tombs (Version 2).webp"
+        "game_reviews/processed_images/Book Of Tombs (Version 2).webp",
+        "game_reviews/processed_images/Book Of Tombs (Version 4).webp",
+        "game_reviews/processed_images/Book Of Tombs (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/book-of-tombs.json"
+    "filename": "game_reviews/translations/book-of-tombs.json",
+    "slug": "book-of-tombs",
+    "name": "Book of Tombs",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Book-Of-Tombs-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Book of Tombs Free - Exciting Egyptian Slot Game' ### Meta set: 'Read our review of Book of Tombs and play this exciting Egyptian slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

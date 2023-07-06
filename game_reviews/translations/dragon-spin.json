@@ -581,39 +581,39 @@
             "response": {
                 "pros": [
                     "Impressive sound design and graphics",
-                    "Three different bonus modes",
-                    "Low-volatility means more frequent wins",
-                    "Access the bonus mode with Scatter symbol"
+                    "Frequent appearance of wild symbol",
+                    "Variety of bonus modes with free spins",
+                    "Differentiating low-volatility setting"
                 ],
                 "cons": [
-                    "Limited rewards on winning combinations",
-                    "Low RTP ratio"
+                    "Limited rewards with low-volatility setting",
+                    "Not the only dragon-themed slot in the market"
                 ],
-                "meta_title": "Play Dragon Spin Free and Experience the Impressive Sound Design",
-                "meta_description": "Discover Dragon Spin, a low-volatility slot game with free spins and various bonuses. Try it for free and enjoy the top-notch sound and graphics design."
+                "meta_title": "Play Dragon Spin for Free",
+                "meta_description": "Read our review of Dragon Spin and play this impressive slot game for free."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Dragon Spin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon Spin Gameplay Mechanics\n\nDragon Spin follows the traditional slot format of a 5x3 reel set up with an RTP of 95.96%. The game's low-volatility nature, however, ensures a higher chance of winning combination but not with a higher payout ratio.\n\nGraphics and Sound Design\n\nDragon Spin features impressive sound design. The music loop seeks to evoke the dragon's oriental side, with a techno beat at the core. The graphics are also top-notch: the game area's backdrop resembles a blue dragon's scales, while the symbols combine card figures with gems and various dragons distinguished by scale colors.\n\nBonus Modes and Scatter Symbol\n\nIn Dragon Spin, the wild symbol frequently appears, replacing every other normal symbol on the screen. On the other hand, the green gem represents the Scatter symbol that gives access to the bonus mode by landing three or more in a spin. The bonus mode comes with free spins, and players can trigger three different modes depending on the Wild symbols' operating mechanism.\n\nDragon Theme in Online Slot Games\n\nDragon Spin is not the only dragon-themed slot available in the market. Other similar games include Dragon Match by iSoftBet, Red Dragon vs Blue Dragon by Red Rake, Dragon's Treasure by Merkur Gaming, and Dragons Lucky 8 by Wazdan. These slots explore the dragon's enigmatic creature in different forms, whether western or oriental themes.\n\nComparison with Other Dragon-Themed Slot Games\n\nDragon Spin differentiates itself from other dragon-themed slots by its low-volatility setting, which increases the frequency of winning combinations, but with limited rewards. The sound design and graphics are impressive compared to other slots in the category. However, Red Dragon vs Blue Dragon by Red Rake uses element symbols aligned to the dragon theme to create an impressive gameplay experience, while Dragon Match focuses on elemental tiles and a unique matching mechanism as its gameplay mode.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Dragon Spin\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nDragon Spin Gameplay Mechanics\n\nDragon Spin follows the traditional slot format of a 5x3 reel set up with an RTP of 95.96%. The game's low-volatility nature, however, ensures a higher chance of winning combination but not with a higher payout ratio.\n\nGraphics and Sound Design\n\nDragon Spin features impressive sound design. The music loop seeks to evoke the dragon's oriental side, with a techno beat at the core. The graphics are also top-notch: the game area's backdrop resembles a blue dragon's scales, while the symbols combine card figures with gems and various dragons distinguished by scale colors.\n\nBonus Modes and Scatter Symbol\n\nIn Dragon Spin, the wild symbol frequently appears, replacing every other normal symbol on the screen. On the other hand, the green gem represents the Scatter symbol that gives access to the bonus mode by landing three or more in a spin. The bonus mode comes with free spins, and players can trigger three different modes depending on the Wild symbols' operating mechanism.\n\nDragon Theme in Online Slot Games\n\nDragon Spin is not the only dragon-themed slot available in the market. Other similar games include Dragon Match by iSoftBet, Red Dragon vs Blue Dragon by Red Rake, Dragon's Treasure by Merkur Gaming, and Dragons Lucky 8 by Wazdan. These slots explore the dragon's enigmatic creature in different forms, whether western or oriental themes.\n\nComparison with Other Dragon-Themed Slot Games\n\nDragon Spin differentiates itself from other dragon-themed slots by its low-volatility setting, which increases the frequency of winning combinations, but with limited rewards. The sound design and graphics are impressive compared to other slots in the category. However, Red Dragon vs Blue Dragon by Red Rake uses element symbols aligned to the dragon theme to create an impressive gameplay experience, while Dragon Match focuses on elemental tiles and a unique matching mechanism as its gameplay mode.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7T7lGvMdbKRhrPMP5qUXHsfTSDgz7",
+                "id": "chatcmpl-7WRjLZLiF7GKPn8Gq9kdB0MuQAUKQ",
                 "object": "chat.completion",
-                "created": 1687175702,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 557,
-                    "completion_tokens": 125,
-                    "total_tokens": 682
-                },
+                "created": 1687967447,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n  \"pros\": [\n    \"Impressive sound design and graphics\",\n    \"Three different bonus modes\",\n    \"Low-volatility means more frequent wins\",\n    \"Access the bonus mode with Scatter symbol\"\n  ],\n  \"cons\": [\n    \"Limited rewards on winning combinations\",\n    \"Low RTP ratio\"\n  ],\n  \"meta_title\": \"Play Dragon Spin Free and Experience the Impressive Sound Design\",\n  \"meta_description\": \"Discover Dragon Spin, a low-volatility slot game with free spins and various bonuses. Try it for free and enjoy the top-notch sound and graphics design.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Impressive sound design and graphics\",\n    \"Frequent appearance of wild symbol\",\n    \"Variety of bonus modes with free spins\",\n    \"Differentiating low-volatility setting\"\n  ],\n  \"cons\": [\n    \"Limited rewards with low-volatility setting\",\n    \"Not the only dragon-themed slot in the market\"\n  ],\n  \"meta_title\": \"Play Dragon Spin for Free\",\n  \"meta_description\": \"Read our review of Dragon Spin and play this impressive slot game for free.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 554,
+                    "completion_tokens": 112,
+                    "total_tokens": 666
+                }
             }
         },
         {
@@ -813,16 +813,25 @@
         }
     ],
     "raw_feature_images": [
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_4.png",
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_1.png",
         "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_2.png",
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_3.png"
+        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_3.png",
+        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_1.png",
+        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Spin (Version 1).webp",
         "game_reviews/processed_images/Dragon Spin (Version 2).webp",
         "game_reviews/processed_images/Dragon Spin (Version 4).webp",
+        "game_reviews/processed_images/Dragon Spin (Version 1).webp",
         "game_reviews/processed_images/Dragon Spin (Version 3).webp"
     ],
-    "filename": "game_reviews/translations/dragon-spin.json"
+    "filename": "game_reviews/translations/dragon-spin.json",
+    "slug": "dragon-spin",
+    "name": "Dragon Spin",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Dragon-Spin-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Dragon Spin for Free' ### Meta set: 'Read our review of Dragon Spin and play this impressive slot game for free.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -577,40 +577,40 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Free spins mode is easy to trigger",
-                    "High-value payouts compared to other slots",
-                    "Pirate theme is engaging",
-                    "Tropical island background brings atmosphere"
+                    "Higher value winnings compared to other slots",
+                    "Free spins mode triggered more frequently",
+                    "Pirate-inspired theme with attractive design",
+                    "Relatively easy to trigger special feature"
                 ],
                 "cons": [
-                    "No additional special features",
-                    "Relatively simple design"
+                    "Limited special features",
+                    "Payouts occur less frequently"
                 ],
-                "meta_title": "Play Blackbeard's Quest for Free - A Pirate-Inspired Slot Game",
-                "meta_description": "Experience high-value payouts and easy-to-trigger free spins in Blackbeard's Quest, a pirate-themed slot game available to play for free online."
+                "meta_title": "Play Blackbeard’s Quest for Free",
+                "meta_description": "Read a review of Blackbeard’s Quest and play for free. Enjoy a pirate-themed slot game with frequent free spins."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Blackbeard’s Quest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBlackbeard's Quest uses five reels with three symbols on each of them and only nine payment lines. The payouts occur rarely, but the value of the winnings is higher compared to slots that pay a few cents at a time. The pirate symbol is a Wild symbol, and it can substitute for all symbols except Scatter. When three Scatter symbols land on reels 1, 3, and 5, Blackbeard's Quest triggers 10 free spins; during these spins, the chests become Wild symbols themselves. If you land another three Scatters, you get ten additional free spins, and the feature can be triggered multiple times.\n\nSpecial features\n\nThe only special feature of Blackbeard's Quest is a free spins mode, triggered by finding three different Scatter symbols on reels 1, 3, and 5. The free spins mode offers 10 free spins during which the three chests become Wild symbols. If you land another three Scatters, you trigger ten additional free spins (and can do so multiple times).\n\nTheme and design\n\nBlackbeard's Quest is a video slot machine featuring a pirate-inspired theme. The symbols on the reels include the pirate himself, the pirate's woman, the three Treasure Chests, the ship's steering wheel, a pistol, along with the traditional playing card symbols. The background of the game features a tropical island surrounded by the blue Caribbean sea. The sound effect is a tune reminiscent of sea shanties that is interrupted at the end of each spin.\n\nFrequency of special feature activation\n\nThe free spins feature of Blackbeard's Quest is relatively easy to trigger compared to other slots. We found that, in general, the feature is activated more frequently than other slot games.\n\nComparison to similar games\n\nBlackbeard's Quest is one of many pirate-themed slot games available online. Some of its closest relatives include Captain Quid's Treasure Chest, Captain's Treasure, Pirates Paradise, Gold Ahoy, Pirates Charm, and Captain Stack. Compared to some of these games, Blackbeard's Quest has a relatively simple design, but its free spins mode is triggered more frequently than other slot games. Additionally, while the payouts occur less frequently than other games, their value is higher.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Blackbeard’s Quest\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nBlackbeard's Quest uses five reels with three symbols on each of them and only nine payment lines. The payouts occur rarely, but the value of the winnings is higher compared to slots that pay a few cents at a time. The pirate symbol is a Wild symbol, and it can substitute for all symbols except Scatter. When three Scatter symbols land on reels 1, 3, and 5, Blackbeard's Quest triggers 10 free spins; during these spins, the chests become Wild symbols themselves. If you land another three Scatters, you get ten additional free spins, and the feature can be triggered multiple times.\n\nSpecial features\n\nThe only special feature of Blackbeard's Quest is a free spins mode, triggered by finding three different Scatter symbols on reels 1, 3, and 5. The free spins mode offers 10 free spins during which the three chests become Wild symbols. If you land another three Scatters, you trigger ten additional free spins (and can do so multiple times).\n\nTheme and design\n\nBlackbeard's Quest is a video slot machine featuring a pirate-inspired theme. The symbols on the reels include the pirate himself, the pirate's woman, the three Treasure Chests, the ship's steering wheel, a pistol, along with the traditional playing card symbols. The background of the game features a tropical island surrounded by the blue Caribbean sea. The sound effect is a tune reminiscent of sea shanties that is interrupted at the end of each spin.\n\nFrequency of special feature activation\n\nThe free spins feature of Blackbeard's Quest is relatively easy to trigger compared to other slots. We found that, in general, the feature is activated more frequently than other slot games.\n\nComparison to similar games\n\nBlackbeard's Quest is one of many pirate-themed slot games available online. Some of its closest relatives include Captain Quid's Treasure Chest, Captain's Treasure, Pirates Paradise, Gold Ahoy, Pirates Charm, and Captain Stack. Compared to some of these games, Blackbeard's Quest has a relatively simple design, but its free spins mode is triggered more frequently than other slot games. Additionally, while the payouts occur less frequently than other games, their value is higher.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7SghiPu5Lef9c8BHKGFgBx0WL1amx",
+                "id": "chatcmpl-7WOV5VGt5EitFKXZbVabeV9qGyNqV",
                 "object": "chat.completion",
-                "created": 1687071694,
-                "model": "gpt-3.5-turbo-0301",
-                "usage": {
-                    "prompt_tokens": 631,
-                    "completion_tokens": 127,
-                    "total_tokens": 758
-                },
+                "created": 1687955031,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
+                        "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Free spins mode is easy to trigger\",\n        \"High-value payouts compared to other slots\",\n        \"Pirate theme is engaging\",\n        \"Tropical island background brings atmosphere\"\n    ],\n    \"cons\": [\n        \"No additional special features\",\n        \"Relatively simple design\"\n    ],\n    \"meta_title\": \"Play Blackbeard's Quest for Free - A Pirate-Inspired Slot Game\",\n    \"meta_description\": \"Experience high-value payouts and easy-to-trigger free spins in Blackbeard's Quest, a pirate-themed slot game available to play for free online.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Higher value winnings compared to other slots\",\n    \"Free spins mode triggered more frequently\",\n    \"Pirate-inspired theme with attractive design\",\n    \"Relatively easy to trigger special feature\"\n  ],\n  \"cons\": [\n    \"Limited special features\",\n    \"Payouts occur less frequently\"\n  ],\n  \"meta_title\": \"Play Blackbeard’s Quest for Free\",\n  \"meta_description\": \"Read a review of Blackbeard’s Quest and play for free. Enjoy a pirate-themed slot game with frequent free spins.\"\n}"
                         },
-                        "finish_reason": "stop",
-                        "index": 0
+                        "finish_reason": "stop"
                     }
-                ]
+                ],
+                "usage": {
+                    "prompt_tokens": 628,
+                    "completion_tokens": 117,
+                    "total_tokens": 745
+                }
             }
         },
         {
@@ -810,15 +810,24 @@
     ],
     "filename": "game_reviews/translations/blackbeards-quest.json",
     "raw_feature_images": [
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_2.png",
         "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_1.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_4.png",
-        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_2.png"
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_3.png",
+        "arved__Create_a_cartoon-style_image_featuring_a_happy_Maya_warr_156e2323-2bd6-41c4-af27-405787d768f3_4.png"
     ],
     "processed_feature_images": [
-        "game_reviews/processed_images/Blackbeards Quest (Version 1).webp",
         "game_reviews/processed_images/Blackbeards Quest (Version 4).webp",
+        "game_reviews/processed_images/Blackbeards Quest (Version 2).webp",
         "game_reviews/processed_images/Blackbeards Quest (Version 3).webp",
-        "game_reviews/processed_images/Blackbeards Quest (Version 2).webp"
-    ]
+        "game_reviews/processed_images/Blackbeards Quest (Version 1).webp"
+    ],
+    "slug": "blackbeards-quest",
+    "name": "Blackbeard’s Quest",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Blackbeards-Quest-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Blackbeard’s Quest for Free' ### Meta set: 'Read a review of Blackbeard’s Quest and play for free. Enjoy a pirate-themed slot game with frequent free spins.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

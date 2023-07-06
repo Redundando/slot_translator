@@ -580,39 +580,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Exciting gameplay features with modern twist on classic fruit machine theme",
-                    "Mystery Symbol with potential for big wins",
-                    "2 Progressive Jackpots available",
-                    "Variety of betting options"
+                    "High-volatility game with big win potential",
+                    "Modern twist on classic fruit machine theme",
+                    "Mystery Symbol feature for exciting gameplay",
+                    "Progressive Jackpots for extra chances to win"
                 ],
                 "cons": [
-                    "No free spins feature",
-                    "High volatility may not appeal to all players"
+                    "Limited number of standard symbols",
+                    "Limited time frame for winning Daily Drop Jackpot"
                 ],
-                "meta_title": "Play Mystery Reels Free Slot Game Online",
-                "meta_description": "Read our review of Mystery Reels, play for free and enjoy exciting gameplay, progressive jackpots, and mystery symbols with big win potential."
+                "meta_title": "Play Mystery Reels Free Slot Game",
+                "meta_description": "Discover the exciting gameplay and win big with Mystery Reels free slot game."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Mystery Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMystery Reels is a free online slot game with 7 reels, 6 rows, and 30 fixed paylines. Combining symbols on the reels from both sides can lead to big wins ranging from a minimum bet of €0.10 up to a maximum of €100 per spin. With an RTP of around 95.67%, this high-volatility game offers a modern twist on a classic fruit machine theme.\n\nSymbols and Special Features\n\n The slot game features 4 standard icons (cherries, oranges, lemons, and plums) and 4 premium ones (watermelons, bells, grapes, and 7s) enhanced by special features and symbols. Look out for the Mystery Symbol, represented by a golden apple with a question mark in the middle, which can be activated in two ways. It can be triggered randomly during any spin, or when you land the symbol on the reels. Up to 3 mystery symbols can appear on a single spin, which then combine to create the potential for big wins. Each mystery symbol has the potential to be cloned 1, 2, or 3 times, expanding onto adjacent tiles. Once the process is complete, the golden apple may reward you with a maximum payout of 5000 times your bet.\n\nJackpots\n\nThere are 2 Progressive Jackpots available in this game - the Daily Drop and the Super Drop - that you can win by landing three jackpot symbols on the reels during any spin. The Super Drop is unlimited, while the Daily Drop can be won on a daily basis within a limited time frame. The amount you can win is proportional to your bet amount.\n\nWild Symbol\n\nThe sparkling Diamond serves as the Wild symbol, substituting for any other symbol on the reels. Landing 7 diamonds on the reels results in a 175x multiplier of your bet.\n\nBetting Options\n\nMystery Reels offers a variety of betting options, ranging from €0.10 up to a maximum of €100 per spin. Players can choose the bet amount using the + and - buttons located on the game screen. This allows for flexibility and customisation depending on the individual player's preferences and budget.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Mystery Reels\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay Features\n\nMystery Reels is a free online slot game with 7 reels, 6 rows, and 30 fixed paylines. Combining symbols on the reels from both sides can lead to big wins ranging from a minimum bet of €0.10 up to a maximum of €100 per spin. With an RTP of around 95.67%, this high-volatility game offers a modern twist on a classic fruit machine theme.\n\nSymbols and Special Features\n\n The slot game features 4 standard icons (cherries, oranges, lemons, and plums) and 4 premium ones (watermelons, bells, grapes, and 7s) enhanced by special features and symbols. Look out for the Mystery Symbol, represented by a golden apple with a question mark in the middle, which can be activated in two ways. It can be triggered randomly during any spin, or when you land the symbol on the reels. Up to 3 mystery symbols can appear on a single spin, which then combine to create the potential for big wins. Each mystery symbol has the potential to be cloned 1, 2, or 3 times, expanding onto adjacent tiles. Once the process is complete, the golden apple may reward you with a maximum payout of 5000 times your bet.\n\nJackpots\n\nThere are 2 Progressive Jackpots available in this game - the Daily Drop and the Super Drop - that you can win by landing three jackpot symbols on the reels during any spin. The Super Drop is unlimited, while the Daily Drop can be won on a daily basis within a limited time frame. The amount you can win is proportional to your bet amount.\n\nWild Symbol\n\nThe sparkling Diamond serves as the Wild symbol, substituting for any other symbol on the reels. Landing 7 diamonds on the reels results in a 175x multiplier of your bet.\n\nBetting Options\n\nMystery Reels offers a variety of betting options, ranging from €0.10 up to a maximum of €100 per spin. Players can choose the bet amount using the + and - buttons located on the game screen. This allows for flexibility and customisation depending on the individual player's preferences and budget.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7UDulPiqnx86mbqxVoZZfb6kkINWc",
+                "id": "chatcmpl-7WYP0CqLAsTRGJ5rF77y6DNC7Ew8f",
                 "object": "chat.completion",
-                "created": 1687437683,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687993094,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Exciting gameplay features with modern twist on classic fruit machine theme\",\n        \"Mystery Symbol with potential for big wins\",\n        \"2 Progressive Jackpots available\",\n        \"Variety of betting options\"\n    ],\n    \"cons\": [\n        \"No free spins feature\",\n        \"High volatility may not appeal to all players\"\n    ],\n    \"meta_title\": \"Play Mystery Reels Free Slot Game Online\",\n    \"meta_description\": \"Read our review of Mystery Reels, play for free and enjoy exciting gameplay, progressive jackpots, and mystery symbols with big win potential.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"High-volatility game with big win potential\",\n    \"Modern twist on classic fruit machine theme\",\n    \"Mystery Symbol feature for exciting gameplay\",\n    \"Progressive Jackpots for extra chances to win\"\n  ],\n  \"cons\": [\n    \"Limited number of standard symbols\",\n    \"Limited time frame for winning Daily Drop Jackpot\"\n  ],\n  \"meta_title\": \"Play Mystery Reels Free Slot Game\",\n  \"meta_description\": \"Discover the exciting gameplay and win big with Mystery Reels free slot game.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 625,
-                    "completion_tokens": 129,
-                    "total_tokens": 754
+                    "prompt_tokens": 622,
+                    "completion_tokens": 117,
+                    "total_tokens": 739
                 }
             }
         },
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/mystery-reels.json",
+    "raw_feature_images": [
+        "arved__Create_a_feature_image_that_transports_players_to_a_vibr_da7d3979-6334-4f29-86a0-ec39b0d4306a_1.png",
+        "arved__Create_a_feature_image_that_transports_players_to_a_vibr_da7d3979-6334-4f29-86a0-ec39b0d4306a_3.png",
+        "arved__Create_a_feature_image_that_transports_players_to_a_vibr_da7d3979-6334-4f29-86a0-ec39b0d4306a_4.png",
+        "arved__Create_a_feature_image_that_transports_players_to_a_vibr_da7d3979-6334-4f29-86a0-ec39b0d4306a_2.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Mystery Reels (Version 1).webp",
+        "game_reviews/processed_images/Mystery Reels (Version 3).webp",
+        "game_reviews/processed_images/Mystery Reels (Version 4).webp",
+        "game_reviews/processed_images/Mystery Reels (Version 2).webp"
+    ],
+    "slug": "mystery-reels",
+    "name": "Mystery Reels",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Mystery-Reels-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Mystery Reels Free Slot Game' ### Meta set: 'Discover the exciting gameplay and win big with Mystery Reels free slot game.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

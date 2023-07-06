@@ -580,38 +580,38 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Increasing grid size for more ways to win",
-                    "Free spins with scatter symbol",
-                    "Sound effects create a spooky atmosphere",
-                    "Straightforward gameplay"
+                    "Immersive atmosphere with sound effects",
+                    "Increasing grid size for more winning opportunities",
+                    "Free spins feature with scatter symbols",
+                    "Variety of horror-themed symbols"
                 ],
                 "cons": [
                     "Underwhelming visual design",
-                    "Lack of memorable features compared to other horror-themed slots"
+                    "Lack of music in the game"
                 ],
-                "meta_title": "Play Million Dracula for Free: Review and Gameplay",
-                "meta_description": "Explore the gameplay and design of Million Dracula. Play for free and earn free spins with scatters. Similar to Dracula's Castle, Halloween Jack, and Ghost Ship."
+                "meta_title": "Play Million Dracula Free - Review of the Horror-Themed Slot Game",
+                "meta_description": "Discover the gameplay and atmosphere of Million Dracula slot game. Play for free and win big."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Million Dracula\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisual Design\n\nThe visual design of Million Dracula is quite underwhelming, with simple symbols and the bulk of the atmosphere being created through the sound effects. The stone walls and iron grates on either side of the grid help to immerse the player in the atmosphere of the haunted castle.\n\nGameplay\n\nThe gameplay of Million Dracula is fairly simple, with the only real peculiarity being the increasing grid size as players win. Once the entire grid is available, there are a million ways to win. The game also includes free spins, obtained by collecting scatters.\n\nSymbols\n\nThe symbols in Million Dracula are relatively simple, with cobweb-covered letters, candles and candelabra making up the majority of the grid. The special symbols are a mummy, a bat and a coffin, with Count Dracula serving as the Wild symbol and a glass filled with blood as the scatter.\n\nSound Effects\n\nThe sound effects in Million Dracula are the strongest component of its atmosphere, with echoing sound effects such as chains dragging and wind blowing fitting well with the idea of an empty and scary castle. There is no music included in the game.\n\nSimilar Games\n\nFor players seeking other horror-themed slot games, Million Dracula is similar to Dracula's Castle, Halloween Jack, and Ghost Ship. However, the simplicity of Million Dracula's design and gameplay may make it less memorable compared to other slots in the genre.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Million Dracula\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nVisual Design\n\nThe visual design of Million Dracula is quite underwhelming, with simple symbols and the bulk of the atmosphere being created through the sound effects. The stone walls and iron grates on either side of the grid help to immerse the player in the atmosphere of the haunted castle.\n\nGameplay\n\nThe gameplay of Million Dracula is fairly simple, with the only real peculiarity being the increasing grid size as players win. Once the entire grid is available, there are a million ways to win. The game also includes free spins, obtained by collecting scatters.\n\nSymbols\n\nThe symbols in Million Dracula are relatively simple, with cobweb-covered letters, candles and candelabra making up the majority of the grid. The special symbols are a mummy, a bat and a coffin, with Count Dracula serving as the Wild symbol and a glass filled with blood as the scatter.\n\nSound Effects\n\nThe sound effects in Million Dracula are the strongest component of its atmosphere, with echoing sound effects such as chains dragging and wind blowing fitting well with the idea of an empty and scary castle. There is no music included in the game.\n\nSimilar Games\n\nFor players seeking other horror-themed slot games, Million Dracula is similar to Dracula's Castle, Halloween Jack, and Ghost Ship. However, the simplicity of Million Dracula's design and gameplay may make it less memorable compared to other slots in the genre.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U9KKNNJDIzCPQzFzqvB4eGuR2T9h",
+                "id": "chatcmpl-7WXkpu2rBOhiIy5ddJJlyZy9tXwoK",
                 "object": "chat.completion",
-                "created": 1687420048,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687990603,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n\"pros\": [\"Increasing grid size for more ways to win\", \"Free spins with scatter symbol\", \"Sound effects create a spooky atmosphere\", \"Straightforward gameplay\"],\n\"cons\": [\"Underwhelming visual design\", \"Lack of memorable features compared to other horror-themed slots\"],\n\"meta_title\": \"Play Million Dracula for Free: Review and Gameplay\",\n\"meta_description\": \"Explore the gameplay and design of Million Dracula. Play for free and earn free spins with scatters. Similar to Dracula's Castle, Halloween Jack, and Ghost Ship.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Immersive atmosphere with sound effects\",\n    \"Increasing grid size for more winning opportunities\",\n    \"Free spins feature with scatter symbols\",\n    \"Variety of horror-themed symbols\"\n  ],\n  \"cons\": [\n    \"Underwhelming visual design\",\n    \"Lack of music in the game\"\n  ],\n  \"meta_title\": \"Play Million Dracula Free - Review of the Horror-Themed Slot Game\",\n  \"meta_description\": \"Discover the gameplay and atmosphere of Million Dracula slot game. Play for free and win big.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 464,
-                    "completion_tokens": 115,
+                    "prompt_tokens": 461,
+                    "completion_tokens": 118,
                     "total_tokens": 579
                 }
             }
@@ -811,5 +811,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/million-dracula.json",
+    "raw_feature_images": [
+        "arved__Here_is_a_detailed_prompt_for_DALLE_to_create_a_feature__159dc60a-edfd-4d51-be96-51af79e4e0db_4.png",
+        "arved__Here_is_a_detailed_prompt_for_DALLE_to_create_a_feature__159dc60a-edfd-4d51-be96-51af79e4e0db_1.png",
+        "arved__Here_is_a_detailed_prompt_for_DALLE_to_create_a_feature__159dc60a-edfd-4d51-be96-51af79e4e0db_2.png",
+        "arved__Here_is_a_detailed_prompt_for_DALLE_to_create_a_feature__159dc60a-edfd-4d51-be96-51af79e4e0db_3.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Million Dracula (Version 4).webp",
+        "game_reviews/processed_images/Million Dracula (Version 1).webp",
+        "game_reviews/processed_images/Million Dracula (Version 2).webp",
+        "game_reviews/processed_images/Million Dracula (Version 3).webp"
+    ],
+    "slug": "million-dracula",
+    "name": "Million Dracula",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Million-Dracula-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Million Dracula Free - Review of the Horror-Themed Slot Game' ### Meta set: 'Discover the gameplay and atmosphere of Million Dracula slot game. Play for free and win big.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }

@@ -802,39 +802,39 @@
             "version": 1,
             "response": {
                 "pros": [
-                    "Frequent and large payouts",
-                    "Visually appealing graphics and animations",
-                    "Mobile-optimized for easy play without downloads",
-                    "Lucky Links feature for locking in stacked symbols"
+                    "Frequent triggering of Lucky Links feature",
+                    "Regular payouts with low variance",
+                    "Mobile-optimized gameplay without downloads",
+                    "Fantastic visuals with top-notch graphics and animations"
                 ],
                 "cons": [
-                    "Low variance may make gameplay feel repetitive",
-                    "Limited betting range for high-rollers"
+                    "Limited betting range",
+                    "Wins may not be very big"
                 ],
-                "meta_title": "Play Lucky Links for Free - Regular Payouts & Mobile-Optimized",
-                "meta_description": "Read our review of Lucky Links, an online slot game offering regular payouts, mobile optimization, and a Lucky Links feature. Play for free with no downloads."
+                "meta_title": "Play Lucky Links Free: Review of Gameplay, Features, and Payouts",
+                "meta_description": "Read our review of Lucky Links to play this online slot game for free. Learn about its gameplay, features, and winning potential."
             },
             "role": "You are an experienced writer in the field of online slot games.",
-            "prompt": "\nBelow is a review of the game \"Lucky Links\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a maximum length of 20 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLucky Links is a 5-reel, 20-payline slot game that can be played on all devices from 10 cents to €250 per spin. Wins pay both ways, from left to right and right to left, starting from the outermost reel. The game features a Lucky Links feature that allows linked symbol stacks to lock in place with subsequent respins.\n\nLucky Links feature\n\nThe Lucky Links feature is triggered frequently because of the low variance of the game, and it offers wins up to 352 times your bet on each spin. The feature is played when linking symbol stacks line up horizontally and it locks in place with subsequent respins. If more linking symbols land, the respins continue.\n\nWinning potential\n\nWith a low variance, this online slot game is already renowned for its extremely regular payouts. It offers wins up to 352 times your bet on each spin, providing players with an excellent opportunity to win big.\n\nMobile optimization\n\nLuck Links is a mobile-optimized slot that can be played without any download required. The graphics and animations of the game are top-notch, and everything runs smoothly on both desktop and mobile devices.\n\nVisual appeal\n\nVisually, Lucky Links is predominantly purple and features good luck symbols such as four-leaf clovers, horse shoes, acorns, and triple red sevens. The graphics are crisp and clean, and the animations are excellent, providing players with a fantastic visual experience.\n\nBetting range\n\nPlayers can bet anything from a minimum bet of €0.10 up to a maximum bet of €250.00 on this fabulous online slot game. This is a range of bets that will satisfy most casual players or someone who might be classified as a high-roller in online casinos.\n\nRegular payouts\n\nLucky Links is already renowned for its extremely regular payouts. It is a low-variance game, providing players with an excellent opportunity to win frequently, even if the wins aren't very big.\n\nGraphics and animations\n\nVisually, Lucky Links is a fantastic online slot game. The graphics and animations are top-notch, providing players with a fantastic visual experience. The symbols on the reels include hearts, clubs, diamonds and spades, alongside good luck symbols such as four-leaf clovers, horse shoes, acorns, and triple red sevens.\n\n        \n            ",
+            "prompt": "\nBelow is a review of the game \"Lucky Links\".\n\nPlease provide the following:\n\n- Bullet lists briefly covering the topic \"What we like\". (4 bullet points)\n- Bullet lists briefly covering the topic \"What we don't like\". (2 bullet pints)\n- SEO optimized meta title with a maximum length of 45 characters. Include the words \"play\" and \"free\". Capitalize according to AP rules.\n- SEO optimized, neutral meta description, explaining the review with a length of 15 words. Include the words \"play\" and \"free\".\n\nRespond with a JSON using the keys \"pros\" (simple array), \"cons\" (simple array), \"meta_title\" and \"meta_description\". \n\nReview:\n \nGameplay mechanics\n\nLucky Links is a 5-reel, 20-payline slot game that can be played on all devices from 10 cents to €250 per spin. Wins pay both ways, from left to right and right to left, starting from the outermost reel. The game features a Lucky Links feature that allows linked symbol stacks to lock in place with subsequent respins.\n\nLucky Links feature\n\nThe Lucky Links feature is triggered frequently because of the low variance of the game, and it offers wins up to 352 times your bet on each spin. The feature is played when linking symbol stacks line up horizontally and it locks in place with subsequent respins. If more linking symbols land, the respins continue.\n\nWinning potential\n\nWith a low variance, this online slot game is already renowned for its extremely regular payouts. It offers wins up to 352 times your bet on each spin, providing players with an excellent opportunity to win big.\n\nMobile optimization\n\nLuck Links is a mobile-optimized slot that can be played without any download required. The graphics and animations of the game are top-notch, and everything runs smoothly on both desktop and mobile devices.\n\nVisual appeal\n\nVisually, Lucky Links is predominantly purple and features good luck symbols such as four-leaf clovers, horse shoes, acorns, and triple red sevens. The graphics are crisp and clean, and the animations are excellent, providing players with a fantastic visual experience.\n\nBetting range\n\nPlayers can bet anything from a minimum bet of €0.10 up to a maximum bet of €250.00 on this fabulous online slot game. This is a range of bets that will satisfy most casual players or someone who might be classified as a high-roller in online casinos.\n\nRegular payouts\n\nLucky Links is already renowned for its extremely regular payouts. It is a low-variance game, providing players with an excellent opportunity to win frequently, even if the wins aren't very big.\n\nGraphics and animations\n\nVisually, Lucky Links is a fantastic online slot game. The graphics and animations are top-notch, providing players with a fantastic visual experience. The symbols on the reels include hearts, clubs, diamonds and spades, alongside good luck symbols such as four-leaf clovers, horse shoes, acorns, and triple red sevens.\n\n        \n            ",
             "log": {
-                "id": "chatcmpl-7U37ZYxLQVXeGcBuOC5BINhhjoLHe",
+                "id": "chatcmpl-7WWj7o4h5SrRGakGUX18Xcj4nUgq3",
                 "object": "chat.completion",
-                "created": 1687396193,
-                "model": "gpt-3.5-turbo-0301",
+                "created": 1687986653,
+                "model": "gpt-3.5-turbo-0613",
                 "choices": [
                     {
                         "index": 0,
                         "message": {
                             "role": "assistant",
-                            "content": "{\n    \"pros\": [\n        \"Frequent and large payouts\",\n        \"Visually appealing graphics and animations\",\n        \"Mobile-optimized for easy play without downloads\",\n        \"Lucky Links feature for locking in stacked symbols\"\n    ],\n    \"cons\": [\n        \"Low variance may make gameplay feel repetitive\",\n        \"Limited betting range for high-rollers\"\n    ],\n    \"meta_title\": \"Play Lucky Links for Free - Regular Payouts & Mobile-Optimized\",\n    \"meta_description\": \"Read our review of Lucky Links, an online slot game offering regular payouts, mobile optimization, and a Lucky Links feature. Play for free with no downloads.\" \n}"
+                            "content": "{\n  \"pros\": [\n    \"Frequent triggering of Lucky Links feature\",\n    \"Regular payouts with low variance\",\n    \"Mobile-optimized gameplay without downloads\",\n    \"Fantastic visuals with top-notch graphics and animations\"\n  ],\n  \"cons\": [\n    \"Limited betting range\",\n    \"Wins may not be very big\"\n  ],\n  \"meta_title\": \"Play Lucky Links Free: Review of Gameplay, Features, and Payouts\",\n  \"meta_description\": \"Read our review of Lucky Links to play this online slot game for free. Learn about its gameplay, features, and winning potential.\"\n}"
                         },
                         "finish_reason": "stop"
                     }
                 ],
                 "usage": {
-                    "prompt_tokens": 645,
-                    "completion_tokens": 137,
-                    "total_tokens": 782
+                    "prompt_tokens": 642,
+                    "completion_tokens": 124,
+                    "total_tokens": 766
                 }
             }
         },
@@ -1033,5 +1033,27 @@
                 }
             }
         }
-    ]
+    ],
+    "filename": "game_reviews/translations/lucky-links.json",
+    "raw_feature_images": [
+        "arved__For_the_feature_image_of_Lucky_Links_DALLE_can_create_a__eb56e7a4-3109-427d-8ab2-9121b81908a2_2.png",
+        "arved__For_the_feature_image_of_Lucky_Links_DALLE_can_create_a__eb56e7a4-3109-427d-8ab2-9121b81908a2_3.png",
+        "arved__For_the_feature_image_of_Lucky_Links_DALLE_can_create_a__eb56e7a4-3109-427d-8ab2-9121b81908a2_4.png",
+        "arved__For_the_feature_image_of_Lucky_Links_DALLE_can_create_a__eb56e7a4-3109-427d-8ab2-9121b81908a2_1.png"
+    ],
+    "processed_feature_images": [
+        "game_reviews/processed_images/Lucky Links (Version 2).webp",
+        "game_reviews/processed_images/Lucky Links (Version 3).webp",
+        "game_reviews/processed_images/Lucky Links (Version 1).webp",
+        "game_reviews/processed_images/Lucky Links (Version 4).webp"
+    ],
+    "slug": "lucky-links",
+    "name": "Lucky Links",
+    "assume_published": true,
+    "page_status": "Page exists",
+    "feature_image_status": "https://www.slotjava.com/wp-content/uploads/2023/06/Lucky-Links-Version-1-300x300.webp",
+    "author_status": "Slotjava Team Author selected",
+    "meta_status": "Title set: 'Play Lucky Links Free: Review of Gameplay, Features, and Payouts' ### Meta set: 'Read our review of Lucky Links to play this online slot game for free. Learn about its gameplay, features, and winning potential.'",
+    "save_status": "Page Saved",
+    "content_status": "HTML inserted"
 }
