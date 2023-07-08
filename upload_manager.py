@@ -112,6 +112,8 @@ class UploadManager:
             return self.page.locator('//textarea[@class="editor-post-text-editor"]')
         except Exception as e:
             print("Switching to text edit mode")
+            editor = self.page.locator('//div[@class="editor-styles-wrapper block-editor-writing-flow"]')
+            editor.click()
             self.page.keyboard.press("Shift+Control+Alt+M")
             return self.page.locator('//textarea[@class="editor-post-text-editor"]')
 

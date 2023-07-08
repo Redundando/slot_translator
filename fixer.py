@@ -1,16 +1,21 @@
+import glob
 import json
 import os
 import re
+from urllib.request import Request, urlopen
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 from upload_manager import UploadManager
 
+from internal_links_anchors import internal_links
+#from scrape import load_all_game_urls
 
 def remove_year(text=""):
     result = text
-    for year in ["(2020)", "(2021)", "(2022)", "(2023)", "in 2020", "in 2021", "in 2022", "in 2023", "2020", "2021", "2022", "2023"]:
+    for year in ["(2020)", "(2021)", "(2022)", "(2023)", "in 2020", "in 2021", "in 2022", "in 2023", "2020", "2021",
+                 "2022", "2023"]:
         result = result.replace(year, "")
     return result
 
@@ -49,28 +54,54 @@ def remove_sentence(soup=BeautifulSoup, sentence_begin=""):
     pattern = rf"{sentence_begin}.*?[\.\?\!]"
     finder = soup.find_all(string=re.compile(pattern))
     for element in finder:
-        print(f"Removing '{sentence_begin} ...': '{re.search(pattern,element.text).group()}'")
+        print(f"Removing '{sentence_begin} ...': '{re.search(pattern, element.text).group()}'")
         sub = re.sub(pattern, "", element)
         element.replace_with(sub)
 
 
 def has_h2_before_paragraph(soup=BeautifulSoup):
     element = soup.find(["h2", "p"])
-    return element.name == "h2"
-
+    if element:
+        return element.name == "h2"
+    return False
 
 def remove_lead_in_head_line(soup=BeautifulSoup):
     if not has_h2_before_paragraph(soup):
         return
     soup.find("h2").decompose()
 
+
 def proper_capitalize_headlines(soup=BeautifulSoup):
-    headlines = soup.find_all(["h1","h2","h3","h4","h5","h6"])
+    headlines = soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"])
     for headline in headlines:
-        if headline.text == headline.text.upper() and len(headline.text)>=5:
+        if headline.text == headline.text.upper() and len(headline.text) >= 5:
             print(f"Fixing capitalisation in {headline}")
             text = headline.text
             headline.string = text.title()
+
+
+def is_anchor_in_soup(anchor="", soup=BeautifulSoup):
+    pattern = rf"\b{anchor}\b"
+    finder = soup.find_all(string=re.compile(pattern))
+    for element in finder:
+        if element.parent.name in ["p", "li"]: return True
+    return False
+
+
+def add_link_to_first_anchor(anchor="", url="", soup=BeautifulSoup):
+    pattern = rf"\b{anchor}\b"
+    finder = soup.find_all(string=re.compile(pattern))
+    for element in finder:
+        if element.parent.name in ["p", "li"]:
+            element.replace_with(add_link_element(anchor, url, element))
+            return
+
+
+def add_link_element(anchor="", url="", element=BeautifulSoup):
+    print(f"Adding link to {url} to {anchor}")
+    html = str(element)
+    html = html.replace(anchor, f"<a href=\"{url}\">{anchor}</a>", 1)
+    return BeautifulSoup(html, "html.parser")
 
 
 class SlotFixer:
@@ -80,17 +111,48 @@ class SlotFixer:
         self.data["url"] = url
         self.data["slug"] = url.split("/")[-2] if url[-1] == "/" else url.split("/")[-1]
         self.data["filename"] = f'game_reviews/fix_log/{self.data["slug"]}.json'
+        self.open_file()
         self.save_file()
         self.uploader = uploader
         uploader.goto_slot_page_admin(slug=self.data["slug"])
         self.get_html()
         self.soup = BeautifulSoup(self.data["html"], "html.parser")
+
+        self.run_fixes()
+
+    def run_fixes(self):
         self.fix_metas()
         self.fix_currency()
         remove_sentence(self.soup, sentence_begin="But wait,")
         remove_lead_in_head_line(self.soup)
         proper_capitalize_headlines(self.soup)
         self.remove_AI_sentences()
+        self.add_anchors_to_links(links=internal_links)
+
+        self.data["new_html"] = str(self.soup)
+        self.save_file()
+
+        self.update_content()
+
+    def update_content(self):
+        meta_entry = self.uploader.enter_metas(self.data["meta_title"], self.data["meta_desc"])
+        html_entry = self.uploader.insert_html(self.data["new_html"])
+        save_status = self.uploader.save_review()
+        self.data["meta_entry"] = meta_entry
+        self.data["html_entry"] = html_entry
+        self.data["save_status"] = save_status
+        self.save_file()
+
+    def add_anchors_to_links(self, links=[]):
+        if not self.data.get("links_added"):
+            self.data["links_added"] = [self.data["url"]]
+        for link_data in links:
+            if link_data["url"] in self.data["links_added"]:
+                continue
+            if is_anchor_in_soup(link_data["anchor"], self.soup):
+                add_link_to_first_anchor(link_data["anchor"], link_data["url"], self.soup)
+                self.data["links_added"].append(link_data["url"])
+        self.save_file()
 
     def get_html(self):
         print(f"Downloading data for game {self.data['slug']}")
@@ -132,6 +194,7 @@ class SlotFixer:
         remove_sentence(self.soup, "But let's not forget")
         remove_sentence(self.soup, "And let's not forget")
 
+
 def fix_all(urls=[]):
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(headless=False)
@@ -140,11 +203,22 @@ def fix_all(urls=[]):
         for url in urls:
             fixer = SlotFixer(url=url, uploader=uploader)
 
+def load_all_urls_from_xml(url=""):
+    req = Request(url)
+    req.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36')
+    data = urlopen(req).read()
+    soup = BeautifulSoup(data,"xml")
+    locs = soup.find_all("loc")
+    result = []
+    for loc in locs:
+        if "/slot/" in loc.text:
+            result.append(loc.text)
+    return result
 
 if __name__ == "__main__":
-    f = fix_all(["https://www.slotjava.com/slot/gonzos-quest/"])
-    #html = "<!-- wp:image {\"align\":\"right\"} -->\n<figure class=\"wp-block-image alignright\"><img src=\"https://www.slotjava.com/wp-content/uploads/2023/06/Gonzos-Quest-Version-1-300x300.webp\" alt=\"Gonzo’s Quest\"/></figure>\n<!-- /wp:image -->\n\n<h2>3D Graphics and Sound Effects</h2>\n<p>Get ready to be blown away by the stunning 3D graphics and sound effects of Gonzo's Quest. This game takes slot graphics to a whole new level, as you witness symbols exploding on the screen as special features are activated!</p>\n<p>I mean, who doesn't want to see some ancient Inca carvings crumble away to make room for even more symbols and potential wins? The graphics create a sense of excitement and awe that really draws you in, and you'll find yourself glued to your screen for hours on end.</p>\n<p>But let's not forget about the sound effects. Gonzo's Quest features realistic sound effects that are often overlooked in other casino slots games. The calls of wild animals can be heard in the background, giving you a sense of being in the jungle. It really is a fully immersive experience that makes you forget about everything else going on around you.</p>\n<p>Overall, the graphics and sound effects of Gonzo's Quest are top-notch and contribute to a one-of-a-kind gaming adventure. With all of the special features and immersive sounds and graphics, it's no wonder that Gonzo's Quest has quickly become a favorite among slot enthusiasts.</p>\n<h2>Get Ready for Some Fun - Special Features - Free Falls and Avalanche</h2>\n<p>Are you ready for an adventure in search of hidden treasures? Gonzo's Quest takes you deep into the jungle to explore the mysteries of the Mayan civilization. And, the fun doesn't stop with just the theme. The game features two exciting special functions – Free Falls and Avalanche, which give players plenty of opportunities to win big.</p>\n<p>In Free Falls mode, which activates when three Gold Mayan symbols line up on the reels, players get a chance to earn free spins. Who doesn't love them? And, upon winning, they automatically proceed to the Avalanche mode. Oh, boy, things get even more exciting here. When you land a winning combination, all symbols that constituted the alignment explode, and new ones fall from above, creating further winning combinations, sort of like a domino effect. The Avalanche mode continues until there are no more winning alignments.</p>\n<p>With these features, you’re not just winning money – you're enjoying an exciting adventure that keeps you hooked for hours.</p>\n<p>This game is perfect for anyone who appreciates a great adventure story with a touch of humor and excitement. Don't take our word for it, give it a spin yourself and see how long you can resist the magnetism of Gonzo's Quest. Just remember to keep your eyes on the screen, or you might miss one of those incredible winning combos!</p>\n<h2>Inspiration from Spanish Conquistadors and Maya Culture</h2>\n<p>Are you ready to embark on a thrilling adventure with Gonzo's Quest? This online slot game takes us back in time to the Spanish conquests of the Americas, where Gonzalo Pizarro (Gonzo) is on a mission to find the fabled city of El Dorado. But instead of pursuing this goal with nobility in mind, Gonzo has chosen to steal the treasure map in order to keep all the riches for himself. Can you blame him?</p>\n<p>The symbols in Gonzo's Quest help to recreate the atmosphere of the legendary city of El Dorado. The various animals and masks sculpted out of stone in the Maya style will transport you back to this mysterious world. But be prepared - Gonzo does not make things easy and you'll need to navigate through various obstacles to claim your prize.</p>\n<p>This slot game features some exciting elements, such as the avalanche mechanic. Instead of traditional spinning reels, the symbols fall into place, often leading to a chain reaction of multiple wins. It's not every day you can cause an avalanche and come out richer for it!</p>\n<p>All in all, Gonzo's Quest is a fun and engaging slot game that offers something a little bit different. With its historical background and engaging characters, it's the perfect game for movie buffs and history enthusiasts alike. Just watch out for Gonzo, he may swindle you out of your treasure!</p>\n<h2>Symbols and Atmosphere of El Dorado</h2>\n<p>The symbols in Gonzo's Quest bring to life the vibrant and mystical atmosphere of the legendary city of El Dorado. I mean, who wouldn’t want to uncover hidden treasure and gold? The animal and mask symbols were cleverly designed to be sculpted in stone in the characteristic Maya style. These symbols include a slithery snake, a soaring bird, a menacing alligator, a slimy fish, as well as depictions of fire, the moon, the Gold Mayan symbol, and even a question mark. </p>\n<p>Forget the usual boring card suits, Gonzo's Quest gives you symbols so beautifully crafted that you’ll want to detach them and put them on your shelving units! The question mark symbol represents the Wild and can replace all other symbols to complete a winning alignment. It’s like having a wild card, but better! </p>\n<p>Just as El Dorado is shrouded in mystery, the overall experience of the game is surrounded by a sense of adventure and excitement as you embark on your quest for riches. It’s like a virtual Indiana Jones treasure hunt, but with less snakes. Plus, the animations and graphics are so polished that you’ll forget that you’re playing a game and not watching a movie.</p>\n<h2>POTENTIAL TO WIN A GENEROUS JACKPOT!</h2>\n<p>If you're looking for a fun and exciting slot machine game that offers a chance to win big, then Gonzo's Quest is the game for you! Before you start playing, you must select the value of each token you'd like to wager, but don't worry, there's no need to break the bank as the minimum bet is just €0.01. On the other hand, if you're feeling lucky and want to bet big, the maximum bet is €50.</p>\n<p>Now, let's talk about what we're all really here for - winning that jackpot! Gonzo's Quest offers a generous jackpot of €112,500, which is definitely worth spinning those reels for. And with an RTP of 95.9%, you've got a great chance of winning big. But that's not all - there's also a multiplier that applies during regular spins. That's right, you could double your win up to a maximum of five times! </p>\n<p>If you're a bit of a risk-taker and enjoy the thrill of the chase, Gonzo's Quest is a great choice. But if you're on a tight budget and prefer to play it safe, don't worry, there are plenty of chances to win without risking too much.</p>\n<p>So what are you waiting for? Give Gonzo's Quest a spin today and see if you have what it takes to win that jackpot. Who knows, you may even be able to retire early and spend your days lounging on a beach sipping margaritas - hey, a girl can dream, right?</p>\n<h2>FAQ</h2>\n<h3>What is the RTP of Gonzo's Quest?</h3>\n<p>The Return to Player (RTP) of Gonzo's Quest is 95.9%.</p>\n<h3>What is the maximum bet in Gonzo's Quest?</h3>\n<p>The maximum bet in Gonzo's Quest is €50.</p>\n<h3>What is the jackpot in Gonzo's Quest?</h3>\n<p>The jackpot in Gonzo's Quest is €112,500.</p>\n<h3>What are the special features in Gonzo's Quest?</h3>\n<p>Gonzo's Quest features two exciting special functions - Free Falls and Avalanche.</p>\n<h3>What is the Wild symbol in Gonzo's Quest?</h3>\n<p>The Wild symbol in Gonzo's Quest is the question mark symbol.</p>\n<h3>What is the theme of Gonzo's Quest?</h3>\n<p>Gonzo's Quest is inspired by the Spanish conquistadors who searched for El Dorado, and it features the protagonist Gonzo who steals the treasure map.</p>\n<h3>What are the graphics like in Gonzo's Quest?</h3>\n<p>The 3D graphics in Gonzo's Quest are simply amazing, and players can enjoy realistic sound effects too.</p>\n<h3>How do the Free Falls and Avalanche features work?</h3>\n<p>The Free Falls feature activates with three Gold Mayan symbols, giving players free spins. The Avalanche feature replaces winning symbols with new ones, with the multiplier increasing up to 15x.</p>\n<h2>What we like</h2>\n<ul>\n<li>Stunning 3D graphics and immersive sound effects.</li>\n<li>Two exciting special functions – Free Falls and Avalanche.</li>\n<li>Inspirational theme based on Spanish Conquistadors and Maya culture.</li>\n<li>Generous jackpot and a multiplier that can be multiplied up to five times.</li>\n</ul>\n<h2>What we don't like</h2>\n<ul>\n<li>May not offer the widest range of betting options.</li>\n<li>RTP is relatively lower compared to some of the other slots.</li>\n</ul>"
-    #soup = BeautifulSoup(html, "html.parser")
-    #remove_sentence(soup,"But")
-    #proper_capitalize_headlines(soup)
-    #print(soup)
+    urls = load_all_urls_from_xml(url="https://www.slotjava.com/affiliate_slot-sitemap.xml")
+    f = fix_all(urls[0:5])
+    # html = "<!-- wp:image {\"align\":\"right\"} -->\n<figure class=\"wp-block-image alignright\"><img src=\"https://www.slotjava.com/wp-content/uploads/2023/06/Cornelius-Version-1-300x300.webp\" alt=\"Cornelius\"/></figure>\n<!-- /wp:image -->\n\n<h2>Gameplay features and mechanics</h2>\n<p>Cornelius by NetEnt is not only a game for cat lovers, but for anyone who wants to try their luck and experience the thrill of a slot game. With a 5x4 grid and 1024 ways to win, you'll be purring with excitement as you help Cornelius catch his treats that will reward you with amazing cash prizes.</p>\n<p>If you're a high roller, you might want to consider betting the maximum of €400 per spin to increase your chances of winning big. But if you're more of a scaredy-cat, you can start with a minimum bet of €0.20 and work your way up - just like Cornelius when he's trying to catch a mouse.</p>\n<p>One great feature of Cornelius is that it has medium volatility, which means you can expect to win frequently without having to bet a small fortune. And with an RTP value of 96.04%, you can trust that this game won't leave you feeling like a sad kitty after you play.</p>\n<p>Don't want to risk any real money yet? No problem, just hop onto Play for Fun mode to get a feel for the game mechanics and enjoy seeing Cornelius in action.</p>\n<p>Cornelius might be a cat, but he knows how to have a good time and win big - and you can too with this fun and rewarding slot game!</p>\n<h2>BET RANGE AND RTP VALUE</h2>\n<p>If you're a cautious bettor, Cornelius Slot Game offers you a starting bet of €0.20. Conversely, if you're feeling like a high-roller, you can spin with up to €400 per round. Just remember not to spend all your money in one spin! After all, you need to keep some coins for late-night snacks and luxury cat food.</p>\n<p>The RTP value for Cornelius is 96.04%, which is about average for a slot game. But don't be fooled, Cornelius might seem pretty average at first glance, but with the perfect combination of luck, strategy, and special features, you can earn a hefty sum of coins in no time. And, if you happen to be unlucky, blame Cornelius' cat - he might have been sitting on the lucky button, so just go ahead and give him a scratch to obtain his good mojo!</p>\n<h2>Symbols and Their Values</h2>\n<p>Cornelius is a slot game that features symbols ranging from playing cards to cookies - all with their respective values!</p>\n<p>The lower value symbols are represented by playing cards from 10 to ace. The higher-paying symbols include a fish-shaped toy, a milk jar, a little box, and Cornelius himself. Cornelius is not only the highest paying symbol, but also the mascot of the game. He's a cute little rodent who's always up to something.</p>\n<p>But wait, there's more! The Scatter symbol is a jar of cookies that can land you free spins. And isn't that what we all want? More cookies, I mean, more wins! Land 3 or more of these Scatters and trigger the Free Spins bonus game!</p>\n<p>As if cookies weren't enough, there's also the Cash Drop symbol, which is represented by a plate full of tempting cookies. These symbols can pay out from 0.25 to 3 times your bet in the base game. When three Cash Drop symbols land on the reels, you're in for a treat - the Cash Drop feature is activated!</p>\n<p>To sweeten the deal and add some excitement to the game, there are other special symbols as well. The Up symbol moves Cash Drop symbols and multipliers up by one row, giving you the chance to win even bigger. The Golden Up symbol moves symbols straight to the top row for free. How cool is that? The Adder symbol increases the value of standard symbols at the end of the bonus game, and the Multiplier symbol multiplies the value of Cash Drop symbols and multipliers.</p>\n<p>In short, Cornelius is a game that celebrates all things sweet, cute and furry. With so many symbols and features, you're bound to find something that suits your taste. And if you don't, well, at least you still have cookies! </p>\n<h2>Special Game Features and Bonuses</h2>\n<p>Are you ready to cash in on some serious winnings? The Cornelius slot game has got you covered with its special game features and bonuses. One such feature is the Cash Drop, which appears when three Cash Drop symbols land on the reels. The symbols then drop down one row on each spin while paying out every time they appear. It's like raining cash with each spin!</p>\n<p>Oh, and don't forget the Counter on the right! Set to three and resetting every time a new Cash Drop symbol appears, it's sure to keep your excitement levels high! You might even forget that you are playing a slot game.</p>\n<p>If you are into freebies, then the Free Spins bonus is something you definitely don't want to miss. Landing three or more Scatter symbols can activate the bonus feature, with a predetermined number of free spins to be won. And as if that wasn't enough, there's also a chance to win extra cash prizes. You can thank us later!</p>\n<p>But wait, there's more! Other special symbols can also appear during the Free Spins bonus game. These symbols can help increase the value of the symbols and multipliers, giving you even more chances to win big! With all these special features, we are sure you will be entertained and thrilled while playing Cornelius. </p>\n<h2>Availability on Different Devices</h2>\n<p>Cornelius by NetEnt is a fantastic online slot game that's available on both desktop and mobile devices. This means that you can easily play this game on-the-go or from the comfort of your home.</p>\n<p>And let's be honest, nothing screams 'cool' more than playing an online slot game on your phone while pretending to work during an online meeting. Plus, if your boss catches you, you can always say that you're just practicing your online gambling skills in case you ever get a job as a slot attendant.</p>\n<p>Cornelius is perfect for those who want to escape reality for a while and dive into the world of online casinos. Whether you're stuck in traffic or waiting in line at the DMV, this game will keep you entertained.</p>\n<p>So, go ahead and try Cornelius out. You won't regret it. And who knows, you might even end up winning big and finally being able to afford that trip to Las Vegas you've been dreaming of.</p>\n<h2>FAQ</h2>\n<h3>What is the minimum and maximum bet for Cornelius?</h3>\n<p>The minimum bet for each spin is €0.20, which can be increased to a maximum of €400.</p>\n<h3>What is the RTP value for Cornelius?</h3>\n<p>The RTP value for Cornelius is 96.04%.</p>\n<h3>What is the volatility of Cornelius?</h3>\n<p>The volatility of Cornelius is medium.</p>\n<h3>Are there any special symbols in Cornelius?</h3>\n<p>Yes, there are special symbols including Cash Drop, Up, Golden Up, Adder, and Multiplier.</p>\n<h3>Can I play Cornelius for free?</h3>\n<p>Yes, you can play Cornelius in Play for Fun mode for free.</p>\n<h3>Is there a Wild symbol in Cornelius?</h3>\n<p>No, there is no Wild symbol in Cornelius.</p>\n<h3>Can I play Cornelius on my mobile device?</h3>\n<p>Yes, Cornelius is available for both tablets and smartphones.</p>\n<h3>How is the Cash Drop feature activated?</h3>\n<p>The Cash Drop feature is activated when 3 Cash Drop symbols land on the reels.</p>\n<h2>What we like</h2>\n<ul>\n<li>Interesting gameplay features and mechanics</li>\n<li>Wide bet range for different types of players</li>\n<li>Special symbols and bonuses enhance the game experience</li>\n<li>Playable on desktop and mobile devices</li>\n</ul>\n<h2>What we don't like</h2>\n<ul>\n<li>Limited number of high-paying symbols</li>\n<li>Limited number of special symbols</li>\n</ul>"
+    # soup = BeautifulSoup(html, "html.parser")
+    # add_link_to_first_anchor("NetEnt", "#", soup)
+    # print(soup)
