@@ -1,30 +1,31 @@
+import traceback
 from playwright.sync_api import sync_playwright
-
 from scrape import get_game_review, load_all_game_urls
 from slot_translator import ReviewTranslator
 from upload_manager import UploadManager
 
+MIN_REVIEW_CHARS_TO_TRANSLATE = 500
+MAX_REVIEW_CHARS = 6000
 
-def bulk_upload(playwright):
-    game_urls = load_all_game_urls()
 
-    urls = [u for u in game_urls]
+def bulk_translate_and_upload(playwright, urls=[]):
 
     browser = playwright.chromium.launch(headless=False)
-    page=browser.new_page()
+    page = browser.new_page()
     uploader = UploadManager(page=page)
 
-    for url in urls[150:]:
+    for url in urls:
         try:
             slug = url.split("/")[-2]
             data = get_game_review(url)
-            if len(data["text"]) < 500:
-                print(f"\nReview too short for {data['name']}\n============================\n")
+            if len(data["text"]) < MIN_REVIEW_CHARS_TO_TRANSLATE:
+                print(f"\n{data['name']} Review text too short\n============================\n")
                 continue
-            print(f"\nTranslation {data['name']}\n============================\n")
-            text = data["text"][:6000]
+            print(f"\nTranslating {data['name']}\n============================\n")
+            text = data["text"][:MAX_REVIEW_CHARS]
+
             translation = ReviewTranslator(output_directory="game_reviews/translations", thing_name=data["name"], text=text, mode="translate",
-                                           remove_faq=True, uploader=uploader,slug=slug)
+                                           remove_faq=True, uploader=uploader, slug=slug)
             if translation.data.get("save_status") and translation.data.get("save_status") == "Page Saved":
                 print("Page already saved")
                 continue
@@ -32,21 +33,16 @@ def bulk_upload(playwright):
                 print("Page already has content (according to JSON save)")
                 continue
 
-
-            if len(translation.meta[0].get("meta_description")) > 140:
-                new_meta = True
-            else:
-                new_meta = False
-            translation.run_all(force_new_meta=new_meta, attempts=1)
-
-            translation.publish()
-            translation.insert_content()
+            translation.run_all()
+            translation.upload_slot_content()
 
         except Exception as e:
             print(e)
+            traceback.print_exc()
             continue
 
 
 if __name__ == '__main__':
+    game_urls = load_all_game_urls("https://www.slotjava.it/sitemap/")
     with sync_playwright() as playwright:
-        bulk_upload(playwright)
+        bulk_translate_and_upload(playwright, urls=game_urls)
