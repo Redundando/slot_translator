@@ -40,8 +40,10 @@ def de_sluggify(slug=""):
     return slug.replace("-", " ").title()
 
 
-def list_all_image_prompts():
-    jsons = glob.glob("game_reviews/translations/*.json")
+def list_all_image_prompts(json_directory=""):
+    jsons = glob.glob(f"{json_directory}/*.json")
+    if not os.path.exists("images/prompts"):
+        os.makedirs("images/prompts")
     for file in jsons:
         f = open(file, encoding="utf8")
         data = json.load(f)
@@ -49,7 +51,7 @@ def list_all_image_prompts():
         if dalle_prompt_response:
             dalle_prompt = dalle_prompt_response[0].get("response")
             txt_file = file.split("\\")[-1].replace(".json", ".txt")
-            with open(txt_file, 'w', encoding="utf8") as f:
+            with open("images/prompts" + "/" + txt_file, 'w', encoding="utf8") as f:
                 print(dalle_prompt.replace("\n", " "), file=f)
 
 
@@ -133,8 +135,6 @@ def create_all_webp_images(directory="game_reviews/translations"):
 
 
 if __name__ == "__main__":
-    image_data = read_image_data_csv()
-    print(len(image_data))
-    # list_all_image_prompts()
-    # add_all_image_datas()
+    #list_all_image_prompts(json_directory="game_reviews/translations")
+    add_all_image_datas()
     create_all_webp_images()

@@ -776,17 +776,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_3.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_the_game_22317f9e-a292-490d-bb3e-2cb7e7035f82_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Desert Cats (Version 4).webp",
-        "game_reviews/processed_images/Desert Cats (Version 3).webp",
         "game_reviews/processed_images/Desert Cats (Version 1).webp",
-        "game_reviews/processed_images/Desert Cats (Version 2).webp"
+        "game_reviews/processed_images/Desert Cats (Version 2).webp",
+        "game_reviews/processed_images/Desert Cats (Version 3).webp"
     ],
     "filename": "game_reviews/translations/desert-cats.json",
     "slug": "desert-cats",

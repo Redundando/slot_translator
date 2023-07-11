@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_3.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_2.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_1.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Celestial_King__40db6044-90d5-4921-8dd4-ed65232794f3_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Celestial King (Version 2).webp",
         "game_reviews/processed_images/Celestial King (Version 3).webp",
-        "game_reviews/processed_images/Celestial King (Version 1).webp",
         "game_reviews/processed_images/Celestial King (Version 4).webp",
-        "game_reviews/processed_images/Celestial King (Version 2).webp"
+        "game_reviews/processed_images/Celestial King (Version 1).webp"
     ],
     "filename": "game_reviews/translations/celestial-king.json",
     "slug": "celestial-king",

@@ -2,3 +2,5 @@ requests==2.31.0
 beautifulsoup4~=4.12.2
 openai==0.27.8
 htmldocx~=0.0.6
+playwright~=1.35.0
+Pillow~=9.5.0

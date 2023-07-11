@@ -809,17 +809,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_slot_gam_77d4d5a4-201c-4ea4-bfa0-ece95c5bbc34_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_slot_gam_77d4d5a4-201c-4ea4-bfa0-ece95c5bbc34_3.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_slot_gam_77d4d5a4-201c-4ea4-bfa0-ece95c5bbc34_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_slot_gam_77d4d5a4-201c-4ea4-bfa0-ece95c5bbc34_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Captain Wild (Version 4).webp",
-        "game_reviews/processed_images/Captain Wild (Version 1).webp",
         "game_reviews/processed_images/Captain Wild (Version 2).webp",
-        "game_reviews/processed_images/Captain Wild (Version 3).webp"
+        "game_reviews/processed_images/Captain Wild (Version 3).webp",
+        "game_reviews/processed_images/Captain Wild (Version 1).webp",
+        "game_reviews/processed_images/Captain Wild (Version 4).webp"
     ],
     "filename": "game_reviews/translations/captain-wild.json",
     "slug": "captain-wild",

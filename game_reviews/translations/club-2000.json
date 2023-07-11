@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Club_2000_Please_74ae033e-cb5f-4d8f-98ac-42c21defcc1f_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Club_2000_Please_74ae033e-cb5f-4d8f-98ac-42c21defcc1f_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Club_2000_Please_74ae033e-cb5f-4d8f-98ac-42c21defcc1f_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Club_2000_Please_74ae033e-cb5f-4d8f-98ac-42c21defcc1f_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Club 2000 (Version 1).webp",
         "game_reviews/processed_images/Club 2000 (Version 4).webp",
-        "game_reviews/processed_images/Club 2000 (Version 2).webp",
         "game_reviews/processed_images/Club 2000 (Version 3).webp",
-        "game_reviews/processed_images/Club 2000 (Version 1).webp"
+        "game_reviews/processed_images/Club 2000 (Version 2).webp"
     ],
     "filename": "game_reviews/translations/club-2000.json",
     "slug": "club-2000",

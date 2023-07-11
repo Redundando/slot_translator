@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_image_featuri_be53694b-4d6f-48d5-8581-1ebe7a3d3c15_1.png",
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_image_featuri_be53694b-4d6f-48d5-8581-1ebe7a3d3c15_4.png",
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_image_featuri_be53694b-4d6f-48d5-8581-1ebe7a3d3c15_2.png",
-        "arved__Prompt_DALLE_please_create_a_cartoon-style_image_featuri_be53694b-4d6f-48d5-8581-1ebe7a3d3c15_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Csi Slots (Version 3).webp",
         "game_reviews/processed_images/Csi Slots (Version 4).webp",
         "game_reviews/processed_images/Csi Slots (Version 2).webp",
-        "game_reviews/processed_images/Csi Slots (Version 1).webp",
-        "game_reviews/processed_images/Csi Slots (Version 3).webp"
+        "game_reviews/processed_images/Csi Slots (Version 1).webp"
     ],
     "filename": "game_reviews/translations/csi-slots.json",
     "slug": "csi-slots",

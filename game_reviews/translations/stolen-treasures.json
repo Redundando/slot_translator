@@ -812,21 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_4.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_1.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_3.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_1.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_2.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_b81f25b3-1713-4c23-99d9-fb0829a20f01_2.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_4.png",
-        "arved__Promopt_for_DALLE_Create_a_feature_image_for_Stolen_Trea_4cb8aa85-587b-4a0c-915f-359d462419c2_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Stolen Treasures (Version 8).webp",
-        "game_reviews/processed_images/Stolen Treasures (Version 7).webp",
         "game_reviews/processed_images/Stolen Treasures (Version 5).webp",
-        "game_reviews/processed_images/Stolen Treasures (Version 6).webp"
+        "game_reviews/processed_images/Stolen Treasures (Version 6).webp",
+        "game_reviews/processed_images/Stolen Treasures (Version 7).webp",
+        "game_reviews/processed_images/Stolen Treasures (Version 8).webp"
     ],
     "filename": "game_reviews/translations/stolen-treasures.json",
     "slug": "stolen-treasures",

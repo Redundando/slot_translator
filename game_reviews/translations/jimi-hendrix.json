@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/jimi-hendrix.json",
-    "raw_feature_images": [
-        "arved__Create_a_cartoon_image_featuring_a_happy_Maya_warrior_we_4aa434c0-827d-47b2-880e-f405b3fdf1aa_4.png",
-        "arved__Create_a_cartoon_image_featuring_a_happy_Maya_warrior_we_4aa434c0-827d-47b2-880e-f405b3fdf1aa_2.png",
-        "arved__Create_a_cartoon_image_featuring_a_happy_Maya_warrior_we_4aa434c0-827d-47b2-880e-f405b3fdf1aa_1.png",
-        "arved__Create_a_cartoon_image_featuring_a_happy_Maya_warrior_we_4aa434c0-827d-47b2-880e-f405b3fdf1aa_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Jimi Hendrix (Version 3).webp",
-        "game_reviews/processed_images/Jimi Hendrix (Version 1).webp",
         "game_reviews/processed_images/Jimi Hendrix (Version 2).webp",
-        "game_reviews/processed_images/Jimi Hendrix (Version 4).webp"
+        "game_reviews/processed_images/Jimi Hendrix (Version 3).webp",
+        "game_reviews/processed_images/Jimi Hendrix (Version 4).webp",
+        "game_reviews/processed_images/Jimi Hendrix (Version 1).webp"
     ],
     "slug": "jimi-hendrix",
     "name": "Jimi Hendrix",

@@ -812,16 +812,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_2.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dawn_of_Egypt_Pl_37e858a6-afcb-4542-85a5-b1ad50992d49_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dawn Of Egypt (Version 2).webp",
-        "game_reviews/processed_images/Dawn Of Egypt (Version 4).webp",
         "game_reviews/processed_images/Dawn Of Egypt (Version 1).webp",
+        "game_reviews/processed_images/Dawn Of Egypt (Version 4).webp",
+        "game_reviews/processed_images/Dawn Of Egypt (Version 2).webp",
         "game_reviews/processed_images/Dawn Of Egypt (Version 3).webp"
     ],
     "filename": "game_reviews/translations/dawn-of-egypt.json",

@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/jeopardy.json",
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_4.png",
-        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_2.png",
-        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_3.png",
-        "arved__Create_a_feature_image_for_Jeopardy_that_showcases_the_e_87f6fc22-60e4-4b7e-b45e-80a3747f06fe_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Jeopardy (Version 3).webp",
         "game_reviews/processed_images/Jeopardy (Version 4).webp",
-        "game_reviews/processed_images/Jeopardy (Version 2).webp",
         "game_reviews/processed_images/Jeopardy (Version 1).webp",
-        "game_reviews/processed_images/Jeopardy (Version 3).webp"
+        "game_reviews/processed_images/Jeopardy (Version 2).webp"
     ],
     "slug": "jeopardy",
     "name": "Jeopardy!",

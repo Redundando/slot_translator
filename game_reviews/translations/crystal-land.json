@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Crystal__904a443a-01d2-4afc-bd9c-eb80edd18284_1.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Crystal__904a443a-01d2-4afc-bd9c-eb80edd18284_4.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Crystal__904a443a-01d2-4afc-bd9c-eb80edd18284_3.png",
-        "arved__Prompt_Create_a_cartoon-style_feature_image_for_Crystal__904a443a-01d2-4afc-bd9c-eb80edd18284_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Crystal Land (Version 2).webp",
         "game_reviews/processed_images/Crystal Land (Version 3).webp",
-        "game_reviews/processed_images/Crystal Land (Version 1).webp",
-        "game_reviews/processed_images/Crystal Land (Version 4).webp"
+        "game_reviews/processed_images/Crystal Land (Version 2).webp",
+        "game_reviews/processed_images/Crystal Land (Version 4).webp",
+        "game_reviews/processed_images/Crystal Land (Version 1).webp"
     ],
     "filename": "game_reviews/translations/crystal-land.json",
     "slug": "crystal-land",

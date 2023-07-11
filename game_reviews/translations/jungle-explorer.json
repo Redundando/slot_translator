@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/jungle-explorer.json",
-    "raw_feature_images": [
-        "arved__Prompt_Can_you_create_an_engaging_feature_image_for_Jung_48f2bf66-f63e-47e6-955b-265a992f7b46_1.png",
-        "arved__Prompt_Can_you_create_an_engaging_feature_image_for_Jung_48f2bf66-f63e-47e6-955b-265a992f7b46_3.png",
-        "arved__Prompt_Can_you_create_an_engaging_feature_image_for_Jung_48f2bf66-f63e-47e6-955b-265a992f7b46_2.png",
-        "arved__Prompt_Can_you_create_an_engaging_feature_image_for_Jung_48f2bf66-f63e-47e6-955b-265a992f7b46_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Jungle Explorer (Version 1).webp",
         "game_reviews/processed_images/Jungle Explorer (Version 3).webp",
-        "game_reviews/processed_images/Jungle Explorer (Version 4).webp",
         "game_reviews/processed_images/Jungle Explorer (Version 2).webp",
-        "game_reviews/processed_images/Jungle Explorer (Version 1).webp"
+        "game_reviews/processed_images/Jungle Explorer (Version 4).webp"
     ],
     "slug": "jungle-explorer",
     "name": "Jungle Explorer",

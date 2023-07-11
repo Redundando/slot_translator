@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_1.png",
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_2.png",
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_3.png",
-        "arved__Please_create_an_image_in_a_cartoon_style_featuring_a_ha_116aef47-5c0f-4ff2-961b-e720fc81181b_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Diamond Duke (Version 3).webp",
-        "game_reviews/processed_images/Diamond Duke (Version 1).webp",
         "game_reviews/processed_images/Diamond Duke (Version 2).webp",
-        "game_reviews/processed_images/Diamond Duke (Version 4).webp"
+        "game_reviews/processed_images/Diamond Duke (Version 4).webp",
+        "game_reviews/processed_images/Diamond Duke (Version 1).webp"
     ],
     "filename": "game_reviews/translations/diamond-duke.json",
     "slug": "diamond-duke",

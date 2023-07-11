@@ -814,16 +814,11 @@
         }
     ],
     "filename": "game_reviews/translations/book-of-helios.json",
-    "raw_feature_images": [
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_4.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_3.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_2.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_bf0351d0-736a-4ede-a3c8-555924e6c946_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Book Of Helios (Version 1).webp",
         "game_reviews/processed_images/Book Of Helios (Version 3).webp",
         "game_reviews/processed_images/Book Of Helios (Version 2).webp",
-        "game_reviews/processed_images/Book Of Helios (Version 1).webp",
         "game_reviews/processed_images/Book Of Helios (Version 4).webp"
     ],
     "slug": "book-of-helios",

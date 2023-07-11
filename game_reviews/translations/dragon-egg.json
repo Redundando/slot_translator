@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_3.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Dragon_Egg_a_a06c8649-fdb0-40cf-8ccb-856841632695_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Egg (Version 1).webp",
-        "game_reviews/processed_images/Dragon Egg (Version 4).webp",
         "game_reviews/processed_images/Dragon Egg (Version 2).webp",
-        "game_reviews/processed_images/Dragon Egg (Version 3).webp"
+        "game_reviews/processed_images/Dragon Egg (Version 3).webp",
+        "game_reviews/processed_images/Dragon Egg (Version 1).webp",
+        "game_reviews/processed_images/Dragon Egg (Version 4).webp"
     ],
     "filename": "game_reviews/translations/dragon-egg.json",
     "slug": "dragon-egg",

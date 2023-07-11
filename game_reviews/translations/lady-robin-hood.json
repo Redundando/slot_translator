@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/lady-robin-hood.json",
-    "raw_feature_images": [
-        "arved__Create_a_cartoon_feature_image_that_features_a_happy_May_b70e9533-27df-451d-bd2f-e2a1b34da823_4.png",
-        "arved__Create_a_cartoon_feature_image_that_features_a_happy_May_b70e9533-27df-451d-bd2f-e2a1b34da823_1.png",
-        "arved__Create_a_cartoon_feature_image_that_features_a_happy_May_b70e9533-27df-451d-bd2f-e2a1b34da823_2.png",
-        "arved__Create_a_cartoon_feature_image_that_features_a_happy_May_b70e9533-27df-451d-bd2f-e2a1b34da823_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Lady Robin Hood (Version 3).webp",
         "game_reviews/processed_images/Lady Robin Hood (Version 2).webp",
-        "game_reviews/processed_images/Lady Robin Hood (Version 1).webp",
         "game_reviews/processed_images/Lady Robin Hood (Version 4).webp",
-        "game_reviews/processed_images/Lady Robin Hood (Version 3).webp"
+        "game_reviews/processed_images/Lady Robin Hood (Version 1).webp"
     ],
     "slug": "lady-robin-hood",
     "name": "Lady Robin Hood",

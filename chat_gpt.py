@@ -1,6 +1,10 @@
-import openai
 import traceback
+
+import openai
+
 import config
+
+
 class ChatGpt:
 
     API_KEY = config.API_KEY
@@ -12,9 +16,8 @@ class ChatGpt:
         self.prompt = prompt
         self.role = role
         self.model = model
-        self.max_tokens = max_tokens if max_tokens > 0 else (ChatGpt.MAX_TOKENS - len(self.prompt+role) // 3)
+        self.max_tokens = max_tokens if max_tokens > 0 else (ChatGpt.MAX_TOKENS - len(self.prompt + role) // 3)
         self.task = None
-
 
     def run_task(self):
         for i in range(ChatGpt.ATTEMPTS):
@@ -41,7 +44,7 @@ class ChatGpt:
     def create_image(self):
         for i in range(ChatGpt.ATTEMPTS):
             try:
-                self.task = openai.Image.create(prompt = self.prompt, n=1,size="1024x1024")
+                self.task = openai.Image.create(prompt=self.prompt, n=1, size="1024x1024")
                 return self.task["data"][0]["url"]
             except Exception as e:
                 print((str(e)))

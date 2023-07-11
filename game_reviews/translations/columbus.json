@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_1.png",
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_2.png",
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_4.png",
-        "arved__Create_a_feature_image_for_the_Novomatic_game_Columbus_w_8b6ded9a-8c46-4310-b545-368ad7305ba5_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Columbus (Version 2).webp",
-        "game_reviews/processed_images/Columbus (Version 1).webp",
         "game_reviews/processed_images/Columbus (Version 3).webp",
-        "game_reviews/processed_images/Columbus (Version 4).webp"
+        "game_reviews/processed_images/Columbus (Version 2).webp",
+        "game_reviews/processed_images/Columbus (Version 4).webp",
+        "game_reviews/processed_images/Columbus (Version 1).webp"
     ],
     "filename": "game_reviews/translations/columbus.json",
     "slug": "columbus",

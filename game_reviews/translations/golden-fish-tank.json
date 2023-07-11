@@ -887,17 +887,12 @@
         }
     ],
     "filename": "game_reviews/translations/golden-fish-tank.json",
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Golden_Fish_Tank_that_capture_06b8dc16-cff7-4ed6-be4d-a4a3d5964733_1.png",
-        "arved__Create_a_feature_image_for_Golden_Fish_Tank_that_capture_06b8dc16-cff7-4ed6-be4d-a4a3d5964733_3.png",
-        "arved__Create_a_feature_image_for_Golden_Fish_Tank_that_capture_06b8dc16-cff7-4ed6-be4d-a4a3d5964733_4.png",
-        "arved__Create_a_feature_image_for_Golden_Fish_Tank_that_capture_06b8dc16-cff7-4ed6-be4d-a4a3d5964733_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Golden Fish Tank (Version 3).webp",
         "game_reviews/processed_images/Golden Fish Tank (Version 1).webp",
-        "game_reviews/processed_images/Golden Fish Tank (Version 2).webp",
         "game_reviews/processed_images/Golden Fish Tank (Version 4).webp",
-        "game_reviews/processed_images/Golden Fish Tank (Version 3).webp"
+        "game_reviews/processed_images/Golden Fish Tank (Version 2).webp"
     ],
     "slug": "golden-fish-tank",
     "name": "Golden Fish Tank",

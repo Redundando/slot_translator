@@ -812,16 +812,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Design_a_feature_image_for_Buffalo_Blitz_that_sho_2eb20922-a401-49f2-8c03-46759fead717_2.png",
-        "arved__Prompt_Design_a_feature_image_for_Buffalo_Blitz_that_sho_2eb20922-a401-49f2-8c03-46759fead717_4.png",
-        "arved__Prompt_Design_a_feature_image_for_Buffalo_Blitz_that_sho_2eb20922-a401-49f2-8c03-46759fead717_3.png",
-        "arved__Prompt_Design_a_feature_image_for_Buffalo_Blitz_that_sho_2eb20922-a401-49f2-8c03-46759fead717_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Buffalo Blitz (Version 1).webp",
-        "game_reviews/processed_images/Buffalo Blitz (Version 3).webp",
         "game_reviews/processed_images/Buffalo Blitz (Version 2).webp",
+        "game_reviews/processed_images/Buffalo Blitz (Version 3).webp",
         "game_reviews/processed_images/Buffalo Blitz (Version 4).webp"
     ],
     "filename": "game_reviews/translations/buffalo-blitz.json",

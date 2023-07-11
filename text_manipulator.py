@@ -1,5 +1,5 @@
-import json
 import ast
+import json
 import os.path
 import traceback
 
@@ -61,7 +61,7 @@ class TextManipulator:
         self.data[self.task_name].append(data)
 
     def convert_response_to_json(self, data=""):
-        self.json_conversion_attempts+=1
+        self.json_conversion_attempts += 1
         self.json_conversion_failed = False
         try:
             result = json.loads(data, strict=False)
@@ -83,14 +83,16 @@ class TextManipulator:
         response = self.chat_gpt.get_response()
         if self.json_response:
             response = self.convert_response_to_json(response)
-        data = {"version":  self.version,
-                "response": response,
-                "role":     self.role,
-                "prompt":   self.prompt,
-                "log":      self.chat_gpt.task}
+        data = {
+            "version" : self.version,
+            "response": response,
+            "role"    : self.role,
+            "prompt"  : self.prompt,
+            "log"     : self.chat_gpt.task
+        }
         self.add_data_point(data)
-        if self.json_response and self.json_conversion_failed and self.json_conversion_attempts<TextManipulator.MAX_JSON_CONVERSION_TRIES:
-            print(f"Retrying to get data that is JSON convertable - attempt {self.json_conversion_attempts+1} / {TextManipulator.MAX_JSON_CONVERSION_TRIES}")
+        if self.json_response and self.json_conversion_failed and self.json_conversion_attempts < TextManipulator.MAX_JSON_CONVERSION_TRIES:
+            print(f"Retrying to get data that is JSON convertable - attempt {self.json_conversion_attempts + 1} / {TextManipulator.MAX_JSON_CONVERSION_TRIES}")
             self.force_new = True
             return self.run_chat_gpt()
         return data

@@ -809,17 +809,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_cartoon-style_image_for_the_game_Celebri_2f08e743-76f9-449e-9eed-13d856c1b955_1.png",
-        "arved__Prompt_Create_a_cartoon-style_image_for_the_game_Celebri_2f08e743-76f9-449e-9eed-13d856c1b955_4.png",
-        "arved__Prompt_Create_a_cartoon-style_image_for_the_game_Celebri_2f08e743-76f9-449e-9eed-13d856c1b955_3.png",
-        "arved__Prompt_Create_a_cartoon-style_image_for_the_game_Celebri_2f08e743-76f9-449e-9eed-13d856c1b955_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Celebrity Zoo (Version 2).webp",
-        "game_reviews/processed_images/Celebrity Zoo (Version 1).webp",
+        "game_reviews/processed_images/Celebrity Zoo (Version 4).webp",
         "game_reviews/processed_images/Celebrity Zoo (Version 3).webp",
-        "game_reviews/processed_images/Celebrity Zoo (Version 4).webp"
+        "game_reviews/processed_images/Celebrity Zoo (Version 1).webp",
+        "game_reviews/processed_images/Celebrity Zoo (Version 2).webp"
     ],
     "filename": "game_reviews/translations/celebrity-zoo.json",
     "slug": "celebrity-zoo",

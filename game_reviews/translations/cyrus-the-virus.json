@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_2.png",
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_1.png",
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_3.png",
-        "arved__Create_a_feature_image_for_Cyrus_the_Virus_that_is_in_ca_344adccd-591b-4ee1-939a-a70e5b0831ff_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Cyrus The Virus (Version 4).webp",
         "game_reviews/processed_images/Cyrus The Virus (Version 1).webp",
         "game_reviews/processed_images/Cyrus The Virus (Version 3).webp",
-        "game_reviews/processed_images/Cyrus The Virus (Version 2).webp",
-        "game_reviews/processed_images/Cyrus The Virus (Version 4).webp"
+        "game_reviews/processed_images/Cyrus The Virus (Version 2).webp"
     ],
     "filename": "game_reviews/translations/cyrus-the-virus.json",
     "slug": "cyrus-the-virus",

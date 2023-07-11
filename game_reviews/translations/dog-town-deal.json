@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Dog_Town_Deal_wi_5ea7fcfa-8264-4cbf-97bc-04f923411bce_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dog_Town_Deal_wi_5ea7fcfa-8264-4cbf-97bc-04f923411bce_2.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dog_Town_Deal_wi_5ea7fcfa-8264-4cbf-97bc-04f923411bce_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Dog_Town_Deal_wi_5ea7fcfa-8264-4cbf-97bc-04f923411bce_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dog Town Deal (Version 2).webp",
-        "game_reviews/processed_images/Dog Town Deal (Version 3).webp",
         "game_reviews/processed_images/Dog Town Deal (Version 1).webp",
-        "game_reviews/processed_images/Dog Town Deal (Version 4).webp"
+        "game_reviews/processed_images/Dog Town Deal (Version 2).webp",
+        "game_reviews/processed_images/Dog Town Deal (Version 4).webp",
+        "game_reviews/processed_images/Dog Town Deal (Version 3).webp"
     ],
     "filename": "game_reviews/translations/dog-town-deal.json",
     "slug": "dog-town-deal",

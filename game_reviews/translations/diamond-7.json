@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_Diamond_7_that__013ecd03-f2df-44c5-986f-9c1b062e22c3_3.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Diamond_7_that__013ecd03-f2df-44c5-986f-9c1b062e22c3_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Diamond_7_that__013ecd03-f2df-44c5-986f-9c1b062e22c3_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Diamond_7_that__013ecd03-f2df-44c5-986f-9c1b062e22c3_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Diamond 7 (Version 1).webp",
-        "game_reviews/processed_images/Diamond 7 (Version 3).webp",
         "game_reviews/processed_images/Diamond 7 (Version 4).webp",
-        "game_reviews/processed_images/Diamond 7 (Version 2).webp"
+        "game_reviews/processed_images/Diamond 7 (Version 2).webp",
+        "game_reviews/processed_images/Diamond 7 (Version 1).webp",
+        "game_reviews/processed_images/Diamond 7 (Version 3).webp"
     ],
     "filename": "game_reviews/translations/diamond-7.json",
     "slug": "diamond-7",

@@ -19,10 +19,13 @@ def open_file(filename):
 
 class ReviewTranslator:
 
-    def __init__(self, thing_name="", thing="slot", filename=None, output_directory="", text="", mode="translate",
-                 remove_faq=True, uploader=UploadManager, slug=""):
+    def __init__(
+        self, thing_name="", thing="slot", filename=None, output_directory="", text="", mode="translate",
+        remove_faq=True, uploader=UploadManager, slug=""
+        ):
         self.filename = filename if filename else (slugify(thing_name) + ".json")
         self.output_directory = output_directory
+        self.create_dir()
         self.thing = thing
         self.thing_name = thing_name
         self.original_text = text
@@ -35,6 +38,9 @@ class ReviewTranslator:
         self.text_manipulator.save_file()
         self.uploader = uploader
 
+    def create_dir(self):
+        if not os.path.exists(self.output_directory):
+            os.makedirs(self.output_directory)
 
     @property
     def data(self):
@@ -50,8 +56,10 @@ Use style transfer to make the translated text suitable for experienced gamblers
 {self.original_text}
         """
         for i in range(attempts):
-            self.text_manipulator.new_task(task_name="raw_translation", version=(i + 1), role=role, prompt=prompt,
-                                           force_new=force_new)
+            self.text_manipulator.new_task(
+                task_name="raw_translation", version=(i + 1), role=role, prompt=prompt,
+                force_new=force_new
+                )
 
     @property
     def raw_translation(self):
@@ -73,8 +81,10 @@ Please remove any part of the text that is like an FAQ.
 
 {self.raw_translation}
         """
-        self.text_manipulator.new_task(task_name="raw_translation_without_faq", role=role, prompt=prompt,
-                                       force_new=force_new)
+        self.text_manipulator.new_task(
+            task_name="raw_translation_without_faq", role=role, prompt=prompt,
+            force_new=force_new
+            )
 
     @property
     def raw_translation_without_faq(self):
@@ -95,8 +105,10 @@ Below is a review for the slot game "{self.thing_name}".
 {self.raw_translation_without_faq}
         """
         for i in range(attempts):
-            self.text_manipulator.new_task(task_name="topics", role=role, prompt=prompt, version=(i + 1),
-                                           force_new=force_new, json_response=True)
+            self.text_manipulator.new_task(
+                task_name="topics", role=role, prompt=prompt, version=(i + 1),
+                force_new=force_new, json_response=True
+                )
 
     @property
     def topics(self):
@@ -124,9 +136,11 @@ Please, rewrite the review in a neutral tone of voice. Write subsections coverin
 
 Review: {self.raw_translation}
             """
-            self.text_manipulator.new_task(task_name="review_with_topics", role=role, prompt=prompt, version=(i + 1),
-                                           force_new=force_new,
-                                           json_response=True)
+            self.text_manipulator.new_task(
+                task_name="review_with_topics", role=role, prompt=prompt, version=(i + 1),
+                force_new=force_new,
+                json_response=True
+                )
 
     @property
     def review_with_topics(self):
@@ -173,8 +187,10 @@ Below is a JSON with the text for a sub section of this review.
 
 {review_item}
          """
-        self.text_manipulator.new_task(task_name=task_name, role=role, prompt=prompt, version=1, force_new=force_new,
-                                       json_response=True)
+        self.text_manipulator.new_task(
+            task_name=task_name, role=role, prompt=prompt, version=1, force_new=force_new,
+            json_response=True
+            )
 
     def expand_review(self, attempts=1, force_new=False):
         for i in range(min(attempts, len(self.review_with_topics))):
@@ -187,8 +203,10 @@ Below is a JSON with the text for a sub section of this review.
                     tone = "professional"
 
             for review_item in self.review_with_topics[i]:
-                self.expand_review_item(review_item=review_item, force_new=force_new, version=(i + 1),
-                                        tone_of_voice=tone)
+                self.expand_review_item(
+                    review_item=review_item, force_new=force_new, version=(i + 1),
+                    tone_of_voice=tone
+                    )
 
     @property
     def expanded_review_html(self):
@@ -224,8 +242,10 @@ Review:
  
 {self.review_text[i]}        
             """
-            self.text_manipulator.new_task(task_name="meta", role=role, prompt=prompt, version=(i + 1),
-                                           force_new=force_new, json_response=True)
+            self.text_manipulator.new_task(
+                task_name="meta", role=role, prompt=prompt, version=(i + 1),
+                force_new=force_new, json_response=True
+                )
 
     @property
     def meta(self):
@@ -249,8 +269,10 @@ Please provide an FAQ:
 
 Review: {self.raw_translation}
             """
-            self.text_manipulator.new_task(task_name="faq", role=role, prompt=prompt, version=(i + 1),
-                                           force_new=force_new, json_response=True)
+            self.text_manipulator.new_task(
+                task_name="faq", role=role, prompt=prompt, version=(i + 1),
+                force_new=force_new, json_response=True
+                )
 
     @property
     def faq(self):
@@ -272,8 +294,10 @@ Please provide a detailed prompt for DALLE to create a feature image fitting the
 
 Review: {self.raw_translation}
         """
-        self.text_manipulator.new_task(task_name="dalle-prompt", role=role, prompt=prompt, version=1,
-                                       force_new=force_new, json_response=False)
+        self.text_manipulator.new_task(
+            task_name="dalle-prompt", role=role, prompt=prompt, version=1,
+            force_new=force_new, json_response=False
+            )
 
     @property
     def dalle_prompt(self):
@@ -311,6 +335,8 @@ Review: {self.raw_translation}
             document = Document()
             parser.add_html_to_document(html[i], document)
             filename = self.output_directory + "/" + slugify(self.thing_name) + f" (Version {i + 1}).docx"
+            if not os.path.exists(self.output_directory):
+                os.makedirs(self.output_directory)
             document.save(filename)
 
     def run_all(self, force_new=False, force_new_meta=False, attempts=2):

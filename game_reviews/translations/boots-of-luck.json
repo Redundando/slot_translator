@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_image_for_the_game_Boots_of_Luck__c011096b-0475-468e-9902-250b858262da_1.png",
-        "arved__Create_a_cartoon-style_image_for_the_game_Boots_of_Luck__c011096b-0475-468e-9902-250b858262da_3.png",
-        "arved__Create_a_cartoon-style_image_for_the_game_Boots_of_Luck__c011096b-0475-468e-9902-250b858262da_4.png",
-        "arved__Create_a_cartoon-style_image_for_the_game_Boots_of_Luck__c011096b-0475-468e-9902-250b858262da_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Boots Of Luck (Version 4).webp",
         "game_reviews/processed_images/Boots Of Luck (Version 2).webp",
         "game_reviews/processed_images/Boots Of Luck (Version 3).webp",
-        "game_reviews/processed_images/Boots Of Luck (Version 1).webp",
-        "game_reviews/processed_images/Boots Of Luck (Version 4).webp"
+        "game_reviews/processed_images/Boots Of Luck (Version 1).webp"
     ],
     "filename": "game_reviews/translations/boots-of-luck.json",
     "slug": "boots-of-luck",

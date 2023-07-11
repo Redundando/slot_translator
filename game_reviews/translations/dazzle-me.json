@@ -809,17 +809,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_3.png",
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_2.png",
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_1.png",
-        "arved__Prompt_Can_you_create_a_cartoon-style_feature_image_for__d40659dc-6da2-405f-95ca-cbc3775c063b_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dazzle Me (Version 1).webp",
         "game_reviews/processed_images/Dazzle Me (Version 3).webp",
-        "game_reviews/processed_images/Dazzle Me (Version 4).webp",
-        "game_reviews/processed_images/Dazzle Me (Version 2).webp"
+        "game_reviews/processed_images/Dazzle Me (Version 1).webp",
+        "game_reviews/processed_images/Dazzle Me (Version 2).webp",
+        "game_reviews/processed_images/Dazzle Me (Version 4).webp"
     ],
     "filename": "game_reviews/translations/dazzle-me.json",
     "slug": "dazzle-me",

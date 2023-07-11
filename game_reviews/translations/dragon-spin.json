@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_2.png",
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_3.png",
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_1.png",
-        "arved__Prompt_Design_a_cartoon-style_image_for_the_game_Dragon__131eaa92-7e10-4607-aaaf-1c11f3a19a45_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragon Spin (Version 2).webp",
-        "game_reviews/processed_images/Dragon Spin (Version 4).webp",
         "game_reviews/processed_images/Dragon Spin (Version 1).webp",
-        "game_reviews/processed_images/Dragon Spin (Version 3).webp"
+        "game_reviews/processed_images/Dragon Spin (Version 2).webp",
+        "game_reviews/processed_images/Dragon Spin (Version 3).webp",
+        "game_reviews/processed_images/Dragon Spin (Version 4).webp"
     ],
     "filename": "game_reviews/translations/dragon-spin.json",
     "slug": "dragon-spin",

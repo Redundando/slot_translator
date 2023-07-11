@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Coin-o-Mania_that_captures_th_76812b35-2fc7-4851-a6a1-f6c61afbd579_3.png",
-        "arved__Create_a_feature_image_for_Coin-o-Mania_that_captures_th_76812b35-2fc7-4851-a6a1-f6c61afbd579_4.png",
-        "arved__Create_a_feature_image_for_Coin-o-Mania_that_captures_th_76812b35-2fc7-4851-a6a1-f6c61afbd579_1.png",
-        "arved__Create_a_feature_image_for_Coin-o-Mania_that_captures_th_76812b35-2fc7-4851-a6a1-f6c61afbd579_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Coin O Mania (Version 4).webp",
-        "game_reviews/processed_images/Coin O Mania (Version 1).webp",
         "game_reviews/processed_images/Coin O Mania (Version 3).webp",
-        "game_reviews/processed_images/Coin O Mania (Version 2).webp"
+        "game_reviews/processed_images/Coin O Mania (Version 2).webp",
+        "game_reviews/processed_images/Coin O Mania (Version 1).webp"
     ],
     "filename": "game_reviews/translations/coin-o-mania.json",
     "slug": "coin-o-mania",

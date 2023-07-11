@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Book_of_Rampage__e6929313-f8fe-4b12-9523-616306602e28_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Book Of Rampage 2 (Version 1).webp",
-        "game_reviews/processed_images/Book Of Rampage 2 (Version 4).webp",
         "game_reviews/processed_images/Book Of Rampage 2 (Version 3).webp",
-        "game_reviews/processed_images/Book Of Rampage 2 (Version 2).webp"
+        "game_reviews/processed_images/Book Of Rampage 2 (Version 2).webp",
+        "game_reviews/processed_images/Book Of Rampage 2 (Version 4).webp"
     ],
     "filename": "game_reviews/translations/book-of-rampage-2.json",
     "slug": "book-of-rampage-2",

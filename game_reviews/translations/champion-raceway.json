@@ -811,17 +811,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_Champion_Racewa_92c7afe8-29bf-4071-a514-dabad16be3e2_1.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Champion_Racewa_92c7afe8-29bf-4071-a514-dabad16be3e2_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Champion_Racewa_92c7afe8-29bf-4071-a514-dabad16be3e2_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_Champion_Racewa_92c7afe8-29bf-4071-a514-dabad16be3e2_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Champion Raceway (Version 3).webp",
-        "game_reviews/processed_images/Champion Raceway (Version 2).webp",
         "game_reviews/processed_images/Champion Raceway (Version 1).webp",
-        "game_reviews/processed_images/Champion Raceway (Version 4).webp"
+        "game_reviews/processed_images/Champion Raceway (Version 4).webp",
+        "game_reviews/processed_images/Champion Raceway (Version 3).webp",
+        "game_reviews/processed_images/Champion Raceway (Version 2).webp"
     ],
     "filename": "game_reviews/translations/champion-raceway.json",
     "slug": "champion-raceway",

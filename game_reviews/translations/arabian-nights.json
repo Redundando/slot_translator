@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/arabian-nights.json",
-    "raw_feature_images": [
-        "arved__Create_an_eye-catching_feature_image_for_Arabian_Nights__e37bfada-cf5f-44af-9982-ce616c349a33_4.png",
-        "arved__Create_an_eye-catching_feature_image_for_Arabian_Nights__e37bfada-cf5f-44af-9982-ce616c349a33_1.png",
-        "arved__Create_an_eye-catching_feature_image_for_Arabian_Nights__e37bfada-cf5f-44af-9982-ce616c349a33_3.png",
-        "arved__Create_an_eye-catching_feature_image_for_Arabian_Nights__e37bfada-cf5f-44af-9982-ce616c349a33_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Arabian Nights (Version 2).webp",
         "game_reviews/processed_images/Arabian Nights (Version 3).webp",
-        "game_reviews/processed_images/Arabian Nights (Version 1).webp",
         "game_reviews/processed_images/Arabian Nights (Version 4).webp",
-        "game_reviews/processed_images/Arabian Nights (Version 2).webp"
+        "game_reviews/processed_images/Arabian Nights (Version 1).webp"
     ],
     "slug": "arabian-nights",
     "name": "Arabian Nights",

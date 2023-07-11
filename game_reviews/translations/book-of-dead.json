@@ -887,17 +887,12 @@
         }
     ],
     "filename": "game_reviews/translations/book-of-dead.json",
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_4.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_3.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_d25ce082-d1f7-4f20-9dd2-67a96d4d65e8_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Book Of Dead (Version 4).webp",
         "game_reviews/processed_images/Book Of Dead (Version 3).webp",
-        "game_reviews/processed_images/Book Of Dead (Version 2).webp",
         "game_reviews/processed_images/Book Of Dead (Version 1).webp",
-        "game_reviews/processed_images/Book Of Dead (Version 4).webp"
+        "game_reviews/processed_images/Book Of Dead (Version 2).webp"
     ],
     "slug": "book-of-dead",
     "name": "Book of Dead",

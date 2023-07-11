@@ -812,16 +812,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cats_slot_game_by_IGT_that_sh_de9114a7-1093-48ab-a05f-bd9a5db0f46e_1.png",
-        "arved__Create_a_feature_image_for_Cats_slot_game_by_IGT_that_sh_de9114a7-1093-48ab-a05f-bd9a5db0f46e_4.png",
-        "arved__Create_a_feature_image_for_Cats_slot_game_by_IGT_that_sh_de9114a7-1093-48ab-a05f-bd9a5db0f46e_3.png",
-        "arved__Create_a_feature_image_for_Cats_slot_game_by_IGT_that_sh_de9114a7-1093-48ab-a05f-bd9a5db0f46e_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Cats (Version 1).webp",
         "game_reviews/processed_images/Cats (Version 4).webp",
         "game_reviews/processed_images/Cats (Version 3).webp",
-        "game_reviews/processed_images/Cats (Version 1).webp",
         "game_reviews/processed_images/Cats (Version 2).webp"
     ],
     "filename": "game_reviews/translations/cats.json",

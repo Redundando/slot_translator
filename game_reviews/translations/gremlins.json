@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/gremlins.json",
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_681133cb-b0bb-4287-be52-20a21ba750ff_4.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_681133cb-b0bb-4287-be52-20a21ba750ff_3.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_681133cb-b0bb-4287-be52-20a21ba750ff_1.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_681133cb-b0bb-4287-be52-20a21ba750ff_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Gremlins (Version 3).webp",
         "game_reviews/processed_images/Gremlins (Version 4).webp",
         "game_reviews/processed_images/Gremlins (Version 1).webp",
-        "game_reviews/processed_images/Gremlins (Version 2).webp"
+        "game_reviews/processed_images/Gremlins (Version 2).webp",
+        "game_reviews/processed_images/Gremlins (Version 3).webp"
     ],
     "slug": "gremlins",
     "name": "Gremlins",

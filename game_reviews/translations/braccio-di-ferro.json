@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_the_Braccio_di_Ferro_s_a1898296-73aa-43f3-90f8-ec7752e33866_4.png",
-        "arved__Prompt_Create_a_feature_image_for_the_Braccio_di_Ferro_s_a1898296-73aa-43f3-90f8-ec7752e33866_1.png",
-        "arved__Prompt_Create_a_feature_image_for_the_Braccio_di_Ferro_s_a1898296-73aa-43f3-90f8-ec7752e33866_2.png",
-        "arved__Prompt_Create_a_feature_image_for_the_Braccio_di_Ferro_s_a1898296-73aa-43f3-90f8-ec7752e33866_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Braccio Di Ferro (Version 4).webp",
         "game_reviews/processed_images/Braccio Di Ferro (Version 2).webp",
         "game_reviews/processed_images/Braccio Di Ferro (Version 1).webp",
-        "game_reviews/processed_images/Braccio Di Ferro (Version 3).webp",
-        "game_reviews/processed_images/Braccio Di Ferro (Version 4).webp"
+        "game_reviews/processed_images/Braccio Di Ferro (Version 3).webp"
     ],
     "filename": "game_reviews/translations/braccio-di-ferro.json",
     "slug": "braccio-di-ferro",

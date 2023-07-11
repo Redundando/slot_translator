@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Please_create_a_feature_image_for_the_slot_game_D_5f642b3a-6fbd-4f43-802a-1454783d44ca_2.png",
-        "arved__Prompt_Please_create_a_feature_image_for_the_slot_game_D_5f642b3a-6fbd-4f43-802a-1454783d44ca_3.png",
-        "arved__Prompt_Please_create_a_feature_image_for_the_slot_game_D_5f642b3a-6fbd-4f43-802a-1454783d44ca_1.png",
-        "arved__Prompt_Please_create_a_feature_image_for_the_slot_game_D_5f642b3a-6fbd-4f43-802a-1454783d44ca_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Double Happiness (Version 3).webp",
         "game_reviews/processed_images/Double Happiness (Version 2).webp",
+        "game_reviews/processed_images/Double Happiness (Version 4).webp",
         "game_reviews/processed_images/Double Happiness (Version 1).webp",
-        "game_reviews/processed_images/Double Happiness (Version 4).webp"
+        "game_reviews/processed_images/Double Happiness (Version 3).webp"
     ],
     "filename": "game_reviews/translations/double-happiness.json",
     "slug": "double-happiness",

@@ -809,17 +809,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Dee_b64f8d24-ff39-4488-9c18-8bdf31b5c8b3_4.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Dee_b64f8d24-ff39-4488-9c18-8bdf31b5c8b3_2.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Dee_b64f8d24-ff39-4488-9c18-8bdf31b5c8b3_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_the_game_Dee_b64f8d24-ff39-4488-9c18-8bdf31b5c8b3_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Deep Sea (Version 3).webp",
         "game_reviews/processed_images/Deep Sea (Version 1).webp",
         "game_reviews/processed_images/Deep Sea (Version 2).webp",
-        "game_reviews/processed_images/Deep Sea (Version 4).webp",
-        "game_reviews/processed_images/Deep Sea (Version 3).webp"
+        "game_reviews/processed_images/Deep Sea (Version 4).webp"
     ],
     "filename": "game_reviews/translations/deep-sea.json",
     "slug": "deep-sea",

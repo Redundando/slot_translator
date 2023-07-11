@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Cash_Wizard__99829713-b63b-424b-b471-b364fa2ecef1_4.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Cash_Wizard__99829713-b63b-424b-b471-b364fa2ecef1_3.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Cash_Wizard__99829713-b63b-424b-b471-b364fa2ecef1_1.png",
-        "arved__Prompt_for_DALLE_Create_a_feature_image_for_Cash_Wizard__99829713-b63b-424b-b471-b364fa2ecef1_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cash Wizard (Version 4).webp",
         "game_reviews/processed_images/Cash Wizard (Version 1).webp",
         "game_reviews/processed_images/Cash Wizard (Version 2).webp",
-        "game_reviews/processed_images/Cash Wizard (Version 3).webp"
+        "game_reviews/processed_images/Cash Wizard (Version 3).webp",
+        "game_reviews/processed_images/Cash Wizard (Version 4).webp"
     ],
     "filename": "game_reviews/translations/cash-wizard.json",
     "slug": "cash-wizard",

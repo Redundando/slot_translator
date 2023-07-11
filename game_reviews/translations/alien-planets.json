@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/alien-planets.json",
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_that_showcases_a_ha_f19df7c7-90aa-4079-8251-3d2f2cda9f45_1.png",
-        "arved__Create_a_cartoon-style_feature_image_that_showcases_a_ha_f19df7c7-90aa-4079-8251-3d2f2cda9f45_2.png",
-        "arved__Create_a_cartoon-style_feature_image_that_showcases_a_ha_f19df7c7-90aa-4079-8251-3d2f2cda9f45_3.png",
-        "arved__Create_a_cartoon-style_feature_image_that_showcases_a_ha_f19df7c7-90aa-4079-8251-3d2f2cda9f45_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Alien Planets (Version 1).webp",
         "game_reviews/processed_images/Alien Planets (Version 2).webp",
         "game_reviews/processed_images/Alien Planets (Version 3).webp",
-        "game_reviews/processed_images/Alien Planets (Version 4).webp",
-        "game_reviews/processed_images/Alien Planets (Version 1).webp"
+        "game_reviews/processed_images/Alien Planets (Version 4).webp"
     ],
     "slug": "alien-planets",
     "name": "Alien Planets",

@@ -809,16 +809,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_that_captures_the_essence_of_Cher_205b80c8-f519-446e-a0b2-9ba5c4b69a79_4.png",
-        "arved__Create_a_feature_image_that_captures_the_essence_of_Cher_205b80c8-f519-446e-a0b2-9ba5c4b69a79_3.png",
-        "arved__Create_a_feature_image_that_captures_the_essence_of_Cher_205b80c8-f519-446e-a0b2-9ba5c4b69a79_1.png",
-        "arved__Create_a_feature_image_that_captures_the_essence_of_Cher_205b80c8-f519-446e-a0b2-9ba5c4b69a79_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cherrypop (Version 2).webp",
-        "game_reviews/processed_images/Cherrypop (Version 3).webp",
         "game_reviews/processed_images/Cherrypop (Version 1).webp",
+        "game_reviews/processed_images/Cherrypop (Version 3).webp",
+        "game_reviews/processed_images/Cherrypop (Version 2).webp",
         "game_reviews/processed_images/Cherrypop (Version 4).webp"
     ],
     "filename": "game_reviews/translations/cherrypop.json",

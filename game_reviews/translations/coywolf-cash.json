@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_1.png",
-        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_3.png",
-        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_4.png",
-        "arved__Please_create_a_cartoon_image_for_Coywolf_Cash_featuring_c8cd00bd-8ac4-4f67-90a5-d00286a5b400_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Coywolf Cash (Version 4).webp",
-        "game_reviews/processed_images/Coywolf Cash (Version 1).webp",
         "game_reviews/processed_images/Coywolf Cash (Version 2).webp",
-        "game_reviews/processed_images/Coywolf Cash (Version 3).webp"
+        "game_reviews/processed_images/Coywolf Cash (Version 3).webp",
+        "game_reviews/processed_images/Coywolf Cash (Version 1).webp",
+        "game_reviews/processed_images/Coywolf Cash (Version 4).webp"
     ],
     "filename": "game_reviews/translations/coywolf-cash.json",
     "slug": "coywolf-cash",

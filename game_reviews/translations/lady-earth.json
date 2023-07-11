@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/lady-earth.json",
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Lady_Eart_5e67eb7d-9334-4740-b50a-9e64c961ca50_2.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Lady_Eart_5e67eb7d-9334-4740-b50a-9e64c961ca50_3.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Lady_Eart_5e67eb7d-9334-4740-b50a-9e64c961ca50_1.png",
-        "arved__Prompt_Create_a_feature_image_fitting_the_game_Lady_Eart_5e67eb7d-9334-4740-b50a-9e64c961ca50_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Lady Earth (Version 3).webp",
         "game_reviews/processed_images/Lady Earth (Version 2).webp",
-        "game_reviews/processed_images/Lady Earth (Version 1).webp",
         "game_reviews/processed_images/Lady Earth (Version 4).webp",
-        "game_reviews/processed_images/Lady Earth (Version 3).webp"
+        "game_reviews/processed_images/Lady Earth (Version 1).webp"
     ],
     "slug": "lady-earth",
     "name": "Lady Earth",

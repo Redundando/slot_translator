@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_the_game_Don_Corlimone_4bce1abc-1bdc-41c2-a763-0dd539d2020b_2.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Don_Corlimone_4bce1abc-1bdc-41c2-a763-0dd539d2020b_1.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Don_Corlimone_4bce1abc-1bdc-41c2-a763-0dd539d2020b_4.png",
-        "arved__Prompt_Create_a_feature_image_for_the_game_Don_Corlimone_4bce1abc-1bdc-41c2-a763-0dd539d2020b_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Don Corlimone (Version 2).webp",
         "game_reviews/processed_images/Don Corlimone (Version 4).webp",
         "game_reviews/processed_images/Don Corlimone (Version 1).webp",
-        "game_reviews/processed_images/Don Corlimone (Version 3).webp",
-        "game_reviews/processed_images/Don Corlimone (Version 2).webp"
+        "game_reviews/processed_images/Don Corlimone (Version 3).webp"
     ],
     "filename": "game_reviews/translations/don-corlimone.json",
     "slug": "don-corlimone",

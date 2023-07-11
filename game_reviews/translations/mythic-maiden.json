@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/mythic-maiden.json",
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_4.png",
-        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_2.png",
-        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_1.png",
-        "arved__Prompt_Create_a_Cartoon-Style_Feature_Image_for_Mythic_M_b81e2b46-6105-4060-87cd-5965f754619c_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Mythic Maiden (Version 3).webp",
         "game_reviews/processed_images/Mythic Maiden (Version 2).webp",
         "game_reviews/processed_images/Mythic Maiden (Version 4).webp",
-        "game_reviews/processed_images/Mythic Maiden (Version 1).webp",
-        "game_reviews/processed_images/Mythic Maiden (Version 3).webp"
+        "game_reviews/processed_images/Mythic Maiden (Version 1).webp"
     ],
     "slug": "mythic-maiden",
     "name": "Mythic Maiden",

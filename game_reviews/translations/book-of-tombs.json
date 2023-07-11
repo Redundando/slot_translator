@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_1.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_3.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_2.png",
-        "arved__Create_a_cartoon-style_feature_image_for_the_game_Book_o_265c4775-84bc-4113-b329-ddd8c917f858_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Book Of Tombs (Version 3).webp",
         "game_reviews/processed_images/Book Of Tombs (Version 1).webp",
-        "game_reviews/processed_images/Book Of Tombs (Version 2).webp",
         "game_reviews/processed_images/Book Of Tombs (Version 4).webp",
-        "game_reviews/processed_images/Book Of Tombs (Version 3).webp"
+        "game_reviews/processed_images/Book Of Tombs (Version 2).webp"
     ],
     "filename": "game_reviews/translations/book-of-tombs.json",
     "slug": "book-of-tombs",

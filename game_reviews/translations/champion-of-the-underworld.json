@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Please_create_a_bold_and_eye-catching_feature_image_for__d766cb0b-abd1-425e-9541-c83cff3a3ac8_1.png",
-        "arved__Please_create_a_bold_and_eye-catching_feature_image_for__d766cb0b-abd1-425e-9541-c83cff3a3ac8_4.png",
-        "arved__Please_create_a_bold_and_eye-catching_feature_image_for__d766cb0b-abd1-425e-9541-c83cff3a3ac8_2.png",
-        "arved__Please_create_a_bold_and_eye-catching_feature_image_for__d766cb0b-abd1-425e-9541-c83cff3a3ac8_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Champion Of The Underworld (Version 1).webp",
-        "game_reviews/processed_images/Champion Of The Underworld (Version 3).webp",
         "game_reviews/processed_images/Champion Of The Underworld (Version 2).webp",
-        "game_reviews/processed_images/Champion Of The Underworld (Version 4).webp"
+        "game_reviews/processed_images/Champion Of The Underworld (Version 3).webp",
+        "game_reviews/processed_images/Champion Of The Underworld (Version 4).webp",
+        "game_reviews/processed_images/Champion Of The Underworld (Version 1).webp"
     ],
     "filename": "game_reviews/translations/champion-of-the-underworld.json",
     "slug": "champion-of-the-underworld",

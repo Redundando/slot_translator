@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/golden-dragon.json",
-    "raw_feature_images": [
-        "arved__Prompt_Please_create_a_feature_image_for_Golden_Dragon_t_797ac047-00ad-42d4-a254-2fd6e423cba1_1.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Golden_Dragon_t_797ac047-00ad-42d4-a254-2fd6e423cba1_2.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Golden_Dragon_t_797ac047-00ad-42d4-a254-2fd6e423cba1_4.png",
-        "arved__Prompt_Please_create_a_feature_image_for_Golden_Dragon_t_797ac047-00ad-42d4-a254-2fd6e423cba1_3.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Golden Dragon (Version 2).webp",
         "game_reviews/processed_images/Golden Dragon (Version 1).webp",
         "game_reviews/processed_images/Golden Dragon (Version 4).webp",
-        "game_reviews/processed_images/Golden Dragon (Version 3).webp",
-        "game_reviews/processed_images/Golden Dragon (Version 2).webp"
+        "game_reviews/processed_images/Golden Dragon (Version 3).webp"
     ],
     "slug": "golden-dragon",
     "name": "Golden Dragon",

@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/helloween.json",
-    "raw_feature_images": [
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_a7abf7d4-e21c-4100-9767-335d930ea178_4.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_a7abf7d4-e21c-4100-9767-335d930ea178_1.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_a7abf7d4-e21c-4100-9767-335d930ea178_3.png",
-        "arved__DALLE_please_create_a_cartoon-style_feature_image_for_th_a7abf7d4-e21c-4100-9767-335d930ea178_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Helloween (Version 3).webp",
         "game_reviews/processed_images/Helloween (Version 1).webp",
         "game_reviews/processed_images/Helloween (Version 2).webp",
-        "game_reviews/processed_images/Helloween (Version 4).webp",
-        "game_reviews/processed_images/Helloween (Version 3).webp"
+        "game_reviews/processed_images/Helloween (Version 4).webp"
     ],
     "slug": "helloween",
     "name": "Helloween",

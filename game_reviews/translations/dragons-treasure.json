@@ -812,16 +812,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_3.png",
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_1.png",
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_4.png",
-        "arved__Prompt_Create_a_fun_and_exciting_feature_image_that_fits_5c51f126-4b5b-48d9-ae83-5d433b382bc5_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Dragons Treasure (Version 3).webp",
-        "game_reviews/processed_images/Dragons Treasure (Version 4).webp",
         "game_reviews/processed_images/Dragons Treasure (Version 1).webp",
+        "game_reviews/processed_images/Dragons Treasure (Version 4).webp",
+        "game_reviews/processed_images/Dragons Treasure (Version 3).webp",
         "game_reviews/processed_images/Dragons Treasure (Version 2).webp"
     ],
     "filename": "game_reviews/translations/dragons-treasure.json",

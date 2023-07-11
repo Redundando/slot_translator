@@ -886,17 +886,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Cleopatra_Plus_that_embodies__40d67708-96ef-4a5b-9d22-13e65af9e2a2_4.png",
-        "arved__Create_a_feature_image_for_Cleopatra_Plus_that_embodies__40d67708-96ef-4a5b-9d22-13e65af9e2a2_3.png",
-        "arved__Create_a_feature_image_for_Cleopatra_Plus_that_embodies__40d67708-96ef-4a5b-9d22-13e65af9e2a2_2.png",
-        "arved__Create_a_feature_image_for_Cleopatra_Plus_that_embodies__40d67708-96ef-4a5b-9d22-13e65af9e2a2_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Cleopatra Plus (Version 2).webp",
-        "game_reviews/processed_images/Cleopatra Plus (Version 4).webp",
         "game_reviews/processed_images/Cleopatra Plus (Version 3).webp",
-        "game_reviews/processed_images/Cleopatra Plus (Version 1).webp"
+        "game_reviews/processed_images/Cleopatra Plus (Version 2).webp",
+        "game_reviews/processed_images/Cleopatra Plus (Version 1).webp",
+        "game_reviews/processed_images/Cleopatra Plus (Version 4).webp"
     ],
     "filename": "game_reviews/translations/cleopatra-plus.json",
     "slug": "cleopatra-plus",

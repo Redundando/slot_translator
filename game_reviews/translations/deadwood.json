@@ -1034,16 +1034,11 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_the_Deadwood_slot_game_that_s_504661f6-49fa-475f-ab76-95feafa5f137_3.png",
-        "arved__Create_a_feature_image_for_the_Deadwood_slot_game_that_s_504661f6-49fa-475f-ab76-95feafa5f137_4.png",
-        "arved__Create_a_feature_image_for_the_Deadwood_slot_game_that_s_504661f6-49fa-475f-ab76-95feafa5f137_2.png",
-        "arved__Create_a_feature_image_for_the_Deadwood_slot_game_that_s_504661f6-49fa-475f-ab76-95feafa5f137_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Deadwood (Version 2).webp",
         "game_reviews/processed_images/Deadwood (Version 3).webp",
         "game_reviews/processed_images/Deadwood (Version 1).webp",
-        "game_reviews/processed_images/Deadwood (Version 2).webp",
         "game_reviews/processed_images/Deadwood (Version 4).webp"
     ],
     "filename": "game_reviews/translations/deadwood.json",

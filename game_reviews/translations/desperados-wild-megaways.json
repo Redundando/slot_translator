@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Prompt_Create_a_feature_image_for_Desperados_Wild_Megawa_15b8f975-f409-45b2-8f68-154a20aca6f2_1.png",
-        "arved__Prompt_Create_a_feature_image_for_Desperados_Wild_Megawa_15b8f975-f409-45b2-8f68-154a20aca6f2_2.png",
-        "arved__Prompt_Create_a_feature_image_for_Desperados_Wild_Megawa_15b8f975-f409-45b2-8f68-154a20aca6f2_3.png",
-        "arved__Prompt_Create_a_feature_image_for_Desperados_Wild_Megawa_15b8f975-f409-45b2-8f68-154a20aca6f2_4.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Desperados Wild Megaways (Version 1).webp",
         "game_reviews/processed_images/Desperados Wild Megaways (Version 4).webp",
         "game_reviews/processed_images/Desperados Wild Megaways (Version 3).webp",
-        "game_reviews/processed_images/Desperados Wild Megaways (Version 2).webp",
-        "game_reviews/processed_images/Desperados Wild Megaways (Version 1).webp"
+        "game_reviews/processed_images/Desperados Wild Megaways (Version 2).webp"
     ],
     "filename": "game_reviews/translations/desperados-wild-megaways.json",
     "slug": "desperados-wild-megaways",

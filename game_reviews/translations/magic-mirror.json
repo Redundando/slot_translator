@@ -813,17 +813,12 @@
         }
     ],
     "filename": "game_reviews/translations/magic-mirror.json",
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_fitting_the_game_Magic_Mirror_DAL_19d87203-05c4-4ebc-ab3b-570b39f5f4fa_3.png",
-        "arved__Create_a_feature_image_fitting_the_game_Magic_Mirror_DAL_19d87203-05c4-4ebc-ab3b-570b39f5f4fa_4.png",
-        "arved__Create_a_feature_image_fitting_the_game_Magic_Mirror_DAL_19d87203-05c4-4ebc-ab3b-570b39f5f4fa_1.png",
-        "arved__Create_a_feature_image_fitting_the_game_Magic_Mirror_DAL_19d87203-05c4-4ebc-ab3b-570b39f5f4fa_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
+        "game_reviews/processed_images/Magic Mirror (Version 2).webp",
         "game_reviews/processed_images/Magic Mirror (Version 3).webp",
         "game_reviews/processed_images/Magic Mirror (Version 1).webp",
-        "game_reviews/processed_images/Magic Mirror (Version 4).webp",
-        "game_reviews/processed_images/Magic Mirror (Version 2).webp"
+        "game_reviews/processed_images/Magic Mirror (Version 4).webp"
     ],
     "slug": "magic-mirror",
     "name": "Magic Mirror",

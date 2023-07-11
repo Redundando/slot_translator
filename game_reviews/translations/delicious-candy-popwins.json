@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_3.png",
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_4.png",
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_1.png",
-        "arved__For_the_feature_image_of_Delicious_Candy_PopWins_please__a0c929fb-c866-45e8-9446-4624249bc67f_2.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Delicious Candy Popwins (Version 4).webp",
+        "game_reviews/processed_images/Delicious Candy Popwins (Version 1).webp",
         "game_reviews/processed_images/Delicious Candy Popwins (Version 2).webp",
-        "game_reviews/processed_images/Delicious Candy Popwins (Version 3).webp",
-        "game_reviews/processed_images/Delicious Candy Popwins (Version 1).webp"
+        "game_reviews/processed_images/Delicious Candy Popwins (Version 3).webp"
     ],
     "filename": "game_reviews/translations/delicious-candy-popwins.json",
     "slug": "delicious-candy-popwins",

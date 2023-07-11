@@ -812,17 +812,12 @@
             }
         }
     ],
-    "raw_feature_images": [
-        "arved__Create_a_feature_image_for_Combat_Masters_Design_a_carto_5c8dcf44-80f9-455f-be41-dcbd9cb0f8ca_3.png",
-        "arved__Create_a_feature_image_for_Combat_Masters_Design_a_carto_5c8dcf44-80f9-455f-be41-dcbd9cb0f8ca_4.png",
-        "arved__Create_a_feature_image_for_Combat_Masters_Design_a_carto_5c8dcf44-80f9-455f-be41-dcbd9cb0f8ca_2.png",
-        "arved__Create_a_feature_image_for_Combat_Masters_Design_a_carto_5c8dcf44-80f9-455f-be41-dcbd9cb0f8ca_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
         "game_reviews/processed_images/Combat Masters (Version 3).webp",
-        "game_reviews/processed_images/Combat Masters (Version 2).webp",
         "game_reviews/processed_images/Combat Masters (Version 1).webp",
-        "game_reviews/processed_images/Combat Masters (Version 4).webp"
+        "game_reviews/processed_images/Combat Masters (Version 4).webp",
+        "game_reviews/processed_images/Combat Masters (Version 2).webp"
     ],
     "filename": "game_reviews/translations/combat-masters.json",
     "slug": "combat-masters",

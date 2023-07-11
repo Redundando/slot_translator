@@ -32,17 +32,6 @@ def load_url(url="") -> BeautifulSoup:
     return BeautifulSoup(webpage, 'html.parser')
 
 
-def load_games_for_studio(url="https://www.slotjava.it/software/netent/"):
-    soup = load_url(url)
-    cards = soup.find_all("a", class_="card_plain")
-    games = []
-    for card in cards:
-        name = card.find("h3").text
-        href = card["href"]
-        games.append({"name": name, "href": href})
-    print(games)
-
-
 def download_images(soup: BeautifulSoup) -> []:
     result = []
     images = soup.find_all("img")
@@ -62,7 +51,7 @@ def download_images(soup: BeautifulSoup) -> []:
     return result
 
 
-def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/", download_images=False):
+def get_game_review(url="", download_images=False):
     print(f"Retrieving game review {url}")
     review = {}
     soup = load_url(url)
@@ -83,8 +72,10 @@ def get_game_review(url="https://www.slotjava.it/slot/book-of-ra-deluxe/", downl
     return review
 
 
-def save_game_review(language="it", url="https://www.slotjava.it/slot/book-of-ra-deluxe/"):
+def save_game_review(language="it", url=""):
     review = get_game_review(url)
+    if not os.path.exists("game_reviews/" + language):
+        os.makedirs("game_reviews/" + language)
     filename = "game_reviews/" + language + "/" + slugify(review["name"]) + ".json"
     with open(filename, "w", encoding='utf8') as f:
         print(f"Saving {filename}")
@@ -109,5 +100,4 @@ def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitema
 
 
 if __name__ == '__main__':
-    # save_all_game_reviews()
     pass

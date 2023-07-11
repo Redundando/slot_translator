@@ -741,17 +741,12 @@
         }
     ],
     "filename": "game_reviews/translations/gem-machine.json",
-    "raw_feature_images": [
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_97dfbabd-a74f-4608-80aa-0a22c9a464ab_3.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_97dfbabd-a74f-4608-80aa-0a22c9a464ab_4.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_97dfbabd-a74f-4608-80aa-0a22c9a464ab_2.png",
-        "arved__Prompt_for_DALLE_Create_a_cartoon-style_feature_image_fo_97dfbabd-a74f-4608-80aa-0a22c9a464ab_1.png"
-    ],
+    "raw_feature_images": [],
     "processed_feature_images": [
-        "game_reviews/processed_images/Gem Machine (Version 4).webp",
-        "game_reviews/processed_images/Gem Machine (Version 2).webp",
         "game_reviews/processed_images/Gem Machine (Version 3).webp",
-        "game_reviews/processed_images/Gem Machine (Version 1).webp"
+        "game_reviews/processed_images/Gem Machine (Version 1).webp",
+        "game_reviews/processed_images/Gem Machine (Version 2).webp",
+        "game_reviews/processed_images/Gem Machine (Version 4).webp"
     ],
     "slug": "gem-machine",
     "name": "Gem Machine",
