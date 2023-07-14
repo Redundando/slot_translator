@@ -1,6 +1,10 @@
 # slot_translator
 
-Best IDE to run the program: [Pycharm](https://www.jetbrains.com/pycharm/download/)
+The scripts in this repository translate and optimize the slot reviews on slotjava.it and upload the translations to slotjava.com
+
+- You need a [ChatGPT API key](https://platform.openai.com/account/api-keys) to run the scripts.
+- Enter the key in __config.py__ (rename __config.py.example__)
+- To upload data to slotjava.com, enter the login credentials in __config.py__
 
 There are several python scripts in this project:
 
@@ -8,7 +12,7 @@ There are several python scripts in this project:
 _can be run__
 
 - Downloads all slot reviews from slotjava.it
-- Stores data as json in directory `game_reviews/it`
+- Stores data as JSON in the directory `game_reviews/it`
 - Downloads all images associated with the game and stores them in `images`
 
 This little script is just used to get all the texts from slotjava.it
@@ -18,20 +22,18 @@ _can't be run_
 
 Module containing a class responsible for talking to openAI.
 
-Currently my own API_KEY is stored in here and used.
-
 ## text_manipulator.py
 _can't be run_
 
 Module containing a class that:
 - sends requests to chatGPT
-- stores reponses in json file
-- re-uses already stored responses when querry is repeated
+- stores responses in JSON file
+- re-uses already stored responses when query is repeated
 
 ## slot_translator.py
 _can be run_
 
-- Takes a text (defined in the program)
+- Loads the text stored in the file __slot_review.txt__
 - Translates text
 - Runs multiple chatGPT prompts to create a coherent English slot review
 - Creates two reviews as `docx`in the directory `game_reviews/translations`
