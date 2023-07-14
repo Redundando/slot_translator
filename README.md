@@ -76,7 +76,7 @@ Runs a few fixes for all uploaded reviews:
 
 - Shortens metas if they're too long
 - Changes all currencies from Euro to Dollar
-- If the review starts with a <h2> headline, it removes it
+- If the review starts with a h2 headline, it removes it
 - Properly capitalizes headlines
 - Removes some blatant AI sentences (e.g. "But wait, there's more!")
 - Inserts internal links as defined in `internal_link_anchors.py`
