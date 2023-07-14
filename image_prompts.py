@@ -40,7 +40,7 @@ def de_sluggify(slug=""):
     return slug.replace("-", " ").title()
 
 
-def list_all_image_prompts(json_directory=""):
+def list_all_image_prompts(json_directory="game_reviews/translations"):
     jsons = glob.glob(f"{json_directory}/*.json")
     if not os.path.exists("images/prompts"):
         os.makedirs("images/prompts")
@@ -136,5 +136,6 @@ def create_all_webp_images(directory="game_reviews/translations"):
 
 if __name__ == "__main__":
     #list_all_image_prompts(json_directory="game_reviews/translations")
-    add_all_image_datas()
-    create_all_webp_images()
+    #add_all_image_datas()
+    #create_all_webp_images()
+    pass

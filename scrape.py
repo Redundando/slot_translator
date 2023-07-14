@@ -51,7 +51,7 @@ def download_images(soup: BeautifulSoup) -> []:
     return result
 
 
-def get_game_review(url="", download_images=False):
+def get_game_review(url="", with_images=False):
     print(f"Retrieving game review {url}")
     review = {}
     soup = load_url(url)
@@ -64,7 +64,7 @@ def get_game_review(url="", download_images=False):
     else:
         review["studio"] = None
     review["text"] = article.text
-    if download_images:
+    if with_images:
         review["images"] = download_images(article)
         ft_image = soup.find("img", class_="review__slot-image")
         review["featured_image"] = download_images(ft_image.parent)
@@ -72,8 +72,8 @@ def get_game_review(url="", download_images=False):
     return review
 
 
-def save_game_review(language="it", url=""):
-    review = get_game_review(url)
+def save_game_review(language="it", url="", download_images=False):
+    review = get_game_review(url, with_images=download_images)
     if not os.path.exists("game_reviews/" + language):
         os.makedirs("game_reviews/" + language)
     filename = "game_reviews/" + language + "/" + slugify(review["name"]) + ".json"
@@ -96,8 +96,8 @@ def load_all_game_urls(url="https://www.slotjava.it/sitemap/"):
 def save_all_game_reviews(language="it", sitemap="https://www.slotjava.it/sitemap/"):
     game_urls = load_all_game_urls(sitemap)
     for game_url in game_urls:
-        save_game_review(language, game_url)
+        save_game_review(language, game_url, download_images=True)
 
 
 if __name__ == '__main__':
-    pass
+    save_all_game_reviews()
