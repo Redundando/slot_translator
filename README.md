@@ -9,7 +9,7 @@ The scripts in this repository translate and optimize the slot reviews on slotja
 There are several python scripts in this project:
 
 ## scrape.py
-_can be run__
+_can be run_
 
 - Downloads all slot reviews from slotjava.it
 - Stores data as JSON in the directory `game_reviews/it`
